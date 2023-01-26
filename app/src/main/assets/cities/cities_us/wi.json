@@ -1,0 +1,4639 @@
+[
+{
+	"City": "Milwaukee",
+	"State": "WI",
+	"latitude": 43.0642,
+	"longitude": -87.9673
+},
+{
+	"City": "Madison",
+	"State": "WI",
+	"latitude": 43.0826,
+	"longitude": -89.3931
+},
+{
+	"City": "Appleton",
+	"State": "WI",
+	"latitude": 44.2779,
+	"longitude": -88.3891
+},
+{
+	"City": "Green Bay",
+	"State": "WI",
+	"latitude": 44.515,
+	"longitude": -87.9896
+},
+{
+	"City": "Racine",
+	"State": "WI",
+	"latitude": 42.7274,
+	"longitude": -87.8135
+},
+{
+	"City": "Kenosha",
+	"State": "WI",
+	"latitude": 42.5864,
+	"longitude": -87.8765
+},
+{
+	"City": "Eau Claire",
+	"State": "WI",
+	"latitude": 44.8199,
+	"longitude": -91.4949
+},
+{
+	"City": "La Crosse",
+	"State": "WI",
+	"latitude": 43.824,
+	"longitude": -91.2268
+},
+{
+	"City": "Oshkosh",
+	"State": "WI",
+	"latitude": 44.0228,
+	"longitude": -88.5619
+},
+{
+	"City": "Wausau",
+	"State": "WI",
+	"latitude": 44.962,
+	"longitude": -89.6459
+},
+{
+	"City": "Waukesha",
+	"State": "WI",
+	"latitude": 43.0087,
+	"longitude": -88.2464
+},
+{
+	"City": "Janesville",
+	"State": "WI",
+	"latitude": 42.6855,
+	"longitude": -89.0136
+},
+{
+	"City": "West Bend",
+	"State": "WI",
+	"latitude": 43.4184,
+	"longitude": -88.1824
+},
+{
+	"City": "Sheboygan",
+	"State": "WI",
+	"latitude": 43.7403,
+	"longitude": -87.7316
+},
+{
+	"City": "Beloit",
+	"State": "WI",
+	"latitude": 42.523,
+	"longitude": -89.0184
+},
+{
+	"City": "West Allis",
+	"State": "WI",
+	"latitude": 43.0068,
+	"longitude": -88.0296
+},
+{
+	"City": "Fond du Lac",
+	"State": "WI",
+	"latitude": 43.7718,
+	"longitude": -88.4396
+},
+{
+	"City": "Wauwatosa",
+	"State": "WI",
+	"latitude": 43.0615,
+	"longitude": -88.0347
+},
+{
+	"City": "Manitowoc",
+	"State": "WI",
+	"latitude": 44.0991,
+	"longitude": -87.6811
+},
+{
+	"City": "Stevens Point",
+	"State": "WI",
+	"latitude": 44.5241,
+	"longitude": -89.5508
+},
+{
+	"City": "New Berlin",
+	"State": "WI",
+	"latitude": 42.9726,
+	"longitude": -88.1291
+},
+{
+	"City": "Brookfield",
+	"State": "WI",
+	"latitude": 43.064,
+	"longitude": -88.1231
+},
+{
+	"City": "Menomonee Falls",
+	"State": "WI",
+	"latitude": 43.1487,
+	"longitude": -88.1227
+},
+{
+	"City": "Greenfield",
+	"State": "WI",
+	"latitude": 42.9619,
+	"longitude": -88.0051
+},
+{
+	"City": "Oak Creek",
+	"State": "WI",
+	"latitude": 42.8803,
+	"longitude": -87.9009
+},
+{
+	"City": "Franklin",
+	"State": "WI",
+	"latitude": 42.8854,
+	"longitude": -88.0104
+},
+{
+	"City": "Sun Prairie",
+	"State": "WI",
+	"latitude": 43.1827,
+	"longitude": -89.2358
+},
+{
+	"City": "Fitchburg",
+	"State": "WI",
+	"latitude": 42.9859,
+	"longitude": -89.4255
+},
+{
+	"City": "Wisconsin Rapids",
+	"State": "WI",
+	"latitude": 44.3927,
+	"longitude": -89.8265
+},
+{
+	"City": "Mount Pleasant",
+	"State": "WI",
+	"latitude": 42.7129,
+	"longitude": -87.8875
+},
+{
+	"City": "Neenah",
+	"State": "WI",
+	"latitude": 44.167,
+	"longitude": -88.4764
+},
+{
+	"City": "Superior",
+	"State": "WI",
+	"latitude": 46.6941,
+	"longitude": -92.0823
+},
+{
+	"City": "Caledonia",
+	"State": "WI",
+	"latitude": 42.7986,
+	"longitude": -87.8762
+},
+{
+	"City": "Muskego",
+	"State": "WI",
+	"latitude": 42.886,
+	"longitude": -88.1291
+},
+{
+	"City": "De Pere",
+	"State": "WI",
+	"latitude": 44.4309,
+	"longitude": -88.0785
+},
+{
+	"City": "Hudson",
+	"State": "WI",
+	"latitude": 44.9637,
+	"longitude": -92.7316
+},
+{
+	"City": "Burlington",
+	"State": "WI",
+	"latitude": 42.6746,
+	"longitude": -88.2723
+},
+{
+	"City": "Mequon",
+	"State": "WI",
+	"latitude": 43.2352,
+	"longitude": -87.9838
+},
+{
+	"City": "Watertown",
+	"State": "WI",
+	"latitude": 43.1893,
+	"longitude": -88.7285
+},
+{
+	"City": "Mukwonago",
+	"State": "WI",
+	"latitude": 42.8566,
+	"longitude": -88.3269
+},
+{
+	"City": "Fort Atkinson",
+	"State": "WI",
+	"latitude": 42.9253,
+	"longitude": -88.8441
+},
+{
+	"City": "Pleasant Prairie",
+	"State": "WI",
+	"latitude": 42.5266,
+	"longitude": -87.8895
+},
+{
+	"City": "South Milwaukee",
+	"State": "WI",
+	"latitude": 42.912,
+	"longitude": -87.8627
+},
+{
+	"City": "Howard",
+	"State": "WI",
+	"latitude": 44.5703,
+	"longitude": -88.092
+},
+{
+	"City": "Germantown",
+	"State": "WI",
+	"latitude": 43.2343,
+	"longitude": -88.1217
+},
+{
+	"City": "Middleton",
+	"State": "WI",
+	"latitude": 43.1065,
+	"longitude": -89.5058
+},
+{
+	"City": "Fox Crossing",
+	"State": "WI",
+	"latitude": 44.2229,
+	"longitude": -88.4763
+},
+{
+	"City": "Onalaska",
+	"State": "WI",
+	"latitude": 43.8881,
+	"longitude": -91.2074
+},
+{
+	"City": "Marshfield",
+	"State": "WI",
+	"latitude": 44.6627,
+	"longitude": -90.1728
+},
+{
+	"City": "Marinette",
+	"State": "WI",
+	"latitude": 45.087,
+	"longitude": -87.6328
+},
+{
+	"City": "Menomonie",
+	"State": "WI",
+	"latitude": 44.8893,
+	"longitude": -91.9084
+},
+{
+	"City": "Cudahy",
+	"State": "WI",
+	"latitude": 42.9467,
+	"longitude": -87.8641
+},
+{
+	"City": "Beaver Dam",
+	"State": "WI",
+	"latitude": 43.469,
+	"longitude": -88.8308
+},
+{
+	"City": "Menasha",
+	"State": "WI",
+	"latitude": 44.2124,
+	"longitude": -88.4272
+},
+{
+	"City": "Ashwaubenon",
+	"State": "WI",
+	"latitude": 44.4796,
+	"longitude": -88.0889
+},
+{
+	"City": "Oconomowoc",
+	"State": "WI",
+	"latitude": 43.0995,
+	"longitude": -88.495
+},
+{
+	"City": "River Falls",
+	"State": "WI",
+	"latitude": 44.861,
+	"longitude": -92.6248
+},
+{
+	"City": "Kaukauna",
+	"State": "WI",
+	"latitude": 44.2776,
+	"longitude": -88.2645
+},
+{
+	"City": "Bellevue",
+	"State": "WI",
+	"latitude": 44.4593,
+	"longitude": -87.9554
+},
+{
+	"City": "Lake Geneva",
+	"State": "WI",
+	"latitude": 42.5824,
+	"longitude": -88.4281
+},
+{
+	"City": "Hartford",
+	"State": "WI",
+	"latitude": 43.3223,
+	"longitude": -88.3782
+},
+{
+	"City": "Weston",
+	"State": "WI",
+	"latitude": 44.8905,
+	"longitude": -89.5487
+},
+{
+	"City": "Whitewater",
+	"State": "WI",
+	"latitude": 42.8372,
+	"longitude": -88.7341
+},
+{
+	"City": "Salem Lakes",
+	"State": "WI",
+	"latitude": 42.5366,
+	"longitude": -88.1307
+},
+{
+	"City": "Pewaukee",
+	"State": "WI",
+	"latitude": 43.0701,
+	"longitude": -88.2411
+},
+{
+	"City": "Chippewa Falls",
+	"State": "WI",
+	"latitude": 44.9358,
+	"longitude": -91.3902
+},
+{
+	"City": "Greendale",
+	"State": "WI",
+	"latitude": 42.9371,
+	"longitude": -88.0018
+},
+{
+	"City": "Waunakee",
+	"State": "WI",
+	"latitude": 43.1829,
+	"longitude": -89.4445
+},
+{
+	"City": "Allouez",
+	"State": "WI",
+	"latitude": 44.4721,
+	"longitude": -88.0261
+},
+{
+	"City": "Baraboo",
+	"State": "WI",
+	"latitude": 43.4695,
+	"longitude": -89.7376
+},
+{
+	"City": "Whitefish Bay",
+	"State": "WI",
+	"latitude": 43.1132,
+	"longitude": -87.9004
+},
+{
+	"City": "Verona",
+	"State": "WI",
+	"latitude": 42.9893,
+	"longitude": -89.5383
+},
+{
+	"City": "Shorewood",
+	"State": "WI",
+	"latitude": 43.0914,
+	"longitude": -87.8864
+},
+{
+	"City": "Stoughton",
+	"State": "WI",
+	"latitude": 42.9234,
+	"longitude": -89.2215
+},
+{
+	"City": "Plover",
+	"State": "WI",
+	"latitude": 44.4614,
+	"longitude": -89.5383
+},
+{
+	"City": "Suamico",
+	"State": "WI",
+	"latitude": 44.6352,
+	"longitude": -88.0664
+},
+{
+	"City": "Glendale",
+	"State": "WI",
+	"latitude": 43.1288,
+	"longitude": -87.9277
+},
+{
+	"City": "Oregon",
+	"State": "WI",
+	"latitude": 42.9253,
+	"longitude": -89.3892
+},
+{
+	"City": "Elkhorn",
+	"State": "WI",
+	"latitude": 42.6711,
+	"longitude": -88.5377
+},
+{
+	"City": "Harrison",
+	"State": "WI",
+	"latitude": 44.1935,
+	"longitude": -88.2941
+},
+{
+	"City": "Platteville",
+	"State": "WI",
+	"latitude": 42.728,
+	"longitude": -90.4676
+},
+{
+	"City": "Little Chute",
+	"State": "WI",
+	"latitude": 44.2905,
+	"longitude": -88.3206
+},
+{
+	"City": "Port Washington",
+	"State": "WI",
+	"latitude": 43.3847,
+	"longitude": -87.8852
+},
+{
+	"City": "Delavan",
+	"State": "WI",
+	"latitude": 42.6281,
+	"longitude": -88.6324
+},
+{
+	"City": "Richfield",
+	"State": "WI",
+	"latitude": 43.2372,
+	"longitude": -88.2413
+},
+{
+	"City": "Brown Deer",
+	"State": "WI",
+	"latitude": 43.1743,
+	"longitude": -87.975
+},
+{
+	"City": "Grafton",
+	"State": "WI",
+	"latitude": 43.3204,
+	"longitude": -87.948
+},
+{
+	"City": "Cedarburg",
+	"State": "WI",
+	"latitude": 43.2991,
+	"longitude": -87.9887
+},
+{
+	"City": "Waupun",
+	"State": "WI",
+	"latitude": 43.6315,
+	"longitude": -88.738
+},
+{
+	"City": "Two Rivers",
+	"State": "WI",
+	"latitude": 44.1564,
+	"longitude": -87.5824
+},
+{
+	"City": "Sussex",
+	"State": "WI",
+	"latitude": 43.1341,
+	"longitude": -88.2232
+},
+{
+	"City": "DeForest",
+	"State": "WI",
+	"latitude": 43.2301,
+	"longitude": -89.3437
+},
+{
+	"City": "Monroe",
+	"State": "WI",
+	"latitude": 42.603,
+	"longitude": -89.6382
+},
+{
+	"City": "Portage",
+	"State": "WI",
+	"latitude": 43.5489,
+	"longitude": -89.4658
+},
+{
+	"City": "Sparta",
+	"State": "WI",
+	"latitude": 43.9378,
+	"longitude": -90.8131
+},
+{
+	"City": "Shawano",
+	"State": "WI",
+	"latitude": 44.7748,
+	"longitude": -88.5843
+},
+{
+	"City": "Hobart",
+	"State": "WI",
+	"latitude": 44.4967,
+	"longitude": -88.1602
+},
+{
+	"City": "Holmen",
+	"State": "WI",
+	"latitude": 43.9699,
+	"longitude": -91.2661
+},
+{
+	"City": "St. Francis",
+	"State": "WI",
+	"latitude": 42.9716,
+	"longitude": -87.8729
+},
+{
+	"City": "Merrill",
+	"State": "WI",
+	"latitude": 45.182,
+	"longitude": -89.6995
+},
+{
+	"City": "Rice Lake",
+	"State": "WI",
+	"latitude": 45.4863,
+	"longitude": -91.7447
+},
+{
+	"City": "Reedsburg",
+	"State": "WI",
+	"latitude": 43.5347,
+	"longitude": -89.9965
+},
+{
+	"City": "New Richmond",
+	"State": "WI",
+	"latitude": 45.1249,
+	"longitude": -92.5377
+},
+{
+	"City": "Tomah",
+	"State": "WI",
+	"latitude": 43.9879,
+	"longitude": -90.4999
+},
+{
+	"City": "Hartland",
+	"State": "WI",
+	"latitude": 43.1027,
+	"longitude": -88.3399
+},
+{
+	"City": "Plymouth",
+	"State": "WI",
+	"latitude": 43.7447,
+	"longitude": -87.9657
+},
+{
+	"City": "McFarland",
+	"State": "WI",
+	"latitude": 43.0203,
+	"longitude": -89.2858
+},
+{
+	"City": "Sturgeon Bay",
+	"State": "WI",
+	"latitude": 44.8228,
+	"longitude": -87.366
+},
+{
+	"City": "Rhinelander",
+	"State": "WI",
+	"latitude": 45.6361,
+	"longitude": -89.4256
+},
+{
+	"City": "Prairie du Sac",
+	"State": "WI",
+	"latitude": 43.292,
+	"longitude": -89.7353
+},
+{
+	"City": "Somers",
+	"State": "WI",
+	"latitude": 42.6411,
+	"longitude": -87.8919
+},
+{
+	"City": "Monona",
+	"State": "WI",
+	"latitude": 43.054,
+	"longitude": -89.3334
+},
+{
+	"City": "Kronenwetter",
+	"State": "WI",
+	"latitude": 44.8164,
+	"longitude": -89.5807
+},
+{
+	"City": "Ripon",
+	"State": "WI",
+	"latitude": 43.8436,
+	"longitude": -88.8387
+},
+{
+	"City": "Jefferson",
+	"State": "WI",
+	"latitude": 43.0044,
+	"longitude": -88.8084
+},
+{
+	"City": "Sheboygan Falls",
+	"State": "WI",
+	"latitude": 43.729,
+	"longitude": -87.8266
+},
+{
+	"City": "Altoona",
+	"State": "WI",
+	"latitude": 44.8029,
+	"longitude": -91.4385
+},
+{
+	"City": "Ashland",
+	"State": "WI",
+	"latitude": 46.5801,
+	"longitude": -90.8715
+},
+{
+	"City": "Antigo",
+	"State": "WI",
+	"latitude": 45.1413,
+	"longitude": -89.1556
+},
+{
+	"City": "Windsor",
+	"State": "WI",
+	"latitude": 43.2406,
+	"longitude": -89.2952
+},
+{
+	"City": "Waupaca",
+	"State": "WI",
+	"latitude": 44.3506,
+	"longitude": -89.0719
+},
+{
+	"City": "Hales Corners",
+	"State": "WI",
+	"latitude": 42.941,
+	"longitude": -88.0491
+},
+{
+	"City": "Delafield",
+	"State": "WI",
+	"latitude": 43.072,
+	"longitude": -88.3913
+},
+{
+	"City": "Mount Horeb",
+	"State": "WI",
+	"latitude": 43.006,
+	"longitude": -89.7317
+},
+{
+	"City": "Edgerton",
+	"State": "WI",
+	"latitude": 42.8385,
+	"longitude": -89.0699
+},
+{
+	"City": "New London",
+	"State": "WI",
+	"latitude": 44.395,
+	"longitude": -88.7394
+},
+{
+	"City": "Union Grove",
+	"State": "WI",
+	"latitude": 42.6863,
+	"longitude": -88.0495
+},
+{
+	"City": "Jackson",
+	"State": "WI",
+	"latitude": 43.3237,
+	"longitude": -88.166
+},
+{
+	"City": "Cottage Grove",
+	"State": "WI",
+	"latitude": 43.091,
+	"longitude": -89.2034
+},
+{
+	"City": "Kiel",
+	"State": "WI",
+	"latitude": 43.9167,
+	"longitude": -88.0266
+},
+{
+	"City": "Lake Mills",
+	"State": "WI",
+	"latitude": 43.0776,
+	"longitude": -88.9054
+},
+{
+	"City": "Kimberly",
+	"State": "WI",
+	"latitude": 44.267,
+	"longitude": -88.3377
+},
+{
+	"City": "Columbus",
+	"State": "WI",
+	"latitude": 43.3354,
+	"longitude": -89.03
+},
+{
+	"City": "Lake Hallie",
+	"State": "WI",
+	"latitude": 44.8921,
+	"longitude": -91.4199
+},
+{
+	"City": "Sturtevant",
+	"State": "WI",
+	"latitude": 42.6995,
+	"longitude": -87.9019
+},
+{
+	"City": "Fox Point",
+	"State": "WI",
+	"latitude": 43.1581,
+	"longitude": -87.9013
+},
+{
+	"City": "Prairie du Chien",
+	"State": "WI",
+	"latitude": 43.0429,
+	"longitude": -91.1373
+},
+{
+	"City": "Twin Lakes",
+	"State": "WI",
+	"latitude": 42.5192,
+	"longitude": -88.2489
+},
+{
+	"City": "Rib Mountain",
+	"State": "WI",
+	"latitude": 44.9196,
+	"longitude": -89.6763
+},
+{
+	"City": "Evansville",
+	"State": "WI",
+	"latitude": 42.7781,
+	"longitude": -89.2967
+},
+{
+	"City": "Elm Grove",
+	"State": "WI",
+	"latitude": 43.0479,
+	"longitude": -88.0867
+},
+{
+	"City": "Baldwin",
+	"State": "WI",
+	"latitude": 44.954,
+	"longitude": -92.3709
+},
+{
+	"City": "Milton",
+	"State": "WI",
+	"latitude": 42.7751,
+	"longitude": -88.943
+},
+{
+	"City": "Lake Delton",
+	"State": "WI",
+	"latitude": 43.5932,
+	"longitude": -89.7842
+},
+{
+	"City": "Slinger",
+	"State": "WI",
+	"latitude": 43.3318,
+	"longitude": -88.2799
+},
+{
+	"City": "Waterford",
+	"State": "WI",
+	"latitude": 42.7646,
+	"longitude": -88.216
+},
+{
+	"City": "Black River Falls",
+	"State": "WI",
+	"latitude": 44.2981,
+	"longitude": -90.842
+},
+{
+	"City": "Berlin",
+	"State": "WI",
+	"latitude": 43.9704,
+	"longitude": -88.9505
+},
+{
+	"City": "Wind Lake",
+	"State": "WI",
+	"latitude": 42.823,
+	"longitude": -88.1573
+},
+{
+	"City": "Rothschild",
+	"State": "WI",
+	"latitude": 44.8761,
+	"longitude": -89.6173
+},
+{
+	"City": "Tichigan",
+	"State": "WI",
+	"latitude": 42.8087,
+	"longitude": -88.215
+},
+{
+	"City": "Bristol",
+	"State": "WI",
+	"latitude": 42.5378,
+	"longitude": -88.0149
+},
+{
+	"City": "North Fond du Lac",
+	"State": "WI",
+	"latitude": 43.8107,
+	"longitude": -88.4861
+},
+{
+	"City": "Summit",
+	"State": "WI",
+	"latitude": 43.0504,
+	"longitude": -88.4815
+},
+{
+	"City": "West Salem",
+	"State": "WI",
+	"latitude": 43.8989,
+	"longitude": -91.0883
+},
+{
+	"City": "Richland Center",
+	"State": "WI",
+	"latitude": 43.3403,
+	"longitude": -90.384
+},
+{
+	"City": "Mayville",
+	"State": "WI",
+	"latitude": 43.4986,
+	"longitude": -88.5475
+},
+{
+	"City": "Dodgeville",
+	"State": "WI",
+	"latitude": 42.966,
+	"longitude": -90.1297
+},
+{
+	"City": "Bloomfield",
+	"State": "WI",
+	"latitude": 42.5488,
+	"longitude": -88.352
+},
+{
+	"City": "Okauchee Lake",
+	"State": "WI",
+	"latitude": 43.1248,
+	"longitude": -88.4408
+},
+{
+	"City": "Oconto",
+	"State": "WI",
+	"latitude": 44.8918,
+	"longitude": -87.8692
+},
+{
+	"City": "Lake Wisconsin",
+	"State": "WI",
+	"latitude": 43.3782,
+	"longitude": -89.5762
+},
+{
+	"City": "Saukville",
+	"State": "WI",
+	"latitude": 43.3847,
+	"longitude": -87.9439
+},
+{
+	"City": "Viroqua",
+	"State": "WI",
+	"latitude": 43.5582,
+	"longitude": -90.8863
+},
+{
+	"City": "Walworth",
+	"State": "WI",
+	"latitude": 42.5305,
+	"longitude": -88.5941
+},
+{
+	"City": "Clintonville",
+	"State": "WI",
+	"latitude": 44.6222,
+	"longitude": -88.7513
+},
+{
+	"City": "Mauston",
+	"State": "WI",
+	"latitude": 43.7995,
+	"longitude": -90.0775
+},
+{
+	"City": "French Island",
+	"State": "WI",
+	"latitude": 43.8593,
+	"longitude": -91.2614
+},
+{
+	"City": "East Troy",
+	"State": "WI",
+	"latitude": 42.7848,
+	"longitude": -88.3973
+},
+{
+	"City": "Bayside",
+	"State": "WI",
+	"latitude": 43.1827,
+	"longitude": -87.9017
+},
+{
+	"City": "Prescott",
+	"State": "WI",
+	"latitude": 44.7523,
+	"longitude": -92.7883
+},
+{
+	"City": "Cross Plains",
+	"State": "WI",
+	"latitude": 43.1145,
+	"longitude": -89.648
+},
+{
+	"City": "Medford",
+	"State": "WI",
+	"latitude": 45.1365,
+	"longitude": -90.3436
+},
+{
+	"City": "Kewaskum",
+	"State": "WI",
+	"latitude": 43.5177,
+	"longitude": -88.2306
+},
+{
+	"City": "West Milwaukee",
+	"State": "WI",
+	"latitude": 43.0124,
+	"longitude": -87.971
+},
+{
+	"City": "Mosinee",
+	"State": "WI",
+	"latitude": 44.7874,
+	"longitude": -89.6839
+},
+{
+	"City": "Marshall",
+	"State": "WI",
+	"latitude": 43.1726,
+	"longitude": -89.0614
+},
+{
+	"City": "Rochester",
+	"State": "WI",
+	"latitude": 42.7338,
+	"longitude": -88.2489
+},
+{
+	"City": "Chilton",
+	"State": "WI",
+	"latitude": 44.0293,
+	"longitude": -88.1625
+},
+{
+	"City": "Abbotsford",
+	"State": "WI",
+	"latitude": 44.9432,
+	"longitude": -90.3169
+},
+{
+	"City": "North Hudson",
+	"State": "WI",
+	"latitude": 44.9976,
+	"longitude": -92.7559
+},
+{
+	"City": "Winneconne",
+	"State": "WI",
+	"latitude": 44.1112,
+	"longitude": -88.7114
+},
+{
+	"City": "Merton",
+	"State": "WI",
+	"latitude": 43.1423,
+	"longitude": -88.3088
+},
+{
+	"City": "Pulaski",
+	"State": "WI",
+	"latitude": 44.6684,
+	"longitude": -88.2351
+},
+{
+	"City": "Stanley",
+	"State": "WI",
+	"latitude": 44.9597,
+	"longitude": -90.9423
+},
+{
+	"City": "Lancaster",
+	"State": "WI",
+	"latitude": 42.8473,
+	"longitude": -90.7065
+},
+{
+	"City": "Horicon",
+	"State": "WI",
+	"latitude": 43.4453,
+	"longitude": -88.6403
+},
+{
+	"City": "Combined Locks",
+	"State": "WI",
+	"latitude": 44.2642,
+	"longitude": -88.3064
+},
+{
+	"City": "Omro",
+	"State": "WI",
+	"latitude": 44.0391,
+	"longitude": -88.7378
+},
+{
+	"City": "Osceola",
+	"State": "WI",
+	"latitude": 45.3193,
+	"longitude": -92.6936
+},
+{
+	"City": "Wrightstown",
+	"State": "WI",
+	"latitude": 44.3262,
+	"longitude": -88.1756
+},
+{
+	"City": "Bloomer",
+	"State": "WI",
+	"latitude": 45.103,
+	"longitude": -91.4913
+},
+{
+	"City": "Seymour",
+	"State": "WI",
+	"latitude": 44.5142,
+	"longitude": -88.3271
+},
+{
+	"City": "Sauk City",
+	"State": "WI",
+	"latitude": 43.2722,
+	"longitude": -89.7312
+},
+{
+	"City": "Brodhead",
+	"State": "WI",
+	"latitude": 42.6168,
+	"longitude": -89.3756
+},
+{
+	"City": "Peshtigo",
+	"State": "WI",
+	"latitude": 45.0556,
+	"longitude": -87.7476
+},
+{
+	"City": "Waterloo",
+	"State": "WI",
+	"latitude": 43.1835,
+	"longitude": -88.9898
+},
+{
+	"City": "Barron",
+	"State": "WI",
+	"latitude": 45.4015,
+	"longitude": -91.8476
+},
+{
+	"City": "Ellsworth",
+	"State": "WI",
+	"latitude": 44.7364,
+	"longitude": -92.4806
+},
+{
+	"City": "Howards Grove",
+	"State": "WI",
+	"latitude": 43.8261,
+	"longitude": -87.8232
+},
+{
+	"City": "Ladysmith",
+	"State": "WI",
+	"latitude": 45.4606,
+	"longitude": -91.0972
+},
+{
+	"City": "Boscobel",
+	"State": "WI",
+	"latitude": 43.1435,
+	"longitude": -90.6951
+},
+{
+	"City": "Tomahawk",
+	"State": "WI",
+	"latitude": 45.4746,
+	"longitude": -89.7228
+},
+{
+	"City": "Yorkville",
+	"State": "WI",
+	"latitude": 42.7155,
+	"longitude": -88.0097
+},
+{
+	"City": "Thiensville",
+	"State": "WI",
+	"latitude": 43.236,
+	"longitude": -87.9785
+},
+{
+	"City": "Paddock Lake",
+	"State": "WI",
+	"latitude": 42.5707,
+	"longitude": -88.1044
+},
+{
+	"City": "Arcadia",
+	"State": "WI",
+	"latitude": 44.2486,
+	"longitude": -91.4915
+},
+{
+	"City": "New Holstein",
+	"State": "WI",
+	"latitude": 43.9491,
+	"longitude": -88.0942
+},
+{
+	"City": "Lodi",
+	"State": "WI",
+	"latitude": 43.3154,
+	"longitude": -89.5366
+},
+{
+	"City": "Brillion",
+	"State": "WI",
+	"latitude": 44.1757,
+	"longitude": -88.0711
+},
+{
+	"City": "Algoma",
+	"State": "WI",
+	"latitude": 44.6057,
+	"longitude": -87.4465
+},
+{
+	"City": "Sherwood",
+	"State": "WI",
+	"latitude": 44.1764,
+	"longitude": -88.2756
+},
+{
+	"City": "Johnson Creek",
+	"State": "WI",
+	"latitude": 43.0812,
+	"longitude": -88.7702
+},
+{
+	"City": "Mazomanie",
+	"State": "WI",
+	"latitude": 43.1731,
+	"longitude": -89.7955
+},
+{
+	"City": "Oostburg",
+	"State": "WI",
+	"latitude": 43.6237,
+	"longitude": -87.7889
+},
+{
+	"City": "Wisconsin Dells",
+	"State": "WI",
+	"latitude": 43.6337,
+	"longitude": -89.7752
+},
+{
+	"City": "Genoa City",
+	"State": "WI",
+	"latitude": 42.5065,
+	"longitude": -88.3192
+},
+{
+	"City": "Somerset",
+	"State": "WI",
+	"latitude": 45.1269,
+	"longitude": -92.6756
+},
+{
+	"City": "Hortonville",
+	"State": "WI",
+	"latitude": 44.3368,
+	"longitude": -88.6361
+},
+{
+	"City": "Kewaunee",
+	"State": "WI",
+	"latitude": 44.4607,
+	"longitude": -87.5133
+},
+{
+	"City": "Lake Wissota",
+	"State": "WI",
+	"latitude": 44.922,
+	"longitude": -91.3015
+},
+{
+	"City": "Amery",
+	"State": "WI",
+	"latitude": 45.3045,
+	"longitude": -92.3635
+},
+{
+	"City": "Oconto Falls",
+	"State": "WI",
+	"latitude": 44.8738,
+	"longitude": -88.1444
+},
+{
+	"City": "Cambridge",
+	"State": "WI",
+	"latitude": 43.0071,
+	"longitude": -89.0214
+},
+{
+	"City": "Bohners Lake",
+	"State": "WI",
+	"latitude": 42.6241,
+	"longitude": -88.2879
+},
+{
+	"City": "Como",
+	"State": "WI",
+	"latitude": 42.6114,
+	"longitude": -88.4914
+},
+{
+	"City": "Chetek",
+	"State": "WI",
+	"latitude": 45.3159,
+	"longitude": -91.6532
+},
+{
+	"City": "Juneau",
+	"State": "WI",
+	"latitude": 43.4052,
+	"longitude": -88.7041
+},
+{
+	"City": "Williams Bay",
+	"State": "WI",
+	"latitude": 42.5788,
+	"longitude": -88.5457
+},
+{
+	"City": "Hayward",
+	"State": "WI",
+	"latitude": 46.0094,
+	"longitude": -91.4826
+},
+{
+	"City": "Wales",
+	"State": "WI",
+	"latitude": 43.0042,
+	"longitude": -88.3739
+},
+{
+	"City": "Maine",
+	"State": "WI",
+	"latitude": 45.0497,
+	"longitude": -89.6816
+},
+{
+	"City": "Spooner",
+	"State": "WI",
+	"latitude": 45.8271,
+	"longitude": -91.886
+},
+{
+	"City": "Luxemburg",
+	"State": "WI",
+	"latitude": 44.5449,
+	"longitude": -87.7065
+},
+{
+	"City": "Mondovi",
+	"State": "WI",
+	"latitude": 44.5714,
+	"longitude": -91.6668
+},
+{
+	"City": "Delavan Lake",
+	"State": "WI",
+	"latitude": 42.5987,
+	"longitude": -88.6177
+},
+{
+	"City": "New Lisbon",
+	"State": "WI",
+	"latitude": 43.878,
+	"longitude": -90.1627
+},
+{
+	"City": "Deerfield",
+	"State": "WI",
+	"latitude": 43.0492,
+	"longitude": -89.0762
+},
+{
+	"City": "Poynette",
+	"State": "WI",
+	"latitude": 43.3922,
+	"longitude": -89.4058
+},
+{
+	"City": "Tainter Lake",
+	"State": "WI",
+	"latitude": 44.9882,
+	"longitude": -91.8437
+},
+{
+	"City": "Wautoma",
+	"State": "WI",
+	"latitude": 44.0669,
+	"longitude": -89.2915
+},
+{
+	"City": "Mineral Point",
+	"State": "WI",
+	"latitude": 42.8632,
+	"longitude": -90.1814
+},
+{
+	"City": "Belleville",
+	"State": "WI",
+	"latitude": 42.8643,
+	"longitude": -89.5402
+},
+{
+	"City": "Fennimore",
+	"State": "WI",
+	"latitude": 42.9793,
+	"longitude": -90.6492
+},
+{
+	"City": "Lomira",
+	"State": "WI",
+	"latitude": 43.5944,
+	"longitude": -88.442
+},
+{
+	"City": "Nekoosa",
+	"State": "WI",
+	"latitude": 44.3135,
+	"longitude": -89.9073
+},
+{
+	"City": "Neillsville",
+	"State": "WI",
+	"latitude": 44.5605,
+	"longitude": -90.5905
+},
+{
+	"City": "Belgium",
+	"State": "WI",
+	"latitude": 43.5019,
+	"longitude": -87.8476
+},
+{
+	"City": "Darlington",
+	"State": "WI",
+	"latitude": 42.6765,
+	"longitude": -90.1204
+},
+{
+	"City": "Dousman",
+	"State": "WI",
+	"latitude": 43.0088,
+	"longitude": -88.476
+},
+{
+	"City": "Brice Prairie",
+	"State": "WI",
+	"latitude": 43.9375,
+	"longitude": -91.3074
+},
+{
+	"City": "Denmark",
+	"State": "WI",
+	"latitude": 44.3493,
+	"longitude": -87.8313
+},
+{
+	"City": "Westby",
+	"State": "WI",
+	"latitude": 43.653,
+	"longitude": -90.8584
+},
+{
+	"City": "Fredonia",
+	"State": "WI",
+	"latitude": 43.4715,
+	"longitude": -87.9489
+},
+{
+	"City": "Park Falls",
+	"State": "WI",
+	"latitude": 45.9348,
+	"longitude": -90.4463
+},
+{
+	"City": "North Prairie",
+	"State": "WI",
+	"latitude": 42.9357,
+	"longitude": -88.4038
+},
+{
+	"City": "Schofield",
+	"State": "WI",
+	"latitude": 44.9149,
+	"longitude": -89.6148
+},
+{
+	"City": "Eagle",
+	"State": "WI",
+	"latitude": 42.879,
+	"longitude": -88.4697
+},
+{
+	"City": "New Glarus",
+	"State": "WI",
+	"latitude": 42.813,
+	"longitude": -89.6337
+},
+{
+	"City": "Lake Wazeecha",
+	"State": "WI",
+	"latitude": 44.3709,
+	"longitude": -89.7551
+},
+{
+	"City": "Clinton",
+	"State": "WI",
+	"latitude": 42.5574,
+	"longitude": -88.8679
+},
+{
+	"City": "Redgranite",
+	"State": "WI",
+	"latitude": 44.0513,
+	"longitude": -89.1058
+},
+{
+	"City": "Cedar Grove",
+	"State": "WI",
+	"latitude": 43.5682,
+	"longitude": -87.8243
+},
+{
+	"City": "Cumberland",
+	"State": "WI",
+	"latitude": 45.5361,
+	"longitude": -92.0289
+},
+{
+	"City": "Pardeeville",
+	"State": "WI",
+	"latitude": 43.5359,
+	"longitude": -89.301
+},
+{
+	"City": "Kohler",
+	"State": "WI",
+	"latitude": 43.7364,
+	"longitude": -87.7795
+},
+{
+	"City": "St. Croix Falls",
+	"State": "WI",
+	"latitude": 45.41,
+	"longitude": -92.6268
+},
+{
+	"City": "Washburn",
+	"State": "WI",
+	"latitude": 46.6769,
+	"longitude": -90.9017
+},
+{
+	"City": "Cuba City",
+	"State": "WI",
+	"latitude": 42.6036,
+	"longitude": -90.4316
+},
+{
+	"City": "Shorewood Hills",
+	"State": "WI",
+	"latitude": 43.0788,
+	"longitude": -89.4467
+},
+{
+	"City": "Colby",
+	"State": "WI",
+	"latitude": 44.9107,
+	"longitude": -90.3159
+},
+{
+	"City": "Ixonia",
+	"State": "WI",
+	"latitude": 43.1396,
+	"longitude": -88.5963
+},
+{
+	"City": "Adams",
+	"State": "WI",
+	"latitude": 43.9554,
+	"longitude": -89.8169
+},
+{
+	"City": "Roberts",
+	"State": "WI",
+	"latitude": 44.9732,
+	"longitude": -92.5505
+},
+{
+	"City": "Hammond",
+	"State": "WI",
+	"latitude": 44.969,
+	"longitude": -92.438
+},
+{
+	"City": "Lake Ripley",
+	"State": "WI",
+	"latitude": 43.0045,
+	"longitude": -88.9829
+},
+{
+	"City": "Spencer",
+	"State": "WI",
+	"latitude": 44.7544,
+	"longitude": -90.2983
+},
+{
+	"City": "Campbellsport",
+	"State": "WI",
+	"latitude": 43.5975,
+	"longitude": -88.2814
+},
+{
+	"City": "Durand",
+	"State": "WI",
+	"latitude": 44.6271,
+	"longitude": -91.9607
+},
+{
+	"City": "Crandon",
+	"State": "WI",
+	"latitude": 45.5686,
+	"longitude": -88.8973
+},
+{
+	"City": "Browns Lake",
+	"State": "WI",
+	"latitude": 42.6908,
+	"longitude": -88.2308
+},
+{
+	"City": "Butler",
+	"State": "WI",
+	"latitude": 43.1085,
+	"longitude": -88.0713
+},
+{
+	"City": "King",
+	"State": "WI",
+	"latitude": 44.34,
+	"longitude": -89.1231
+},
+{
+	"City": "Cameron",
+	"State": "WI",
+	"latitude": 45.4057,
+	"longitude": -91.7423
+},
+{
+	"City": "Port Edwards",
+	"State": "WI",
+	"latitude": 44.3484,
+	"longitude": -89.854
+},
+{
+	"City": "Weyauwega",
+	"State": "WI",
+	"latitude": 44.324,
+	"longitude": -88.9332
+},
+{
+	"City": "Palmyra",
+	"State": "WI",
+	"latitude": 42.8811,
+	"longitude": -88.6
+},
+{
+	"City": "Randolph",
+	"State": "WI",
+	"latitude": 43.5396,
+	"longitude": -89.0029
+},
+{
+	"City": "Fontana-on-Geneva Lake",
+	"State": "WI",
+	"latitude": 42.5453,
+	"longitude": -88.5702
+},
+{
+	"City": "Fall River",
+	"State": "WI",
+	"latitude": 43.3856,
+	"longitude": -89.0456
+},
+{
+	"City": "Whiting",
+	"State": "WI",
+	"latitude": 44.4907,
+	"longitude": -89.56
+},
+{
+	"City": "Wind Point",
+	"State": "WI",
+	"latitude": 42.7814,
+	"longitude": -87.7721
+},
+{
+	"City": "Osseo",
+	"State": "WI",
+	"latitude": 44.5795,
+	"longitude": -91.212
+},
+{
+	"City": "Trempealeau",
+	"State": "WI",
+	"latitude": 44.003,
+	"longitude": -91.4285
+},
+{
+	"City": "Spring Green",
+	"State": "WI",
+	"latitude": 43.1776,
+	"longitude": -90.0688
+},
+{
+	"City": "Thorp",
+	"State": "WI",
+	"latitude": 44.958,
+	"longitude": -90.8021
+},
+{
+	"City": "Galesville",
+	"State": "WI",
+	"latitude": 44.0839,
+	"longitude": -91.358
+},
+{
+	"City": "Eagle River",
+	"State": "WI",
+	"latitude": 45.9249,
+	"longitude": -89.2561
+},
+{
+	"City": "Darien",
+	"State": "WI",
+	"latitude": 42.6008,
+	"longitude": -88.7127
+},
+{
+	"City": "Stratford",
+	"State": "WI",
+	"latitude": 44.8009,
+	"longitude": -90.0722
+},
+{
+	"City": "River Hills",
+	"State": "WI",
+	"latitude": 43.1717,
+	"longitude": -87.9353
+},
+{
+	"City": "Whitehall",
+	"State": "WI",
+	"latitude": 44.3705,
+	"longitude": -91.3476
+},
+{
+	"City": "Random Lake",
+	"State": "WI",
+	"latitude": 43.5541,
+	"longitude": -87.9548
+},
+{
+	"City": "Sharon",
+	"State": "WI",
+	"latitude": 42.5047,
+	"longitude": -88.7394
+},
+{
+	"City": "Niagara",
+	"State": "WI",
+	"latitude": 45.7801,
+	"longitude": -87.9991
+},
+{
+	"City": "Augusta",
+	"State": "WI",
+	"latitude": 44.6784,
+	"longitude": -91.1203
+},
+{
+	"City": "Lac du Flambeau",
+	"State": "WI",
+	"latitude": 45.9696,
+	"longitude": -89.8995
+},
+{
+	"City": "Marathon City",
+	"State": "WI",
+	"latitude": 44.9379,
+	"longitude": -89.8436
+},
+{
+	"City": "Orfordville",
+	"State": "WI",
+	"latitude": 42.6294,
+	"longitude": -89.2572
+},
+{
+	"City": "Legend Lake",
+	"State": "WI",
+	"latitude": 44.8909,
+	"longitude": -88.544
+},
+{
+	"City": "Montello",
+	"State": "WI",
+	"latitude": 43.7939,
+	"longitude": -89.3332
+},
+{
+	"City": "Brooklyn",
+	"State": "WI",
+	"latitude": 42.8524,
+	"longitude": -89.3723
+},
+{
+	"City": "Big Bend",
+	"State": "WI",
+	"latitude": 42.9023,
+	"longitude": -88.2122
+},
+{
+	"City": "Cleveland",
+	"State": "WI",
+	"latitude": 43.9177,
+	"longitude": -87.7469
+},
+{
+	"City": "Bangor",
+	"State": "WI",
+	"latitude": 43.8938,
+	"longitude": -90.9935
+},
+{
+	"City": "Fox Lake",
+	"State": "WI",
+	"latitude": 43.5618,
+	"longitude": -88.913
+},
+{
+	"City": "Edgar",
+	"State": "WI",
+	"latitude": 44.9229,
+	"longitude": -89.9626
+},
+{
+	"City": "Keshena",
+	"State": "WI",
+	"latitude": 44.8697,
+	"longitude": -88.6002
+},
+{
+	"City": "Hurley",
+	"State": "WI",
+	"latitude": 46.4462,
+	"longitude": -90.1982
+},
+{
+	"City": "St. Peter",
+	"State": "WI",
+	"latitude": 43.8377,
+	"longitude": -88.3465
+},
+{
+	"City": "Cadott",
+	"State": "WI",
+	"latitude": 44.9502,
+	"longitude": -91.1532
+},
+{
+	"City": "West Baraboo",
+	"State": "WI",
+	"latitude": 43.4815,
+	"longitude": -89.7718
+},
+{
+	"City": "Black Earth",
+	"State": "WI",
+	"latitude": 43.1341,
+	"longitude": -89.747
+},
+{
+	"City": "Bonduel",
+	"State": "WI",
+	"latitude": 44.7383,
+	"longitude": -88.4475
+},
+{
+	"City": "Cornell",
+	"State": "WI",
+	"latitude": 45.1632,
+	"longitude": -91.1497
+},
+{
+	"City": "Markesan",
+	"State": "WI",
+	"latitude": 43.7099,
+	"longitude": -88.9907
+},
+{
+	"City": "Hillsboro",
+	"State": "WI",
+	"latitude": 43.6559,
+	"longitude": -90.3365
+},
+{
+	"City": "Mishicot",
+	"State": "WI",
+	"latitude": 44.2303,
+	"longitude": -87.6422
+},
+{
+	"City": "Nashotah",
+	"State": "WI",
+	"latitude": 43.0938,
+	"longitude": -88.4037
+},
+{
+	"City": "Woodville",
+	"State": "WI",
+	"latitude": 44.9483,
+	"longitude": -92.2851
+},
+{
+	"City": "Spring Valley",
+	"State": "WI",
+	"latitude": 44.85,
+	"longitude": -92.2443
+},
+{
+	"City": "Blair",
+	"State": "WI",
+	"latitude": 44.3082,
+	"longitude": -91.2424
+},
+{
+	"City": "Phillips",
+	"State": "WI",
+	"latitude": 45.6958,
+	"longitude": -90.4018
+},
+{
+	"City": "Maple Bluff",
+	"State": "WI",
+	"latitude": 43.1132,
+	"longitude": -89.3719
+},
+{
+	"City": "Shell Lake",
+	"State": "WI",
+	"latitude": 45.7322,
+	"longitude": -91.9033
+},
+{
+	"City": "Black Creek",
+	"State": "WI",
+	"latitude": 44.4741,
+	"longitude": -88.4507
+},
+{
+	"City": "Independence",
+	"State": "WI",
+	"latitude": 44.3328,
+	"longitude": -91.4172
+},
+{
+	"City": "Elroy",
+	"State": "WI",
+	"latitude": 43.7419,
+	"longitude": -90.2704
+},
+{
+	"City": "Gillett",
+	"State": "WI",
+	"latitude": 44.8897,
+	"longitude": -88.3063
+},
+{
+	"City": "Fall Creek",
+	"State": "WI",
+	"latitude": 44.7639,
+	"longitude": -91.2783
+},
+{
+	"City": "Grantsburg",
+	"State": "WI",
+	"latitude": 45.7813,
+	"longitude": -92.6836
+},
+{
+	"City": "Manawa",
+	"State": "WI",
+	"latitude": 44.4613,
+	"longitude": -88.9204
+},
+{
+	"City": "Westfield",
+	"State": "WI",
+	"latitude": 43.8851,
+	"longitude": -89.4926
+},
+{
+	"City": "Lauderdale Lakes",
+	"State": "WI",
+	"latitude": 42.7709,
+	"longitude": -88.5778
+},
+{
+	"City": "Barneveld",
+	"State": "WI",
+	"latitude": 43.0117,
+	"longitude": -89.8968
+},
+{
+	"City": "Muscoda",
+	"State": "WI",
+	"latitude": 43.1873,
+	"longitude": -90.4334
+},
+{
+	"City": "Loyal",
+	"State": "WI",
+	"latitude": 44.7366,
+	"longitude": -90.4959
+},
+{
+	"City": "Lannon",
+	"State": "WI",
+	"latitude": 43.1522,
+	"longitude": -88.1604
+},
+{
+	"City": "Hazel Green",
+	"State": "WI",
+	"latitude": 42.5341,
+	"longitude": -90.4361
+},
+{
+	"City": "Newburg",
+	"State": "WI",
+	"latitude": 43.432,
+	"longitude": -88.0477
+},
+{
+	"City": "Iola",
+	"State": "WI",
+	"latitude": 44.5091,
+	"longitude": -89.1249
+},
+{
+	"City": "Theresa",
+	"State": "WI",
+	"latitude": 43.5164,
+	"longitude": -88.454
+},
+{
+	"City": "Monticello",
+	"State": "WI",
+	"latitude": 42.7456,
+	"longitude": -89.5899
+},
+{
+	"City": "Glenwood City",
+	"State": "WI",
+	"latitude": 45.057,
+	"longitude": -92.1714
+},
+{
+	"City": "Shullsburg",
+	"State": "WI",
+	"latitude": 42.5733,
+	"longitude": -90.2348
+},
+{
+	"City": "Marion",
+	"State": "WI",
+	"latitude": 44.6744,
+	"longitude": -88.8902
+},
+{
+	"City": "Princeton",
+	"State": "WI",
+	"latitude": 43.8526,
+	"longitude": -89.1305
+},
+{
+	"City": "Colfax",
+	"State": "WI",
+	"latitude": 44.997,
+	"longitude": -91.7264
+},
+{
+	"City": "Reedsville",
+	"State": "WI",
+	"latitude": 44.1525,
+	"longitude": -87.9517
+},
+{
+	"City": "Dane",
+	"State": "WI",
+	"latitude": 43.2499,
+	"longitude": -89.4996
+},
+{
+	"City": "Lake Koshkonong",
+	"State": "WI",
+	"latitude": 42.8838,
+	"longitude": -88.9424
+},
+{
+	"City": "Boyceville",
+	"State": "WI",
+	"latitude": 45.0427,
+	"longitude": -92.0384
+},
+{
+	"City": "Cashton",
+	"State": "WI",
+	"latitude": 43.7413,
+	"longitude": -90.7866
+},
+{
+	"City": "Clear Lake",
+	"State": "WI",
+	"latitude": 45.2491,
+	"longitude": -92.2675
+},
+{
+	"City": "Powers Lake",
+	"State": "WI",
+	"latitude": 42.5395,
+	"longitude": -88.2935
+},
+{
+	"City": "Strum",
+	"State": "WI",
+	"latitude": 44.5532,
+	"longitude": -91.3876
+},
+{
+	"City": "Frederic",
+	"State": "WI",
+	"latitude": 45.6548,
+	"longitude": -92.4647
+},
+{
+	"City": "Oakfield",
+	"State": "WI",
+	"latitude": 43.6843,
+	"longitude": -88.5476
+},
+{
+	"City": "Hilbert",
+	"State": "WI",
+	"latitude": 44.1415,
+	"longitude": -88.1611
+},
+{
+	"City": "Little Round Lake",
+	"State": "WI",
+	"latitude": 45.9697,
+	"longitude": -91.367
+},
+{
+	"City": "Athens",
+	"State": "WI",
+	"latitude": 45.0349,
+	"longitude": -90.0792
+},
+{
+	"City": "Hustisford",
+	"State": "WI",
+	"latitude": 43.3442,
+	"longitude": -88.6033
+},
+{
+	"City": "Ashippun",
+	"State": "WI",
+	"latitude": 43.2182,
+	"longitude": -88.5159
+},
+{
+	"City": "Luck",
+	"State": "WI",
+	"latitude": 45.5718,
+	"longitude": -92.4666
+},
+{
+	"City": "Lake Nebagamon",
+	"State": "WI",
+	"latitude": 46.512,
+	"longitude": -91.6995
+},
+{
+	"City": "Amherst",
+	"State": "WI",
+	"latitude": 44.4475,
+	"longitude": -89.2832
+},
+{
+	"City": "Rio",
+	"State": "WI",
+	"latitude": 43.4497,
+	"longitude": -89.2388
+},
+{
+	"City": "Eagle Lake",
+	"State": "WI",
+	"latitude": 42.7014,
+	"longitude": -88.1291
+},
+{
+	"City": "Potter Lake",
+	"State": "WI",
+	"latitude": 42.8196,
+	"longitude": -88.3487
+},
+{
+	"City": "Rosendale",
+	"State": "WI",
+	"latitude": 43.808,
+	"longitude": -88.6731
+},
+{
+	"City": "Dickeyville",
+	"State": "WI",
+	"latitude": 42.6248,
+	"longitude": -90.5914
+},
+{
+	"City": "Elkhart Lake",
+	"State": "WI",
+	"latitude": 43.8321,
+	"longitude": -88.0147
+},
+{
+	"City": "Greenwood",
+	"State": "WI",
+	"latitude": 44.7655,
+	"longitude": -90.5989
+},
+{
+	"City": "Albany",
+	"State": "WI",
+	"latitude": 42.7069,
+	"longitude": -89.4367
+},
+{
+	"City": "Turtle Lake",
+	"State": "WI",
+	"latitude": 45.3933,
+	"longitude": -92.1452
+},
+{
+	"City": "Wittenberg",
+	"State": "WI",
+	"latitude": 44.8269,
+	"longitude": -89.1664
+},
+{
+	"City": "Blue Mounds",
+	"State": "WI",
+	"latitude": 43.0177,
+	"longitude": -89.8271
+},
+{
+	"City": "Balsam Lake",
+	"State": "WI",
+	"latitude": 45.4585,
+	"longitude": -92.4528
+},
+{
+	"City": "Belmont",
+	"State": "WI",
+	"latitude": 42.7379,
+	"longitude": -90.3345
+},
+{
+	"City": "Green Lake",
+	"State": "WI",
+	"latitude": 43.8441,
+	"longitude": -88.956
+},
+{
+	"City": "Benton",
+	"State": "WI",
+	"latitude": 42.57,
+	"longitude": -90.3834
+},
+{
+	"City": "Buffalo City",
+	"State": "WI",
+	"latitude": 44.2237,
+	"longitude": -91.8653
+},
+{
+	"City": "Crivitz",
+	"State": "WI",
+	"latitude": 45.2337,
+	"longitude": -88.0067
+},
+{
+	"City": "Sister Bay",
+	"State": "WI",
+	"latitude": 45.1835,
+	"longitude": -87.1271
+},
+{
+	"City": "Eden",
+	"State": "WI",
+	"latitude": 43.6928,
+	"longitude": -88.3642
+},
+{
+	"City": "Owen",
+	"State": "WI",
+	"latitude": 44.9485,
+	"longitude": -90.5621
+},
+{
+	"City": "Valders",
+	"State": "WI",
+	"latitude": 44.0696,
+	"longitude": -87.8859
+},
+{
+	"City": "Necedah",
+	"State": "WI",
+	"latitude": 44.0234,
+	"longitude": -90.0717
+},
+{
+	"City": "Greenleaf",
+	"State": "WI",
+	"latitude": 44.317,
+	"longitude": -88.0972
+},
+{
+	"City": "Shiocton",
+	"State": "WI",
+	"latitude": 44.4449,
+	"longitude": -88.5768
+},
+{
+	"City": "Centuria",
+	"State": "WI",
+	"latitude": 45.4497,
+	"longitude": -92.5579
+},
+{
+	"City": "Butte des Morts",
+	"State": "WI",
+	"latitude": 44.1058,
+	"longitude": -88.6564
+},
+{
+	"City": "Kekoskee",
+	"State": "WI",
+	"latitude": 43.5019,
+	"longitude": -88.5863
+},
+{
+	"City": "Iron Ridge",
+	"State": "WI",
+	"latitude": 43.3982,
+	"longitude": -88.532
+},
+{
+	"City": "Allenton",
+	"State": "WI",
+	"latitude": 43.4204,
+	"longitude": -88.3443
+},
+{
+	"City": "Elk Mound",
+	"State": "WI",
+	"latitude": 44.8744,
+	"longitude": -91.6863
+},
+{
+	"City": "Cassville",
+	"State": "WI",
+	"latitude": 42.7149,
+	"longitude": -90.9888
+},
+{
+	"City": "Milltown",
+	"State": "WI",
+	"latitude": 45.5261,
+	"longitude": -92.5015
+},
+{
+	"City": "Dresser",
+	"State": "WI",
+	"latitude": 45.3617,
+	"longitude": -92.6344
+},
+{
+	"City": "Hingham",
+	"State": "WI",
+	"latitude": 43.6465,
+	"longitude": -87.9151
+},
+{
+	"City": "Dorchester",
+	"State": "WI",
+	"latitude": 45.0025,
+	"longitude": -90.3308
+},
+{
+	"City": "Rib Lake",
+	"State": "WI",
+	"latitude": 45.3196,
+	"longitude": -90.2031
+},
+{
+	"City": "Fountain City",
+	"State": "WI",
+	"latitude": 44.1201,
+	"longitude": -91.697
+},
+{
+	"City": "Chain O' Lakes",
+	"State": "WI",
+	"latitude": 44.3319,
+	"longitude": -89.167
+},
+{
+	"City": "Lake Arrowhead",
+	"State": "WI",
+	"latitude": 44.203,
+	"longitude": -89.8389
+},
+{
+	"City": "Brandon",
+	"State": "WI",
+	"latitude": 43.7352,
+	"longitude": -88.7822
+},
+{
+	"City": "Plainfield",
+	"State": "WI",
+	"latitude": 44.2175,
+	"longitude": -89.4969
+},
+{
+	"City": "Lone Rock",
+	"State": "WI",
+	"latitude": 43.1857,
+	"longitude": -90.2012
+},
+{
+	"City": "Footville",
+	"State": "WI",
+	"latitude": 42.6715,
+	"longitude": -89.2084
+},
+{
+	"City": "Stoddard",
+	"State": "WI",
+	"latitude": 43.6625,
+	"longitude": -91.218
+},
+{
+	"City": "Arena",
+	"State": "WI",
+	"latitude": 43.1636,
+	"longitude": -89.9104
+},
+{
+	"City": "Highland",
+	"State": "WI",
+	"latitude": 43.0475,
+	"longitude": -90.3801
+},
+{
+	"City": "Pittsville",
+	"State": "WI",
+	"latitude": 44.439,
+	"longitude": -90.1301
+},
+{
+	"City": "Arlington",
+	"State": "WI",
+	"latitude": 43.335,
+	"longitude": -89.3725
+},
+{
+	"City": "Argyle",
+	"State": "WI",
+	"latitude": 42.7014,
+	"longitude": -89.8657
+},
+{
+	"City": "Elmwood",
+	"State": "WI",
+	"latitude": 44.7799,
+	"longitude": -92.1491
+},
+{
+	"City": "Blanchardville",
+	"State": "WI",
+	"latitude": 42.8095,
+	"longitude": -89.8606
+},
+{
+	"City": "Wonewoc",
+	"State": "WI",
+	"latitude": 43.6531,
+	"longitude": -90.2239
+},
+{
+	"City": "Coon Valley",
+	"State": "WI",
+	"latitude": 43.7024,
+	"longitude": -91.0112
+},
+{
+	"City": "Lake Camelot",
+	"State": "WI",
+	"latitude": 44.2147,
+	"longitude": -89.7623
+},
+{
+	"City": "Birnamwood",
+	"State": "WI",
+	"latitude": 44.9319,
+	"longitude": -89.2094
+},
+{
+	"City": "Pepin",
+	"State": "WI",
+	"latitude": 44.4423,
+	"longitude": -92.1482
+},
+{
+	"City": "Hewitt",
+	"State": "WI",
+	"latitude": 44.6425,
+	"longitude": -90.1049
+},
+{
+	"City": "Neopit",
+	"State": "WI",
+	"latitude": 44.9877,
+	"longitude": -88.8226
+},
+{
+	"City": "Siren",
+	"State": "WI",
+	"latitude": 45.7826,
+	"longitude": -92.3823
+},
+{
+	"City": "Biron",
+	"State": "WI",
+	"latitude": 44.4281,
+	"longitude": -89.766
+},
+{
+	"City": "Plain",
+	"State": "WI",
+	"latitude": 43.2779,
+	"longitude": -90.0423
+},
+{
+	"City": "La Farge",
+	"State": "WI",
+	"latitude": 43.5782,
+	"longitude": -90.6381
+},
+{
+	"City": "Montreal",
+	"State": "WI",
+	"latitude": 46.4312,
+	"longitude": -90.2382
+},
+{
+	"City": "Mount Calvary",
+	"State": "WI",
+	"latitude": 43.8263,
+	"longitude": -88.246
+},
+{
+	"City": "St. Nazianz",
+	"State": "WI",
+	"latitude": 44.0067,
+	"longitude": -87.9246
+},
+{
+	"City": "Cambria",
+	"State": "WI",
+	"latitude": 43.5416,
+	"longitude": -89.1108
+},
+{
+	"City": "Woodruff",
+	"State": "WI",
+	"latitude": 45.8946,
+	"longitude": -89.6912
+},
+{
+	"City": "Whitelaw",
+	"State": "WI",
+	"latitude": 44.1452,
+	"longitude": -87.8281
+},
+{
+	"City": "Wauzeka",
+	"State": "WI",
+	"latitude": 43.0851,
+	"longitude": -90.8995
+},
+{
+	"City": "Wyocena",
+	"State": "WI",
+	"latitude": 43.4931,
+	"longitude": -89.3099
+},
+{
+	"City": "Forest Junction",
+	"State": "WI",
+	"latitude": 44.2139,
+	"longitude": -88.1496
+},
+{
+	"City": "Alma",
+	"State": "WI",
+	"latitude": 44.3371,
+	"longitude": -91.9223
+},
+{
+	"City": "Rome",
+	"State": "WI",
+	"latitude": 42.9823,
+	"longitude": -88.6389
+},
+{
+	"City": "Tigerton",
+	"State": "WI",
+	"latitude": 44.7409,
+	"longitude": -89.0459
+},
+{
+	"City": "Bruce",
+	"State": "WI",
+	"latitude": 45.459,
+	"longitude": -91.2734
+},
+{
+	"City": "North Freedom",
+	"State": "WI",
+	"latitude": 43.459,
+	"longitude": -89.8603
+},
+{
+	"City": "Bloomington",
+	"State": "WI",
+	"latitude": 42.8932,
+	"longitude": -90.9264
+},
+{
+	"City": "Mellen",
+	"State": "WI",
+	"latitude": 46.324,
+	"longitude": -90.6607
+},
+{
+	"City": "Cascade",
+	"State": "WI",
+	"latitude": 43.6599,
+	"longitude": -88.0071
+},
+{
+	"City": "Coleman",
+	"State": "WI",
+	"latitude": 45.0672,
+	"longitude": -88.0359
+},
+{
+	"City": "Montfort",
+	"State": "WI",
+	"latitude": 42.9697,
+	"longitude": -90.4331
+},
+{
+	"City": "Wild Rose",
+	"State": "WI",
+	"latitude": 44.179,
+	"longitude": -89.2439
+},
+{
+	"City": "Waubeka",
+	"State": "WI",
+	"latitude": 43.4701,
+	"longitude": -87.9919
+},
+{
+	"City": "Reeseville",
+	"State": "WI",
+	"latitude": 43.3062,
+	"longitude": -88.8445
+},
+{
+	"City": "Rockland",
+	"State": "WI",
+	"latitude": 43.9075,
+	"longitude": -90.9165
+},
+{
+	"City": "Potosi",
+	"State": "WI",
+	"latitude": 42.6875,
+	"longitude": -90.7108
+},
+{
+	"City": "Eleva",
+	"State": "WI",
+	"latitude": 44.5763,
+	"longitude": -91.4705
+},
+{
+	"City": "Sullivan",
+	"State": "WI",
+	"latitude": 43.0118,
+	"longitude": -88.5903
+},
+{
+	"City": "Auburndale",
+	"State": "WI",
+	"latitude": 44.6266,
+	"longitude": -90.0144
+},
+{
+	"City": "Viola",
+	"State": "WI",
+	"latitude": 43.507,
+	"longitude": -90.6735
+},
+{
+	"City": "Friendship",
+	"State": "WI",
+	"latitude": 43.972,
+	"longitude": -89.8202
+},
+{
+	"City": "Fremont",
+	"State": "WI",
+	"latitude": 44.2602,
+	"longitude": -88.8715
+},
+{
+	"City": "Taycheedah",
+	"State": "WI",
+	"latitude": 43.8122,
+	"longitude": -88.3914
+},
+{
+	"City": "Almena",
+	"State": "WI",
+	"latitude": 45.4149,
+	"longitude": -92.0384
+},
+{
+	"City": "Francis Creek",
+	"State": "WI",
+	"latitude": 44.2005,
+	"longitude": -87.7208
+},
+{
+	"City": "Iron River",
+	"State": "WI",
+	"latitude": 46.5671,
+	"longitude": -91.4069
+},
+{
+	"City": "Winchester",
+	"State": "WI",
+	"latitude": 44.1982,
+	"longitude": -88.6599
+},
+{
+	"City": "Livingston",
+	"State": "WI",
+	"latitude": 42.9001,
+	"longitude": -90.4337
+},
+{
+	"City": "Norwalk",
+	"State": "WI",
+	"latitude": 43.8342,
+	"longitude": -90.6269
+},
+{
+	"City": "Ridgeway",
+	"State": "WI",
+	"latitude": 42.9986,
+	"longitude": -89.993
+},
+{
+	"City": "Camp Douglas",
+	"State": "WI",
+	"latitude": 43.9197,
+	"longitude": -90.2697
+},
+{
+	"City": "Avoca",
+	"State": "WI",
+	"latitude": 43.1906,
+	"longitude": -90.326
+},
+{
+	"City": "Webster",
+	"State": "WI",
+	"latitude": 45.8798,
+	"longitude": -92.3628
+},
+{
+	"City": "Stockbridge",
+	"State": "WI",
+	"latitude": 44.0717,
+	"longitude": -88.3105
+},
+{
+	"City": "Plum City",
+	"State": "WI",
+	"latitude": 44.6338,
+	"longitude": -92.1918
+},
+{
+	"City": "Fairchild",
+	"State": "WI",
+	"latitude": 44.6036,
+	"longitude": -90.9577
+},
+{
+	"City": "Poplar",
+	"State": "WI",
+	"latitude": 46.5828,
+	"longitude": -91.7836
+},
+{
+	"City": "Oxford",
+	"State": "WI",
+	"latitude": 43.78,
+	"longitude": -89.5658
+},
+{
+	"City": "Chenequa",
+	"State": "WI",
+	"latitude": 43.1228,
+	"longitude": -88.3838
+},
+{
+	"City": "Eureka",
+	"State": "WI",
+	"latitude": 44.0073,
+	"longitude": -88.8426
+},
+{
+	"City": "Oconomowoc Lake",
+	"State": "WI",
+	"latitude": 43.0975,
+	"longitude": -88.4521
+},
+{
+	"City": "Prentice",
+	"State": "WI",
+	"latitude": 45.5408,
+	"longitude": -90.2898
+},
+{
+	"City": "Hatley",
+	"State": "WI",
+	"latitude": 44.8866,
+	"longitude": -89.3371
+},
+{
+	"City": "Solon Springs",
+	"State": "WI",
+	"latitude": 46.3495,
+	"longitude": -91.8208
+},
+{
+	"City": "Casco",
+	"State": "WI",
+	"latitude": 44.5558,
+	"longitude": -87.6197
+},
+{
+	"City": "Brownsville",
+	"State": "WI",
+	"latitude": 43.6146,
+	"longitude": -88.495
+},
+{
+	"City": "Kieler",
+	"State": "WI",
+	"latitude": 42.5823,
+	"longitude": -90.6051
+},
+{
+	"City": "New Auburn",
+	"State": "WI",
+	"latitude": 45.1988,
+	"longitude": -91.5666
+},
+{
+	"City": "Chief Lake",
+	"State": "WI",
+	"latitude": 45.9213,
+	"longitude": -91.3312
+},
+{
+	"City": "Gresham",
+	"State": "WI",
+	"latitude": 44.8478,
+	"longitude": -88.7856
+},
+{
+	"City": "Lily Lake",
+	"State": "WI",
+	"latitude": 42.5614,
+	"longitude": -88.2137
+},
+{
+	"City": "Star Prairie",
+	"State": "WI",
+	"latitude": 45.1975,
+	"longitude": -92.5321
+},
+{
+	"City": "Ontario",
+	"State": "WI",
+	"latitude": 43.7222,
+	"longitude": -90.5941
+},
+{
+	"City": "Wausaukee",
+	"State": "WI",
+	"latitude": 45.378,
+	"longitude": -87.9552
+},
+{
+	"City": "Dale",
+	"State": "WI",
+	"latitude": 44.2757,
+	"longitude": -88.6729
+},
+{
+	"City": "Cecil",
+	"State": "WI",
+	"latitude": 44.8107,
+	"longitude": -88.4485
+},
+{
+	"City": "Neosho",
+	"State": "WI",
+	"latitude": 43.3101,
+	"longitude": -88.5192
+},
+{
+	"City": "Vesper",
+	"State": "WI",
+	"latitude": 44.4805,
+	"longitude": -89.9676
+},
+{
+	"City": "Clayton",
+	"State": "WI",
+	"latitude": 45.326,
+	"longitude": -92.171
+},
+{
+	"City": "Soldiers Grove",
+	"State": "WI",
+	"latitude": 43.3921,
+	"longitude": -90.7735
+},
+{
+	"City": "Lena",
+	"State": "WI",
+	"latitude": 44.953,
+	"longitude": -88.0476
+},
+{
+	"City": "Boyd",
+	"State": "WI",
+	"latitude": 44.9533,
+	"longitude": -91.0398
+},
+{
+	"City": "Linden",
+	"State": "WI",
+	"latitude": 42.9186,
+	"longitude": -90.2742
+},
+{
+	"City": "Merrillan",
+	"State": "WI",
+	"latitude": 44.4504,
+	"longitude": -90.8355
+},
+{
+	"City": "Dellwood",
+	"State": "WI",
+	"latitude": 43.9545,
+	"longitude": -89.9341
+},
+{
+	"City": "Suring",
+	"State": "WI",
+	"latitude": 45.0007,
+	"longitude": -88.3693
+},
+{
+	"City": "Bluffview",
+	"State": "WI",
+	"latitude": 43.3641,
+	"longitude": -89.773
+},
+{
+	"City": "Bancroft",
+	"State": "WI",
+	"latitude": 44.3093,
+	"longitude": -89.5071
+},
+{
+	"City": "Stetsonville",
+	"State": "WI",
+	"latitude": 45.0772,
+	"longitude": -90.3143
+},
+{
+	"City": "Ettrick",
+	"State": "WI",
+	"latitude": 44.1695,
+	"longitude": -91.265
+},
+{
+	"City": "Mole Lake",
+	"State": "WI",
+	"latitude": 45.4859,
+	"longitude": -88.9823
+},
+{
+	"City": "Adell",
+	"State": "WI",
+	"latitude": 43.6214,
+	"longitude": -87.9482
+},
+{
+	"City": "Polonia",
+	"State": "WI",
+	"latitude": 44.5756,
+	"longitude": -89.4118
+},
+{
+	"City": "Gays Mills",
+	"State": "WI",
+	"latitude": 43.322,
+	"longitude": -90.8489
+},
+{
+	"City": "St. Joseph",
+	"State": "WI",
+	"latitude": 43.7855,
+	"longitude": -91.0436
+},
+{
+	"City": "Northport",
+	"State": "WI",
+	"latitude": 44.4082,
+	"longitude": -88.8038
+},
+{
+	"City": "Minong",
+	"State": "WI",
+	"latitude": 46.0978,
+	"longitude": -91.8263
+},
+{
+	"City": "Waldo",
+	"State": "WI",
+	"latitude": 43.6766,
+	"longitude": -87.9478
+},
+{
+	"City": "Wilton",
+	"State": "WI",
+	"latitude": 43.8132,
+	"longitude": -90.5268
+},
+{
+	"City": "Park Ridge",
+	"State": "WI",
+	"latitude": 44.52,
+	"longitude": -89.5463
+},
+{
+	"City": "Bay City",
+	"State": "WI",
+	"latitude": 44.5873,
+	"longitude": -92.4574
+},
+{
+	"City": "Alma Center",
+	"State": "WI",
+	"latitude": 44.437,
+	"longitude": -90.9128
+},
+{
+	"City": "Elmwood Park",
+	"State": "WI",
+	"latitude": 42.6917,
+	"longitude": -87.8223
+},
+{
+	"City": "Rosholt",
+	"State": "WI",
+	"latitude": 44.63,
+	"longitude": -89.3052
+},
+{
+	"City": "Lyndon Station",
+	"State": "WI",
+	"latitude": 43.7088,
+	"longitude": -89.8937
+},
+{
+	"City": "New Odanah",
+	"State": "WI",
+	"latitude": 46.5986,
+	"longitude": -90.6618
+},
+{
+	"City": "Lake Ivanhoe",
+	"State": "WI",
+	"latitude": 42.58,
+	"longitude": -88.3415
+},
+{
+	"City": "Melrose",
+	"State": "WI",
+	"latitude": 44.1316,
+	"longitude": -90.997
+},
+{
+	"City": "Withee",
+	"State": "WI",
+	"latitude": 44.9508,
+	"longitude": -90.5989
+},
+{
+	"City": "Dyckesville",
+	"State": "WI",
+	"latitude": 44.6404,
+	"longitude": -87.7656
+},
+{
+	"City": "Taylor",
+	"State": "WI",
+	"latitude": 44.3217,
+	"longitude": -91.1206
+},
+{
+	"City": "South Wayne",
+	"State": "WI",
+	"latitude": 42.5673,
+	"longitude": -89.8761
+},
+{
+	"City": "Kendall",
+	"State": "WI",
+	"latitude": 43.7926,
+	"longitude": -90.3677
+},
+{
+	"City": "Bayfield",
+	"State": "WI",
+	"latitude": 46.8141,
+	"longitude": -90.8226
+},
+{
+	"City": "Mercer",
+	"State": "WI",
+	"latitude": 46.1635,
+	"longitude": -90.0528
+},
+{
+	"City": "St. Cloud",
+	"State": "WI",
+	"latitude": 43.8245,
+	"longitude": -88.1687
+},
+{
+	"City": "Endeavor",
+	"State": "WI",
+	"latitude": 43.7146,
+	"longitude": -89.4684
+},
+{
+	"City": "Knapp",
+	"State": "WI",
+	"latitude": 44.9514,
+	"longitude": -92.0769
+},
+{
+	"City": "Glenbeulah",
+	"State": "WI",
+	"latitude": 43.7982,
+	"longitude": -88.0465
+},
+{
+	"City": "Abrams",
+	"State": "WI",
+	"latitude": 44.7796,
+	"longitude": -88.0605
+},
+{
+	"City": "Florence",
+	"State": "WI",
+	"latitude": 45.925,
+	"longitude": -88.2525
+},
+{
+	"City": "Cobb",
+	"State": "WI",
+	"latitude": 42.966,
+	"longitude": -90.3296
+},
+{
+	"City": "Coloma",
+	"State": "WI",
+	"latitude": 44.0387,
+	"longitude": -89.5311
+},
+{
+	"City": "Merrimac",
+	"State": "WI",
+	"latitude": 43.3741,
+	"longitude": -89.6273
+},
+{
+	"City": "Junction City",
+	"State": "WI",
+	"latitude": 44.593,
+	"longitude": -89.7679
+},
+{
+	"City": "Prairie Farm",
+	"State": "WI",
+	"latitude": 45.2368,
+	"longitude": -91.9804
+},
+{
+	"City": "Bear Creek",
+	"State": "WI",
+	"latitude": 44.5313,
+	"longitude": -88.7275
+},
+{
+	"City": "Sextonville",
+	"State": "WI",
+	"latitude": 43.2797,
+	"longitude": -90.2922
+},
+{
+	"City": "Gibbsville",
+	"State": "WI",
+	"latitude": 43.652,
+	"longitude": -87.8317
+},
+{
+	"City": "Laona",
+	"State": "WI",
+	"latitude": 45.5597,
+	"longitude": -88.6697
+},
+{
+	"City": "Almond",
+	"State": "WI",
+	"latitude": 44.2607,
+	"longitude": -89.4087
+},
+{
+	"City": "Neshkoro",
+	"State": "WI",
+	"latitude": 43.965,
+	"longitude": -89.2159
+},
+{
+	"City": "Birchwood",
+	"State": "WI",
+	"latitude": 45.6577,
+	"longitude": -91.5507
+},
+{
+	"City": "Hixton",
+	"State": "WI",
+	"latitude": 44.3831,
+	"longitude": -91.0148
+},
+{
+	"City": "Blue River",
+	"State": "WI",
+	"latitude": 43.1844,
+	"longitude": -90.5719
+},
+{
+	"City": "Readstown",
+	"State": "WI",
+	"latitude": 43.4485,
+	"longitude": -90.759
+},
+{
+	"City": "Rudolph",
+	"State": "WI",
+	"latitude": 44.4972,
+	"longitude": -89.8018
+},
+{
+	"City": "Mattoon",
+	"State": "WI",
+	"latitude": 45.0046,
+	"longitude": -89.0411
+},
+{
+	"City": "Cochrane",
+	"State": "WI",
+	"latitude": 44.2281,
+	"longitude": -91.8387
+},
+{
+	"City": "Oliver",
+	"State": "WI",
+	"latitude": 46.6493,
+	"longitude": -92.1884
+},
+{
+	"City": "Forestville",
+	"State": "WI",
+	"latitude": 44.6907,
+	"longitude": -87.4787
+},
+{
+	"City": "Three Lakes",
+	"State": "WI",
+	"latitude": 45.8048,
+	"longitude": -89.1708
+},
+{
+	"City": "Hancock",
+	"State": "WI",
+	"latitude": 44.1334,
+	"longitude": -89.521
+},
+{
+	"City": "Eastman",
+	"State": "WI",
+	"latitude": 43.1622,
+	"longitude": -91.0254
+},
+{
+	"City": "Clyman",
+	"State": "WI",
+	"latitude": 43.3116,
+	"longitude": -88.7231
+},
+{
+	"City": "Pigeon Falls",
+	"State": "WI",
+	"latitude": 44.4246,
+	"longitude": -91.2084
+},
+{
+	"City": "Gilman",
+	"State": "WI",
+	"latitude": 45.1662,
+	"longitude": -90.8072
+},
+{
+	"City": "Lohrville",
+	"State": "WI",
+	"latitude": 44.0382,
+	"longitude": -89.1201
+},
+{
+	"City": "Lakewood",
+	"State": "WI",
+	"latitude": 45.3006,
+	"longitude": -88.5146
+},
+{
+	"City": "Amherst Junction",
+	"State": "WI",
+	"latitude": 44.4687,
+	"longitude": -89.3167
+},
+{
+	"City": "Embarrass",
+	"State": "WI",
+	"latitude": 44.6685,
+	"longitude": -88.7037
+},
+{
+	"City": "Bagley",
+	"State": "WI",
+	"latitude": 42.9015,
+	"longitude": -91.0971
+},
+{
+	"City": "Pound",
+	"State": "WI",
+	"latitude": 45.0956,
+	"longitude": -88.0334
+},
+{
+	"City": "La Valle",
+	"State": "WI",
+	"latitude": 43.583,
+	"longitude": -90.1303
+},
+{
+	"City": "Lake Sherwood",
+	"State": "WI",
+	"latitude": 44.2057,
+	"longitude": -89.7939
+},
+{
+	"City": "Rock Springs",
+	"State": "WI",
+	"latitude": 43.479,
+	"longitude": -89.9177
+},
+{
+	"City": "Fairwater",
+	"State": "WI",
+	"latitude": 43.7424,
+	"longitude": -88.868
+},
+{
+	"City": "Butternut",
+	"State": "WI",
+	"latitude": 46.0138,
+	"longitude": -90.4988
+},
+{
+	"City": "Birch Hill",
+	"State": "WI",
+	"latitude": 46.5209,
+	"longitude": -90.5555
+},
+{
+	"City": "White Lake",
+	"State": "WI",
+	"latitude": 45.1617,
+	"longitude": -88.7704
+},
+{
+	"City": "Scandinavia",
+	"State": "WI",
+	"latitude": 44.4608,
+	"longitude": -89.146
+},
+{
+	"City": "Wheeler",
+	"State": "WI",
+	"latitude": 45.0441,
+	"longitude": -91.9037
+},
+{
+	"City": "Warrens",
+	"State": "WI",
+	"latitude": 44.1287,
+	"longitude": -90.5155
+},
+{
+	"City": "Krakow",
+	"State": "WI",
+	"latitude": 44.7585,
+	"longitude": -88.2611
+},
+{
+	"City": "Friesland",
+	"State": "WI",
+	"latitude": 43.5886,
+	"longitude": -89.0669
+},
+{
+	"City": "Dallas",
+	"State": "WI",
+	"latitude": 45.2591,
+	"longitude": -91.8142
+},
+{
+	"City": "Granton",
+	"State": "WI",
+	"latitude": 44.5887,
+	"longitude": -90.4615
+},
+{
+	"City": "Nelson",
+	"State": "WI",
+	"latitude": 44.4213,
+	"longitude": -92.0041
+},
+{
+	"City": "Tennyson",
+	"State": "WI",
+	"latitude": 42.6907,
+	"longitude": -90.6868
+},
+{
+	"City": "Maribel",
+	"State": "WI",
+	"latitude": 44.2775,
+	"longitude": -87.8025
+},
+{
+	"City": "Unity",
+	"State": "WI",
+	"latitude": 44.8511,
+	"longitude": -90.3131
+},
+{
+	"City": "Reserve",
+	"State": "WI",
+	"latitude": 45.8338,
+	"longitude": -91.3545
+},
+{
+	"City": "Minocqua",
+	"State": "WI",
+	"latitude": 45.8788,
+	"longitude": -89.7032
+},
+{
+	"City": "Lowell",
+	"State": "WI",
+	"latitude": 43.3363,
+	"longitude": -88.8183
+},
+{
+	"City": "Helenville",
+	"State": "WI",
+	"latitude": 43.0166,
+	"longitude": -88.6998
+},
+{
+	"City": "Kingston",
+	"State": "WI",
+	"latitude": 43.6935,
+	"longitude": -89.1304
+},
+{
+	"City": "Humbird",
+	"State": "WI",
+	"latitude": 44.5294,
+	"longitude": -90.8861
+},
+{
+	"City": "Kellnersville",
+	"State": "WI",
+	"latitude": 44.2253,
+	"longitude": -87.8021
+},
+{
+	"City": "Wabeno",
+	"State": "WI",
+	"latitude": 45.4394,
+	"longitude": -88.6581
+},
+{
+	"City": "Glidden",
+	"State": "WI",
+	"latitude": 46.1346,
+	"longitude": -90.5721
+},
+{
+	"City": "Cazenovia",
+	"State": "WI",
+	"latitude": 43.5237,
+	"longitude": -90.1991
+},
+{
+	"City": "Arpin",
+	"State": "WI",
+	"latitude": 44.5394,
+	"longitude": -90.0315
+},
+{
+	"City": "Poy Sippi",
+	"State": "WI",
+	"latitude": 44.136,
+	"longitude": -88.9963
+},
+{
+	"City": "Winter",
+	"State": "WI",
+	"latitude": 45.8221,
+	"longitude": -91.013
+},
+{
+	"City": "Juda",
+	"State": "WI",
+	"latitude": 42.59,
+	"longitude": -89.5092
+},
+{
+	"City": "Lac La Belle",
+	"State": "WI",
+	"latitude": 43.1428,
+	"longitude": -88.5303
+},
+{
+	"City": "Loganville",
+	"State": "WI",
+	"latitude": 43.4388,
+	"longitude": -90.0371
+},
+{
+	"City": "Doylestown",
+	"State": "WI",
+	"latitude": 43.4276,
+	"longitude": -89.1457
+},
+{
+	"City": "Oakdale",
+	"State": "WI",
+	"latitude": 43.962,
+	"longitude": -90.3789
+},
+{
+	"City": "Chaseburg",
+	"State": "WI",
+	"latitude": 43.6597,
+	"longitude": -91.0968
+},
+{
+	"City": "Post Lake",
+	"State": "WI",
+	"latitude": 45.4352,
+	"longitude": -89.0921
+},
+{
+	"City": "Bowler",
+	"State": "WI",
+	"latitude": 44.8627,
+	"longitude": -88.9814
+},
+{
+	"City": "Hager City",
+	"State": "WI",
+	"latitude": 44.6012,
+	"longitude": -92.5337
+},
+{
+	"City": "Nichols",
+	"State": "WI",
+	"latitude": 44.5672,
+	"longitude": -88.4677
+},
+{
+	"City": "Rewey",
+	"State": "WI",
+	"latitude": 42.8419,
+	"longitude": -90.3961
+},
+{
+	"City": "Ephraim",
+	"State": "WI",
+	"latitude": 45.1589,
+	"longitude": -87.1667
+},
+{
+	"City": "Hawkins",
+	"State": "WI",
+	"latitude": 45.5114,
+	"longitude": -90.7148
+},
+{
+	"City": "De Soto",
+	"State": "WI",
+	"latitude": 43.4283,
+	"longitude": -91.1963
+},
+{
+	"City": "Ridgeland",
+	"State": "WI",
+	"latitude": 45.2025,
+	"longitude": -91.8965
+},
+{
+	"City": "Browntown",
+	"State": "WI",
+	"latitude": 42.5788,
+	"longitude": -89.7894
+},
+{
+	"City": "Hollandale",
+	"State": "WI",
+	"latitude": 42.8756,
+	"longitude": -89.9342
+},
+{
+	"City": "Haugen",
+	"State": "WI",
+	"latitude": 45.6078,
+	"longitude": -91.7789
+},
+{
+	"City": "Lake Lorraine",
+	"State": "WI",
+	"latitude": 42.733,
+	"longitude": -88.7374
+},
+{
+	"City": "Sobieski",
+	"State": "WI",
+	"latitude": 44.7227,
+	"longitude": -88.0659
+},
+{
+	"City": "Downing",
+	"State": "WI",
+	"latitude": 45.0498,
+	"longitude": -92.1243
+},
+{
+	"City": "Genoa",
+	"State": "WI",
+	"latitude": 43.5735,
+	"longitude": -91.2261
+},
+{
+	"City": "Milladore",
+	"State": "WI",
+	"latitude": 44.6056,
+	"longitude": -89.8552
+},
+{
+	"City": "Brule",
+	"State": "WI",
+	"latitude": 46.5589,
+	"longitude": -91.5712
+},
+{
+	"City": "Ironton",
+	"State": "WI",
+	"latitude": 43.5452,
+	"longitude": -90.1436
+},
+{
+	"City": "Aniwa",
+	"State": "WI",
+	"latitude": 45.0117,
+	"longitude": -89.2089
+},
+{
+	"City": "Lebanon",
+	"State": "WI",
+	"latitude": 43.2587,
+	"longitude": -88.6294
+},
+{
+	"City": "Elcho",
+	"State": "WI",
+	"latitude": 45.4353,
+	"longitude": -89.1853
+},
+{
+	"City": "Sandy Hook",
+	"State": "WI",
+	"latitude": 42.5466,
+	"longitude": -90.6168
+},
+{
+	"City": "Mountain",
+	"State": "WI",
+	"latitude": 45.1864,
+	"longitude": -88.4681
+},
+{
+	"City": "Potter",
+	"State": "WI",
+	"latitude": 44.1202,
+	"longitude": -88.0991
+},
+{
+	"City": "North Bay",
+	"State": "WI",
+	"latitude": 42.7644,
+	"longitude": -87.7812
+},
+{
+	"City": "Radisson",
+	"State": "WI",
+	"latitude": 45.7684,
+	"longitude": -91.2179
+},
+{
+	"City": "New Post",
+	"State": "WI",
+	"latitude": 45.8965,
+	"longitude": -91.193
+},
+{
+	"City": "Caroline",
+	"State": "WI",
+	"latitude": 44.722,
+	"longitude": -88.8948
+},
+{
+	"City": "Holcombe",
+	"State": "WI",
+	"latitude": 45.2261,
+	"longitude": -91.1217
+},
+{
+	"City": "Gratiot",
+	"State": "WI",
+	"latitude": 42.5799,
+	"longitude": -90.0238
+},
+{
+	"City": "Goodman",
+	"State": "WI",
+	"latitude": 45.6231,
+	"longitude": -88.3518
+},
+{
+	"City": "Waukau",
+	"State": "WI",
+	"latitude": 43.9862,
+	"longitude": -88.7706
+},
+{
+	"City": "Van Dyne",
+	"State": "WI",
+	"latitude": 43.8862,
+	"longitude": -88.5012
+},
+{
+	"City": "Rockdale",
+	"State": "WI",
+	"latitude": 42.9717,
+	"longitude": -89.0318
+},
+{
+	"City": "Mount Hope",
+	"State": "WI",
+	"latitude": 42.9697,
+	"longitude": -90.8596
+},
+{
+	"City": "Weyerhaeuser",
+	"State": "WI",
+	"latitude": 45.4251,
+	"longitude": -91.4145
+},
+{
+	"City": "Elderon",
+	"State": "WI",
+	"latitude": 44.7843,
+	"longitude": -89.248
+},
+{
+	"City": "Sheldon",
+	"State": "WI",
+	"latitude": 45.3119,
+	"longitude": -90.9567
+},
+{
+	"City": "Deer Park",
+	"State": "WI",
+	"latitude": 45.1885,
+	"longitude": -92.3878
+},
+{
+	"City": "Curtiss",
+	"State": "WI",
+	"latitude": 44.9521,
+	"longitude": -90.435
+},
+{
+	"City": "Burnett",
+	"State": "WI",
+	"latitude": 43.5065,
+	"longitude": -88.7084
+},
+{
+	"City": "Arkansaw",
+	"State": "WI",
+	"latitude": 44.6334,
+	"longitude": -92.0222
+},
+{
+	"City": "Jim Falls",
+	"State": "WI",
+	"latitude": 45.0472,
+	"longitude": -91.2712
+},
+{
+	"City": "Hatfield",
+	"State": "WI",
+	"latitude": 44.4164,
+	"longitude": -90.7409
+},
+{
+	"City": "Franks Field",
+	"State": "WI",
+	"latitude": 46.5522,
+	"longitude": -90.5989
+},
+{
+	"City": "Little Sturgeon",
+	"State": "WI",
+	"latitude": 44.8422,
+	"longitude": -87.5743
+},
+{
+	"City": "Egg Harbor",
+	"State": "WI",
+	"latitude": 45.0528,
+	"longitude": -87.2826
+},
+{
+	"City": "Mount Sterling",
+	"State": "WI",
+	"latitude": 43.3162,
+	"longitude": -90.9292
+},
+{
+	"City": "Eland",
+	"State": "WI",
+	"latitude": 44.867,
+	"longitude": -89.209
+},
+{
+	"City": "Dalton",
+	"State": "WI",
+	"latitude": 43.6562,
+	"longitude": -89.2069
+},
+{
+	"City": "Baileys Harbor",
+	"State": "WI",
+	"latitude": 45.0659,
+	"longitude": -87.133
+},
+{
+	"City": "Port Wing",
+	"State": "WI",
+	"latitude": 46.7757,
+	"longitude": -91.3806
+},
+{
+	"City": "Union Center",
+	"State": "WI",
+	"latitude": 43.6826,
+	"longitude": -90.2634
+},
+{
+	"City": "Patch Grove",
+	"State": "WI",
+	"latitude": 42.9406,
+	"longitude": -90.9724
+},
+{
+	"City": "Exeland",
+	"State": "WI",
+	"latitude": 45.667,
+	"longitude": -91.2426
+},
+{
+	"City": "Hustler",
+	"State": "WI",
+	"latitude": 43.8773,
+	"longitude": -90.2658
+},
+{
+	"City": "Lake Tomahawk",
+	"State": "WI",
+	"latitude": 45.811,
+	"longitude": -89.5873
+},
+{
+	"City": "Wilson",
+	"State": "WI",
+	"latitude": 44.9586,
+	"longitude": -92.1705
+},
+{
+	"City": "Amberg",
+	"State": "WI",
+	"latitude": 45.5062,
+	"longitude": -87.9874
+},
+{
+	"City": "Middle Village",
+	"State": "WI",
+	"latitude": 44.9347,
+	"longitude": -88.7334
+},
+{
+	"City": "Hebron",
+	"State": "WI",
+	"latitude": 42.9232,
+	"longitude": -88.6916
+},
+{
+	"City": "Sayner",
+	"State": "WI",
+	"latitude": 45.991,
+	"longitude": -89.5332
+},
+{
+	"City": "Iron Belt",
+	"State": "WI",
+	"latitude": 46.4031,
+	"longitude": -90.3193
+},
+{
+	"City": "Gotham",
+	"State": "WI",
+	"latitude": 43.2225,
+	"longitude": -90.297
+},
+{
+	"City": "Trego",
+	"State": "WI",
+	"latitude": 45.9049,
+	"longitude": -91.8286
+},
+{
+	"City": "Ferryville",
+	"State": "WI",
+	"latitude": 43.3516,
+	"longitude": -91.0935
+},
+{
+	"City": "Westboro",
+	"State": "WI",
+	"latitude": 45.3608,
+	"longitude": -90.2934
+},
+{
+	"City": "Ogdensburg",
+	"State": "WI",
+	"latitude": 44.4535,
+	"longitude": -89.0316
+},
+{
+	"City": "Cataract",
+	"State": "WI",
+	"latitude": 44.0866,
+	"longitude": -90.8384
+},
+{
+	"City": "Boulder Junction",
+	"State": "WI",
+	"latitude": 46.1126,
+	"longitude": -89.6452
+},
+{
+	"City": "Packwaukee",
+	"State": "WI",
+	"latitude": 43.7653,
+	"longitude": -89.4599
+},
+{
+	"City": "Diamond Bluff",
+	"State": "WI",
+	"latitude": 44.649,
+	"longitude": -92.6189
+},
+{
+	"City": "Danbury",
+	"State": "WI",
+	"latitude": 46.0088,
+	"longitude": -92.3777
+},
+{
+	"City": "Lime Ridge",
+	"State": "WI",
+	"latitude": 43.4676,
+	"longitude": -90.1577
+},
+{
+	"City": "Barronett",
+	"State": "WI",
+	"latitude": 45.6363,
+	"longitude": -91.9942
+},
+{
+	"City": "Ogema",
+	"State": "WI",
+	"latitude": 45.451,
+	"longitude": -90.2927
+},
+{
+	"City": "Ellison Bay",
+	"State": "WI",
+	"latitude": 45.2551,
+	"longitude": -87.0729
+},
+{
+	"City": "Chili",
+	"State": "WI",
+	"latitude": 44.6296,
+	"longitude": -90.3583
+},
+{
+	"City": "Greenbush",
+	"State": "WI",
+	"latitude": 43.7778,
+	"longitude": -88.0902
+},
+{
+	"City": "Arkdale",
+	"State": "WI",
+	"latitude": 44.0253,
+	"longitude": -89.8861
+},
+{
+	"City": "Marquette",
+	"State": "WI",
+	"latitude": 43.7464,
+	"longitude": -89.1384
+},
+{
+	"City": "Fenwood",
+	"State": "WI",
+	"latitude": 44.8658,
+	"longitude": -90.0146
+},
+{
+	"City": "Lewis",
+	"State": "WI",
+	"latitude": 45.7159,
+	"longitude": -92.3965
+},
+{
+	"City": "Houlton",
+	"State": "WI",
+	"latitude": 45.0607,
+	"longitude": -92.7903
+},
+{
+	"City": "Nelsonville",
+	"State": "WI",
+	"latitude": 44.4937,
+	"longitude": -89.3091
+},
+{
+	"City": "Summit Lake",
+	"State": "WI",
+	"latitude": 45.3759,
+	"longitude": -89.2045
+},
+{
+	"City": "Navarino",
+	"State": "WI",
+	"latitude": 44.6108,
+	"longitude": -88.4936
+},
+{
+	"City": "Cable",
+	"State": "WI",
+	"latitude": 46.2013,
+	"longitude": -91.2933
+},
+{
+	"City": "Pine River",
+	"State": "WI",
+	"latitude": 44.1483,
+	"longitude": -89.0757
+},
+{
+	"City": "Boaz",
+	"State": "WI",
+	"latitude": 43.3299,
+	"longitude": -90.5278
+},
+{
+	"City": "Grand Marsh",
+	"State": "WI",
+	"latitude": 43.8852,
+	"longitude": -89.7072
+},
+{
+	"City": "Drummond",
+	"State": "WI",
+	"latitude": 46.3436,
+	"longitude": -91.25
+},
+{
+	"City": "Wyeville",
+	"State": "WI",
+	"latitude": 44.0279,
+	"longitude": -90.3861
+},
+{
+	"City": "Tustin",
+	"State": "WI",
+	"latitude": 44.1698,
+	"longitude": -88.896
+},
+{
+	"City": "Edmund",
+	"State": "WI",
+	"latitude": 42.9662,
+	"longitude": -90.2644
+},
+{
+	"City": "Whittlesey",
+	"State": "WI",
+	"latitude": 45.2206,
+	"longitude": -90.3232
+},
+{
+	"City": "Stone Lake",
+	"State": "WI",
+	"latitude": 45.8444,
+	"longitude": -91.5501
+},
+{
+	"City": "Newald",
+	"State": "WI",
+	"latitude": 45.7396,
+	"longitude": -88.7004
+},
+{
+	"City": "Hanover",
+	"State": "WI",
+	"latitude": 42.6389,
+	"longitude": -89.1708
+},
+{
+	"City": "Gordon",
+	"State": "WI",
+	"latitude": 46.2409,
+	"longitude": -91.7995
+},
+{
+	"City": "Gilmanton",
+	"State": "WI",
+	"latitude": 44.4738,
+	"longitude": -91.6785
+},
+{
+	"City": "Collins",
+	"State": "WI",
+	"latitude": 44.0827,
+	"longitude": -87.9839
+},
+{
+	"City": "Woodman",
+	"State": "WI",
+	"latitude": 43.0925,
+	"longitude": -90.7976
+},
+{
+	"City": "Zoar",
+	"State": "WI",
+	"latitude": 45.0178,
+	"longitude": -88.8945
+},
+{
+	"City": "Lynxville",
+	"State": "WI",
+	"latitude": 43.2493,
+	"longitude": -91.0464
+},
+{
+	"City": "Pence",
+	"State": "WI",
+	"latitude": 46.4103,
+	"longitude": -90.2695
+},
+{
+	"City": "Wiota",
+	"State": "WI",
+	"latitude": 42.6367,
+	"longitude": -89.9493
+},
+{
+	"City": "Steuben",
+	"State": "WI",
+	"latitude": 43.1833,
+	"longitude": -90.8569
+},
+{
+	"City": "Knowlton",
+	"State": "WI",
+	"latitude": 44.7189,
+	"longitude": -89.6803
+},
+{
+	"City": "Downsville",
+	"State": "WI",
+	"latitude": 44.7708,
+	"longitude": -91.9261
+},
+{
+	"City": "Pella",
+	"State": "WI",
+	"latitude": 44.7426,
+	"longitude": -88.8225
+},
+{
+	"City": "Kennan",
+	"State": "WI",
+	"latitude": 45.5301,
+	"longitude": -90.5868
+},
+{
+	"City": "Green Valley",
+	"State": "WI",
+	"latitude": 44.7969,
+	"longitude": -88.2682
+},
+{
+	"City": "Dodge",
+	"State": "WI",
+	"latitude": 44.1345,
+	"longitude": -91.5485
+},
+{
+	"City": "Maiden Rock",
+	"State": "WI",
+	"latitude": 44.566,
+	"longitude": -92.3083
+},
+{
+	"City": "Chelsea",
+	"State": "WI",
+	"latitude": 45.2926,
+	"longitude": -90.3054
+},
+{
+	"City": "Marengo",
+	"State": "WI",
+	"latitude": 46.4219,
+	"longitude": -90.8081
+},
+{
+	"City": "Lublin",
+	"State": "WI",
+	"latitude": 45.0749,
+	"longitude": -90.7238
+},
+{
+	"City": "Argonne",
+	"State": "WI",
+	"latitude": 45.6582,
+	"longitude": -88.8777
+},
+{
+	"City": "Bell Center",
+	"State": "WI",
+	"latitude": 43.2916,
+	"longitude": -90.8257
+},
+{
+	"City": "Melvina",
+	"State": "WI",
+	"latitude": 43.8024,
+	"longitude": -90.7815
+},
+{
+	"City": "Tunnel City",
+	"State": "WI",
+	"latitude": 44.005,
+	"longitude": -90.5679
+},
+{
+	"City": "Herbster",
+	"State": "WI",
+	"latitude": 46.8421,
+	"longitude": -91.2419
+},
+{
+	"City": "Cornucopia",
+	"State": "WI",
+	"latitude": 46.8566,
+	"longitude": -91.1082
+},
+{
+	"City": "Tony",
+	"State": "WI",
+	"latitude": 45.4804,
+	"longitude": -90.9972
+},
+{
+	"City": "Emerald",
+	"State": "WI",
+	"latitude": 45.0833,
+	"longitude": -92.2579
+},
+{
+	"City": "Catawba",
+	"State": "WI",
+	"latitude": 45.537,
+	"longitude": -90.5335
+},
+{
+	"City": "Millston",
+	"State": "WI",
+	"latitude": 44.1885,
+	"longitude": -90.6446
+},
+{
+	"City": "Mason",
+	"State": "WI",
+	"latitude": 46.4355,
+	"longitude": -91.0601
+},
+{
+	"City": "Townsend",
+	"State": "WI",
+	"latitude": 45.324,
+	"longitude": -88.5903
+},
+{
+	"City": "Pembine",
+	"State": "WI",
+	"latitude": 45.6367,
+	"longitude": -87.9918
+},
+{
+	"City": "Leopolis",
+	"State": "WI",
+	"latitude": 44.7654,
+	"longitude": -88.8447
+},
+{
+	"City": "Angelica",
+	"State": "WI",
+	"latitude": 44.675,
+	"longitude": -88.3215
+},
+{
+	"City": "Conrath",
+	"State": "WI",
+	"latitude": 45.3842,
+	"longitude": -91.0357
+},
+{
+	"City": "Tilleda",
+	"State": "WI",
+	"latitude": 44.8156,
+	"longitude": -88.9125
+},
+{
+	"City": "Grand View",
+	"State": "WI",
+	"latitude": 46.368,
+	"longitude": -91.1034
+},
+{
+	"City": "Springfield",
+	"State": "WI",
+	"latitude": 42.6407,
+	"longitude": -88.4135
+},
+{
+	"City": "Couderay",
+	"State": "WI",
+	"latitude": 45.7976,
+	"longitude": -91.3005
+},
+{
+	"City": "Glen Flora",
+	"State": "WI",
+	"latitude": 45.497,
+	"longitude": -90.8935
+},
+{
+	"City": "Babcock",
+	"State": "WI",
+	"latitude": 44.3044,
+	"longitude": -90.1076
+},
+{
+	"City": "Waumandee",
+	"State": "WI",
+	"latitude": 44.3023,
+	"longitude": -91.7053
+},
+{
+	"City": "Pulcifer",
+	"State": "WI",
+	"latitude": 44.8476,
+	"longitude": -88.3592
+},
+{
+	"City": "Thornton",
+	"State": "WI",
+	"latitude": 44.7985,
+	"longitude": -88.6911
+},
+{
+	"City": "Ingram",
+	"State": "WI",
+	"latitude": 45.5056,
+	"longitude": -90.8137
+},
+{
+	"City": "Yuba",
+	"State": "WI",
+	"latitude": 43.5364,
+	"longitude": -90.4267
+},
+{
+	"City": "Big Falls",
+	"State": "WI",
+	"latitude": 44.6175,
+	"longitude": -89.0166
+},
+{
+	"City": "Stockholm",
+	"State": "WI",
+	"latitude": 44.4852,
+	"longitude": -92.2633
+},
+{
+	"City": "Saxon",
+	"State": "WI",
+	"latitude": 46.4941,
+	"longitude": -90.4099
+},
+{
+	"City": "Glen Haven",
+	"State": "WI",
+	"latitude": 42.8313,
+	"longitude": -91.0633
+},
+{
+	"City": "Springbrook",
+	"State": "WI",
+	"latitude": 45.9467,
+	"longitude": -91.6891
+},
+{
+	"City": "Woodford",
+	"State": "WI",
+	"latitude": 42.6476,
+	"longitude": -89.8597
+},
+{
+	"City": "Dunbar",
+	"State": "WI",
+	"latitude": 45.6471,
+	"longitude": -88.1754
+},
+{
+	"City": "Long Lake",
+	"State": "WI",
+	"latitude": 45.8431,
+	"longitude": -88.6673
+},
+{
+	"City": "Diaperville",
+	"State": "WI",
+	"latitude": 46.606,
+	"longitude": -90.7101
+},
+{
+	"City": "Clam Lake",
+	"State": "WI",
+	"latitude": 46.1579,
+	"longitude": -90.9056
+},
+{
+	"City": "Jump River",
+	"State": "WI",
+	"latitude": 45.3555,
+	"longitude": -90.7966
+}]

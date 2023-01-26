@@ -1,0 +1,211 @@
+[
+{
+	"City": "Halifax",
+	"State": "NS",
+	"latitude": 44.6475,
+	"longitude": -63.5906
+},
+{
+	"City": "Cape Breton",
+	"State": "NS",
+	"latitude": 46.1389,
+	"longitude": -60.1931
+},
+{
+	"City": "New Glasgow",
+	"State": "NS",
+	"latitude": 45.5926,
+	"longitude": -62.6455
+},
+{
+	"City": "Inverness",
+	"State": "NS",
+	"latitude": 46.2,
+	"longitude": -61.1
+},
+{
+	"City": "Truro",
+	"State": "NS",
+	"latitude": 45.3647,
+	"longitude": -63.28
+},
+{
+	"City": "Kentville",
+	"State": "NS",
+	"latitude": 45.0775,
+	"longitude": -64.4958
+},
+{
+	"City": "Chester",
+	"State": "NS",
+	"latitude": 44.65,
+	"longitude": -64.3
+},
+{
+	"City": "Queens",
+	"State": "NS",
+	"latitude": 44.0333,
+	"longitude": -64.7167
+},
+{
+	"City": "Amherst",
+	"State": "NS",
+	"latitude": 45.8167,
+	"longitude": -64.2167
+},
+{
+	"City": "Bridgewater",
+	"State": "NS",
+	"latitude": 44.37,
+	"longitude": -64.52
+},
+{
+	"City": "Church Point",
+	"State": "NS",
+	"latitude": 44.3333,
+	"longitude": -66.1167
+},
+{
+	"City": "Argyle",
+	"State": "NS",
+	"latitude": 43.8,
+	"longitude": -65.85
+},
+{
+	"City": "Barrington",
+	"State": "NS",
+	"latitude": 43.5646,
+	"longitude": -65.5639
+},
+{
+	"City": "Yarmouth",
+	"State": "NS",
+	"latitude": 43.8361,
+	"longitude": -66.1175
+},
+{
+	"City": "Antigonish",
+	"State": "NS",
+	"latitude": 45.6167,
+	"longitude": -61.9833
+},
+{
+	"City": "Stellarton",
+	"State": "NS",
+	"latitude": 45.5567,
+	"longitude": -62.66
+},
+{
+	"City": "Wolfville",
+	"State": "NS",
+	"latitude": 45.0833,
+	"longitude": -64.3667
+},
+{
+	"City": "Windsor",
+	"State": "NS",
+	"latitude": 44.9803,
+	"longitude": -64.1292
+},
+{
+	"City": "Westville",
+	"State": "NS",
+	"latitude": 45.55,
+	"longitude": -62.7
+},
+{
+	"City": "Port Hawkesbury",
+	"State": "NS",
+	"latitude": 45.6153,
+	"longitude": -61.3642
+},
+{
+	"City": "Pictou",
+	"State": "NS",
+	"latitude": 45.6814,
+	"longitude": -62.7119
+},
+{
+	"City": "Berwick",
+	"State": "NS",
+	"latitude": 45.0475,
+	"longitude": -64.736
+},
+{
+	"City": "Trenton",
+	"State": "NS",
+	"latitude": 45.6193,
+	"longitude": -62.6332
+},
+{
+	"City": "Lunenburg",
+	"State": "NS",
+	"latitude": 44.3833,
+	"longitude": -64.3167
+},
+{
+	"City": "Lantz",
+	"State": "NS",
+	"latitude": 44.9894,
+	"longitude": -63.4736
+},
+{
+	"City": "Digby",
+	"State": "NS",
+	"latitude": 44.6222,
+	"longitude": -65.7606
+},
+{
+	"City": "Middleton",
+	"State": "NS",
+	"latitude": 44.9418,
+	"longitude": -65.0686
+},
+{
+	"City": "Shelburne",
+	"State": "NS",
+	"latitude": 43.7633,
+	"longitude": -65.3236
+},
+{
+	"City": "Stewiacke",
+	"State": "NS",
+	"latitude": 45.1422,
+	"longitude": -63.3483
+},
+{
+	"City": "Falmouth",
+	"State": "NS",
+	"latitude": 44.9967,
+	"longitude": -64.1634
+},
+{
+	"City": "Parrsboro",
+	"State": "NS",
+	"latitude": 45.3998,
+	"longitude": -64.3312
+},
+{
+	"City": "Oxford",
+	"State": "NS",
+	"latitude": 45.7306,
+	"longitude": -63.8733
+},
+{
+	"City": "Centreville",
+	"State": "NS",
+	"latitude": 45.13,
+	"longitude": -64.5224
+},
+{
+	"City": "Wedgeport",
+	"State": "NS",
+	"latitude": 43.7323,
+	"longitude": -65.9797
+},
+{
+	"City": "Mahone Bay",
+	"State": "NS",
+	"latitude": 44.4489,
+	"longitude": -64.3819
+}]

@@ -1,0 +1,4393 @@
+[
+{
+	"City": "Oklahoma City",
+	"State": "OK",
+	"latitude": 35.4676,
+	"longitude": -97.5136
+},
+{
+	"City": "Tulsa",
+	"State": "OK",
+	"latitude": 36.1284,
+	"longitude": -95.9042
+},
+{
+	"City": "Norman",
+	"State": "OK",
+	"latitude": 35.2335,
+	"longitude": -97.3471
+},
+{
+	"City": "Broken Arrow",
+	"State": "OK",
+	"latitude": 36.0365,
+	"longitude": -95.7809
+},
+{
+	"City": "Edmond",
+	"State": "OK",
+	"latitude": 35.6689,
+	"longitude": -97.4159
+},
+{
+	"City": "Lawton",
+	"State": "OK",
+	"latitude": 34.6176,
+	"longitude": -98.4203
+},
+{
+	"City": "Moore",
+	"State": "OK",
+	"latitude": 35.3293,
+	"longitude": -97.4758
+},
+{
+	"City": "Midwest City",
+	"State": "OK",
+	"latitude": 35.463,
+	"longitude": -97.3709
+},
+{
+	"City": "Stillwater",
+	"State": "OK",
+	"latitude": 36.1316,
+	"longitude": -97.074
+},
+{
+	"City": "Enid",
+	"State": "OK",
+	"latitude": 36.4061,
+	"longitude": -97.8701
+},
+{
+	"City": "Muskogee",
+	"State": "OK",
+	"latitude": 35.7431,
+	"longitude": -95.3568
+},
+{
+	"City": "Bartlesville",
+	"State": "OK",
+	"latitude": 36.7357,
+	"longitude": -95.9453
+},
+{
+	"City": "Owasso",
+	"State": "OK",
+	"latitude": 36.2882,
+	"longitude": -95.8328
+},
+{
+	"City": "Shawnee",
+	"State": "OK",
+	"latitude": 35.3529,
+	"longitude": -96.965
+},
+{
+	"City": "Yukon",
+	"State": "OK",
+	"latitude": 35.5201,
+	"longitude": -97.7639
+},
+{
+	"City": "Bixby",
+	"State": "OK",
+	"latitude": 35.9454,
+	"longitude": -95.8773
+},
+{
+	"City": "Claremore",
+	"State": "OK",
+	"latitude": 36.3143,
+	"longitude": -95.6099
+},
+{
+	"City": "Ardmore",
+	"State": "OK",
+	"latitude": 34.1944,
+	"longitude": -97.1253
+},
+{
+	"City": "Ponca City",
+	"State": "OK",
+	"latitude": 36.7235,
+	"longitude": -97.0679
+},
+{
+	"City": "Jenks",
+	"State": "OK",
+	"latitude": 35.9981,
+	"longitude": -95.9737
+},
+{
+	"City": "Mustang",
+	"State": "OK",
+	"latitude": 35.3917,
+	"longitude": -97.7246
+},
+{
+	"City": "Duncan",
+	"State": "OK",
+	"latitude": 34.5424,
+	"longitude": -97.919
+},
+{
+	"City": "Del City",
+	"State": "OK",
+	"latitude": 35.4483,
+	"longitude": -97.4408
+},
+{
+	"City": "Sapulpa",
+	"State": "OK",
+	"latitude": 36.0089,
+	"longitude": -96.1006
+},
+{
+	"City": "El Reno",
+	"State": "OK",
+	"latitude": 35.543,
+	"longitude": -97.966
+},
+{
+	"City": "Sand Springs",
+	"State": "OK",
+	"latitude": 36.1342,
+	"longitude": -96.1284
+},
+{
+	"City": "Tahlequah",
+	"State": "OK",
+	"latitude": 35.9116,
+	"longitude": -94.9773
+},
+{
+	"City": "Durant",
+	"State": "OK",
+	"latitude": 33.9957,
+	"longitude": -96.3938
+},
+{
+	"City": "Bethany",
+	"State": "OK",
+	"latitude": 35.5072,
+	"longitude": -97.6417
+},
+{
+	"City": "McAlester",
+	"State": "OK",
+	"latitude": 34.9262,
+	"longitude": -95.7698
+},
+{
+	"City": "Altus",
+	"State": "OK",
+	"latitude": 34.6566,
+	"longitude": -99.3051
+},
+{
+	"City": "Ada",
+	"State": "OK",
+	"latitude": 34.7683,
+	"longitude": -96.6689
+},
+{
+	"City": "Chickasha",
+	"State": "OK",
+	"latitude": 35.041,
+	"longitude": -97.9472
+},
+{
+	"City": "Miami",
+	"State": "OK",
+	"latitude": 36.8877,
+	"longitude": -94.8718
+},
+{
+	"City": "Glenpool",
+	"State": "OK",
+	"latitude": 35.9485,
+	"longitude": -96.0052
+},
+{
+	"City": "Okmulgee",
+	"State": "OK",
+	"latitude": 35.6136,
+	"longitude": -96.0069
+},
+{
+	"City": "Choctaw",
+	"State": "OK",
+	"latitude": 35.48,
+	"longitude": -97.2666
+},
+{
+	"City": "Woodward",
+	"State": "OK",
+	"latitude": 36.4247,
+	"longitude": -99.4057
+},
+{
+	"City": "Weatherford",
+	"State": "OK",
+	"latitude": 35.5384,
+	"longitude": -98.6872
+},
+{
+	"City": "Guthrie",
+	"State": "OK",
+	"latitude": 35.8428,
+	"longitude": -97.4357
+},
+{
+	"City": "Elk City",
+	"State": "OK",
+	"latitude": 35.385,
+	"longitude": -99.4331
+},
+{
+	"City": "Guymon",
+	"State": "OK",
+	"latitude": 36.6901,
+	"longitude": -101.4776
+},
+{
+	"City": "Newcastle",
+	"State": "OK",
+	"latitude": 35.2404,
+	"longitude": -97.5998
+},
+{
+	"City": "Warr Acres",
+	"State": "OK",
+	"latitude": 35.5285,
+	"longitude": -97.6182
+},
+{
+	"City": "Coweta",
+	"State": "OK",
+	"latitude": 35.968,
+	"longitude": -95.6543
+},
+{
+	"City": "The Village",
+	"State": "OK",
+	"latitude": 35.5706,
+	"longitude": -97.5567
+},
+{
+	"City": "Pryor Creek",
+	"State": "OK",
+	"latitude": 36.2998,
+	"longitude": -95.3102
+},
+{
+	"City": "Wagoner",
+	"State": "OK",
+	"latitude": 35.9641,
+	"longitude": -95.379
+},
+{
+	"City": "Clinton",
+	"State": "OK",
+	"latitude": 35.5058,
+	"longitude": -98.9724
+},
+{
+	"City": "Blanchard",
+	"State": "OK",
+	"latitude": 35.1523,
+	"longitude": -97.6613
+},
+{
+	"City": "Poteau",
+	"State": "OK",
+	"latitude": 35.043,
+	"longitude": -94.6357
+},
+{
+	"City": "Piedmont",
+	"State": "OK",
+	"latitude": 35.6784,
+	"longitude": -97.7528
+},
+{
+	"City": "Sallisaw",
+	"State": "OK",
+	"latitude": 35.4605,
+	"longitude": -94.807
+},
+{
+	"City": "Skiatook",
+	"State": "OK",
+	"latitude": 36.3694,
+	"longitude": -95.9819
+},
+{
+	"City": "Grove",
+	"State": "OK",
+	"latitude": 36.593,
+	"longitude": -94.7879
+},
+{
+	"City": "Cushing",
+	"State": "OK",
+	"latitude": 35.9798,
+	"longitude": -96.7602
+},
+{
+	"City": "Tuttle",
+	"State": "OK",
+	"latitude": 35.3069,
+	"longitude": -97.7562
+},
+{
+	"City": "Purcell",
+	"State": "OK",
+	"latitude": 35.018,
+	"longitude": -97.3747
+},
+{
+	"City": "Collinsville",
+	"State": "OK",
+	"latitude": 36.3718,
+	"longitude": -95.8611
+},
+{
+	"City": "Noble",
+	"State": "OK",
+	"latitude": 35.1385,
+	"longitude": -97.371
+},
+{
+	"City": "Seminole",
+	"State": "OK",
+	"latitude": 35.2346,
+	"longitude": -96.65
+},
+{
+	"City": "Catoosa",
+	"State": "OK",
+	"latitude": 36.1832,
+	"longitude": -95.7662
+},
+{
+	"City": "Idabel",
+	"State": "OK",
+	"latitude": 33.9041,
+	"longitude": -94.8294
+},
+{
+	"City": "Tecumseh",
+	"State": "OK",
+	"latitude": 35.2639,
+	"longitude": -96.9338
+},
+{
+	"City": "Blackwell",
+	"State": "OK",
+	"latitude": 36.8011,
+	"longitude": -97.3008
+},
+{
+	"City": "Anadarko",
+	"State": "OK",
+	"latitude": 35.0652,
+	"longitude": -98.2441
+},
+{
+	"City": "Harrah",
+	"State": "OK",
+	"latitude": 35.4779,
+	"longitude": -97.1857
+},
+{
+	"City": "Henryetta",
+	"State": "OK",
+	"latitude": 35.4421,
+	"longitude": -95.9848
+},
+{
+	"City": "Pauls Valley",
+	"State": "OK",
+	"latitude": 34.7236,
+	"longitude": -97.2291
+},
+{
+	"City": "Alva",
+	"State": "OK",
+	"latitude": 36.7892,
+	"longitude": -98.6648
+},
+{
+	"City": "Vinita",
+	"State": "OK",
+	"latitude": 36.6364,
+	"longitude": -95.177
+},
+{
+	"City": "Holdenville",
+	"State": "OK",
+	"latitude": 35.0836,
+	"longitude": -96.4004
+},
+{
+	"City": "Muldrow",
+	"State": "OK",
+	"latitude": 35.4039,
+	"longitude": -94.5969
+},
+{
+	"City": "Lone Grove",
+	"State": "OK",
+	"latitude": 34.1809,
+	"longitude": -97.2559
+},
+{
+	"City": "Hugo",
+	"State": "OK",
+	"latitude": 34.0121,
+	"longitude": -95.5115
+},
+{
+	"City": "Sulphur",
+	"State": "OK",
+	"latitude": 34.4977,
+	"longitude": -96.9899
+},
+{
+	"City": "Kingfisher",
+	"State": "OK",
+	"latitude": 35.8439,
+	"longitude": -97.9381
+},
+{
+	"City": "Perry",
+	"State": "OK",
+	"latitude": 36.2844,
+	"longitude": -97.3088
+},
+{
+	"City": "McLoud",
+	"State": "OK",
+	"latitude": 35.407,
+	"longitude": -97.1013
+},
+{
+	"City": "Madill",
+	"State": "OK",
+	"latitude": 34.0867,
+	"longitude": -96.7741
+},
+{
+	"City": "Verdigris",
+	"State": "OK",
+	"latitude": 36.2533,
+	"longitude": -95.6602
+},
+{
+	"City": "Sayre",
+	"State": "OK",
+	"latitude": 35.2973,
+	"longitude": -99.6284
+},
+{
+	"City": "Marlow",
+	"State": "OK",
+	"latitude": 34.6296,
+	"longitude": -97.9579
+},
+{
+	"City": "Slaughterville",
+	"State": "OK",
+	"latitude": 35.091,
+	"longitude": -97.2879
+},
+{
+	"City": "Broken Bow",
+	"State": "OK",
+	"latitude": 34.0277,
+	"longitude": -94.7419
+},
+{
+	"City": "Bristow",
+	"State": "OK",
+	"latitude": 35.8338,
+	"longitude": -96.3941
+},
+{
+	"City": "Pocola",
+	"State": "OK",
+	"latitude": 35.2456,
+	"longitude": -94.4774
+},
+{
+	"City": "Stilwell",
+	"State": "OK",
+	"latitude": 35.8151,
+	"longitude": -94.6312
+},
+{
+	"City": "Park Hill",
+	"State": "OK",
+	"latitude": 35.8546,
+	"longitude": -94.9559
+},
+{
+	"City": "Spencer",
+	"State": "OK",
+	"latitude": 35.5108,
+	"longitude": -97.3715
+},
+{
+	"City": "Fort Gibson",
+	"State": "OK",
+	"latitude": 35.7766,
+	"longitude": -95.2599
+},
+{
+	"City": "Nichols Hills",
+	"State": "OK",
+	"latitude": 35.5468,
+	"longitude": -97.5444
+},
+{
+	"City": "Roland",
+	"State": "OK",
+	"latitude": 35.4147,
+	"longitude": -94.5137
+},
+{
+	"City": "Heavener",
+	"State": "OK",
+	"latitude": 34.8919,
+	"longitude": -94.6075
+},
+{
+	"City": "Nowata",
+	"State": "OK",
+	"latitude": 36.699,
+	"longitude": -95.6379
+},
+{
+	"City": "Frederick",
+	"State": "OK",
+	"latitude": 34.3709,
+	"longitude": -99.001
+},
+{
+	"City": "Pawhuska",
+	"State": "OK",
+	"latitude": 36.6687,
+	"longitude": -96.3312
+},
+{
+	"City": "Hobart",
+	"State": "OK",
+	"latitude": 35.0246,
+	"longitude": -99.0875
+},
+{
+	"City": "Hominy",
+	"State": "OK",
+	"latitude": 36.422,
+	"longitude": -96.3929
+},
+{
+	"City": "Dewey",
+	"State": "OK",
+	"latitude": 36.7915,
+	"longitude": -95.9328
+},
+{
+	"City": "Wewoka",
+	"State": "OK",
+	"latitude": 35.1441,
+	"longitude": -96.4967
+},
+{
+	"City": "Hinton",
+	"State": "OK",
+	"latitude": 35.4793,
+	"longitude": -98.359
+},
+{
+	"City": "Mannford",
+	"State": "OK",
+	"latitude": 36.1298,
+	"longitude": -96.3348
+},
+{
+	"City": "Bethel Acres",
+	"State": "OK",
+	"latitude": 35.3048,
+	"longitude": -97.037
+},
+{
+	"City": "Elgin",
+	"State": "OK",
+	"latitude": 34.7848,
+	"longitude": -98.301
+},
+{
+	"City": "Jones",
+	"State": "OK",
+	"latitude": 35.5662,
+	"longitude": -97.2901
+},
+{
+	"City": "Okemah",
+	"State": "OK",
+	"latitude": 35.4297,
+	"longitude": -96.3005
+},
+{
+	"City": "Cleveland",
+	"State": "OK",
+	"latitude": 36.3002,
+	"longitude": -96.4631
+},
+{
+	"City": "Checotah",
+	"State": "OK",
+	"latitude": 35.4821,
+	"longitude": -95.5224
+},
+{
+	"City": "Chandler",
+	"State": "OK",
+	"latitude": 35.7237,
+	"longitude": -96.8951
+},
+{
+	"City": "Tishomingo",
+	"State": "OK",
+	"latitude": 34.2387,
+	"longitude": -96.6805
+},
+{
+	"City": "Atoka",
+	"State": "OK",
+	"latitude": 34.3857,
+	"longitude": -96.1313
+},
+{
+	"City": "Tonkawa",
+	"State": "OK",
+	"latitude": 36.6787,
+	"longitude": -97.3281
+},
+{
+	"City": "Davis",
+	"State": "OK",
+	"latitude": 34.4577,
+	"longitude": -97.1655
+},
+{
+	"City": "Eufaula",
+	"State": "OK",
+	"latitude": 35.2922,
+	"longitude": -95.5862
+},
+{
+	"City": "Watonga",
+	"State": "OK",
+	"latitude": 35.8661,
+	"longitude": -98.4166
+},
+{
+	"City": "Stigler",
+	"State": "OK",
+	"latitude": 35.2566,
+	"longitude": -95.1185
+},
+{
+	"City": "Drumright",
+	"State": "OK",
+	"latitude": 35.9893,
+	"longitude": -96.599
+},
+{
+	"City": "Perkins",
+	"State": "OK",
+	"latitude": 35.978,
+	"longitude": -97.0299
+},
+{
+	"City": "Cache",
+	"State": "OK",
+	"latitude": 34.6297,
+	"longitude": -98.6181
+},
+{
+	"City": "Lindsay",
+	"State": "OK",
+	"latitude": 34.8392,
+	"longitude": -97.6105
+},
+{
+	"City": "Marietta",
+	"State": "OK",
+	"latitude": 33.9355,
+	"longitude": -97.1242
+},
+{
+	"City": "Longtown",
+	"State": "OK",
+	"latitude": 35.2405,
+	"longitude": -95.5183
+},
+{
+	"City": "New Cordell",
+	"State": "OK",
+	"latitude": 35.2973,
+	"longitude": -98.9815
+},
+{
+	"City": "Stroud",
+	"State": "OK",
+	"latitude": 35.768,
+	"longitude": -96.6474
+},
+{
+	"City": "Mangum",
+	"State": "OK",
+	"latitude": 34.8783,
+	"longitude": -99.504
+},
+{
+	"City": "Healdton",
+	"State": "OK",
+	"latitude": 34.2335,
+	"longitude": -97.4868
+},
+{
+	"City": "Wilburton",
+	"State": "OK",
+	"latitude": 34.9183,
+	"longitude": -95.3046
+},
+{
+	"City": "Fairview",
+	"State": "OK",
+	"latitude": 36.2705,
+	"longitude": -98.4771
+},
+{
+	"City": "Turley",
+	"State": "OK",
+	"latitude": 36.2473,
+	"longitude": -95.9654
+},
+{
+	"City": "Jay",
+	"State": "OK",
+	"latitude": 36.4273,
+	"longitude": -94.7954
+},
+{
+	"City": "Commerce",
+	"State": "OK",
+	"latitude": 36.9352,
+	"longitude": -94.8611
+},
+{
+	"City": "Nicoma Park",
+	"State": "OK",
+	"latitude": 35.4912,
+	"longitude": -97.3254
+},
+{
+	"City": "Goldsby",
+	"State": "OK",
+	"latitude": 35.1304,
+	"longitude": -97.4779
+},
+{
+	"City": "Calera",
+	"State": "OK",
+	"latitude": 33.9312,
+	"longitude": -96.4299
+},
+{
+	"City": "Prague",
+	"State": "OK",
+	"latitude": 35.4997,
+	"longitude": -96.6999
+},
+{
+	"City": "Walters",
+	"State": "OK",
+	"latitude": 34.3612,
+	"longitude": -98.3563
+},
+{
+	"City": "Hartshorne",
+	"State": "OK",
+	"latitude": 34.8389,
+	"longitude": -95.5585
+},
+{
+	"City": "Antlers",
+	"State": "OK",
+	"latitude": 34.2325,
+	"longitude": -95.6214
+},
+{
+	"City": "Texanna",
+	"State": "OK",
+	"latitude": 35.3572,
+	"longitude": -95.5047
+},
+{
+	"City": "Oakhurst",
+	"State": "OK",
+	"latitude": 36.0828,
+	"longitude": -96.0641
+},
+{
+	"City": "Hennessey",
+	"State": "OK",
+	"latitude": 36.1056,
+	"longitude": -97.8989
+},
+{
+	"City": "Wynnewood",
+	"State": "OK",
+	"latitude": 34.6442,
+	"longitude": -97.1627
+},
+{
+	"City": "Lexington",
+	"State": "OK",
+	"latitude": 35.0179,
+	"longitude": -97.3345
+},
+{
+	"City": "Pink",
+	"State": "OK",
+	"latitude": 35.2327,
+	"longitude": -97.1002
+},
+{
+	"City": "Newkirk",
+	"State": "OK",
+	"latitude": 36.8816,
+	"longitude": -97.0554
+},
+{
+	"City": "Spiro",
+	"State": "OK",
+	"latitude": 35.2412,
+	"longitude": -94.623
+},
+{
+	"City": "Union City",
+	"State": "OK",
+	"latitude": 35.4015,
+	"longitude": -97.9047
+},
+{
+	"City": "Pawnee",
+	"State": "OK",
+	"latitude": 36.3363,
+	"longitude": -96.8019
+},
+{
+	"City": "Chouteau",
+	"State": "OK",
+	"latitude": 36.1884,
+	"longitude": -95.3362
+},
+{
+	"City": "Kiefer",
+	"State": "OK",
+	"latitude": 35.9439,
+	"longitude": -96.0527
+},
+{
+	"City": "Copeland",
+	"State": "OK",
+	"latitude": 36.6571,
+	"longitude": -94.8204
+},
+{
+	"City": "Granite",
+	"State": "OK",
+	"latitude": 34.9561,
+	"longitude": -99.3703
+},
+{
+	"City": "Krebs",
+	"State": "OK",
+	"latitude": 34.93,
+	"longitude": -95.72
+},
+{
+	"City": "Haskell",
+	"State": "OK",
+	"latitude": 35.8187,
+	"longitude": -95.6805
+},
+{
+	"City": "Chelsea",
+	"State": "OK",
+	"latitude": 36.5323,
+	"longitude": -95.4355
+},
+{
+	"City": "Burns Flat",
+	"State": "OK",
+	"latitude": 35.3548,
+	"longitude": -99.1751
+},
+{
+	"City": "Arkoma",
+	"State": "OK",
+	"latitude": 35.3374,
+	"longitude": -94.4438
+},
+{
+	"City": "Waurika",
+	"State": "OK",
+	"latitude": 34.1846,
+	"longitude": -98.0245
+},
+{
+	"City": "Hollis",
+	"State": "OK",
+	"latitude": 34.6895,
+	"longitude": -99.9153
+},
+{
+	"City": "Langston",
+	"State": "OK",
+	"latitude": 35.9324,
+	"longitude": -97.263
+},
+{
+	"City": "Hooker",
+	"State": "OK",
+	"latitude": 36.8612,
+	"longitude": -101.216
+},
+{
+	"City": "Inola",
+	"State": "OK",
+	"latitude": 36.1315,
+	"longitude": -95.5373
+},
+{
+	"City": "Coalgate",
+	"State": "OK",
+	"latitude": 34.5323,
+	"longitude": -96.2208
+},
+{
+	"City": "Luther",
+	"State": "OK",
+	"latitude": 35.668,
+	"longitude": -97.1905
+},
+{
+	"City": "Wilson",
+	"State": "OK",
+	"latitude": 34.1685,
+	"longitude": -97.426
+},
+{
+	"City": "Kingston",
+	"State": "OK",
+	"latitude": 33.9979,
+	"longitude": -96.6952
+},
+{
+	"City": "Minco",
+	"State": "OK",
+	"latitude": 35.3174,
+	"longitude": -97.9518
+},
+{
+	"City": "Carnegie",
+	"State": "OK",
+	"latitude": 35.1024,
+	"longitude": -98.5995
+},
+{
+	"City": "Warner",
+	"State": "OK",
+	"latitude": 35.4902,
+	"longitude": -95.3085
+},
+{
+	"City": "McCord",
+	"State": "OK",
+	"latitude": 36.6798,
+	"longitude": -97.0346
+},
+{
+	"City": "Crescent",
+	"State": "OK",
+	"latitude": 35.9516,
+	"longitude": -97.5949
+},
+{
+	"City": "Comanche",
+	"State": "OK",
+	"latitude": 34.3597,
+	"longitude": -97.9478
+},
+{
+	"City": "Westville",
+	"State": "OK",
+	"latitude": 35.9903,
+	"longitude": -94.5743
+},
+{
+	"City": "Stratford",
+	"State": "OK",
+	"latitude": 34.7952,
+	"longitude": -96.9603
+},
+{
+	"City": "Cherokee",
+	"State": "OK",
+	"latitude": 36.7547,
+	"longitude": -98.3551
+},
+{
+	"City": "Justice",
+	"State": "OK",
+	"latitude": 36.2909,
+	"longitude": -95.5635
+},
+{
+	"City": "Morris",
+	"State": "OK",
+	"latitude": 35.6152,
+	"longitude": -95.8624
+},
+{
+	"City": "Helena",
+	"State": "OK",
+	"latitude": 36.5466,
+	"longitude": -98.2714
+},
+{
+	"City": "Beaver",
+	"State": "OK",
+	"latitude": 36.8151,
+	"longitude": -100.5235
+},
+{
+	"City": "Cleora",
+	"State": "OK",
+	"latitude": 36.5738,
+	"longitude": -94.948
+},
+{
+	"City": "Locust Grove",
+	"State": "OK",
+	"latitude": 36.1978,
+	"longitude": -95.1685
+},
+{
+	"City": "Salina",
+	"State": "OK",
+	"latitude": 36.2907,
+	"longitude": -95.1519
+},
+{
+	"City": "Apache",
+	"State": "OK",
+	"latitude": 34.8938,
+	"longitude": -98.3581
+},
+{
+	"City": "Vian",
+	"State": "OK",
+	"latitude": 35.5018,
+	"longitude": -94.9698
+},
+{
+	"City": "Panama",
+	"State": "OK",
+	"latitude": 35.1716,
+	"longitude": -94.6707
+},
+{
+	"City": "Sperry",
+	"State": "OK",
+	"latitude": 36.2978,
+	"longitude": -95.9917
+},
+{
+	"City": "Okarche",
+	"State": "OK",
+	"latitude": 35.7189,
+	"longitude": -97.9757
+},
+{
+	"City": "Laverne",
+	"State": "OK",
+	"latitude": 36.7054,
+	"longitude": -99.8971
+},
+{
+	"City": "Waukomis",
+	"State": "OK",
+	"latitude": 36.2833,
+	"longitude": -97.9038
+},
+{
+	"City": "Buffalo",
+	"State": "OK",
+	"latitude": 36.8373,
+	"longitude": -99.6464
+},
+{
+	"City": "Bushyhead",
+	"State": "OK",
+	"latitude": 36.4596,
+	"longitude": -95.5164
+},
+{
+	"City": "Snyder",
+	"State": "OK",
+	"latitude": 34.6552,
+	"longitude": -98.9533
+},
+{
+	"City": "Goodwell",
+	"State": "OK",
+	"latitude": 36.5943,
+	"longitude": -101.6326
+},
+{
+	"City": "Geary",
+	"State": "OK",
+	"latitude": 35.5927,
+	"longitude": -98.2914
+},
+{
+	"City": "Fairfax",
+	"State": "OK",
+	"latitude": 36.5698,
+	"longitude": -96.708
+},
+{
+	"City": "Mounds",
+	"State": "OK",
+	"latitude": 35.8789,
+	"longitude": -96.0682
+},
+{
+	"City": "Shattuck",
+	"State": "OK",
+	"latitude": 36.2651,
+	"longitude": -99.8774
+},
+{
+	"City": "Rush Springs",
+	"State": "OK",
+	"latitude": 34.7792,
+	"longitude": -97.9572
+},
+{
+	"City": "Colbert",
+	"State": "OK",
+	"latitude": 33.8578,
+	"longitude": -96.5043
+},
+{
+	"City": "Dickson",
+	"State": "OK",
+	"latitude": 34.1877,
+	"longitude": -96.997
+},
+{
+	"City": "Beggs",
+	"State": "OK",
+	"latitude": 35.7772,
+	"longitude": -96.0278
+},
+{
+	"City": "Yale",
+	"State": "OK",
+	"latitude": 36.115,
+	"longitude": -96.7012
+},
+{
+	"City": "Latta",
+	"State": "OK",
+	"latitude": 34.7531,
+	"longitude": -96.7088
+},
+{
+	"City": "Brushy",
+	"State": "OK",
+	"latitude": 35.5578,
+	"longitude": -94.7434
+},
+{
+	"City": "Geronimo",
+	"State": "OK",
+	"latitude": 34.4852,
+	"longitude": -98.3893
+},
+{
+	"City": "Maysville",
+	"State": "OK",
+	"latitude": 34.8544,
+	"longitude": -97.3878
+},
+{
+	"City": "Wetumka",
+	"State": "OK",
+	"latitude": 35.2409,
+	"longitude": -96.239
+},
+{
+	"City": "Byng",
+	"State": "OK",
+	"latitude": 34.8659,
+	"longitude": -96.6678
+},
+{
+	"City": "Thomas",
+	"State": "OK",
+	"latitude": 35.7476,
+	"longitude": -98.7494
+},
+{
+	"City": "Konawa",
+	"State": "OK",
+	"latitude": 34.9582,
+	"longitude": -96.7535
+},
+{
+	"City": "Bray",
+	"State": "OK",
+	"latitude": 34.616,
+	"longitude": -97.8207
+},
+{
+	"City": "Oologah",
+	"State": "OK",
+	"latitude": 36.4436,
+	"longitude": -95.7085
+},
+{
+	"City": "Boley",
+	"State": "OK",
+	"latitude": 35.4903,
+	"longitude": -96.4793
+},
+{
+	"City": "Mooreland",
+	"State": "OK",
+	"latitude": 36.4379,
+	"longitude": -99.2045
+},
+{
+	"City": "Central High",
+	"State": "OK",
+	"latitude": 34.617,
+	"longitude": -98.0892
+},
+{
+	"City": "Barnsdall",
+	"State": "OK",
+	"latitude": 36.5609,
+	"longitude": -96.1626
+},
+{
+	"City": "Kellyville",
+	"State": "OK",
+	"latitude": 35.9482,
+	"longitude": -96.2143
+},
+{
+	"City": "Fletcher",
+	"State": "OK",
+	"latitude": 34.8224,
+	"longitude": -98.2391
+},
+{
+	"City": "Meeker",
+	"State": "OK",
+	"latitude": 35.4852,
+	"longitude": -96.8951
+},
+{
+	"City": "Oakland",
+	"State": "OK",
+	"latitude": 34.0975,
+	"longitude": -96.7978
+},
+{
+	"City": "Okeene",
+	"State": "OK",
+	"latitude": 36.1171,
+	"longitude": -98.3165
+},
+{
+	"City": "Kenwood",
+	"State": "OK",
+	"latitude": 36.3013,
+	"longitude": -94.9979
+},
+{
+	"City": "Caddo",
+	"State": "OK",
+	"latitude": 34.1288,
+	"longitude": -96.2678
+},
+{
+	"City": "Boise City",
+	"State": "OK",
+	"latitude": 36.7314,
+	"longitude": -102.5098
+},
+{
+	"City": "Talihina",
+	"State": "OK",
+	"latitude": 34.7522,
+	"longitude": -95.0409
+},
+{
+	"City": "Forest Park",
+	"State": "OK",
+	"latitude": 35.5095,
+	"longitude": -97.4469
+},
+{
+	"City": "Wister",
+	"State": "OK",
+	"latitude": 34.9699,
+	"longitude": -94.7206
+},
+{
+	"City": "Maud",
+	"State": "OK",
+	"latitude": 35.1336,
+	"longitude": -96.7783
+},
+{
+	"City": "Cherry Tree",
+	"State": "OK",
+	"latitude": 35.7454,
+	"longitude": -94.6428
+},
+{
+	"City": "Ninnekah",
+	"State": "OK",
+	"latitude": 34.9641,
+	"longitude": -97.9447
+},
+{
+	"City": "Fairland",
+	"State": "OK",
+	"latitude": 36.7506,
+	"longitude": -94.8483
+},
+{
+	"City": "Afton",
+	"State": "OK",
+	"latitude": 36.6965,
+	"longitude": -94.9579
+},
+{
+	"City": "Peggs",
+	"State": "OK",
+	"latitude": 36.0673,
+	"longitude": -95.0718
+},
+{
+	"City": "Oilton",
+	"State": "OK",
+	"latitude": 36.0821,
+	"longitude": -96.5819
+},
+{
+	"City": "Cyril",
+	"State": "OK",
+	"latitude": 34.8986,
+	"longitude": -98.2031
+},
+{
+	"City": "Erick",
+	"State": "OK",
+	"latitude": 35.2155,
+	"longitude": -99.8686
+},
+{
+	"City": "Shady Point",
+	"State": "OK",
+	"latitude": 35.1278,
+	"longitude": -94.6687
+},
+{
+	"City": "Quinton",
+	"State": "OK",
+	"latitude": 35.1249,
+	"longitude": -95.3676
+},
+{
+	"City": "Sequoyah",
+	"State": "OK",
+	"latitude": 36.3797,
+	"longitude": -95.5969
+},
+{
+	"City": "Ringling",
+	"State": "OK",
+	"latitude": 34.1785,
+	"longitude": -97.5921
+},
+{
+	"City": "Weleetka",
+	"State": "OK",
+	"latitude": 35.3428,
+	"longitude": -96.1353
+},
+{
+	"City": "Gore",
+	"State": "OK",
+	"latitude": 35.5417,
+	"longitude": -95.1129
+},
+{
+	"City": "Medford",
+	"State": "OK",
+	"latitude": 36.8037,
+	"longitude": -97.738
+},
+{
+	"City": "Hydro",
+	"State": "OK",
+	"latitude": 35.5482,
+	"longitude": -98.5792
+},
+{
+	"City": "Grandfield",
+	"State": "OK",
+	"latitude": 34.2305,
+	"longitude": -98.6873
+},
+{
+	"City": "Pettit",
+	"State": "OK",
+	"latitude": 35.7656,
+	"longitude": -94.9692
+},
+{
+	"City": "Allen",
+	"State": "OK",
+	"latitude": 34.8774,
+	"longitude": -96.413
+},
+{
+	"City": "North Enid",
+	"State": "OK",
+	"latitude": 36.4457,
+	"longitude": -97.8634
+},
+{
+	"City": "Waynoka",
+	"State": "OK",
+	"latitude": 36.5848,
+	"longitude": -98.8785
+},
+{
+	"City": "Lost City",
+	"State": "OK",
+	"latitude": 36.0006,
+	"longitude": -95.1223
+},
+{
+	"City": "Temple",
+	"State": "OK",
+	"latitude": 34.273,
+	"longitude": -98.2352
+},
+{
+	"City": "Texhoma",
+	"State": "OK",
+	"latitude": 36.5053,
+	"longitude": -101.7876
+},
+{
+	"City": "Brent",
+	"State": "OK",
+	"latitude": 35.364,
+	"longitude": -94.788
+},
+{
+	"City": "Empire City",
+	"State": "OK",
+	"latitude": 34.4738,
+	"longitude": -98.0562
+},
+{
+	"City": "Quapaw",
+	"State": "OK",
+	"latitude": 36.9581,
+	"longitude": -94.7813
+},
+{
+	"City": "Cashion",
+	"State": "OK",
+	"latitude": 35.8039,
+	"longitude": -97.6753
+},
+{
+	"City": "Mannsville",
+	"State": "OK",
+	"latitude": 34.1858,
+	"longitude": -96.8974
+},
+{
+	"City": "Dibble",
+	"State": "OK",
+	"latitude": 35.0152,
+	"longitude": -97.6275
+},
+{
+	"City": "West Siloam Springs",
+	"State": "OK",
+	"latitude": 36.1755,
+	"longitude": -94.5941
+},
+{
+	"City": "Seiling",
+	"State": "OK",
+	"latitude": 36.1548,
+	"longitude": -98.9296
+},
+{
+	"City": "Dewar",
+	"State": "OK",
+	"latitude": 35.4583,
+	"longitude": -95.9476
+},
+{
+	"City": "Colcord",
+	"State": "OK",
+	"latitude": 36.2647,
+	"longitude": -94.692
+},
+{
+	"City": "Sentinel",
+	"State": "OK",
+	"latitude": 35.1571,
+	"longitude": -99.1736
+},
+{
+	"City": "Pond Creek",
+	"State": "OK",
+	"latitude": 36.6677,
+	"longitude": -97.8029
+},
+{
+	"City": "Langley",
+	"State": "OK",
+	"latitude": 36.4707,
+	"longitude": -95.0539
+},
+{
+	"City": "Adair",
+	"State": "OK",
+	"latitude": 36.4366,
+	"longitude": -95.2727
+},
+{
+	"City": "Garber",
+	"State": "OK",
+	"latitude": 36.4365,
+	"longitude": -97.581
+},
+{
+	"City": "Davenport",
+	"State": "OK",
+	"latitude": 35.7093,
+	"longitude": -96.7643
+},
+{
+	"City": "Limestone",
+	"State": "OK",
+	"latitude": 36.3143,
+	"longitude": -95.7477
+},
+{
+	"City": "Arapaho",
+	"State": "OK",
+	"latitude": 35.5779,
+	"longitude": -98.9593
+},
+{
+	"City": "Flint Creek",
+	"State": "OK",
+	"latitude": 36.1765,
+	"longitude": -94.7436
+},
+{
+	"City": "Kansas",
+	"State": "OK",
+	"latitude": 36.2058,
+	"longitude": -94.789
+},
+{
+	"City": "Howe",
+	"State": "OK",
+	"latitude": 34.95,
+	"longitude": -94.6408
+},
+{
+	"City": "Clayton",
+	"State": "OK",
+	"latitude": 34.5857,
+	"longitude": -95.3561
+},
+{
+	"City": "Wellston",
+	"State": "OK",
+	"latitude": 35.6861,
+	"longitude": -97.0616
+},
+{
+	"City": "Cheyenne",
+	"State": "OK",
+	"latitude": 35.6102,
+	"longitude": -99.6782
+},
+{
+	"City": "Sterling",
+	"State": "OK",
+	"latitude": 34.7498,
+	"longitude": -98.1729
+},
+{
+	"City": "Valley Brook",
+	"State": "OK",
+	"latitude": 35.4027,
+	"longitude": -97.4814
+},
+{
+	"City": "Tipton",
+	"State": "OK",
+	"latitude": 34.502,
+	"longitude": -99.1383
+},
+{
+	"City": "Haileyville",
+	"State": "OK",
+	"latitude": 34.8542,
+	"longitude": -95.5784
+},
+{
+	"City": "Ryan",
+	"State": "OK",
+	"latitude": 34.0213,
+	"longitude": -97.9541
+},
+{
+	"City": "Burneyville",
+	"State": "OK",
+	"latitude": 33.9055,
+	"longitude": -97.2913
+},
+{
+	"City": "Blair",
+	"State": "OK",
+	"latitude": 34.7799,
+	"longitude": -99.3329
+},
+{
+	"City": "Tyrone",
+	"State": "OK",
+	"latitude": 36.9556,
+	"longitude": -101.0679
+},
+{
+	"City": "Valliant",
+	"State": "OK",
+	"latitude": 34.0043,
+	"longitude": -95.0895
+},
+{
+	"City": "Copan",
+	"State": "OK",
+	"latitude": 36.9008,
+	"longitude": -95.9254
+},
+{
+	"City": "Mountain View",
+	"State": "OK",
+	"latitude": 35.0994,
+	"longitude": -98.7502
+},
+{
+	"City": "Wright City",
+	"State": "OK",
+	"latitude": 34.0649,
+	"longitude": -95.0074
+},
+{
+	"City": "South Coffeyville",
+	"State": "OK",
+	"latitude": 36.9934,
+	"longitude": -95.6219
+},
+{
+	"City": "Wayne",
+	"State": "OK",
+	"latitude": 34.9171,
+	"longitude": -97.3167
+},
+{
+	"City": "Roff",
+	"State": "OK",
+	"latitude": 34.6288,
+	"longitude": -96.8411
+},
+{
+	"City": "Elmore City",
+	"State": "OK",
+	"latitude": 34.6299,
+	"longitude": -97.3909
+},
+{
+	"City": "Woodall",
+	"State": "OK",
+	"latitude": 35.8246,
+	"longitude": -95.0823
+},
+{
+	"City": "Morrison",
+	"State": "OK",
+	"latitude": 36.2924,
+	"longitude": -97.0291
+},
+{
+	"City": "Vici",
+	"State": "OK",
+	"latitude": 36.1487,
+	"longitude": -99.2993
+},
+{
+	"City": "Okay",
+	"State": "OK",
+	"latitude": 35.854,
+	"longitude": -95.3143
+},
+{
+	"City": "Porum",
+	"State": "OK",
+	"latitude": 35.3568,
+	"longitude": -95.2634
+},
+{
+	"City": "Springer",
+	"State": "OK",
+	"latitude": 34.2909,
+	"longitude": -97.1255
+},
+{
+	"City": "Bokchito",
+	"State": "OK",
+	"latitude": 34.0179,
+	"longitude": -96.1416
+},
+{
+	"City": "Tenkiller",
+	"State": "OK",
+	"latitude": 35.7975,
+	"longitude": -94.8656
+},
+{
+	"City": "Porter",
+	"State": "OK",
+	"latitude": 35.8687,
+	"longitude": -95.5206
+},
+{
+	"City": "Boswell",
+	"State": "OK",
+	"latitude": 34.0281,
+	"longitude": -95.8683
+},
+{
+	"City": "Kiowa",
+	"State": "OK",
+	"latitude": 34.7223,
+	"longitude": -95.9018
+},
+{
+	"City": "Welling",
+	"State": "OK",
+	"latitude": 35.8561,
+	"longitude": -94.8458
+},
+{
+	"City": "Savanna",
+	"State": "OK",
+	"latitude": 34.8353,
+	"longitude": -95.8357
+},
+{
+	"City": "Remy",
+	"State": "OK",
+	"latitude": 35.4578,
+	"longitude": -94.4984
+},
+{
+	"City": "Rock Island",
+	"State": "OK",
+	"latitude": 35.1831,
+	"longitude": -94.4811
+},
+{
+	"City": "Binger",
+	"State": "OK",
+	"latitude": 35.3105,
+	"longitude": -98.3433
+},
+{
+	"City": "Cartwright",
+	"State": "OK",
+	"latitude": 33.8555,
+	"longitude": -96.561
+},
+{
+	"City": "Carney",
+	"State": "OK",
+	"latitude": 35.8065,
+	"longitude": -97.0154
+},
+{
+	"City": "Earlsboro",
+	"State": "OK",
+	"latitude": 35.3277,
+	"longitude": -96.8014
+},
+{
+	"City": "Lahoma",
+	"State": "OK",
+	"latitude": 36.3878,
+	"longitude": -98.0898
+},
+{
+	"City": "Paoli",
+	"State": "OK",
+	"latitude": 34.8261,
+	"longitude": -97.2619
+},
+{
+	"City": "Fairfield",
+	"State": "OK",
+	"latitude": 35.8407,
+	"longitude": -94.6062
+},
+{
+	"City": "Fort Cobb",
+	"State": "OK",
+	"latitude": 35.1041,
+	"longitude": -98.4417
+},
+{
+	"City": "Glencoe",
+	"State": "OK",
+	"latitude": 36.2313,
+	"longitude": -96.9302
+},
+{
+	"City": "Calumet",
+	"State": "OK",
+	"latitude": 35.6014,
+	"longitude": -98.1247
+},
+{
+	"City": "Washington",
+	"State": "OK",
+	"latitude": 35.0583,
+	"longitude": -97.4922
+},
+{
+	"City": "Cole",
+	"State": "OK",
+	"latitude": 35.0992,
+	"longitude": -97.5663
+},
+{
+	"City": "Velma",
+	"State": "OK",
+	"latitude": 34.4548,
+	"longitude": -97.6617
+},
+{
+	"City": "Webbers Falls",
+	"State": "OK",
+	"latitude": 35.512,
+	"longitude": -95.1601
+},
+{
+	"City": "Canton",
+	"State": "OK",
+	"latitude": 36.055,
+	"longitude": -98.5884
+},
+{
+	"City": "Akins",
+	"State": "OK",
+	"latitude": 35.5043,
+	"longitude": -94.67
+},
+{
+	"City": "Welch",
+	"State": "OK",
+	"latitude": 36.8738,
+	"longitude": -95.0948
+},
+{
+	"City": "Hulbert",
+	"State": "OK",
+	"latitude": 35.9315,
+	"longitude": -95.1436
+},
+{
+	"City": "Bernice",
+	"State": "OK",
+	"latitude": 36.622,
+	"longitude": -94.9109
+},
+{
+	"City": "Hammon",
+	"State": "OK",
+	"latitude": 35.6323,
+	"longitude": -99.3832
+},
+{
+	"City": "Olustee",
+	"State": "OK",
+	"latitude": 34.5476,
+	"longitude": -99.4241
+},
+{
+	"City": "Keota",
+	"State": "OK",
+	"latitude": 35.2569,
+	"longitude": -94.9224
+},
+{
+	"City": "Alex",
+	"State": "OK",
+	"latitude": 34.9227,
+	"longitude": -97.7763
+},
+{
+	"City": "Ramona",
+	"State": "OK",
+	"latitude": 36.5322,
+	"longitude": -95.926
+},
+{
+	"City": "Achille",
+	"State": "OK",
+	"latitude": 33.8346,
+	"longitude": -96.39
+},
+{
+	"City": "Eagletown",
+	"State": "OK",
+	"latitude": 34.0417,
+	"longitude": -94.57
+},
+{
+	"City": "Pin Oak Acres",
+	"State": "OK",
+	"latitude": 36.1226,
+	"longitude": -95.2889
+},
+{
+	"City": "Verden",
+	"State": "OK",
+	"latitude": 35.0831,
+	"longitude": -98.0872
+},
+{
+	"City": "Covington",
+	"State": "OK",
+	"latitude": 36.3075,
+	"longitude": -97.5866
+},
+{
+	"City": "Dill City",
+	"State": "OK",
+	"latitude": 35.282,
+	"longitude": -99.1335
+},
+{
+	"City": "Shady Grove",
+	"State": "OK",
+	"latitude": 35.9485,
+	"longitude": -95.0952
+},
+{
+	"City": "Forgan",
+	"State": "OK",
+	"latitude": 36.9068,
+	"longitude": -100.5377
+},
+{
+	"City": "Ravia",
+	"State": "OK",
+	"latitude": 34.2408,
+	"longitude": -96.7565
+},
+{
+	"City": "Redbird Smith",
+	"State": "OK",
+	"latitude": 35.5615,
+	"longitude": -95.0298
+},
+{
+	"City": "Stonewall",
+	"State": "OK",
+	"latitude": 34.6504,
+	"longitude": -96.5268
+},
+{
+	"City": "Canute",
+	"State": "OK",
+	"latitude": 35.422,
+	"longitude": -99.2776
+},
+{
+	"City": "Rocky Mountain",
+	"State": "OK",
+	"latitude": 35.7936,
+	"longitude": -94.778
+},
+{
+	"City": "Thackerville",
+	"State": "OK",
+	"latitude": 33.7937,
+	"longitude": -97.1422
+},
+{
+	"City": "Carlisle",
+	"State": "OK",
+	"latitude": 35.5042,
+	"longitude": -95.0323
+},
+{
+	"City": "Ringwood",
+	"State": "OK",
+	"latitude": 36.3821,
+	"longitude": -98.2412
+},
+{
+	"City": "Winchester",
+	"State": "OK",
+	"latitude": 35.7906,
+	"longitude": -95.9983
+},
+{
+	"City": "McCurtain",
+	"State": "OK",
+	"latitude": 35.1509,
+	"longitude": -94.9669
+},
+{
+	"City": "Tryon",
+	"State": "OK",
+	"latitude": 35.8816,
+	"longitude": -96.9655
+},
+{
+	"City": "Bokoshe",
+	"State": "OK",
+	"latitude": 35.1908,
+	"longitude": -94.7902
+},
+{
+	"City": "New Eucha",
+	"State": "OK",
+	"latitude": 36.3912,
+	"longitude": -94.8522
+},
+{
+	"City": "Schulter",
+	"State": "OK",
+	"latitude": 35.511,
+	"longitude": -95.9567
+},
+{
+	"City": "Billings",
+	"State": "OK",
+	"latitude": 36.5313,
+	"longitude": -97.4342
+},
+{
+	"City": "Zeb",
+	"State": "OK",
+	"latitude": 35.8061,
+	"longitude": -95.0438
+},
+{
+	"City": "Fort Towson",
+	"State": "OK",
+	"latitude": 34.0244,
+	"longitude": -95.2972
+},
+{
+	"City": "Arnett",
+	"State": "OK",
+	"latitude": 36.135,
+	"longitude": -99.7712
+},
+{
+	"City": "Amber",
+	"State": "OK",
+	"latitude": 35.1602,
+	"longitude": -97.882
+},
+{
+	"City": "Depew",
+	"State": "OK",
+	"latitude": 35.7977,
+	"longitude": -96.524
+},
+{
+	"City": "Red Oak",
+	"State": "OK",
+	"latitude": 34.9508,
+	"longitude": -95.0814
+},
+{
+	"City": "Dover",
+	"State": "OK",
+	"latitude": 35.9815,
+	"longitude": -97.9106
+},
+{
+	"City": "Cement",
+	"State": "OK",
+	"latitude": 34.9362,
+	"longitude": -98.1364
+},
+{
+	"City": "Wauhillau",
+	"State": "OK",
+	"latitude": 35.8682,
+	"longitude": -94.7623
+},
+{
+	"City": "Corn",
+	"State": "OK",
+	"latitude": 35.3793,
+	"longitude": -98.7814
+},
+{
+	"City": "Prue",
+	"State": "OK",
+	"latitude": 36.2497,
+	"longitude": -96.2668
+},
+{
+	"City": "Paden",
+	"State": "OK",
+	"latitude": 35.5076,
+	"longitude": -96.5665
+},
+{
+	"City": "Drummond",
+	"State": "OK",
+	"latitude": 36.3012,
+	"longitude": -98.0358
+},
+{
+	"City": "Proctor",
+	"State": "OK",
+	"latitude": 35.9759,
+	"longitude": -94.7511
+},
+{
+	"City": "Chattanooga",
+	"State": "OK",
+	"latitude": 34.4242,
+	"longitude": -98.654
+},
+{
+	"City": "Medicine Park",
+	"State": "OK",
+	"latitude": 34.7294,
+	"longitude": -98.4846
+},
+{
+	"City": "Wapanucka",
+	"State": "OK",
+	"latitude": 34.3735,
+	"longitude": -96.4254
+},
+{
+	"City": "Leedey",
+	"State": "OK",
+	"latitude": 35.8688,
+	"longitude": -99.3451
+},
+{
+	"City": "Keys",
+	"State": "OK",
+	"latitude": 35.8056,
+	"longitude": -94.9425
+},
+{
+	"City": "Wynona",
+	"State": "OK",
+	"latitude": 36.5458,
+	"longitude": -96.3267
+},
+{
+	"City": "Shidler",
+	"State": "OK",
+	"latitude": 36.7808,
+	"longitude": -96.6596
+},
+{
+	"City": "Spavinaw",
+	"State": "OK",
+	"latitude": 36.3927,
+	"longitude": -95.0501
+},
+{
+	"City": "Ochelata",
+	"State": "OK",
+	"latitude": 36.6011,
+	"longitude": -95.9808
+},
+{
+	"City": "Fort Coffee",
+	"State": "OK",
+	"latitude": 35.2942,
+	"longitude": -94.5726
+},
+{
+	"City": "Ketchum",
+	"State": "OK",
+	"latitude": 36.5261,
+	"longitude": -95.0383
+},
+{
+	"City": "Belfonte",
+	"State": "OK",
+	"latitude": 35.5368,
+	"longitude": -94.5507
+},
+{
+	"City": "Tribbey",
+	"State": "OK",
+	"latitude": 35.0992,
+	"longitude": -97.0938
+},
+{
+	"City": "Randlett",
+	"State": "OK",
+	"latitude": 34.1773,
+	"longitude": -98.4639
+},
+{
+	"City": "Turpin",
+	"State": "OK",
+	"latitude": 36.8705,
+	"longitude": -100.8825
+},
+{
+	"City": "Asher",
+	"State": "OK",
+	"latitude": 34.9884,
+	"longitude": -96.9254
+},
+{
+	"City": "Ripley",
+	"State": "OK",
+	"latitude": 36.0158,
+	"longitude": -96.9039
+},
+{
+	"City": "Gage",
+	"State": "OK",
+	"latitude": 36.3182,
+	"longitude": -99.7578
+},
+{
+	"City": "Eldorado",
+	"State": "OK",
+	"latitude": 34.473,
+	"longitude": -99.6498
+},
+{
+	"City": "Fanshawe",
+	"State": "OK",
+	"latitude": 34.9733,
+	"longitude": -94.856
+},
+{
+	"City": "Crowder",
+	"State": "OK",
+	"latitude": 35.1157,
+	"longitude": -95.6787
+},
+{
+	"City": "Stringtown",
+	"State": "OK",
+	"latitude": 34.4697,
+	"longitude": -96.0548
+},
+{
+	"City": "Lone Wolf",
+	"State": "OK",
+	"latitude": 34.9904,
+	"longitude": -99.2457
+},
+{
+	"City": "Delaware",
+	"State": "OK",
+	"latitude": 36.7789,
+	"longitude": -95.6426
+},
+{
+	"City": "Old Green",
+	"State": "OK",
+	"latitude": 35.9845,
+	"longitude": -94.6036
+},
+{
+	"City": "Tushka",
+	"State": "OK",
+	"latitude": 34.3178,
+	"longitude": -96.1677
+},
+{
+	"City": "Lamont",
+	"State": "OK",
+	"latitude": 36.6913,
+	"longitude": -97.5582
+},
+{
+	"City": "Bowlegs",
+	"State": "OK",
+	"latitude": 35.1474,
+	"longitude": -96.6691
+},
+{
+	"City": "Oktaha",
+	"State": "OK",
+	"latitude": 35.5776,
+	"longitude": -95.4778
+},
+{
+	"City": "East Duke",
+	"State": "OK",
+	"latitude": 34.6628,
+	"longitude": -99.5696
+},
+{
+	"City": "Whitefield",
+	"State": "OK",
+	"latitude": 35.2546,
+	"longitude": -95.2391
+},
+{
+	"City": "Terral",
+	"State": "OK",
+	"latitude": 33.8966,
+	"longitude": -97.9383
+},
+{
+	"City": "Mountain Park",
+	"State": "OK",
+	"latitude": 34.6989,
+	"longitude": -98.9523
+},
+{
+	"City": "Custer City",
+	"State": "OK",
+	"latitude": 35.6637,
+	"longitude": -98.8869
+},
+{
+	"City": "Bell",
+	"State": "OK",
+	"latitude": 35.7544,
+	"longitude": -94.5349
+},
+{
+	"City": "Foyil",
+	"State": "OK",
+	"latitude": 36.4309,
+	"longitude": -95.5215
+},
+{
+	"City": "Peavine",
+	"State": "OK",
+	"latitude": 35.8903,
+	"longitude": -94.6064
+},
+{
+	"City": "Optima",
+	"State": "OK",
+	"latitude": 36.762,
+	"longitude": -101.3497
+},
+{
+	"City": "Coyle",
+	"State": "OK",
+	"latitude": 35.9538,
+	"longitude": -97.2388
+},
+{
+	"City": "Gowen",
+	"State": "OK",
+	"latitude": 34.8781,
+	"longitude": -95.4742
+},
+{
+	"City": "Dustin",
+	"State": "OK",
+	"latitude": 35.2712,
+	"longitude": -96.032
+},
+{
+	"City": "North Miami",
+	"State": "OK",
+	"latitude": 36.92,
+	"longitude": -94.8797
+},
+{
+	"City": "Kaw City",
+	"State": "OK",
+	"latitude": 36.7682,
+	"longitude": -96.8629
+},
+{
+	"City": "Bennington",
+	"State": "OK",
+	"latitude": 34.0038,
+	"longitude": -96.0376
+},
+{
+	"City": "Silo",
+	"State": "OK",
+	"latitude": 34.0358,
+	"longitude": -96.4746
+},
+{
+	"City": "Wanette",
+	"State": "OK",
+	"latitude": 34.9627,
+	"longitude": -97.0319
+},
+{
+	"City": "Carmen",
+	"State": "OK",
+	"latitude": 36.5791,
+	"longitude": -98.4578
+},
+{
+	"City": "Grandview",
+	"State": "OK",
+	"latitude": 35.9556,
+	"longitude": -95.0047
+},
+{
+	"City": "Rose",
+	"State": "OK",
+	"latitude": 36.2123,
+	"longitude": -95.0382
+},
+{
+	"City": "Katie",
+	"State": "OK",
+	"latitude": 34.5833,
+	"longitude": -97.3389
+},
+{
+	"City": "Jennings",
+	"State": "OK",
+	"latitude": 36.1823,
+	"longitude": -96.569
+},
+{
+	"City": "Grant",
+	"State": "OK",
+	"latitude": 33.9387,
+	"longitude": -95.5156
+},
+{
+	"City": "Titanic",
+	"State": "OK",
+	"latitude": 35.8889,
+	"longitude": -94.7434
+},
+{
+	"City": "Agra",
+	"State": "OK",
+	"latitude": 35.895,
+	"longitude": -96.8702
+},
+{
+	"City": "Fargo",
+	"State": "OK",
+	"latitude": 36.3741,
+	"longitude": -99.6219
+},
+{
+	"City": "Briggs",
+	"State": "OK",
+	"latitude": 35.921,
+	"longitude": -94.9
+},
+{
+	"City": "Bridge Creek",
+	"State": "OK",
+	"latitude": 35.2393,
+	"longitude": -97.7305
+},
+{
+	"City": "Ballou",
+	"State": "OK",
+	"latitude": 36.1421,
+	"longitude": -95.1998
+},
+{
+	"City": "Cleo Springs",
+	"State": "OK",
+	"latitude": 36.4046,
+	"longitude": -98.44
+},
+{
+	"City": "Lehigh",
+	"State": "OK",
+	"latitude": 34.4707,
+	"longitude": -96.2209
+},
+{
+	"City": "Cedar Valley",
+	"State": "OK",
+	"latitude": 35.8703,
+	"longitude": -97.5244
+},
+{
+	"City": "Indiahoma",
+	"State": "OK",
+	"latitude": 34.6196,
+	"longitude": -98.752
+},
+{
+	"City": "Sand Hill",
+	"State": "OK",
+	"latitude": 35.6343,
+	"longitude": -95.2012
+},
+{
+	"City": "Arpelar",
+	"State": "OK",
+	"latitude": 34.9356,
+	"longitude": -95.9589
+},
+{
+	"City": "Evening Shade",
+	"State": "OK",
+	"latitude": 35.6195,
+	"longitude": -94.9104
+},
+{
+	"City": "Wakita",
+	"State": "OK",
+	"latitude": 36.8818,
+	"longitude": -97.9238
+},
+{
+	"City": "Eakly",
+	"State": "OK",
+	"latitude": 35.3055,
+	"longitude": -98.556
+},
+{
+	"City": "Wyandotte",
+	"State": "OK",
+	"latitude": 36.7925,
+	"longitude": -94.7231
+},
+{
+	"City": "Greasy",
+	"State": "OK",
+	"latitude": 35.6821,
+	"longitude": -94.7177
+},
+{
+	"City": "Bluejacket",
+	"State": "OK",
+	"latitude": 36.8008,
+	"longitude": -95.074
+},
+{
+	"City": "Fort Supply",
+	"State": "OK",
+	"latitude": 36.5722,
+	"longitude": -99.5736
+},
+{
+	"City": "Francis",
+	"State": "OK",
+	"latitude": 34.8743,
+	"longitude": -96.5926
+},
+{
+	"City": "Ralston",
+	"State": "OK",
+	"latitude": 36.5036,
+	"longitude": -96.7374
+},
+{
+	"City": "Mill Creek",
+	"State": "OK",
+	"latitude": 34.4019,
+	"longitude": -96.8257
+},
+{
+	"City": "Milburn",
+	"State": "OK",
+	"latitude": 34.2401,
+	"longitude": -96.552
+},
+{
+	"City": "Kinta",
+	"State": "OK",
+	"latitude": 35.1193,
+	"longitude": -95.2378
+},
+{
+	"City": "Millerton",
+	"State": "OK",
+	"latitude": 33.9843,
+	"longitude": -95.019
+},
+{
+	"City": "Watts",
+	"State": "OK",
+	"latitude": 36.1073,
+	"longitude": -94.5717
+},
+{
+	"City": "Sawyer",
+	"State": "OK",
+	"latitude": 34.0206,
+	"longitude": -95.3773
+},
+{
+	"City": "Taloga",
+	"State": "OK",
+	"latitude": 36.0403,
+	"longitude": -98.9642
+},
+{
+	"City": "Liberty",
+	"State": "OK",
+	"latitude": 35.4656,
+	"longitude": -94.5442
+},
+{
+	"City": "Sportsmen Acres",
+	"State": "OK",
+	"latitude": 36.2458,
+	"longitude": -95.2515
+},
+{
+	"City": "Avant",
+	"State": "OK",
+	"latitude": 36.4886,
+	"longitude": -96.0599
+},
+{
+	"City": "Marshall",
+	"State": "OK",
+	"latitude": 36.1555,
+	"longitude": -97.6257
+},
+{
+	"City": "Gracemont",
+	"State": "OK",
+	"latitude": 35.1878,
+	"longitude": -98.257
+},
+{
+	"City": "Disney",
+	"State": "OK",
+	"latitude": 36.477,
+	"longitude": -95.0195
+},
+{
+	"City": "Tupelo",
+	"State": "OK",
+	"latitude": 34.6025,
+	"longitude": -96.4205
+},
+{
+	"City": "Gans",
+	"State": "OK",
+	"latitude": 35.3874,
+	"longitude": -94.695
+},
+{
+	"City": "Short",
+	"State": "OK",
+	"latitude": 35.5664,
+	"longitude": -94.4936
+},
+{
+	"City": "Rattan",
+	"State": "OK",
+	"latitude": 34.2004,
+	"longitude": -95.4131
+},
+{
+	"City": "Westport",
+	"State": "OK",
+	"latitude": 36.195,
+	"longitude": -96.3361
+},
+{
+	"City": "Haworth",
+	"State": "OK",
+	"latitude": 33.8403,
+	"longitude": -94.6571
+},
+{
+	"City": "Butler",
+	"State": "OK",
+	"latitude": 35.5952,
+	"longitude": -99.181
+},
+{
+	"City": "Cameron",
+	"State": "OK",
+	"latitude": 35.1351,
+	"longitude": -94.5359
+},
+{
+	"City": "Lebanon",
+	"State": "OK",
+	"latitude": 33.9737,
+	"longitude": -96.9177
+},
+{
+	"City": "Freedom",
+	"State": "OK",
+	"latitude": 36.768,
+	"longitude": -99.1131
+},
+{
+	"City": "Red Rock",
+	"State": "OK",
+	"latitude": 36.4601,
+	"longitude": -97.1796
+},
+{
+	"City": "Alderson",
+	"State": "OK",
+	"latitude": 34.9008,
+	"longitude": -95.69
+},
+{
+	"City": "Davidson",
+	"State": "OK",
+	"latitude": 34.2421,
+	"longitude": -99.0781
+},
+{
+	"City": "Oaks",
+	"State": "OK",
+	"latitude": 36.1695,
+	"longitude": -94.8526
+},
+{
+	"City": "River Bottom",
+	"State": "OK",
+	"latitude": 35.6357,
+	"longitude": -95.2378
+},
+{
+	"City": "Lenapah",
+	"State": "OK",
+	"latitude": 36.8514,
+	"longitude": -95.6356
+},
+{
+	"City": "West Peavine",
+	"State": "OK",
+	"latitude": 35.9133,
+	"longitude": -94.6481
+},
+{
+	"City": "Talala",
+	"State": "OK",
+	"latitude": 36.5294,
+	"longitude": -95.7011
+},
+{
+	"City": "Simms",
+	"State": "OK",
+	"latitude": 35.3987,
+	"longitude": -95.1647
+},
+{
+	"City": "Coleman",
+	"State": "OK",
+	"latitude": 34.2635,
+	"longitude": -96.4194
+},
+{
+	"City": "Nicut",
+	"State": "OK",
+	"latitude": 35.5986,
+	"longitude": -94.5626
+},
+{
+	"City": "Keyes",
+	"State": "OK",
+	"latitude": 36.8077,
+	"longitude": -102.2518
+},
+{
+	"City": "Leach",
+	"State": "OK",
+	"latitude": 36.1979,
+	"longitude": -94.9099
+},
+{
+	"City": "Calvin",
+	"State": "OK",
+	"latitude": 34.9672,
+	"longitude": -96.253
+},
+{
+	"City": "Cromwell",
+	"State": "OK",
+	"latitude": 35.3634,
+	"longitude": -96.4572
+},
+{
+	"City": "Byars",
+	"State": "OK",
+	"latitude": 34.8724,
+	"longitude": -97.0541
+},
+{
+	"City": "Arcadia",
+	"State": "OK",
+	"latitude": 35.6655,
+	"longitude": -97.3255
+},
+{
+	"City": "Lyons Switch",
+	"State": "OK",
+	"latitude": 35.7794,
+	"longitude": -94.6933
+},
+{
+	"City": "Longdale",
+	"State": "OK",
+	"latitude": 36.1337,
+	"longitude": -98.5509
+},
+{
+	"City": "Stoney Point",
+	"State": "OK",
+	"latitude": 35.5847,
+	"longitude": -94.6635
+},
+{
+	"City": "Mulhall",
+	"State": "OK",
+	"latitude": 36.0917,
+	"longitude": -97.3615
+},
+{
+	"City": "White Oak",
+	"State": "OK",
+	"latitude": 36.6098,
+	"longitude": -95.2763
+},
+{
+	"City": "Johnson",
+	"State": "OK",
+	"latitude": 35.4056,
+	"longitude": -96.8418
+},
+{
+	"City": "Garvin",
+	"State": "OK",
+	"latitude": 33.9559,
+	"longitude": -94.9348
+},
+{
+	"City": "Kremlin",
+	"State": "OK",
+	"latitude": 36.5466,
+	"longitude": -97.8324
+},
+{
+	"City": "Long",
+	"State": "OK",
+	"latitude": 35.4993,
+	"longitude": -94.547
+},
+{
+	"City": "Braggs",
+	"State": "OK",
+	"latitude": 35.6634,
+	"longitude": -95.1986
+},
+{
+	"City": "Goltry",
+	"State": "OK",
+	"latitude": 36.5319,
+	"longitude": -98.1514
+},
+{
+	"City": "Soper",
+	"State": "OK",
+	"latitude": 34.0322,
+	"longitude": -95.6963
+},
+{
+	"City": "Carter",
+	"State": "OK",
+	"latitude": 35.2175,
+	"longitude": -99.5038
+},
+{
+	"City": "Platter",
+	"State": "OK",
+	"latitude": 33.9066,
+	"longitude": -96.5337
+},
+{
+	"City": "Big Cabin",
+	"State": "OK",
+	"latitude": 36.5401,
+	"longitude": -95.2221
+},
+{
+	"City": "Marble City",
+	"State": "OK",
+	"latitude": 35.5824,
+	"longitude": -94.8186
+},
+{
+	"City": "Vera",
+	"State": "OK",
+	"latitude": 36.4504,
+	"longitude": -95.8965
+},
+{
+	"City": "Breckenridge",
+	"State": "OK",
+	"latitude": 36.4622,
+	"longitude": -97.7273
+},
+{
+	"City": "Drowning Creek",
+	"State": "OK",
+	"latitude": 36.4778,
+	"longitude": -94.8942
+},
+{
+	"City": "Lane",
+	"State": "OK",
+	"latitude": 34.2997,
+	"longitude": -95.9894
+},
+{
+	"City": "Boynton",
+	"State": "OK",
+	"latitude": 35.6493,
+	"longitude": -95.6543
+},
+{
+	"City": "Ames",
+	"State": "OK",
+	"latitude": 36.2471,
+	"longitude": -98.1867
+},
+{
+	"City": "Taft",
+	"State": "OK",
+	"latitude": 35.7607,
+	"longitude": -95.5455
+},
+{
+	"City": "Meno",
+	"State": "OK",
+	"latitude": 36.3881,
+	"longitude": -98.1779
+},
+{
+	"City": "Tamaha",
+	"State": "OK",
+	"latitude": 35.4059,
+	"longitude": -95.0181
+},
+{
+	"City": "Elm Grove",
+	"State": "OK",
+	"latitude": 35.7925,
+	"longitude": -94.563
+},
+{
+	"City": "Roosevelt",
+	"State": "OK",
+	"latitude": 34.8477,
+	"longitude": -99.0227
+},
+{
+	"City": "Fitzhugh",
+	"State": "OK",
+	"latitude": 34.6581,
+	"longitude": -96.7665
+},
+{
+	"City": "Blue",
+	"State": "OK",
+	"latitude": 33.9899,
+	"longitude": -96.2304
+},
+{
+	"City": "Snake Creek",
+	"State": "OK",
+	"latitude": 36.1786,
+	"longitude": -95.0937
+},
+{
+	"City": "Marland",
+	"State": "OK",
+	"latitude": 36.5611,
+	"longitude": -97.1529
+},
+{
+	"City": "Dougherty",
+	"State": "OK",
+	"latitude": 34.4005,
+	"longitude": -97.0514
+},
+{
+	"City": "Kenefic",
+	"State": "OK",
+	"latitude": 34.1501,
+	"longitude": -96.3642
+},
+{
+	"City": "Jet",
+	"State": "OK",
+	"latitude": 36.6664,
+	"longitude": -98.1814
+},
+{
+	"City": "Whitesboro",
+	"State": "OK",
+	"latitude": 34.6965,
+	"longitude": -94.879
+},
+{
+	"City": "Aline",
+	"State": "OK",
+	"latitude": 36.5096,
+	"longitude": -98.4486
+},
+{
+	"City": "Hardesty",
+	"State": "OK",
+	"latitude": 36.6147,
+	"longitude": -101.1936
+},
+{
+	"City": "Gotebo",
+	"State": "OK",
+	"latitude": 35.0711,
+	"longitude": -98.8744
+},
+{
+	"City": "Pocasset",
+	"State": "OK",
+	"latitude": 35.178,
+	"longitude": -97.9592
+},
+{
+	"City": "Monroe",
+	"State": "OK",
+	"latitude": 34.9937,
+	"longitude": -94.5155
+},
+{
+	"City": "Reydon",
+	"State": "OK",
+	"latitude": 35.6503,
+	"longitude": -99.9237
+},
+{
+	"City": "Canadian",
+	"State": "OK",
+	"latitude": 35.1741,
+	"longitude": -95.6496
+},
+{
+	"City": "Braman",
+	"State": "OK",
+	"latitude": 36.9237,
+	"longitude": -97.3351
+},
+{
+	"City": "Caney",
+	"State": "OK",
+	"latitude": 34.2356,
+	"longitude": -96.217
+},
+{
+	"City": "Pittsburg",
+	"State": "OK",
+	"latitude": 34.7116,
+	"longitude": -95.8502
+},
+{
+	"City": "Scraper",
+	"State": "OK",
+	"latitude": 35.9642,
+	"longitude": -94.8912
+},
+{
+	"City": "Nash",
+	"State": "OK",
+	"latitude": 36.6648,
+	"longitude": -98.0521
+},
+{
+	"City": "Iron Post",
+	"State": "OK",
+	"latitude": 36.1558,
+	"longitude": -95.1353
+},
+{
+	"City": "Tiawah",
+	"State": "OK",
+	"latitude": 36.2483,
+	"longitude": -95.5362
+},
+{
+	"City": "Lequire",
+	"State": "OK",
+	"latitude": 35.1098,
+	"longitude": -95.1065
+},
+{
+	"City": "Slick",
+	"State": "OK",
+	"latitude": 35.7775,
+	"longitude": -96.2667
+},
+{
+	"City": "Camargo",
+	"State": "OK",
+	"latitude": 36.0179,
+	"longitude": -99.2883
+},
+{
+	"City": "Dale",
+	"State": "OK",
+	"latitude": 35.3842,
+	"longitude": -97.0435
+},
+{
+	"City": "Chewey",
+	"State": "OK",
+	"latitude": 36.0905,
+	"longitude": -94.7385
+},
+{
+	"City": "Gregory",
+	"State": "OK",
+	"latitude": 36.1697,
+	"longitude": -95.5742
+},
+{
+	"City": "Le Flore",
+	"State": "OK",
+	"latitude": 34.8985,
+	"longitude": -94.9759
+},
+{
+	"City": "Cimarron City",
+	"State": "OK",
+	"latitude": 35.8887,
+	"longitude": -97.6022
+},
+{
+	"City": "Bessie",
+	"State": "OK",
+	"latitude": 35.3854,
+	"longitude": -98.9894
+},
+{
+	"City": "Spaulding",
+	"State": "OK",
+	"latitude": 35.0132,
+	"longitude": -96.4406
+},
+{
+	"City": "Dry Creek",
+	"State": "OK",
+	"latitude": 35.7275,
+	"longitude": -94.8704
+},
+{
+	"City": "Teresita",
+	"State": "OK",
+	"latitude": 36.123,
+	"longitude": -94.9803
+},
+{
+	"City": "Sparks",
+	"State": "OK",
+	"latitude": 35.6113,
+	"longitude": -96.8191
+},
+{
+	"City": "Notchietown",
+	"State": "OK",
+	"latitude": 35.5857,
+	"longitude": -95.0901
+},
+{
+	"City": "Eldon",
+	"State": "OK",
+	"latitude": 35.9305,
+	"longitude": -94.8179
+},
+{
+	"City": "Orlando",
+	"State": "OK",
+	"latitude": 36.1355,
+	"longitude": -97.3653
+},
+{
+	"City": "Hunter",
+	"State": "OK",
+	"latitude": 36.5637,
+	"longitude": -97.6624
+},
+{
+	"City": "Bromide",
+	"State": "OK",
+	"latitude": 34.418,
+	"longitude": -96.4949
+},
+{
+	"City": "Stuart",
+	"State": "OK",
+	"latitude": 34.9011,
+	"longitude": -96.0995
+},
+{
+	"City": "Pump Back",
+	"State": "OK",
+	"latitude": 36.2707,
+	"longitude": -95.1178
+},
+{
+	"City": "Gene Autry",
+	"State": "OK",
+	"latitude": 34.3151,
+	"longitude": -97.0385
+},
+{
+	"City": "Manitou",
+	"State": "OK",
+	"latitude": 34.5071,
+	"longitude": -98.9809
+},
+{
+	"City": "Lookeba",
+	"State": "OK",
+	"latitude": 35.363,
+	"longitude": -98.3638
+},
+{
+	"City": "Foster",
+	"State": "OK",
+	"latitude": 34.5941,
+	"longitude": -97.4928
+},
+{
+	"City": "St. Louis",
+	"State": "OK",
+	"latitude": 35.0812,
+	"longitude": -96.8598
+},
+{
+	"City": "Wainwright",
+	"State": "OK",
+	"latitude": 35.6133,
+	"longitude": -95.5657
+},
+{
+	"City": "Burlington",
+	"State": "OK",
+	"latitude": 36.9001,
+	"longitude": -98.4234
+},
+{
+	"City": "Cedar Crest",
+	"State": "OK",
+	"latitude": 36.1215,
+	"longitude": -95.1663
+},
+{
+	"City": "Twin Oaks",
+	"State": "OK",
+	"latitude": 36.1927,
+	"longitude": -94.8217
+},
+{
+	"City": "Grayson",
+	"State": "OK",
+	"latitude": 35.5053,
+	"longitude": -95.8718
+},
+{
+	"City": "Cornish",
+	"State": "OK",
+	"latitude": 34.1637,
+	"longitude": -97.5967
+},
+{
+	"City": "Osage",
+	"State": "OK",
+	"latitude": 36.2948,
+	"longitude": -96.4179
+},
+{
+	"City": "Redbird",
+	"State": "OK",
+	"latitude": 35.8871,
+	"longitude": -95.5872
+},
+{
+	"City": "Norge",
+	"State": "OK",
+	"latitude": 34.9892,
+	"longitude": -97.9941
+},
+{
+	"City": "Steely Hollow",
+	"State": "OK",
+	"latitude": 35.9887,
+	"longitude": -94.9578
+},
+{
+	"City": "Rocky",
+	"State": "OK",
+	"latitude": 35.156,
+	"longitude": -99.0593
+},
+{
+	"City": "Cowlington",
+	"State": "OK",
+	"latitude": 35.3106,
+	"longitude": -94.7879
+},
+{
+	"City": "Woodlawn Park",
+	"State": "OK",
+	"latitude": 35.5096,
+	"longitude": -97.6499
+},
+{
+	"City": "Council Hill",
+	"State": "OK",
+	"latitude": 35.5559,
+	"longitude": -95.6525
+},
+{
+	"City": "Indianola",
+	"State": "OK",
+	"latitude": 35.1635,
+	"longitude": -95.7761
+},
+{
+	"City": "Warwick",
+	"State": "OK",
+	"latitude": 35.6882,
+	"longitude": -97.0016
+},
+{
+	"City": "Lamar",
+	"State": "OK",
+	"latitude": 35.0942,
+	"longitude": -96.1238
+},
+{
+	"City": "Connerville",
+	"State": "OK",
+	"latitude": 34.4436,
+	"longitude": -96.6359
+},
+{
+	"City": "Tatums",
+	"State": "OK",
+	"latitude": 34.4779,
+	"longitude": -97.4661
+},
+{
+	"City": "Martha",
+	"State": "OK",
+	"latitude": 34.7262,
+	"longitude": -99.3868
+},
+{
+	"City": "Foss",
+	"State": "OK",
+	"latitude": 35.4501,
+	"longitude": -99.1707
+},
+{
+	"City": "Lawrence Creek",
+	"State": "OK",
+	"latitude": 36.0838,
+	"longitude": -96.4268
+},
+{
+	"City": "Kemp",
+	"State": "OK",
+	"latitude": 33.7695,
+	"longitude": -96.3543
+},
+{
+	"City": "Dennis",
+	"State": "OK",
+	"latitude": 36.5433,
+	"longitude": -94.8693
+},
+{
+	"City": "Kendrick",
+	"State": "OK",
+	"latitude": 35.7853,
+	"longitude": -96.7754
+},
+{
+	"City": "Devol",
+	"State": "OK",
+	"latitude": 34.1954,
+	"longitude": -98.5881
+},
+{
+	"City": "Burbank",
+	"State": "OK",
+	"latitude": 36.6964,
+	"longitude": -96.7294
+},
+{
+	"City": "Christie",
+	"State": "OK",
+	"latitude": 35.9674,
+	"longitude": -94.6549
+},
+{
+	"City": "Zena",
+	"State": "OK",
+	"latitude": 36.5129,
+	"longitude": -94.8454
+},
+{
+	"City": "Box",
+	"State": "OK",
+	"latitude": 35.5784,
+	"longitude": -94.9718
+},
+{
+	"City": "Summit",
+	"State": "OK",
+	"latitude": 35.6678,
+	"longitude": -95.4218
+},
+{
+	"City": "Sasakwa",
+	"State": "OK",
+	"latitude": 34.9469,
+	"longitude": -96.5253
+},
+{
+	"City": "Bee",
+	"State": "OK",
+	"latitude": 34.125,
+	"longitude": -96.5687
+},
+{
+	"City": "Peoria",
+	"State": "OK",
+	"latitude": 36.9152,
+	"longitude": -94.6699
+},
+{
+	"City": "Mead",
+	"State": "OK",
+	"latitude": 34.0008,
+	"longitude": -96.511
+},
+{
+	"City": "Sharon",
+	"State": "OK",
+	"latitude": 36.2755,
+	"longitude": -99.3381
+},
+{
+	"City": "Willow",
+	"State": "OK",
+	"latitude": 35.0514,
+	"longitude": -99.5099
+},
+{
+	"City": "Bradley",
+	"State": "OK",
+	"latitude": 34.878,
+	"longitude": -97.7087
+},
+{
+	"City": "Hanna",
+	"State": "OK",
+	"latitude": 35.2042,
+	"longitude": -95.8894
+},
+{
+	"City": "Chester",
+	"State": "OK",
+	"latitude": 36.2165,
+	"longitude": -98.9208
+},
+{
+	"City": "White Water",
+	"State": "OK",
+	"latitude": 36.5017,
+	"longitude": -94.7289
+},
+{
+	"City": "Erin Springs",
+	"State": "OK",
+	"latitude": 34.8113,
+	"longitude": -97.6055
+},
+{
+	"City": "Hastings",
+	"State": "OK",
+	"latitude": 34.2242,
+	"longitude": -98.1087
+},
+{
+	"City": "Cayuga",
+	"State": "OK",
+	"latitude": 36.6252,
+	"longitude": -94.6542
+},
+{
+	"City": "Bearden",
+	"State": "OK",
+	"latitude": 35.3568,
+	"longitude": -96.3852
+},
+{
+	"City": "Fairmont",
+	"State": "OK",
+	"latitude": 36.3552,
+	"longitude": -97.7045
+},
+{
+	"City": "Mulberry",
+	"State": "OK",
+	"latitude": 35.8631,
+	"longitude": -94.7014
+},
+{
+	"City": "Faxon",
+	"State": "OK",
+	"latitude": 34.4603,
+	"longitude": -98.5794
+},
+{
+	"City": "Gould",
+	"State": "OK",
+	"latitude": 34.6693,
+	"longitude": -99.7736
+},
+{
+	"City": "Colony",
+	"State": "OK",
+	"latitude": 35.3487,
+	"longitude": -98.6713
+},
+{
+	"City": "Pinhook Corner",
+	"State": "OK",
+	"latitude": 35.5314,
+	"longitude": -94.891
+},
+{
+	"City": "Pensacola",
+	"State": "OK",
+	"latitude": 36.4556,
+	"longitude": -95.1292
+},
+{
+	"City": "Phillips",
+	"State": "OK",
+	"latitude": 34.5041,
+	"longitude": -96.2231
+},
+{
+	"City": "Hoffman",
+	"State": "OK",
+	"latitude": 35.4889,
+	"longitude": -95.8449
+},
+{
+	"City": "Narcissa",
+	"State": "OK",
+	"latitude": 36.801,
+	"longitude": -94.9278
+},
+{
+	"City": "Deer Creek",
+	"State": "OK",
+	"latitude": 36.8067,
+	"longitude": -97.5193
+},
+{
+	"City": "Rentiesville",
+	"State": "OK",
+	"latitude": 35.533,
+	"longitude": -95.4849
+},
+{
+	"City": "Hallett",
+	"State": "OK",
+	"latitude": 36.2315,
+	"longitude": -96.5679
+},
+{
+	"City": "Mazie",
+	"State": "OK",
+	"latitude": 36.1425,
+	"longitude": -95.3303
+},
+{
+	"City": "Hillsdale",
+	"State": "OK",
+	"latitude": 36.5634,
+	"longitude": -97.9927
+},
+{
+	"City": "Wann",
+	"State": "OK",
+	"latitude": 36.9146,
+	"longitude": -95.8047
+},
+{
+	"City": "Flute Springs",
+	"State": "OK",
+	"latitude": 35.623,
+	"longitude": -94.8044
+},
+{
+	"City": "Moffett",
+	"State": "OK",
+	"latitude": 35.4042,
+	"longitude": -94.4554
+},
+{
+	"City": "Loco",
+	"State": "OK",
+	"latitude": 34.3295,
+	"longitude": -97.6807
+},
+{
+	"City": "Ratliff City",
+	"State": "OK",
+	"latitude": 34.4492,
+	"longitude": -97.5155
+},
+{
+	"City": "Lucien",
+	"State": "OK",
+	"latitude": 36.2747,
+	"longitude": -97.4551
+},
+{
+	"City": "Armstrong",
+	"State": "OK",
+	"latitude": 34.0528,
+	"longitude": -96.3446
+},
+{
+	"City": "Hitchcock",
+	"State": "OK",
+	"latitude": 35.9676,
+	"longitude": -98.3497
+},
+{
+	"City": "Gerty",
+	"State": "OK",
+	"latitude": 34.8357,
+	"longitude": -96.289
+},
+{
+	"City": "New Woodville",
+	"State": "OK",
+	"latitude": 33.9687,
+	"longitude": -96.655
+},
+{
+	"City": "Isabella",
+	"State": "OK",
+	"latitude": 36.2354,
+	"longitude": -98.3354
+},
+{
+	"City": "Sycamore",
+	"State": "OK",
+	"latitude": 36.394,
+	"longitude": -94.716
+},
+{
+	"City": "Tullahassee",
+	"State": "OK",
+	"latitude": 35.8418,
+	"longitude": -95.4387
+},
+{
+	"City": "Bridgeport",
+	"State": "OK",
+	"latitude": 35.5476,
+	"longitude": -98.3775
+},
+{
+	"City": "Smithville",
+	"State": "OK",
+	"latitude": 34.4689,
+	"longitude": -94.6462
+},
+{
+	"City": "Dacoma",
+	"State": "OK",
+	"latitude": 36.6596,
+	"longitude": -98.5635
+},
+{
+	"City": "Addington",
+	"State": "OK",
+	"latitude": 34.2431,
+	"longitude": -97.9661
+},
+{
+	"City": "Dotyville",
+	"State": "OK",
+	"latitude": 36.8514,
+	"longitude": -94.9097
+},
+{
+	"City": "Blackburn",
+	"State": "OK",
+	"latitude": 36.3731,
+	"longitude": -96.5965
+},
+{
+	"City": "Felt",
+	"State": "OK",
+	"latitude": 36.5633,
+	"longitude": -102.7946
+},
+{
+	"City": "Terlton",
+	"State": "OK",
+	"latitude": 36.1857,
+	"longitude": -96.4904
+},
+{
+	"City": "Blanco",
+	"State": "OK",
+	"latitude": 34.7507,
+	"longitude": -95.7736
+},
+{
+	"City": "Castle",
+	"State": "OK",
+	"latitude": 35.4752,
+	"longitude": -96.3835
+},
+{
+	"City": "Fair Oaks",
+	"State": "OK",
+	"latitude": 36.1441,
+	"longitude": -95.6959
+},
+{
+	"City": "Albion",
+	"State": "OK",
+	"latitude": 34.6623,
+	"longitude": -95.0992
+},
+{
+	"City": "Leon",
+	"State": "OK",
+	"latitude": 33.8773,
+	"longitude": -97.4291
+},
+{
+	"City": "Manchester",
+	"State": "OK",
+	"latitude": 36.9944,
+	"longitude": -98.0351
+},
+{
+	"City": "Etowah",
+	"State": "OK",
+	"latitude": 35.1291,
+	"longitude": -97.1639
+},
+{
+	"City": "Kildare",
+	"State": "OK",
+	"latitude": 36.8083,
+	"longitude": -97.0499
+},
+{
+	"City": "Tuskahoma",
+	"State": "OK",
+	"latitude": 34.6272,
+	"longitude": -95.2779
+},
+{
+	"City": "Centrahoma",
+	"State": "OK",
+	"latitude": 34.6104,
+	"longitude": -96.3437
+},
+{
+	"City": "Horntown",
+	"State": "OK",
+	"latitude": 35.0869,
+	"longitude": -96.2476
+},
+{
+	"City": "Lake Aluma",
+	"State": "OK",
+	"latitude": 35.5334,
+	"longitude": -97.4484
+},
+{
+	"City": "Dodge",
+	"State": "OK",
+	"latitude": 36.5789,
+	"longitude": -94.6385
+},
+{
+	"City": "Maramec",
+	"State": "OK",
+	"latitude": 36.242,
+	"longitude": -96.6805
+},
+{
+	"City": "Elmer",
+	"State": "OK",
+	"latitude": 34.4808,
+	"longitude": -99.3519
+},
+{
+	"City": "Strang",
+	"State": "OK",
+	"latitude": 36.4122,
+	"longitude": -95.1345
+},
+{
+	"City": "Greenfield",
+	"State": "OK",
+	"latitude": 35.7289,
+	"longitude": -98.3776
+},
+{
+	"City": "Headrick",
+	"State": "OK",
+	"latitude": 34.6268,
+	"longitude": -99.1373
+},
+{
+	"City": "Gate",
+	"State": "OK",
+	"latitude": 36.8517,
+	"longitude": -100.0553
+},
+{
+	"City": "Hendrix",
+	"State": "OK",
+	"latitude": 33.7753,
+	"longitude": -96.4071
+},
+{
+	"City": "New Alluwe",
+	"State": "OK",
+	"latitude": 36.6099,
+	"longitude": -95.4888
+},
+{
+	"City": "Carrier",
+	"State": "OK",
+	"latitude": 36.4786,
+	"longitude": -98.0172
+},
+{
+	"City": "Hitchita",
+	"State": "OK",
+	"latitude": 35.5198,
+	"longitude": -95.7518
+},
+{
+	"City": "Loyal",
+	"State": "OK",
+	"latitude": 35.9728,
+	"longitude": -98.1185
+},
+{
+	"City": "Sweetwater",
+	"State": "OK",
+	"latitude": 35.4222,
+	"longitude": -99.9116
+},
+{
+	"City": "Nescatunga",
+	"State": "OK",
+	"latitude": 36.7543,
+	"longitude": -98.156
+},
+{
+	"City": "Paradise Hill",
+	"State": "OK",
+	"latitude": 35.6134,
+	"longitude": -95.0704
+},
+{
+	"City": "Murphy",
+	"State": "OK",
+	"latitude": 36.1336,
+	"longitude": -95.2409
+},
+{
+	"City": "Smith Village",
+	"State": "OK",
+	"latitude": 35.4508,
+	"longitude": -97.457
+},
+{
+	"City": "Blackgum",
+	"State": "OK",
+	"latitude": 35.6112,
+	"longitude": -94.99
+},
+{
+	"City": "Sour John",
+	"State": "OK",
+	"latitude": 35.6206,
+	"longitude": -95.1433
+},
+{
+	"City": "Hickory",
+	"State": "OK",
+	"latitude": 34.557,
+	"longitude": -96.858
+},
+{
+	"City": "Yeager",
+	"State": "OK",
+	"latitude": 35.1567,
+	"longitude": -96.34
+},
+{
+	"City": "Valley Park",
+	"State": "OK",
+	"latitude": 36.2818,
+	"longitude": -95.733
+},
+{
+	"City": "Rosedale",
+	"State": "OK",
+	"latitude": 34.9188,
+	"longitude": -97.1855
+},
+{
+	"City": "Grand Lake Towne",
+	"State": "OK",
+	"latitude": 36.5048,
+	"longitude": -95.0256
+},
+{
+	"City": "Duchess Landing",
+	"State": "OK",
+	"latitude": 35.3985,
+	"longitude": -95.4165
+},
+{
+	"City": "Clarita",
+	"State": "OK",
+	"latitude": 34.4826,
+	"longitude": -96.4367
+},
+{
+	"City": "Atwood",
+	"State": "OK",
+	"latitude": 34.9549,
+	"longitude": -96.3367
+},
+{
+	"City": "Oakwood",
+	"State": "OK",
+	"latitude": 35.9315,
+	"longitude": -98.7029
+},
+{
+	"City": "Albany",
+	"State": "OK",
+	"latitude": 33.8769,
+	"longitude": -96.16
+},
+{
+	"City": "Dwight Mission",
+	"State": "OK",
+	"latitude": 35.5466,
+	"longitude": -94.8594
+},
+{
+	"City": "Ashland",
+	"State": "OK",
+	"latitude": 34.7668,
+	"longitude": -96.0706
+},
+{
+	"City": "Mutual",
+	"State": "OK",
+	"latitude": 36.2304,
+	"longitude": -99.1679
+},
+{
+	"City": "Webb City",
+	"State": "OK",
+	"latitude": 36.8074,
+	"longitude": -96.7119
+},
+{
+	"City": "Badger Lee",
+	"State": "OK",
+	"latitude": 35.4726,
+	"longitude": -94.8151
+},
+{
+	"City": "Brooksville",
+	"State": "OK",
+	"latitude": 35.2103,
+	"longitude": -96.9609
+},
+{
+	"City": "Lima",
+	"State": "OK",
+	"latitude": 35.1737,
+	"longitude": -96.5985
+},
+{
+	"City": "Skedee",
+	"State": "OK",
+	"latitude": 36.3804,
+	"longitude": -96.7039
+},
+{
+	"City": "Swink",
+	"State": "OK",
+	"latitude": 34.0168,
+	"longitude": -95.2022
+},
+{
+	"City": "IXL",
+	"State": "OK",
+	"latitude": 35.5227,
+	"longitude": -96.3881
+},
+{
+	"City": "Piney",
+	"State": "OK",
+	"latitude": 35.8875,
+	"longitude": -94.5536
+},
+{
+	"City": "Clearview",
+	"State": "OK",
+	"latitude": 35.3971,
+	"longitude": -96.1908
+},
+{
+	"City": "Strong City",
+	"State": "OK",
+	"latitude": 35.6699,
+	"longitude": -99.6003
+},
+{
+	"City": "Hollister",
+	"State": "OK",
+	"latitude": 34.3413,
+	"longitude": -98.8706
+},
+{
+	"City": "Zion",
+	"State": "OK",
+	"latitude": 35.7853,
+	"longitude": -94.6378
+},
+{
+	"City": "Meridian",
+	"State": "OK",
+	"latitude": 35.844,
+	"longitude": -97.2456
+},
+{
+	"City": "Sugden",
+	"State": "OK",
+	"latitude": 34.0826,
+	"longitude": -97.9788
+},
+{
+	"City": "Rocky Ford",
+	"State": "OK",
+	"latitude": 36.1749,
+	"longitude": -94.9113
+},
+{
+	"City": "May",
+	"State": "OK",
+	"latitude": 36.6174,
+	"longitude": -99.7484
+},
+{
+	"City": "Old Eucha",
+	"State": "OK",
+	"latitude": 36.3551,
+	"longitude": -94.9379
+},
+{
+	"City": "Dripping Springs",
+	"State": "OK",
+	"latitude": 36.171,
+	"longitude": -94.6852
+},
+{
+	"City": "Cloud Creek",
+	"State": "OK",
+	"latitude": 36.2712,
+	"longitude": -94.79
+},
+{
+	"City": "Amorita",
+	"State": "OK",
+	"latitude": 36.924,
+	"longitude": -98.2936
+},
+{
+	"City": "Texola",
+	"State": "OK",
+	"latitude": 35.2222,
+	"longitude": -99.9927
+},
+{
+	"City": "Byron",
+	"State": "OK",
+	"latitude": 36.9014,
+	"longitude": -98.2946
+},
+{
+	"City": "Douglas",
+	"State": "OK",
+	"latitude": 36.2604,
+	"longitude": -97.6675
+},
+{
+	"City": "Panola",
+	"State": "OK",
+	"latitude": 34.9273,
+	"longitude": -95.2099
+},
+{
+	"City": "Macomb",
+	"State": "OK",
+	"latitude": 35.1479,
+	"longitude": -97.0087
+},
+{
+	"City": "Rosston",
+	"State": "OK",
+	"latitude": 36.8128,
+	"longitude": -99.9328
+},
+{
+	"City": "Bison",
+	"State": "OK",
+	"latitude": 36.196,
+	"longitude": -97.8979
+},
+{
+	"City": "Grainola",
+	"State": "OK",
+	"latitude": 36.9379,
+	"longitude": -96.6488
+},
+{
+	"City": "Bull Hollow",
+	"State": "OK",
+	"latitude": 36.3046,
+	"longitude": -94.9008
+},
+{
+	"City": "Putnam",
+	"State": "OK",
+	"latitude": 35.8559,
+	"longitude": -98.9679
+},
+{
+	"City": "Deer Lick",
+	"State": "OK",
+	"latitude": 36.4595,
+	"longitude": -94.7468
+},
+{
+	"City": "Fallis",
+	"State": "OK",
+	"latitude": 35.7499,
+	"longitude": -97.1183
+},
+{
+	"City": "Wardville",
+	"State": "OK",
+	"latitude": 34.655,
+	"longitude": -96.0309
+},
+{
+	"City": "Friendship",
+	"State": "OK",
+	"latitude": 34.6978,
+	"longitude": -99.2287
+},
+{
+	"City": "Stidham",
+	"State": "OK",
+	"latitude": 35.3686,
+	"longitude": -95.7008
+},
+{
+	"City": "Foraker",
+	"State": "OK",
+	"latitude": 36.8722,
+	"longitude": -96.5691
+},
+{
+	"City": "Wickliffe",
+	"State": "OK",
+	"latitude": 36.2954,
+	"longitude": -95.1063
+},
+{
+	"City": "Cooperton",
+	"State": "OK",
+	"latitude": 34.8662,
+	"longitude": -98.8759
+},
+{
+	"City": "Brush Creek",
+	"State": "OK",
+	"latitude": 36.4164,
+	"longitude": -94.7842
+},
+{
+	"City": "Loveland",
+	"State": "OK",
+	"latitude": 34.3045,
+	"longitude": -98.7708
+},
+{
+	"City": "Renfrow",
+	"State": "OK",
+	"latitude": 36.9249,
+	"longitude": -97.657
+},
+{
+	"City": "Nardin",
+	"State": "OK",
+	"latitude": 36.8041,
+	"longitude": -97.4499
+},
+{
+	"City": "Oak Grove",
+	"State": "OK",
+	"latitude": 36.2056,
+	"longitude": -96.3384
+},
+{
+	"City": "Gideon",
+	"State": "OK",
+	"latitude": 36.0088,
+	"longitude": -95.036
+},
+{
+	"City": "Knowles",
+	"State": "OK",
+	"latitude": 36.873,
+	"longitude": -100.1931
+},
+{
+	"City": "Jefferson",
+	"State": "OK",
+	"latitude": 36.7203,
+	"longitude": -97.7909
+},
+{
+	"City": "Lambert",
+	"State": "OK",
+	"latitude": 36.6832,
+	"longitude": -98.4237
+},
+{
+	"City": "Kenton",
+	"State": "OK",
+	"latitude": 36.9064,
+	"longitude": -102.9653
+},
+{
+	"City": "Hoot Owl",
+	"State": "OK",
+	"latitude": 36.36,
+	"longitude": -95.1214
+},
+{
+	"City": "Lotsee",
+	"State": "OK",
+	"latitude": 36.1334,
+	"longitude": -96.2091
+},
+{
+	"City": "Shamrock",
+	"State": "OK",
+	"latitude": 35.9113,
+	"longitude": -96.5772
+}]

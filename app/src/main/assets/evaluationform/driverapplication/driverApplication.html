@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>RCO | Forms - Driver Application</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+        integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
+        integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <link rel="stylesheet" href="file:///android_asset/www/evaluationform/driverapplication/main-employment_application.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/4.17.47/css/bootstrap-datetimepicker.min.css">
+    <link rel="stylesheet" href="file:///android_asset/www/evaluationform/driverapplication/employment-application.css">
+</head>
+
+<body style="background-color:gold; margin: 0px !important;">
+    <div class="container-fluid">
+        <!-- <div class="row" style="border-bottom:1px solid white;">
+            <div class="col-sm-12">
+                <div class="row">
+                    <div class="col-sm-3">
+                        <a href="../../products/index.jsp" class="btn btn-primary"><i class="fas fa-home"></i> Home</a>
+                        <a href="../index.html" class="btn btn-primary"><i class="fas fa-backward"></i> Back</a>
+                    </div>
+                    <div class="col-sm-6 text-center">
+                        <h2  style="margin:0px !important">Forms</h2>
+                    </div>
+                    <div class="col-sm-3">
+                        <button class="btn btn-primary" id="save_button"><i class="fas fa-save"></i> Save</button>
+                        <a href="../../products/LogoutServlet.jsp" class="btn btn-primary pull-right">
+                            <i class="fas fa-power-off"></i> Logout
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+        <div class="row">
+            <div class="col-sm-12">
+                <form id="form">
+                    <div id="searchResultSide" style="display: none;">
+                        <div class="side-close">x</div>
+                        <div class="side-match"></div>
+                        <div class="side-body"></div>
+                    </div>
+                    <page size="Letter" style="padding: 20px 80px;">
+                        <div class="row">
+                            <div class="col-xs-12 text-center mb-5">
+                                <h6 class="m-1"><b>APPLICATION FOR EMPLOYMENT</b></h6>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-12 text-left mb-10">
+                                <span class="m-1">COMPANY NAME: </span>
+                                <input id="company" name='company' style="width:250px; border-bottom: 1px solid black;">
+                                <span class="m-1">STREET ADDRESS</span>
+                                <input id="companyAddress" name='companyAddress' style="width:162px; border-bottom: 1px solid black;">
+                            </div>
+                            <div class="col-xs-12 text-left mb-10">
+                                <span class="m-1">CITY:</span>
+                                <input id="companyCity" name='companyCity' style="width:230px; border-bottom: 1px solid black;">
+                                <span class="m-1">STATE:</span>
+                                <input id="companyState" name='companyState' style="width:130px; border-bottom: 1px solid black;">
+                                <span class="m-1">ZIPCODE:</span>
+                                <input id="companyZipcode" name='companyZipcode' style="width:120px; border-bottom: 1px solid black;">
+                            </div>
+                            <div class="col-xs-12 text-left">
+                                <span class="m-1">NAME: </span>
+                                <input id="firstName" name='firstName' style="width:145px; border-bottom: 1px solid black; display: inline-block;">
+                                <input id="lastName" name='lastName' style="width:145px; border-bottom: 1px solid black; display: inline-block;">
+                                <input id="maidenNameIfAny" name='' style="width:145px; border-bottom: 1px solid black; display: inline-block;">
+                                <input id="middleName" name='middleName' style="width:145px; border-bottom: 1px solid black; display: inline-block;">
+                            </div>
+                            <div class="col-xs-12 text-left mb-10">
+                                <div class="col-xs-3 text-center" style="font-size: 9px;">(First)</div>
+                                <div class="col-xs-3 text-center" style="font-size: 9px;">(Last)</div>
+                                <div class="col-xs-3 text-center" style="font-size: 9px;">(Maiden Name, if any)</div>
+                                <div class="col-xs-3 text-center" style="font-size: 9px;">(Middle)</div>
+                            </div>
+                            <div class="col-xs-12 text-left">
+                                <span class="m-1">ADDRESS: </span>
+                                <input id="address1" name='address1' style="width:120px; border-bottom: 1px solid black; display: inline-block;">
+                                <input id="city" name='city' style="width:110px; border-bottom: 1px solid black; display: inline-block;">
+                                <input id="state" name='state' style="width:60px; border-bottom: 1px solid black; display: inline-block;">
+                                <input id="zip" name='zip' style="width:60px; border-bottom: 1px solid black; display: inline-block;">
+                                <span style="display: inline-block; width: 30px;"></span>
+                                <span class="m-1">HOW LONG?</span>
+                                <input id="driverAddress1HowLong" name='driverAddress1HowLong' style="width:100px; border-bottom: 1px solid black;">
+                            </div>
+                            <div class="col-xs-12 text-left mb-10">
+                                <div class="col-xs-3 text-center" style="font-size: 9px;">(Street)</div>
+                                <div class="col-xs-3 text-center" style="font-size: 9px;">(City)</div>
+                                <div class="col-xs-3 text-left" style="font-size: 9px;">(State & Zip code)</div>
+                            </div>
+                            <div class="col-xs-12 text-left mb-10">
+                                <span class="m-1">DATE OF BIRTH:</span>
+                                <input id="dateofBirth" name='dateofBirth' style="width:220px; border-bottom: 1px solid black;">
+                                <span class="m-1">SOCIAL SECURITY NUMBER:</span>
+                                <input id="socialSercurityNumber" name='socialSercurityNumber' style="width:150px; border-bottom: 1px solid black;">
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-12 text-center m-1">
+                                <h6 class="m-1"><b><u>ADDRESS FOR THE PAST THREE YEARS:</u></b></h6>
+                            </div>
+                            <div class="col-xs-12 text-left">
+                                <input id="driverAddress2" name='driverAddress2' style="width:150px; border-bottom: 1px solid black; display: inline-block;">
+                                <input id="driverCity2" name='driverCity2' style="width:150px; border-bottom: 1px solid black; display: inline-block;">
+                                <input id="driverState2" name='driverState2' style="width:75px; border-bottom: 1px solid black; display: inline-block;">
+                                <input id="driverZipcode2" name='driverZipcode2' style="width:72px; border-bottom: 1px solid black; display: inline-block;">
+                                <span class="m-1"> HOW LONG?</span>
+                                <input id="driverAddress2HowLong" name='driverAddress2HowLong' style="width:100px; border-bottom: 1px solid black;">
+                            </div>
+                            <div class="col-xs-12 text-left mb-10">
+                                <div class="col-xs-3 text-left" style="font-size: 9px;">(Street)</div>
+                                <div class="col-xs-3 text-left" style="font-size: 9px;">(City)</div>
+                                <div class="col-xs-3 text-left" style="font-size: 9px;">(State & Zip code)</div>
+                            </div>
+                            <div class="col-xs-12 text-left">
+                                <input id="driverAddress3" name='driverAddress3' style="width:150px; border-bottom: 1px solid black; display: inline-block;">
+                                <input id="driverCity3" name='driverCity3' style="width:150px; border-bottom: 1px solid black; display: inline-block;">
+                                <input id="driverState3" name='driverState3' style="width:75px; border-bottom: 1px solid black; display: inline-block;">
+                                <input id="driverZipcode3" name='driverZipcode3' style="width:72px; border-bottom: 1px solid black; display: inline-block;">
+                                <span class="m-1"> HOW LONG?</span>
+                                <input id="driverAddress3HowLong" name='driverAddress3HowLong' style="width:100px; border-bottom: 1px solid black;">
+                            </div>
+                            <div class="col-xs-12 text-left">
+                                <div class="col-xs-3 text-left" style="font-size: 9px;">(Street)</div>
+                                <div class="col-xs-3 text-left" style="font-size: 9px;">(City)</div>
+                                <div class="col-xs-3 text-left" style="font-size: 9px;">(State & Zip code)</div>
+                            </div>
+                        </div>
+                        <br/>
+                        <div class="row">
+                            <div class="col-xs-12 text-center">
+                                <h6 class="m-1"><b>DRIVER EXPERIENCE AND QUALIFICATIONS</b></h6>
+                                <table class="text-center" style="font-size: 11px; width: 100%">
+                                    <thead>
+                                        <tr>
+                                            <th style="width: 20%;"></th>
+                                            <th style="width: 20%;">STATE</th>
+                                            <th style="width: 20%;">LICENSE NO.</th>
+                                            <th style="width: 20%;">TYPE </th>
+                                            <th style="width: 20%;">EXPIRATION DATE</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr id="0_tr_qualification">
+                                            <td style="height: 25px; padding: 2px;">
+                                                <input id="driverName_0" type="text" name="driverName" style="width: 100%; height: 100%x; border: 0;">
+                                            </td>
+                                            <td style="height: 100%; padding: 2px;">
+                                                <input id="state_0" type="text" name="driverLicenseState" style="width: 100%; height: 100%x; border: 0;">
+                                            </td>
+                                            <td style="height: 100%; padding: 2px;">
+                                                <input id="licenseNumber_0" type="text" name="driverLicenseNumber" style="width: 100%; height: 100%x; border: 0;">
+                                            </td>
+                                            <td style="height: 100%; padding: 2px;">
+                                                <input id="licenseType_0" type="text" name="driverLicenseClass" style="width: 100%; height: 100%x; border: 0;">
+                                            </td>
+                                            <td style="height: 100%; padding: 2px;">
+                                                <input id="expirationDate_0" type="text" name="driverLicenseExpirationDate" style="width: 100%; height:100%x; border: 0;">
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        <br/>
+                        <div class="row">
+                            <div class="col-xs-12 text-center m-1">
+                                <h6 class="m-1"><b>DRIVING EXPERIENCE</b></h6>
+                                <table class="text-center" style="font-size: 11px; width: 100%">
+                                    <thead>
+                                        <tr>
+                                            <th style="width: 20%;">CLASS OF EQUIPMENT</th>
+                                            <th style="width: 20%;">TYPE OF EQUIPMENT (VAN, TANK, FLAT, ETC.)</th>
+                                            <th style="width: 20%;">DATE FROM</th>
+                                            <th style="width: 20%;">DATETO</th>
+                                            <th style="width: 20%;">APPROX.NO.OF MILES (TOTAL)</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr id="0_tr_drivingExperience">
+                                            <td style="height: 100%; padding: 2px;">
+                                                <input id="classofEquipment_0" type="text" name="classofEquipment" style="width: 100%; height: 100%x; border: 0;">
+                                            </td>
+                                            <td style="height: 100%; padding: 2px;">
+                                                <input id="typeofEquipment_0" type="text" name="typeofEquipment" style="width: 100%; height: 100%x; border: 0;">
+                                            </td>
+                                            <td style="height: 100%; padding: 2px;">
+                                                <input id="dateFrom_0" type="text" name="dateFrom" style="width: 100%; height: 100%x; border: 0;">
+                                            </td>
+                                            <td style="height: 100%; padding: 2px;">
+                                                <input id="dateTo_0" type="text" name="dateTo" style="width: 100%; height: 100%x; border: 0;">
+                                            </td>
+                                            <td style="height: 100%; padding: 2px;">
+                                                <input id="approximateNumberofMiles_0" type="text" name="approximateNumberofMiles" style="width: 100%; height:100%x; border: 0;">
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        <br/>
+                        <div class="row">
+                            <div class="col-xs-12 text-center">
+                                <h6 class="m-1"><b>ACCIDENT RECORD FOR PAST 3 YEARS OR MORE (ATTACH SHEET IF MORE SPACE IS NEEDED)</b></h6>
+                                <table class="text-center" style="font-size: 11px; width: 100%">
+                                    <thead>
+                                        <tr>
+                                            <th style="width: 25%;">DATES</th>
+                                            <th style="width: 25%;">NATURE OF ACCIDENT (HEAD-ON, REAR-END, UPSET, ETC.</th>
+                                            <th style="width: 25%;">FATALITIES</th>
+                                            <th style="width: 25%;">INJURIES</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr id="0_tr_accident">
+                                            <td style="height: 100%; padding: 2px;">
+                                                <input id="accidentDate_0" type="text" name="accidentDate" style="width: 100%; height: 100x%; border: 0;">
+                                            </td>
+                                            <td style="height: 100%; padding: 2px;">
+                                                <input id="natureofAccident_0" type="text" name="natureofAccident" style="width: 100%; height: 100%x; border: 0;">
+                                            </td>
+                                            <td style="height: 100%; padding: 2px;">
+                                                <input id="fatalities_0" type="text" name="fatalities" style="width: 100%; height: 100%x; border: 0;">
+                                            </td>
+                                            <td style="height: 100%; padding: 2px;">
+                                                <input id="injuries_0" type="text" name="injuries" style="width: 100%; height: 100%x; border: 0;">
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        <br/>
+                        <div class="row">
+                            <div class="col-xs-12 text-center">
+                                <h6 class="m-1"><b>TRAFFIC CONVICTIONS AND FORFEITURES FOR THE PAST 3 YEARS (OTHER THAN PARKING VIOLATIONS)</b></h6>
+                                <table class="text-center aplication_details_table" style="font-size: 11px; width: 100%">
+                                    <thead>
+                                        <tr>
+                                            <th style="width: 25%;">LOCATIONS</th>
+                                            <th style="width: 25%;">DATES</th>
+                                            <th style="width: 25%;">CHARGE</th>
+                                            <th style="width: 25%;">PENALTY</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr id="0_tr_conviction">
+                                            <td style="height: 25px; padding: 2px;">
+                                                <input id="convictionLocation_0" name="convictionLocation" type="text" style="width: 100%; height: 100%x; border: 0;">
+                                            </td>
+                                            <td style="height: 25px; padding: 2px;">
+                                                <input id="convictionDate_0" name="convictionDate" type="text" style="width: 100%; height: 100%x; border: 0;">
+                                            </td>
+                                            <td style="height: 25px; padding: 2px;">
+                                                <input id="charge_0" name="charge" type="text" style="width: 100%; height: 100%x; border: 0;">
+                                            </td>
+                                            <td style="height: 25px; padding: 2px;">
+                                                <input id="penalty_0" name="penalty" type="text" style="width: 100%; height:100%x; border: 0;">
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-12 text-center m-1">
+                                <p style="font-size: 12px;">
+                                    <b>A.</b> Have you ever been denied a license, permit or privilege to operate a motor vehicle?
+                                     Yes <input id="deniedalicenseYes" name='' style="width:30px; border-bottom: 1px solid black;">
+                                     No <input id="deniedalicenseNo" name='' style="width:30px; border-bottom: 1px solid black;">
+                                </p>
+                                <p style="font-size: 12px; margin-bottom: 15px;">
+                                    <b>B.</b> Have you ever been denied a license, permit or privilege to operate a motor vehicle?
+                                     Yes <input id="driverLicensePermitDenied" name='driverLicensePermitDenied' style="width:30px; border-bottom: 1px solid black;">
+                                     No <input id="driverLicensePermitRevokedorSuspended" name='driverLicensePermitRevokedorSuspended' style="width:30px; border-bottom: 1px solid black;">
+                                    </p>
+                                    <h6 class="mb-10">IF THE ANSWER TO EITHER <b>A</b> OR <b>B</b> IS YES, ATTACH A STATEMENT GIVING DETAILS</h6>
+                                    <input id="driverLicensePermitNotes" name='driverLicensePermitNotes' style="display:inline-block; width:100%; height: 30px; border:1px solid #8080804f">
+                            </div>
+                        </div>
+                    </page>
+                </form>
+                
+            </div>
+        </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" 
+        integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/4.17.47/js/bootstrap-datetimepicker.min.js"></script>
+    <script src="../../components/app.js"></script>
+    <script src="../../components/apiHelper.js"></script>
+    <script src="../../components/helper.js"></script>
+    <script src="../../components/promisifyHelper.js"></script>
+    <script src="../../components/spinner.min.js"></script>
+    <script src="../scripts/singles/driverApplication.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,55 @@
+AL Alabama
+AK Alaska
+AS American Samoa
+AZ Arizona
+AR Arkansas
+CA California
+CO Colorado
+CT Connecticut
+DC District Of Columbia
+DE Delaware
+FL Florida
+FM Federated States Of Micronesia
+GA Georgia
+GU Guam
+HI Hawaii
+ID Idaho
+IL Illinois
+IN Indiana
+IA Iowa
+KS Kansas
+KY Kentucky
+LA Louisiana
+MA Massachusetts
+ME Maine
+MI Michigan
+MN Minnesota
+MS Mississippi
+MO Missouri
+MP Northern Mariana Islands
+MT Montana
+NC North Carolina
+ND North Dakota
+NE Nebraska
+NH New Hampshire
+NJ New Jersey
+NM New Mexico
+NV Nevada
+NY New York
+OH Ohio
+OR Oregon
+PA Pennsylvania
+PR Puerto Rico
+PW Palau
+RI Rhode Island
+SC South Carolina
+SD South Dakota
+TN Tennessee
+TX Texas
+UT Utah
+VA Virginia
+VI Virgin Islands
+VT Vermont
+WA Washington
+WV West Virginia
+WY Wyoming

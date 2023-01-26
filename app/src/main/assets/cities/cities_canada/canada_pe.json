@@ -1,0 +1,61 @@
+[
+{
+	"City": "Charlottetown",
+	"State": "PE",
+	"latitude": 46.2403,
+	"longitude": -63.1347
+},
+{
+	"City": "Summerside",
+	"State": "PE",
+	"latitude": 46.4,
+	"longitude": -63.7833
+},
+{
+	"City": "Stratford",
+	"State": "PE",
+	"latitude": 46.2167,
+	"longitude": -63.0893
+},
+{
+	"City": "Cornwall",
+	"State": "PE",
+	"latitude": 46.2407,
+	"longitude": -63.2009
+},
+{
+	"City": "Montague",
+	"State": "PE",
+	"latitude": 46.1652,
+	"longitude": -62.65
+},
+{
+	"City": "Kensington",
+	"State": "PE",
+	"latitude": 46.4333,
+	"longitude": -63.65
+},
+{
+	"City": "Miltonvale Park",
+	"State": "PE",
+	"latitude": 46.318,
+	"longitude": -63.237
+},
+{
+	"City": "Alberton",
+	"State": "PE",
+	"latitude": 46.8167,
+	"longitude": -64.0667
+},
+{
+	"City": "Souris",
+	"State": "PE",
+	"latitude": 46.3554,
+	"longitude": -62.2542
+},
+{
+	"City": "Malpeque",
+	"State": "PE",
+	"latitude": 46.5,
+	"longitude": -63.6667
+}]

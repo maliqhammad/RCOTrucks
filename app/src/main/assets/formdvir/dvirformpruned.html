@@ -1,0 +1,572 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="">
+        <meta name="author" content="">
+
+        <title>Dvir | Form</title>
+
+        <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+
+        <style>
+            body {
+                margin: 0;
+                padding: 10px 20px 20px;
+                font-family: Arial;
+                font-size: 16px;
+            }
+            
+            .event-x {
+                display: inline-block;
+                margin: 10px 17px;
+                cursor: pointer;
+            }
+
+            .checkbox-block label {
+                position: relative;
+                top: -2px;
+                left: 5px;
+                cursor: pointer;
+                transition: all .3s;
+            }
+
+            .m-signature-block {
+                display: inline-block;
+                vertical-align: top;
+                width: 100px;
+            }
+            
+            page[size="Letter"] {
+                background: white;
+                width: 10.4in;
+                min-height: 5in;
+                display: block;
+                margin: 0 auto;
+                margin-bottom: 0.5cm;
+                padding: 30px;
+                box-shadow: 0 0 0.5cm rgba(0, 0, 0, 0.5);
+                font-size: 12px;
+                -webkit-owerflow-scrolling: touch;
+            }
+            
+            .input-text {
+                border: 0;
+                border-bottom: 1px solid black;
+                outline: none;
+                padding: 0 5px;
+                margin-top: -3px;
+                margin-right: 18px;
+                float: right;
+                font-size: 18px;
+            }
+        .input-text1 {
+            border: 0;
+            border-bottom: 0;
+            outline: none;
+            padding: 0 5px;
+            margin-top: -3px;
+            margin-right: 18px;
+            float: right;
+            font-size: 18px;
+        }
+
+            .input-text.w-85p {
+                width: 85%;
+            }
+            
+            .input-text.w-83p {
+                width: 83%;
+            }
+            
+            #timeFormat {
+                line-height: normal;
+                font-size: 20px;
+                margin-left: -17px;
+                position: relative;
+            }
+            
+            .m-0 {
+                margin: 0;
+            }
+            
+            .m-t-5 {
+                margin-top: 5px;
+            }
+            
+            .m-t-20 {
+                margin-top: 20px;
+            }
+            
+            .m-l-10 {
+                margin-left: 10px;
+            }
+            
+            .m-t-25 {
+                margin-top: 25px;
+            }
+            
+            .p-l-30 {
+                padding-left: 30px;
+            }
+            
+            .w-170 {
+                width: 170px;
+            }
+            
+            .w-150 {
+                width: 150px;
+            }
+            
+            .w-90 {
+                width: 90px;
+            }
+            
+            .w-60 {
+                width: 60px;
+            }
+            
+            .b-t-0 {
+                border-top: 0 !important;
+            }
+            
+            .b-b-0 {
+                border-bottom: 0 !important;
+            }
+            
+            .bold {
+                font-weight: bold;
+            }
+            
+            .f-s-20 {
+                font-size: 20px;
+            }
+            
+            .float-0 {
+                float: none !important;
+            }
+            
+            div.checkbox-block {
+                line-height: normal;
+                margin-left: 0;
+            }
+            
+            label {
+                font-size: 17px;
+                cursor: pointer;
+                margin: 0 !important;
+            }
+            
+            textarea {
+                border: 1px solid #000;
+                border-radius: 4px;
+                resize: none;
+                outline: none;
+                overflow: hidden !important;
+                height: 200px !important;
+                line-height: 31px !important;
+                font-family: Arial, Helvetica, Sans-serif !important;
+                padding: 8px;
+                font-size: 16px !important;
+                width: 100% !important;
+            }
+            
+            .m-t-10 {
+                margin-top: 10px;
+            }
+            .sig {
+            }
+        </style>
+
+    </head>
+
+    <body style="padding: 0">
+        <page size="Letter" id="page">
+            <input type="hidden" id="operation" value="I">
+            <input type="hidden" id="objectId" value="">
+            <input type="hidden" id="objectType" value="">
+            <input type="hidden" id="d_objectId" value="">
+            <input type="hidden" id="d_objectType" value="">
+            <input type="hidden" id="mobileRecordId" value="">
+            <input type="hidden" id="functionalGroupName" value="">
+            <input type="hidden" id="d_f_name" value="">
+            <input type="hidden" id="d_l_name" value="">
+            <input type="hidden" id="location" value="">
+            <input type="hidden" id="d_id" value="">
+            <input type="hidden" id="license_number" value="">
+            <h1 class="m-0 text-center"><strong>DRIVER'S VEHICLE INSPECTION REPORT</strong></h1>
+            <h5 class="m-0 text-center">AS REQUIREDBY THE D.O.T. FEDERAL MOTOR CARRIER SAFETY REGULATIONS</h5>
+            <div class="m-t-20">
+                <span class="f-s-20">CARRIER:</span>
+                <input type="text" id="carrier" class="input-text m-r-40 w-85p">
+                <div class="clearfix"></div>
+            </div>
+            <div class="m-t-10">
+                <span class="f-s-20">ADDRESS:</span>
+                <input type="text" id="address" class="input-text m-r-40 w-85p">
+                <div class="clearfix"></div>
+            </div>
+            <div class="m-t-10">
+                <span class="f-s-20">DATE:</span>
+                <input type="text" id="date" class="input-text m-r-40 float-0">
+                <span class="f-s-20">TIME:</span>
+                <input type="text" id="time" class="input-text m-r-40 float-0">
+                <span id="timeFormat"></span>
+            </div>
+            <div class="text-center">CHECK ANY DEFECTIVE ITEM AND GIVE DETAILS UNDER "REMARKS"</div>
+            <div class="f-s-20 m-t-10 bold">TRACTOR/</div>
+            <div>
+                <span class="f-s-20 bold">TRUCK NO.</span>
+                <input type="text" id="truckTractorNumber" class="input-text m-r-40 float-0">
+                <span class="f-s-20">ODOMETER READING</span>
+                <input type="text" id="odometer" class="input-text m-r-40 float-0">
+            </div>
+            <div class="row">
+                <div class="col-xs-4">
+                    <div class="checkbox-block m-t-10">
+                        <input type="checkbox" id="airCompressor">
+                        <label for="airCompressor">Air Compressor</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="airLines">
+                        <label for="airLines">Air Lines</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="battery">
+                        <label for="battery">Battery</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="brakeAccessories">
+                        <label for="brakeAccessories">Brake Accessories</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="brakes">
+                        <label for="brakes">Brakes</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="carburetor">
+                        <label for="carburetor">Carburetor</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="clutch">
+                        <label for="clutch">Clutch</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="defroster">
+                        <label for="defroster">Defroster</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="driveLine">
+                        <label for="driveLine">Drive Line</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="fifthWheel">
+                        <label for="fifthWheel">Fifth Wheel</label>
+                    </div>
+                    <div class="checkbox-block" style="margin-top: 20px">
+                        <input type="checkbox" id="registration">
+                        <label for="registration">* Registration</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="insurance">
+                        <label for="insurance">* Insurance</label>
+                    </div>
+                </div>
+                <div class="col-xs-4">
+                    <div class="checkbox-block m-t-10">
+                        <input type="checkbox" id="frontAxle">
+                        <label for="frontAxle">Front Axle</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="fuelTanks">
+                        <label for="fuelTanks">Fuel Tanks</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="horn">
+                        <label for="horn">Horn</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="heater">
+                        <label for="heater">Heater</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="lights">
+                        <label for="lights">Lights</label>
+                        <div class="p-l-30"><label for="lights">Head/Stop</label></div>
+                        <div class="p-l-30"><label for="lights">Tail/Dash</label></div>
+                        <div class="p-l-30"><label for="lights">Turn Indicators</label></div>
+                        <div class="p-l-30"><label for="lights">Clearance/Marker</label></div>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="mirrors">
+                        <label for="mirrors">Mirrors</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="oilPressure">
+                        <label for="oilPressure">Oil Pressure</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="onBoardRecorder">
+                        <label for="onBoardRecorder">On Board Recorder</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="radiator">
+                        <label for="radiator">Radiator</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="rearEnd">
+                        <label for="rearEnd">Rear End</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="reflectors">
+                        <label for="reflectors">Reflectors</label>
+                    </div>
+                </div>
+                <div class="col-xs-4">
+                    <div class="checkbox-block m-t-10">
+                        <input type="checkbox" id="safetyEquipment">
+                        <label for="safetyEquipment">Safety Equipment</label>
+                        <div class="p-l-30"><label for="safetyEquipment">Fire Extinguisher</label></div>
+                        <div class="p-l-30"><label for="safetyEquipment">Flags/Flares/Fusees</label></div>
+                        <div class="p-l-30"><label for="safetyEquipment">Reflective Triangles</label></div>
+                        <div class="p-l-30"><label for="safetyEquipment">Spare Bulbs and Fuses</label></div>
+                        <div class="p-l-30"><label for="safetyEquipment">Spare Seal Beam</label></div>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="springs">
+                        <label for="springs">Springs</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="starter">
+                        <label for="starter">Starter</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="steering">
+                        <label for="steering">Steering</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="tachograph">
+                        <label for="tachograph">Tachograph</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="tires">
+                        <label for="tires">Tires</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="transmission">
+                        <label for="transmission">Transmission</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="wheels">
+                        <label for="wheels">Wheels and Rims</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="windows">
+                        <label for="windows">Windows</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="windShieldWipers">
+                        <label for="windShieldWipers">Windshield Wipers</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="others">
+                        <label for="others">Other</label>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="m-t-10 col-xs-6">
+                    <span class="f-s-20"><strong>TRAILER NO.(S)</strong></span>
+                    <input type="text" id="trailer1Numbers" class="input-text m-r-40 float-0">
+                </div>
+                <div class="m-t-10 col-xs-6">
+                    <span class="f-s-20"><strong>Reefer HOS</strong></span>
+                    <input type="text" id="trailer1ReeferHOS" class="input-text m-r-40 float-0">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-4">
+                    <div class="checkbox-block m-t-10">
+                        <input type="checkbox" id="trailer1BreakeConnections">
+                        <label for="trailer1BreakeConnections">Brake Connections</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="trailer1Breakes">
+                        <label for="trailer1Breakes">Brakes</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="trailer1CouplingPin">
+                        <label for="trailer1CouplingPin">Coupling (King) Pin</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="trailer1CouplingChains">
+                        <label for="trailer1CouplingChains">Coupling Chains</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="trailer1Doors">
+                        <label for="trailer1Doors">Doors</label>
+                    </div>
+                </div>
+                <div class="col-xs-4">
+                    <div class="checkbox-block m-t-10">
+                        <input type="checkbox" id="trailer1Hitch">
+                        <label for="trailer1Hitch">Hitch</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="trailer1LandingGear">
+                        <label for="trailer1LandingGear">Landing Gear</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="trailer1LightsAll">
+                        <label for="trailer1LightsAll">Lights All</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="trailer1Roof">
+                        <label for="trailer1Roof">Roof</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="trailer1Springs">
+                        <label for="trailer1Springs">Springs</label>
+                    </div>
+                </div>
+                <div class="col-xs-4">
+                    <div class="checkbox-block m-t-10">
+                        <input type="checkbox" id="trailer1Tarpaulin">
+                        <label for="trailer1Tarpaulin">Tarpaulin</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="trailer1Tires">
+                        <label for="trailer1Tires">Tires</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="trailer1Wheels">
+                        <label for="trailer1Wheels">Wheels and Rims</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="trailer1Other">
+                        <label for="trailer1Other">Other</label>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="m-t-10 col-xs-6">
+                    <span class="f-s-20"><strong>TRAILER NO.(S)</strong></span>
+                    <input type="text" id="trailer2Numbers" class="input-text m-r-40 float-0">
+                </div>
+                <div class="m-t-10 col-xs-6">
+                    <span class="f-s-20"><strong>Reefer HOS</strong></span>
+                    <input type="text" id="trailer2ReeferHOS" class="input-text m-r-40 float-0">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-4">
+                    <div class="checkbox-block m-t-10">
+                        <input type="checkbox" id="trailer2BreakeConnections">
+                        <label for="trailer2BreakeConnections">Brake Connections</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="trailer2Breakes">
+                        <label for="trailer2Breakes">Brakes</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="trailer2CouplingPin">
+                        <label for="trailer2CouplingPin">Coupling (King) Pin</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="trailer2CouplingChains">
+                        <label for="trailer2CouplingChains">Coupling Chains</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="trailer2Doors">
+                        <label for="trailer2Doors">Doors</label>
+                    </div>
+                </div>
+                <div class="col-xs-4">
+                    <div class="checkbox-block m-t-10">
+                        <input type="checkbox" id="trailer2Hitch">
+                        <label for="trailer2Hitch">Hitch</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="trailer2LandingGear">
+                        <label for="trailer2LandingGear">Landing Gear</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="trailer2LightsAll">
+                        <label for="trailer2LightsAll">Lights All</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="trailer2Roof">
+                        <label for="trailer2Roof">Roof</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="trailer2Springs">
+                        <label for="trailer2Springs">Springs</label>
+                    </div>
+                </div>
+                <div class="col-xs-4">
+                    <div class="checkbox-block m-t-10">
+                        <input type="checkbox" id="trailer2Tarpaulin">
+                        <label for="trailer2Tarpaulin">Tarpaulin</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="trailer2Tires">
+                        <label for="trailer2Tires">Tires</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="trailer2Wheels">
+                        <label for="trailer2Wheels">Wheels and Rims</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="trailer2Other">
+                        <label for="trailer2Other">Other</label>
+                    </div>
+                </div>
+            </div>
+            <div class="f-s-20">Remarks</div>
+            <textarea id="remarks"></textarea>
+            <div class="checkbox-block">
+                <input type="checkbox" id="conditionVehicleIsSatisfactory">
+                <label for="conditionVehicleIsSatisfactory">CONDITION OF THE ABOVE VEHICLE IS SATISFACTORY</label>
+            </div>
+            <div class="">
+                <span>DRIVER'S NAME: </span>
+                <input type="text" id="driverName" style="border:0px">
+                <div class="clearfix"></div>
+            </div>
+            <div class="">
+                <span>MECHANIC NAME: </span>
+                <input type="text" id="mechanicName" style="border:0px">
+                <div class="clearfix"></div>
+            </div>
+            <div class="checkbox-block m-t-10">
+                <input type="checkbox" id="aboveDefectsCorrected">
+                <label for="aboveDefectsCorrected" style="font-weight: normal; font-size: 14px">ABOVE DEFECTS CORRECTED</label>
+            </div>
+            <div class="checkbox-block">
+                <input type="checkbox" id="aboveDefectsNoCorrectionNeeded">
+                <label for="aboveDefectsNoCorrectionNeeded" style="font-weight: normal; font-size: 14px">ABOVE DEFECTS NEED NOT BE CORRECTED FOR SAFE OPERATION OF VEICLE</label>
+            </div>
+            <div class="sig" id="signature_of_mechanic_DIV">
+                <span style="font-size: 14px">MECHANIC SIGNATURE:</span>
+                <img id="signature_of_mechanic" height = "40"/>
+                <div class="pull-right">
+                    <span style="font-size: 14px">DATE:</span>
+                    <input type="text" id="mechanicsSignatureDate" style="width: 120px" class="input-text m-r-40 float-0">
+                </div>
+                <div class="m-signature-block"><img src="" id="mechanicsSignature" class="signature"></div>
+                <span id=mechanic_name></span>
+                <div class="clearfix"></div>
+            </div>
+            <div class="sig" id="signature_of_driver_DIV">
+                <span style="font-size: 14px">DRIVER'S SIGNATURE:</span>
+                <img id="signature_of_driver" height = "40"/>
+                <div class="pull-right">
+                    <span style="font-size: 14px">DATE:</span>
+                    <input type="text" id="driversSignatureNoCorrectionNeededDate" style="width: 120px" class="input-text m-r-40 float-0">
+                </div>
+            </div>
+        </page>
+    </body>
+</html>

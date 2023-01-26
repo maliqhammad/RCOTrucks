@@ -1,0 +1,32 @@
+So here complete solution, mixing all infos found here and there :
+
+1) first of all you have to enable DOM storage, if you don't do that, .GetElementByXXX will return nothing (you have to do it before loading the page)
+
+myWebView.getSettings().setDomStorageEnabled(true);
+2)Your last Javascript call on GetElementByXXX MUST store the result in a variable
+
+Exemple 1 :
+
+_webview.loadUrl("javascript:var uselessvar =document.getElementById('passwordfield').value='"+password+"';");
+here only one call (only one semi-colon) so we immediatly store the result in 'uselessvar'
+
+Example 2 : see user802467 answer
+
+here there is 3 calls (one for login field, one for password field, one to submit button), only the last call need to be store, it's done in 'frms'
+
+Javascript programmers should easily explain this behaviour...
+
+--------------------------------------------------------------------------------------
+webView.setWebViewClient(new WebViewClient(){
+    @Override
+    public void onPageFinished(WebView view, String url) {
+        super.onPageFinished(view, url);
+        webView.loadUrl(
+            "javascript:(function() { " +
+                "var element = document.getElementById('hplogo');"
+                + "element.parentNode.removeChild(element);" +
+            "})()");
+    }
+});
+
+----------------------------------------------------------------------------------------

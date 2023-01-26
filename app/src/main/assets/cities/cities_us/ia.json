@@ -1,0 +1,6019 @@
+[
+{
+	"City": "Des Moines",
+	"State": "IA",
+	"latitude": 41.5725,
+	"longitude": -93.6105
+},
+{
+	"City": "Davenport",
+	"State": "IA",
+	"latitude": 41.5563,
+	"longitude": -90.6052
+},
+{
+	"City": "Cedar Rapids",
+	"State": "IA",
+	"latitude": 41.9665,
+	"longitude": -91.6782
+},
+{
+	"City": "Iowa City",
+	"State": "IA",
+	"latitude": 41.6559,
+	"longitude": -91.5303
+},
+{
+	"City": "Waterloo",
+	"State": "IA",
+	"latitude": 42.492,
+	"longitude": -92.3522
+},
+{
+	"City": "Sioux City",
+	"State": "IA",
+	"latitude": 42.4959,
+	"longitude": -96.3901
+},
+{
+	"City": "Dubuque",
+	"State": "IA",
+	"latitude": 42.5008,
+	"longitude": -90.7067
+},
+{
+	"City": "Ames",
+	"State": "IA",
+	"latitude": 42.0259,
+	"longitude": -93.6215
+},
+{
+	"City": "West Des Moines",
+	"State": "IA",
+	"latitude": 41.5522,
+	"longitude": -93.7805
+},
+{
+	"City": "Ankeny",
+	"State": "IA",
+	"latitude": 41.7285,
+	"longitude": -93.6033
+},
+{
+	"City": "Council Bluffs",
+	"State": "IA",
+	"latitude": 41.2369,
+	"longitude": -95.8517
+},
+{
+	"City": "Urbandale",
+	"State": "IA",
+	"latitude": 41.639,
+	"longitude": -93.7813
+},
+{
+	"City": "Cedar Falls",
+	"State": "IA",
+	"latitude": 42.5195,
+	"longitude": -92.4534
+},
+{
+	"City": "Marion",
+	"State": "IA",
+	"latitude": 42.045,
+	"longitude": -91.5846
+},
+{
+	"City": "Bettendorf",
+	"State": "IA",
+	"latitude": 41.5656,
+	"longitude": -90.4764
+},
+{
+	"City": "Clinton",
+	"State": "IA",
+	"latitude": 41.8434,
+	"longitude": -90.2408
+},
+{
+	"City": "Burlington",
+	"State": "IA",
+	"latitude": 40.8072,
+	"longitude": -91.1247
+},
+{
+	"City": "Mason City",
+	"State": "IA",
+	"latitude": 43.1487,
+	"longitude": -93.1998
+},
+{
+	"City": "Marshalltown",
+	"State": "IA",
+	"latitude": 42.0341,
+	"longitude": -92.9067
+},
+{
+	"City": "Muscatine",
+	"State": "IA",
+	"latitude": 41.4196,
+	"longitude": -91.068
+},
+{
+	"City": "Ottumwa",
+	"State": "IA",
+	"latitude": 41.0196,
+	"longitude": -92.4186
+},
+{
+	"City": "Waukee",
+	"State": "IA",
+	"latitude": 41.5984,
+	"longitude": -93.8872
+},
+{
+	"City": "Fort Dodge",
+	"State": "IA",
+	"latitude": 42.5098,
+	"longitude": -94.1751
+},
+{
+	"City": "Johnston",
+	"State": "IA",
+	"latitude": 41.6857,
+	"longitude": -93.7173
+},
+{
+	"City": "Coralville",
+	"State": "IA",
+	"latitude": 41.699,
+	"longitude": -91.5967
+},
+{
+	"City": "North Liberty",
+	"State": "IA",
+	"latitude": 41.7438,
+	"longitude": -91.611
+},
+{
+	"City": "Altoona",
+	"State": "IA",
+	"latitude": 41.6481,
+	"longitude": -93.4784
+},
+{
+	"City": "Clive",
+	"State": "IA",
+	"latitude": 41.6147,
+	"longitude": -93.798
+},
+{
+	"City": "Indianola",
+	"State": "IA",
+	"latitude": 41.3629,
+	"longitude": -93.5652
+},
+{
+	"City": "Newton",
+	"State": "IA",
+	"latitude": 41.6964,
+	"longitude": -93.0402
+},
+{
+	"City": "Grimes",
+	"State": "IA",
+	"latitude": 41.6776,
+	"longitude": -93.7946
+},
+{
+	"City": "Keokuk",
+	"State": "IA",
+	"latitude": 40.4095,
+	"longitude": -91.403
+},
+{
+	"City": "Oskaloosa",
+	"State": "IA",
+	"latitude": 41.2922,
+	"longitude": -92.6403
+},
+{
+	"City": "Boone",
+	"State": "IA",
+	"latitude": 42.053,
+	"longitude": -93.877
+},
+{
+	"City": "Norwalk",
+	"State": "IA",
+	"latitude": 41.4895,
+	"longitude": -93.6913
+},
+{
+	"City": "Spirit Lake",
+	"State": "IA",
+	"latitude": 43.4176,
+	"longitude": -95.1109
+},
+{
+	"City": "Fairfield",
+	"State": "IA",
+	"latitude": 41.0061,
+	"longitude": -91.9669
+},
+{
+	"City": "Storm Lake",
+	"State": "IA",
+	"latitude": 42.6431,
+	"longitude": -95.1969
+},
+{
+	"City": "Spencer",
+	"State": "IA",
+	"latitude": 43.1468,
+	"longitude": -95.1534
+},
+{
+	"City": "Fort Madison",
+	"State": "IA",
+	"latitude": 40.6207,
+	"longitude": -91.3509
+},
+{
+	"City": "Pella",
+	"State": "IA",
+	"latitude": 41.4051,
+	"longitude": -92.9177
+},
+{
+	"City": "Waverly",
+	"State": "IA",
+	"latitude": 42.725,
+	"longitude": -92.4708
+},
+{
+	"City": "Le Mars",
+	"State": "IA",
+	"latitude": 42.7809,
+	"longitude": -96.1743
+},
+{
+	"City": "Pleasant Hill",
+	"State": "IA",
+	"latitude": 41.5868,
+	"longitude": -93.4952
+},
+{
+	"City": "Carroll",
+	"State": "IA",
+	"latitude": 42.0699,
+	"longitude": -94.8647
+},
+{
+	"City": "Grinnell",
+	"State": "IA",
+	"latitude": 41.7361,
+	"longitude": -92.7244
+},
+{
+	"City": "Mount Pleasant",
+	"State": "IA",
+	"latitude": 40.9625,
+	"longitude": -91.5452
+},
+{
+	"City": "Denison",
+	"State": "IA",
+	"latitude": 42.016,
+	"longitude": -95.3528
+},
+{
+	"City": "Decorah",
+	"State": "IA",
+	"latitude": 43.3015,
+	"longitude": -91.7844
+},
+{
+	"City": "Creston",
+	"State": "IA",
+	"latitude": 41.0597,
+	"longitude": -94.365
+},
+{
+	"City": "Clear Lake",
+	"State": "IA",
+	"latitude": 43.1346,
+	"longitude": -93.374
+},
+{
+	"City": "Perry",
+	"State": "IA",
+	"latitude": 41.8387,
+	"longitude": -94.0937
+},
+{
+	"City": "Webster City",
+	"State": "IA",
+	"latitude": 42.4623,
+	"longitude": -93.8167
+},
+{
+	"City": "Sioux Center",
+	"State": "IA",
+	"latitude": 43.0748,
+	"longitude": -96.1707
+},
+{
+	"City": "Hiawatha",
+	"State": "IA",
+	"latitude": 42.0547,
+	"longitude": -91.6911
+},
+{
+	"City": "Charles City",
+	"State": "IA",
+	"latitude": 43.0644,
+	"longitude": -92.6745
+},
+{
+	"City": "Washington",
+	"State": "IA",
+	"latitude": 41.2982,
+	"longitude": -91.6928
+},
+{
+	"City": "Knoxville",
+	"State": "IA",
+	"latitude": 41.3188,
+	"longitude": -93.1024
+},
+{
+	"City": "Orange City",
+	"State": "IA",
+	"latitude": 43.0023,
+	"longitude": -96.0566
+},
+{
+	"City": "Bondurant",
+	"State": "IA",
+	"latitude": 41.6986,
+	"longitude": -93.4551
+},
+{
+	"City": "Eldridge",
+	"State": "IA",
+	"latitude": 41.639,
+	"longitude": -90.5809
+},
+{
+	"City": "Nevada",
+	"State": "IA",
+	"latitude": 42.0186,
+	"longitude": -93.4635
+},
+{
+	"City": "Atlantic",
+	"State": "IA",
+	"latitude": 41.3957,
+	"longitude": -95.0138
+},
+{
+	"City": "Oelwein",
+	"State": "IA",
+	"latitude": 42.6715,
+	"longitude": -91.9133
+},
+{
+	"City": "Mount Vernon",
+	"State": "IA",
+	"latitude": 41.923,
+	"longitude": -91.4244
+},
+{
+	"City": "Glenwood",
+	"State": "IA",
+	"latitude": 41.0446,
+	"longitude": -95.7408
+},
+{
+	"City": "Independence",
+	"State": "IA",
+	"latitude": 42.4622,
+	"longitude": -91.9027
+},
+{
+	"City": "Maquoketa",
+	"State": "IA",
+	"latitude": 42.0598,
+	"longitude": -90.6651
+},
+{
+	"City": "Asbury",
+	"State": "IA",
+	"latitude": 42.5119,
+	"longitude": -90.7795
+},
+{
+	"City": "Estherville",
+	"State": "IA",
+	"latitude": 43.3998,
+	"longitude": -94.8343
+},
+{
+	"City": "Anamosa",
+	"State": "IA",
+	"latitude": 42.1091,
+	"longitude": -91.2758
+},
+{
+	"City": "Adel",
+	"State": "IA",
+	"latitude": 41.6121,
+	"longitude": -94.0129
+},
+{
+	"City": "Centerville",
+	"State": "IA",
+	"latitude": 40.7294,
+	"longitude": -92.8718
+},
+{
+	"City": "Algona",
+	"State": "IA",
+	"latitude": 43.0743,
+	"longitude": -94.2302
+},
+{
+	"City": "Winterset",
+	"State": "IA",
+	"latitude": 41.3457,
+	"longitude": -94.0137
+},
+{
+	"City": "Clarinda",
+	"State": "IA",
+	"latitude": 40.738,
+	"longitude": -95.034
+},
+{
+	"City": "Red Oak",
+	"State": "IA",
+	"latitude": 41.0141,
+	"longitude": -95.2248
+},
+{
+	"City": "Osceola",
+	"State": "IA",
+	"latitude": 41.0302,
+	"longitude": -93.7829
+},
+{
+	"City": "DeWitt",
+	"State": "IA",
+	"latitude": 41.8227,
+	"longitude": -90.5448
+},
+{
+	"City": "Humboldt",
+	"State": "IA",
+	"latitude": 42.7232,
+	"longitude": -94.2245
+},
+{
+	"City": "Sergeant Bluff",
+	"State": "IA",
+	"latitude": 42.3976,
+	"longitude": -96.3517
+},
+{
+	"City": "Sheldon",
+	"State": "IA",
+	"latitude": 43.1796,
+	"longitude": -95.8441
+},
+{
+	"City": "Vinton",
+	"State": "IA",
+	"latitude": 42.1631,
+	"longitude": -92.026
+},
+{
+	"City": "Iowa Falls",
+	"State": "IA",
+	"latitude": 42.519,
+	"longitude": -93.2662
+},
+{
+	"City": "Manchester",
+	"State": "IA",
+	"latitude": 42.4854,
+	"longitude": -91.4556
+},
+{
+	"City": "Huxley",
+	"State": "IA",
+	"latitude": 41.8963,
+	"longitude": -93.5914
+},
+{
+	"City": "Polk City",
+	"State": "IA",
+	"latitude": 41.7773,
+	"longitude": -93.7132
+},
+{
+	"City": "Cherokee",
+	"State": "IA",
+	"latitude": 42.7501,
+	"longitude": -95.5528
+},
+{
+	"City": "Shenandoah",
+	"State": "IA",
+	"latitude": 40.7583,
+	"longitude": -95.372
+},
+{
+	"City": "Windsor Heights",
+	"State": "IA",
+	"latitude": 41.6043,
+	"longitude": -93.7128
+},
+{
+	"City": "Harlan",
+	"State": "IA",
+	"latitude": 41.6496,
+	"longitude": -95.3268
+},
+{
+	"City": "Evansdale",
+	"State": "IA",
+	"latitude": 42.4635,
+	"longitude": -92.2764
+},
+{
+	"City": "Tama",
+	"State": "IA",
+	"latitude": 41.9648,
+	"longitude": -92.5746
+},
+{
+	"City": "Carlisle",
+	"State": "IA",
+	"latitude": 41.5116,
+	"longitude": -93.4949
+},
+{
+	"City": "Camanche",
+	"State": "IA",
+	"latitude": 41.7928,
+	"longitude": -90.2766
+},
+{
+	"City": "Dyersville",
+	"State": "IA",
+	"latitude": 42.4817,
+	"longitude": -91.1176
+},
+{
+	"City": "Hampton",
+	"State": "IA",
+	"latitude": 42.742,
+	"longitude": -93.205
+},
+{
+	"City": "Tiffin",
+	"State": "IA",
+	"latitude": 41.7067,
+	"longitude": -91.6582
+},
+{
+	"City": "Chariton",
+	"State": "IA",
+	"latitude": 41.0176,
+	"longitude": -93.3095
+},
+{
+	"City": "Jefferson",
+	"State": "IA",
+	"latitude": 42.0173,
+	"longitude": -94.3798
+},
+{
+	"City": "Forest City",
+	"State": "IA",
+	"latitude": 43.257,
+	"longitude": -93.6365
+},
+{
+	"City": "Saylorville",
+	"State": "IA",
+	"latitude": 41.6809,
+	"longitude": -93.6279
+},
+{
+	"City": "Le Claire",
+	"State": "IA",
+	"latitude": 41.5963,
+	"longitude": -90.3687
+},
+{
+	"City": "Monticello",
+	"State": "IA",
+	"latitude": 42.2298,
+	"longitude": -91.1861
+},
+{
+	"City": "Rock Valley",
+	"State": "IA",
+	"latitude": 43.2028,
+	"longitude": -96.2902
+},
+{
+	"City": "Carter Lake",
+	"State": "IA",
+	"latitude": 41.2884,
+	"longitude": -95.9171
+},
+{
+	"City": "West Liberty",
+	"State": "IA",
+	"latitude": 41.5727,
+	"longitude": -91.2622
+},
+{
+	"City": "Cresco",
+	"State": "IA",
+	"latitude": 43.3718,
+	"longitude": -92.1164
+},
+{
+	"City": "Emmetsburg",
+	"State": "IA",
+	"latitude": 43.1146,
+	"longitude": -94.6799
+},
+{
+	"City": "Albia",
+	"State": "IA",
+	"latitude": 41.0272,
+	"longitude": -92.8039
+},
+{
+	"City": "Waukon",
+	"State": "IA",
+	"latitude": 43.2684,
+	"longitude": -91.4782
+},
+{
+	"City": "Osage",
+	"State": "IA",
+	"latitude": 43.2826,
+	"longitude": -92.8114
+},
+{
+	"City": "Robins",
+	"State": "IA",
+	"latitude": 42.0799,
+	"longitude": -91.6762
+},
+{
+	"City": "Eagle Grove",
+	"State": "IA",
+	"latitude": 42.6664,
+	"longitude": -93.9026
+},
+{
+	"City": "New Hampton",
+	"State": "IA",
+	"latitude": 43.0563,
+	"longitude": -92.3153
+},
+{
+	"City": "Story City",
+	"State": "IA",
+	"latitude": 42.1866,
+	"longitude": -93.5864
+},
+{
+	"City": "Tipton",
+	"State": "IA",
+	"latitude": 41.7701,
+	"longitude": -91.1283
+},
+{
+	"City": "Williamsburg",
+	"State": "IA",
+	"latitude": 41.6683,
+	"longitude": -92.0103
+},
+{
+	"City": "Garner",
+	"State": "IA",
+	"latitude": 43.1,
+	"longitude": -93.6026
+},
+{
+	"City": "Milford",
+	"State": "IA",
+	"latitude": 43.3335,
+	"longitude": -95.1474
+},
+{
+	"City": "West Burlington",
+	"State": "IA",
+	"latitude": 40.8215,
+	"longitude": -91.1755
+},
+{
+	"City": "Fairfax",
+	"State": "IA",
+	"latitude": 41.9281,
+	"longitude": -91.7791
+},
+{
+	"City": "Wilton",
+	"State": "IA",
+	"latitude": 41.5898,
+	"longitude": -91.0271
+},
+{
+	"City": "Park View",
+	"State": "IA",
+	"latitude": 41.6922,
+	"longitude": -90.5393
+},
+{
+	"City": "Onawa",
+	"State": "IA",
+	"latitude": 42.0268,
+	"longitude": -96.0905
+},
+{
+	"City": "Clarion",
+	"State": "IA",
+	"latitude": 42.7319,
+	"longitude": -93.7297
+},
+{
+	"City": "Jesup",
+	"State": "IA",
+	"latitude": 42.4746,
+	"longitude": -92.0657
+},
+{
+	"City": "Solon",
+	"State": "IA",
+	"latitude": 41.8055,
+	"longitude": -91.4961
+},
+{
+	"City": "Bloomfield",
+	"State": "IA",
+	"latitude": 40.7487,
+	"longitude": -92.4173
+},
+{
+	"City": "Grundy Center",
+	"State": "IA",
+	"latitude": 42.3637,
+	"longitude": -92.774
+},
+{
+	"City": "Missouri Valley",
+	"State": "IA",
+	"latitude": 41.5574,
+	"longitude": -95.9028
+},
+{
+	"City": "Eldora",
+	"State": "IA",
+	"latitude": 42.3605,
+	"longitude": -93.1013
+},
+{
+	"City": "Sibley",
+	"State": "IA",
+	"latitude": 43.4013,
+	"longitude": -95.7438
+},
+{
+	"City": "Bellevue",
+	"State": "IA",
+	"latitude": 42.2625,
+	"longitude": -90.4319
+},
+{
+	"City": "Center Point",
+	"State": "IA",
+	"latitude": 42.1844,
+	"longitude": -91.7795
+},
+{
+	"City": "Madrid",
+	"State": "IA",
+	"latitude": 41.8757,
+	"longitude": -93.8205
+},
+{
+	"City": "Kalona",
+	"State": "IA",
+	"latitude": 41.4874,
+	"longitude": -91.7018
+},
+{
+	"City": "Rock Rapids",
+	"State": "IA",
+	"latitude": 43.4273,
+	"longitude": -96.1662
+},
+{
+	"City": "West Branch",
+	"State": "IA",
+	"latitude": 41.6662,
+	"longitude": -91.3442
+},
+{
+	"City": "Hudson",
+	"State": "IA",
+	"latitude": 42.432,
+	"longitude": -92.4522
+},
+{
+	"City": "Marengo",
+	"State": "IA",
+	"latitude": 41.7961,
+	"longitude": -92.0675
+},
+{
+	"City": "Hawarden",
+	"State": "IA",
+	"latitude": 43.0015,
+	"longitude": -96.4829
+},
+{
+	"City": "Belle Plaine",
+	"State": "IA",
+	"latitude": 41.8954,
+	"longitude": -92.2751
+},
+{
+	"City": "Ely",
+	"State": "IA",
+	"latitude": 41.8753,
+	"longitude": -91.585
+},
+{
+	"City": "Cascade",
+	"State": "IA",
+	"latitude": 42.3018,
+	"longitude": -91.0047
+},
+{
+	"City": "West Union",
+	"State": "IA",
+	"latitude": 42.9588,
+	"longitude": -91.8132
+},
+{
+	"City": "Hull",
+	"State": "IA",
+	"latitude": 43.1894,
+	"longitude": -96.1342
+},
+{
+	"City": "Belmond",
+	"State": "IA",
+	"latitude": 42.8466,
+	"longitude": -93.6084
+},
+{
+	"City": "Mitchellville",
+	"State": "IA",
+	"latitude": 41.668,
+	"longitude": -93.3629
+},
+{
+	"City": "Lamoni",
+	"State": "IA",
+	"latitude": 40.6202,
+	"longitude": -93.9307
+},
+{
+	"City": "Lisbon",
+	"State": "IA",
+	"latitude": 41.9205,
+	"longitude": -91.3917
+},
+{
+	"City": "La Porte City",
+	"State": "IA",
+	"latitude": 42.3138,
+	"longitude": -92.1914
+},
+{
+	"City": "Toledo",
+	"State": "IA",
+	"latitude": 41.9902,
+	"longitude": -92.5803
+},
+{
+	"City": "Rockwell City",
+	"State": "IA",
+	"latitude": 42.3981,
+	"longitude": -94.6289
+},
+{
+	"City": "Sac City",
+	"State": "IA",
+	"latitude": 42.4217,
+	"longitude": -94.9979
+},
+{
+	"City": "Colfax",
+	"State": "IA",
+	"latitude": 41.68,
+	"longitude": -93.2386
+},
+{
+	"City": "Postville",
+	"State": "IA",
+	"latitude": 43.084,
+	"longitude": -91.5683
+},
+{
+	"City": "Ida Grove",
+	"State": "IA",
+	"latitude": 42.3439,
+	"longitude": -95.4732
+},
+{
+	"City": "Sigourney",
+	"State": "IA",
+	"latitude": 41.3341,
+	"longitude": -92.2045
+},
+{
+	"City": "Wapello",
+	"State": "IA",
+	"latitude": 41.1771,
+	"longitude": -91.1881
+},
+{
+	"City": "Lake Mills",
+	"State": "IA",
+	"latitude": 43.4169,
+	"longitude": -93.5321
+},
+{
+	"City": "Ogden",
+	"State": "IA",
+	"latitude": 42.0395,
+	"longitude": -94.0283
+},
+{
+	"City": "Epworth",
+	"State": "IA",
+	"latitude": 42.4465,
+	"longitude": -90.9313
+},
+{
+	"City": "Atkins",
+	"State": "IA",
+	"latitude": 41.9943,
+	"longitude": -91.8585
+},
+{
+	"City": "Sumner",
+	"State": "IA",
+	"latitude": 42.8498,
+	"longitude": -92.0971
+},
+{
+	"City": "Northwood",
+	"State": "IA",
+	"latitude": 43.4441,
+	"longitude": -93.2166
+},
+{
+	"City": "Britt",
+	"State": "IA",
+	"latitude": 43.0975,
+	"longitude": -93.8032
+},
+{
+	"City": "Parkersburg",
+	"State": "IA",
+	"latitude": 42.5739,
+	"longitude": -92.7785
+},
+{
+	"City": "Alta",
+	"State": "IA",
+	"latitude": 42.6717,
+	"longitude": -95.3045
+},
+{
+	"City": "Audubon",
+	"State": "IA",
+	"latitude": 41.7181,
+	"longitude": -94.9286
+},
+{
+	"City": "Monroe",
+	"State": "IA",
+	"latitude": 41.5189,
+	"longitude": -93.1038
+},
+{
+	"City": "Durant",
+	"State": "IA",
+	"latitude": 41.6011,
+	"longitude": -90.9137
+},
+{
+	"City": "Peosta",
+	"State": "IA",
+	"latitude": 42.4477,
+	"longitude": -90.8446
+},
+{
+	"City": "Denver",
+	"State": "IA",
+	"latitude": 42.669,
+	"longitude": -92.3342
+},
+{
+	"City": "New London",
+	"State": "IA",
+	"latitude": 40.923,
+	"longitude": -91.4012
+},
+{
+	"City": "Greenfield",
+	"State": "IA",
+	"latitude": 41.3056,
+	"longitude": -94.4592
+},
+{
+	"City": "Columbus Junction",
+	"State": "IA",
+	"latitude": 41.2787,
+	"longitude": -91.3651
+},
+{
+	"City": "Leon",
+	"State": "IA",
+	"latitude": 40.7407,
+	"longitude": -93.7546
+},
+{
+	"City": "Guttenberg",
+	"State": "IA",
+	"latitude": 42.7886,
+	"longitude": -91.1059
+},
+{
+	"City": "Dallas Center",
+	"State": "IA",
+	"latitude": 41.6854,
+	"longitude": -93.9816
+},
+{
+	"City": "Farley",
+	"State": "IA",
+	"latitude": 42.4437,
+	"longitude": -91.0092
+},
+{
+	"City": "Stuart",
+	"State": "IA",
+	"latitude": 41.5003,
+	"longitude": -94.3187
+},
+{
+	"City": "Prairie City",
+	"State": "IA",
+	"latitude": 41.5954,
+	"longitude": -93.2393
+},
+{
+	"City": "Pleasantville",
+	"State": "IA",
+	"latitude": 41.3864,
+	"longitude": -93.2727
+},
+{
+	"City": "Blue Grass",
+	"State": "IA",
+	"latitude": 41.5096,
+	"longitude": -90.7649
+},
+{
+	"City": "Lake City",
+	"State": "IA",
+	"latitude": 42.2676,
+	"longitude": -94.7311
+},
+{
+	"City": "Moville",
+	"State": "IA",
+	"latitude": 42.49,
+	"longitude": -96.0679
+},
+{
+	"City": "Walcott",
+	"State": "IA",
+	"latitude": 41.5989,
+	"longitude": -90.7745
+},
+{
+	"City": "Pocahontas",
+	"State": "IA",
+	"latitude": 42.7371,
+	"longitude": -94.6661
+},
+{
+	"City": "Reinbeck",
+	"State": "IA",
+	"latitude": 42.3225,
+	"longitude": -92.5943
+},
+{
+	"City": "Mount Ayr",
+	"State": "IA",
+	"latitude": 40.7141,
+	"longitude": -94.2376
+},
+{
+	"City": "Remsen",
+	"State": "IA",
+	"latitude": 42.8148,
+	"longitude": -95.9725
+},
+{
+	"City": "Corydon",
+	"State": "IA",
+	"latitude": 40.7574,
+	"longitude": -93.3174
+},
+{
+	"City": "Traer",
+	"State": "IA",
+	"latitude": 42.1895,
+	"longitude": -92.4639
+},
+{
+	"City": "Nashua",
+	"State": "IA",
+	"latitude": 42.9502,
+	"longitude": -92.5417
+},
+{
+	"City": "Hartley",
+	"State": "IA",
+	"latitude": 43.179,
+	"longitude": -95.4768
+},
+{
+	"City": "Manson",
+	"State": "IA",
+	"latitude": 42.5284,
+	"longitude": -94.5401
+},
+{
+	"City": "Avoca",
+	"State": "IA",
+	"latitude": 41.4829,
+	"longitude": -95.3372
+},
+{
+	"City": "Mediapolis",
+	"State": "IA",
+	"latitude": 41.0078,
+	"longitude": -91.1636
+},
+{
+	"City": "Granger",
+	"State": "IA",
+	"latitude": 41.7616,
+	"longitude": -93.8234
+},
+{
+	"City": "Oakland",
+	"State": "IA",
+	"latitude": 41.3114,
+	"longitude": -95.3951
+},
+{
+	"City": "Ackley",
+	"State": "IA",
+	"latitude": 42.5519,
+	"longitude": -93.0526
+},
+{
+	"City": "Urbana",
+	"State": "IA",
+	"latitude": 42.2279,
+	"longitude": -91.8875
+},
+{
+	"City": "Guthrie Center",
+	"State": "IA",
+	"latitude": 41.6781,
+	"longitude": -94.499
+},
+{
+	"City": "Monona",
+	"State": "IA",
+	"latitude": 43.0513,
+	"longitude": -91.3912
+},
+{
+	"City": "Akron",
+	"State": "IA",
+	"latitude": 42.8268,
+	"longitude": -96.5571
+},
+{
+	"City": "Slater",
+	"State": "IA",
+	"latitude": 41.8807,
+	"longitude": -93.6912
+},
+{
+	"City": "Woodward",
+	"State": "IA",
+	"latitude": 41.8527,
+	"longitude": -93.9208
+},
+{
+	"City": "Walford",
+	"State": "IA",
+	"latitude": 41.8796,
+	"longitude": -91.8308
+},
+{
+	"City": "Fayette",
+	"State": "IA",
+	"latitude": 42.8415,
+	"longitude": -91.8036
+},
+{
+	"City": "State Center",
+	"State": "IA",
+	"latitude": 42.0149,
+	"longitude": -93.1652
+},
+{
+	"City": "Corning",
+	"State": "IA",
+	"latitude": 40.9929,
+	"longitude": -94.7395
+},
+{
+	"City": "Manning",
+	"State": "IA",
+	"latitude": 41.9092,
+	"longitude": -95.0642
+},
+{
+	"City": "Logan",
+	"State": "IA",
+	"latitude": 41.6453,
+	"longitude": -95.7917
+},
+{
+	"City": "Montezuma",
+	"State": "IA",
+	"latitude": 41.5833,
+	"longitude": -92.5274
+},
+{
+	"City": "Earlham",
+	"State": "IA",
+	"latitude": 41.4945,
+	"longitude": -94.1222
+},
+{
+	"City": "Kingsley",
+	"State": "IA",
+	"latitude": 42.5865,
+	"longitude": -95.9678
+},
+{
+	"City": "Brooklyn",
+	"State": "IA",
+	"latitude": 41.7314,
+	"longitude": -92.4453
+},
+{
+	"City": "Wellman",
+	"State": "IA",
+	"latitude": 41.4693,
+	"longitude": -91.8354
+},
+{
+	"City": "Lenox",
+	"State": "IA",
+	"latitude": 40.883,
+	"longitude": -94.5583
+},
+{
+	"City": "Woodbine",
+	"State": "IA",
+	"latitude": 41.7346,
+	"longitude": -95.7067
+},
+{
+	"City": "Bedford",
+	"State": "IA",
+	"latitude": 40.6711,
+	"longitude": -94.724
+},
+{
+	"City": "Sanborn",
+	"State": "IA",
+	"latitude": 43.1814,
+	"longitude": -95.6553
+},
+{
+	"City": "Lone Tree",
+	"State": "IA",
+	"latitude": 41.4859,
+	"longitude": -91.4267
+},
+{
+	"City": "Holstein",
+	"State": "IA",
+	"latitude": 42.4869,
+	"longitude": -95.5429
+},
+{
+	"City": "Tripoli",
+	"State": "IA",
+	"latitude": 42.8083,
+	"longitude": -92.2578
+},
+{
+	"City": "Nora Springs",
+	"State": "IA",
+	"latitude": 43.1445,
+	"longitude": -93.0094
+},
+{
+	"City": "Clarksville",
+	"State": "IA",
+	"latitude": 42.7799,
+	"longitude": -92.6679
+},
+{
+	"City": "Dysart",
+	"State": "IA",
+	"latitude": 42.1721,
+	"longitude": -92.3091
+},
+{
+	"City": "Arnolds Park",
+	"State": "IA",
+	"latitude": 43.3601,
+	"longitude": -95.1265
+},
+{
+	"City": "Central City",
+	"State": "IA",
+	"latitude": 42.2024,
+	"longitude": -91.5248
+},
+{
+	"City": "Maharishi Vedic City",
+	"State": "IA",
+	"latitude": 41.0542,
+	"longitude": -92.0142
+},
+{
+	"City": "New Sharon",
+	"State": "IA",
+	"latitude": 41.4701,
+	"longitude": -92.6509
+},
+{
+	"City": "Van Meter",
+	"State": "IA",
+	"latitude": 41.5207,
+	"longitude": -93.9454
+},
+{
+	"City": "Manly",
+	"State": "IA",
+	"latitude": 43.2881,
+	"longitude": -93.201
+},
+{
+	"City": "Shell Rock",
+	"State": "IA",
+	"latitude": 42.7126,
+	"longitude": -92.5816
+},
+{
+	"City": "Buffalo",
+	"State": "IA",
+	"latitude": 41.4666,
+	"longitude": -90.717
+},
+{
+	"City": "Dike",
+	"State": "IA",
+	"latitude": 42.4641,
+	"longitude": -92.6255
+},
+{
+	"City": "Roland",
+	"State": "IA",
+	"latitude": 42.1661,
+	"longitude": -93.5029
+},
+{
+	"City": "Alton",
+	"State": "IA",
+	"latitude": 42.9876,
+	"longitude": -96.0095
+},
+{
+	"City": "Melcher-Dallas",
+	"State": "IA",
+	"latitude": 41.2275,
+	"longitude": -93.2411
+},
+{
+	"City": "Coon Rapids",
+	"State": "IA",
+	"latitude": 41.8748,
+	"longitude": -94.6785
+},
+{
+	"City": "Strawberry Point",
+	"State": "IA",
+	"latitude": 42.6804,
+	"longitude": -91.5349
+},
+{
+	"City": "Elkader",
+	"State": "IA",
+	"latitude": 42.8572,
+	"longitude": -91.4024
+},
+{
+	"City": "Mapleton",
+	"State": "IA",
+	"latitude": 42.1671,
+	"longitude": -95.7904
+},
+{
+	"City": "Gilbert",
+	"State": "IA",
+	"latitude": 42.1062,
+	"longitude": -93.6461
+},
+{
+	"City": "Elk Run Heights",
+	"State": "IA",
+	"latitude": 42.4662,
+	"longitude": -92.2501
+},
+{
+	"City": "Villisca",
+	"State": "IA",
+	"latitude": 40.9298,
+	"longitude": -94.9819
+},
+{
+	"City": "Springville",
+	"State": "IA",
+	"latitude": 42.0529,
+	"longitude": -91.4458
+},
+{
+	"City": "Fairbank",
+	"State": "IA",
+	"latitude": 42.64,
+	"longitude": -92.0477
+},
+{
+	"City": "Baxter",
+	"State": "IA",
+	"latitude": 41.8252,
+	"longitude": -93.1525
+},
+{
+	"City": "Mechanicsville",
+	"State": "IA",
+	"latitude": 41.9056,
+	"longitude": -91.2536
+},
+{
+	"City": "Lake Park",
+	"State": "IA",
+	"latitude": 43.4472,
+	"longitude": -95.3247
+},
+{
+	"City": "Laurens",
+	"State": "IA",
+	"latitude": 42.8477,
+	"longitude": -94.8482
+},
+{
+	"City": "St. Ansgar",
+	"State": "IA",
+	"latitude": 43.3797,
+	"longitude": -92.9178
+},
+{
+	"City": "Malvern",
+	"State": "IA",
+	"latitude": 41.004,
+	"longitude": -95.5842
+},
+{
+	"City": "Glidden",
+	"State": "IA",
+	"latitude": 42.0576,
+	"longitude": -94.7267
+},
+{
+	"City": "Sheffield",
+	"State": "IA",
+	"latitude": 42.8928,
+	"longitude": -93.2086
+},
+{
+	"City": "Winfield",
+	"State": "IA",
+	"latitude": 41.1259,
+	"longitude": -91.4382
+},
+{
+	"City": "Lake View",
+	"State": "IA",
+	"latitude": 42.3046,
+	"longitude": -95.0406
+},
+{
+	"City": "Conrad",
+	"State": "IA",
+	"latitude": 42.2234,
+	"longitude": -92.8741
+},
+{
+	"City": "Panora",
+	"State": "IA",
+	"latitude": 41.691,
+	"longitude": -94.3636
+},
+{
+	"City": "Palo",
+	"State": "IA",
+	"latitude": 42.0646,
+	"longitude": -91.8002
+},
+{
+	"City": "Greene",
+	"State": "IA",
+	"latitude": 42.8967,
+	"longitude": -92.8041
+},
+{
+	"City": "Hamburg",
+	"State": "IA",
+	"latitude": 40.6061,
+	"longitude": -95.6545
+},
+{
+	"City": "Marcus",
+	"State": "IA",
+	"latitude": 42.8224,
+	"longitude": -95.8068
+},
+{
+	"City": "Aplington",
+	"State": "IA",
+	"latitude": 42.5819,
+	"longitude": -92.8835
+},
+{
+	"City": "Sidney",
+	"State": "IA",
+	"latitude": 40.7459,
+	"longitude": -95.6443
+},
+{
+	"City": "George",
+	"State": "IA",
+	"latitude": 43.342,
+	"longitude": -96.0027
+},
+{
+	"City": "University Heights",
+	"State": "IA",
+	"latitude": 41.6551,
+	"longitude": -91.5589
+},
+{
+	"City": "De Soto",
+	"State": "IA",
+	"latitude": 41.5364,
+	"longitude": -94.0098
+},
+{
+	"City": "Riverside",
+	"State": "IA",
+	"latitude": 41.4894,
+	"longitude": -91.5558
+},
+{
+	"City": "Eddyville",
+	"State": "IA",
+	"latitude": 41.1591,
+	"longitude": -92.6297
+},
+{
+	"City": "North English",
+	"State": "IA",
+	"latitude": 41.5168,
+	"longitude": -92.0777
+},
+{
+	"City": "Beaverdale",
+	"State": "IA",
+	"latitude": 40.8537,
+	"longitude": -91.2077
+},
+{
+	"City": "Rockwell",
+	"State": "IA",
+	"latitude": 42.98,
+	"longitude": -93.1871
+},
+{
+	"City": "Tabor",
+	"State": "IA",
+	"latitude": 40.8949,
+	"longitude": -95.6737
+},
+{
+	"City": "Sloan",
+	"State": "IA",
+	"latitude": 42.2319,
+	"longitude": -96.2257
+},
+{
+	"City": "Janesville",
+	"State": "IA",
+	"latitude": 42.6462,
+	"longitude": -92.4626
+},
+{
+	"City": "Fruitland",
+	"State": "IA",
+	"latitude": 41.3475,
+	"longitude": -91.1288
+},
+{
+	"City": "Lawton",
+	"State": "IA",
+	"latitude": 42.4769,
+	"longitude": -96.1851
+},
+{
+	"City": "Paullina",
+	"State": "IA",
+	"latitude": 42.9799,
+	"longitude": -95.6836
+},
+{
+	"City": "Clarence",
+	"State": "IA",
+	"latitude": 41.8857,
+	"longitude": -91.0578
+},
+{
+	"City": "Dunlap",
+	"State": "IA",
+	"latitude": 41.8526,
+	"longitude": -95.6006
+},
+{
+	"City": "Allison",
+	"State": "IA",
+	"latitude": 42.752,
+	"longitude": -92.7957
+},
+{
+	"City": "Shellsburg",
+	"State": "IA",
+	"latitude": 42.0929,
+	"longitude": -91.8712
+},
+{
+	"City": "Keota",
+	"State": "IA",
+	"latitude": 41.3651,
+	"longitude": -91.9533
+},
+{
+	"City": "Treynor",
+	"State": "IA",
+	"latitude": 41.232,
+	"longitude": -95.6064
+},
+{
+	"City": "Preston",
+	"State": "IA",
+	"latitude": 42.0492,
+	"longitude": -90.3971
+},
+{
+	"City": "Aurelia",
+	"State": "IA",
+	"latitude": 42.7131,
+	"longitude": -95.4368
+},
+{
+	"City": "Underwood",
+	"State": "IA",
+	"latitude": 41.3808,
+	"longitude": -95.682
+},
+{
+	"City": "Gowrie",
+	"State": "IA",
+	"latitude": 42.2778,
+	"longitude": -94.2897
+},
+{
+	"City": "Swisher",
+	"State": "IA",
+	"latitude": 41.8442,
+	"longitude": -91.6938
+},
+{
+	"City": "Hinton",
+	"State": "IA",
+	"latitude": 42.6212,
+	"longitude": -96.2978
+},
+{
+	"City": "Princeton",
+	"State": "IA",
+	"latitude": 41.6744,
+	"longitude": -90.3573
+},
+{
+	"City": "Griswold",
+	"State": "IA",
+	"latitude": 41.2343,
+	"longitude": -95.1392
+},
+{
+	"City": "Odebolt",
+	"State": "IA",
+	"latitude": 42.3118,
+	"longitude": -95.2542
+},
+{
+	"City": "Wayland",
+	"State": "IA",
+	"latitude": 41.1484,
+	"longitude": -91.6575
+},
+{
+	"City": "Lansing",
+	"State": "IA",
+	"latitude": 43.3606,
+	"longitude": -91.2254
+},
+{
+	"City": "West Point",
+	"State": "IA",
+	"latitude": 40.7145,
+	"longitude": -91.4527
+},
+{
+	"City": "Fredericksburg",
+	"State": "IA",
+	"latitude": 42.9648,
+	"longitude": -92.1965
+},
+{
+	"City": "Elkhart",
+	"State": "IA",
+	"latitude": 41.7939,
+	"longitude": -93.524
+},
+{
+	"City": "Calmar",
+	"State": "IA",
+	"latitude": 43.1811,
+	"longitude": -91.8678
+},
+{
+	"City": "Eldon",
+	"State": "IA",
+	"latitude": 40.9176,
+	"longitude": -92.2177
+},
+{
+	"City": "Le Grand",
+	"State": "IA",
+	"latitude": 42.0067,
+	"longitude": -92.7749
+},
+{
+	"City": "Keosauqua",
+	"State": "IA",
+	"latitude": 40.7347,
+	"longitude": -91.9605
+},
+{
+	"City": "Maxwell",
+	"State": "IA",
+	"latitude": 41.8914,
+	"longitude": -93.3961
+},
+{
+	"City": "Anita",
+	"State": "IA",
+	"latitude": 41.4438,
+	"longitude": -94.7658
+},
+{
+	"City": "Danville",
+	"State": "IA",
+	"latitude": 40.86,
+	"longitude": -91.3146
+},
+{
+	"City": "Larchwood",
+	"State": "IA",
+	"latitude": 43.4545,
+	"longitude": -96.4369
+},
+{
+	"City": "Neola",
+	"State": "IA",
+	"latitude": 41.4498,
+	"longitude": -95.6173
+},
+{
+	"City": "Long Grove",
+	"State": "IA",
+	"latitude": 41.6922,
+	"longitude": -90.5803
+},
+{
+	"City": "Victor",
+	"State": "IA",
+	"latitude": 41.7306,
+	"longitude": -92.2947
+},
+{
+	"City": "Edgewood",
+	"State": "IA",
+	"latitude": 42.6443,
+	"longitude": -91.4017
+},
+{
+	"City": "Lake Panorama",
+	"State": "IA",
+	"latitude": 41.7198,
+	"longitude": -94.4025
+},
+{
+	"City": "Newhall",
+	"State": "IA",
+	"latitude": 41.9932,
+	"longitude": -91.9672
+},
+{
+	"City": "Gladbrook",
+	"State": "IA",
+	"latitude": 42.1862,
+	"longitude": -92.7151
+},
+{
+	"City": "Schleswig",
+	"State": "IA",
+	"latitude": 42.1607,
+	"longitude": -95.4352
+},
+{
+	"City": "Primghar",
+	"State": "IA",
+	"latitude": 43.0864,
+	"longitude": -95.6209
+},
+{
+	"City": "Buffalo Center",
+	"State": "IA",
+	"latitude": 43.3894,
+	"longitude": -93.9428
+},
+{
+	"City": "Donnellson",
+	"State": "IA",
+	"latitude": 40.6453,
+	"longitude": -91.5641
+},
+{
+	"City": "Newell",
+	"State": "IA",
+	"latitude": 42.6097,
+	"longitude": -95.004
+},
+{
+	"City": "Winthrop",
+	"State": "IA",
+	"latitude": 42.4708,
+	"longitude": -91.7374
+},
+{
+	"City": "Dunkerton",
+	"State": "IA",
+	"latitude": 42.5679,
+	"longitude": -92.1608
+},
+{
+	"City": "Inwood",
+	"State": "IA",
+	"latitude": 43.3093,
+	"longitude": -96.4351
+},
+{
+	"City": "Readlyn",
+	"State": "IA",
+	"latitude": 42.7038,
+	"longitude": -92.2249
+},
+{
+	"City": "Armstrong",
+	"State": "IA",
+	"latitude": 43.3945,
+	"longitude": -94.4834
+},
+{
+	"City": "McGregor",
+	"State": "IA",
+	"latitude": 43.0247,
+	"longitude": -91.182
+},
+{
+	"City": "Hazleton",
+	"State": "IA",
+	"latitude": 42.6178,
+	"longitude": -91.9058
+},
+{
+	"City": "Sully",
+	"State": "IA",
+	"latitude": 41.578,
+	"longitude": -92.8467
+},
+{
+	"City": "Dakota City",
+	"State": "IA",
+	"latitude": 42.7229,
+	"longitude": -94.1977
+},
+{
+	"City": "Rockford",
+	"State": "IA",
+	"latitude": 43.0524,
+	"longitude": -92.9477
+},
+{
+	"City": "Colo",
+	"State": "IA",
+	"latitude": 42.0145,
+	"longitude": -93.3186
+},
+{
+	"City": "Redfield",
+	"State": "IA",
+	"latitude": 41.5904,
+	"longitude": -94.1963
+},
+{
+	"City": "Afton",
+	"State": "IA",
+	"latitude": 41.0276,
+	"longitude": -94.1954
+},
+{
+	"City": "Carson",
+	"State": "IA",
+	"latitude": 41.2357,
+	"longitude": -95.4198
+},
+{
+	"City": "Correctionville",
+	"State": "IA",
+	"latitude": 42.4774,
+	"longitude": -95.783
+},
+{
+	"City": "Hills",
+	"State": "IA",
+	"latitude": 41.5569,
+	"longitude": -91.536
+},
+{
+	"City": "Hubbard",
+	"State": "IA",
+	"latitude": 42.3055,
+	"longitude": -93.3019
+},
+{
+	"City": "Cambridge",
+	"State": "IA",
+	"latitude": 41.9001,
+	"longitude": -93.536
+},
+{
+	"City": "Morning Sun",
+	"State": "IA",
+	"latitude": 41.0942,
+	"longitude": -91.2506
+},
+{
+	"City": "Graettinger",
+	"State": "IA",
+	"latitude": 43.2371,
+	"longitude": -94.7504
+},
+{
+	"City": "Melbourne",
+	"State": "IA",
+	"latitude": 41.9416,
+	"longitude": -93.1027
+},
+{
+	"City": "Raymond",
+	"State": "IA",
+	"latitude": 42.4694,
+	"longitude": -92.2296
+},
+{
+	"City": "Okoboji",
+	"State": "IA",
+	"latitude": 43.3909,
+	"longitude": -95.139
+},
+{
+	"City": "Oxford",
+	"State": "IA",
+	"latitude": 41.7228,
+	"longitude": -91.7911
+},
+{
+	"City": "Walker",
+	"State": "IA",
+	"latitude": 42.2873,
+	"longitude": -91.7809
+},
+{
+	"City": "Montrose",
+	"State": "IA",
+	"latitude": 40.5258,
+	"longitude": -91.4158
+},
+{
+	"City": "Ossian",
+	"State": "IA",
+	"latitude": 43.1469,
+	"longitude": -91.7646
+},
+{
+	"City": "Middle Amana",
+	"State": "IA",
+	"latitude": 41.7945,
+	"longitude": -91.901
+},
+{
+	"City": "Hartford",
+	"State": "IA",
+	"latitude": 41.4577,
+	"longitude": -93.4038
+},
+{
+	"City": "Dayton",
+	"State": "IA",
+	"latitude": 42.2622,
+	"longitude": -94.0712
+},
+{
+	"City": "Grand Junction",
+	"State": "IA",
+	"latitude": 42.033,
+	"longitude": -94.237
+},
+{
+	"City": "Lowden",
+	"State": "IA",
+	"latitude": 41.8589,
+	"longitude": -90.9229
+},
+{
+	"City": "Earlville",
+	"State": "IA",
+	"latitude": 42.4826,
+	"longitude": -91.27
+},
+{
+	"City": "Wall Lake",
+	"State": "IA",
+	"latitude": 42.2672,
+	"longitude": -95.0927
+},
+{
+	"City": "Walnut",
+	"State": "IA",
+	"latitude": 41.4895,
+	"longitude": -95.2197
+},
+{
+	"City": "Exira",
+	"State": "IA",
+	"latitude": 41.592,
+	"longitude": -94.8811
+},
+{
+	"City": "Riceville",
+	"State": "IA",
+	"latitude": 43.3621,
+	"longitude": -92.5541
+},
+{
+	"City": "Milo",
+	"State": "IA",
+	"latitude": 41.2892,
+	"longitude": -93.4406
+},
+{
+	"City": "Hedrick",
+	"State": "IA",
+	"latitude": 41.1712,
+	"longitude": -92.3079
+},
+{
+	"City": "West Bend",
+	"State": "IA",
+	"latitude": 42.9599,
+	"longitude": -94.4457
+},
+{
+	"City": "Manilla",
+	"State": "IA",
+	"latitude": 41.8923,
+	"longitude": -95.2347
+},
+{
+	"City": "Sioux Rapids",
+	"State": "IA",
+	"latitude": 42.8916,
+	"longitude": -95.1488
+},
+{
+	"City": "Essex",
+	"State": "IA",
+	"latitude": 40.8327,
+	"longitude": -95.3038
+},
+{
+	"City": "Alden",
+	"State": "IA",
+	"latitude": 42.5114,
+	"longitude": -93.38
+},
+{
+	"City": "Merrill",
+	"State": "IA",
+	"latitude": 42.7206,
+	"longitude": -96.2525
+},
+{
+	"City": "Gilbertville",
+	"State": "IA",
+	"latitude": 42.4182,
+	"longitude": -92.214
+},
+{
+	"City": "Garnavillo",
+	"State": "IA",
+	"latitude": 42.8662,
+	"longitude": -91.2364
+},
+{
+	"City": "Whiting",
+	"State": "IA",
+	"latitude": 42.1272,
+	"longitude": -96.1508
+},
+{
+	"City": "Schaller",
+	"State": "IA",
+	"latitude": 42.4965,
+	"longitude": -95.2963
+},
+{
+	"City": "Wheatland",
+	"State": "IA",
+	"latitude": 41.8329,
+	"longitude": -90.8379
+},
+{
+	"City": "Coalville",
+	"State": "IA",
+	"latitude": 42.4406,
+	"longitude": -94.1193
+},
+{
+	"City": "Fremont",
+	"State": "IA",
+	"latitude": 41.2126,
+	"longitude": -92.4342
+},
+{
+	"City": "Adair",
+	"State": "IA",
+	"latitude": 41.5004,
+	"longitude": -94.6434
+},
+{
+	"City": "Ventura",
+	"State": "IA",
+	"latitude": 43.1283,
+	"longitude": -93.4621
+},
+{
+	"City": "Murray",
+	"State": "IA",
+	"latitude": 41.0413,
+	"longitude": -93.9489
+},
+{
+	"City": "Seymour",
+	"State": "IA",
+	"latitude": 40.6824,
+	"longitude": -93.1212
+},
+{
+	"City": "Stratford",
+	"State": "IA",
+	"latitude": 42.2691,
+	"longitude": -93.9272
+},
+{
+	"City": "Alburnett",
+	"State": "IA",
+	"latitude": 42.1492,
+	"longitude": -91.621
+},
+{
+	"City": "Hospers",
+	"State": "IA",
+	"latitude": 43.0722,
+	"longitude": -95.9039
+},
+{
+	"City": "Bancroft",
+	"State": "IA",
+	"latitude": 43.2929,
+	"longitude": -94.2176
+},
+{
+	"City": "Battle Creek",
+	"State": "IA",
+	"latitude": 42.3168,
+	"longitude": -95.6003
+},
+{
+	"City": "Lakeside",
+	"State": "IA",
+	"latitude": 42.6178,
+	"longitude": -95.1772
+},
+{
+	"City": "Olin",
+	"State": "IA",
+	"latitude": 41.9977,
+	"longitude": -91.1417
+},
+{
+	"City": "Wellsburg",
+	"State": "IA",
+	"latitude": 42.4339,
+	"longitude": -92.9266
+},
+{
+	"City": "Ruthven",
+	"State": "IA",
+	"latitude": 43.13,
+	"longitude": -94.8984
+},
+{
+	"City": "Boyden",
+	"State": "IA",
+	"latitude": 43.1891,
+	"longitude": -96.0032
+},
+{
+	"City": "Coggon",
+	"State": "IA",
+	"latitude": 42.2783,
+	"longitude": -91.5304
+},
+{
+	"City": "Albert City",
+	"State": "IA",
+	"latitude": 42.7816,
+	"longitude": -94.9491
+},
+{
+	"City": "Blairstown",
+	"State": "IA",
+	"latitude": 41.9059,
+	"longitude": -92.0821
+},
+{
+	"City": "Stanwood",
+	"State": "IA",
+	"latitude": 41.8927,
+	"longitude": -91.1488
+},
+{
+	"City": "Van Horne",
+	"State": "IA",
+	"latitude": 42.0083,
+	"longitude": -92.0897
+},
+{
+	"City": "Shueyville",
+	"State": "IA",
+	"latitude": 41.8462,
+	"longitude": -91.6512
+},
+{
+	"City": "Stanton",
+	"State": "IA",
+	"latitude": 40.981,
+	"longitude": -95.1029
+},
+{
+	"City": "Agency",
+	"State": "IA",
+	"latitude": 40.9975,
+	"longitude": -92.3072
+},
+{
+	"City": "Washburn",
+	"State": "IA",
+	"latitude": 42.4112,
+	"longitude": -92.2685
+},
+{
+	"City": "Brighton",
+	"State": "IA",
+	"latitude": 41.1747,
+	"longitude": -91.8212
+},
+{
+	"City": "Moravia",
+	"State": "IA",
+	"latitude": 40.8918,
+	"longitude": -92.8191
+},
+{
+	"City": "Elgin",
+	"State": "IA",
+	"latitude": 42.9553,
+	"longitude": -91.6356
+},
+{
+	"City": "What Cheer",
+	"State": "IA",
+	"latitude": 41.3998,
+	"longitude": -92.3546
+},
+{
+	"City": "Farmington",
+	"State": "IA",
+	"latitude": 40.6389,
+	"longitude": -91.7391
+},
+{
+	"City": "Fontanelle",
+	"State": "IA",
+	"latitude": 41.29,
+	"longitude": -94.5602
+},
+{
+	"City": "St. Charles",
+	"State": "IA",
+	"latitude": 41.288,
+	"longitude": -93.8075
+},
+{
+	"City": "Crescent",
+	"State": "IA",
+	"latitude": 41.3653,
+	"longitude": -95.859
+},
+{
+	"City": "Pomeroy",
+	"State": "IA",
+	"latitude": 42.5519,
+	"longitude": -94.6778
+},
+{
+	"City": "Shelby",
+	"State": "IA",
+	"latitude": 41.5067,
+	"longitude": -95.4506
+},
+{
+	"City": "Keystone",
+	"State": "IA",
+	"latitude": 41.9995,
+	"longitude": -92.1982
+},
+{
+	"City": "Elk Horn",
+	"State": "IA",
+	"latitude": 41.593,
+	"longitude": -95.0615
+},
+{
+	"City": "Dumont",
+	"State": "IA",
+	"latitude": 42.7522,
+	"longitude": -92.9736
+},
+{
+	"City": "Doon",
+	"State": "IA",
+	"latitude": 43.2792,
+	"longitude": -96.2323
+},
+{
+	"City": "Ireton",
+	"State": "IA",
+	"latitude": 42.9749,
+	"longitude": -96.3216
+},
+{
+	"City": "Minden",
+	"State": "IA",
+	"latitude": 41.4689,
+	"longitude": -95.5412
+},
+{
+	"City": "Hopkinton",
+	"State": "IA",
+	"latitude": 42.3431,
+	"longitude": -91.2487
+},
+{
+	"City": "Sutherland",
+	"State": "IA",
+	"latitude": 42.9729,
+	"longitude": -95.4951
+},
+{
+	"City": "Kanawha",
+	"State": "IA",
+	"latitude": 42.9342,
+	"longitude": -93.7933
+},
+{
+	"City": "Goldfield",
+	"State": "IA",
+	"latitude": 42.7356,
+	"longitude": -93.9181
+},
+{
+	"City": "Grand Mound",
+	"State": "IA",
+	"latitude": 41.8232,
+	"longitude": -90.6502
+},
+{
+	"City": "Kellogg",
+	"State": "IA",
+	"latitude": 41.7181,
+	"longitude": -92.9071
+},
+{
+	"City": "Orleans",
+	"State": "IA",
+	"latitude": 43.4513,
+	"longitude": -95.0991
+},
+{
+	"City": "Dexter",
+	"State": "IA",
+	"latitude": 41.5154,
+	"longitude": -94.2276
+},
+{
+	"City": "Clermont",
+	"State": "IA",
+	"latitude": 43.0001,
+	"longitude": -91.6523
+},
+{
+	"City": "Ainsworth",
+	"State": "IA",
+	"latitude": 41.29,
+	"longitude": -91.5545
+},
+{
+	"City": "Moulton",
+	"State": "IA",
+	"latitude": 40.6854,
+	"longitude": -92.6765
+},
+{
+	"City": "Fonda",
+	"State": "IA",
+	"latitude": 42.5816,
+	"longitude": -94.8457
+},
+{
+	"City": "Richland",
+	"State": "IA",
+	"latitude": 41.1856,
+	"longitude": -91.996
+},
+{
+	"City": "Quasqueton",
+	"State": "IA",
+	"latitude": 42.3945,
+	"longitude": -91.7578
+},
+{
+	"City": "Anthon",
+	"State": "IA",
+	"latitude": 42.3881,
+	"longitude": -95.8657
+},
+{
+	"City": "Sabula",
+	"State": "IA",
+	"latitude": 42.0665,
+	"longitude": -90.1766
+},
+{
+	"City": "Everly",
+	"State": "IA",
+	"latitude": 43.1619,
+	"longitude": -95.3198
+},
+{
+	"City": "Batavia",
+	"State": "IA",
+	"latitude": 40.9951,
+	"longitude": -92.1674
+},
+{
+	"City": "Russell",
+	"State": "IA",
+	"latitude": 40.9801,
+	"longitude": -93.2005
+},
+{
+	"City": "Badger",
+	"State": "IA",
+	"latitude": 42.6142,
+	"longitude": -94.1446
+},
+{
+	"City": "Rolfe",
+	"State": "IA",
+	"latitude": 42.8129,
+	"longitude": -94.5313
+},
+{
+	"City": "Norway",
+	"State": "IA",
+	"latitude": 41.9021,
+	"longitude": -91.9227
+},
+{
+	"City": "Elma",
+	"State": "IA",
+	"latitude": 43.2459,
+	"longitude": -92.4393
+},
+{
+	"City": "Grandview",
+	"State": "IA",
+	"latitude": 41.2772,
+	"longitude": -91.1875
+},
+{
+	"City": "Scranton",
+	"State": "IA",
+	"latitude": 42.0191,
+	"longitude": -94.549
+},
+{
+	"City": "Radcliffe",
+	"State": "IA",
+	"latitude": 42.3177,
+	"longitude": -93.4343
+},
+{
+	"City": "Arcadia",
+	"State": "IA",
+	"latitude": 42.0862,
+	"longitude": -95.0432
+},
+{
+	"City": "Zearing",
+	"State": "IA",
+	"latitude": 42.1589,
+	"longitude": -93.2972
+},
+{
+	"City": "Early",
+	"State": "IA",
+	"latitude": 42.4615,
+	"longitude": -95.1522
+},
+{
+	"City": "Wyoming",
+	"State": "IA",
+	"latitude": 42.0597,
+	"longitude": -91.0051
+},
+{
+	"City": "Lovilia",
+	"State": "IA",
+	"latitude": 41.1348,
+	"longitude": -92.9082
+},
+{
+	"City": "Allerton",
+	"State": "IA",
+	"latitude": 40.7077,
+	"longitude": -93.3689
+},
+{
+	"City": "Otho",
+	"State": "IA",
+	"latitude": 42.4222,
+	"longitude": -94.1493
+},
+{
+	"City": "Swea City",
+	"State": "IA",
+	"latitude": 43.3832,
+	"longitude": -94.3111
+},
+{
+	"City": "Dows",
+	"State": "IA",
+	"latitude": 42.6593,
+	"longitude": -93.5012
+},
+{
+	"City": "Runnells",
+	"State": "IA",
+	"latitude": 41.5141,
+	"longitude": -93.3604
+},
+{
+	"City": "New Albin",
+	"State": "IA",
+	"latitude": 43.497,
+	"longitude": -91.2881
+},
+{
+	"City": "Burt",
+	"State": "IA",
+	"latitude": 43.1989,
+	"longitude": -94.2211
+},
+{
+	"City": "Dow City",
+	"State": "IA",
+	"latitude": 41.928,
+	"longitude": -95.4943
+},
+{
+	"City": "Garwin",
+	"State": "IA",
+	"latitude": 42.0935,
+	"longitude": -92.6791
+},
+{
+	"City": "New Virginia",
+	"State": "IA",
+	"latitude": 41.1817,
+	"longitude": -93.7311
+},
+{
+	"City": "Truro",
+	"State": "IA",
+	"latitude": 41.2098,
+	"longitude": -93.8467
+},
+{
+	"City": "Albion",
+	"State": "IA",
+	"latitude": 42.1125,
+	"longitude": -92.9887
+},
+{
+	"City": "Ellsworth",
+	"State": "IA",
+	"latitude": 42.3101,
+	"longitude": -93.5819
+},
+{
+	"City": "Maynard",
+	"State": "IA",
+	"latitude": 42.7739,
+	"longitude": -91.8775
+},
+{
+	"City": "New Hartford",
+	"State": "IA",
+	"latitude": 42.5682,
+	"longitude": -92.6213
+},
+{
+	"City": "Beacon",
+	"State": "IA",
+	"latitude": 41.2747,
+	"longitude": -92.6814
+},
+{
+	"City": "Humeston",
+	"State": "IA",
+	"latitude": 40.861,
+	"longitude": -93.4973
+},
+{
+	"City": "Gilman",
+	"State": "IA",
+	"latitude": 41.8788,
+	"longitude": -92.7881
+},
+{
+	"City": "Oxford Junction",
+	"State": "IA",
+	"latitude": 41.9838,
+	"longitude": -90.9541
+},
+{
+	"City": "Delmar",
+	"State": "IA",
+	"latitude": 41.9988,
+	"longitude": -90.608
+},
+{
+	"City": "Charter Oak",
+	"State": "IA",
+	"latitude": 42.0683,
+	"longitude": -95.589
+},
+{
+	"City": "Breda",
+	"State": "IA",
+	"latitude": 42.184,
+	"longitude": -94.9751
+},
+{
+	"City": "Whittemore",
+	"State": "IA",
+	"latitude": 43.0634,
+	"longitude": -94.4251
+},
+{
+	"City": "Lime Springs",
+	"State": "IA",
+	"latitude": 43.4499,
+	"longitude": -92.2842
+},
+{
+	"City": "Latimer",
+	"State": "IA",
+	"latitude": 42.7629,
+	"longitude": -93.3655
+},
+{
+	"City": "University Park",
+	"State": "IA",
+	"latitude": 41.2857,
+	"longitude": -92.6149
+},
+{
+	"City": "Thompson",
+	"State": "IA",
+	"latitude": 43.3698,
+	"longitude": -93.7747
+},
+{
+	"City": "Gilmore City",
+	"State": "IA",
+	"latitude": 42.7269,
+	"longitude": -94.4369
+},
+{
+	"City": "Delhi",
+	"State": "IA",
+	"latitude": 42.4303,
+	"longitude": -91.3305
+},
+{
+	"City": "Collins",
+	"State": "IA",
+	"latitude": 41.902,
+	"longitude": -93.3083
+},
+{
+	"City": "Stacyville",
+	"State": "IA",
+	"latitude": 43.4391,
+	"longitude": -92.784
+},
+{
+	"City": "Klemme",
+	"State": "IA",
+	"latitude": 43.0098,
+	"longitude": -93.6014
+},
+{
+	"City": "Martensdale",
+	"State": "IA",
+	"latitude": 41.3738,
+	"longitude": -93.7387
+},
+{
+	"City": "Ocheyedan",
+	"State": "IA",
+	"latitude": 43.4181,
+	"longitude": -95.5365
+},
+{
+	"City": "Lamont",
+	"State": "IA",
+	"latitude": 42.5984,
+	"longitude": -91.6405
+},
+{
+	"City": "Alleman",
+	"State": "IA",
+	"latitude": 41.8158,
+	"longitude": -93.6094
+},
+{
+	"City": "Bayard",
+	"State": "IA",
+	"latitude": 41.852,
+	"longitude": -94.5578
+},
+{
+	"City": "Emerson",
+	"State": "IA",
+	"latitude": 41.018,
+	"longitude": -95.4028
+},
+{
+	"City": "Farragut",
+	"State": "IA",
+	"latitude": 40.72,
+	"longitude": -95.4807
+},
+{
+	"City": "Titonka",
+	"State": "IA",
+	"latitude": 43.2369,
+	"longitude": -94.0411
+},
+{
+	"City": "Miles",
+	"State": "IA",
+	"latitude": 42.0481,
+	"longitude": -90.3133
+},
+{
+	"City": "Riverdale",
+	"State": "IA",
+	"latitude": 41.5371,
+	"longitude": -90.4637
+},
+{
+	"City": "Little Rock",
+	"State": "IA",
+	"latitude": 43.4455,
+	"longitude": -95.8804
+},
+{
+	"City": "Marquette",
+	"State": "IA",
+	"latitude": 43.0443,
+	"longitude": -91.192
+},
+{
+	"City": "Denmark",
+	"State": "IA",
+	"latitude": 40.7385,
+	"longitude": -91.3381
+},
+{
+	"City": "Conesville",
+	"State": "IA",
+	"latitude": 41.3796,
+	"longitude": -91.3486
+},
+{
+	"City": "Birmingham",
+	"State": "IA",
+	"latitude": 40.8777,
+	"longitude": -91.9472
+},
+{
+	"City": "Ashton",
+	"State": "IA",
+	"latitude": 43.3089,
+	"longitude": -95.7925
+},
+{
+	"City": "Lawler",
+	"State": "IA",
+	"latitude": 43.072,
+	"longitude": -92.1532
+},
+{
+	"City": "Galva",
+	"State": "IA",
+	"latitude": 42.5059,
+	"longitude": -95.4177
+},
+{
+	"City": "Vail",
+	"State": "IA",
+	"latitude": 42.0599,
+	"longitude": -95.2003
+},
+{
+	"City": "Plainfield",
+	"State": "IA",
+	"latitude": 42.8446,
+	"longitude": -92.5357
+},
+{
+	"City": "Bussey",
+	"State": "IA",
+	"latitude": 41.2057,
+	"longitude": -92.8843
+},
+{
+	"City": "New Vienna",
+	"State": "IA",
+	"latitude": 42.5477,
+	"longitude": -91.1139
+},
+{
+	"City": "Earling",
+	"State": "IA",
+	"latitude": 41.7761,
+	"longitude": -95.4189
+},
+{
+	"City": "Mystic",
+	"State": "IA",
+	"latitude": 40.7792,
+	"longitude": -92.9446
+},
+{
+	"City": "Royal",
+	"State": "IA",
+	"latitude": 43.0644,
+	"longitude": -95.2837
+},
+{
+	"City": "Hawkeye",
+	"State": "IA",
+	"latitude": 42.9378,
+	"longitude": -91.9504
+},
+{
+	"City": "Andrew",
+	"State": "IA",
+	"latitude": 42.1533,
+	"longitude": -90.5921
+},
+{
+	"City": "Lost Nation",
+	"State": "IA",
+	"latitude": 41.9666,
+	"longitude": -90.8167
+},
+{
+	"City": "Cumming",
+	"State": "IA",
+	"latitude": 41.4876,
+	"longitude": -93.7594
+},
+{
+	"City": "Bonaparte",
+	"State": "IA",
+	"latitude": 40.7013,
+	"longitude": -91.8004
+},
+{
+	"City": "Thornton",
+	"State": "IA",
+	"latitude": 42.9442,
+	"longitude": -93.3871
+},
+{
+	"City": "Casey",
+	"State": "IA",
+	"latitude": 41.5075,
+	"longitude": -94.5213
+},
+{
+	"City": "New Market",
+	"State": "IA",
+	"latitude": 40.7324,
+	"longitude": -94.9005
+},
+{
+	"City": "Calamus",
+	"State": "IA",
+	"latitude": 41.8265,
+	"longitude": -90.76
+},
+{
+	"City": "Arlington",
+	"State": "IA",
+	"latitude": 42.7488,
+	"longitude": -91.6711
+},
+{
+	"City": "Lewis",
+	"State": "IA",
+	"latitude": 41.3065,
+	"longitude": -95.0843
+},
+{
+	"City": "Milton",
+	"State": "IA",
+	"latitude": 40.6712,
+	"longitude": -92.1621
+},
+{
+	"City": "Holiday Lake",
+	"State": "IA",
+	"latitude": 41.8174,
+	"longitude": -92.4496
+},
+{
+	"City": "Stanhope",
+	"State": "IA",
+	"latitude": 42.2889,
+	"longitude": -93.796
+},
+{
+	"City": "Worthington",
+	"State": "IA",
+	"latitude": 42.3979,
+	"longitude": -91.1207
+},
+{
+	"City": "Lynnville",
+	"State": "IA",
+	"latitude": 41.5729,
+	"longitude": -92.7869
+},
+{
+	"City": "Lehigh",
+	"State": "IA",
+	"latitude": 42.3575,
+	"longitude": -94.0535
+},
+{
+	"City": "Salix",
+	"State": "IA",
+	"latitude": 42.3158,
+	"longitude": -96.3035
+},
+{
+	"City": "Salem",
+	"State": "IA",
+	"latitude": 40.852,
+	"longitude": -91.6206
+},
+{
+	"City": "Duncombe",
+	"State": "IA",
+	"latitude": 42.4695,
+	"longitude": -93.9962
+},
+{
+	"City": "Union",
+	"State": "IA",
+	"latitude": 42.2434,
+	"longitude": -93.0625
+},
+{
+	"City": "Bennett",
+	"State": "IA",
+	"latitude": 41.74,
+	"longitude": -90.9734
+},
+{
+	"City": "Orient",
+	"State": "IA",
+	"latitude": 41.2033,
+	"longitude": -94.4178
+},
+{
+	"City": "Colesburg",
+	"State": "IA",
+	"latitude": 42.6387,
+	"longitude": -91.201
+},
+{
+	"City": "Mondamin",
+	"State": "IA",
+	"latitude": 41.7101,
+	"longitude": -96.0215
+},
+{
+	"City": "Letts",
+	"State": "IA",
+	"latitude": 41.3299,
+	"longitude": -91.2356
+},
+{
+	"City": "Columbus City",
+	"State": "IA",
+	"latitude": 41.2594,
+	"longitude": -91.3746
+},
+{
+	"City": "Ringsted",
+	"State": "IA",
+	"latitude": 43.295,
+	"longitude": -94.5068
+},
+{
+	"City": "Donahue",
+	"State": "IA",
+	"latitude": 41.6915,
+	"longitude": -90.6746
+},
+{
+	"City": "Holy Cross",
+	"State": "IA",
+	"latitude": 42.6011,
+	"longitude": -90.996
+},
+{
+	"City": "Wesley",
+	"State": "IA",
+	"latitude": 43.0887,
+	"longitude": -93.9929
+},
+{
+	"City": "Churdan",
+	"State": "IA",
+	"latitude": 42.1539,
+	"longitude": -94.4786
+},
+{
+	"City": "Nichols",
+	"State": "IA",
+	"latitude": 41.4797,
+	"longitude": -91.308
+},
+{
+	"City": "Livermore",
+	"State": "IA",
+	"latitude": 42.868,
+	"longitude": -94.184
+},
+{
+	"City": "Plymouth",
+	"State": "IA",
+	"latitude": 43.2464,
+	"longitude": -93.1232
+},
+{
+	"City": "Charlotte",
+	"State": "IA",
+	"latitude": 41.9621,
+	"longitude": -90.4682
+},
+{
+	"City": "Fertile",
+	"State": "IA",
+	"latitude": 43.2623,
+	"longitude": -93.4232
+},
+{
+	"City": "Garrison",
+	"State": "IA",
+	"latitude": 42.1451,
+	"longitude": -92.1442
+},
+{
+	"City": "Pierson",
+	"State": "IA",
+	"latitude": 42.5428,
+	"longitude": -95.8653
+},
+{
+	"City": "Minburn",
+	"State": "IA",
+	"latitude": 41.7575,
+	"longitude": -94.0284
+},
+{
+	"City": "Lacona",
+	"State": "IA",
+	"latitude": 41.1901,
+	"longitude": -93.3851
+},
+{
+	"City": "Menlo",
+	"State": "IA",
+	"latitude": 41.5222,
+	"longitude": -94.4043
+},
+{
+	"City": "Ryan",
+	"State": "IA",
+	"latitude": 42.3524,
+	"longitude": -91.4852
+},
+{
+	"City": "Rudd",
+	"State": "IA",
+	"latitude": 43.1275,
+	"longitude": -92.9046
+},
+{
+	"City": "Callender",
+	"State": "IA",
+	"latitude": 42.3616,
+	"longitude": -94.2955
+},
+{
+	"City": "Wahpeton",
+	"State": "IA",
+	"latitude": 43.3742,
+	"longitude": -95.1744
+},
+{
+	"City": "Lohrville",
+	"State": "IA",
+	"latitude": 42.2672,
+	"longitude": -94.5516
+},
+{
+	"City": "Spillville",
+	"State": "IA",
+	"latitude": 43.2031,
+	"longitude": -91.9523
+},
+{
+	"City": "Farnhamville",
+	"State": "IA",
+	"latitude": 42.2768,
+	"longitude": -94.4078
+},
+{
+	"City": "Cincinnati",
+	"State": "IA",
+	"latitude": 40.6309,
+	"longitude": -92.9222
+},
+{
+	"City": "Lorimor",
+	"State": "IA",
+	"latitude": 41.1268,
+	"longitude": -94.0571
+},
+{
+	"City": "Clearfield",
+	"State": "IA",
+	"latitude": 40.8025,
+	"longitude": -94.4826
+},
+{
+	"City": "Pacific Junction",
+	"State": "IA",
+	"latitude": 41.018,
+	"longitude": -95.7995
+},
+{
+	"City": "Libertyville",
+	"State": "IA",
+	"latitude": 40.9583,
+	"longitude": -92.0502
+},
+{
+	"City": "Danbury",
+	"State": "IA",
+	"latitude": 42.2364,
+	"longitude": -95.7216
+},
+{
+	"City": "Ute",
+	"State": "IA",
+	"latitude": 42.05,
+	"longitude": -95.7058
+},
+{
+	"City": "Amana",
+	"State": "IA",
+	"latitude": 41.8025,
+	"longitude": -91.8741
+},
+{
+	"City": "Terril",
+	"State": "IA",
+	"latitude": 43.3058,
+	"longitude": -94.9689
+},
+{
+	"City": "Massena",
+	"State": "IA",
+	"latitude": 41.2506,
+	"longitude": -94.7698
+},
+{
+	"City": "Middletown",
+	"State": "IA",
+	"latitude": 40.8279,
+	"longitude": -91.2622
+},
+{
+	"City": "Templeton",
+	"State": "IA",
+	"latitude": 41.9179,
+	"longitude": -94.9413
+},
+{
+	"City": "Harpers Ferry",
+	"State": "IA",
+	"latitude": 43.2005,
+	"longitude": -91.1525
+},
+{
+	"City": "Sheldahl",
+	"State": "IA",
+	"latitude": 41.8643,
+	"longitude": -93.6966
+},
+{
+	"City": "Williams",
+	"State": "IA",
+	"latitude": 42.4892,
+	"longitude": -93.5411
+},
+{
+	"City": "Fort Atkinson",
+	"State": "IA",
+	"latitude": 43.1442,
+	"longitude": -91.9344
+},
+{
+	"City": "McCallsburg",
+	"State": "IA",
+	"latitude": 42.1648,
+	"longitude": -93.3907
+},
+{
+	"City": "Brandon",
+	"State": "IA",
+	"latitude": 42.3151,
+	"longitude": -92.0031
+},
+{
+	"City": "Bronson",
+	"State": "IA",
+	"latitude": 42.409,
+	"longitude": -96.2113
+},
+{
+	"City": "Panorama Park",
+	"State": "IA",
+	"latitude": 41.5556,
+	"longitude": -90.4537
+},
+{
+	"City": "Elliott",
+	"State": "IA",
+	"latitude": 41.1494,
+	"longitude": -95.1629
+},
+{
+	"City": "Delta",
+	"State": "IA",
+	"latitude": 41.3226,
+	"longitude": -92.3304
+},
+{
+	"City": "Diagonal",
+	"State": "IA",
+	"latitude": 40.8105,
+	"longitude": -94.3421
+},
+{
+	"City": "Floyd",
+	"State": "IA",
+	"latitude": 43.1282,
+	"longitude": -92.7402
+},
+{
+	"City": "Diamondhead Lake",
+	"State": "IA",
+	"latitude": 41.5489,
+	"longitude": -94.2593
+},
+{
+	"City": "McCausland",
+	"State": "IA",
+	"latitude": 41.7435,
+	"longitude": -90.4461
+},
+{
+	"City": "Irwin",
+	"State": "IA",
+	"latitude": 41.7902,
+	"longitude": -95.2068
+},
+{
+	"City": "Mingo",
+	"State": "IA",
+	"latitude": 41.7662,
+	"longitude": -93.2825
+},
+{
+	"City": "Peterson",
+	"State": "IA",
+	"latitude": 42.9176,
+	"longitude": -95.3425
+},
+{
+	"City": "Atalissa",
+	"State": "IA",
+	"latitude": 41.5715,
+	"longitude": -91.1665
+},
+{
+	"City": "Auburn",
+	"State": "IA",
+	"latitude": 42.2496,
+	"longitude": -94.8778
+},
+{
+	"City": "Granville",
+	"State": "IA",
+	"latitude": 42.9855,
+	"longitude": -95.875
+},
+{
+	"City": "Lester",
+	"State": "IA",
+	"latitude": 43.4403,
+	"longitude": -96.3315
+},
+{
+	"City": "Steamboat Rock",
+	"State": "IA",
+	"latitude": 42.4081,
+	"longitude": -93.0662
+},
+{
+	"City": "Kelley",
+	"State": "IA",
+	"latitude": 41.951,
+	"longitude": -93.6656
+},
+{
+	"City": "Kellerton",
+	"State": "IA",
+	"latitude": 40.7103,
+	"longitude": -94.0503
+},
+{
+	"City": "Rhodes",
+	"State": "IA",
+	"latitude": 41.9279,
+	"longitude": -93.1837
+},
+{
+	"City": "Liscomb",
+	"State": "IA",
+	"latitude": 42.191,
+	"longitude": -93.0062
+},
+{
+	"City": "Quimby",
+	"State": "IA",
+	"latitude": 42.6292,
+	"longitude": -95.644
+},
+{
+	"City": "West Okoboji",
+	"State": "IA",
+	"latitude": 43.3489,
+	"longitude": -95.1632
+},
+{
+	"City": "Bode",
+	"State": "IA",
+	"latitude": 42.868,
+	"longitude": -94.2863
+},
+{
+	"City": "Bertram",
+	"State": "IA",
+	"latitude": 41.9512,
+	"longitude": -91.5376
+},
+{
+	"City": "Lockridge",
+	"State": "IA",
+	"latitude": 40.9936,
+	"longitude": -91.7492
+},
+{
+	"City": "Lytton",
+	"State": "IA",
+	"latitude": 42.4233,
+	"longitude": -94.8605
+},
+{
+	"City": "Westside",
+	"State": "IA",
+	"latitude": 42.0757,
+	"longitude": -95.1013
+},
+{
+	"City": "Pulaski",
+	"State": "IA",
+	"latitude": 40.6929,
+	"longitude": -92.2738
+},
+{
+	"City": "Persia",
+	"State": "IA",
+	"latitude": 41.5786,
+	"longitude": -95.5705
+},
+{
+	"City": "Ridgeway",
+	"State": "IA",
+	"latitude": 43.2971,
+	"longitude": -91.9924
+},
+{
+	"City": "Marble Rock",
+	"State": "IA",
+	"latitude": 42.9648,
+	"longitude": -92.8683
+},
+{
+	"City": "Bagley",
+	"State": "IA",
+	"latitude": 41.8464,
+	"longitude": -94.4303
+},
+{
+	"City": "Blakesburg",
+	"State": "IA",
+	"latitude": 40.962,
+	"longitude": -92.6348
+},
+{
+	"City": "Kimballton",
+	"State": "IA",
+	"latitude": 41.6271,
+	"longitude": -95.0749
+},
+{
+	"City": "Lakota",
+	"State": "IA",
+	"latitude": 43.3786,
+	"longitude": -94.0963
+},
+{
+	"City": "Luana",
+	"State": "IA",
+	"latitude": 43.0594,
+	"longitude": -91.4557
+},
+{
+	"City": "Riverton",
+	"State": "IA",
+	"latitude": 40.6867,
+	"longitude": -95.5686
+},
+{
+	"City": "Harcourt",
+	"State": "IA",
+	"latitude": 42.2606,
+	"longitude": -94.1745
+},
+{
+	"City": "Holland",
+	"State": "IA",
+	"latitude": 42.4002,
+	"longitude": -92.7988
+},
+{
+	"City": "Stockport",
+	"State": "IA",
+	"latitude": 40.8573,
+	"longitude": -91.8334
+},
+{
+	"City": "Ionia",
+	"State": "IA",
+	"latitude": 43.0359,
+	"longitude": -92.4584
+},
+{
+	"City": "Ladora",
+	"State": "IA",
+	"latitude": 41.7557,
+	"longitude": -92.1859
+},
+{
+	"City": "Rippey",
+	"State": "IA",
+	"latitude": 41.9342,
+	"longitude": -94.2008
+},
+{
+	"City": "Malcom",
+	"State": "IA",
+	"latitude": 41.7076,
+	"longitude": -92.5575
+},
+{
+	"City": "Leland",
+	"State": "IA",
+	"latitude": 43.3318,
+	"longitude": -93.6351
+},
+{
+	"City": "Maurice",
+	"State": "IA",
+	"latitude": 42.9664,
+	"longitude": -96.1824
+},
+{
+	"City": "Rowley",
+	"State": "IA",
+	"latitude": 42.3685,
+	"longitude": -91.8443
+},
+{
+	"City": "Deep River",
+	"State": "IA",
+	"latitude": 41.5812,
+	"longitude": -92.3732
+},
+{
+	"City": "Protivin",
+	"State": "IA",
+	"latitude": 43.2168,
+	"longitude": -92.0891
+},
+{
+	"City": "Conroy",
+	"State": "IA",
+	"latitude": 41.7267,
+	"longitude": -91.9986
+},
+{
+	"City": "Farmersburg",
+	"State": "IA",
+	"latitude": 42.9589,
+	"longitude": -91.367
+},
+{
+	"City": "Kiron",
+	"State": "IA",
+	"latitude": 42.194,
+	"longitude": -95.3271
+},
+{
+	"City": "Crawfordsville",
+	"State": "IA",
+	"latitude": 41.2139,
+	"longitude": -91.5367
+},
+{
+	"City": "Modale",
+	"State": "IA",
+	"latitude": 41.6182,
+	"longitude": -96.012
+},
+{
+	"City": "Parnell",
+	"State": "IA",
+	"latitude": 41.5837,
+	"longitude": -92.0046
+},
+{
+	"City": "Defiance",
+	"State": "IA",
+	"latitude": 41.8254,
+	"longitude": -95.3404
+},
+{
+	"City": "Coulter",
+	"State": "IA",
+	"latitude": 42.733,
+	"longitude": -93.3701
+},
+{
+	"City": "Renwick",
+	"State": "IA",
+	"latitude": 42.8269,
+	"longitude": -93.9813
+},
+{
+	"City": "Mallard",
+	"State": "IA",
+	"latitude": 42.9394,
+	"longitude": -94.6832
+},
+{
+	"City": "Halbur",
+	"State": "IA",
+	"latitude": 42.0051,
+	"longitude": -94.972
+},
+{
+	"City": "Dedham",
+	"State": "IA",
+	"latitude": 41.9087,
+	"longitude": -94.8232
+},
+{
+	"City": "Kensett",
+	"State": "IA",
+	"latitude": 43.3534,
+	"longitude": -93.2106
+},
+{
+	"City": "Deloit",
+	"State": "IA",
+	"latitude": 42.0971,
+	"longitude": -95.3175
+},
+{
+	"City": "Corwith",
+	"State": "IA",
+	"latitude": 42.989,
+	"longitude": -93.9581
+},
+{
+	"City": "La Motte",
+	"State": "IA",
+	"latitude": 42.2956,
+	"longitude": -90.6233
+},
+{
+	"City": "Alta Vista",
+	"State": "IA",
+	"latitude": 43.1967,
+	"longitude": -92.417
+},
+{
+	"City": "Dixon",
+	"State": "IA",
+	"latitude": 41.7422,
+	"longitude": -90.7824
+},
+{
+	"City": "Martelle",
+	"State": "IA",
+	"latitude": 42.0204,
+	"longitude": -91.3578
+},
+{
+	"City": "Lu Verne",
+	"State": "IA",
+	"latitude": 42.9092,
+	"longitude": -94.0836
+},
+{
+	"City": "Chelsea",
+	"State": "IA",
+	"latitude": 41.9205,
+	"longitude": -92.3945
+},
+{
+	"City": "Luxemburg",
+	"State": "IA",
+	"latitude": 42.6039,
+	"longitude": -91.0726
+},
+{
+	"City": "Cumberland",
+	"State": "IA",
+	"latitude": 41.2731,
+	"longitude": -94.8707
+},
+{
+	"City": "Low Moor",
+	"State": "IA",
+	"latitude": 41.8023,
+	"longitude": -90.3542
+},
+{
+	"City": "Silver City",
+	"State": "IA",
+	"latitude": 41.1114,
+	"longitude": -95.6381
+},
+{
+	"City": "Waucoma",
+	"State": "IA",
+	"latitude": 43.0554,
+	"longitude": -92.0341
+},
+{
+	"City": "Grafton",
+	"State": "IA",
+	"latitude": 43.3306,
+	"longitude": -93.0687
+},
+{
+	"City": "Harvey",
+	"State": "IA",
+	"latitude": 41.3179,
+	"longitude": -92.9227
+},
+{
+	"City": "Macedonia",
+	"State": "IA",
+	"latitude": 41.1923,
+	"longitude": -95.4266
+},
+{
+	"City": "Montour",
+	"State": "IA",
+	"latitude": 41.9803,
+	"longitude": -92.715
+},
+{
+	"City": "Greeley",
+	"State": "IA",
+	"latitude": 42.5851,
+	"longitude": -91.3416
+},
+{
+	"City": "Keswick",
+	"State": "IA",
+	"latitude": 41.4547,
+	"longitude": -92.2382
+},
+{
+	"City": "Pisgah",
+	"State": "IA",
+	"latitude": 41.8304,
+	"longitude": -95.9264
+},
+{
+	"City": "Wadena",
+	"State": "IA",
+	"latitude": 42.8398,
+	"longitude": -91.6594
+},
+{
+	"City": "Yale",
+	"State": "IA",
+	"latitude": 41.7754,
+	"longitude": -94.3572
+},
+{
+	"City": "Meservey",
+	"State": "IA",
+	"latitude": 42.9157,
+	"longitude": -93.4734
+},
+{
+	"City": "Prescott",
+	"State": "IA",
+	"latitude": 41.0238,
+	"longitude": -94.613
+},
+{
+	"City": "Fredonia",
+	"State": "IA",
+	"latitude": 41.2844,
+	"longitude": -91.3397
+},
+{
+	"City": "Twin Lakes",
+	"State": "IA",
+	"latitude": 42.4775,
+	"longitude": -94.6354
+},
+{
+	"City": "Fenton",
+	"State": "IA",
+	"latitude": 43.2181,
+	"longitude": -94.428
+},
+{
+	"City": "Crystal Lake",
+	"State": "IA",
+	"latitude": 43.223,
+	"longitude": -93.7927
+},
+{
+	"City": "Laurel",
+	"State": "IA",
+	"latitude": 41.8841,
+	"longitude": -92.9222
+},
+{
+	"City": "Paton",
+	"State": "IA",
+	"latitude": 42.1642,
+	"longitude": -94.2551
+},
+{
+	"City": "Smithland",
+	"State": "IA",
+	"latitude": 42.2289,
+	"longitude": -95.9312
+},
+{
+	"City": "Packwood",
+	"State": "IA",
+	"latitude": 41.1327,
+	"longitude": -92.0825
+},
+{
+	"City": "Marathon",
+	"State": "IA",
+	"latitude": 42.8602,
+	"longitude": -94.9829
+},
+{
+	"City": "Mineola",
+	"State": "IA",
+	"latitude": 41.1414,
+	"longitude": -95.6948
+},
+{
+	"City": "New Providence",
+	"State": "IA",
+	"latitude": 42.2813,
+	"longitude": -93.1716
+},
+{
+	"City": "Fostoria",
+	"State": "IA",
+	"latitude": 43.243,
+	"longitude": -95.155
+},
+{
+	"City": "Washta",
+	"State": "IA",
+	"latitude": 42.5756,
+	"longitude": -95.7202
+},
+{
+	"City": "Olds",
+	"State": "IA",
+	"latitude": 41.1344,
+	"longitude": -91.5443
+},
+{
+	"City": "Goose Lake",
+	"State": "IA",
+	"latitude": 41.9678,
+	"longitude": -90.3816
+},
+{
+	"City": "Lineville",
+	"State": "IA",
+	"latitude": 40.587,
+	"longitude": -93.5232
+},
+{
+	"City": "Hanlontown",
+	"State": "IA",
+	"latitude": 43.2809,
+	"longitude": -93.3789
+},
+{
+	"City": "Sun Valley Lake",
+	"State": "IA",
+	"latitude": 40.8512,
+	"longitude": -94.0685
+},
+{
+	"City": "Hornick",
+	"State": "IA",
+	"latitude": 42.2305,
+	"longitude": -96.0971
+},
+{
+	"City": "Jamaica",
+	"State": "IA",
+	"latitude": 41.8452,
+	"longitude": -94.307
+},
+{
+	"City": "Cushing",
+	"State": "IA",
+	"latitude": 42.465,
+	"longitude": -95.6757
+},
+{
+	"City": "Cleghorn",
+	"State": "IA",
+	"latitude": 42.8125,
+	"longitude": -95.7127
+},
+{
+	"City": "Grand River",
+	"State": "IA",
+	"latitude": 40.819,
+	"longitude": -93.9634
+},
+{
+	"City": "Thurman",
+	"State": "IA",
+	"latitude": 40.8202,
+	"longitude": -95.7488
+},
+{
+	"City": "Stout",
+	"State": "IA",
+	"latitude": 42.527,
+	"longitude": -92.7116
+},
+{
+	"City": "Ollie",
+	"State": "IA",
+	"latitude": 41.1991,
+	"longitude": -92.0923
+},
+{
+	"City": "Joice",
+	"State": "IA",
+	"latitude": 43.3648,
+	"longitude": -93.4581
+},
+{
+	"City": "Rake",
+	"State": "IA",
+	"latitude": 43.4806,
+	"longitude": -93.9202
+},
+{
+	"City": "Lucas",
+	"State": "IA",
+	"latitude": 41.0322,
+	"longitude": -93.4611
+},
+{
+	"City": "Burr Oak",
+	"State": "IA",
+	"latitude": 43.458,
+	"longitude": -91.8619
+},
+{
+	"City": "Linden",
+	"State": "IA",
+	"latitude": 41.6427,
+	"longitude": -94.27
+},
+{
+	"City": "Panama",
+	"State": "IA",
+	"latitude": 41.7263,
+	"longitude": -95.4754
+},
+{
+	"City": "South English",
+	"State": "IA",
+	"latitude": 41.4521,
+	"longitude": -92.0905
+},
+{
+	"City": "Cantril",
+	"State": "IA",
+	"latitude": 40.6428,
+	"longitude": -92.0686
+},
+{
+	"City": "Woden",
+	"State": "IA",
+	"latitude": 43.2308,
+	"longitude": -93.9114
+},
+{
+	"City": "Van Wert",
+	"State": "IA",
+	"latitude": 40.871,
+	"longitude": -93.7918
+},
+{
+	"City": "Clutier",
+	"State": "IA",
+	"latitude": 42.0793,
+	"longitude": -92.4036
+},
+{
+	"City": "Moorhead",
+	"State": "IA",
+	"latitude": 41.9244,
+	"longitude": -95.8507
+},
+{
+	"City": "Frederika",
+	"State": "IA",
+	"latitude": 42.8835,
+	"longitude": -92.3054
+},
+{
+	"City": "College Springs",
+	"State": "IA",
+	"latitude": 40.6213,
+	"longitude": -95.1212
+},
+{
+	"City": "Alvord",
+	"State": "IA",
+	"latitude": 43.3418,
+	"longitude": -96.3026
+},
+{
+	"City": "Blairsburg",
+	"State": "IA",
+	"latitude": 42.4784,
+	"longitude": -93.6428
+},
+{
+	"City": "Melvin",
+	"State": "IA",
+	"latitude": 43.2864,
+	"longitude": -95.6086
+},
+{
+	"City": "Westgate",
+	"State": "IA",
+	"latitude": 42.7682,
+	"longitude": -91.9956
+},
+{
+	"City": "Garden Grove",
+	"State": "IA",
+	"latitude": 40.8264,
+	"longitude": -93.6073
+},
+{
+	"City": "Blencoe",
+	"State": "IA",
+	"latitude": 41.9303,
+	"longitude": -96.0822
+},
+{
+	"City": "Volga",
+	"State": "IA",
+	"latitude": 42.8027,
+	"longitude": -91.5423
+},
+{
+	"City": "Hancock",
+	"State": "IA",
+	"latitude": 41.3924,
+	"longitude": -95.3636
+},
+{
+	"City": "Woodburn",
+	"State": "IA",
+	"latitude": 41.0109,
+	"longitude": -93.5963
+},
+{
+	"City": "Rembrandt",
+	"State": "IA",
+	"latitude": 42.8257,
+	"longitude": -95.1656
+},
+{
+	"City": "Arthur",
+	"State": "IA",
+	"latitude": 42.3353,
+	"longitude": -95.3469
+},
+{
+	"City": "Onslow",
+	"State": "IA",
+	"latitude": 42.1073,
+	"longitude": -91.0153
+},
+{
+	"City": "Stockton",
+	"State": "IA",
+	"latitude": 41.5909,
+	"longitude": -90.8566
+},
+{
+	"City": "Kamrar",
+	"State": "IA",
+	"latitude": 42.3898,
+	"longitude": -93.728
+},
+{
+	"City": "Drakesville",
+	"State": "IA",
+	"latitude": 40.7984,
+	"longitude": -92.4814
+},
+{
+	"City": "Prairieburg",
+	"State": "IA",
+	"latitude": 42.2378,
+	"longitude": -91.4259
+},
+{
+	"City": "Elberon",
+	"State": "IA",
+	"latitude": 42.0055,
+	"longitude": -92.3161
+},
+{
+	"City": "Boxholm",
+	"State": "IA",
+	"latitude": 42.1736,
+	"longitude": -94.1061
+},
+{
+	"City": "Henderson",
+	"State": "IA",
+	"latitude": 41.14,
+	"longitude": -95.4309
+},
+{
+	"City": "Maysville",
+	"State": "IA",
+	"latitude": 41.6498,
+	"longitude": -90.7183
+},
+{
+	"City": "Blockton",
+	"State": "IA",
+	"latitude": 40.6168,
+	"longitude": -94.4779
+},
+{
+	"City": "Decatur City",
+	"State": "IA",
+	"latitude": 40.7424,
+	"longitude": -93.8327
+},
+{
+	"City": "Davis City",
+	"State": "IA",
+	"latitude": 40.6401,
+	"longitude": -93.8126
+},
+{
+	"City": "Garden City",
+	"State": "IA",
+	"latitude": 42.2455,
+	"longitude": -93.3953
+},
+{
+	"City": "Beaman",
+	"State": "IA",
+	"latitude": 42.2202,
+	"longitude": -92.8221
+},
+{
+	"City": "Barnum",
+	"State": "IA",
+	"latitude": 42.5062,
+	"longitude": -94.3657
+},
+{
+	"City": "Thor",
+	"State": "IA",
+	"latitude": 42.6881,
+	"longitude": -94.0496
+},
+{
+	"City": "Gravity",
+	"State": "IA",
+	"latitude": 40.7601,
+	"longitude": -94.7435
+},
+{
+	"City": "Shambaugh",
+	"State": "IA",
+	"latitude": 40.6574,
+	"longitude": -95.0353
+},
+{
+	"City": "Sherrill",
+	"State": "IA",
+	"latitude": 42.6046,
+	"longitude": -90.7841
+},
+{
+	"City": "Portsmouth",
+	"State": "IA",
+	"latitude": 41.6504,
+	"longitude": -95.5193
+},
+{
+	"City": "Hillsboro",
+	"State": "IA",
+	"latitude": 40.8374,
+	"longitude": -91.7113
+},
+{
+	"City": "Rickardsville",
+	"State": "IA",
+	"latitude": 42.5815,
+	"longitude": -90.8763
+},
+{
+	"City": "Magnolia",
+	"State": "IA",
+	"latitude": 41.6922,
+	"longitude": -95.8741
+},
+{
+	"City": "Kirkville",
+	"State": "IA",
+	"latitude": 41.1422,
+	"longitude": -92.5036
+},
+{
+	"City": "Coin",
+	"State": "IA",
+	"latitude": 40.6561,
+	"longitude": -95.2349
+},
+{
+	"City": "Wallingford",
+	"State": "IA",
+	"latitude": 43.3202,
+	"longitude": -94.7924
+},
+{
+	"City": "Tingley",
+	"State": "IA",
+	"latitude": 40.8528,
+	"longitude": -94.196
+},
+{
+	"City": "Lidderdale",
+	"State": "IA",
+	"latitude": 42.1225,
+	"longitude": -94.7837
+},
+{
+	"City": "Dickens",
+	"State": "IA",
+	"latitude": 43.1339,
+	"longitude": -95.0223
+},
+{
+	"City": "Lambs Grove",
+	"State": "IA",
+	"latitude": 41.7008,
+	"longitude": -93.0793
+},
+{
+	"City": "Barnes City",
+	"State": "IA",
+	"latitude": 41.5071,
+	"longitude": -92.4696
+},
+{
+	"City": "Oakville",
+	"State": "IA",
+	"latitude": 41.0982,
+	"longitude": -91.0436
+},
+{
+	"City": "Pilot Mound",
+	"State": "IA",
+	"latitude": 42.1593,
+	"longitude": -94.0183
+},
+{
+	"City": "Haverhill",
+	"State": "IA",
+	"latitude": 41.9442,
+	"longitude": -92.9606
+},
+{
+	"City": "Soldier",
+	"State": "IA",
+	"latitude": 41.9842,
+	"longitude": -95.7802
+},
+{
+	"City": "Randall",
+	"State": "IA",
+	"latitude": 42.2372,
+	"longitude": -93.6026
+},
+{
+	"City": "Dundee",
+	"State": "IA",
+	"latitude": 42.5799,
+	"longitude": -91.5461
+},
+{
+	"City": "Rose Hill",
+	"State": "IA",
+	"latitude": 41.3203,
+	"longitude": -92.4637
+},
+{
+	"City": "Alexander",
+	"State": "IA",
+	"latitude": 42.8044,
+	"longitude": -93.4786
+},
+{
+	"City": "Little Sioux",
+	"State": "IA",
+	"latitude": 41.8082,
+	"longitude": -96.0274
+},
+{
+	"City": "Aurora",
+	"State": "IA",
+	"latitude": 42.6194,
+	"longitude": -91.7295
+},
+{
+	"City": "Woolstock",
+	"State": "IA",
+	"latitude": 42.5648,
+	"longitude": -93.8433
+},
+{
+	"City": "Patterson",
+	"State": "IA",
+	"latitude": 41.3485,
+	"longitude": -93.8771
+},
+{
+	"City": "Vincent",
+	"State": "IA",
+	"latitude": 42.5917,
+	"longitude": -94.0198
+},
+{
+	"City": "Oakland Acres",
+	"State": "IA",
+	"latitude": 41.7204,
+	"longitude": -92.8211
+},
+{
+	"City": "Leighton",
+	"State": "IA",
+	"latitude": 41.3387,
+	"longitude": -92.7865
+},
+{
+	"City": "Castalia",
+	"State": "IA",
+	"latitude": 43.1126,
+	"longitude": -91.677
+},
+{
+	"City": "Swaledale",
+	"State": "IA",
+	"latitude": 42.9765,
+	"longitude": -93.3154
+},
+{
+	"City": "Calumet",
+	"State": "IA",
+	"latitude": 42.945,
+	"longitude": -95.5514
+},
+{
+	"City": "Harris",
+	"State": "IA",
+	"latitude": 43.4435,
+	"longitude": -95.4371
+},
+{
+	"City": "Moorland",
+	"State": "IA",
+	"latitude": 42.4414,
+	"longitude": -94.2954
+},
+{
+	"City": "Randolph",
+	"State": "IA",
+	"latitude": 40.8734,
+	"longitude": -95.5647
+},
+{
+	"City": "Reasnor",
+	"State": "IA",
+	"latitude": 41.5789,
+	"longitude": -93.0229
+},
+{
+	"City": "McClelland",
+	"State": "IA",
+	"latitude": 41.3315,
+	"longitude": -95.6815
+},
+{
+	"City": "Monmouth",
+	"State": "IA",
+	"latitude": 42.0751,
+	"longitude": -90.8822
+},
+{
+	"City": "Exline",
+	"State": "IA",
+	"latitude": 40.649,
+	"longitude": -92.8432
+},
+{
+	"City": "Williamson",
+	"State": "IA",
+	"latitude": 41.0883,
+	"longitude": -93.2568
+},
+{
+	"City": "Mount Union",
+	"State": "IA",
+	"latitude": 41.0576,
+	"longitude": -91.3914
+},
+{
+	"City": "Brunsville",
+	"State": "IA",
+	"latitude": 42.811,
+	"longitude": -96.2666
+},
+{
+	"City": "Geneva",
+	"State": "IA",
+	"latitude": 42.6748,
+	"longitude": -93.1298
+},
+{
+	"City": "Braddyville",
+	"State": "IA",
+	"latitude": 40.5806,
+	"longitude": -95.0312
+},
+{
+	"City": "Hastings",
+	"State": "IA",
+	"latitude": 41.0251,
+	"longitude": -95.4948
+},
+{
+	"City": "Homestead",
+	"State": "IA",
+	"latitude": 41.7627,
+	"longitude": -91.8731
+},
+{
+	"City": "Delaware",
+	"State": "IA",
+	"latitude": 42.4713,
+	"longitude": -91.339
+},
+{
+	"City": "Bridgewater",
+	"State": "IA",
+	"latitude": 41.2472,
+	"longitude": -94.669
+},
+{
+	"City": "Green Mountain",
+	"State": "IA",
+	"latitude": 42.1019,
+	"longitude": -92.8196
+},
+{
+	"City": "Rowan",
+	"State": "IA",
+	"latitude": 42.7391,
+	"longitude": -93.5504
+},
+{
+	"City": "Bristow",
+	"State": "IA",
+	"latitude": 42.7738,
+	"longitude": -92.9079
+},
+{
+	"City": "Palmer",
+	"State": "IA",
+	"latitude": 42.6299,
+	"longitude": -94.5984
+},
+{
+	"City": "Meriden",
+	"State": "IA",
+	"latitude": 42.7945,
+	"longitude": -95.6341
+},
+{
+	"City": "Lincoln",
+	"State": "IA",
+	"latitude": 42.2635,
+	"longitude": -92.6914
+},
+{
+	"City": "Welton",
+	"State": "IA",
+	"latitude": 41.9076,
+	"longitude": -90.5959
+},
+{
+	"City": "Searsboro",
+	"State": "IA",
+	"latitude": 41.5792,
+	"longitude": -92.7042
+},
+{
+	"City": "West Chester",
+	"State": "IA",
+	"latitude": 41.34,
+	"longitude": -91.8169
+},
+{
+	"City": "Linn Grove",
+	"State": "IA",
+	"latitude": 42.8928,
+	"longitude": -95.2424
+},
+{
+	"City": "Springbrook",
+	"State": "IA",
+	"latitude": 42.1658,
+	"longitude": -90.4791
+},
+{
+	"City": "Whitten",
+	"State": "IA",
+	"latitude": 42.2626,
+	"longitude": -93.0092
+},
+{
+	"City": "Mount Auburn",
+	"State": "IA",
+	"latitude": 42.2573,
+	"longitude": -92.0939
+},
+{
+	"City": "Mona",
+	"State": "IA",
+	"latitude": 43.4833,
+	"longitude": -92.9501
+},
+{
+	"City": "Waterville",
+	"State": "IA",
+	"latitude": 43.2083,
+	"longitude": -91.296
+},
+{
+	"City": "New Liberty",
+	"State": "IA",
+	"latitude": 41.716,
+	"longitude": -90.8778
+},
+{
+	"City": "Rock Falls",
+	"State": "IA",
+	"latitude": 43.207,
+	"longitude": -93.0871
+},
+{
+	"City": "Floris",
+	"State": "IA",
+	"latitude": 40.864,
+	"longitude": -92.3322
+},
+{
+	"City": "Millersburg",
+	"State": "IA",
+	"latitude": 41.5733,
+	"longitude": -92.1593
+},
+{
+	"City": "Clemons",
+	"State": "IA",
+	"latitude": 42.1139,
+	"longitude": -93.1585
+},
+{
+	"City": "Lone Rock",
+	"State": "IA",
+	"latitude": 43.2208,
+	"longitude": -94.3255
+},
+{
+	"City": "North Washington",
+	"State": "IA",
+	"latitude": 43.1171,
+	"longitude": -92.4151
+},
+{
+	"City": "Houghton",
+	"State": "IA",
+	"latitude": 40.7836,
+	"longitude": -91.6104
+},
+{
+	"City": "St. Lucas",
+	"State": "IA",
+	"latitude": 43.0667,
+	"longitude": -91.9342
+},
+{
+	"City": "Clare",
+	"State": "IA",
+	"latitude": 42.5875,
+	"longitude": -94.3447
+},
+{
+	"City": "Ricketts",
+	"State": "IA",
+	"latitude": 42.1281,
+	"longitude": -95.5749
+},
+{
+	"City": "Hamilton",
+	"State": "IA",
+	"latitude": 41.1702,
+	"longitude": -92.9041
+},
+{
+	"City": "Ayrshire",
+	"State": "IA",
+	"latitude": 43.0396,
+	"longitude": -94.8335
+},
+{
+	"City": "Luther",
+	"State": "IA",
+	"latitude": 41.9669,
+	"longitude": -93.8176
+},
+{
+	"City": "Castana",
+	"State": "IA",
+	"latitude": 42.0732,
+	"longitude": -95.9105
+},
+{
+	"City": "Franklin",
+	"State": "IA",
+	"latitude": 40.6668,
+	"longitude": -91.5119
+},
+{
+	"City": "East Peru",
+	"State": "IA",
+	"latitude": 41.227,
+	"longitude": -93.9295
+},
+{
+	"City": "Larrabee",
+	"State": "IA",
+	"latitude": 42.8617,
+	"longitude": -95.5446
+},
+{
+	"City": "Chapin",
+	"State": "IA",
+	"latitude": 42.8354,
+	"longitude": -93.2223
+},
+{
+	"City": "Mitchell",
+	"State": "IA",
+	"latitude": 43.3204,
+	"longitude": -92.8707
+},
+{
+	"City": "Stone City",
+	"State": "IA",
+	"latitude": 42.1101,
+	"longitude": -91.3544
+},
+{
+	"City": "St. Donatus",
+	"State": "IA",
+	"latitude": 42.3624,
+	"longitude": -90.5422
+},
+{
+	"City": "Goodell",
+	"State": "IA",
+	"latitude": 42.9237,
+	"longitude": -93.614
+},
+{
+	"City": "Westfield",
+	"State": "IA",
+	"latitude": 42.7561,
+	"longitude": -96.6055
+},
+{
+	"City": "Centralia",
+	"State": "IA",
+	"latitude": 42.4723,
+	"longitude": -90.8362
+},
+{
+	"City": "Webb",
+	"State": "IA",
+	"latitude": 42.9497,
+	"longitude": -95.0129
+},
+{
+	"City": "St. Marys",
+	"State": "IA",
+	"latitude": 41.3076,
+	"longitude": -93.7338
+},
+{
+	"City": "Dawson",
+	"State": "IA",
+	"latitude": 41.8431,
+	"longitude": -94.2203
+},
+{
+	"City": "McIntire",
+	"State": "IA",
+	"latitude": 43.436,
+	"longitude": -92.5937
+},
+{
+	"City": "Havelock",
+	"State": "IA",
+	"latitude": 42.8331,
+	"longitude": -94.7008
+},
+{
+	"City": "St. Paul",
+	"State": "IA",
+	"latitude": 40.7678,
+	"longitude": -91.5164
+},
+{
+	"City": "Archer",
+	"State": "IA",
+	"latitude": 43.1151,
+	"longitude": -95.7442
+},
+{
+	"City": "Bouton",
+	"State": "IA",
+	"latitude": 41.8511,
+	"longitude": -94.0106
+},
+{
+	"City": "Ferguson",
+	"State": "IA",
+	"latitude": 41.9386,
+	"longitude": -92.863
+},
+{
+	"City": "Rutland",
+	"State": "IA",
+	"latitude": 42.7614,
+	"longitude": -94.2952
+},
+{
+	"City": "North Buena Vista",
+	"State": "IA",
+	"latitude": 42.6776,
+	"longitude": -90.9585
+},
+{
+	"City": "Chester",
+	"State": "IA",
+	"latitude": 43.4918,
+	"longitude": -92.3639
+},
+{
+	"City": "Stanley",
+	"State": "IA",
+	"latitude": 42.642,
+	"longitude": -91.8122
+},
+{
+	"City": "Ledyard",
+	"State": "IA",
+	"latitude": 43.4206,
+	"longitude": -94.1585
+},
+{
+	"City": "Masonville",
+	"State": "IA",
+	"latitude": 42.4798,
+	"longitude": -91.5916
+},
+{
+	"City": "Duncan",
+	"State": "IA",
+	"latitude": 43.1051,
+	"longitude": -93.7059
+},
+{
+	"City": "Superior",
+	"State": "IA",
+	"latitude": 43.4337,
+	"longitude": -94.9466
+},
+{
+	"City": "Macksburg",
+	"State": "IA",
+	"latitude": 41.2147,
+	"longitude": -94.1851
+},
+{
+	"City": "Westphalia",
+	"State": "IA",
+	"latitude": 41.7192,
+	"longitude": -95.3937
+},
+{
+	"City": "Bernard",
+	"State": "IA",
+	"latitude": 42.3133,
+	"longitude": -90.8319
+},
+{
+	"City": "Center Junction",
+	"State": "IA",
+	"latitude": 42.1141,
+	"longitude": -91.0903
+},
+{
+	"City": "Toronto",
+	"State": "IA",
+	"latitude": 41.9029,
+	"longitude": -90.8627
+},
+{
+	"City": "South Amana",
+	"State": "IA",
+	"latitude": 41.7704,
+	"longitude": -91.96
+},
+{
+	"City": "Rome",
+	"State": "IA",
+	"latitude": 40.9821,
+	"longitude": -91.6816
+},
+{
+	"City": "Weldon",
+	"State": "IA",
+	"latitude": 40.8973,
+	"longitude": -93.7355
+},
+{
+	"City": "Morley",
+	"State": "IA",
+	"latitude": 42.006,
+	"longitude": -91.2459
+},
+{
+	"City": "Derby",
+	"State": "IA",
+	"latitude": 40.9303,
+	"longitude": -93.4565
+},
+{
+	"City": "Marne",
+	"State": "IA",
+	"latitude": 41.4489,
+	"longitude": -95.1108
+},
+{
+	"City": "Westwood",
+	"State": "IA",
+	"latitude": 40.9648,
+	"longitude": -91.6266
+},
+{
+	"City": "Harper",
+	"State": "IA",
+	"latitude": 41.3637,
+	"longitude": -92.0509
+},
+{
+	"City": "Brayton",
+	"State": "IA",
+	"latitude": 41.5448,
+	"longitude": -94.9303
+},
+{
+	"City": "Lanesboro",
+	"State": "IA",
+	"latitude": 42.1827,
+	"longitude": -94.6921
+},
+{
+	"City": "New Haven",
+	"State": "IA",
+	"latitude": 43.2839,
+	"longitude": -92.6422
+},
+{
+	"City": "Martinsburg",
+	"State": "IA",
+	"latitude": 41.1786,
+	"longitude": -92.2519
+},
+{
+	"City": "West Amana",
+	"State": "IA",
+	"latitude": 41.8082,
+	"longitude": -91.9652
+},
+{
+	"City": "Buckeye",
+	"State": "IA",
+	"latitude": 42.4195,
+	"longitude": -93.3758
+},
+{
+	"City": "Cromwell",
+	"State": "IA",
+	"latitude": 41.0404,
+	"longitude": -94.4618
+},
+{
+	"City": "Baldwin",
+	"State": "IA",
+	"latitude": 42.0731,
+	"longitude": -90.8385
+},
+{
+	"City": "Promise City",
+	"State": "IA",
+	"latitude": 40.7473,
+	"longitude": -93.1498
+},
+{
+	"City": "Arion",
+	"State": "IA",
+	"latitude": 41.9482,
+	"longitude": -95.4623
+},
+{
+	"City": "Wiota",
+	"State": "IA",
+	"latitude": 41.401,
+	"longitude": -94.8875
+},
+{
+	"City": "Somers",
+	"State": "IA",
+	"latitude": 42.3787,
+	"longitude": -94.4309
+},
+{
+	"City": "Carpenter",
+	"State": "IA",
+	"latitude": 43.415,
+	"longitude": -93.0173
+},
+{
+	"City": "Ackworth",
+	"State": "IA",
+	"latitude": 41.3642,
+	"longitude": -93.4723
+},
+{
+	"City": "Melrose",
+	"State": "IA",
+	"latitude": 40.979,
+	"longitude": -93.0508
+},
+{
+	"City": "St. Joseph",
+	"State": "IA",
+	"latitude": 42.9123,
+	"longitude": -94.2308
+},
+{
+	"City": "Fraser",
+	"State": "IA",
+	"latitude": 42.1242,
+	"longitude": -93.9699
+},
+{
+	"City": "Oto",
+	"State": "IA",
+	"latitude": 42.282,
+	"longitude": -95.8945
+},
+{
+	"City": "Nodaway",
+	"State": "IA",
+	"latitude": 40.9366,
+	"longitude": -94.8954
+},
+{
+	"City": "Oyens",
+	"State": "IA",
+	"latitude": 42.82,
+	"longitude": -96.0582
+},
+{
+	"City": "Percival",
+	"State": "IA",
+	"latitude": 40.7512,
+	"longitude": -95.8131
+},
+{
+	"City": "Sageville",
+	"State": "IA",
+	"latitude": 42.549,
+	"longitude": -90.7062
+},
+{
+	"City": "St. Olaf",
+	"State": "IA",
+	"latitude": 42.9269,
+	"longitude": -91.3879
+},
+{
+	"City": "St. Anthony",
+	"State": "IA",
+	"latitude": 42.1239,
+	"longitude": -93.1978
+},
+{
+	"City": "Willey",
+	"State": "IA",
+	"latitude": 41.9787,
+	"longitude": -94.8224
+},
+{
+	"City": "Andover",
+	"State": "IA",
+	"latitude": 41.9799,
+	"longitude": -90.2529
+},
+{
+	"City": "Pleasant Plain",
+	"State": "IA",
+	"latitude": 41.1472,
+	"longitude": -91.8597
+},
+{
+	"City": "Arispe",
+	"State": "IA",
+	"latitude": 40.948,
+	"longitude": -94.2192
+},
+{
+	"City": "Keomah Village",
+	"State": "IA",
+	"latitude": 41.2868,
+	"longitude": -92.5369
+},
+{
+	"City": "Chillicothe",
+	"State": "IA",
+	"latitude": 41.086,
+	"longitude": -92.5303
+},
+{
+	"City": "Unionville",
+	"State": "IA",
+	"latitude": 40.8182,
+	"longitude": -92.6958
+},
+{
+	"City": "Luzerne",
+	"State": "IA",
+	"latitude": 41.9054,
+	"longitude": -92.1804
+},
+{
+	"City": "Zwingle",
+	"State": "IA",
+	"latitude": 42.2972,
+	"longitude": -90.6874
+},
+{
+	"City": "Craig",
+	"State": "IA",
+	"latitude": 42.8956,
+	"longitude": -96.3097
+},
+{
+	"City": "Morrison",
+	"State": "IA",
+	"latitude": 42.343,
+	"longitude": -92.6733
+},
+{
+	"City": "Hayfield",
+	"State": "IA",
+	"latitude": 43.1781,
+	"longitude": -93.6926
+},
+{
+	"City": "Hansell",
+	"State": "IA",
+	"latitude": 42.7578,
+	"longitude": -93.1041
+},
+{
+	"City": "Numa",
+	"State": "IA",
+	"latitude": 40.6854,
+	"longitude": -92.98
+},
+{
+	"City": "Matlock",
+	"State": "IA",
+	"latitude": 43.2443,
+	"longitude": -95.9343
+},
+{
+	"City": "Yorktown",
+	"State": "IA",
+	"latitude": 40.7354,
+	"longitude": -95.1544
+},
+{
+	"City": "Rathbun",
+	"State": "IA",
+	"latitude": 40.8017,
+	"longitude": -92.8871
+},
+{
+	"City": "Garber",
+	"State": "IA",
+	"latitude": 42.7445,
+	"longitude": -91.2617
+},
+{
+	"City": "Sharpsburg",
+	"State": "IA",
+	"latitude": 40.8029,
+	"longitude": -94.6405
+},
+{
+	"City": "Bradgate",
+	"State": "IA",
+	"latitude": 42.8029,
+	"longitude": -94.4196
+},
+{
+	"City": "Grant",
+	"State": "IA",
+	"latitude": 41.1427,
+	"longitude": -94.985
+},
+{
+	"City": "Gruver",
+	"State": "IA",
+	"latitude": 43.3931,
+	"longitude": -94.7036
+},
+{
+	"City": "Rochester",
+	"State": "IA",
+	"latitude": 41.6747,
+	"longitude": -91.1509
+},
+{
+	"City": "Cylinder",
+	"State": "IA",
+	"latitude": 43.0897,
+	"longitude": -94.5512
+},
+{
+	"City": "High Amana",
+	"State": "IA",
+	"latitude": 41.8011,
+	"longitude": -91.9419
+},
+{
+	"City": "Graf",
+	"State": "IA",
+	"latitude": 42.4939,
+	"longitude": -90.8735
+},
+{
+	"City": "Nemaha",
+	"State": "IA",
+	"latitude": 42.515,
+	"longitude": -95.0889
+},
+{
+	"City": "Chatsworth",
+	"State": "IA",
+	"latitude": 42.9163,
+	"longitude": -96.5144
+},
+{
+	"City": "Douds",
+	"State": "IA",
+	"latitude": 40.8438,
+	"longitude": -92.0764
+},
+{
+	"City": "Struble",
+	"State": "IA",
+	"latitude": 42.8945,
+	"longitude": -96.1946
+},
+{
+	"City": "Hartwick",
+	"State": "IA",
+	"latitude": 41.7861,
+	"longitude": -92.3453
+},
+{
+	"City": "Redding",
+	"State": "IA",
+	"latitude": 40.6068,
+	"longitude": -94.3863
+},
+{
+	"City": "Watkins",
+	"State": "IA",
+	"latitude": 41.8932,
+	"longitude": -91.9849
+},
+{
+	"City": "Spragueville",
+	"State": "IA",
+	"latitude": 42.0715,
+	"longitude": -90.4328
+},
+{
+	"City": "Truesdale",
+	"State": "IA",
+	"latitude": 42.7292,
+	"longitude": -95.1835
+},
+{
+	"City": "Climbing Hill",
+	"State": "IA",
+	"latitude": 42.3394,
+	"longitude": -96.081
+},
+{
+	"City": "Popejoy",
+	"State": "IA",
+	"latitude": 42.5938,
+	"longitude": -93.4278
+},
+{
+	"City": "Swan",
+	"State": "IA",
+	"latitude": 41.4675,
+	"longitude": -93.3096
+},
+{
+	"City": "Clio",
+	"State": "IA",
+	"latitude": 40.636,
+	"longitude": -93.4514
+},
+{
+	"City": "Ralston",
+	"State": "IA",
+	"latitude": 42.0418,
+	"longitude": -94.6293
+},
+{
+	"City": "Kinross",
+	"State": "IA",
+	"latitude": 41.4589,
+	"longitude": -91.9873
+},
+{
+	"City": "Orchard",
+	"State": "IA",
+	"latitude": 43.2273,
+	"longitude": -92.7751
+},
+{
+	"City": "Webster",
+	"State": "IA",
+	"latitude": 41.4379,
+	"longitude": -92.1715
+},
+{
+	"City": "Colwell",
+	"State": "IA",
+	"latitude": 43.1577,
+	"longitude": -92.5911
+},
+{
+	"City": "Imogene",
+	"State": "IA",
+	"latitude": 40.879,
+	"longitude": -95.4275
+},
+{
+	"City": "Bevington",
+	"State": "IA",
+	"latitude": 41.3596,
+	"longitude": -93.7904
+},
+{
+	"City": "Shannon City",
+	"State": "IA",
+	"latitude": 40.8992,
+	"longitude": -94.2639
+},
+{
+	"City": "Aredale",
+	"State": "IA",
+	"latitude": 42.8332,
+	"longitude": -93.0054
+},
+{
+	"City": "Balltown",
+	"State": "IA",
+	"latitude": 42.6371,
+	"longitude": -90.87
+},
+{
+	"City": "Marysville",
+	"State": "IA",
+	"latitude": 41.1827,
+	"longitude": -92.9537
+},
+{
+	"City": "Plover",
+	"State": "IA",
+	"latitude": 42.8767,
+	"longitude": -94.6222
+},
+{
+	"City": "Dana",
+	"State": "IA",
+	"latitude": 42.1071,
+	"longitude": -94.2383
+},
+{
+	"City": "Rossie",
+	"State": "IA",
+	"latitude": 43.0137,
+	"longitude": -95.1886
+},
+{
+	"City": "Greenville",
+	"State": "IA",
+	"latitude": 43.017,
+	"longitude": -95.1461
+},
+{
+	"City": "Scarville",
+	"State": "IA",
+	"latitude": 43.471,
+	"longitude": -93.6166
+},
+{
+	"City": "Plano",
+	"State": "IA",
+	"latitude": 40.7554,
+	"longitude": -93.0469
+},
+{
+	"City": "Bradford",
+	"State": "IA",
+	"latitude": 42.637,
+	"longitude": -93.2485
+},
+{
+	"City": "Bentley",
+	"State": "IA",
+	"latitude": 41.3756,
+	"longitude": -95.6225
+},
+{
+	"City": "Varina",
+	"State": "IA",
+	"latitude": 42.6582,
+	"longitude": -94.8977
+},
+{
+	"City": "Spring Hill",
+	"State": "IA",
+	"latitude": 41.4122,
+	"longitude": -93.65
+},
+{
+	"City": "Bassett",
+	"State": "IA",
+	"latitude": 43.0615,
+	"longitude": -92.5153
+},
+{
+	"City": "Turin",
+	"State": "IA",
+	"latitude": 42.0208,
+	"longitude": -95.966
+},
+{
+	"City": "Thornburg",
+	"State": "IA",
+	"latitude": 41.4554,
+	"longitude": -92.3328
+},
+{
+	"City": "Tennant",
+	"State": "IA",
+	"latitude": 41.5941,
+	"longitude": -95.4449
+},
+{
+	"City": "Kirkman",
+	"State": "IA",
+	"latitude": 41.7281,
+	"longitude": -95.2673
+},
+{
+	"City": "Gibson",
+	"State": "IA",
+	"latitude": 41.4803,
+	"longitude": -92.3922
+},
+{
+	"City": "Guernsey",
+	"State": "IA",
+	"latitude": 41.6492,
+	"longitude": -92.343
+},
+{
+	"City": "Valeria",
+	"State": "IA",
+	"latitude": 41.7298,
+	"longitude": -93.3256
+},
+{
+	"City": "Dolliver",
+	"State": "IA",
+	"latitude": 43.4638,
+	"longitude": -94.6143
+},
+{
+	"City": "Knierim",
+	"State": "IA",
+	"latitude": 42.4561,
+	"longitude": -94.4559
+},
+{
+	"City": "Rodney",
+	"State": "IA",
+	"latitude": 42.2048,
+	"longitude": -95.9508
+},
+{
+	"City": "Dougherty",
+	"State": "IA",
+	"latitude": 42.922,
+	"longitude": -93.0359
+},
+{
+	"City": "Gray",
+	"State": "IA",
+	"latitude": 41.8418,
+	"longitude": -94.9859
+},
+{
+	"City": "Randalia",
+	"State": "IA",
+	"latitude": 42.8636,
+	"longitude": -91.8864
+},
+{
+	"City": "Northboro",
+	"State": "IA",
+	"latitude": 40.608,
+	"longitude": -95.2937
+},
+{
+	"City": "Osterdock",
+	"State": "IA",
+	"latitude": 42.7313,
+	"longitude": -91.1579
+},
+{
+	"City": "Thayer",
+	"State": "IA",
+	"latitude": 41.029,
+	"longitude": -94.0497
+},
+{
+	"City": "Curlew",
+	"State": "IA",
+	"latitude": 42.9795,
+	"longitude": -94.7377
+},
+{
+	"City": "California Junction",
+	"State": "IA",
+	"latitude": 41.5601,
+	"longitude": -95.9947
+},
+{
+	"City": "Weston",
+	"State": "IA",
+	"latitude": 41.342,
+	"longitude": -95.7448
+},
+{
+	"City": "Jackson Junction",
+	"State": "IA",
+	"latitude": 43.1014,
+	"longitude": -92.0463
+},
+{
+	"City": "Sandyville",
+	"State": "IA",
+	"latitude": 41.3709,
+	"longitude": -93.3862
+},
+{
+	"City": "Rinard",
+	"State": "IA",
+	"latitude": 42.3396,
+	"longitude": -94.485
+},
+{
+	"City": "Beaver",
+	"State": "IA",
+	"latitude": 42.0383,
+	"longitude": -94.14
+},
+{
+	"City": "Hayesville",
+	"State": "IA",
+	"latitude": 41.2646,
+	"longitude": -92.2477
+},
+{
+	"City": "River Sioux",
+	"State": "IA",
+	"latitude": 41.8024,
+	"longitude": -96.0479
+},
+{
+	"City": "Vining",
+	"State": "IA",
+	"latitude": 41.991,
+	"longitude": -92.3876
+},
+{
+	"City": "Coppock",
+	"State": "IA",
+	"latitude": 41.1635,
+	"longitude": -91.7151
+},
+{
+	"City": "Gillett Grove",
+	"State": "IA",
+	"latitude": 43.0166,
+	"longitude": -95.0365
+},
+{
+	"City": "Cotter",
+	"State": "IA",
+	"latitude": 41.294,
+	"longitude": -91.4658
+},
+{
+	"City": "Pleasanton",
+	"State": "IA",
+	"latitude": 40.5825,
+	"longitude": -93.743
+},
+{
+	"City": "Udell",
+	"State": "IA",
+	"latitude": 40.7801,
+	"longitude": -92.7427
+},
+{
+	"City": "Anderson",
+	"State": "IA",
+	"latitude": 40.7983,
+	"longitude": -95.6086
+},
+{
+	"City": "Owasa",
+	"State": "IA",
+	"latitude": 42.4319,
+	"longitude": -93.2047
+},
+{
+	"City": "Millerton",
+	"State": "IA",
+	"latitude": 40.8494,
+	"longitude": -93.3057
+},
+{
+	"City": "Hardy",
+	"State": "IA",
+	"latitude": 42.8101,
+	"longitude": -94.0512
+},
+{
+	"City": "Little Cedar",
+	"State": "IA",
+	"latitude": 43.3698,
+	"longitude": -92.7236
+},
+{
+	"City": "Buck Grove",
+	"State": "IA",
+	"latitude": 41.9178,
+	"longitude": -95.3951
+},
+{
+	"City": "Rodman",
+	"State": "IA",
+	"latitude": 43.0266,
+	"longitude": -94.5272
+},
+{
+	"City": "Benton",
+	"State": "IA",
+	"latitude": 40.7041,
+	"longitude": -94.3612
+},
+{
+	"City": "Toeterville",
+	"State": "IA",
+	"latitude": 43.4401,
+	"longitude": -92.8879
+},
+{
+	"City": "Conway",
+	"State": "IA",
+	"latitude": 40.7492,
+	"longitude": -94.62
+},
+{
+	"City": "Ellston",
+	"State": "IA",
+	"latitude": 40.8405,
+	"longitude": -94.1088
+},
+{
+	"City": "Clayton",
+	"State": "IA",
+	"latitude": 42.9033,
+	"longitude": -91.1505
+},
+{
+	"City": "Aspinwall",
+	"State": "IA",
+	"latitude": 41.9105,
+	"longitude": -95.135
+},
+{
+	"City": "Coburg",
+	"State": "IA",
+	"latitude": 40.9188,
+	"longitude": -95.2656
+},
+{
+	"City": "Leando",
+	"State": "IA",
+	"latitude": 40.8221,
+	"longitude": -92.0805
+},
+{
+	"City": "Ottosen",
+	"State": "IA",
+	"latitude": 42.898,
+	"longitude": -94.3756
+},
+{
+	"City": "Jolley",
+	"State": "IA",
+	"latitude": 42.4794,
+	"longitude": -94.7182
+},
+{
+	"City": "Blanchard",
+	"State": "IA",
+	"latitude": 40.5808,
+	"longitude": -95.2215
+},
+{
+	"City": "Elkport",
+	"State": "IA",
+	"latitude": 42.7411,
+	"longitude": -91.2751
+},
+{
+	"City": "Frytown",
+	"State": "IA",
+	"latitude": 41.5719,
+	"longitude": -91.7321
+},
+{
+	"City": "Berkley",
+	"State": "IA",
+	"latitude": 41.9465,
+	"longitude": -94.1136
+},
+{
+	"City": "Yetter",
+	"State": "IA",
+	"latitude": 42.3161,
+	"longitude": -94.8432
+},
+{
+	"City": "Galt",
+	"State": "IA",
+	"latitude": 42.693,
+	"longitude": -93.6051
+},
+{
+	"City": "East Amana",
+	"State": "IA",
+	"latitude": 41.8071,
+	"longitude": -91.8498
+},
+{
+	"City": "Carbon",
+	"State": "IA",
+	"latitude": 41.0497,
+	"longitude": -94.824
+},
+{
+	"City": "Portland",
+	"State": "IA",
+	"latitude": 43.1276,
+	"longitude": -93.1271
+},
+{
+	"City": "Miller",
+	"State": "IA",
+	"latitude": 43.1864,
+	"longitude": -93.6076
+},
+{
+	"City": "Hutchins",
+	"State": "IA",
+	"latitude": 43.0878,
+	"longitude": -93.8865
+},
+{
+	"City": "Maloy",
+	"State": "IA",
+	"latitude": 40.6732,
+	"longitude": -94.4119
+},
+{
+	"City": "Corley",
+	"State": "IA",
+	"latitude": 41.5776,
+	"longitude": -95.3308
+},
+{
+	"City": "Bankston",
+	"State": "IA",
+	"latitude": 42.5074,
+	"longitude": -90.9613
+},
+{
+	"City": "Delphos",
+	"State": "IA",
+	"latitude": 40.6632,
+	"longitude": -94.3403
+},
+{
+	"City": "Mount Sterling",
+	"State": "IA",
+	"latitude": 40.6198,
+	"longitude": -91.9326
+},
+{
+	"City": "Kent",
+	"State": "IA",
+	"latitude": 40.9536,
+	"longitude": -94.4611
+},
+{
+	"City": "St. Benedict",
+	"State": "IA",
+	"latitude": 43.044,
+	"longitude": -94.0609
+},
+{
+	"City": "Pioneer",
+	"State": "IA",
+	"latitude": 42.6535,
+	"longitude": -94.3909
+},
+{
+	"City": "Durango",
+	"State": "IA",
+	"latitude": 42.561,
+	"longitude": -90.7743
+},
+{
+	"City": "Hepburn",
+	"State": "IA",
+	"latitude": 40.8476,
+	"longitude": -95.0167
+},
+{
+	"City": "Irvington",
+	"State": "IA",
+	"latitude": 43.0136,
+	"longitude": -94.196
+},
+{
+	"City": "Burchinal",
+	"State": "IA",
+	"latitude": 43.0648,
+	"longitude": -93.2785
+},
+{
+	"City": "Beaconsfield",
+	"State": "IA",
+	"latitude": 40.8076,
+	"longitude": -94.0507
+},
+{
+	"City": "Le Roy",
+	"State": "IA",
+	"latitude": 40.8784,
+	"longitude": -93.5924
+},
+{
+	"City": "Bartlett",
+	"State": "IA",
+	"latitude": 40.8853,
+	"longitude": -95.7947
+},
+{
+	"City": "Meyer",
+	"State": "IA",
+	"latitude": 43.4618,
+	"longitude": -92.7011
+},
+{
+	"City": "Jacksonville",
+	"State": "IA",
+	"latitude": 41.6452,
+	"longitude": -95.1516
+},
+{
+	"City": "Bolan",
+	"State": "IA",
+	"latitude": 43.3735,
+	"longitude": -93.1085
+},
+{
+	"City": "Athelstan",
+	"State": "IA",
+	"latitude": 40.5727,
+	"longitude": -94.5426
+}]

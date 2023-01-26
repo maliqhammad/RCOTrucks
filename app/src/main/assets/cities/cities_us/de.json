@@ -1,0 +1,463 @@
+[
+{
+	"City": "Dover",
+	"State": "DE",
+	"latitude": 39.161,
+	"longitude": -75.5203
+},
+{
+	"City": "Wilmington",
+	"State": "DE",
+	"latitude": 39.7415,
+	"longitude": -75.5413
+},
+{
+	"City": "Middletown",
+	"State": "DE",
+	"latitude": 39.4453,
+	"longitude": -75.7166
+},
+{
+	"City": "Newark",
+	"State": "DE",
+	"latitude": 39.6776,
+	"longitude": -75.7573
+},
+{
+	"City": "Lewes",
+	"State": "DE",
+	"latitude": 38.7777,
+	"longitude": -75.1448
+},
+{
+	"City": "Milford",
+	"State": "DE",
+	"latitude": 38.9091,
+	"longitude": -75.4224
+},
+{
+	"City": "Bear",
+	"State": "DE",
+	"latitude": 39.6188,
+	"longitude": -75.6804
+},
+{
+	"City": "Ocean View",
+	"State": "DE",
+	"latitude": 38.5355,
+	"longitude": -75.0984
+},
+{
+	"City": "Glasgow",
+	"State": "DE",
+	"latitude": 39.6015,
+	"longitude": -75.7474
+},
+{
+	"City": "Brookside",
+	"State": "DE",
+	"latitude": 39.6666,
+	"longitude": -75.7153
+},
+{
+	"City": "Hockessin",
+	"State": "DE",
+	"latitude": 39.7837,
+	"longitude": -75.6815
+},
+{
+	"City": "Smyrna",
+	"State": "DE",
+	"latitude": 39.2936,
+	"longitude": -75.6083
+},
+{
+	"City": "Pike Creek Valley",
+	"State": "DE",
+	"latitude": 39.7296,
+	"longitude": -75.6993
+},
+{
+	"City": "Millsboro",
+	"State": "DE",
+	"latitude": 38.593,
+	"longitude": -75.3118
+},
+{
+	"City": "Georgetown",
+	"State": "DE",
+	"latitude": 38.6894,
+	"longitude": -75.3872
+},
+{
+	"City": "Claymont",
+	"State": "DE",
+	"latitude": 39.8032,
+	"longitude": -75.4606
+},
+{
+	"City": "Seaford",
+	"State": "DE",
+	"latitude": 38.6538,
+	"longitude": -75.611
+},
+{
+	"City": "Wilmington Manor",
+	"State": "DE",
+	"latitude": 39.6858,
+	"longitude": -75.5849
+},
+{
+	"City": "Pike Creek",
+	"State": "DE",
+	"latitude": 39.7485,
+	"longitude": -75.6953
+},
+{
+	"City": "North Star",
+	"State": "DE",
+	"latitude": 39.755,
+	"longitude": -75.7331
+},
+{
+	"City": "Edgemoor",
+	"State": "DE",
+	"latitude": 39.7551,
+	"longitude": -75.507
+},
+{
+	"City": "Elsmere",
+	"State": "DE",
+	"latitude": 39.7385,
+	"longitude": -75.5946
+},
+{
+	"City": "New Castle",
+	"State": "DE",
+	"latitude": 39.6685,
+	"longitude": -75.5692
+},
+{
+	"City": "Harrington",
+	"State": "DE",
+	"latitude": 38.9244,
+	"longitude": -75.5707
+},
+{
+	"City": "Laurel",
+	"State": "DE",
+	"latitude": 38.5692,
+	"longitude": -75.5689
+},
+{
+	"City": "Rising Sun-Lebanon",
+	"State": "DE",
+	"latitude": 39.0999,
+	"longitude": -75.5047
+},
+{
+	"City": "Bridgeville",
+	"State": "DE",
+	"latitude": 38.7251,
+	"longitude": -75.6029
+},
+{
+	"City": "Dover Base Housing",
+	"State": "DE",
+	"latitude": 39.1179,
+	"longitude": -75.4838
+},
+{
+	"City": "Camden",
+	"State": "DE",
+	"latitude": 39.0991,
+	"longitude": -75.557
+},
+{
+	"City": "Clayton",
+	"State": "DE",
+	"latitude": 39.2846,
+	"longitude": -75.6364
+},
+{
+	"City": "Highland Acres",
+	"State": "DE",
+	"latitude": 39.1162,
+	"longitude": -75.5216
+},
+{
+	"City": "Milton",
+	"State": "DE",
+	"latitude": 38.7751,
+	"longitude": -75.3104
+},
+{
+	"City": "Townsend",
+	"State": "DE",
+	"latitude": 39.3968,
+	"longitude": -75.6945
+},
+{
+	"City": "Selbyville",
+	"State": "DE",
+	"latitude": 38.4631,
+	"longitude": -75.2115
+},
+{
+	"City": "Kent Acres",
+	"State": "DE",
+	"latitude": 39.1325,
+	"longitude": -75.5161
+},
+{
+	"City": "Long Neck",
+	"State": "DE",
+	"latitude": 38.62,
+	"longitude": -75.1511
+},
+{
+	"City": "Greenville",
+	"State": "DE",
+	"latitude": 39.7783,
+	"longitude": -75.6049
+},
+{
+	"City": "Woodside East",
+	"State": "DE",
+	"latitude": 39.0676,
+	"longitude": -75.5376
+},
+{
+	"City": "Riverview",
+	"State": "DE",
+	"latitude": 39.0293,
+	"longitude": -75.5202
+},
+{
+	"City": "Delaware City",
+	"State": "DE",
+	"latitude": 39.5743,
+	"longitude": -75.5939
+},
+{
+	"City": "Delmar",
+	"State": "DE",
+	"latitude": 38.465,
+	"longitude": -75.5552
+},
+{
+	"City": "Cheswold",
+	"State": "DE",
+	"latitude": 39.2189,
+	"longitude": -75.5883
+},
+{
+	"City": "Wyoming",
+	"State": "DE",
+	"latitude": 39.1147,
+	"longitude": -75.5631
+},
+{
+	"City": "Rehoboth Beach",
+	"State": "DE",
+	"latitude": 38.7171,
+	"longitude": -75.0845
+},
+{
+	"City": "Blades",
+	"State": "DE",
+	"latitude": 38.6353,
+	"longitude": -75.6022
+},
+{
+	"City": "Felton",
+	"State": "DE",
+	"latitude": 39.0127,
+	"longitude": -75.5764
+},
+{
+	"City": "Rodney Village",
+	"State": "DE",
+	"latitude": 39.1284,
+	"longitude": -75.5396
+},
+{
+	"City": "Bethany Beach",
+	"State": "DE",
+	"latitude": 38.5391,
+	"longitude": -75.066
+},
+{
+	"City": "Bellefonte",
+	"State": "DE",
+	"latitude": 39.7669,
+	"longitude": -75.4982
+},
+{
+	"City": "Greenwood",
+	"State": "DE",
+	"latitude": 38.8066,
+	"longitude": -75.5897
+},
+{
+	"City": "Newport",
+	"State": "DE",
+	"latitude": 39.7136,
+	"longitude": -75.6052
+},
+{
+	"City": "Frankford",
+	"State": "DE",
+	"latitude": 38.5215,
+	"longitude": -75.2342
+},
+{
+	"City": "Dagsboro",
+	"State": "DE",
+	"latitude": 38.5464,
+	"longitude": -75.2461
+},
+{
+	"City": "Frederica",
+	"State": "DE",
+	"latitude": 39.008,
+	"longitude": -75.4667
+},
+{
+	"City": "St. Georges",
+	"State": "DE",
+	"latitude": 39.5577,
+	"longitude": -75.6533
+},
+{
+	"City": "Millville",
+	"State": "DE",
+	"latitude": 38.5356,
+	"longitude": -75.1284
+},
+{
+	"City": "South Bethany",
+	"State": "DE",
+	"latitude": 38.516,
+	"longitude": -75.0589
+},
+{
+	"City": "Fenwick Island",
+	"State": "DE",
+	"latitude": 38.4604,
+	"longitude": -75.0542
+},
+{
+	"City": "Arden",
+	"State": "DE",
+	"latitude": 39.8113,
+	"longitude": -75.4886
+},
+{
+	"City": "Ellendale",
+	"State": "DE",
+	"latitude": 38.8102,
+	"longitude": -75.425
+},
+{
+	"City": "Houston",
+	"State": "DE",
+	"latitude": 38.9174,
+	"longitude": -75.5039
+},
+{
+	"City": "Dewey Beach",
+	"State": "DE",
+	"latitude": 38.6958,
+	"longitude": -75.0749
+},
+{
+	"City": "Bowers",
+	"State": "DE",
+	"latitude": 39.0602,
+	"longitude": -75.4021
+},
+{
+	"City": "Odessa",
+	"State": "DE",
+	"latitude": 39.4562,
+	"longitude": -75.6605
+},
+{
+	"City": "Magnolia",
+	"State": "DE",
+	"latitude": 39.0714,
+	"longitude": -75.476
+},
+{
+	"City": "Kenton",
+	"State": "DE",
+	"latitude": 39.2272,
+	"longitude": -75.6646
+},
+{
+	"City": "Ardentown",
+	"State": "DE",
+	"latitude": 39.8081,
+	"longitude": -75.4807
+},
+{
+	"City": "Slaughter Beach",
+	"State": "DE",
+	"latitude": 38.915,
+	"longitude": -75.309
+},
+{
+	"City": "Little Creek",
+	"State": "DE",
+	"latitude": 39.1664,
+	"longitude": -75.4483
+},
+{
+	"City": "Ardencroft",
+	"State": "DE",
+	"latitude": 39.8056,
+	"longitude": -75.4862
+},
+{
+	"City": "Leipsic",
+	"State": "DE",
+	"latitude": 39.243,
+	"longitude": -75.5155
+},
+{
+	"City": "Bethel",
+	"State": "DE",
+	"latitude": 38.571,
+	"longitude": -75.6196
+},
+{
+	"City": "Woodside",
+	"State": "DE",
+	"latitude": 39.0712,
+	"longitude": -75.5667
+},
+{
+	"City": "Viola",
+	"State": "DE",
+	"latitude": 39.0429,
+	"longitude": -75.5714
+},
+{
+	"City": "Henlopen Acres",
+	"State": "DE",
+	"latitude": 38.7257,
+	"longitude": -75.0849
+},
+{
+	"City": "Farmington",
+	"State": "DE",
+	"latitude": 38.8699,
+	"longitude": -75.579
+},
+{
+	"City": "Hartly",
+	"State": "DE",
+	"latitude": 39.1684,
+	"longitude": -75.7127
+}]

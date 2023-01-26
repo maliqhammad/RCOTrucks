@@ -1,0 +1,739 @@
+[
+{
+	"City": "Moncton",
+	"State": "NB",
+	"latitude": 46.1328,
+	"longitude": -64.7714
+},
+{
+	"City": "Dieppe",
+	"State": "NB",
+	"latitude": 46.0989,
+	"longitude": -64.7242
+},
+{
+	"City": "Saint John",
+	"State": "NB",
+	"latitude": 45.2806,
+	"longitude": -66.0761
+},
+{
+	"City": "Fredericton",
+	"State": "NB",
+	"latitude": 45.9636,
+	"longitude": -66.6431
+},
+{
+	"City": "Riverview",
+	"State": "NB",
+	"latitude": 46.0613,
+	"longitude": -64.8052
+},
+{
+	"City": "Quispamsis",
+	"State": "NB",
+	"latitude": 45.4322,
+	"longitude": -65.9462
+},
+{
+	"City": "Bathurst",
+	"State": "NB",
+	"latitude": 47.62,
+	"longitude": -65.65
+},
+{
+	"City": "Miramichi",
+	"State": "NB",
+	"latitude": 47.0196,
+	"longitude": -65.5072
+},
+{
+	"City": "Edmundston",
+	"State": "NB",
+	"latitude": 47.3765,
+	"longitude": -68.3253
+},
+{
+	"City": "Tracadie",
+	"State": "NB",
+	"latitude": 47.5124,
+	"longitude": -64.9101
+},
+{
+	"City": "Rothesay",
+	"State": "NB",
+	"latitude": 45.3831,
+	"longitude": -65.9969
+},
+{
+	"City": "Campbellton",
+	"State": "NB",
+	"latitude": 48.005,
+	"longitude": -66.6731
+},
+{
+	"City": "Oromocto",
+	"State": "NB",
+	"latitude": 45.8488,
+	"longitude": -66.4788
+},
+{
+	"City": "Shediac",
+	"State": "NB",
+	"latitude": 46.2167,
+	"longitude": -64.5333
+},
+{
+	"City": "Beaubassin East / Beaubassin-est",
+	"State": "NB",
+	"latitude": 46.1726,
+	"longitude": -64.3122
+},
+{
+	"City": "Beresford",
+	"State": "NB",
+	"latitude": 47.7181,
+	"longitude": -65.8794
+},
+{
+	"City": "Douglas",
+	"State": "NB",
+	"latitude": 46.2819,
+	"longitude": -66.942
+},
+{
+	"City": "Sackville",
+	"State": "NB",
+	"latitude": 45.9,
+	"longitude": -64.3667
+},
+{
+	"City": "Grand Falls",
+	"State": "NB",
+	"latitude": 47.0344,
+	"longitude": -67.7394
+},
+{
+	"City": "Woodstock",
+	"State": "NB",
+	"latitude": 46.1522,
+	"longitude": -67.5983
+},
+{
+	"City": "Burton",
+	"State": "NB",
+	"latitude": 45.8009,
+	"longitude": -66.4066
+},
+{
+	"City": "Grand Bay-Westfield",
+	"State": "NB",
+	"latitude": 45.3608,
+	"longitude": -66.2415
+},
+{
+	"City": "Saint Marys",
+	"State": "NB",
+	"latitude": 46.1748,
+	"longitude": -66.4897
+},
+{
+	"City": "Shippagan",
+	"State": "NB",
+	"latitude": 47.8557,
+	"longitude": -64.6012
+},
+{
+	"City": "Memramcook",
+	"State": "NB",
+	"latitude": 46,
+	"longitude": -64.55
+},
+{
+	"City": "Hanwell",
+	"State": "NB",
+	"latitude": 45.8681,
+	"longitude": -66.7947
+},
+{
+	"City": "Coverdale",
+	"State": "NB",
+	"latitude": 46.0003,
+	"longitude": -64.8859
+},
+{
+	"City": "Saint Stephen",
+	"State": "NB",
+	"latitude": 45.2,
+	"longitude": -67.2833
+},
+{
+	"City": "Hampton",
+	"State": "NB",
+	"latitude": 45.533,
+	"longitude": -65.833
+},
+{
+	"City": "Sussex",
+	"State": "NB",
+	"latitude": 45.7167,
+	"longitude": -65.5167
+},
+{
+	"City": "Caraquet",
+	"State": "NB",
+	"latitude": 47.7853,
+	"longitude": -64.9592
+},
+{
+	"City": "New Maryland",
+	"State": "NB",
+	"latitude": 45.8911,
+	"longitude": -66.6847
+},
+{
+	"City": "Dundas",
+	"State": "NB",
+	"latitude": 46.3155,
+	"longitude": -64.6947
+},
+{
+	"City": "Simonds",
+	"State": "NB",
+	"latitude": 45.3145,
+	"longitude": -65.803
+},
+{
+	"City": "Alnwick",
+	"State": "NB",
+	"latitude": 47.2656,
+	"longitude": -65.2292
+},
+{
+	"City": "Atholville",
+	"State": "NB",
+	"latitude": 47.9894,
+	"longitude": -66.7125
+},
+{
+	"City": "Studholm",
+	"State": "NB",
+	"latitude": 45.8133,
+	"longitude": -65.5747
+},
+{
+	"City": "Salisbury",
+	"State": "NB",
+	"latitude": 46.0776,
+	"longitude": -65.1996
+},
+{
+	"City": "Bright",
+	"State": "NB",
+	"latitude": 46.1205,
+	"longitude": -67.0545
+},
+{
+	"City": "Dalhousie",
+	"State": "NB",
+	"latitude": 48.1,
+	"longitude": -66.6167
+},
+{
+	"City": "Wellington",
+	"State": "NB",
+	"latitude": 46.4768,
+	"longitude": -64.7478
+},
+{
+	"City": "Kingston",
+	"State": "NB",
+	"latitude": 45.4663,
+	"longitude": -66.0217
+},
+{
+	"City": "Kingsclear",
+	"State": "NB",
+	"latitude": 45.8796,
+	"longitude": -66.8695
+},
+{
+	"City": "Wakefield",
+	"State": "NB",
+	"latitude": 46.2406,
+	"longitude": -67.6248
+},
+{
+	"City": "Cocagne",
+	"State": "NB",
+	"latitude": 46.3406,
+	"longitude": -64.62
+},
+{
+	"City": "Shippegan",
+	"State": "NB",
+	"latitude": 47.7439,
+	"longitude": -64.7178
+},
+{
+	"City": "Lincoln",
+	"State": "NB",
+	"latitude": 45.8716,
+	"longitude": -66.5437
+},
+{
+	"City": "Cap Pele",
+	"State": "NB",
+	"latitude": 46.2172,
+	"longitude": -64.2822
+},
+{
+	"City": "Buctouche",
+	"State": "NB",
+	"latitude": 46.4719,
+	"longitude": -64.7249
+},
+{
+	"City": "Grand Manan",
+	"State": "NB",
+	"latitude": 44.69,
+	"longitude": -66.82
+},
+{
+	"City": "Saint George",
+	"State": "NB",
+	"latitude": 45.2916,
+	"longitude": -66.8501
+},
+{
+	"City": "Paquetville",
+	"State": "NB",
+	"latitude": 47.6334,
+	"longitude": -65.1803
+},
+{
+	"City": "Minto",
+	"State": "NB",
+	"latitude": 46.1497,
+	"longitude": -66.1067
+},
+{
+	"City": "Northesk",
+	"State": "NB",
+	"latitude": 47.2569,
+	"longitude": -66.2613
+},
+{
+	"City": "Upper Miramichi",
+	"State": "NB",
+	"latitude": 46.5254,
+	"longitude": -66.2085
+},
+{
+	"City": "Hardwicke",
+	"State": "NB",
+	"latitude": 47.0208,
+	"longitude": -65.0302
+},
+{
+	"City": "Saint-Quentin",
+	"State": "NB",
+	"latitude": 47.5135,
+	"longitude": -67.3921
+},
+{
+	"City": "Pennfield Ridge",
+	"State": "NB",
+	"latitude": 45.1924,
+	"longitude": -66.6858
+},
+{
+	"City": "Kent",
+	"State": "NB",
+	"latitude": 46.6221,
+	"longitude": -67.2953
+},
+{
+	"City": "Allardville",
+	"State": "NB",
+	"latitude": 47.4321,
+	"longitude": -65.4383
+},
+{
+	"City": "Saint-Charles",
+	"State": "NB",
+	"latitude": 46.6692,
+	"longitude": -65.0184
+},
+{
+	"City": "Kedgwick",
+	"State": "NB",
+	"latitude": 47.6456,
+	"longitude": -67.3431
+},
+{
+	"City": "Saint Mary",
+	"State": "NB",
+	"latitude": 46.3987,
+	"longitude": -64.8681
+},
+{
+	"City": "Westfield Beach",
+	"State": "NB",
+	"latitude": 45.3432,
+	"longitude": -66.2868
+},
+{
+	"City": "Eel River Crossing",
+	"State": "NB",
+	"latitude": 48.0125,
+	"longitude": -66.4208
+},
+{
+	"City": "Petit Rocher",
+	"State": "NB",
+	"latitude": 47.7839,
+	"longitude": -65.7159
+},
+{
+	"City": "Richibucto",
+	"State": "NB",
+	"latitude": 46.6189,
+	"longitude": -64.8385
+},
+{
+	"City": "Maugerville",
+	"State": "NB",
+	"latitude": 46.1301,
+	"longitude": -66.2859
+},
+{
+	"City": "Saint-Louis",
+	"State": "NB",
+	"latitude": 46.7048,
+	"longitude": -65.1046
+},
+{
+	"City": "Saint Andrews",
+	"State": "NB",
+	"latitude": 45.074,
+	"longitude": -67.0521
+},
+{
+	"City": "Manners Sutton",
+	"State": "NB",
+	"latitude": 45.6417,
+	"longitude": -67.0609
+},
+{
+	"City": "Brighton",
+	"State": "NB",
+	"latitude": 46.3316,
+	"longitude": -67.3585
+},
+{
+	"City": "Saint-Antoine",
+	"State": "NB",
+	"latitude": 46.3629,
+	"longitude": -64.753
+},
+{
+	"City": "Northampton",
+	"State": "NB",
+	"latitude": 46.1313,
+	"longitude": -67.4713
+},
+{
+	"City": "Wicklow",
+	"State": "NB",
+	"latitude": 46.5017,
+	"longitude": -67.7067
+},
+{
+	"City": "Southesk",
+	"State": "NB",
+	"latitude": 46.9901,
+	"longitude": -66.4336
+},
+{
+	"City": "Neguac",
+	"State": "NB",
+	"latitude": 47.2333,
+	"longitude": -65.05
+},
+{
+	"City": "Balmoral",
+	"State": "NB",
+	"latitude": 47.9667,
+	"longitude": -66.45
+},
+{
+	"City": "Florenceville",
+	"State": "NB",
+	"latitude": 46.4435,
+	"longitude": -67.6152
+},
+{
+	"City": "Saint-Jacques",
+	"State": "NB",
+	"latitude": 47.5634,
+	"longitude": -68.3693
+},
+{
+	"City": "Perth",
+	"State": "NB",
+	"latitude": 46.7393,
+	"longitude": -67.6984
+},
+{
+	"City": "Glenelg",
+	"State": "NB",
+	"latitude": 46.9455,
+	"longitude": -65.2893
+},
+{
+	"City": "Belledune",
+	"State": "NB",
+	"latitude": 47.9,
+	"longitude": -65.8167
+},
+{
+	"City": "Saint-Joseph",
+	"State": "NB",
+	"latitude": 47.558,
+	"longitude": -68.3082
+},
+{
+	"City": "Saint David",
+	"State": "NB",
+	"latitude": 45.2918,
+	"longitude": -67.1983
+},
+{
+	"City": "Springfield",
+	"State": "NB",
+	"latitude": 45.7005,
+	"longitude": -65.8079
+},
+{
+	"City": "St. George",
+	"State": "NB",
+	"latitude": 45.1333,
+	"longitude": -66.8167
+},
+{
+	"City": "Gordon",
+	"State": "NB",
+	"latitude": 46.8363,
+	"longitude": -67.1913
+},
+{
+	"City": "Southampton",
+	"State": "NB",
+	"latitude": 46.0789,
+	"longitude": -67.3124
+},
+{
+	"City": "Nauwigewauk",
+	"State": "NB",
+	"latitude": 45.4812,
+	"longitude": -65.8738
+},
+{
+	"City": "Denmark",
+	"State": "NB",
+	"latitude": 47.1155,
+	"longitude": -67.4771
+},
+{
+	"City": "Sussex Corner",
+	"State": "NB",
+	"latitude": 45.7122,
+	"longitude": -65.4719
+},
+{
+	"City": "Petitcodiac",
+	"State": "NB",
+	"latitude": 45.9333,
+	"longitude": -65.1667
+},
+{
+	"City": "Norton",
+	"State": "NB",
+	"latitude": 45.6387,
+	"longitude": -65.6955
+},
+{
+	"City": "Bas Caraquet",
+	"State": "NB",
+	"latitude": 47.8,
+	"longitude": -64.8333
+},
+{
+	"City": "Cardwell",
+	"State": "NB",
+	"latitude": 45.7848,
+	"longitude": -65.3037
+},
+{
+	"City": "Weldford",
+	"State": "NB",
+	"latitude": 46.5221,
+	"longitude": -65.1114
+},
+{
+	"City": "Charlo",
+	"State": "NB",
+	"latitude": 48,
+	"longitude": -66.32
+},
+{
+	"City": "Hillsborough",
+	"State": "NB",
+	"latitude": 45.9052,
+	"longitude": -64.7652
+},
+{
+	"City": "Richmond",
+	"State": "NB",
+	"latitude": 46.0776,
+	"longitude": -67.7248
+},
+{
+	"City": "Saint-LÃ©onard",
+	"State": "NB",
+	"latitude": 47.1625,
+	"longitude": -67.925
+},
+{
+	"City": "LamÃ¨que",
+	"State": "NB",
+	"latitude": 47.7925,
+	"longitude": -64.6532
+},
+{
+	"City": "Upham",
+	"State": "NB",
+	"latitude": 45.5083,
+	"longitude": -65.6618
+},
+{
+	"City": "New Bandon",
+	"State": "NB",
+	"latitude": 47.6912,
+	"longitude": -65.29
+},
+{
+	"City": "Peel",
+	"State": "NB",
+	"latitude": 46.4058,
+	"longitude": -67.5278
+},
+{
+	"City": "Musquash",
+	"State": "NB",
+	"latitude": 45.1836,
+	"longitude": -66.3514
+},
+{
+	"City": "Saint James",
+	"State": "NB",
+	"latitude": 45.3822,
+	"longitude": -67.3427
+},
+{
+	"City": "Queensbury",
+	"State": "NB",
+	"latitude": 45.9918,
+	"longitude": -67.0632
+},
+{
+	"City": "Rogersville",
+	"State": "NB",
+	"latitude": 46.7167,
+	"longitude": -65.4167
+},
+{
+	"City": "McAdam",
+	"State": "NB",
+	"latitude": 45.5944,
+	"longitude": -67.3258
+},
+{
+	"City": "Bertrand",
+	"State": "NB",
+	"latitude": 47.7622,
+	"longitude": -65.0686
+},
+{
+	"City": "Newcastle",
+	"State": "NB",
+	"latitude": 47.1725,
+	"longitude": -65.5551
+},
+{
+	"City": "Saint Martins",
+	"State": "NB",
+	"latitude": 45.4563,
+	"longitude": -65.4395
+},
+{
+	"City": "Saint-AndrÃ©",
+	"State": "NB",
+	"latitude": 47.1392,
+	"longitude": -67.7444
+},
+{
+	"City": "Chipman",
+	"State": "NB",
+	"latitude": 46.171,
+	"longitude": -65.884
+},
+{
+	"City": "Dorchester",
+	"State": "NB",
+	"latitude": 45.9016,
+	"longitude": -64.5161
+},
+{
+	"City": "Durham",
+	"State": "NB",
+	"latitude": 47.7631,
+	"longitude": -66.0849
+},
+{
+	"City": "Havelock",
+	"State": "NB",
+	"latitude": 45.9523,
+	"longitude": -65.3885
+},
+{
+	"City": "Botsford",
+	"State": "NB",
+	"latitude": 46.1145,
+	"longitude": -63.9804
+},
+{
+	"City": "Greenwich",
+	"State": "NB",
+	"latitude": 45.5112,
+	"longitude": -66.1229
+},
+{
+	"City": "Noonan",
+	"State": "NB",
+	"latitude": 45.9544,
+	"longitude": -66.4868
+},
+{
+	"City": "Plaster Rock",
+	"State": "NB",
+	"latitude": 46.8833,
+	"longitude": -67.3833
+},
+{
+	"City": "Wilmot",
+	"State": "NB",
+	"latitude": 46.3463,
+	"longitude": -67.7099
+}]

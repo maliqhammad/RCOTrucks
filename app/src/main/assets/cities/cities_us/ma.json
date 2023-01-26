@@ -1,0 +1,835 @@
+[
+{
+	"City": "Boston",
+	"State": "MA",
+	"latitude": 42.3188,
+	"longitude": -71.0846
+},
+{
+	"City": "Springfield",
+	"State": "MA",
+	"latitude": 42.1155,
+	"longitude": -72.5395
+},
+{
+	"City": "Worcester",
+	"State": "MA",
+	"latitude": 42.2705,
+	"longitude": -71.8079
+},
+{
+	"City": "Barnstable",
+	"State": "MA",
+	"latitude": 41.6722,
+	"longitude": -70.3599
+},
+{
+	"City": "New Bedford",
+	"State": "MA",
+	"latitude": 41.6697,
+	"longitude": -70.9428
+},
+{
+	"City": "Leominster",
+	"State": "MA",
+	"latitude": 42.5209,
+	"longitude": -71.7717
+},
+{
+	"City": "Cambridge",
+	"State": "MA",
+	"latitude": 42.3759,
+	"longitude": -71.1185
+},
+{
+	"City": "Lowell",
+	"State": "MA",
+	"latitude": 42.6389,
+	"longitude": -71.3217
+},
+{
+	"City": "Brockton",
+	"State": "MA",
+	"latitude": 42.0821,
+	"longitude": -71.0242
+},
+{
+	"City": "Quincy",
+	"State": "MA",
+	"latitude": 42.2516,
+	"longitude": -71.0183
+},
+{
+	"City": "Lynn",
+	"State": "MA",
+	"latitude": 42.4779,
+	"longitude": -70.9663
+},
+{
+	"City": "Fall River",
+	"State": "MA",
+	"latitude": 41.7137,
+	"longitude": -71.1014
+},
+{
+	"City": "Newton",
+	"State": "MA",
+	"latitude": 42.3316,
+	"longitude": -71.2085
+},
+{
+	"City": "Somerville",
+	"State": "MA",
+	"latitude": 42.3908,
+	"longitude": -71.1013
+},
+{
+	"City": "Lawrence",
+	"State": "MA",
+	"latitude": 42.7003,
+	"longitude": -71.1626
+},
+{
+	"City": "Framingham",
+	"State": "MA",
+	"latitude": 42.3085,
+	"longitude": -71.4368
+},
+{
+	"City": "Haverhill",
+	"State": "MA",
+	"latitude": 42.7838,
+	"longitude": -71.0871
+},
+{
+	"City": "Waltham",
+	"State": "MA",
+	"latitude": 42.3889,
+	"longitude": -71.2423
+},
+{
+	"City": "Malden",
+	"State": "MA",
+	"latitude": 42.4305,
+	"longitude": -71.0576
+},
+{
+	"City": "Weymouth",
+	"State": "MA",
+	"latitude": 42.1984,
+	"longitude": -70.9466
+},
+{
+	"City": "Taunton",
+	"State": "MA",
+	"latitude": 41.9036,
+	"longitude": -71.0943
+},
+{
+	"City": "Medford",
+	"State": "MA",
+	"latitude": 42.4234,
+	"longitude": -71.1087
+},
+{
+	"City": "Pittsfield",
+	"State": "MA",
+	"latitude": 42.4517,
+	"longitude": -73.2605
+},
+{
+	"City": "Chicopee",
+	"State": "MA",
+	"latitude": 42.1764,
+	"longitude": -72.5719
+},
+{
+	"City": "Revere",
+	"State": "MA",
+	"latitude": 42.4192,
+	"longitude": -71.0036
+},
+{
+	"City": "Peabody",
+	"State": "MA",
+	"latitude": 42.5335,
+	"longitude": -70.9724
+},
+{
+	"City": "Methuen Town",
+	"State": "MA",
+	"latitude": 42.734,
+	"longitude": -71.1889
+},
+{
+	"City": "Everett",
+	"State": "MA",
+	"latitude": 42.4064,
+	"longitude": -71.0545
+},
+{
+	"City": "Attleboro",
+	"State": "MA",
+	"latitude": 41.9311,
+	"longitude": -71.295
+},
+{
+	"City": "Salem",
+	"State": "MA",
+	"latitude": 42.5129,
+	"longitude": -70.902
+},
+{
+	"City": "Beverly",
+	"State": "MA",
+	"latitude": 42.5681,
+	"longitude": -70.8627
+},
+{
+	"City": "Westfield",
+	"State": "MA",
+	"latitude": 42.1382,
+	"longitude": -72.7561
+},
+{
+	"City": "Fitchburg",
+	"State": "MA",
+	"latitude": 42.5912,
+	"longitude": -71.8156
+},
+{
+	"City": "Woburn",
+	"State": "MA",
+	"latitude": 42.4869,
+	"longitude": -71.1543
+},
+{
+	"City": "Holyoke",
+	"State": "MA",
+	"latitude": 42.2125,
+	"longitude": -72.6411
+},
+{
+	"City": "Amherst",
+	"State": "MA",
+	"latitude": 42.3645,
+	"longitude": -72.5069
+},
+{
+	"City": "Chelsea",
+	"State": "MA",
+	"latitude": 42.3959,
+	"longitude": -71.0325
+},
+{
+	"City": "Marlborough",
+	"State": "MA",
+	"latitude": 42.3494,
+	"longitude": -71.5468
+},
+{
+	"City": "Braintree",
+	"State": "MA",
+	"latitude": 42.2039,
+	"longitude": -71.0022
+},
+{
+	"City": "Watertown Town",
+	"State": "MA",
+	"latitude": 42.37,
+	"longitude": -71.1774
+},
+{
+	"City": "Randolph",
+	"State": "MA",
+	"latitude": 42.1778,
+	"longitude": -71.0539
+},
+{
+	"City": "Franklin",
+	"State": "MA",
+	"latitude": 42.0862,
+	"longitude": -71.4113
+},
+{
+	"City": "Gloucester",
+	"State": "MA",
+	"latitude": 42.626,
+	"longitude": -70.6897
+},
+{
+	"City": "North Attleborough",
+	"State": "MA",
+	"latitude": 41.9699,
+	"longitude": -71.3345
+},
+{
+	"City": "Agawam",
+	"State": "MA",
+	"latitude": 42.0657,
+	"longitude": -72.6526
+},
+{
+	"City": "West Springfield",
+	"State": "MA",
+	"latitude": 42.1253,
+	"longitude": -72.6503
+},
+{
+	"City": "Northampton",
+	"State": "MA",
+	"latitude": 42.3266,
+	"longitude": -72.6745
+},
+{
+	"City": "Melrose",
+	"State": "MA",
+	"latitude": 42.4556,
+	"longitude": -71.059
+},
+{
+	"City": "Bridgewater",
+	"State": "MA",
+	"latitude": 41.9728,
+	"longitude": -70.9749
+},
+{
+	"City": "Greenfield",
+	"State": "MA",
+	"latitude": 42.614,
+	"longitude": -72.5985
+},
+{
+	"City": "Gardner",
+	"State": "MA",
+	"latitude": 42.5845,
+	"longitude": -71.9867
+},
+{
+	"City": "Amherst Center",
+	"State": "MA",
+	"latitude": 42.3757,
+	"longitude": -72.5188
+},
+{
+	"City": "Winthrop",
+	"State": "MA",
+	"latitude": 42.3751,
+	"longitude": -70.9847
+},
+{
+	"City": "Newburyport",
+	"State": "MA",
+	"latitude": 42.8124,
+	"longitude": -70.8878
+},
+{
+	"City": "Amesbury",
+	"State": "MA",
+	"latitude": 42.853,
+	"longitude": -70.9446
+},
+{
+	"City": "North Adams",
+	"State": "MA",
+	"latitude": 42.6844,
+	"longitude": -73.1166
+},
+{
+	"City": "Southbridge",
+	"State": "MA",
+	"latitude": 42.0604,
+	"longitude": -72.0338
+},
+{
+	"City": "Easthampton",
+	"State": "MA",
+	"latitude": 42.2652,
+	"longitude": -72.672
+},
+{
+	"City": "Palmer",
+	"State": "MA",
+	"latitude": 42.1888,
+	"longitude": -72.3112
+},
+{
+	"City": "South Yarmouth",
+	"State": "MA",
+	"latitude": 41.6692,
+	"longitude": -70.2005
+},
+{
+	"City": "Mansfield Center",
+	"State": "MA",
+	"latitude": 42.0225,
+	"longitude": -71.218
+},
+{
+	"City": "West Concord",
+	"State": "MA",
+	"latitude": 42.4518,
+	"longitude": -71.4035
+},
+{
+	"City": "Middleborough Center",
+	"State": "MA",
+	"latitude": 41.8945,
+	"longitude": -70.926
+},
+{
+	"City": "Pinehurst",
+	"State": "MA",
+	"latitude": 42.5334,
+	"longitude": -71.234
+},
+{
+	"City": "Cochituate",
+	"State": "MA",
+	"latitude": 42.329,
+	"longitude": -71.3576
+},
+{
+	"City": "Whitinsville",
+	"State": "MA",
+	"latitude": 42.1146,
+	"longitude": -71.6688
+},
+{
+	"City": "East Falmouth",
+	"State": "MA",
+	"latitude": 41.5707,
+	"longitude": -70.5556
+},
+{
+	"City": "West Yarmouth",
+	"State": "MA",
+	"latitude": 41.6496,
+	"longitude": -70.2487
+},
+{
+	"City": "Yarmouth Port",
+	"State": "MA",
+	"latitude": 41.71,
+	"longitude": -70.2257
+},
+{
+	"City": "Ocean Bluff-Brant Rock",
+	"State": "MA",
+	"latitude": 42.1006,
+	"longitude": -70.6625
+},
+{
+	"City": "Bliss Corner",
+	"State": "MA",
+	"latitude": 41.6054,
+	"longitude": -70.9421
+},
+{
+	"City": "North Scituate",
+	"State": "MA",
+	"latitude": 42.2121,
+	"longitude": -70.7652
+},
+{
+	"City": "Raynham Center",
+	"State": "MA",
+	"latitude": 41.9327,
+	"longitude": -71.0431
+},
+{
+	"City": "East Harwich",
+	"State": "MA",
+	"latitude": 41.7081,
+	"longitude": -70.0339
+},
+{
+	"City": "Smith Mills",
+	"State": "MA",
+	"latitude": 41.6432,
+	"longitude": -70.992
+},
+{
+	"City": "Millis-Clicquot",
+	"State": "MA",
+	"latitude": 42.1648,
+	"longitude": -71.3544
+},
+{
+	"City": "North Westport",
+	"State": "MA",
+	"latitude": 41.6539,
+	"longitude": -71.0927
+},
+{
+	"City": "Northwest Harwich",
+	"State": "MA",
+	"latitude": 41.6917,
+	"longitude": -70.1027
+},
+{
+	"City": "North Plymouth",
+	"State": "MA",
+	"latitude": 41.9728,
+	"longitude": -70.6882
+},
+{
+	"City": "Turners Falls",
+	"State": "MA",
+	"latitude": 42.5976,
+	"longitude": -72.5572
+},
+{
+	"City": "Forestdale",
+	"State": "MA",
+	"latitude": 41.6846,
+	"longitude": -70.5082
+},
+{
+	"City": "Sagamore",
+	"State": "MA",
+	"latitude": 41.7842,
+	"longitude": -70.5332
+},
+{
+	"City": "South Duxbury",
+	"State": "MA",
+	"latitude": 42.0203,
+	"longitude": -70.6913
+},
+{
+	"City": "Buzzards Bay",
+	"State": "MA",
+	"latitude": 41.7551,
+	"longitude": -70.6129
+},
+{
+	"City": "East Sandwich",
+	"State": "MA",
+	"latitude": 41.7365,
+	"longitude": -70.4341
+},
+{
+	"City": "North Pembroke",
+	"State": "MA",
+	"latitude": 42.0989,
+	"longitude": -70.7823
+},
+{
+	"City": "Dennis Port",
+	"State": "MA",
+	"latitude": 41.6677,
+	"longitude": -70.1358
+},
+{
+	"City": "South Dennis",
+	"State": "MA",
+	"latitude": 41.7051,
+	"longitude": -70.1537
+},
+{
+	"City": "Mattapoisett Center",
+	"State": "MA",
+	"latitude": 41.6667,
+	"longitude": -70.8054
+},
+{
+	"City": "Littleton Common",
+	"State": "MA",
+	"latitude": 42.5352,
+	"longitude": -71.4727
+},
+{
+	"City": "Wareham Center",
+	"State": "MA",
+	"latitude": 41.751,
+	"longitude": -70.7198
+},
+{
+	"City": "Acushnet Center",
+	"State": "MA",
+	"latitude": 41.685,
+	"longitude": -70.9065
+},
+{
+	"City": "North Lakeville",
+	"State": "MA",
+	"latitude": 41.8619,
+	"longitude": -70.9411
+},
+{
+	"City": "Ocean Grove",
+	"State": "MA",
+	"latitude": 41.7281,
+	"longitude": -71.2098
+},
+{
+	"City": "Fiskdale",
+	"State": "MA",
+	"latitude": 42.1227,
+	"longitude": -72.1087
+},
+{
+	"City": "Cordaville",
+	"State": "MA",
+	"latitude": 42.2727,
+	"longitude": -71.5221
+},
+{
+	"City": "Pocasset",
+	"State": "MA",
+	"latitude": 41.6877,
+	"longitude": -70.6202
+},
+{
+	"City": "Monument Beach",
+	"State": "MA",
+	"latitude": 41.7192,
+	"longitude": -70.6061
+},
+{
+	"City": "Norton Center",
+	"State": "MA",
+	"latitude": 41.9726,
+	"longitude": -71.1854
+},
+{
+	"City": "White Island Shores",
+	"State": "MA",
+	"latitude": 41.7933,
+	"longitude": -70.639
+},
+{
+	"City": "East Douglas",
+	"State": "MA",
+	"latitude": 42.0779,
+	"longitude": -71.7121
+},
+{
+	"City": "East Dennis",
+	"State": "MA",
+	"latitude": 41.7392,
+	"longitude": -70.1577
+},
+{
+	"City": "North Falmouth",
+	"State": "MA",
+	"latitude": 41.6395,
+	"longitude": -70.626
+},
+{
+	"City": "North Seekonk",
+	"State": "MA",
+	"latitude": 41.8882,
+	"longitude": -71.3297
+},
+{
+	"City": "Marshfield Hills",
+	"State": "MA",
+	"latitude": 42.1487,
+	"longitude": -70.7315
+},
+{
+	"City": "West Wareham",
+	"State": "MA",
+	"latitude": 41.79,
+	"longitude": -70.755
+},
+{
+	"City": "West Dennis",
+	"State": "MA",
+	"latitude": 41.6666,
+	"longitude": -70.1656
+},
+{
+	"City": "Vineyard Haven",
+	"State": "MA",
+	"latitude": 41.4565,
+	"longitude": -70.6069
+},
+{
+	"City": "Hanscom AFB",
+	"State": "MA",
+	"latitude": 42.4582,
+	"longitude": -71.2793
+},
+{
+	"City": "South Deerfield",
+	"State": "MA",
+	"latitude": 42.4795,
+	"longitude": -72.5947
+},
+{
+	"City": "West Falmouth",
+	"State": "MA",
+	"latitude": 41.6011,
+	"longitude": -70.6364
+},
+{
+	"City": "Devens",
+	"State": "MA",
+	"latitude": 42.5438,
+	"longitude": -71.6147
+},
+{
+	"City": "Monson Center",
+	"State": "MA",
+	"latitude": 42.099,
+	"longitude": -72.3048
+},
+{
+	"City": "East Pepperell",
+	"State": "MA",
+	"latitude": 42.6654,
+	"longitude": -71.5635
+},
+{
+	"City": "Harwich Port",
+	"State": "MA",
+	"latitude": 41.6723,
+	"longitude": -70.0641
+},
+{
+	"City": "Shelburne Falls",
+	"State": "MA",
+	"latitude": 42.6063,
+	"longitude": -72.7434
+},
+{
+	"City": "Weweantic",
+	"State": "MA",
+	"latitude": 41.7398,
+	"longitude": -70.7351
+},
+{
+	"City": "Baldwinville",
+	"State": "MA",
+	"latitude": 42.6049,
+	"longitude": -72.0771
+},
+{
+	"City": "Teaticket",
+	"State": "MA",
+	"latitude": 41.5624,
+	"longitude": -70.5858
+},
+{
+	"City": "South Lancaster",
+	"State": "MA",
+	"latitude": 42.4373,
+	"longitude": -71.692
+},
+{
+	"City": "North Eastham",
+	"State": "MA",
+	"latitude": 41.8539,
+	"longitude": -69.9968
+},
+{
+	"City": "The Pinehills",
+	"State": "MA",
+	"latitude": 41.8882,
+	"longitude": -70.6
+},
+{
+	"City": "Harwich Center",
+	"State": "MA",
+	"latitude": 41.6924,
+	"longitude": -70.0694
+},
+{
+	"City": "Mashpee Neck",
+	"State": "MA",
+	"latitude": 41.6118,
+	"longitude": -70.4667
+},
+{
+	"City": "Millers Falls",
+	"State": "MA",
+	"latitude": 42.5792,
+	"longitude": -72.4925
+},
+{
+	"City": "West Chatham",
+	"State": "MA",
+	"latitude": 41.6804,
+	"longitude": -69.9918
+},
+{
+	"City": "Marion Center",
+	"State": "MA",
+	"latitude": 41.7042,
+	"longitude": -70.7629
+},
+{
+	"City": "South Ashburnham",
+	"State": "MA",
+	"latitude": 42.6138,
+	"longitude": -71.9384
+},
+{
+	"City": "Woods Hole",
+	"State": "MA",
+	"latitude": 41.5303,
+	"longitude": -70.6614
+},
+{
+	"City": "Onset",
+	"State": "MA",
+	"latitude": 41.7481,
+	"longitude": -70.6669
+},
+{
+	"City": "Housatonic",
+	"State": "MA",
+	"latitude": 42.2487,
+	"longitude": -73.3626
+},
+{
+	"City": "New Seabury",
+	"State": "MA",
+	"latitude": 41.5689,
+	"longitude": -70.4811
+},
+{
+	"City": "Seabrook",
+	"State": "MA",
+	"latitude": 41.5831,
+	"longitude": -70.4992
+},
+{
+	"City": "Madaket",
+	"State": "MA",
+	"latitude": 41.2826,
+	"longitude": -70.1855
+},
+{
+	"City": "Popponesset",
+	"State": "MA",
+	"latitude": 41.5737,
+	"longitude": -70.4636
+},
+{
+	"City": "Monomoscoy Island",
+	"State": "MA",
+	"latitude": 41.5713,
+	"longitude": -70.5025
+},
+{
+	"City": "Siasconset",
+	"State": "MA",
+	"latitude": 41.2636,
+	"longitude": -69.9718
+},
+{
+	"City": "Seconsett Island",
+	"State": "MA",
+	"latitude": 41.5661,
+	"longitude": -70.5123
+},
+{
+	"City": "Popponesset Island",
+	"State": "MA",
+	"latitude": 41.5855,
+	"longitude": -70.4591
+}]

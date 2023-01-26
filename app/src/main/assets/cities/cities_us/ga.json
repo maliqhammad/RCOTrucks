@@ -1,0 +1,3703 @@
+[
+{
+	"City": "Atlanta",
+	"State": "GA",
+	"latitude": 33.7627,
+	"longitude": -84.4224
+},
+{
+	"City": "Augusta",
+	"State": "GA",
+	"latitude": 33.3645,
+	"longitude": -82.0708
+},
+{
+	"City": "Savannah",
+	"State": "GA",
+	"latitude": 32.0281,
+	"longitude": -81.1784
+},
+{
+	"City": "Columbus",
+	"State": "GA",
+	"latitude": 32.51,
+	"longitude": -84.8771
+},
+{
+	"City": "Gainesville",
+	"State": "GA",
+	"latitude": 34.2903,
+	"longitude": -83.8301
+},
+{
+	"City": "Warner Robins",
+	"State": "GA",
+	"latitude": 32.597,
+	"longitude": -83.6529
+},
+{
+	"City": "Macon",
+	"State": "GA",
+	"latitude": 32.8065,
+	"longitude": -83.6974
+},
+{
+	"City": "Athens",
+	"State": "GA",
+	"latitude": 33.9508,
+	"longitude": -83.3689
+},
+{
+	"City": "Sandy Springs",
+	"State": "GA",
+	"latitude": 33.9366,
+	"longitude": -84.3703
+},
+{
+	"City": "South Fulton",
+	"State": "GA",
+	"latitude": 33.6269,
+	"longitude": -84.5802
+},
+{
+	"City": "Roswell",
+	"State": "GA",
+	"latitude": 34.0391,
+	"longitude": -84.3513
+},
+{
+	"City": "Albany",
+	"State": "GA",
+	"latitude": 31.5776,
+	"longitude": -84.1762
+},
+{
+	"City": "Dalton",
+	"State": "GA",
+	"latitude": 34.769,
+	"longitude": -84.9712
+},
+{
+	"City": "Johns Creek",
+	"State": "GA",
+	"latitude": 34.0333,
+	"longitude": -84.2027
+},
+{
+	"City": "Valdosta",
+	"State": "GA",
+	"latitude": 30.8502,
+	"longitude": -83.2788
+},
+{
+	"City": "Alpharetta",
+	"State": "GA",
+	"latitude": 34.0704,
+	"longitude": -84.2739
+},
+{
+	"City": "Rome",
+	"State": "GA",
+	"latitude": 34.2661,
+	"longitude": -85.1862
+},
+{
+	"City": "Marietta",
+	"State": "GA",
+	"latitude": 33.9533,
+	"longitude": -84.5422
+},
+{
+	"City": "Cartersville",
+	"State": "GA",
+	"latitude": 34.1639,
+	"longitude": -84.8007
+},
+{
+	"City": "Smyrna",
+	"State": "GA",
+	"latitude": 33.8633,
+	"longitude": -84.5168
+},
+{
+	"City": "Brookhaven",
+	"State": "GA",
+	"latitude": 33.8744,
+	"longitude": -84.3314
+},
+{
+	"City": "Stonecrest",
+	"State": "GA",
+	"latitude": 33.6842,
+	"longitude": -84.1372
+},
+{
+	"City": "Brunswick",
+	"State": "GA",
+	"latitude": 31.145,
+	"longitude": -81.474
+},
+{
+	"City": "Hinesville",
+	"State": "GA",
+	"latitude": 31.8247,
+	"longitude": -81.6135
+},
+{
+	"City": "Dunwoody",
+	"State": "GA",
+	"latitude": 33.9418,
+	"longitude": -84.3122
+},
+{
+	"City": "Winder",
+	"State": "GA",
+	"latitude": 33.9917,
+	"longitude": -83.7218
+},
+{
+	"City": "Carrollton",
+	"State": "GA",
+	"latitude": 33.5817,
+	"longitude": -85.0837
+},
+{
+	"City": "Peachtree Corners",
+	"State": "GA",
+	"latitude": 33.967,
+	"longitude": -84.2319
+},
+{
+	"City": "Statesboro",
+	"State": "GA",
+	"latitude": 32.4376,
+	"longitude": -81.775
+},
+{
+	"City": "Newnan",
+	"State": "GA",
+	"latitude": 33.3766,
+	"longitude": -84.7761
+},
+{
+	"City": "Mableton",
+	"State": "GA",
+	"latitude": 33.8132,
+	"longitude": -84.5656
+},
+{
+	"City": "Milton",
+	"State": "GA",
+	"latitude": 34.1353,
+	"longitude": -84.3138
+},
+{
+	"City": "St. Marys",
+	"State": "GA",
+	"latitude": 30.7567,
+	"longitude": -81.5722
+},
+{
+	"City": "Evans",
+	"State": "GA",
+	"latitude": 33.5619,
+	"longitude": -82.1351
+},
+{
+	"City": "Tucker",
+	"State": "GA",
+	"latitude": 33.8436,
+	"longitude": -84.2021
+},
+{
+	"City": "Peachtree City",
+	"State": "GA",
+	"latitude": 33.3943,
+	"longitude": -84.5712
+},
+{
+	"City": "LaGrange",
+	"State": "GA",
+	"latitude": 33.0274,
+	"longitude": -85.0384
+},
+{
+	"City": "East Point",
+	"State": "GA",
+	"latitude": 33.6696,
+	"longitude": -84.4701
+},
+{
+	"City": "Martinez",
+	"State": "GA",
+	"latitude": 33.5209,
+	"longitude": -82.0985
+},
+{
+	"City": "Calhoun",
+	"State": "GA",
+	"latitude": 34.4918,
+	"longitude": -84.9391
+},
+{
+	"City": "Kennesaw",
+	"State": "GA",
+	"latitude": 34.026,
+	"longitude": -84.6177
+},
+{
+	"City": "Douglasville",
+	"State": "GA",
+	"latitude": 33.7384,
+	"longitude": -84.7065
+},
+{
+	"City": "Woodstock",
+	"State": "GA",
+	"latitude": 34.1026,
+	"longitude": -84.509
+},
+{
+	"City": "Redan",
+	"State": "GA",
+	"latitude": 33.7394,
+	"longitude": -84.1644
+},
+{
+	"City": "Milledgeville",
+	"State": "GA",
+	"latitude": 33.0874,
+	"longitude": -83.2414
+},
+{
+	"City": "Lawrenceville",
+	"State": "GA",
+	"latitude": 33.9523,
+	"longitude": -83.9931
+},
+{
+	"City": "Canton",
+	"State": "GA",
+	"latitude": 34.2467,
+	"longitude": -84.49
+},
+{
+	"City": "Chamblee",
+	"State": "GA",
+	"latitude": 33.8842,
+	"longitude": -84.3008
+},
+{
+	"City": "Stockbridge",
+	"State": "GA",
+	"latitude": 33.5253,
+	"longitude": -84.2294
+},
+{
+	"City": "Duluth",
+	"State": "GA",
+	"latitude": 34.0053,
+	"longitude": -84.1492
+},
+{
+	"City": "McDonough",
+	"State": "GA",
+	"latitude": 33.4399,
+	"longitude": -84.1509
+},
+{
+	"City": "Decatur",
+	"State": "GA",
+	"latitude": 33.7711,
+	"longitude": -84.2968
+},
+{
+	"City": "Pooler",
+	"State": "GA",
+	"latitude": 32.1043,
+	"longitude": -81.2568
+},
+{
+	"City": "Sugar Hill",
+	"State": "GA",
+	"latitude": 34.1081,
+	"longitude": -84.056
+},
+{
+	"City": "Tifton",
+	"State": "GA",
+	"latitude": 31.4625,
+	"longitude": -83.5205
+},
+{
+	"City": "Thomasville",
+	"State": "GA",
+	"latitude": 30.8394,
+	"longitude": -83.9782
+},
+{
+	"City": "Candler-McAfee",
+	"State": "GA",
+	"latitude": 33.7267,
+	"longitude": -84.2723
+},
+{
+	"City": "Waycross",
+	"State": "GA",
+	"latitude": 31.2108,
+	"longitude": -82.3579
+},
+{
+	"City": "Acworth",
+	"State": "GA",
+	"latitude": 34.0566,
+	"longitude": -84.6715
+},
+{
+	"City": "Griffin",
+	"State": "GA",
+	"latitude": 33.2418,
+	"longitude": -84.2747
+},
+{
+	"City": "Union City",
+	"State": "GA",
+	"latitude": 33.5941,
+	"longitude": -84.5629
+},
+{
+	"City": "Cornelia",
+	"State": "GA",
+	"latitude": 34.517,
+	"longitude": -83.531
+},
+{
+	"City": "Suwanee",
+	"State": "GA",
+	"latitude": 34.0506,
+	"longitude": -84.0687
+},
+{
+	"City": "Dublin",
+	"State": "GA",
+	"latitude": 32.5359,
+	"longitude": -82.928
+},
+{
+	"City": "Snellville",
+	"State": "GA",
+	"latitude": 33.8563,
+	"longitude": -84.0038
+},
+{
+	"City": "Forest Park",
+	"State": "GA",
+	"latitude": 33.6209,
+	"longitude": -84.359
+},
+{
+	"City": "Moultrie",
+	"State": "GA",
+	"latitude": 31.1591,
+	"longitude": -83.7708
+},
+{
+	"City": "Lithia Springs",
+	"State": "GA",
+	"latitude": 33.781,
+	"longitude": -84.6485
+},
+{
+	"City": "North Druid Hills",
+	"State": "GA",
+	"latitude": 33.8186,
+	"longitude": -84.3254
+},
+{
+	"City": "Fayetteville",
+	"State": "GA",
+	"latitude": 33.45,
+	"longitude": -84.4709
+},
+{
+	"City": "Kingsland",
+	"State": "GA",
+	"latitude": 30.8194,
+	"longitude": -81.7217
+},
+{
+	"City": "Perry",
+	"State": "GA",
+	"latitude": 32.4719,
+	"longitude": -83.7282
+},
+{
+	"City": "Americus",
+	"State": "GA",
+	"latitude": 32.0736,
+	"longitude": -84.2249
+},
+{
+	"City": "Fairburn",
+	"State": "GA",
+	"latitude": 33.5496,
+	"longitude": -84.5914
+},
+{
+	"City": "North Decatur",
+	"State": "GA",
+	"latitude": 33.8073,
+	"longitude": -84.2889
+},
+{
+	"City": "Norcross",
+	"State": "GA",
+	"latitude": 33.9379,
+	"longitude": -84.2065
+},
+{
+	"City": "Monroe",
+	"State": "GA",
+	"latitude": 33.799,
+	"longitude": -83.716
+},
+{
+	"City": "Conyers",
+	"State": "GA",
+	"latitude": 33.6645,
+	"longitude": -83.9966
+},
+{
+	"City": "Villa Rica",
+	"State": "GA",
+	"latitude": 33.7305,
+	"longitude": -84.917
+},
+{
+	"City": "Wilmington Island",
+	"State": "GA",
+	"latitude": 32.0036,
+	"longitude": -80.9752
+},
+{
+	"City": "Powder Springs",
+	"State": "GA",
+	"latitude": 33.8659,
+	"longitude": -84.6838
+},
+{
+	"City": "Riverdale",
+	"State": "GA",
+	"latitude": 33.564,
+	"longitude": -84.4103
+},
+{
+	"City": "Buford",
+	"State": "GA",
+	"latitude": 34.1185,
+	"longitude": -83.9916
+},
+{
+	"City": "Holly Springs",
+	"State": "GA",
+	"latitude": 34.1685,
+	"longitude": -84.4845
+},
+{
+	"City": "Belvedere Park",
+	"State": "GA",
+	"latitude": 33.7488,
+	"longitude": -84.2598
+},
+{
+	"City": "College Park",
+	"State": "GA",
+	"latitude": 33.6363,
+	"longitude": -84.464
+},
+{
+	"City": "Grovetown",
+	"State": "GA",
+	"latitude": 33.4504,
+	"longitude": -82.2073
+},
+{
+	"City": "St. Simons",
+	"State": "GA",
+	"latitude": 31.1774,
+	"longitude": -81.3857
+},
+{
+	"City": "Douglas",
+	"State": "GA",
+	"latitude": 31.5065,
+	"longitude": -82.8543
+},
+{
+	"City": "Covington",
+	"State": "GA",
+	"latitude": 33.6049,
+	"longitude": -83.8465
+},
+{
+	"City": "Rincon",
+	"State": "GA",
+	"latitude": 32.2947,
+	"longitude": -81.2353
+},
+{
+	"City": "Dallas",
+	"State": "GA",
+	"latitude": 33.9153,
+	"longitude": -84.8416
+},
+{
+	"City": "Richmond Hill",
+	"State": "GA",
+	"latitude": 31.9013,
+	"longitude": -81.3125
+},
+{
+	"City": "Thomaston",
+	"State": "GA",
+	"latitude": 32.8908,
+	"longitude": -84.3271
+},
+{
+	"City": "Mountain Park",
+	"State": "GA",
+	"latitude": 33.8458,
+	"longitude": -84.1313
+},
+{
+	"City": "Vidalia",
+	"State": "GA",
+	"latitude": 32.2125,
+	"longitude": -82.4019
+},
+{
+	"City": "Jefferson",
+	"State": "GA",
+	"latitude": 34.1373,
+	"longitude": -83.6021
+},
+{
+	"City": "Braselton",
+	"State": "GA",
+	"latitude": 34.1088,
+	"longitude": -83.8128
+},
+{
+	"City": "Georgetown",
+	"State": "GA",
+	"latitude": 31.9849,
+	"longitude": -81.226
+},
+{
+	"City": "Vinings",
+	"State": "GA",
+	"latitude": 33.8608,
+	"longitude": -84.4686
+},
+{
+	"City": "Loganville",
+	"State": "GA",
+	"latitude": 33.8353,
+	"longitude": -83.8957
+},
+{
+	"City": "Cedartown",
+	"State": "GA",
+	"latitude": 34.0223,
+	"longitude": -85.2479
+},
+{
+	"City": "Lilburn",
+	"State": "GA",
+	"latitude": 33.8887,
+	"longitude": -84.1379
+},
+{
+	"City": "Clarkston",
+	"State": "GA",
+	"latitude": 33.8117,
+	"longitude": -84.2404
+},
+{
+	"City": "Jesup",
+	"State": "GA",
+	"latitude": 31.5992,
+	"longitude": -81.8895
+},
+{
+	"City": "Bainbridge",
+	"State": "GA",
+	"latitude": 30.9046,
+	"longitude": -84.5727
+},
+{
+	"City": "Folkston",
+	"State": "GA",
+	"latitude": 30.8393,
+	"longitude": -82.0073
+},
+{
+	"City": "Cordele",
+	"State": "GA",
+	"latitude": 31.9563,
+	"longitude": -83.7694
+},
+{
+	"City": "Scottdale",
+	"State": "GA",
+	"latitude": 33.795,
+	"longitude": -84.2634
+},
+{
+	"City": "Fitzgerald",
+	"State": "GA",
+	"latitude": 31.7135,
+	"longitude": -83.2515
+},
+{
+	"City": "Cusseta",
+	"State": "GA",
+	"latitude": 32.347,
+	"longitude": -84.787
+},
+{
+	"City": "Panthersville",
+	"State": "GA",
+	"latitude": 33.7059,
+	"longitude": -84.2764
+},
+{
+	"City": "Toccoa",
+	"State": "GA",
+	"latitude": 34.5807,
+	"longitude": -83.3256
+},
+{
+	"City": "Summerville",
+	"State": "GA",
+	"latitude": 34.4787,
+	"longitude": -85.3491
+},
+{
+	"City": "Doraville",
+	"State": "GA",
+	"latitude": 33.9072,
+	"longitude": -84.2711
+},
+{
+	"City": "Fort Oglethorpe",
+	"State": "GA",
+	"latitude": 34.9319,
+	"longitude": -85.246
+},
+{
+	"City": "Fort Valley",
+	"State": "GA",
+	"latitude": 32.552,
+	"longitude": -83.8819
+},
+{
+	"City": "Fort Stewart",
+	"State": "GA",
+	"latitude": 31.8818,
+	"longitude": -81.6105
+},
+{
+	"City": "Port Wentworth",
+	"State": "GA",
+	"latitude": 32.1942,
+	"longitude": -81.1984
+},
+{
+	"City": "Fair Oaks",
+	"State": "GA",
+	"latitude": 33.9192,
+	"longitude": -84.5444
+},
+{
+	"City": "Cairo",
+	"State": "GA",
+	"latitude": 30.8791,
+	"longitude": -84.205
+},
+{
+	"City": "Skidaway Island",
+	"State": "GA",
+	"latitude": 31.9372,
+	"longitude": -81.0449
+},
+{
+	"City": "Gresham Park",
+	"State": "GA",
+	"latitude": 33.7053,
+	"longitude": -84.3155
+},
+{
+	"City": "Garden City",
+	"State": "GA",
+	"latitude": 32.0868,
+	"longitude": -81.1773
+},
+{
+	"City": "Druid Hills",
+	"State": "GA",
+	"latitude": 33.7842,
+	"longitude": -84.3273
+},
+{
+	"City": "Flowery Branch",
+	"State": "GA",
+	"latitude": 34.1713,
+	"longitude": -83.9142
+},
+{
+	"City": "McRae-Helena",
+	"State": "GA",
+	"latitude": 32.0635,
+	"longitude": -82.8968
+},
+{
+	"City": "Locust Grove",
+	"State": "GA",
+	"latitude": 33.3442,
+	"longitude": -84.1071
+},
+{
+	"City": "Thomson",
+	"State": "GA",
+	"latitude": 33.4666,
+	"longitude": -82.4992
+},
+{
+	"City": "Irondale",
+	"State": "GA",
+	"latitude": 33.4773,
+	"longitude": -84.36
+},
+{
+	"City": "Country Club Estates",
+	"State": "GA",
+	"latitude": 31.2113,
+	"longitude": -81.4622
+},
+{
+	"City": "Hampton",
+	"State": "GA",
+	"latitude": 33.3835,
+	"longitude": -84.2855
+},
+{
+	"City": "Rockmart",
+	"State": "GA",
+	"latitude": 34.0103,
+	"longitude": -85.0441
+},
+{
+	"City": "Centerville",
+	"State": "GA",
+	"latitude": 32.6342,
+	"longitude": -83.6853
+},
+{
+	"City": "Swainsboro",
+	"State": "GA",
+	"latitude": 32.5866,
+	"longitude": -82.3345
+},
+{
+	"City": "Auburn",
+	"State": "GA",
+	"latitude": 34.0157,
+	"longitude": -83.8319
+},
+{
+	"City": "LaFayette",
+	"State": "GA",
+	"latitude": 34.7088,
+	"longitude": -85.2815
+},
+{
+	"City": "Tyrone",
+	"State": "GA",
+	"latitude": 33.4753,
+	"longitude": -84.5941
+},
+{
+	"City": "Dock Junction",
+	"State": "GA",
+	"latitude": 31.2031,
+	"longitude": -81.5156
+},
+{
+	"City": "Dahlonega",
+	"State": "GA",
+	"latitude": 34.5309,
+	"longitude": -83.9804
+},
+{
+	"City": "Morrow",
+	"State": "GA",
+	"latitude": 33.5816,
+	"longitude": -84.3392
+},
+{
+	"City": "Commerce",
+	"State": "GA",
+	"latitude": 34.2133,
+	"longitude": -83.473
+},
+{
+	"City": "Austell",
+	"State": "GA",
+	"latitude": 33.82,
+	"longitude": -84.645
+},
+{
+	"City": "Barnesville",
+	"State": "GA",
+	"latitude": 33.0509,
+	"longitude": -84.1527
+},
+{
+	"City": "Adel",
+	"State": "GA",
+	"latitude": 31.1272,
+	"longitude": -83.4232
+},
+{
+	"City": "Bremen",
+	"State": "GA",
+	"latitude": 33.7085,
+	"longitude": -85.1495
+},
+{
+	"City": "Whitemarsh Island",
+	"State": "GA",
+	"latitude": 32.0304,
+	"longitude": -81.0109
+},
+{
+	"City": "Lovejoy",
+	"State": "GA",
+	"latitude": 33.4426,
+	"longitude": -84.3176
+},
+{
+	"City": "Eatonton",
+	"State": "GA",
+	"latitude": 33.3258,
+	"longitude": -83.3886
+},
+{
+	"City": "Sandersville",
+	"State": "GA",
+	"latitude": 32.9827,
+	"longitude": -82.8089
+},
+{
+	"City": "Cumming",
+	"State": "GA",
+	"latitude": 34.2064,
+	"longitude": -84.1337
+},
+{
+	"City": "Fairview",
+	"State": "GA",
+	"latitude": 34.9296,
+	"longitude": -85.294
+},
+{
+	"City": "Hapeville",
+	"State": "GA",
+	"latitude": 33.6609,
+	"longitude": -84.4093
+},
+{
+	"City": "Camilla",
+	"State": "GA",
+	"latitude": 31.2337,
+	"longitude": -84.2089
+},
+{
+	"City": "Jasper",
+	"State": "GA",
+	"latitude": 34.471,
+	"longitude": -84.4496
+},
+{
+	"City": "Dacula",
+	"State": "GA",
+	"latitude": 33.9816,
+	"longitude": -83.8951
+},
+{
+	"City": "Stone Mountain",
+	"State": "GA",
+	"latitude": 33.8034,
+	"longitude": -84.1724
+},
+{
+	"City": "Sylvester",
+	"State": "GA",
+	"latitude": 31.53,
+	"longitude": -83.8338
+},
+{
+	"City": "Eastman",
+	"State": "GA",
+	"latitude": 32.1973,
+	"longitude": -83.1714
+},
+{
+	"City": "Cochran",
+	"State": "GA",
+	"latitude": 32.3875,
+	"longitude": -83.3523
+},
+{
+	"City": "Montezuma",
+	"State": "GA",
+	"latitude": 32.2997,
+	"longitude": -84.0246
+},
+{
+	"City": "Hartwell",
+	"State": "GA",
+	"latitude": 34.3496,
+	"longitude": -82.9289
+},
+{
+	"City": "Conley",
+	"State": "GA",
+	"latitude": 33.6398,
+	"longitude": -84.3376
+},
+{
+	"City": "Wrightsville",
+	"State": "GA",
+	"latitude": 32.7265,
+	"longitude": -82.7197
+},
+{
+	"City": "Lake Park",
+	"State": "GA",
+	"latitude": 30.6852,
+	"longitude": -83.1875
+},
+{
+	"City": "Baxley",
+	"State": "GA",
+	"latitude": 31.7643,
+	"longitude": -82.3508
+},
+{
+	"City": "Elberton",
+	"State": "GA",
+	"latitude": 34.1064,
+	"longitude": -82.8705
+},
+{
+	"City": "Waynesboro",
+	"State": "GA",
+	"latitude": 33.0909,
+	"longitude": -82.0146
+},
+{
+	"City": "Jackson",
+	"State": "GA",
+	"latitude": 33.292,
+	"longitude": -83.9678
+},
+{
+	"City": "Cleveland",
+	"State": "GA",
+	"latitude": 34.5971,
+	"longitude": -83.7621
+},
+{
+	"City": "Hawkinsville",
+	"State": "GA",
+	"latitude": 32.2964,
+	"longitude": -83.4814
+},
+{
+	"City": "Forsyth",
+	"State": "GA",
+	"latitude": 33.0347,
+	"longitude": -83.9381
+},
+{
+	"City": "Byron",
+	"State": "GA",
+	"latitude": 32.6474,
+	"longitude": -83.7541
+},
+{
+	"City": "Springfield",
+	"State": "GA",
+	"latitude": 32.3634,
+	"longitude": -81.3029
+},
+{
+	"City": "Lakeview",
+	"State": "GA",
+	"latitude": 34.9777,
+	"longitude": -85.2539
+},
+{
+	"City": "Glennville",
+	"State": "GA",
+	"latitude": 31.9382,
+	"longitude": -81.9305
+},
+{
+	"City": "Adairsville",
+	"State": "GA",
+	"latitude": 34.3708,
+	"longitude": -84.9211
+},
+{
+	"City": "Jonesboro",
+	"State": "GA",
+	"latitude": 33.5212,
+	"longitude": -84.3541
+},
+{
+	"City": "Palmetto",
+	"State": "GA",
+	"latitude": 33.5311,
+	"longitude": -84.6677
+},
+{
+	"City": "Nashville",
+	"State": "GA",
+	"latitude": 31.2051,
+	"longitude": -83.2486
+},
+{
+	"City": "Temple",
+	"State": "GA",
+	"latitude": 33.7342,
+	"longitude": -85.0289
+},
+{
+	"City": "Lindale",
+	"State": "GA",
+	"latitude": 34.1884,
+	"longitude": -85.1808
+},
+{
+	"City": "Madison",
+	"State": "GA",
+	"latitude": 33.579,
+	"longitude": -83.4758
+},
+{
+	"City": "Montgomery",
+	"State": "GA",
+	"latitude": 31.9438,
+	"longitude": -81.1081
+},
+{
+	"City": "Blakely",
+	"State": "GA",
+	"latitude": 31.3827,
+	"longitude": -84.9228
+},
+{
+	"City": "Gray",
+	"State": "GA",
+	"latitude": 33.002,
+	"longitude": -83.5373
+},
+{
+	"City": "Social Circle",
+	"State": "GA",
+	"latitude": 33.6505,
+	"longitude": -83.7116
+},
+{
+	"City": "Hazlehurst",
+	"State": "GA",
+	"latitude": 31.8651,
+	"longitude": -82.5994
+},
+{
+	"City": "Grayson",
+	"State": "GA",
+	"latitude": 33.89,
+	"longitude": -83.9574
+},
+{
+	"City": "Senoia",
+	"State": "GA",
+	"latitude": 33.3082,
+	"longitude": -84.5546
+},
+{
+	"City": "Euharlee",
+	"State": "GA",
+	"latitude": 34.1441,
+	"longitude": -84.9327
+},
+{
+	"City": "Chatsworth",
+	"State": "GA",
+	"latitude": 34.7808,
+	"longitude": -84.7835
+},
+{
+	"City": "Nelson",
+	"State": "GA",
+	"latitude": 34.379,
+	"longitude": -84.3707
+},
+{
+	"City": "Lyons",
+	"State": "GA",
+	"latitude": 32.2062,
+	"longitude": -82.3215
+},
+{
+	"City": "Hiram",
+	"State": "GA",
+	"latitude": 33.8771,
+	"longitude": -84.771
+},
+{
+	"City": "Oakwood",
+	"State": "GA",
+	"latitude": 34.2237,
+	"longitude": -83.8849
+},
+{
+	"City": "Dawson",
+	"State": "GA",
+	"latitude": 31.7721,
+	"longitude": -84.4437
+},
+{
+	"City": "Walthourville",
+	"State": "GA",
+	"latitude": 31.7716,
+	"longitude": -81.6216
+},
+{
+	"City": "Rossville",
+	"State": "GA",
+	"latitude": 34.9747,
+	"longitude": -85.2898
+},
+{
+	"City": "Ashburn",
+	"State": "GA",
+	"latitude": 31.7095,
+	"longitude": -83.6528
+},
+{
+	"City": "Manchester",
+	"State": "GA",
+	"latitude": 32.8566,
+	"longitude": -84.6329
+},
+{
+	"City": "Blackshear",
+	"State": "GA",
+	"latitude": 31.2954,
+	"longitude": -82.2453
+},
+{
+	"City": "Washington",
+	"State": "GA",
+	"latitude": 33.7355,
+	"longitude": -82.7427
+},
+{
+	"City": "Hephzibah",
+	"State": "GA",
+	"latitude": 33.2906,
+	"longitude": -82.0994
+},
+{
+	"City": "Metter",
+	"State": "GA",
+	"latitude": 32.3958,
+	"longitude": -82.0621
+},
+{
+	"City": "Leesburg",
+	"State": "GA",
+	"latitude": 31.7325,
+	"longitude": -84.1687
+},
+{
+	"City": "West Point",
+	"State": "GA",
+	"latitude": 32.8937,
+	"longitude": -85.1453
+},
+{
+	"City": "Ocilla",
+	"State": "GA",
+	"latitude": 31.5987,
+	"longitude": -83.2499
+},
+{
+	"City": "Ellijay",
+	"State": "GA",
+	"latitude": 34.6913,
+	"longitude": -84.484
+},
+{
+	"City": "Quitman",
+	"State": "GA",
+	"latitude": 30.7849,
+	"longitude": -83.5603
+},
+{
+	"City": "Ringgold",
+	"State": "GA",
+	"latitude": 34.9137,
+	"longitude": -85.1216
+},
+{
+	"City": "Clayton",
+	"State": "GA",
+	"latitude": 34.8775,
+	"longitude": -83.4027
+},
+{
+	"City": "Bonanza",
+	"State": "GA",
+	"latitude": 33.4589,
+	"longitude": -84.3379
+},
+{
+	"City": "Darien",
+	"State": "GA",
+	"latitude": 31.3568,
+	"longitude": -81.4315
+},
+{
+	"City": "Vienna",
+	"State": "GA",
+	"latitude": 32.0925,
+	"longitude": -83.7864
+},
+{
+	"City": "Unadilla",
+	"State": "GA",
+	"latitude": 32.2583,
+	"longitude": -83.7356
+},
+{
+	"City": "Pelham",
+	"State": "GA",
+	"latitude": 31.1267,
+	"longitude": -84.1514
+},
+{
+	"City": "Hannahs Mill",
+	"State": "GA",
+	"latitude": 32.9369,
+	"longitude": -84.3405
+},
+{
+	"City": "Harlem",
+	"State": "GA",
+	"latitude": 33.4262,
+	"longitude": -82.3129
+},
+{
+	"City": "Claxton",
+	"State": "GA",
+	"latitude": 32.1613,
+	"longitude": -81.9094
+},
+{
+	"City": "Cuthbert",
+	"State": "GA",
+	"latitude": 31.7713,
+	"longitude": -84.794
+},
+{
+	"City": "Baldwin",
+	"State": "GA",
+	"latitude": 34.4864,
+	"longitude": -83.5494
+},
+{
+	"City": "Alma",
+	"State": "GA",
+	"latitude": 31.5432,
+	"longitude": -82.4745
+},
+{
+	"City": "Experiment",
+	"State": "GA",
+	"latitude": 33.2789,
+	"longitude": -84.276
+},
+{
+	"City": "Nicholls",
+	"State": "GA",
+	"latitude": 31.5191,
+	"longitude": -82.6386
+},
+{
+	"City": "Hardwick",
+	"State": "GA",
+	"latitude": 33.0523,
+	"longitude": -83.244
+},
+{
+	"City": "Chattahoochee Hills",
+	"State": "GA",
+	"latitude": 33.5695,
+	"longitude": -84.7441
+},
+{
+	"City": "Alamo",
+	"State": "GA",
+	"latitude": 32.1469,
+	"longitude": -82.7798
+},
+{
+	"City": "Greensboro",
+	"State": "GA",
+	"latitude": 33.5678,
+	"longitude": -83.1878
+},
+{
+	"City": "Grantville",
+	"State": "GA",
+	"latitude": 33.2371,
+	"longitude": -84.8293
+},
+{
+	"City": "Lakeland",
+	"State": "GA",
+	"latitude": 31.041,
+	"longitude": -83.0748
+},
+{
+	"City": "Tybee Island",
+	"State": "GA",
+	"latitude": 32.01,
+	"longitude": -80.8527
+},
+{
+	"City": "Chickamauga",
+	"State": "GA",
+	"latitude": 34.8753,
+	"longitude": -85.2886
+},
+{
+	"City": "Dawsonville",
+	"State": "GA",
+	"latitude": 34.4362,
+	"longitude": -84.125
+},
+{
+	"City": "Chattanooga Valley",
+	"State": "GA",
+	"latitude": 34.9241,
+	"longitude": -85.3431
+},
+{
+	"City": "Tallapoosa",
+	"State": "GA",
+	"latitude": 33.7335,
+	"longitude": -85.2859
+},
+{
+	"City": "Sparta",
+	"State": "GA",
+	"latitude": 33.2767,
+	"longitude": -82.9704
+},
+{
+	"City": "Kings Bay Base",
+	"State": "GA",
+	"latitude": 30.7985,
+	"longitude": -81.5628
+},
+{
+	"City": "Soperton",
+	"State": "GA",
+	"latitude": 32.3782,
+	"longitude": -82.5944
+},
+{
+	"City": "Heron Bay",
+	"State": "GA",
+	"latitude": 33.3393,
+	"longitude": -84.1922
+},
+{
+	"City": "Avondale Estates",
+	"State": "GA",
+	"latitude": 33.7699,
+	"longitude": -84.2648
+},
+{
+	"City": "Hogansville",
+	"State": "GA",
+	"latitude": 33.1674,
+	"longitude": -84.9027
+},
+{
+	"City": "Hahira",
+	"State": "GA",
+	"latitude": 30.9941,
+	"longitude": -83.3787
+},
+{
+	"City": "Royston",
+	"State": "GA",
+	"latitude": 34.2859,
+	"longitude": -83.1097
+},
+{
+	"City": "Lula",
+	"State": "GA",
+	"latitude": 34.3956,
+	"longitude": -83.6655
+},
+{
+	"City": "Watkinsville",
+	"State": "GA",
+	"latitude": 33.861,
+	"longitude": -83.4072
+},
+{
+	"City": "Louisville",
+	"State": "GA",
+	"latitude": 32.9954,
+	"longitude": -82.4
+},
+{
+	"City": "Statham",
+	"State": "GA",
+	"latitude": 33.9646,
+	"longitude": -83.6024
+},
+{
+	"City": "Lake City",
+	"State": "GA",
+	"latitude": 33.6065,
+	"longitude": -84.3411
+},
+{
+	"City": "Millen",
+	"State": "GA",
+	"latitude": 32.8071,
+	"longitude": -81.9423
+},
+{
+	"City": "Monticello",
+	"State": "GA",
+	"latitude": 33.2955,
+	"longitude": -83.686
+},
+{
+	"City": "Bloomingdale",
+	"State": "GA",
+	"latitude": 32.125,
+	"longitude": -81.3077
+},
+{
+	"City": "Abbeville",
+	"State": "GA",
+	"latitude": 31.9925,
+	"longitude": -83.3068
+},
+{
+	"City": "Trenton",
+	"State": "GA",
+	"latitude": 34.8741,
+	"longitude": -85.5096
+},
+{
+	"City": "Reidsville",
+	"State": "GA",
+	"latitude": 32.0871,
+	"longitude": -82.1244
+},
+{
+	"City": "Pembroke",
+	"State": "GA",
+	"latitude": 32.1455,
+	"longitude": -81.6185
+},
+{
+	"City": "Thunderbolt",
+	"State": "GA",
+	"latitude": 32.0339,
+	"longitude": -81.048
+},
+{
+	"City": "Deenwood",
+	"State": "GA",
+	"latitude": 31.2476,
+	"longitude": -82.3677
+},
+{
+	"City": "Homerville",
+	"State": "GA",
+	"latitude": 31.0385,
+	"longitude": -82.742
+},
+{
+	"City": "Sylvania",
+	"State": "GA",
+	"latitude": 32.7465,
+	"longitude": -81.641
+},
+{
+	"City": "Donalsonville",
+	"State": "GA",
+	"latitude": 31.0404,
+	"longitude": -84.8792
+},
+{
+	"City": "Putney",
+	"State": "GA",
+	"latitude": 31.4756,
+	"longitude": -84.101
+},
+{
+	"City": "Indian Springs",
+	"State": "GA",
+	"latitude": 34.9606,
+	"longitude": -85.1592
+},
+{
+	"City": "Raoul",
+	"State": "GA",
+	"latitude": 34.4548,
+	"longitude": -83.5995
+},
+{
+	"City": "Isle of Hope",
+	"State": "GA",
+	"latitude": 31.9848,
+	"longitude": -81.0532
+},
+{
+	"City": "Lakeview Estates",
+	"State": "GA",
+	"latitude": 33.7046,
+	"longitude": -84.0367
+},
+{
+	"City": "East Dublin",
+	"State": "GA",
+	"latitude": 32.5468,
+	"longitude": -82.8675
+},
+{
+	"City": "Mount Vernon",
+	"State": "GA",
+	"latitude": 32.1836,
+	"longitude": -82.5953
+},
+{
+	"City": "Oxford",
+	"State": "GA",
+	"latitude": 33.6277,
+	"longitude": -83.8721
+},
+{
+	"City": "Lithonia",
+	"State": "GA",
+	"latitude": 33.7128,
+	"longitude": -84.106
+},
+{
+	"City": "Gumlog",
+	"State": "GA",
+	"latitude": 34.4952,
+	"longitude": -83.0975
+},
+{
+	"City": "Ludowici",
+	"State": "GA",
+	"latitude": 31.7096,
+	"longitude": -81.7457
+},
+{
+	"City": "Guyton",
+	"State": "GA",
+	"latitude": 32.3408,
+	"longitude": -81.4226
+},
+{
+	"City": "Henderson",
+	"State": "GA",
+	"latitude": 32.0103,
+	"longitude": -81.2656
+},
+{
+	"City": "Lavonia",
+	"State": "GA",
+	"latitude": 34.434,
+	"longitude": -83.1081
+},
+{
+	"City": "Ball Ground",
+	"State": "GA",
+	"latitude": 34.3426,
+	"longitude": -84.3634
+},
+{
+	"City": "Hoschton",
+	"State": "GA",
+	"latitude": 34.0853,
+	"longitude": -83.7593
+},
+{
+	"City": "Reed Creek",
+	"State": "GA",
+	"latitude": 34.4395,
+	"longitude": -82.9103
+},
+{
+	"City": "Berkeley Lake",
+	"State": "GA",
+	"latitude": 33.9805,
+	"longitude": -84.1839
+},
+{
+	"City": "Varnell",
+	"State": "GA",
+	"latitude": 34.9015,
+	"longitude": -84.9645
+},
+{
+	"City": "Demorest",
+	"State": "GA",
+	"latitude": 34.5648,
+	"longitude": -83.5424
+},
+{
+	"City": "Tennille",
+	"State": "GA",
+	"latitude": 32.936,
+	"longitude": -82.8134
+},
+{
+	"City": "Maysville",
+	"State": "GA",
+	"latitude": 34.2557,
+	"longitude": -83.5521
+},
+{
+	"City": "Bowdon",
+	"State": "GA",
+	"latitude": 33.5378,
+	"longitude": -85.2539
+},
+{
+	"City": "Midway",
+	"State": "GA",
+	"latitude": 31.8003,
+	"longitude": -81.419
+},
+{
+	"City": "Buena Vista",
+	"State": "GA",
+	"latitude": 32.3188,
+	"longitude": -84.5177
+},
+{
+	"City": "Pearson",
+	"State": "GA",
+	"latitude": 31.297,
+	"longitude": -82.8544
+},
+{
+	"City": "Sparks",
+	"State": "GA",
+	"latitude": 31.1693,
+	"longitude": -83.4405
+},
+{
+	"City": "Arcade",
+	"State": "GA",
+	"latitude": 34.0694,
+	"longitude": -83.5399
+},
+{
+	"City": "Davisboro",
+	"State": "GA",
+	"latitude": 32.9826,
+	"longitude": -82.6032
+},
+{
+	"City": "Wrens",
+	"State": "GA",
+	"latitude": 33.2069,
+	"longitude": -82.3878
+},
+{
+	"City": "Unionville",
+	"State": "GA",
+	"latitude": 31.4363,
+	"longitude": -83.5084
+},
+{
+	"City": "Union Point",
+	"State": "GA",
+	"latitude": 33.6177,
+	"longitude": -83.0756
+},
+{
+	"City": "Trion",
+	"State": "GA",
+	"latitude": 34.548,
+	"longitude": -85.3108
+},
+{
+	"City": "Shannon",
+	"State": "GA",
+	"latitude": 34.3406,
+	"longitude": -85.0854
+},
+{
+	"City": "Nicholson",
+	"State": "GA",
+	"latitude": 34.1172,
+	"longitude": -83.4289
+},
+{
+	"City": "Ellaville",
+	"State": "GA",
+	"latitude": 32.238,
+	"longitude": -84.3089
+},
+{
+	"City": "Wadley",
+	"State": "GA",
+	"latitude": 32.8663,
+	"longitude": -82.4014
+},
+{
+	"City": "Gordon",
+	"State": "GA",
+	"latitude": 32.8866,
+	"longitude": -83.3349
+},
+{
+	"City": "Morgan",
+	"State": "GA",
+	"latitude": 31.5381,
+	"longitude": -84.6033
+},
+{
+	"City": "Colquitt",
+	"State": "GA",
+	"latitude": 31.1741,
+	"longitude": -84.7319
+},
+{
+	"City": "Clarkesville",
+	"State": "GA",
+	"latitude": 34.6103,
+	"longitude": -83.5284
+},
+{
+	"City": "Brooklet",
+	"State": "GA",
+	"latitude": 32.3898,
+	"longitude": -81.6668
+},
+{
+	"City": "Mount Zion",
+	"State": "GA",
+	"latitude": 33.6409,
+	"longitude": -85.1804
+},
+{
+	"City": "Butler",
+	"State": "GA",
+	"latitude": 32.557,
+	"longitude": -84.2377
+},
+{
+	"City": "Warrenton",
+	"State": "GA",
+	"latitude": 33.4067,
+	"longitude": -82.6653
+},
+{
+	"City": "Twin City",
+	"State": "GA",
+	"latitude": 32.5829,
+	"longitude": -82.1575
+},
+{
+	"City": "Young Harris",
+	"State": "GA",
+	"latitude": 34.9349,
+	"longitude": -83.8472
+},
+{
+	"City": "Richland",
+	"State": "GA",
+	"latitude": 32.0885,
+	"longitude": -84.6625
+},
+{
+	"City": "Emerson",
+	"State": "GA",
+	"latitude": 34.1303,
+	"longitude": -84.7484
+},
+{
+	"City": "Lookout Mountain",
+	"State": "GA",
+	"latitude": 34.9664,
+	"longitude": -85.3622
+},
+{
+	"City": "Chester",
+	"State": "GA",
+	"latitude": 32.3945,
+	"longitude": -83.1551
+},
+{
+	"City": "Lincolnton",
+	"State": "GA",
+	"latitude": 33.7931,
+	"longitude": -82.4776
+},
+{
+	"City": "Russell",
+	"State": "GA",
+	"latitude": 33.9797,
+	"longitude": -83.6922
+},
+{
+	"City": "Porterdale",
+	"State": "GA",
+	"latitude": 33.5739,
+	"longitude": -83.894
+},
+{
+	"City": "Talahi Island",
+	"State": "GA",
+	"latitude": 32.0331,
+	"longitude": -80.976
+},
+{
+	"City": "Blue Ridge",
+	"State": "GA",
+	"latitude": 34.8666,
+	"longitude": -84.3218
+},
+{
+	"City": "Pine Mountain",
+	"State": "GA",
+	"latitude": 32.8522,
+	"longitude": -84.8522
+},
+{
+	"City": "Edison",
+	"State": "GA",
+	"latitude": 31.5608,
+	"longitude": -84.7374
+},
+{
+	"City": "East Griffin",
+	"State": "GA",
+	"latitude": 33.2439,
+	"longitude": -84.2318
+},
+{
+	"City": "Walnut Grove",
+	"State": "GA",
+	"latitude": 33.7452,
+	"longitude": -83.8512
+},
+{
+	"City": "Willacoochee",
+	"State": "GA",
+	"latitude": 31.3358,
+	"longitude": -83.0446
+},
+{
+	"City": "Woodbine",
+	"State": "GA",
+	"latitude": 30.9595,
+	"longitude": -81.7175
+},
+{
+	"City": "Enigma",
+	"State": "GA",
+	"latitude": 31.4076,
+	"longitude": -83.3291
+},
+{
+	"City": "Robins AFB",
+	"State": "GA",
+	"latitude": 32.6093,
+	"longitude": -83.5846
+},
+{
+	"City": "Aragon",
+	"State": "GA",
+	"latitude": 34.0459,
+	"longitude": -85.0571
+},
+{
+	"City": "Arlington",
+	"State": "GA",
+	"latitude": 31.4383,
+	"longitude": -84.7253
+},
+{
+	"City": "Boston",
+	"State": "GA",
+	"latitude": 30.792,
+	"longitude": -83.7899
+},
+{
+	"City": "Lumpkin",
+	"State": "GA",
+	"latitude": 32.0487,
+	"longitude": -84.7981
+},
+{
+	"City": "Mount Airy",
+	"State": "GA",
+	"latitude": 34.5221,
+	"longitude": -83.4977
+},
+{
+	"City": "Lumber City",
+	"State": "GA",
+	"latitude": 31.933,
+	"longitude": -82.6828
+},
+{
+	"City": "Winterville",
+	"State": "GA",
+	"latitude": 33.9666,
+	"longitude": -83.2815
+},
+{
+	"City": "Moody AFB",
+	"State": "GA",
+	"latitude": 30.9715,
+	"longitude": -83.1954
+},
+{
+	"City": "Omega",
+	"State": "GA",
+	"latitude": 31.3389,
+	"longitude": -83.5949
+},
+{
+	"City": "Zebulon",
+	"State": "GA",
+	"latitude": 33.0926,
+	"longitude": -84.3423
+},
+{
+	"City": "Marshallville",
+	"State": "GA",
+	"latitude": 32.4564,
+	"longitude": -83.9407
+},
+{
+	"City": "Homer",
+	"State": "GA",
+	"latitude": 34.335,
+	"longitude": -83.4987
+},
+{
+	"City": "Bogart",
+	"State": "GA",
+	"latitude": 33.9479,
+	"longitude": -83.5341
+},
+{
+	"City": "McCaysville",
+	"State": "GA",
+	"latitude": 34.9811,
+	"longitude": -84.3706
+},
+{
+	"City": "Alto",
+	"State": "GA",
+	"latitude": 34.4649,
+	"longitude": -83.5727
+},
+{
+	"City": "Broxton",
+	"State": "GA",
+	"latitude": 31.6248,
+	"longitude": -82.8877
+},
+{
+	"City": "Franklin Springs",
+	"State": "GA",
+	"latitude": 34.284,
+	"longitude": -83.1459
+},
+{
+	"City": "Comer",
+	"State": "GA",
+	"latitude": 34.0625,
+	"longitude": -83.1263
+},
+{
+	"City": "Buchanan",
+	"State": "GA",
+	"latitude": 33.803,
+	"longitude": -85.1803
+},
+{
+	"City": "Dutch Island",
+	"State": "GA",
+	"latitude": 32.0047,
+	"longitude": -81.0317
+},
+{
+	"City": "Oglethorpe",
+	"State": "GA",
+	"latitude": 32.2935,
+	"longitude": -84.0623
+},
+{
+	"City": "Nahunta",
+	"State": "GA",
+	"latitude": 31.2065,
+	"longitude": -81.9814
+},
+{
+	"City": "Hamilton",
+	"State": "GA",
+	"latitude": 32.7648,
+	"longitude": -84.8752
+},
+{
+	"City": "Phillipsburg",
+	"State": "GA",
+	"latitude": 31.4389,
+	"longitude": -83.5203
+},
+{
+	"City": "Mountain City",
+	"State": "GA",
+	"latitude": 34.9196,
+	"longitude": -83.3854
+},
+{
+	"City": "Rochelle",
+	"State": "GA",
+	"latitude": 31.9488,
+	"longitude": -83.4568
+},
+{
+	"City": "Ray City",
+	"State": "GA",
+	"latitude": 31.0729,
+	"longitude": -83.196
+},
+{
+	"City": "Remerton",
+	"State": "GA",
+	"latitude": 30.8441,
+	"longitude": -83.3086
+},
+{
+	"City": "Cave Spring",
+	"State": "GA",
+	"latitude": 34.1081,
+	"longitude": -85.3388
+},
+{
+	"City": "Clermont",
+	"State": "GA",
+	"latitude": 34.4784,
+	"longitude": -83.7721
+},
+{
+	"City": "Meigs",
+	"State": "GA",
+	"latitude": 31.0713,
+	"longitude": -84.0922
+},
+{
+	"City": "Dasher",
+	"State": "GA",
+	"latitude": 30.7462,
+	"longitude": -83.2253
+},
+{
+	"City": "Roberta",
+	"State": "GA",
+	"latitude": 32.7196,
+	"longitude": -84.0104
+},
+{
+	"City": "Franklin",
+	"State": "GA",
+	"latitude": 33.2797,
+	"longitude": -85.0985
+},
+{
+	"City": "Sunnyside",
+	"State": "GA",
+	"latitude": 31.2406,
+	"longitude": -82.3411
+},
+{
+	"City": "Hagan",
+	"State": "GA",
+	"latitude": 32.1536,
+	"longitude": -81.9305
+},
+{
+	"City": "Waleska",
+	"State": "GA",
+	"latitude": 34.3171,
+	"longitude": -84.5499
+},
+{
+	"City": "Fort Gaines",
+	"State": "GA",
+	"latitude": 31.6238,
+	"longitude": -85.0528
+},
+{
+	"City": "Norman Park",
+	"State": "GA",
+	"latitude": 31.2692,
+	"longitude": -83.6843
+},
+{
+	"City": "Reynolds",
+	"State": "GA",
+	"latitude": 32.5609,
+	"longitude": -84.0943
+},
+{
+	"City": "Sardis",
+	"State": "GA",
+	"latitude": 32.9756,
+	"longitude": -81.7621
+},
+{
+	"City": "Homeland",
+	"State": "GA",
+	"latitude": 30.8603,
+	"longitude": -82.0213
+},
+{
+	"City": "Jeffersonville",
+	"State": "GA",
+	"latitude": 32.6863,
+	"longitude": -83.3433
+},
+{
+	"City": "Shellman",
+	"State": "GA",
+	"latitude": 31.7571,
+	"longitude": -84.6159
+},
+{
+	"City": "Appling",
+	"State": "GA",
+	"latitude": 33.5588,
+	"longitude": -82.3183
+},
+{
+	"City": "Ivey",
+	"State": "GA",
+	"latitude": 32.9092,
+	"longitude": -83.2983
+},
+{
+	"City": "Hiawassee",
+	"State": "GA",
+	"latitude": 34.9494,
+	"longitude": -83.753
+},
+{
+	"City": "Tunnel Hill",
+	"State": "GA",
+	"latitude": 34.8498,
+	"longitude": -85.0394
+},
+{
+	"City": "Woodbury",
+	"State": "GA",
+	"latitude": 32.9848,
+	"longitude": -84.5821
+},
+{
+	"City": "Eton",
+	"State": "GA",
+	"latitude": 34.8282,
+	"longitude": -84.7656
+},
+{
+	"City": "Poulan",
+	"State": "GA",
+	"latitude": 31.5145,
+	"longitude": -83.7898
+},
+{
+	"City": "Lenox",
+	"State": "GA",
+	"latitude": 31.2672,
+	"longitude": -83.4673
+},
+{
+	"City": "Talbotton",
+	"State": "GA",
+	"latitude": 32.6773,
+	"longitude": -84.5406
+},
+{
+	"City": "Greenville",
+	"State": "GA",
+	"latitude": 33.0322,
+	"longitude": -84.7162
+},
+{
+	"City": "Rutledge",
+	"State": "GA",
+	"latitude": 33.6263,
+	"longitude": -83.6112
+},
+{
+	"City": "Crawford",
+	"State": "GA",
+	"latitude": 33.883,
+	"longitude": -83.1552
+},
+{
+	"City": "Luthersville",
+	"State": "GA",
+	"latitude": 33.2096,
+	"longitude": -84.7442
+},
+{
+	"City": "Baconton",
+	"State": "GA",
+	"latitude": 31.3804,
+	"longitude": -84.1592
+},
+{
+	"City": "East Newnan",
+	"State": "GA",
+	"latitude": 33.3461,
+	"longitude": -84.7763
+},
+{
+	"City": "Bowman",
+	"State": "GA",
+	"latitude": 34.2051,
+	"longitude": -83.0309
+},
+{
+	"City": "Waverly Hall",
+	"State": "GA",
+	"latitude": 32.6837,
+	"longitude": -84.7378
+},
+{
+	"City": "Resaca",
+	"State": "GA",
+	"latitude": 34.5789,
+	"longitude": -84.944
+},
+{
+	"City": "Canon",
+	"State": "GA",
+	"latitude": 34.3455,
+	"longitude": -83.1107
+},
+{
+	"City": "Newborn",
+	"State": "GA",
+	"latitude": 33.5163,
+	"longitude": -83.6959
+},
+{
+	"City": "Riceboro",
+	"State": "GA",
+	"latitude": 31.7264,
+	"longitude": -81.4438
+},
+{
+	"City": "Screven",
+	"State": "GA",
+	"latitude": 31.484,
+	"longitude": -82.0171
+},
+{
+	"City": "Patterson",
+	"State": "GA",
+	"latitude": 31.3854,
+	"longitude": -82.1375
+},
+{
+	"City": "Pine Lake",
+	"State": "GA",
+	"latitude": 33.7904,
+	"longitude": -84.2061
+},
+{
+	"City": "Ty Ty",
+	"State": "GA",
+	"latitude": 31.472,
+	"longitude": -83.6509
+},
+{
+	"City": "Fairmount",
+	"State": "GA",
+	"latitude": 34.4384,
+	"longitude": -84.6997
+},
+{
+	"City": "Doerun",
+	"State": "GA",
+	"latitude": 31.3218,
+	"longitude": -83.9171
+},
+{
+	"City": "White",
+	"State": "GA",
+	"latitude": 34.2825,
+	"longitude": -84.7472
+},
+{
+	"City": "Bethlehem",
+	"State": "GA",
+	"latitude": 33.9372,
+	"longitude": -83.7097
+},
+{
+	"City": "North High Shoals",
+	"State": "GA",
+	"latitude": 33.8271,
+	"longitude": -83.5014
+},
+{
+	"City": "Flemington",
+	"State": "GA",
+	"latitude": 31.8507,
+	"longitude": -81.5603
+},
+{
+	"City": "Plains",
+	"State": "GA",
+	"latitude": 32.0331,
+	"longitude": -84.3946
+},
+{
+	"City": "Allenhurst",
+	"State": "GA",
+	"latitude": 31.7839,
+	"longitude": -81.6078
+},
+{
+	"City": "Blythe",
+	"State": "GA",
+	"latitude": 33.3011,
+	"longitude": -82.2025
+},
+{
+	"City": "Portal",
+	"State": "GA",
+	"latitude": 32.5383,
+	"longitude": -81.9297
+},
+{
+	"City": "Ochlocknee",
+	"State": "GA",
+	"latitude": 30.9752,
+	"longitude": -84.0517
+},
+{
+	"City": "Kingston",
+	"State": "GA",
+	"latitude": 34.232,
+	"longitude": -84.9445
+},
+{
+	"City": "Alapaha",
+	"State": "GA",
+	"latitude": 31.3832,
+	"longitude": -83.2237
+},
+{
+	"City": "Sunset Village",
+	"State": "GA",
+	"latitude": 32.8947,
+	"longitude": -84.4057
+},
+{
+	"City": "Adrian",
+	"State": "GA",
+	"latitude": 32.5306,
+	"longitude": -82.592
+},
+{
+	"City": "Sycamore",
+	"State": "GA",
+	"latitude": 31.671,
+	"longitude": -83.6353
+},
+{
+	"City": "Flovilla",
+	"State": "GA",
+	"latitude": 33.2524,
+	"longitude": -83.903
+},
+{
+	"City": "Milan",
+	"State": "GA",
+	"latitude": 32.0194,
+	"longitude": -83.0631
+},
+{
+	"City": "Milner",
+	"State": "GA",
+	"latitude": 33.1177,
+	"longitude": -84.193
+},
+{
+	"City": "Glenwood",
+	"State": "GA",
+	"latitude": 32.1805,
+	"longitude": -82.6709
+},
+{
+	"City": "Blairsville",
+	"State": "GA",
+	"latitude": 34.8761,
+	"longitude": -83.9548
+},
+{
+	"City": "Cohutta",
+	"State": "GA",
+	"latitude": 34.9539,
+	"longitude": -84.9593
+},
+{
+	"City": "Smithville",
+	"State": "GA",
+	"latitude": 31.9013,
+	"longitude": -84.2552
+},
+{
+	"City": "Gibson",
+	"State": "GA",
+	"latitude": 33.2334,
+	"longitude": -82.596
+},
+{
+	"City": "Whitesburg",
+	"State": "GA",
+	"latitude": 33.4928,
+	"longitude": -84.9137
+},
+{
+	"City": "McIntyre",
+	"State": "GA",
+	"latitude": 32.8466,
+	"longitude": -83.2011
+},
+{
+	"City": "Pavo",
+	"State": "GA",
+	"latitude": 30.9597,
+	"longitude": -83.738
+},
+{
+	"City": "Carnesville",
+	"State": "GA",
+	"latitude": 34.3729,
+	"longitude": -83.2328
+},
+{
+	"City": "Colbert",
+	"State": "GA",
+	"latitude": 34.037,
+	"longitude": -83.2139
+},
+{
+	"City": "Danielsville",
+	"State": "GA",
+	"latitude": 34.1238,
+	"longitude": -83.2201
+},
+{
+	"City": "Uvalda",
+	"State": "GA",
+	"latitude": 32.0371,
+	"longitude": -82.508
+},
+{
+	"City": "Newton",
+	"State": "GA",
+	"latitude": 31.3172,
+	"longitude": -84.3376
+},
+{
+	"City": "Collins",
+	"State": "GA",
+	"latitude": 32.1793,
+	"longitude": -82.1103
+},
+{
+	"City": "East Ellijay",
+	"State": "GA",
+	"latitude": 34.6759,
+	"longitude": -84.4761
+},
+{
+	"City": "Arabi",
+	"State": "GA",
+	"latitude": 31.8282,
+	"longitude": -83.7302
+},
+{
+	"City": "Pendergrass",
+	"State": "GA",
+	"latitude": 34.1646,
+	"longitude": -83.6827
+},
+{
+	"City": "Dexter",
+	"State": "GA",
+	"latitude": 32.4331,
+	"longitude": -83.0595
+},
+{
+	"City": "Dudley",
+	"State": "GA",
+	"latitude": 32.5321,
+	"longitude": -83.0805
+},
+{
+	"City": "Helen",
+	"State": "GA",
+	"latitude": 34.7044,
+	"longitude": -83.7201
+},
+{
+	"City": "Leary",
+	"State": "GA",
+	"latitude": 31.4847,
+	"longitude": -84.5133
+},
+{
+	"City": "Brooks",
+	"State": "GA",
+	"latitude": 33.2925,
+	"longitude": -84.4588
+},
+{
+	"City": "Irwinton",
+	"State": "GA",
+	"latitude": 32.8108,
+	"longitude": -83.1737
+},
+{
+	"City": "Berlin",
+	"State": "GA",
+	"latitude": 31.0683,
+	"longitude": -83.6236
+},
+{
+	"City": "Morven",
+	"State": "GA",
+	"latitude": 30.9434,
+	"longitude": -83.5003
+},
+{
+	"City": "Cadwell",
+	"State": "GA",
+	"latitude": 32.3396,
+	"longitude": -83.042
+},
+{
+	"City": "Hoboken",
+	"State": "GA",
+	"latitude": 31.1813,
+	"longitude": -82.1313
+},
+{
+	"City": "Ailey",
+	"State": "GA",
+	"latitude": 32.1882,
+	"longitude": -82.5699
+},
+{
+	"City": "Dearing",
+	"State": "GA",
+	"latitude": 33.4149,
+	"longitude": -82.3852
+},
+{
+	"City": "Coolidge",
+	"State": "GA",
+	"latitude": 31.0113,
+	"longitude": -83.8661
+},
+{
+	"City": "Lincoln Park",
+	"State": "GA",
+	"latitude": 32.8674,
+	"longitude": -84.3348
+},
+{
+	"City": "Waco",
+	"State": "GA",
+	"latitude": 33.7026,
+	"longitude": -85.1893
+},
+{
+	"City": "Stillmore",
+	"State": "GA",
+	"latitude": 32.441,
+	"longitude": -82.2145
+},
+{
+	"City": "Lyerly",
+	"State": "GA",
+	"latitude": 34.4035,
+	"longitude": -85.4041
+},
+{
+	"City": "Williamson",
+	"State": "GA",
+	"latitude": 33.1777,
+	"longitude": -84.3582
+},
+{
+	"City": "Odum",
+	"State": "GA",
+	"latitude": 31.6665,
+	"longitude": -82.0269
+},
+{
+	"City": "Byromville",
+	"State": "GA",
+	"latitude": 32.2018,
+	"longitude": -83.9073
+},
+{
+	"City": "Tignall",
+	"State": "GA",
+	"latitude": 33.8674,
+	"longitude": -82.742
+},
+{
+	"City": "Yonah",
+	"State": "GA",
+	"latitude": 34.6437,
+	"longitude": -83.7411
+},
+{
+	"City": "Pineview",
+	"State": "GA",
+	"latitude": 32.1084,
+	"longitude": -83.503
+},
+{
+	"City": "Shiloh",
+	"State": "GA",
+	"latitude": 32.8115,
+	"longitude": -84.6989
+},
+{
+	"City": "Toomsboro",
+	"State": "GA",
+	"latitude": 32.8225,
+	"longitude": -83.0826
+},
+{
+	"City": "Bowersville",
+	"State": "GA",
+	"latitude": 34.373,
+	"longitude": -83.0838
+},
+{
+	"City": "Crawfordville",
+	"State": "GA",
+	"latitude": 33.5545,
+	"longitude": -82.8965
+},
+{
+	"City": "Oak Park",
+	"State": "GA",
+	"latitude": 32.3822,
+	"longitude": -82.3153
+},
+{
+	"City": "Whigham",
+	"State": "GA",
+	"latitude": 30.8845,
+	"longitude": -84.3247
+},
+{
+	"City": "Ephesus",
+	"State": "GA",
+	"latitude": 33.4069,
+	"longitude": -85.2568
+},
+{
+	"City": "Menlo",
+	"State": "GA",
+	"latitude": 34.4835,
+	"longitude": -85.4776
+},
+{
+	"City": "Crooked Creek",
+	"State": "GA",
+	"latitude": 33.2616,
+	"longitude": -83.2679
+},
+{
+	"City": "Funston",
+	"State": "GA",
+	"latitude": 31.1989,
+	"longitude": -83.8771
+},
+{
+	"City": "Moreland",
+	"State": "GA",
+	"latitude": 33.2861,
+	"longitude": -84.7699
+},
+{
+	"City": "Harrison",
+	"State": "GA",
+	"latitude": 32.8263,
+	"longitude": -82.7258
+},
+{
+	"City": "Mansfield",
+	"State": "GA",
+	"latitude": 33.518,
+	"longitude": -83.7349
+},
+{
+	"City": "Offerman",
+	"State": "GA",
+	"latitude": 31.4088,
+	"longitude": -82.1132
+},
+{
+	"City": "Ideal",
+	"State": "GA",
+	"latitude": 32.3726,
+	"longitude": -84.1894
+},
+{
+	"City": "Attapulgus",
+	"State": "GA",
+	"latitude": 30.7495,
+	"longitude": -84.4839
+},
+{
+	"City": "Sumner",
+	"State": "GA",
+	"latitude": 31.5103,
+	"longitude": -83.7368
+},
+{
+	"City": "Tiger",
+	"State": "GA",
+	"latitude": 34.8458,
+	"longitude": -83.433
+},
+{
+	"City": "Warm Springs",
+	"State": "GA",
+	"latitude": 32.8869,
+	"longitude": -84.678
+},
+{
+	"City": "Molena",
+	"State": "GA",
+	"latitude": 33.0122,
+	"longitude": -84.5005
+},
+{
+	"City": "Bostwick",
+	"State": "GA",
+	"latitude": 33.7378,
+	"longitude": -83.5149
+},
+{
+	"City": "Stapleton",
+	"State": "GA",
+	"latitude": 33.217,
+	"longitude": -82.4672
+},
+{
+	"City": "Warwick",
+	"State": "GA",
+	"latitude": 31.8298,
+	"longitude": -83.9206
+},
+{
+	"City": "Concord",
+	"State": "GA",
+	"latitude": 33.0916,
+	"longitude": -84.4387
+},
+{
+	"City": "Martin",
+	"State": "GA",
+	"latitude": 34.4856,
+	"longitude": -83.1983
+},
+{
+	"City": "Braswell",
+	"State": "GA",
+	"latitude": 33.9836,
+	"longitude": -84.9592
+},
+{
+	"City": "Woodville",
+	"State": "GA",
+	"latitude": 33.6715,
+	"longitude": -83.1063
+},
+{
+	"City": "Salem",
+	"State": "GA",
+	"latitude": 32.7588,
+	"longitude": -84.1933
+},
+{
+	"City": "Mineral Bluff",
+	"State": "GA",
+	"latitude": 34.914,
+	"longitude": -84.2776
+},
+{
+	"City": "Ambrose",
+	"State": "GA",
+	"latitude": 31.5944,
+	"longitude": -83.0137
+},
+{
+	"City": "Dillard",
+	"State": "GA",
+	"latitude": 34.9749,
+	"longitude": -83.382
+},
+{
+	"City": "Centralhatchee",
+	"State": "GA",
+	"latitude": 33.3688,
+	"longitude": -85.1037
+},
+{
+	"City": "Jenkinsburg",
+	"State": "GA",
+	"latitude": 33.3225,
+	"longitude": -84.0388
+},
+{
+	"City": "Empire",
+	"State": "GA",
+	"latitude": 32.3394,
+	"longitude": -83.295
+},
+{
+	"City": "Rhine",
+	"State": "GA",
+	"latitude": 31.9891,
+	"longitude": -83.2
+},
+{
+	"City": "Between",
+	"State": "GA",
+	"latitude": 33.8177,
+	"longitude": -83.8043
+},
+{
+	"City": "Barwick",
+	"State": "GA",
+	"latitude": 30.8933,
+	"longitude": -83.7391
+},
+{
+	"City": "Leslie",
+	"State": "GA",
+	"latitude": 31.9545,
+	"longitude": -84.0864
+},
+{
+	"City": "Bronwood",
+	"State": "GA",
+	"latitude": 31.8306,
+	"longitude": -84.3643
+},
+{
+	"City": "Arnoldsville",
+	"State": "GA",
+	"latitude": 33.9103,
+	"longitude": -83.2181
+},
+{
+	"City": "Sharpsburg",
+	"State": "GA",
+	"latitude": 33.337,
+	"longitude": -84.6504
+},
+{
+	"City": "Yatesville",
+	"State": "GA",
+	"latitude": 32.9133,
+	"longitude": -84.1423
+},
+{
+	"City": "Ila",
+	"State": "GA",
+	"latitude": 34.1728,
+	"longitude": -83.293
+},
+{
+	"City": "Cobbtown",
+	"State": "GA",
+	"latitude": 32.2806,
+	"longitude": -82.1387
+},
+{
+	"City": "Satilla",
+	"State": "GA",
+	"latitude": 31.7921,
+	"longitude": -82.564
+},
+{
+	"City": "Pinehurst",
+	"State": "GA",
+	"latitude": 32.1955,
+	"longitude": -83.7596
+},
+{
+	"City": "Woodland",
+	"State": "GA",
+	"latitude": 32.7877,
+	"longitude": -84.5606
+},
+{
+	"City": "Turin",
+	"State": "GA",
+	"latitude": 33.3234,
+	"longitude": -84.6375
+},
+{
+	"City": "Sale City",
+	"State": "GA",
+	"latitude": 31.2625,
+	"longitude": -84.0214
+},
+{
+	"City": "White Plains",
+	"State": "GA",
+	"latitude": 33.4807,
+	"longitude": -83.0372
+},
+{
+	"City": "Scotland",
+	"State": "GA",
+	"latitude": 32.0472,
+	"longitude": -82.818
+},
+{
+	"City": "Keysville",
+	"State": "GA",
+	"latitude": 33.2375,
+	"longitude": -82.2289
+},
+{
+	"City": "Chauncey",
+	"State": "GA",
+	"latitude": 32.1059,
+	"longitude": -83.0645
+},
+{
+	"City": "Hiltonia",
+	"State": "GA",
+	"latitude": 32.8833,
+	"longitude": -81.6613
+},
+{
+	"City": "Morganton",
+	"State": "GA",
+	"latitude": 34.8749,
+	"longitude": -84.2442
+},
+{
+	"City": "Plainville",
+	"State": "GA",
+	"latitude": 34.4053,
+	"longitude": -85.0312
+},
+{
+	"City": "Fargo",
+	"State": "GA",
+	"latitude": 30.6881,
+	"longitude": -82.5721
+},
+{
+	"City": "Higgston",
+	"State": "GA",
+	"latitude": 32.2164,
+	"longitude": -82.467
+},
+{
+	"City": "Good Hope",
+	"State": "GA",
+	"latitude": 33.785,
+	"longitude": -83.6094
+},
+{
+	"City": "Pitts",
+	"State": "GA",
+	"latitude": 31.9462,
+	"longitude": -83.5418
+},
+{
+	"City": "Graham",
+	"State": "GA",
+	"latitude": 31.8292,
+	"longitude": -82.503
+},
+{
+	"City": "Iron City",
+	"State": "GA",
+	"latitude": 31.0136,
+	"longitude": -84.8133
+},
+{
+	"City": "Rentz",
+	"State": "GA",
+	"latitude": 32.3835,
+	"longitude": -82.9917
+},
+{
+	"City": "Cecil",
+	"State": "GA",
+	"latitude": 31.0466,
+	"longitude": -83.3906
+},
+{
+	"City": "Ellenton",
+	"State": "GA",
+	"latitude": 31.1759,
+	"longitude": -83.5876
+},
+{
+	"City": "Sautee-Nacoochee",
+	"State": "GA",
+	"latitude": 34.6895,
+	"longitude": -83.686
+},
+{
+	"City": "Siloam",
+	"State": "GA",
+	"latitude": 33.5366,
+	"longitude": -83.0812
+},
+{
+	"City": "Bishop",
+	"State": "GA",
+	"latitude": 33.8171,
+	"longitude": -83.4372
+},
+{
+	"City": "Sky Valley",
+	"State": "GA",
+	"latitude": 34.984,
+	"longitude": -83.3314
+},
+{
+	"City": "Gumbranch",
+	"State": "GA",
+	"latitude": 31.8367,
+	"longitude": -81.6838
+},
+{
+	"City": "Pulaski",
+	"State": "GA",
+	"latitude": 32.3904,
+	"longitude": -81.9566
+},
+{
+	"City": "Newington",
+	"State": "GA",
+	"latitude": 32.5888,
+	"longitude": -81.5063
+},
+{
+	"City": "Climax",
+	"State": "GA",
+	"latitude": 30.8756,
+	"longitude": -84.4312
+},
+{
+	"City": "Carlton",
+	"State": "GA",
+	"latitude": 34.0427,
+	"longitude": -83.0386
+},
+{
+	"City": "Talmo",
+	"State": "GA",
+	"latitude": 34.1831,
+	"longitude": -83.7209
+},
+{
+	"City": "Sasser",
+	"State": "GA",
+	"latitude": 31.7199,
+	"longitude": -84.3478
+},
+{
+	"City": "Midville",
+	"State": "GA",
+	"latitude": 32.8218,
+	"longitude": -82.2347
+},
+{
+	"City": "Bartow",
+	"State": "GA",
+	"latitude": 32.8816,
+	"longitude": -82.4712
+},
+{
+	"City": "Denton",
+	"State": "GA",
+	"latitude": 31.7221,
+	"longitude": -82.6968
+},
+{
+	"City": "Oconee",
+	"State": "GA",
+	"latitude": 32.8535,
+	"longitude": -82.9576
+},
+{
+	"City": "Gillsville",
+	"State": "GA",
+	"latitude": 34.3095,
+	"longitude": -83.6381
+},
+{
+	"City": "Shady Dale",
+	"State": "GA",
+	"latitude": 33.4007,
+	"longitude": -83.5881
+},
+{
+	"City": "Carl",
+	"State": "GA",
+	"latitude": 34.0046,
+	"longitude": -83.8128
+},
+{
+	"City": "Orchard Hill",
+	"State": "GA",
+	"latitude": 33.1851,
+	"longitude": -84.2123
+},
+{
+	"City": "Oliver",
+	"State": "GA",
+	"latitude": 32.5214,
+	"longitude": -81.5331
+},
+{
+	"City": "Roopville",
+	"State": "GA",
+	"latitude": 33.4567,
+	"longitude": -85.1304
+},
+{
+	"City": "Lexington",
+	"State": "GA",
+	"latitude": 33.87,
+	"longitude": -83.1101
+},
+{
+	"City": "Kite",
+	"State": "GA",
+	"latitude": 32.6921,
+	"longitude": -82.5136
+},
+{
+	"City": "Avera",
+	"State": "GA",
+	"latitude": 33.1934,
+	"longitude": -82.5287
+},
+{
+	"City": "Maxeys",
+	"State": "GA",
+	"latitude": 33.7555,
+	"longitude": -83.1737
+},
+{
+	"City": "Taylorsville",
+	"State": "GA",
+	"latitude": 34.086,
+	"longitude": -84.9876
+},
+{
+	"City": "Damascus",
+	"State": "GA",
+	"latitude": 31.2989,
+	"longitude": -84.717
+},
+{
+	"City": "Norwood",
+	"State": "GA",
+	"latitude": 33.4626,
+	"longitude": -82.7055
+},
+{
+	"City": "Andersonville",
+	"State": "GA",
+	"latitude": 32.1966,
+	"longitude": -84.1455
+},
+{
+	"City": "Avalon",
+	"State": "GA",
+	"latitude": 34.5027,
+	"longitude": -83.1967
+},
+{
+	"City": "Meansville",
+	"State": "GA",
+	"latitude": 33.0508,
+	"longitude": -84.3083
+},
+{
+	"City": "Montrose",
+	"State": "GA",
+	"latitude": 32.5595,
+	"longitude": -83.1535
+},
+{
+	"City": "Danville",
+	"State": "GA",
+	"latitude": 32.606,
+	"longitude": -83.246
+},
+{
+	"City": "Argyle",
+	"State": "GA",
+	"latitude": 31.0732,
+	"longitude": -82.6489
+},
+{
+	"City": "Brinson",
+	"State": "GA",
+	"latitude": 30.9784,
+	"longitude": -84.7379
+},
+{
+	"City": "Surrency",
+	"State": "GA",
+	"latitude": 31.7215,
+	"longitude": -82.1988
+},
+{
+	"City": "Hull",
+	"State": "GA",
+	"latitude": 34.0155,
+	"longitude": -83.2939
+},
+{
+	"City": "Garfield",
+	"State": "GA",
+	"latitude": 32.6495,
+	"longitude": -82.0962
+},
+{
+	"City": "Lilly",
+	"State": "GA",
+	"latitude": 32.1465,
+	"longitude": -83.8775
+},
+{
+	"City": "Epworth",
+	"State": "GA",
+	"latitude": 34.951,
+	"longitude": -84.3809
+},
+{
+	"City": "Haralson",
+	"State": "GA",
+	"latitude": 33.2285,
+	"longitude": -84.569
+},
+{
+	"City": "Register",
+	"State": "GA",
+	"latitude": 32.3657,
+	"longitude": -81.8845
+},
+{
+	"City": "Mitchell",
+	"State": "GA",
+	"latitude": 33.2199,
+	"longitude": -82.7031
+},
+{
+	"City": "Culloden",
+	"State": "GA",
+	"latitude": 32.8632,
+	"longitude": -84.094
+},
+{
+	"City": "Rayle",
+	"State": "GA",
+	"latitude": 33.7902,
+	"longitude": -82.9031
+},
+{
+	"City": "Dewy Rose",
+	"State": "GA",
+	"latitude": 34.1681,
+	"longitude": -82.9395
+},
+{
+	"City": "Buckhead",
+	"State": "GA",
+	"latitude": 33.5685,
+	"longitude": -83.3623
+},
+{
+	"City": "The Rock",
+	"State": "GA",
+	"latitude": 32.9635,
+	"longitude": -84.2378
+},
+{
+	"City": "De Soto",
+	"State": "GA",
+	"latitude": 31.9548,
+	"longitude": -84.0636
+},
+{
+	"City": "Tallulah Falls",
+	"State": "GA",
+	"latitude": 34.7258,
+	"longitude": -83.3816
+},
+{
+	"City": "Woolsey",
+	"State": "GA",
+	"latitude": 33.3627,
+	"longitude": -84.4113
+},
+{
+	"City": "Rebecca",
+	"State": "GA",
+	"latitude": 31.8072,
+	"longitude": -83.4876
+},
+{
+	"City": "Junction City",
+	"State": "GA",
+	"latitude": 32.6032,
+	"longitude": -84.4574
+},
+{
+	"City": "Santa Claus",
+	"State": "GA",
+	"latitude": 32.1712,
+	"longitude": -82.3298
+},
+{
+	"City": "Alston",
+	"State": "GA",
+	"latitude": 32.081,
+	"longitude": -82.4789
+},
+{
+	"City": "Summertown",
+	"State": "GA",
+	"latitude": 32.7458,
+	"longitude": -82.2763
+},
+{
+	"City": "Allentown",
+	"State": "GA",
+	"latitude": 32.5855,
+	"longitude": -83.2273
+},
+{
+	"City": "Girard",
+	"State": "GA",
+	"latitude": 33.04,
+	"longitude": -81.7122
+},
+{
+	"City": "Jakin",
+	"State": "GA",
+	"latitude": 31.0901,
+	"longitude": -84.9822
+},
+{
+	"City": "Jersey",
+	"State": "GA",
+	"latitude": 33.7177,
+	"longitude": -83.8
+},
+{
+	"City": "Nunez",
+	"State": "GA",
+	"latitude": 32.492,
+	"longitude": -82.3466
+},
+{
+	"City": "Daisy",
+	"State": "GA",
+	"latitude": 32.151,
+	"longitude": -81.8362
+},
+{
+	"City": "Rocky Ford",
+	"State": "GA",
+	"latitude": 32.6636,
+	"longitude": -81.8297
+},
+{
+	"City": "Parrott",
+	"State": "GA",
+	"latitude": 31.8943,
+	"longitude": -84.5117
+},
+{
+	"City": "Dooling",
+	"State": "GA",
+	"latitude": 32.23,
+	"longitude": -83.9289
+},
+{
+	"City": "Ranger",
+	"State": "GA",
+	"latitude": 34.5013,
+	"longitude": -84.7111
+},
+{
+	"City": "Jacksonville",
+	"State": "GA",
+	"latitude": 31.8126,
+	"longitude": -82.979
+},
+{
+	"City": "Perkins",
+	"State": "GA",
+	"latitude": 32.9149,
+	"longitude": -81.949
+},
+{
+	"City": "Camak",
+	"State": "GA",
+	"latitude": 33.4526,
+	"longitude": -82.6463
+},
+{
+	"City": "Sharon",
+	"State": "GA",
+	"latitude": 33.5601,
+	"longitude": -82.795
+},
+{
+	"City": "Hilltop",
+	"State": "GA",
+	"latitude": 33.1063,
+	"longitude": -84.4383
+},
+{
+	"City": "Vernonburg",
+	"State": "GA",
+	"latitude": 31.9638,
+	"longitude": -81.1257
+},
+{
+	"City": "Deepstep",
+	"State": "GA",
+	"latitude": 33.0176,
+	"longitude": -82.9679
+},
+{
+	"City": "Bellville",
+	"State": "GA",
+	"latitude": 32.1526,
+	"longitude": -81.9743
+},
+{
+	"City": "Matthews",
+	"State": "GA",
+	"latitude": 33.2176,
+	"longitude": -82.3079
+},
+{
+	"City": "Du Pont",
+	"State": "GA",
+	"latitude": 30.9891,
+	"longitude": -82.8691
+},
+{
+	"City": "Calvary",
+	"State": "GA",
+	"latitude": 30.7225,
+	"longitude": -84.3541
+},
+{
+	"City": "Aldora",
+	"State": "GA",
+	"latitude": 33.0509,
+	"longitude": -84.1759
+},
+{
+	"City": "Seville",
+	"State": "GA",
+	"latitude": 31.9607,
+	"longitude": -83.6012
+},
+{
+	"City": "Vidette",
+	"State": "GA",
+	"latitude": 33.0376,
+	"longitude": -82.2474
+},
+{
+	"City": "Geneva",
+	"State": "GA",
+	"latitude": 32.5789,
+	"longitude": -84.5516
+},
+{
+	"City": "Bluffton",
+	"State": "GA",
+	"latitude": 31.5198,
+	"longitude": -84.8691
+},
+{
+	"City": "Lone Oak",
+	"State": "GA",
+	"latitude": 33.1724,
+	"longitude": -84.8173
+},
+{
+	"City": "Cedar Springs",
+	"State": "GA",
+	"latitude": 31.1873,
+	"longitude": -85.0324
+},
+{
+	"City": "Riddleville",
+	"State": "GA",
+	"latitude": 32.9069,
+	"longitude": -82.6661
+},
+{
+	"City": "Tarrytown",
+	"State": "GA",
+	"latitude": 32.3187,
+	"longitude": -82.5596
+},
+{
+	"City": "Manassas",
+	"State": "GA",
+	"latitude": 32.1603,
+	"longitude": -82.02
+},
+{
+	"City": "Gay",
+	"State": "GA",
+	"latitude": 33.0937,
+	"longitude": -84.5755
+},
+{
+	"City": "Knoxville",
+	"State": "GA",
+	"latitude": 32.7232,
+	"longitude": -83.996
+},
+{
+	"City": "Mendes",
+	"State": "GA",
+	"latitude": 31.9953,
+	"longitude": -81.9709
+},
+{
+	"City": "Talking Rock",
+	"State": "GA",
+	"latitude": 34.5277,
+	"longitude": -84.4941
+},
+{
+	"City": "Rockingham",
+	"State": "GA",
+	"latitude": 31.5441,
+	"longitude": -82.4145
+},
+{
+	"City": "Rest Haven",
+	"State": "GA",
+	"latitude": 34.1354,
+	"longitude": -83.9763
+},
+{
+	"City": "Canoochee",
+	"State": "GA",
+	"latitude": 32.6786,
+	"longitude": -82.1786
+},
+{
+	"City": "Cherry Log",
+	"State": "GA",
+	"latitude": 34.7864,
+	"longitude": -84.3839
+},
+{
+	"City": "Boykin",
+	"State": "GA",
+	"latitude": 31.1017,
+	"longitude": -84.6848
+},
+{
+	"City": "Edge Hill",
+	"State": "GA",
+	"latitude": 33.1534,
+	"longitude": -82.625
+},
+{
+	"City": "Coleman",
+	"State": "GA",
+	"latitude": 31.6717,
+	"longitude": -84.8902
+},
+{
+	"City": "Norristown",
+	"State": "GA",
+	"latitude": 32.5064,
+	"longitude": -82.4981
+}]

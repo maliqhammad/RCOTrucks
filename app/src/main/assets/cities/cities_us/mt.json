@@ -1,0 +1,2161 @@
+[
+{
+	"City": "Billings",
+	"State": "MT",
+	"latitude": 45.7891,
+	"longitude": -108.5524
+},
+{
+	"City": "Missoula",
+	"State": "MT",
+	"latitude": 46.875,
+	"longitude": -114.0214
+},
+{
+	"City": "Great Falls",
+	"State": "MT",
+	"latitude": 47.5022,
+	"longitude": -111.2995
+},
+{
+	"City": "Bozeman",
+	"State": "MT",
+	"latitude": 45.6832,
+	"longitude": -111.0552
+},
+{
+	"City": "Helena",
+	"State": "MT",
+	"latitude": 46.5965,
+	"longitude": -112.0202
+},
+{
+	"City": "Kalispell",
+	"State": "MT",
+	"latitude": 48.2156,
+	"longitude": -114.3262
+},
+{
+	"City": "Butte",
+	"State": "MT",
+	"latitude": 45.902,
+	"longitude": -112.6571
+},
+{
+	"City": "Belgrade",
+	"State": "MT",
+	"latitude": 45.7796,
+	"longitude": -111.1751
+},
+{
+	"City": "Havre",
+	"State": "MT",
+	"latitude": 48.5427,
+	"longitude": -109.6803
+},
+{
+	"City": "Miles City",
+	"State": "MT",
+	"latitude": 46.4059,
+	"longitude": -105.8385
+},
+{
+	"City": "Anaconda",
+	"State": "MT",
+	"latitude": 46.0607,
+	"longitude": -113.0679
+},
+{
+	"City": "Livingston",
+	"State": "MT",
+	"latitude": 45.6666,
+	"longitude": -110.5538
+},
+{
+	"City": "Laurel",
+	"State": "MT",
+	"latitude": 45.6735,
+	"longitude": -108.7707
+},
+{
+	"City": "Helena Valley Southeast",
+	"State": "MT",
+	"latitude": 46.6175,
+	"longitude": -111.9186
+},
+{
+	"City": "Whitefish",
+	"State": "MT",
+	"latitude": 48.4329,
+	"longitude": -114.3591
+},
+{
+	"City": "Helena Valley West Central",
+	"State": "MT",
+	"latitude": 46.6634,
+	"longitude": -112.0604
+},
+{
+	"City": "Lockwood",
+	"State": "MT",
+	"latitude": 45.8199,
+	"longitude": -108.4072
+},
+{
+	"City": "Evergreen",
+	"State": "MT",
+	"latitude": 48.2308,
+	"longitude": -114.2701
+},
+{
+	"City": "Columbia Falls",
+	"State": "MT",
+	"latitude": 48.3708,
+	"longitude": -114.1903
+},
+{
+	"City": "Hamilton",
+	"State": "MT",
+	"latitude": 46.2527,
+	"longitude": -114.1598
+},
+{
+	"City": "Sidney",
+	"State": "MT",
+	"latitude": 47.7152,
+	"longitude": -104.168
+},
+{
+	"City": "Glendive",
+	"State": "MT",
+	"latitude": 47.1102,
+	"longitude": -104.7069
+},
+{
+	"City": "Lewistown",
+	"State": "MT",
+	"latitude": 47.0514,
+	"longitude": -109.4524
+},
+{
+	"City": "Orchard Homes",
+	"State": "MT",
+	"latitude": 46.8559,
+	"longitude": -114.0778
+},
+{
+	"City": "Polson",
+	"State": "MT",
+	"latitude": 47.6886,
+	"longitude": -114.1411
+},
+{
+	"City": "Four Corners",
+	"State": "MT",
+	"latitude": 45.6704,
+	"longitude": -111.178
+},
+{
+	"City": "Dillon",
+	"State": "MT",
+	"latitude": 45.2177,
+	"longitude": -112.6348
+},
+{
+	"City": "Bigfork",
+	"State": "MT",
+	"latitude": 48.0852,
+	"longitude": -114.0551
+},
+{
+	"City": "Helena Valley Northwest",
+	"State": "MT",
+	"latitude": 46.729,
+	"longitude": -112.0627
+},
+{
+	"City": "Libby",
+	"State": "MT",
+	"latitude": 48.3872,
+	"longitude": -115.556
+},
+{
+	"City": "Malmstrom AFB",
+	"State": "MT",
+	"latitude": 47.5059,
+	"longitude": -111.1825
+},
+{
+	"City": "Lolo",
+	"State": "MT",
+	"latitude": 46.7756,
+	"longitude": -114.1018
+},
+{
+	"City": "Hardin",
+	"State": "MT",
+	"latitude": 45.7422,
+	"longitude": -107.6083
+},
+{
+	"City": "Wolf Point",
+	"State": "MT",
+	"latitude": 48.0933,
+	"longitude": -105.6413
+},
+{
+	"City": "Helena Valley Northeast",
+	"State": "MT",
+	"latitude": 46.6993,
+	"longitude": -111.9516
+},
+{
+	"City": "Glasgow",
+	"State": "MT",
+	"latitude": 48.199,
+	"longitude": -106.6321
+},
+{
+	"City": "Cut Bank",
+	"State": "MT",
+	"latitude": 48.6345,
+	"longitude": -112.3304
+},
+{
+	"City": "Big Sky",
+	"State": "MT",
+	"latitude": 45.2592,
+	"longitude": -111.3426
+},
+{
+	"City": "Shelby",
+	"State": "MT",
+	"latitude": 48.5031,
+	"longitude": -111.8615
+},
+{
+	"City": "Deer Lodge",
+	"State": "MT",
+	"latitude": 46.3974,
+	"longitude": -112.7337
+},
+{
+	"City": "Montana City",
+	"State": "MT",
+	"latitude": 46.5257,
+	"longitude": -111.94
+},
+{
+	"City": "North Browning",
+	"State": "MT",
+	"latitude": 48.5684,
+	"longitude": -113.0171
+},
+{
+	"City": "Poplar",
+	"State": "MT",
+	"latitude": 48.1105,
+	"longitude": -105.1969
+},
+{
+	"City": "Conrad",
+	"State": "MT",
+	"latitude": 48.1741,
+	"longitude": -111.9466
+},
+{
+	"City": "Red Lodge",
+	"State": "MT",
+	"latitude": 45.1933,
+	"longitude": -109.2501
+},
+{
+	"City": "Pablo",
+	"State": "MT",
+	"latitude": 47.6035,
+	"longitude": -114.1059
+},
+{
+	"City": "Lakeside",
+	"State": "MT",
+	"latitude": 48.0182,
+	"longitude": -114.2274
+},
+{
+	"City": "Colstrip",
+	"State": "MT",
+	"latitude": 45.8943,
+	"longitude": -106.628
+},
+{
+	"City": "Townsend",
+	"State": "MT",
+	"latitude": 46.3192,
+	"longitude": -111.5197
+},
+{
+	"City": "Ronan",
+	"State": "MT",
+	"latitude": 47.5287,
+	"longitude": -114.1005
+},
+{
+	"City": "East Missoula",
+	"State": "MT",
+	"latitude": 46.8801,
+	"longitude": -113.9401
+},
+{
+	"City": "East Helena",
+	"State": "MT",
+	"latitude": 46.585,
+	"longitude": -111.9158
+},
+{
+	"City": "Lame Deer",
+	"State": "MT",
+	"latitude": 45.6176,
+	"longitude": -106.6134
+},
+{
+	"City": "Columbus",
+	"State": "MT",
+	"latitude": 45.636,
+	"longitude": -109.2488
+},
+{
+	"City": "Stevensville",
+	"State": "MT",
+	"latitude": 46.511,
+	"longitude": -114.0788
+},
+{
+	"City": "Three Forks",
+	"State": "MT",
+	"latitude": 45.89,
+	"longitude": -111.5522
+},
+{
+	"City": "Clancy",
+	"State": "MT",
+	"latitude": 46.4493,
+	"longitude": -112.0029
+},
+{
+	"City": "Crow Agency",
+	"State": "MT",
+	"latitude": 45.6026,
+	"longitude": -107.4591
+},
+{
+	"City": "Frenchtown",
+	"State": "MT",
+	"latitude": 47.0287,
+	"longitude": -114.2461
+},
+{
+	"City": "Manhattan",
+	"State": "MT",
+	"latitude": 45.8622,
+	"longitude": -111.3343
+},
+{
+	"City": "Baker",
+	"State": "MT",
+	"latitude": 46.364,
+	"longitude": -104.2741
+},
+{
+	"City": "Malta",
+	"State": "MT",
+	"latitude": 48.3555,
+	"longitude": -107.8709
+},
+{
+	"City": "Roundup",
+	"State": "MT",
+	"latitude": 46.4485,
+	"longitude": -108.5402
+},
+{
+	"City": "Forsyth",
+	"State": "MT",
+	"latitude": 46.2669,
+	"longitude": -106.6748
+},
+{
+	"City": "Plentywood",
+	"State": "MT",
+	"latitude": 48.7761,
+	"longitude": -104.5574
+},
+{
+	"City": "Sun Prairie",
+	"State": "MT",
+	"latitude": 47.5386,
+	"longitude": -111.4919
+},
+{
+	"City": "Choteau",
+	"State": "MT",
+	"latitude": 47.8137,
+	"longitude": -112.1794
+},
+{
+	"City": "Big Timber",
+	"State": "MT",
+	"latitude": 45.8347,
+	"longitude": -109.9487
+},
+{
+	"City": "King Arthur Park",
+	"State": "MT",
+	"latitude": 45.6664,
+	"longitude": -111.1268
+},
+{
+	"City": "West Glendive",
+	"State": "MT",
+	"latitude": 47.1056,
+	"longitude": -104.754
+},
+{
+	"City": "South Browning",
+	"State": "MT",
+	"latitude": 48.5459,
+	"longitude": -113.0128
+},
+{
+	"City": "Fort Belknap Agency",
+	"State": "MT",
+	"latitude": 48.4278,
+	"longitude": -108.6829
+},
+{
+	"City": "Bonner-West Riverside",
+	"State": "MT",
+	"latitude": 46.8767,
+	"longitude": -113.8868
+},
+{
+	"City": "Fort Benton",
+	"State": "MT",
+	"latitude": 47.8291,
+	"longitude": -110.6557
+},
+{
+	"City": "Thompson Falls",
+	"State": "MT",
+	"latitude": 47.5993,
+	"longitude": -115.3425
+},
+{
+	"City": "Eureka",
+	"State": "MT",
+	"latitude": 48.879,
+	"longitude": -115.0492
+},
+{
+	"City": "West Yellowstone",
+	"State": "MT",
+	"latitude": 44.6627,
+	"longitude": -111.1057
+},
+{
+	"City": "Seeley Lake",
+	"State": "MT",
+	"latitude": 47.1614,
+	"longitude": -113.4525
+},
+{
+	"City": "Boulder",
+	"State": "MT",
+	"latitude": 46.2358,
+	"longitude": -112.1198
+},
+{
+	"City": "Chinook",
+	"State": "MT",
+	"latitude": 48.5901,
+	"longitude": -109.2318
+},
+{
+	"City": "Whitehall",
+	"State": "MT",
+	"latitude": 45.8709,
+	"longitude": -112.0975
+},
+{
+	"City": "Helena Flats",
+	"State": "MT",
+	"latitude": 48.2864,
+	"longitude": -114.2369
+},
+{
+	"City": "Plains",
+	"State": "MT",
+	"latitude": 47.4602,
+	"longitude": -114.8842
+},
+{
+	"City": "Somers",
+	"State": "MT",
+	"latitude": 48.0824,
+	"longitude": -114.2343
+},
+{
+	"City": "Absarokee",
+	"State": "MT",
+	"latitude": 45.5242,
+	"longitude": -109.4474
+},
+{
+	"City": "Helena West Side",
+	"State": "MT",
+	"latitude": 46.5966,
+	"longitude": -112.1138
+},
+{
+	"City": "Churchill",
+	"State": "MT",
+	"latitude": 45.75,
+	"longitude": -111.3103
+},
+{
+	"City": "Browning",
+	"State": "MT",
+	"latitude": 48.5564,
+	"longitude": -113.0151
+},
+{
+	"City": "Pinesdale",
+	"State": "MT",
+	"latitude": 46.3338,
+	"longitude": -114.2231
+},
+{
+	"City": "Scobey",
+	"State": "MT",
+	"latitude": 48.7904,
+	"longitude": -105.4206
+},
+{
+	"City": "Ennis",
+	"State": "MT",
+	"latitude": 45.3461,
+	"longitude": -111.7319
+},
+{
+	"City": "Harlowton",
+	"State": "MT",
+	"latitude": 46.4368,
+	"longitude": -109.835
+},
+{
+	"City": "Corvallis",
+	"State": "MT",
+	"latitude": 46.314,
+	"longitude": -114.1121
+},
+{
+	"City": "Marion",
+	"State": "MT",
+	"latitude": 48.0858,
+	"longitude": -114.6711
+},
+{
+	"City": "Troy",
+	"State": "MT",
+	"latitude": 48.4614,
+	"longitude": -115.8909
+},
+{
+	"City": "Ashland",
+	"State": "MT",
+	"latitude": 45.5977,
+	"longitude": -106.2975
+},
+{
+	"City": "White Sulphur Springs",
+	"State": "MT",
+	"latitude": 46.5452,
+	"longitude": -110.9039
+},
+{
+	"City": "Hays",
+	"State": "MT",
+	"latitude": 48.0104,
+	"longitude": -108.6606
+},
+{
+	"City": "Philipsburg",
+	"State": "MT",
+	"latitude": 46.3324,
+	"longitude": -113.296
+},
+{
+	"City": "Black Eagle",
+	"State": "MT",
+	"latitude": 47.527,
+	"longitude": -111.267
+},
+{
+	"City": "Shepherd",
+	"State": "MT",
+	"latitude": 45.9469,
+	"longitude": -108.3463
+},
+{
+	"City": "Gallatin Gateway",
+	"State": "MT",
+	"latitude": 45.5899,
+	"longitude": -111.1953
+},
+{
+	"City": "Gardiner",
+	"State": "MT",
+	"latitude": 45.057,
+	"longitude": -110.7421
+},
+{
+	"City": "Superior",
+	"State": "MT",
+	"latitude": 47.1935,
+	"longitude": -114.892
+},
+{
+	"City": "Fairview",
+	"State": "MT",
+	"latitude": 47.852,
+	"longitude": -104.051
+},
+{
+	"City": "Lincoln",
+	"State": "MT",
+	"latitude": 46.953,
+	"longitude": -112.6693
+},
+{
+	"City": "Chester",
+	"State": "MT",
+	"latitude": 48.5113,
+	"longitude": -110.9663
+},
+{
+	"City": "Rocky Boy West",
+	"State": "MT",
+	"latitude": 48.2971,
+	"longitude": -109.9918
+},
+{
+	"City": "Harlem",
+	"State": "MT",
+	"latitude": 48.5318,
+	"longitude": -108.7847
+},
+{
+	"City": "St. Ignatius",
+	"State": "MT",
+	"latitude": 47.3186,
+	"longitude": -114.0956
+},
+{
+	"City": "Pioneer Junction",
+	"State": "MT",
+	"latitude": 48.3157,
+	"longitude": -115.5182
+},
+{
+	"City": "Park City",
+	"State": "MT",
+	"latitude": 45.6292,
+	"longitude": -108.9214
+},
+{
+	"City": "Woods Bay",
+	"State": "MT",
+	"latitude": 48.0083,
+	"longitude": -114.0613
+},
+{
+	"City": "Vaughn",
+	"State": "MT",
+	"latitude": 47.5524,
+	"longitude": -111.5608
+},
+{
+	"City": "Darby",
+	"State": "MT",
+	"latitude": 46.0234,
+	"longitude": -114.179
+},
+{
+	"City": "Culbertson",
+	"State": "MT",
+	"latitude": 48.1447,
+	"longitude": -104.5183
+},
+{
+	"City": "Wye",
+	"State": "MT",
+	"latitude": 46.9523,
+	"longitude": -114.1331
+},
+{
+	"City": "Worden",
+	"State": "MT",
+	"latitude": 45.9623,
+	"longitude": -108.1623
+},
+{
+	"City": "Clinton",
+	"State": "MT",
+	"latitude": 46.7718,
+	"longitude": -113.717
+},
+{
+	"City": "Bridger",
+	"State": "MT",
+	"latitude": 45.2946,
+	"longitude": -108.9166
+},
+{
+	"City": "Carlton",
+	"State": "MT",
+	"latitude": 46.6796,
+	"longitude": -114.0718
+},
+{
+	"City": "Pray",
+	"State": "MT",
+	"latitude": 45.4151,
+	"longitude": -110.6533
+},
+{
+	"City": "Sheridan",
+	"State": "MT",
+	"latitude": 45.4588,
+	"longitude": -112.1946
+},
+{
+	"City": "Fairfield",
+	"State": "MT",
+	"latitude": 47.6152,
+	"longitude": -111.9814
+},
+{
+	"City": "Walkerville",
+	"State": "MT",
+	"latitude": 46.0366,
+	"longitude": -112.5396
+},
+{
+	"City": "Victor",
+	"State": "MT",
+	"latitude": 46.4161,
+	"longitude": -114.1491
+},
+{
+	"City": "Cascade",
+	"State": "MT",
+	"latitude": 47.277,
+	"longitude": -111.7025
+},
+{
+	"City": "South Hills",
+	"State": "MT",
+	"latitude": 46.5564,
+	"longitude": -111.9974
+},
+{
+	"City": "Joliet",
+	"State": "MT",
+	"latitude": 45.4845,
+	"longitude": -108.9721
+},
+{
+	"City": "Busby",
+	"State": "MT",
+	"latitude": 45.5281,
+	"longitude": -106.9753
+},
+{
+	"City": "Florence",
+	"State": "MT",
+	"latitude": 46.6345,
+	"longitude": -114.0814
+},
+{
+	"City": "Arlee",
+	"State": "MT",
+	"latitude": 47.1679,
+	"longitude": -114.0838
+},
+{
+	"City": "Hungry Horse",
+	"State": "MT",
+	"latitude": 48.3843,
+	"longitude": -114.0652
+},
+{
+	"City": "Parker School",
+	"State": "MT",
+	"latitude": 48.2468,
+	"longitude": -109.7342
+},
+{
+	"City": "Muddy",
+	"State": "MT",
+	"latitude": 45.5798,
+	"longitude": -106.7754
+},
+{
+	"City": "Havre North",
+	"State": "MT",
+	"latitude": 48.5632,
+	"longitude": -109.6712
+},
+{
+	"City": "Circle",
+	"State": "MT",
+	"latitude": 47.4176,
+	"longitude": -105.587
+},
+{
+	"City": "Heart Butte",
+	"State": "MT",
+	"latitude": 48.2905,
+	"longitude": -112.8363
+},
+{
+	"City": "Piltzville",
+	"State": "MT",
+	"latitude": 46.8582,
+	"longitude": -113.8591
+},
+{
+	"City": "Wibaux",
+	"State": "MT",
+	"latitude": 46.9866,
+	"longitude": -104.19
+},
+{
+	"City": "Ulm",
+	"State": "MT",
+	"latitude": 47.4197,
+	"longitude": -111.5252
+},
+{
+	"City": "Hot Springs",
+	"State": "MT",
+	"latitude": 47.6091,
+	"longitude": -114.6702
+},
+{
+	"City": "Jefferson City",
+	"State": "MT",
+	"latitude": 46.378,
+	"longitude": -112.0305
+},
+{
+	"City": "Trego",
+	"State": "MT",
+	"latitude": 48.6578,
+	"longitude": -114.9302
+},
+{
+	"City": "Belt",
+	"State": "MT",
+	"latitude": 47.3873,
+	"longitude": -110.9276
+},
+{
+	"City": "Big Sandy",
+	"State": "MT",
+	"latitude": 48.1785,
+	"longitude": -110.1134
+},
+{
+	"City": "Terry",
+	"State": "MT",
+	"latitude": 46.7923,
+	"longitude": -105.3125
+},
+{
+	"City": "Wheatland",
+	"State": "MT",
+	"latitude": 45.958,
+	"longitude": -111.5782
+},
+{
+	"City": "Pryor",
+	"State": "MT",
+	"latitude": 45.4125,
+	"longitude": -108.5291
+},
+{
+	"City": "The Silos",
+	"State": "MT",
+	"latitude": 46.3984,
+	"longitude": -111.5865
+},
+{
+	"City": "Ponderosa Pines",
+	"State": "MT",
+	"latitude": 46.0374,
+	"longitude": -111.35
+},
+{
+	"City": "Valier",
+	"State": "MT",
+	"latitude": 48.3056,
+	"longitude": -112.2523
+},
+{
+	"City": "White Haven",
+	"State": "MT",
+	"latitude": 48.3478,
+	"longitude": -115.516
+},
+{
+	"City": "St. Marie",
+	"State": "MT",
+	"latitude": 48.4053,
+	"longitude": -106.4986
+},
+{
+	"City": "Spokane Creek",
+	"State": "MT",
+	"latitude": 46.5343,
+	"longitude": -111.7393
+},
+{
+	"City": "Fromberg",
+	"State": "MT",
+	"latitude": 45.3921,
+	"longitude": -108.9067
+},
+{
+	"City": "Broadus",
+	"State": "MT",
+	"latitude": 45.4431,
+	"longitude": -105.4085
+},
+{
+	"City": "Lodge Grass",
+	"State": "MT",
+	"latitude": 45.3142,
+	"longitude": -107.3677
+},
+{
+	"City": "Alberton",
+	"State": "MT",
+	"latitude": 47.0037,
+	"longitude": -114.4817
+},
+{
+	"City": "Batavia",
+	"State": "MT",
+	"latitude": 48.1778,
+	"longitude": -114.4107
+},
+{
+	"City": "Coram",
+	"State": "MT",
+	"latitude": 48.4306,
+	"longitude": -114.0444
+},
+{
+	"City": "Beaver Creek",
+	"State": "MT",
+	"latitude": 48.5437,
+	"longitude": -109.8069
+},
+{
+	"City": "Fortine",
+	"State": "MT",
+	"latitude": 48.7723,
+	"longitude": -114.9008
+},
+{
+	"City": "Twin Bridges",
+	"State": "MT",
+	"latitude": 45.5429,
+	"longitude": -112.3341
+},
+{
+	"City": "Huntley",
+	"State": "MT",
+	"latitude": 45.8995,
+	"longitude": -108.3054
+},
+{
+	"City": "Finley Point",
+	"State": "MT",
+	"latitude": 47.7464,
+	"longitude": -114.0666
+},
+{
+	"City": "Lindisfarne",
+	"State": "MT",
+	"latitude": 47.8043,
+	"longitude": -114.2122
+},
+{
+	"City": "Rocky Boy's Agency",
+	"State": "MT",
+	"latitude": 48.259,
+	"longitude": -109.7648
+},
+{
+	"City": "Azure",
+	"State": "MT",
+	"latitude": 48.305,
+	"longitude": -109.8072
+},
+{
+	"City": "Stanford",
+	"State": "MT",
+	"latitude": 47.1521,
+	"longitude": -110.219
+},
+{
+	"City": "East Glacier Park Village",
+	"State": "MT",
+	"latitude": 48.4459,
+	"longitude": -113.2236
+},
+{
+	"City": "Jordan",
+	"State": "MT",
+	"latitude": 47.321,
+	"longitude": -106.9099
+},
+{
+	"City": "Kila",
+	"State": "MT",
+	"latitude": 48.1215,
+	"longitude": -114.4767
+},
+{
+	"City": "Martin City",
+	"State": "MT",
+	"latitude": 48.3935,
+	"longitude": -114.0308
+},
+{
+	"City": "Ekalaka",
+	"State": "MT",
+	"latitude": 45.8897,
+	"longitude": -104.5506
+},
+{
+	"City": "Turah",
+	"State": "MT",
+	"latitude": 46.8399,
+	"longitude": -113.8251
+},
+{
+	"City": "Boneau",
+	"State": "MT",
+	"latitude": 48.2926,
+	"longitude": -109.8632
+},
+{
+	"City": "Sangrey",
+	"State": "MT",
+	"latitude": 48.2817,
+	"longitude": -109.8166
+},
+{
+	"City": "South Glastonbury",
+	"State": "MT",
+	"latitude": 45.3121,
+	"longitude": -110.8076
+},
+{
+	"City": "Frazer",
+	"State": "MT",
+	"latitude": 48.0533,
+	"longitude": -106.0481
+},
+{
+	"City": "St. Pierre",
+	"State": "MT",
+	"latitude": 48.2439,
+	"longitude": -109.8161
+},
+{
+	"City": "Evaro",
+	"State": "MT",
+	"latitude": 47.0737,
+	"longitude": -114.0205
+},
+{
+	"City": "Simms",
+	"State": "MT",
+	"latitude": 47.4931,
+	"longitude": -111.9474
+},
+{
+	"City": "Wineglass",
+	"State": "MT",
+	"latitude": 45.628,
+	"longitude": -110.6233
+},
+{
+	"City": "Wilsall",
+	"State": "MT",
+	"latitude": 45.9844,
+	"longitude": -110.6604
+},
+{
+	"City": "Drummond",
+	"State": "MT",
+	"latitude": 46.6665,
+	"longitude": -113.1471
+},
+{
+	"City": "Sunburst",
+	"State": "MT",
+	"latitude": 48.8777,
+	"longitude": -111.9063
+},
+{
+	"City": "Starr School",
+	"State": "MT",
+	"latitude": 48.5976,
+	"longitude": -113.1433
+},
+{
+	"City": "Dutton",
+	"State": "MT",
+	"latitude": 47.8475,
+	"longitude": -111.7143
+},
+{
+	"City": "Brockton",
+	"State": "MT",
+	"latitude": 48.1525,
+	"longitude": -104.9066
+},
+{
+	"City": "Augusta",
+	"State": "MT",
+	"latitude": 47.4894,
+	"longitude": -112.3921
+},
+{
+	"City": "Turtle Lake",
+	"State": "MT",
+	"latitude": 47.6696,
+	"longitude": -114.0818
+},
+{
+	"City": "Bainville",
+	"State": "MT",
+	"latitude": 48.1394,
+	"longitude": -104.2197
+},
+{
+	"City": "Clyde Park",
+	"State": "MT",
+	"latitude": 45.884,
+	"longitude": -110.6057
+},
+{
+	"City": "Lodge Pole",
+	"State": "MT",
+	"latitude": 48.0272,
+	"longitude": -108.5518
+},
+{
+	"City": "Reed Point",
+	"State": "MT",
+	"latitude": 45.7071,
+	"longitude": -109.5471
+},
+{
+	"City": "Belfry",
+	"State": "MT",
+	"latitude": 45.1375,
+	"longitude": -108.9985
+},
+{
+	"City": "Hysham",
+	"State": "MT",
+	"latitude": 46.2909,
+	"longitude": -107.2305
+},
+{
+	"City": "Yaak",
+	"State": "MT",
+	"latitude": 48.8647,
+	"longitude": -115.6777
+},
+{
+	"City": "Roberts",
+	"State": "MT",
+	"latitude": 45.3437,
+	"longitude": -109.1817
+},
+{
+	"City": "Nashua",
+	"State": "MT",
+	"latitude": 48.1336,
+	"longitude": -106.3571
+},
+{
+	"City": "Charlo",
+	"State": "MT",
+	"latitude": 47.4427,
+	"longitude": -114.1716
+},
+{
+	"City": "Bear Dance",
+	"State": "MT",
+	"latitude": 47.902,
+	"longitude": -114.0273
+},
+{
+	"City": "Rader Creek",
+	"State": "MT",
+	"latitude": 45.8456,
+	"longitude": -112.3161
+},
+{
+	"City": "Riverbend",
+	"State": "MT",
+	"latitude": 47.1472,
+	"longitude": -114.8318
+},
+{
+	"City": "Emigrant",
+	"State": "MT",
+	"latitude": 45.3755,
+	"longitude": -110.7465
+},
+{
+	"City": "Winston",
+	"State": "MT",
+	"latitude": 46.4684,
+	"longitude": -111.6652
+},
+{
+	"City": "Savage",
+	"State": "MT",
+	"latitude": 47.4536,
+	"longitude": -104.3414
+},
+{
+	"City": "Lewistown Heights",
+	"State": "MT",
+	"latitude": 47.0784,
+	"longitude": -109.4736
+},
+{
+	"City": "Willow Creek",
+	"State": "MT",
+	"latitude": 45.8178,
+	"longitude": -111.6402
+},
+{
+	"City": "Santa Rita",
+	"State": "MT",
+	"latitude": 48.6977,
+	"longitude": -112.3173
+},
+{
+	"City": "Geraldine",
+	"State": "MT",
+	"latitude": 47.6022,
+	"longitude": -110.2662
+},
+{
+	"City": "Condon",
+	"State": "MT",
+	"latitude": 47.5225,
+	"longitude": -113.6987
+},
+{
+	"City": "Hinsdale",
+	"State": "MT",
+	"latitude": 48.4036,
+	"longitude": -107.0582
+},
+{
+	"City": "Fort Peck",
+	"State": "MT",
+	"latitude": 48.007,
+	"longitude": -106.4552
+},
+{
+	"City": "Ryegate",
+	"State": "MT",
+	"latitude": 46.2985,
+	"longitude": -109.2538
+},
+{
+	"City": "Denton",
+	"State": "MT",
+	"latitude": 47.3222,
+	"longitude": -109.9481
+},
+{
+	"City": "Basin",
+	"State": "MT",
+	"latitude": 46.2834,
+	"longitude": -112.2871
+},
+{
+	"City": "Hobson",
+	"State": "MT",
+	"latitude": 46.9996,
+	"longitude": -109.8732
+},
+{
+	"City": "Kings Point",
+	"State": "MT",
+	"latitude": 47.7634,
+	"longitude": -114.1498
+},
+{
+	"City": "Lima",
+	"State": "MT",
+	"latitude": 44.6384,
+	"longitude": -112.5919
+},
+{
+	"City": "Belknap",
+	"State": "MT",
+	"latitude": 47.6472,
+	"longitude": -115.4222
+},
+{
+	"City": "Ballantine",
+	"State": "MT",
+	"latitude": 45.9511,
+	"longitude": -108.1428
+},
+{
+	"City": "Medicine Lake",
+	"State": "MT",
+	"latitude": 48.5023,
+	"longitude": -104.5017
+},
+{
+	"City": "Noxon",
+	"State": "MT",
+	"latitude": 47.985,
+	"longitude": -115.7707
+},
+{
+	"City": "West Havre",
+	"State": "MT",
+	"latitude": 48.5471,
+	"longitude": -109.7309
+},
+{
+	"City": "Wyola",
+	"State": "MT",
+	"latitude": 45.1154,
+	"longitude": -107.3738
+},
+{
+	"City": "Joplin",
+	"State": "MT",
+	"latitude": 48.559,
+	"longitude": -110.773
+},
+{
+	"City": "Virginia City",
+	"State": "MT",
+	"latitude": 45.2962,
+	"longitude": -111.9369
+},
+{
+	"City": "Dixon",
+	"State": "MT",
+	"latitude": 47.3172,
+	"longitude": -114.3569
+},
+{
+	"City": "St. Regis",
+	"State": "MT",
+	"latitude": 47.3016,
+	"longitude": -115.1013
+},
+{
+	"City": "Little Browning",
+	"State": "MT",
+	"latitude": 48.6252,
+	"longitude": -112.3501
+},
+{
+	"City": "Sand Coulee",
+	"State": "MT",
+	"latitude": 47.4026,
+	"longitude": -111.172
+},
+{
+	"City": "Elliston",
+	"State": "MT",
+	"latitude": 46.5587,
+	"longitude": -112.4639
+},
+{
+	"City": "Froid",
+	"State": "MT",
+	"latitude": 48.338,
+	"longitude": -104.4908
+},
+{
+	"City": "Highwood",
+	"State": "MT",
+	"latitude": 47.5991,
+	"longitude": -110.7677
+},
+{
+	"City": "Rollins",
+	"State": "MT",
+	"latitude": 47.9106,
+	"longitude": -114.1948
+},
+{
+	"City": "Gibson Flats",
+	"State": "MT",
+	"latitude": 47.465,
+	"longitude": -111.243
+},
+{
+	"City": "Winifred",
+	"State": "MT",
+	"latitude": 47.5621,
+	"longitude": -109.3773
+},
+{
+	"City": "Herron",
+	"State": "MT",
+	"latitude": 48.5341,
+	"longitude": -109.7718
+},
+{
+	"City": "Saco",
+	"State": "MT",
+	"latitude": 48.4571,
+	"longitude": -107.3414
+},
+{
+	"City": "Crane",
+	"State": "MT",
+	"latitude": 47.5772,
+	"longitude": -104.2508
+},
+{
+	"City": "Winnett",
+	"State": "MT",
+	"latitude": 47.0043,
+	"longitude": -108.3466
+},
+{
+	"City": "Broadview",
+	"State": "MT",
+	"latitude": 46.0988,
+	"longitude": -108.8789
+},
+{
+	"City": "Rudyard",
+	"State": "MT",
+	"latitude": 48.5599,
+	"longitude": -110.55
+},
+{
+	"City": "Stockett",
+	"State": "MT",
+	"latitude": 47.3534,
+	"longitude": -111.1698
+},
+{
+	"City": "Trout Creek",
+	"State": "MT",
+	"latitude": 47.8331,
+	"longitude": -115.5837
+},
+{
+	"City": "Power",
+	"State": "MT",
+	"latitude": 47.7203,
+	"longitude": -111.6944
+},
+{
+	"City": "Moore",
+	"State": "MT",
+	"latitude": 46.975,
+	"longitude": -109.6949
+},
+{
+	"City": "Amsterdam",
+	"State": "MT",
+	"latitude": 45.7462,
+	"longitude": -111.3301
+},
+{
+	"City": "Richey",
+	"State": "MT",
+	"latitude": 47.6439,
+	"longitude": -105.0695
+},
+{
+	"City": "Gildford",
+	"State": "MT",
+	"latitude": 48.5738,
+	"longitude": -110.3071
+},
+{
+	"City": "Big Arm",
+	"State": "MT",
+	"latitude": 47.7936,
+	"longitude": -114.2701
+},
+{
+	"City": "Swan Lake",
+	"State": "MT",
+	"latitude": 47.9361,
+	"longitude": -113.7997
+},
+{
+	"City": "Lavina",
+	"State": "MT",
+	"latitude": 46.295,
+	"longitude": -108.9388
+},
+{
+	"City": "West Glacier",
+	"State": "MT",
+	"latitude": 48.4916,
+	"longitude": -113.9961
+},
+{
+	"City": "Elmo",
+	"State": "MT",
+	"latitude": 47.829,
+	"longitude": -114.3484
+},
+{
+	"City": "Lonepine",
+	"State": "MT",
+	"latitude": 47.6945,
+	"longitude": -114.6408
+},
+{
+	"City": "Rexford",
+	"State": "MT",
+	"latitude": 48.8998,
+	"longitude": -115.1714
+},
+{
+	"City": "Paradise",
+	"State": "MT",
+	"latitude": 47.3858,
+	"longitude": -114.799
+},
+{
+	"City": "Maxville",
+	"State": "MT",
+	"latitude": 46.476,
+	"longitude": -113.2355
+},
+{
+	"City": "Avon",
+	"State": "MT",
+	"latitude": 46.6264,
+	"longitude": -112.582
+},
+{
+	"City": "Westby",
+	"State": "MT",
+	"latitude": 48.871,
+	"longitude": -104.0551
+},
+{
+	"City": "Little Bitterroot Lake",
+	"State": "MT",
+	"latitude": 48.118,
+	"longitude": -114.7206
+},
+{
+	"City": "Brady",
+	"State": "MT",
+	"latitude": 48.0279,
+	"longitude": -111.8441
+},
+{
+	"City": "Plevna",
+	"State": "MT",
+	"latitude": 46.4184,
+	"longitude": -104.5186
+},
+{
+	"City": "Gallatin River Ranch",
+	"State": "MT",
+	"latitude": 45.9072,
+	"longitude": -111.3313
+},
+{
+	"City": "Olney",
+	"State": "MT",
+	"latitude": 48.5489,
+	"longitude": -114.572
+},
+{
+	"City": "Jette",
+	"State": "MT",
+	"latitude": 47.7169,
+	"longitude": -114.1905
+},
+{
+	"City": "Heron",
+	"State": "MT",
+	"latitude": 48.0637,
+	"longitude": -115.9801
+},
+{
+	"City": "Pony",
+	"State": "MT",
+	"latitude": 45.6629,
+	"longitude": -111.8827
+},
+{
+	"City": "Roy",
+	"State": "MT",
+	"latitude": 47.3343,
+	"longitude": -108.96
+},
+{
+	"City": "St. Xavier",
+	"State": "MT",
+	"latitude": 45.4571,
+	"longitude": -107.7251
+},
+{
+	"City": "Kevin",
+	"State": "MT",
+	"latitude": 48.7457,
+	"longitude": -111.9656
+},
+{
+	"City": "Edgar",
+	"State": "MT",
+	"latitude": 45.4637,
+	"longitude": -108.8554
+},
+{
+	"City": "Camp Three",
+	"State": "MT",
+	"latitude": 46.4534,
+	"longitude": -108.5741
+},
+{
+	"City": "Geyser",
+	"State": "MT",
+	"latitude": 47.2633,
+	"longitude": -110.4927
+},
+{
+	"City": "Whitewater",
+	"State": "MT",
+	"latitude": 48.7634,
+	"longitude": -107.6302
+},
+{
+	"City": "Springhill",
+	"State": "MT",
+	"latitude": 45.8788,
+	"longitude": -111.0773
+},
+{
+	"City": "Judith Gap",
+	"State": "MT",
+	"latitude": 46.6791,
+	"longitude": -109.7534
+},
+{
+	"City": "Sula",
+	"State": "MT",
+	"latitude": 45.8453,
+	"longitude": -113.9629
+},
+{
+	"City": "Custer",
+	"State": "MT",
+	"latitude": 46.1293,
+	"longitude": -107.5552
+},
+{
+	"City": "Fort Smith",
+	"State": "MT",
+	"latitude": 45.3134,
+	"longitude": -107.9296
+},
+{
+	"City": "Hingham",
+	"State": "MT",
+	"latitude": 48.5554,
+	"longitude": -110.4213
+},
+{
+	"City": "Dupuyer",
+	"State": "MT",
+	"latitude": 48.1868,
+	"longitude": -112.4775
+},
+{
+	"City": "Dodson",
+	"State": "MT",
+	"latitude": 48.3953,
+	"longitude": -108.2473
+},
+{
+	"City": "Forest Hill Village",
+	"State": "MT",
+	"latitude": 48.1208,
+	"longitude": -114.2618
+},
+{
+	"City": "Fort Shaw",
+	"State": "MT",
+	"latitude": 47.4969,
+	"longitude": -111.8194
+},
+{
+	"City": "Melstone",
+	"State": "MT",
+	"latitude": 46.5987,
+	"longitude": -107.8682
+},
+{
+	"City": "Birney",
+	"State": "MT",
+	"latitude": 45.4155,
+	"longitude": -106.4934
+},
+{
+	"City": "Alder",
+	"State": "MT",
+	"latitude": 45.3216,
+	"longitude": -112.1093
+},
+{
+	"City": "Fallon",
+	"State": "MT",
+	"latitude": 46.8373,
+	"longitude": -105.127
+},
+{
+	"City": "Grass Range",
+	"State": "MT",
+	"latitude": 47.0259,
+	"longitude": -108.8031
+},
+{
+	"City": "Cardwell",
+	"State": "MT",
+	"latitude": 45.862,
+	"longitude": -111.9555
+},
+{
+	"City": "Harrison",
+	"State": "MT",
+	"latitude": 45.7035,
+	"longitude": -111.7853
+},
+{
+	"City": "Fox Lake",
+	"State": "MT",
+	"latitude": 47.6858,
+	"longitude": -104.6331
+},
+{
+	"City": "Conner",
+	"State": "MT",
+	"latitude": 45.929,
+	"longitude": -114.1326
+},
+{
+	"City": "Dayton",
+	"State": "MT",
+	"latitude": 47.8644,
+	"longitude": -114.2765
+},
+{
+	"City": "Wisdom",
+	"State": "MT",
+	"latitude": 45.6114,
+	"longitude": -113.4469
+},
+{
+	"City": "Ravalli",
+	"State": "MT",
+	"latitude": 47.2798,
+	"longitude": -114.1658
+},
+{
+	"City": "Corwin Springs",
+	"State": "MT",
+	"latitude": 45.1277,
+	"longitude": -110.7997
+},
+{
+	"City": "Carter",
+	"State": "MT",
+	"latitude": 47.7812,
+	"longitude": -110.9399
+},
+{
+	"City": "De Borgia",
+	"State": "MT",
+	"latitude": 47.3778,
+	"longitude": -115.3189
+},
+{
+	"City": "Loma",
+	"State": "MT",
+	"latitude": 47.9512,
+	"longitude": -110.4887
+},
+{
+	"City": "Turner",
+	"State": "MT",
+	"latitude": 48.8469,
+	"longitude": -108.4006
+},
+{
+	"City": "Greycliff",
+	"State": "MT",
+	"latitude": 45.7584,
+	"longitude": -109.7795
+},
+{
+	"City": "Opheim",
+	"State": "MT",
+	"latitude": 48.8571,
+	"longitude": -106.4084
+},
+{
+	"City": "Bearcreek",
+	"State": "MT",
+	"latitude": 45.1605,
+	"longitude": -109.1571
+},
+{
+	"City": "Hebgen Lake Estates",
+	"State": "MT",
+	"latitude": 44.7692,
+	"longitude": -111.1905
+},
+{
+	"City": "Garrison",
+	"State": "MT",
+	"latitude": 46.5259,
+	"longitude": -112.8205
+},
+{
+	"City": "Sylvanite",
+	"State": "MT",
+	"latitude": 48.7062,
+	"longitude": -115.874
+},
+{
+	"City": "Sedan",
+	"State": "MT",
+	"latitude": 45.9653,
+	"longitude": -110.8888
+},
+{
+	"City": "Old Agency",
+	"State": "MT",
+	"latitude": 47.3227,
+	"longitude": -114.2987
+},
+{
+	"City": "Kerr",
+	"State": "MT",
+	"latitude": 47.6771,
+	"longitude": -114.1874
+},
+{
+	"City": "Camas",
+	"State": "MT",
+	"latitude": 47.6179,
+	"longitude": -114.656
+},
+{
+	"City": "Toston",
+	"State": "MT",
+	"latitude": 46.1658,
+	"longitude": -111.446
+},
+{
+	"City": "Babb",
+	"State": "MT",
+	"latitude": 48.8777,
+	"longitude": -113.4408
+},
+{
+	"City": "Rosebud",
+	"State": "MT",
+	"latitude": 46.2712,
+	"longitude": -106.447
+},
+{
+	"City": "Happys Inn",
+	"State": "MT",
+	"latitude": 48.0638,
+	"longitude": -115.1351
+},
+{
+	"City": "Antelope",
+	"State": "MT",
+	"latitude": 48.6897,
+	"longitude": -104.454
+},
+{
+	"City": "Flaxville",
+	"State": "MT",
+	"latitude": 48.8045,
+	"longitude": -105.1736
+},
+{
+	"City": "Kremlin",
+	"State": "MT",
+	"latitude": 48.5707,
+	"longitude": -110.0862
+},
+{
+	"City": "Saddle Butte",
+	"State": "MT",
+	"latitude": 48.5235,
+	"longitude": -109.6448
+},
+{
+	"City": "Weeksville",
+	"State": "MT",
+	"latitude": 47.5309,
+	"longitude": -115.0082
+},
+{
+	"City": "Ovando",
+	"State": "MT",
+	"latitude": 47.0207,
+	"longitude": -113.1717
+},
+{
+	"City": "Cooke City",
+	"State": "MT",
+	"latitude": 45.0187,
+	"longitude": -109.9119
+},
+{
+	"City": "Boyd",
+	"State": "MT",
+	"latitude": 45.4556,
+	"longitude": -109.0667
+},
+{
+	"City": "Radersburg",
+	"State": "MT",
+	"latitude": 46.1965,
+	"longitude": -111.6316
+},
+{
+	"City": "West Kootenai",
+	"State": "MT",
+	"latitude": 48.9652,
+	"longitude": -115.2212
+},
+{
+	"City": "Sweet Grass",
+	"State": "MT",
+	"latitude": 48.9929,
+	"longitude": -111.9668
+},
+{
+	"City": "Huson",
+	"State": "MT",
+	"latitude": 47.0326,
+	"longitude": -114.3397
+},
+{
+	"City": "Sun River",
+	"State": "MT",
+	"latitude": 47.5306,
+	"longitude": -111.7239
+},
+{
+	"City": "Klein",
+	"State": "MT",
+	"latitude": 46.3983,
+	"longitude": -108.5525
+},
+{
+	"City": "Shawmut",
+	"State": "MT",
+	"latitude": 46.3447,
+	"longitude": -109.5122
+},
+{
+	"City": "Neihart",
+	"State": "MT",
+	"latitude": 46.9352,
+	"longitude": -110.7361
+},
+{
+	"City": "Roscoe",
+	"State": "MT",
+	"latitude": 45.3517,
+	"longitude": -109.4933
+},
+{
+	"City": "Biddle",
+	"State": "MT",
+	"latitude": 45.1051,
+	"longitude": -105.3116
+},
+{
+	"City": "Outlook",
+	"State": "MT",
+	"latitude": 48.8888,
+	"longitude": -104.7849
+},
+{
+	"City": "Box Elder",
+	"State": "MT",
+	"latitude": 48.323,
+	"longitude": -110.0176
+},
+{
+	"City": "Lake Mary Ronan",
+	"State": "MT",
+	"latitude": 47.9292,
+	"longitude": -114.389
+},
+{
+	"City": "Inverness",
+	"State": "MT",
+	"latitude": 48.5599,
+	"longitude": -110.7103
+},
+{
+	"City": "Kicking Horse",
+	"State": "MT",
+	"latitude": 47.4568,
+	"longitude": -114.0717
+},
+{
+	"City": "Musselshell",
+	"State": "MT",
+	"latitude": 46.5063,
+	"longitude": -108.0862
+},
+{
+	"City": "Marysville",
+	"State": "MT",
+	"latitude": 46.7503,
+	"longitude": -112.3027
+},
+{
+	"City": "Jardine",
+	"State": "MT",
+	"latitude": 45.0565,
+	"longitude": -110.6186
+},
+{
+	"City": "Reserve",
+	"State": "MT",
+	"latitude": 48.6024,
+	"longitude": -104.4677
+},
+{
+	"City": "Rocky Point",
+	"State": "MT",
+	"latitude": 47.7323,
+	"longitude": -114.1855
+},
+{
+	"City": "Silver Gate",
+	"State": "MT",
+	"latitude": 45.0198,
+	"longitude": -109.9829
+},
+{
+	"City": "Martinsdale",
+	"State": "MT",
+	"latitude": 46.4548,
+	"longitude": -110.312
+},
+{
+	"City": "Zortman",
+	"State": "MT",
+	"latitude": 47.9167,
+	"longitude": -108.5091
+},
+{
+	"City": "Bynum",
+	"State": "MT",
+	"latitude": 47.9681,
+	"longitude": -112.3165
+},
+{
+	"City": "Alzada",
+	"State": "MT",
+	"latitude": 45.0206,
+	"longitude": -104.4129
+},
+{
+	"City": "Silesia",
+	"State": "MT",
+	"latitude": 45.5559,
+	"longitude": -108.8373
+},
+{
+	"City": "Logan",
+	"State": "MT",
+	"latitude": 45.8843,
+	"longitude": -111.4236
+},
+{
+	"City": "Springdale",
+	"State": "MT",
+	"latitude": 45.7381,
+	"longitude": -110.2236
+},
+{
+	"City": "Ismay",
+	"State": "MT",
+	"latitude": 46.5002,
+	"longitude": -104.793
+},
+{
+	"City": "Stryker",
+	"State": "MT",
+	"latitude": 48.6728,
+	"longitude": -114.7677
+},
+{
+	"City": "Charlos Heights",
+	"State": "MT",
+	"latitude": 46.1337,
+	"longitude": -114.181
+},
+{
+	"City": "Craig",
+	"State": "MT",
+	"latitude": 47.0741,
+	"longitude": -111.9652
+},
+{
+	"City": "Niarada",
+	"State": "MT",
+	"latitude": 47.8309,
+	"longitude": -114.5578
+}]

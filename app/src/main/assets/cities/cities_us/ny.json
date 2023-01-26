@@ -1,0 +1,5281 @@
+[
+{
+	"City": "New York",
+	"State": "NY",
+	"latitude": 40.6943,
+	"longitude": -73.9249
+},
+{
+	"City": "Brooklyn",
+	"State": "NY",
+	"latitude": 40.6501,
+	"longitude": -73.9496
+},
+{
+	"City": "Queens",
+	"State": "NY",
+	"latitude": 40.7498,
+	"longitude": -73.7976
+},
+{
+	"City": "Manhattan",
+	"State": "NY",
+	"latitude": 40.7834,
+	"longitude": -73.9662
+},
+{
+	"City": "Bronx",
+	"State": "NY",
+	"latitude": 40.8501,
+	"longitude": -73.8662
+},
+{
+	"City": "Buffalo",
+	"State": "NY",
+	"latitude": 42.9016,
+	"longitude": -78.8487
+},
+{
+	"City": "Rochester",
+	"State": "NY",
+	"latitude": 43.168,
+	"longitude": -77.6162
+},
+{
+	"City": "Albany",
+	"State": "NY",
+	"latitude": 42.6664,
+	"longitude": -73.7987
+},
+{
+	"City": "Staten Island",
+	"State": "NY",
+	"latitude": 40.5834,
+	"longitude": -74.1496
+},
+{
+	"City": "Syracuse",
+	"State": "NY",
+	"latitude": 43.0409,
+	"longitude": -76.1438
+},
+{
+	"City": "Poughkeepsie",
+	"State": "NY",
+	"latitude": 41.6949,
+	"longitude": -73.921
+},
+{
+	"City": "Yonkers",
+	"State": "NY",
+	"latitude": 40.9466,
+	"longitude": -73.8674
+},
+{
+	"City": "Binghamton",
+	"State": "NY",
+	"latitude": 42.1014,
+	"longitude": -75.9093
+},
+{
+	"City": "Utica",
+	"State": "NY",
+	"latitude": 43.0961,
+	"longitude": -75.226
+},
+{
+	"City": "New Rochelle",
+	"State": "NY",
+	"latitude": 40.9305,
+	"longitude": -73.7836
+},
+{
+	"City": "Saratoga Springs",
+	"State": "NY",
+	"latitude": 43.0674,
+	"longitude": -73.7775
+},
+{
+	"City": "Mount Vernon",
+	"State": "NY",
+	"latitude": 40.9136,
+	"longitude": -73.8291
+},
+{
+	"City": "Schenectady",
+	"State": "NY",
+	"latitude": 42.8025,
+	"longitude": -73.9276
+},
+{
+	"City": "Glens Falls",
+	"State": "NY",
+	"latitude": 43.3109,
+	"longitude": -73.6459
+},
+{
+	"City": "Brentwood",
+	"State": "NY",
+	"latitude": 40.7839,
+	"longitude": -73.2522
+},
+{
+	"City": "Elmira",
+	"State": "NY",
+	"latitude": 42.0938,
+	"longitude": -76.8097
+},
+{
+	"City": "Middletown",
+	"State": "NY",
+	"latitude": 41.4459,
+	"longitude": -74.4236
+},
+{
+	"City": "White Plains",
+	"State": "NY",
+	"latitude": 41.022,
+	"longitude": -73.7549
+},
+{
+	"City": "Ithaca",
+	"State": "NY",
+	"latitude": 42.4442,
+	"longitude": -76.5032
+},
+{
+	"City": "Kingston",
+	"State": "NY",
+	"latitude": 41.9295,
+	"longitude": -73.9968
+},
+{
+	"City": "Watertown",
+	"State": "NY",
+	"latitude": 43.9734,
+	"longitude": -75.9094
+},
+{
+	"City": "Levittown",
+	"State": "NY",
+	"latitude": 40.7241,
+	"longitude": -73.5125
+},
+{
+	"City": "Troy",
+	"State": "NY",
+	"latitude": 42.7354,
+	"longitude": -73.6751
+},
+{
+	"City": "Niagara Falls",
+	"State": "NY",
+	"latitude": 43.0921,
+	"longitude": -79.0147
+},
+{
+	"City": "Freeport",
+	"State": "NY",
+	"latitude": 40.6515,
+	"longitude": -73.585
+},
+{
+	"City": "Hicksville",
+	"State": "NY",
+	"latitude": 40.7637,
+	"longitude": -73.5245
+},
+{
+	"City": "West Babylon",
+	"State": "NY",
+	"latitude": 40.7112,
+	"longitude": -73.3567
+},
+{
+	"City": "Jamestown",
+	"State": "NY",
+	"latitude": 42.0975,
+	"longitude": -79.2366
+},
+{
+	"City": "Coram",
+	"State": "NY",
+	"latitude": 40.8813,
+	"longitude": -73.0059
+},
+{
+	"City": "East Meadow",
+	"State": "NY",
+	"latitude": 40.7197,
+	"longitude": -73.5604
+},
+{
+	"City": "Valley Stream",
+	"State": "NY",
+	"latitude": 40.6647,
+	"longitude": -73.7044
+},
+{
+	"City": "Oswego",
+	"State": "NY",
+	"latitude": 43.4516,
+	"longitude": -76.5005
+},
+{
+	"City": "Commack",
+	"State": "NY",
+	"latitude": 40.8443,
+	"longitude": -73.2834
+},
+{
+	"City": "Elmont",
+	"State": "NY",
+	"latitude": 40.7033,
+	"longitude": -73.7078
+},
+{
+	"City": "New City",
+	"State": "NY",
+	"latitude": 41.1543,
+	"longitude": -73.9909
+},
+{
+	"City": "Lockport",
+	"State": "NY",
+	"latitude": 43.1698,
+	"longitude": -78.6956
+},
+{
+	"City": "Long Beach",
+	"State": "NY",
+	"latitude": 40.5887,
+	"longitude": -73.666
+},
+{
+	"City": "Huntington Station",
+	"State": "NY",
+	"latitude": 40.8446,
+	"longitude": -73.405
+},
+{
+	"City": "Spring Valley",
+	"State": "NY",
+	"latitude": 41.1151,
+	"longitude": -74.0486
+},
+{
+	"City": "Rome",
+	"State": "NY",
+	"latitude": 43.226,
+	"longitude": -75.4909
+},
+{
+	"City": "Franklin Square",
+	"State": "NY",
+	"latitude": 40.7002,
+	"longitude": -73.6775
+},
+{
+	"City": "Uniondale",
+	"State": "NY",
+	"latitude": 40.7176,
+	"longitude": -73.5947
+},
+{
+	"City": "Centereach",
+	"State": "NY",
+	"latitude": 40.8696,
+	"longitude": -73.0808
+},
+{
+	"City": "Central Islip",
+	"State": "NY",
+	"latitude": 40.7837,
+	"longitude": -73.1945
+},
+{
+	"City": "Oceanside",
+	"State": "NY",
+	"latitude": 40.6328,
+	"longitude": -73.6364
+},
+{
+	"City": "Auburn",
+	"State": "NY",
+	"latitude": 42.9338,
+	"longitude": -76.5684
+},
+{
+	"City": "North Tonawanda",
+	"State": "NY",
+	"latitude": 43.0457,
+	"longitude": -78.8659
+},
+{
+	"City": "Bay Shore",
+	"State": "NY",
+	"latitude": 40.7317,
+	"longitude": -73.2505
+},
+{
+	"City": "Port Chester",
+	"State": "NY",
+	"latitude": 41.0052,
+	"longitude": -73.668
+},
+{
+	"City": "Harrison",
+	"State": "NY",
+	"latitude": 41.0233,
+	"longitude": -73.7192
+},
+{
+	"City": "Plattsburgh",
+	"State": "NY",
+	"latitude": 44.6951,
+	"longitude": -73.4563
+},
+{
+	"City": "Shirley",
+	"State": "NY",
+	"latitude": 40.7949,
+	"longitude": -72.8743
+},
+{
+	"City": "Geneva",
+	"State": "NY",
+	"latitude": 42.8644,
+	"longitude": -76.9827
+},
+{
+	"City": "Gloversville",
+	"State": "NY",
+	"latitude": 43.0491,
+	"longitude": -74.3465
+},
+{
+	"City": "Deer Park",
+	"State": "NY",
+	"latitude": 40.7623,
+	"longitude": -73.3219
+},
+{
+	"City": "Glen Cove",
+	"State": "NY",
+	"latitude": 40.8709,
+	"longitude": -73.6287
+},
+{
+	"City": "West Islip",
+	"State": "NY",
+	"latitude": 40.7097,
+	"longitude": -73.2971
+},
+{
+	"City": "Kiryas Joel",
+	"State": "NY",
+	"latitude": 41.3406,
+	"longitude": -74.166
+},
+{
+	"City": "Lindenhurst",
+	"State": "NY",
+	"latitude": 40.6858,
+	"longitude": -73.371
+},
+{
+	"City": "Cortland",
+	"State": "NY",
+	"latitude": 42.6004,
+	"longitude": -76.1784
+},
+{
+	"City": "Plainview",
+	"State": "NY",
+	"latitude": 40.7832,
+	"longitude": -73.4732
+},
+{
+	"City": "Dix Hills",
+	"State": "NY",
+	"latitude": 40.8035,
+	"longitude": -73.337
+},
+{
+	"City": "Holbrook",
+	"State": "NY",
+	"latitude": 40.7944,
+	"longitude": -73.0707
+},
+{
+	"City": "Baldwin",
+	"State": "NY",
+	"latitude": 40.6634,
+	"longitude": -73.6104
+},
+{
+	"City": "Rockville Centre",
+	"State": "NY",
+	"latitude": 40.6644,
+	"longitude": -73.6383
+},
+{
+	"City": "Medford",
+	"State": "NY",
+	"latitude": 40.822,
+	"longitude": -72.9859
+},
+{
+	"City": "Peekskill",
+	"State": "NY",
+	"latitude": 41.2883,
+	"longitude": -73.9227
+},
+{
+	"City": "Dunkirk",
+	"State": "NY",
+	"latitude": 42.4803,
+	"longitude": -79.3323
+},
+{
+	"City": "Ilion",
+	"State": "NY",
+	"latitude": 43.0114,
+	"longitude": -75.0396
+},
+{
+	"City": "Copiague",
+	"State": "NY",
+	"latitude": 40.6728,
+	"longitude": -73.3932
+},
+{
+	"City": "Monsey",
+	"State": "NY",
+	"latitude": 41.1181,
+	"longitude": -74.0681
+},
+{
+	"City": "Garden City",
+	"State": "NY",
+	"latitude": 40.7266,
+	"longitude": -73.6447
+},
+{
+	"City": "East Patchogue",
+	"State": "NY",
+	"latitude": 40.7704,
+	"longitude": -72.9817
+},
+{
+	"City": "Massapequa",
+	"State": "NY",
+	"latitude": 40.6676,
+	"longitude": -73.4706
+},
+{
+	"City": "North Bay Shore",
+	"State": "NY",
+	"latitude": 40.7601,
+	"longitude": -73.2618
+},
+{
+	"City": "Amsterdam",
+	"State": "NY",
+	"latitude": 42.942,
+	"longitude": -74.1907
+},
+{
+	"City": "Oneida",
+	"State": "NY",
+	"latitude": 43.0769,
+	"longitude": -75.6621
+},
+{
+	"City": "Olean",
+	"State": "NY",
+	"latitude": 42.0819,
+	"longitude": -78.4321
+},
+{
+	"City": "North Bellmore",
+	"State": "NY",
+	"latitude": 40.6904,
+	"longitude": -73.539
+},
+{
+	"City": "Lake Ronkonkoma",
+	"State": "NY",
+	"latitude": 40.8308,
+	"longitude": -73.1112
+},
+{
+	"City": "East Northport",
+	"State": "NY",
+	"latitude": 40.8792,
+	"longitude": -73.3232
+},
+{
+	"City": "Merrick",
+	"State": "NY",
+	"latitude": 40.6515,
+	"longitude": -73.5535
+},
+{
+	"City": "Selden",
+	"State": "NY",
+	"latitude": 40.8699,
+	"longitude": -73.0462
+},
+{
+	"City": "Hauppauge",
+	"State": "NY",
+	"latitude": 40.8217,
+	"longitude": -73.2119
+},
+{
+	"City": "West Hempstead",
+	"State": "NY",
+	"latitude": 40.6959,
+	"longitude": -73.6507
+},
+{
+	"City": "Brockport",
+	"State": "NY",
+	"latitude": 43.2137,
+	"longitude": -77.9404
+},
+{
+	"City": "Holtsville",
+	"State": "NY",
+	"latitude": 40.8124,
+	"longitude": -73.0447
+},
+{
+	"City": "Syosset",
+	"State": "NY",
+	"latitude": 40.8156,
+	"longitude": -73.502
+},
+{
+	"City": "Lynbrook",
+	"State": "NY",
+	"latitude": 40.6579,
+	"longitude": -73.6742
+},
+{
+	"City": "Corning",
+	"State": "NY",
+	"latitude": 42.147,
+	"longitude": -77.0561
+},
+{
+	"City": "Mineola",
+	"State": "NY",
+	"latitude": 40.7469,
+	"longitude": -73.6392
+},
+{
+	"City": "North Valley Stream",
+	"State": "NY",
+	"latitude": 40.684,
+	"longitude": -73.7077
+},
+{
+	"City": "North Massapequa",
+	"State": "NY",
+	"latitude": 40.7031,
+	"longitude": -73.4678
+},
+{
+	"City": "North Amityville",
+	"State": "NY",
+	"latitude": 40.7005,
+	"longitude": -73.4118
+},
+{
+	"City": "Ronkonkoma",
+	"State": "NY",
+	"latitude": 40.804,
+	"longitude": -73.1258
+},
+{
+	"City": "Wantagh",
+	"State": "NY",
+	"latitude": 40.6686,
+	"longitude": -73.5104
+},
+{
+	"City": "Scarsdale",
+	"State": "NY",
+	"latitude": 40.9902,
+	"longitude": -73.7773
+},
+{
+	"City": "Lackawanna",
+	"State": "NY",
+	"latitude": 42.8182,
+	"longitude": -78.8326
+},
+{
+	"City": "Melville",
+	"State": "NY",
+	"latitude": 40.7823,
+	"longitude": -73.4088
+},
+{
+	"City": "Bethpage",
+	"State": "NY",
+	"latitude": 40.7495,
+	"longitude": -73.4856
+},
+{
+	"City": "East Massapequa",
+	"State": "NY",
+	"latitude": 40.6743,
+	"longitude": -73.4358
+},
+{
+	"City": "Nanuet",
+	"State": "NY",
+	"latitude": 41.0957,
+	"longitude": -74.0155
+},
+{
+	"City": "Woodmere",
+	"State": "NY",
+	"latitude": 40.6374,
+	"longitude": -73.7219
+},
+{
+	"City": "Oneonta",
+	"State": "NY",
+	"latitude": 42.4551,
+	"longitude": -75.0666
+},
+{
+	"City": "Massapequa Park",
+	"State": "NY",
+	"latitude": 40.6817,
+	"longitude": -73.4496
+},
+{
+	"City": "North Babylon",
+	"State": "NY",
+	"latitude": 40.7311,
+	"longitude": -73.3251
+},
+{
+	"City": "Roosevelt",
+	"State": "NY",
+	"latitude": 40.6797,
+	"longitude": -73.5837
+},
+{
+	"City": "Cohoes",
+	"State": "NY",
+	"latitude": 42.7732,
+	"longitude": -73.7077
+},
+{
+	"City": "Batavia",
+	"State": "NY",
+	"latitude": 42.9987,
+	"longitude": -78.1802
+},
+{
+	"City": "Pearl River",
+	"State": "NY",
+	"latitude": 41.0615,
+	"longitude": -74.0047
+},
+{
+	"City": "Kings Park",
+	"State": "NY",
+	"latitude": 40.8887,
+	"longitude": -73.2452
+},
+{
+	"City": "Port Jervis",
+	"State": "NY",
+	"latitude": 41.3783,
+	"longitude": -74.6909
+},
+{
+	"City": "Sayville",
+	"State": "NY",
+	"latitude": 40.7478,
+	"longitude": -73.084
+},
+{
+	"City": "Floral Park",
+	"State": "NY",
+	"latitude": 40.7226,
+	"longitude": -73.7029
+},
+{
+	"City": "Port Washington",
+	"State": "NY",
+	"latitude": 40.8268,
+	"longitude": -73.6764
+},
+{
+	"City": "Eggertsville",
+	"State": "NY",
+	"latitude": 42.9665,
+	"longitude": -78.8065
+},
+{
+	"City": "Farmingville",
+	"State": "NY",
+	"latitude": 40.8389,
+	"longitude": -73.0401
+},
+{
+	"City": "Mastic",
+	"State": "NY",
+	"latitude": 40.8098,
+	"longitude": -72.8479
+},
+{
+	"City": "Bellmore",
+	"State": "NY",
+	"latitude": 40.6569,
+	"longitude": -73.5285
+},
+{
+	"City": "Westbury",
+	"State": "NY",
+	"latitude": 40.7599,
+	"longitude": -73.5891
+},
+{
+	"City": "South Farmingdale",
+	"State": "NY",
+	"latitude": 40.7175,
+	"longitude": -73.4471
+},
+{
+	"City": "North New Hyde Park",
+	"State": "NY",
+	"latitude": 40.746,
+	"longitude": -73.6876
+},
+{
+	"City": "Seaford",
+	"State": "NY",
+	"latitude": 40.6678,
+	"longitude": -73.4922
+},
+{
+	"City": "Kenmore",
+	"State": "NY",
+	"latitude": 42.9646,
+	"longitude": -78.8713
+},
+{
+	"City": "Depew",
+	"State": "NY",
+	"latitude": 42.9117,
+	"longitude": -78.7044
+},
+{
+	"City": "New Cassel",
+	"State": "NY",
+	"latitude": 40.76,
+	"longitude": -73.5649
+},
+{
+	"City": "Hampton Bays",
+	"State": "NY",
+	"latitude": 40.8692,
+	"longitude": -72.5227
+},
+{
+	"City": "Tonawanda",
+	"State": "NY",
+	"latitude": 43.0105,
+	"longitude": -78.8805
+},
+{
+	"City": "Greenlawn",
+	"State": "NY",
+	"latitude": 40.863,
+	"longitude": -73.3642
+},
+{
+	"City": "Jefferson Valley-Yorktown",
+	"State": "NY",
+	"latitude": 41.3179,
+	"longitude": -73.8007
+},
+{
+	"City": "Johnson City",
+	"State": "NY",
+	"latitude": 42.123,
+	"longitude": -75.9624
+},
+{
+	"City": "Beacon",
+	"State": "NY",
+	"latitude": 41.5036,
+	"longitude": -73.9655
+},
+{
+	"City": "Jericho",
+	"State": "NY",
+	"latitude": 40.7875,
+	"longitude": -73.5416
+},
+{
+	"City": "St. James",
+	"State": "NY",
+	"latitude": 40.8761,
+	"longitude": -73.1521
+},
+{
+	"City": "Rocky Point",
+	"State": "NY",
+	"latitude": 40.9357,
+	"longitude": -72.9364
+},
+{
+	"City": "Newark",
+	"State": "NY",
+	"latitude": 43.0418,
+	"longitude": -77.093
+},
+{
+	"City": "Nesconset",
+	"State": "NY",
+	"latitude": 40.8467,
+	"longitude": -73.1522
+},
+{
+	"City": "Manorville",
+	"State": "NY",
+	"latitude": 40.8575,
+	"longitude": -72.7915
+},
+{
+	"City": "East Islip",
+	"State": "NY",
+	"latitude": 40.7275,
+	"longitude": -73.1861
+},
+{
+	"City": "Fort Drum",
+	"State": "NY",
+	"latitude": 44.0451,
+	"longitude": -75.7847
+},
+{
+	"City": "Ridge",
+	"State": "NY",
+	"latitude": 40.9068,
+	"longitude": -72.8816
+},
+{
+	"City": "Terryville",
+	"State": "NY",
+	"latitude": 40.909,
+	"longitude": -73.0492
+},
+{
+	"City": "Mastic Beach",
+	"State": "NY",
+	"latitude": 40.7679,
+	"longitude": -72.8375
+},
+{
+	"City": "Endicott",
+	"State": "NY",
+	"latitude": 42.098,
+	"longitude": -76.0639
+},
+{
+	"City": "Stony Brook",
+	"State": "NY",
+	"latitude": 40.906,
+	"longitude": -73.1278
+},
+{
+	"City": "Patchogue",
+	"State": "NY",
+	"latitude": 40.7621,
+	"longitude": -73.0185
+},
+{
+	"City": "North Merrick",
+	"State": "NY",
+	"latitude": 40.6871,
+	"longitude": -73.5615
+},
+{
+	"City": "Salisbury",
+	"State": "NY",
+	"latitude": 40.7454,
+	"longitude": -73.5604
+},
+{
+	"City": "Miller Place",
+	"State": "NY",
+	"latitude": 40.9374,
+	"longitude": -72.9864
+},
+{
+	"City": "North Wantagh",
+	"State": "NY",
+	"latitude": 40.6983,
+	"longitude": -73.5086
+},
+{
+	"City": "Endwell",
+	"State": "NY",
+	"latitude": 42.1185,
+	"longitude": -76.0219
+},
+{
+	"City": "Elwood",
+	"State": "NY",
+	"latitude": 40.8462,
+	"longitude": -73.3389
+},
+{
+	"City": "North Bellport",
+	"State": "NY",
+	"latitude": 40.7868,
+	"longitude": -72.9457
+},
+{
+	"City": "Tarrytown",
+	"State": "NY",
+	"latitude": 41.0647,
+	"longitude": -73.8673
+},
+{
+	"City": "Wyandanch",
+	"State": "NY",
+	"latitude": 40.7467,
+	"longitude": -73.3769
+},
+{
+	"City": "Fulton",
+	"State": "NY",
+	"latitude": 43.3171,
+	"longitude": -76.4162
+},
+{
+	"City": "Mount Sinai",
+	"State": "NY",
+	"latitude": 40.9372,
+	"longitude": -73.018
+},
+{
+	"City": "Woodbury",
+	"State": "NY",
+	"latitude": 41.3284,
+	"longitude": -74.1004
+},
+{
+	"City": "Walden",
+	"State": "NY",
+	"latitude": 41.5603,
+	"longitude": -74.1879
+},
+{
+	"City": "Lake Grove",
+	"State": "NY",
+	"latitude": 40.8586,
+	"longitude": -73.1168
+},
+{
+	"City": "Dobbs Ferry",
+	"State": "NY",
+	"latitude": 41.0127,
+	"longitude": -73.8698
+},
+{
+	"City": "Suffern",
+	"State": "NY",
+	"latitude": 41.1138,
+	"longitude": -74.1421
+},
+{
+	"City": "Mount Kisco",
+	"State": "NY",
+	"latitude": 41.2018,
+	"longitude": -73.7282
+},
+{
+	"City": "Hornell",
+	"State": "NY",
+	"latitude": 42.3332,
+	"longitude": -77.6633
+},
+{
+	"City": "Ogdensburg",
+	"State": "NY",
+	"latitude": 44.7088,
+	"longitude": -75.4717
+},
+{
+	"City": "North Lindenhurst",
+	"State": "NY",
+	"latitude": 40.7072,
+	"longitude": -73.3859
+},
+{
+	"City": "Hudson",
+	"State": "NY",
+	"latitude": 42.2515,
+	"longitude": -73.7859
+},
+{
+	"City": "South Huntington",
+	"State": "NY",
+	"latitude": 40.8225,
+	"longitude": -73.3921
+},
+{
+	"City": "Fredonia",
+	"State": "NY",
+	"latitude": 42.4407,
+	"longitude": -79.3319
+},
+{
+	"City": "Middle Island",
+	"State": "NY",
+	"latitude": 40.8857,
+	"longitude": -72.9454
+},
+{
+	"City": "Great Neck",
+	"State": "NY",
+	"latitude": 40.8028,
+	"longitude": -73.7332
+},
+{
+	"City": "West Haverstraw",
+	"State": "NY",
+	"latitude": 41.2063,
+	"longitude": -73.9883
+},
+{
+	"City": "Fairmount",
+	"State": "NY",
+	"latitude": 43.0414,
+	"longitude": -76.2485
+},
+{
+	"City": "Sleepy Hollow",
+	"State": "NY",
+	"latitude": 41.0936,
+	"longitude": -73.8724
+},
+{
+	"City": "Scotchtown",
+	"State": "NY",
+	"latitude": 41.4759,
+	"longitude": -74.3682
+},
+{
+	"City": "Watervliet",
+	"State": "NY",
+	"latitude": 42.7243,
+	"longitude": -73.7068
+},
+{
+	"City": "Inwood",
+	"State": "NY",
+	"latitude": 40.6218,
+	"longitude": -73.7507
+},
+{
+	"City": "East Rockaway",
+	"State": "NY",
+	"latitude": 40.6432,
+	"longitude": -73.6672
+},
+{
+	"City": "New Hyde Park",
+	"State": "NY",
+	"latitude": 40.7324,
+	"longitude": -73.6858
+},
+{
+	"City": "Fort Salonga",
+	"State": "NY",
+	"latitude": 40.906,
+	"longitude": -73.2992
+},
+{
+	"City": "East Aurora",
+	"State": "NY",
+	"latitude": 42.7666,
+	"longitude": -78.6172
+},
+{
+	"City": "North Gates",
+	"State": "NY",
+	"latitude": 43.1718,
+	"longitude": -77.7064
+},
+{
+	"City": "Rye Brook",
+	"State": "NY",
+	"latitude": 41.0303,
+	"longitude": -73.6865
+},
+{
+	"City": "Amityville",
+	"State": "NY",
+	"latitude": 40.6696,
+	"longitude": -73.4156
+},
+{
+	"City": "Bohemia",
+	"State": "NY",
+	"latitude": 40.7717,
+	"longitude": -73.1271
+},
+{
+	"City": "Rensselaer",
+	"State": "NY",
+	"latitude": 42.6465,
+	"longitude": -73.7328
+},
+{
+	"City": "Valley Cottage",
+	"State": "NY",
+	"latitude": 41.116,
+	"longitude": -73.9436
+},
+{
+	"City": "Farmingdale",
+	"State": "NY",
+	"latitude": 40.7328,
+	"longitude": -73.4465
+},
+{
+	"City": "Plainedge",
+	"State": "NY",
+	"latitude": 40.724,
+	"longitude": -73.477
+},
+{
+	"City": "Stony Brook University",
+	"State": "NY",
+	"latitude": 40.9099,
+	"longitude": -73.1213
+},
+{
+	"City": "Woodbury",
+	"State": "NY",
+	"latitude": 40.8177,
+	"longitude": -73.4703
+},
+{
+	"City": "Glens Falls North",
+	"State": "NY",
+	"latitude": 43.335,
+	"longitude": -73.6824
+},
+{
+	"City": "Airmont",
+	"State": "NY",
+	"latitude": 41.0992,
+	"longitude": -74.099
+},
+{
+	"City": "New Square",
+	"State": "NY",
+	"latitude": 41.141,
+	"longitude": -74.0294
+},
+{
+	"City": "Malverne",
+	"State": "NY",
+	"latitude": 40.6746,
+	"longitude": -73.6721
+},
+{
+	"City": "Congers",
+	"State": "NY",
+	"latitude": 41.1484,
+	"longitude": -73.9456
+},
+{
+	"City": "Bayport",
+	"State": "NY",
+	"latitude": 40.746,
+	"longitude": -73.0546
+},
+{
+	"City": "Garden City Park",
+	"State": "NY",
+	"latitude": 40.7436,
+	"longitude": -73.6639
+},
+{
+	"City": "Johnstown",
+	"State": "NY",
+	"latitude": 43.0073,
+	"longitude": -74.3755
+},
+{
+	"City": "Mahopac",
+	"State": "NY",
+	"latitude": 41.3684,
+	"longitude": -73.7401
+},
+{
+	"City": "Center Moriches",
+	"State": "NY",
+	"latitude": 40.8015,
+	"longitude": -72.796
+},
+{
+	"City": "Port Jefferson",
+	"State": "NY",
+	"latitude": 40.9465,
+	"longitude": -73.0579
+},
+{
+	"City": "Croton-on-Hudson",
+	"State": "NY",
+	"latitude": 41.2005,
+	"longitude": -73.9002
+},
+{
+	"City": "Briarcliff Manor",
+	"State": "NY",
+	"latitude": 41.14,
+	"longitude": -73.844
+},
+{
+	"City": "Lake Carmel",
+	"State": "NY",
+	"latitude": 41.4612,
+	"longitude": -73.6681
+},
+{
+	"City": "Chestnut Ridge",
+	"State": "NY",
+	"latitude": 41.0829,
+	"longitude": -74.0551
+},
+{
+	"City": "Manhasset",
+	"State": "NY",
+	"latitude": 40.7884,
+	"longitude": -73.6943
+},
+{
+	"City": "Hastings-on-Hudson",
+	"State": "NY",
+	"latitude": 40.9902,
+	"longitude": -73.8801
+},
+{
+	"City": "Baldwinsville",
+	"State": "NY",
+	"latitude": 43.157,
+	"longitude": -76.3318
+},
+{
+	"City": "Sound Beach",
+	"State": "NY",
+	"latitude": 40.9578,
+	"longitude": -72.9726
+},
+{
+	"City": "Medina",
+	"State": "NY",
+	"latitude": 43.2197,
+	"longitude": -78.3888
+},
+{
+	"City": "Greenville",
+	"State": "NY",
+	"latitude": 40.9981,
+	"longitude": -73.8194
+},
+{
+	"City": "Albion",
+	"State": "NY",
+	"latitude": 43.246,
+	"longitude": -78.1902
+},
+{
+	"City": "Wading River",
+	"State": "NY",
+	"latitude": 40.9464,
+	"longitude": -72.823
+},
+{
+	"City": "North Patchogue",
+	"State": "NY",
+	"latitude": 40.7833,
+	"longitude": -73.0234
+},
+{
+	"City": "Scotia",
+	"State": "NY",
+	"latitude": 42.8321,
+	"longitude": -73.9607
+},
+{
+	"City": "Baldwin Harbor",
+	"State": "NY",
+	"latitude": 40.6296,
+	"longitude": -73.6025
+},
+{
+	"City": "Norwich",
+	"State": "NY",
+	"latitude": 42.5333,
+	"longitude": -75.5227
+},
+{
+	"City": "Monticello",
+	"State": "NY",
+	"latitude": 41.6522,
+	"longitude": -74.6876
+},
+{
+	"City": "Hillcrest",
+	"State": "NY",
+	"latitude": 41.1298,
+	"longitude": -74.035
+},
+{
+	"City": "Saranac Lake",
+	"State": "NY",
+	"latitude": 44.3245,
+	"longitude": -74.1314
+},
+{
+	"City": "Port Jefferson Station",
+	"State": "NY",
+	"latitude": 40.926,
+	"longitude": -73.0651
+},
+{
+	"City": "Baywood",
+	"State": "NY",
+	"latitude": 40.7533,
+	"longitude": -73.29
+},
+{
+	"City": "Northport",
+	"State": "NY",
+	"latitude": 40.9036,
+	"longitude": -73.3446
+},
+{
+	"City": "Pleasantville",
+	"State": "NY",
+	"latitude": 41.1378,
+	"longitude": -73.7827
+},
+{
+	"City": "Williston Park",
+	"State": "NY",
+	"latitude": 40.7587,
+	"longitude": -73.6465
+},
+{
+	"City": "East Hills",
+	"State": "NY",
+	"latitude": 40.7958,
+	"longitude": -73.6292
+},
+{
+	"City": "Tappan",
+	"State": "NY",
+	"latitude": 41.0269,
+	"longitude": -73.952
+},
+{
+	"City": "Nyack",
+	"State": "NY",
+	"latitude": 41.0919,
+	"longitude": -73.9143
+},
+{
+	"City": "Mount Ivy",
+	"State": "NY",
+	"latitude": 41.1926,
+	"longitude": -74.0297
+},
+{
+	"City": "South Lockport",
+	"State": "NY",
+	"latitude": 43.1377,
+	"longitude": -78.6864
+},
+{
+	"City": "Hudson Falls",
+	"State": "NY",
+	"latitude": 43.3042,
+	"longitude": -73.5818
+},
+{
+	"City": "Springs",
+	"State": "NY",
+	"latitude": 41.0212,
+	"longitude": -72.1584
+},
+{
+	"City": "Great Neck Plaza",
+	"State": "NY",
+	"latitude": 40.7869,
+	"longitude": -73.7261
+},
+{
+	"City": "Calverton",
+	"State": "NY",
+	"latitude": 40.9163,
+	"longitude": -72.7645
+},
+{
+	"City": "Oakdale",
+	"State": "NY",
+	"latitude": 40.7373,
+	"longitude": -73.1345
+},
+{
+	"City": "Westmere",
+	"State": "NY",
+	"latitude": 42.6883,
+	"longitude": -73.8744
+},
+{
+	"City": "Viola",
+	"State": "NY",
+	"latitude": 41.1287,
+	"longitude": -74.0855
+},
+{
+	"City": "Mechanicstown",
+	"State": "NY",
+	"latitude": 41.4472,
+	"longitude": -74.3914
+},
+{
+	"City": "West Glens Falls",
+	"State": "NY",
+	"latitude": 43.3019,
+	"longitude": -73.6874
+},
+{
+	"City": "Hewlett",
+	"State": "NY",
+	"latitude": 40.6422,
+	"longitude": -73.6942
+},
+{
+	"City": "East Shoreham",
+	"State": "NY",
+	"latitude": 40.946,
+	"longitude": -72.8811
+},
+{
+	"City": "Myers Corner",
+	"State": "NY",
+	"latitude": 41.5947,
+	"longitude": -73.8744
+},
+{
+	"City": "South Valley Stream",
+	"State": "NY",
+	"latitude": 40.6557,
+	"longitude": -73.7186
+},
+{
+	"City": "Bayville",
+	"State": "NY",
+	"latitude": 40.9076,
+	"longitude": -73.5602
+},
+{
+	"City": "Cedarhurst",
+	"State": "NY",
+	"latitude": 40.6252,
+	"longitude": -73.7278
+},
+{
+	"City": "North Syracuse",
+	"State": "NY",
+	"latitude": 43.1339,
+	"longitude": -76.1306
+},
+{
+	"City": "Manorhaven",
+	"State": "NY",
+	"latitude": 40.8399,
+	"longitude": -73.7127
+},
+{
+	"City": "Lawrence",
+	"State": "NY",
+	"latitude": 40.6042,
+	"longitude": -73.7149
+},
+{
+	"City": "Roslyn Heights",
+	"State": "NY",
+	"latitude": 40.7787,
+	"longitude": -73.6396
+},
+{
+	"City": "South Hill",
+	"State": "NY",
+	"latitude": 42.4113,
+	"longitude": -76.4883
+},
+{
+	"City": "Tuckahoe",
+	"State": "NY",
+	"latitude": 40.953,
+	"longitude": -73.823
+},
+{
+	"City": "East Rochester",
+	"State": "NY",
+	"latitude": 43.112,
+	"longitude": -77.4869
+},
+{
+	"City": "Irvington",
+	"State": "NY",
+	"latitude": 41.0349,
+	"longitude": -73.8661
+},
+{
+	"City": "Penn Yan",
+	"State": "NY",
+	"latitude": 42.6608,
+	"longitude": -77.0536
+},
+{
+	"City": "Orange Lake",
+	"State": "NY",
+	"latitude": 41.5319,
+	"longitude": -74.0936
+},
+{
+	"City": "Bronxville",
+	"State": "NY",
+	"latitude": 40.9394,
+	"longitude": -73.8263
+},
+{
+	"City": "Ellenville",
+	"State": "NY",
+	"latitude": 41.7009,
+	"longitude": -74.3609
+},
+{
+	"City": "West Point",
+	"State": "NY",
+	"latitude": 41.3642,
+	"longitude": -74.0118
+},
+{
+	"City": "Carmel Hamlet",
+	"State": "NY",
+	"latitude": 41.415,
+	"longitude": -73.6855
+},
+{
+	"City": "Yaphank",
+	"State": "NY",
+	"latitude": 40.8323,
+	"longitude": -72.9233
+},
+{
+	"City": "East Glenville",
+	"State": "NY",
+	"latitude": 42.8614,
+	"longitude": -73.9206
+},
+{
+	"City": "Solvay",
+	"State": "NY",
+	"latitude": 43.0573,
+	"longitude": -76.2126
+},
+{
+	"City": "University at Buffalo",
+	"State": "NY",
+	"latitude": 43.0025,
+	"longitude": -78.7887
+},
+{
+	"City": "East Farmingdale",
+	"State": "NY",
+	"latitude": 40.7336,
+	"longitude": -73.4169
+},
+{
+	"City": "Lakeview",
+	"State": "NY",
+	"latitude": 40.6775,
+	"longitude": -73.6493
+},
+{
+	"City": "Binghamton University",
+	"State": "NY",
+	"latitude": 42.0893,
+	"longitude": -75.9684
+},
+{
+	"City": "Larchmont",
+	"State": "NY",
+	"latitude": 40.9258,
+	"longitude": -73.7529
+},
+{
+	"City": "Clifton Springs",
+	"State": "NY",
+	"latitude": 42.9608,
+	"longitude": -77.1348
+},
+{
+	"City": "North Hills",
+	"State": "NY",
+	"latitude": 40.7765,
+	"longitude": -73.6778
+},
+{
+	"City": "Gowanda",
+	"State": "NY",
+	"latitude": 42.4612,
+	"longitude": -78.9339
+},
+{
+	"City": "Wesley Hills",
+	"State": "NY",
+	"latitude": 41.1579,
+	"longitude": -74.0768
+},
+{
+	"City": "Chester",
+	"State": "NY",
+	"latitude": 41.357,
+	"longitude": -74.2769
+},
+{
+	"City": "Harris Hill",
+	"State": "NY",
+	"latitude": 42.973,
+	"longitude": -78.6793
+},
+{
+	"City": "Mattydale",
+	"State": "NY",
+	"latitude": 43.0992,
+	"longitude": -76.1388
+},
+{
+	"City": "Lake Mohegan",
+	"State": "NY",
+	"latitude": 41.3165,
+	"longitude": -73.8475
+},
+{
+	"City": "Hilton",
+	"State": "NY",
+	"latitude": 43.29,
+	"longitude": -77.7925
+},
+{
+	"City": "Washingtonville",
+	"State": "NY",
+	"latitude": 41.4296,
+	"longitude": -74.1578
+},
+{
+	"City": "Flanders",
+	"State": "NY",
+	"latitude": 40.8925,
+	"longitude": -72.6049
+},
+{
+	"City": "Highland",
+	"State": "NY",
+	"latitude": 41.7179,
+	"longitude": -73.9646
+},
+{
+	"City": "Islip Terrace",
+	"State": "NY",
+	"latitude": 40.7506,
+	"longitude": -73.1872
+},
+{
+	"City": "Wappingers Falls",
+	"State": "NY",
+	"latitude": 41.5984,
+	"longitude": -73.9182
+},
+{
+	"City": "Pelham Manor",
+	"State": "NY",
+	"latitude": 40.893,
+	"longitude": -73.8057
+},
+{
+	"City": "Fort Plain",
+	"State": "NY",
+	"latitude": 42.9316,
+	"longitude": -74.6277
+},
+{
+	"City": "Fairview",
+	"State": "NY",
+	"latitude": 41.732,
+	"longitude": -73.9139
+},
+{
+	"City": "East Moriches",
+	"State": "NY",
+	"latitude": 40.8097,
+	"longitude": -72.7581
+},
+{
+	"City": "Honeoye Falls",
+	"State": "NY",
+	"latitude": 42.9557,
+	"longitude": -77.5903
+},
+{
+	"City": "New Hempstead",
+	"State": "NY",
+	"latitude": 41.1488,
+	"longitude": -74.0485
+},
+{
+	"City": "Salamanca",
+	"State": "NY",
+	"latitude": 42.1631,
+	"longitude": -78.7233
+},
+{
+	"City": "Valatie",
+	"State": "NY",
+	"latitude": 42.4134,
+	"longitude": -73.6778
+},
+{
+	"City": "Centerport",
+	"State": "NY",
+	"latitude": 40.8943,
+	"longitude": -73.3714
+},
+{
+	"City": "Kaser",
+	"State": "NY",
+	"latitude": 41.1214,
+	"longitude": -74.0686
+},
+{
+	"City": "East Quogue",
+	"State": "NY",
+	"latitude": 40.8489,
+	"longitude": -72.5783
+},
+{
+	"City": "Fairport",
+	"State": "NY",
+	"latitude": 43.099,
+	"longitude": -77.4427
+},
+{
+	"City": "Kings Point",
+	"State": "NY",
+	"latitude": 40.8162,
+	"longitude": -73.7407
+},
+{
+	"City": "Old Bethpage",
+	"State": "NY",
+	"latitude": 40.7557,
+	"longitude": -73.4544
+},
+{
+	"City": "Ballston Spa",
+	"State": "NY",
+	"latitude": 43.0068,
+	"longitude": -73.8525
+},
+{
+	"City": "Albertson",
+	"State": "NY",
+	"latitude": 40.7715,
+	"longitude": -73.6482
+},
+{
+	"City": "Williamsville",
+	"State": "NY",
+	"latitude": 42.9623,
+	"longitude": -78.7418
+},
+{
+	"City": "Elmsford",
+	"State": "NY",
+	"latitude": 41.0541,
+	"longitude": -73.8143
+},
+{
+	"City": "Ravena",
+	"State": "NY",
+	"latitude": 42.4755,
+	"longitude": -73.8113
+},
+{
+	"City": "Blauvelt",
+	"State": "NY",
+	"latitude": 41.0689,
+	"longitude": -73.9545
+},
+{
+	"City": "Carle Place",
+	"State": "NY",
+	"latitude": 40.75,
+	"longitude": -73.6122
+},
+{
+	"City": "West Hills",
+	"State": "NY",
+	"latitude": 40.8198,
+	"longitude": -73.4339
+},
+{
+	"City": "Glen Head",
+	"State": "NY",
+	"latitude": 40.845,
+	"longitude": -73.618
+},
+{
+	"City": "Mechanicville",
+	"State": "NY",
+	"latitude": 42.9037,
+	"longitude": -73.6895
+},
+{
+	"City": "Sea Cliff",
+	"State": "NY",
+	"latitude": 40.8441,
+	"longitude": -73.6442
+},
+{
+	"City": "West Sayville",
+	"State": "NY",
+	"latitude": 40.7294,
+	"longitude": -73.105
+},
+{
+	"City": "Westvale",
+	"State": "NY",
+	"latitude": 43.04,
+	"longitude": -76.2177
+},
+{
+	"City": "Blue Point",
+	"State": "NY",
+	"latitude": 40.7518,
+	"longitude": -73.0352
+},
+{
+	"City": "Wheatley Heights",
+	"State": "NY",
+	"latitude": 40.7625,
+	"longitude": -73.3704
+},
+{
+	"City": "Cold Spring Harbor",
+	"State": "NY",
+	"latitude": 40.8608,
+	"longitude": -73.4488
+},
+{
+	"City": "Firthcliffe",
+	"State": "NY",
+	"latitude": 41.4409,
+	"longitude": -74.0353
+},
+{
+	"City": "Flower Hill",
+	"State": "NY",
+	"latitude": 40.8075,
+	"longitude": -73.6755
+},
+{
+	"City": "Island Park",
+	"State": "NY",
+	"latitude": 40.6051,
+	"longitude": -73.6553
+},
+{
+	"City": "Thiells",
+	"State": "NY",
+	"latitude": 41.2067,
+	"longitude": -74.0122
+},
+{
+	"City": "Chittenango",
+	"State": "NY",
+	"latitude": 43.0462,
+	"longitude": -75.8749
+},
+{
+	"City": "West Bay Shore",
+	"State": "NY",
+	"latitude": 40.708,
+	"longitude": -73.2719
+},
+{
+	"City": "Dansville",
+	"State": "NY",
+	"latitude": 42.5625,
+	"longitude": -77.6968
+},
+{
+	"City": "Grandyle Village",
+	"State": "NY",
+	"latitude": 42.9866,
+	"longitude": -78.9524
+},
+{
+	"City": "Mattituck",
+	"State": "NY",
+	"latitude": 41.0012,
+	"longitude": -72.5419
+},
+{
+	"City": "Hawthorne",
+	"State": "NY",
+	"latitude": 41.1035,
+	"longitude": -73.7969
+},
+{
+	"City": "West Elmira",
+	"State": "NY",
+	"latitude": 42.0879,
+	"longitude": -76.8473
+},
+{
+	"City": "Little Falls",
+	"State": "NY",
+	"latitude": 43.0452,
+	"longitude": -74.8566
+},
+{
+	"City": "Galeville",
+	"State": "NY",
+	"latitude": 43.0889,
+	"longitude": -76.1815
+},
+{
+	"City": "Gardnertown",
+	"State": "NY",
+	"latitude": 41.5328,
+	"longitude": -74.0594
+},
+{
+	"City": "Old Westbury",
+	"State": "NY",
+	"latitude": 40.7866,
+	"longitude": -73.5975
+},
+{
+	"City": "North Sea",
+	"State": "NY",
+	"latitude": 40.933,
+	"longitude": -72.4047
+},
+{
+	"City": "Montebello",
+	"State": "NY",
+	"latitude": 41.1317,
+	"longitude": -74.1134
+},
+{
+	"City": "Searingtown",
+	"State": "NY",
+	"latitude": 40.7705,
+	"longitude": -73.6603
+},
+{
+	"City": "Gang Mills",
+	"State": "NY",
+	"latitude": 42.1534,
+	"longitude": -77.123
+},
+{
+	"City": "Hartsdale",
+	"State": "NY",
+	"latitude": 41.0153,
+	"longitude": -73.8036
+},
+{
+	"City": "Canastota",
+	"State": "NY",
+	"latitude": 43.0835,
+	"longitude": -75.7559
+},
+{
+	"City": "East Hampton North",
+	"State": "NY",
+	"latitude": 40.9725,
+	"longitude": -72.1889
+},
+{
+	"City": "Ardsley",
+	"State": "NY",
+	"latitude": 41.0135,
+	"longitude": -73.8395
+},
+{
+	"City": "Orangeburg",
+	"State": "NY",
+	"latitude": 41.0488,
+	"longitude": -73.9407
+},
+{
+	"City": "Armonk",
+	"State": "NY",
+	"latitude": 41.132,
+	"longitude": -73.7137
+},
+{
+	"City": "Noyack",
+	"State": "NY",
+	"latitude": 40.9827,
+	"longitude": -72.335
+},
+{
+	"City": "Springville",
+	"State": "NY",
+	"latitude": 42.5084,
+	"longitude": -78.6696
+},
+{
+	"City": "Garden City South",
+	"State": "NY",
+	"latitude": 40.7121,
+	"longitude": -73.6605
+},
+{
+	"City": "Thornwood",
+	"State": "NY",
+	"latitude": 41.1185,
+	"longitude": -73.7796
+},
+{
+	"City": "University Gardens",
+	"State": "NY",
+	"latitude": 40.7751,
+	"longitude": -73.7279
+},
+{
+	"City": "Otisville",
+	"State": "NY",
+	"latitude": 41.4714,
+	"longitude": -74.5397
+},
+{
+	"City": "Herricks",
+	"State": "NY",
+	"latitude": 40.7567,
+	"longitude": -73.6635
+},
+{
+	"City": "Waverly",
+	"State": "NY",
+	"latitude": 42.0119,
+	"longitude": -76.5406
+},
+{
+	"City": "Heritage Hills",
+	"State": "NY",
+	"latitude": 41.3398,
+	"longitude": -73.7016
+},
+{
+	"City": "Brewerton",
+	"State": "NY",
+	"latitude": 43.2344,
+	"longitude": -76.1411
+},
+{
+	"City": "Spackenkill",
+	"State": "NY",
+	"latitude": 41.6549,
+	"longitude": -73.9102
+},
+{
+	"City": "Fayetteville",
+	"State": "NY",
+	"latitude": 43.0308,
+	"longitude": -75.9985
+},
+{
+	"City": "Lyncourt",
+	"State": "NY",
+	"latitude": 43.0821,
+	"longitude": -76.1264
+},
+{
+	"City": "Bardonia",
+	"State": "NY",
+	"latitude": 41.1129,
+	"longitude": -73.9823
+},
+{
+	"City": "West Nyack",
+	"State": "NY",
+	"latitude": 41.0907,
+	"longitude": -73.9714
+},
+{
+	"City": "North Great River",
+	"State": "NY",
+	"latitude": 40.7599,
+	"longitude": -73.1678
+},
+{
+	"City": "Menands",
+	"State": "NY",
+	"latitude": 42.691,
+	"longitude": -73.7271
+},
+{
+	"City": "Wurtsboro",
+	"State": "NY",
+	"latitude": 41.5761,
+	"longitude": -74.4856
+},
+{
+	"City": "Glenwood Landing",
+	"State": "NY",
+	"latitude": 40.8295,
+	"longitude": -73.6378
+},
+{
+	"City": "Highland Falls",
+	"State": "NY",
+	"latitude": 41.3643,
+	"longitude": -73.9683
+},
+{
+	"City": "Elmira Heights",
+	"State": "NY",
+	"latitude": 42.1267,
+	"longitude": -76.8255
+},
+{
+	"City": "Village Green",
+	"State": "NY",
+	"latitude": 43.1324,
+	"longitude": -76.3108
+},
+{
+	"City": "SUNY Oswego",
+	"State": "NY",
+	"latitude": 43.4515,
+	"longitude": -76.5439
+},
+{
+	"City": "Montauk",
+	"State": "NY",
+	"latitude": 41.0471,
+	"longitude": -71.9449
+},
+{
+	"City": "Maybrook",
+	"State": "NY",
+	"latitude": 41.4881,
+	"longitude": -74.2131
+},
+{
+	"City": "Arlington",
+	"State": "NY",
+	"latitude": 41.6958,
+	"longitude": -73.8988
+},
+{
+	"City": "Muttontown",
+	"State": "NY",
+	"latitude": 40.8254,
+	"longitude": -73.5363
+},
+{
+	"City": "Lloyd Harbor",
+	"State": "NY",
+	"latitude": 40.9139,
+	"longitude": -73.4618
+},
+{
+	"City": "Spencerport",
+	"State": "NY",
+	"latitude": 43.1882,
+	"longitude": -77.8069
+},
+{
+	"City": "South Glens Falls",
+	"State": "NY",
+	"latitude": 43.2951,
+	"longitude": -73.6351
+},
+{
+	"City": "Manhasset Hills",
+	"State": "NY",
+	"latitude": 40.7592,
+	"longitude": -73.681
+},
+{
+	"City": "Whitesboro",
+	"State": "NY",
+	"latitude": 43.124,
+	"longitude": -75.2966
+},
+{
+	"City": "Brookville",
+	"State": "NY",
+	"latitude": 40.8123,
+	"longitude": -73.5696
+},
+{
+	"City": "Cayuga Heights",
+	"State": "NY",
+	"latitude": 42.468,
+	"longitude": -76.4876
+},
+{
+	"City": "Gordon Heights",
+	"State": "NY",
+	"latitude": 40.8645,
+	"longitude": -72.9678
+},
+{
+	"City": "Lake Erie Beach",
+	"State": "NY",
+	"latitude": 42.6242,
+	"longitude": -79.0786
+},
+{
+	"City": "Northwest Harbor",
+	"State": "NY",
+	"latitude": 41.0053,
+	"longitude": -72.222
+},
+{
+	"City": "Marlboro",
+	"State": "NY",
+	"latitude": 41.6028,
+	"longitude": -73.9774
+},
+{
+	"City": "Sloan",
+	"State": "NY",
+	"latitude": 42.8921,
+	"longitude": -78.7918
+},
+{
+	"City": "Valhalla",
+	"State": "NY",
+	"latitude": 41.0775,
+	"longitude": -73.778
+},
+{
+	"City": "Silver Creek",
+	"State": "NY",
+	"latitude": 42.5426,
+	"longitude": -79.1677
+},
+{
+	"City": "Locust Valley",
+	"State": "NY",
+	"latitude": 40.8782,
+	"longitude": -73.5884
+},
+{
+	"City": "Watkins Glen",
+	"State": "NY",
+	"latitude": 42.3801,
+	"longitude": -76.8673
+},
+{
+	"City": "Balmville",
+	"State": "NY",
+	"latitude": 41.5281,
+	"longitude": -74.0234
+},
+{
+	"City": "Putnam Lake",
+	"State": "NY",
+	"latitude": 41.4747,
+	"longitude": -73.5483
+},
+{
+	"City": "Hoosick Falls",
+	"State": "NY",
+	"latitude": 42.9009,
+	"longitude": -73.35
+},
+{
+	"City": "Minoa",
+	"State": "NY",
+	"latitude": 43.0742,
+	"longitude": -76.0085
+},
+{
+	"City": "Calcium",
+	"State": "NY",
+	"latitude": 44.0401,
+	"longitude": -75.8468
+},
+{
+	"City": "Sylvan Beach",
+	"State": "NY",
+	"latitude": 43.2061,
+	"longitude": -75.7234
+},
+{
+	"City": "Churchville",
+	"State": "NY",
+	"latitude": 43.1036,
+	"longitude": -77.8824
+},
+{
+	"City": "Lake Placid",
+	"State": "NY",
+	"latitude": 44.2838,
+	"longitude": -73.9855
+},
+{
+	"City": "South Nyack",
+	"State": "NY",
+	"latitude": 41.0798,
+	"longitude": -73.9127
+},
+{
+	"City": "Port Ewen",
+	"State": "NY",
+	"latitude": 41.9048,
+	"longitude": -73.9776
+},
+{
+	"City": "Islandia",
+	"State": "NY",
+	"latitude": 40.8068,
+	"longitude": -73.1711
+},
+{
+	"City": "Elma Center",
+	"State": "NY",
+	"latitude": 42.8282,
+	"longitude": -78.6342
+},
+{
+	"City": "Haviland",
+	"State": "NY",
+	"latitude": 41.7682,
+	"longitude": -73.9007
+},
+{
+	"City": "Carthage",
+	"State": "NY",
+	"latitude": 43.9837,
+	"longitude": -75.6021
+},
+{
+	"City": "Montrose",
+	"State": "NY",
+	"latitude": 41.2455,
+	"longitude": -73.9376
+},
+{
+	"City": "Pomona",
+	"State": "NY",
+	"latitude": 41.1892,
+	"longitude": -74.0543
+},
+{
+	"City": "Bedford Hills",
+	"State": "NY",
+	"latitude": 41.2362,
+	"longitude": -73.6959
+},
+{
+	"City": "New York Mills",
+	"State": "NY",
+	"latitude": 43.1007,
+	"longitude": -75.2932
+},
+{
+	"City": "Wanakah",
+	"State": "NY",
+	"latitude": 42.7434,
+	"longitude": -78.9028
+},
+{
+	"City": "Cutchogue",
+	"State": "NY",
+	"latitude": 41.0167,
+	"longitude": -72.4872
+},
+{
+	"City": "Port Washington North",
+	"State": "NY",
+	"latitude": 40.8434,
+	"longitude": -73.7014
+},
+{
+	"City": "South Hempstead",
+	"State": "NY",
+	"latitude": 40.6814,
+	"longitude": -73.6233
+},
+{
+	"City": "Red Oaks Mill",
+	"State": "NY",
+	"latitude": 41.6522,
+	"longitude": -73.8746
+},
+{
+	"City": "Cold Spring",
+	"State": "NY",
+	"latitude": 41.4191,
+	"longitude": -73.9545
+},
+{
+	"City": "South Blooming Grove",
+	"State": "NY",
+	"latitude": 41.3735,
+	"longitude": -74.179
+},
+{
+	"City": "Wynantskill",
+	"State": "NY",
+	"latitude": 42.6881,
+	"longitude": -73.6467
+},
+{
+	"City": "Lake Success",
+	"State": "NY",
+	"latitude": 40.768,
+	"longitude": -73.7089
+},
+{
+	"City": "Sloatsburg",
+	"State": "NY",
+	"latitude": 41.162,
+	"longitude": -74.1902
+},
+{
+	"City": "Greenwood Lake",
+	"State": "NY",
+	"latitude": 41.2215,
+	"longitude": -74.2891
+},
+{
+	"City": "Moriches",
+	"State": "NY",
+	"latitude": 40.807,
+	"longitude": -72.8235
+},
+{
+	"City": "Brightwaters",
+	"State": "NY",
+	"latitude": 40.7193,
+	"longitude": -73.2642
+},
+{
+	"City": "Vails Gate",
+	"State": "NY",
+	"latitude": 41.4587,
+	"longitude": -74.0533
+},
+{
+	"City": "Lido Beach",
+	"State": "NY",
+	"latitude": 40.5904,
+	"longitude": -73.6121
+},
+{
+	"City": "Sherrill",
+	"State": "NY",
+	"latitude": 43.0704,
+	"longitude": -75.5992
+},
+{
+	"City": "Clarence Center",
+	"State": "NY",
+	"latitude": 43.0085,
+	"longitude": -78.6308
+},
+{
+	"City": "Akron",
+	"State": "NY",
+	"latitude": 43.0179,
+	"longitude": -78.4978
+},
+{
+	"City": "East Norwich",
+	"State": "NY",
+	"latitude": 40.8496,
+	"longitude": -73.5288
+},
+{
+	"City": "Munsons Corners",
+	"State": "NY",
+	"latitude": 42.5761,
+	"longitude": -76.2053
+},
+{
+	"City": "Keeseville",
+	"State": "NY",
+	"latitude": 44.5035,
+	"longitude": -73.4812
+},
+{
+	"City": "Weedsport",
+	"State": "NY",
+	"latitude": 43.0482,
+	"longitude": -76.5637
+},
+{
+	"City": "East Syracuse",
+	"State": "NY",
+	"latitude": 43.0637,
+	"longitude": -76.0697
+},
+{
+	"City": "Florida",
+	"State": "NY",
+	"latitude": 41.3312,
+	"longitude": -74.3533
+},
+{
+	"City": "Cornwall-on-Hudson",
+	"State": "NY",
+	"latitude": 41.4369,
+	"longitude": -74.0145
+},
+{
+	"City": "Sands Point",
+	"State": "NY",
+	"latitude": 40.8531,
+	"longitude": -73.7039
+},
+{
+	"City": "Roslyn",
+	"State": "NY",
+	"latitude": 40.799,
+	"longitude": -73.6491
+},
+{
+	"City": "Great Neck Estates",
+	"State": "NY",
+	"latitude": 40.7857,
+	"longitude": -73.7396
+},
+{
+	"City": "Shrub Oak",
+	"State": "NY",
+	"latitude": 41.3256,
+	"longitude": -73.8295
+},
+{
+	"City": "Chenango Bridge",
+	"State": "NY",
+	"latitude": 42.1716,
+	"longitude": -75.8586
+},
+{
+	"City": "Crown Heights",
+	"State": "NY",
+	"latitude": 41.6416,
+	"longitude": -73.9287
+},
+{
+	"City": "Northeast Ithaca",
+	"State": "NY",
+	"latitude": 42.4703,
+	"longitude": -76.4623
+},
+{
+	"City": "Lakewood",
+	"State": "NY",
+	"latitude": 42.0991,
+	"longitude": -79.32
+},
+{
+	"City": "Voorheesville",
+	"State": "NY",
+	"latitude": 42.6518,
+	"longitude": -73.9349
+},
+{
+	"City": "Munsey Park",
+	"State": "NY",
+	"latitude": 40.799,
+	"longitude": -73.6799
+},
+{
+	"City": "Halesite",
+	"State": "NY",
+	"latitude": 40.8864,
+	"longitude": -73.4139
+},
+{
+	"City": "West Sand Lake",
+	"State": "NY",
+	"latitude": 42.6403,
+	"longitude": -73.6032
+},
+{
+	"City": "North Boston",
+	"State": "NY",
+	"latitude": 42.6773,
+	"longitude": -78.7797
+},
+{
+	"City": "Walton Park",
+	"State": "NY",
+	"latitude": 41.3118,
+	"longitude": -74.2249
+},
+{
+	"City": "Blasdell",
+	"State": "NY",
+	"latitude": 42.7966,
+	"longitude": -78.8324
+},
+{
+	"City": "Westhampton",
+	"State": "NY",
+	"latitude": 40.8325,
+	"longitude": -72.6617
+},
+{
+	"City": "Green Island",
+	"State": "NY",
+	"latitude": 42.7474,
+	"longitude": -73.6925
+},
+{
+	"City": "Thomaston",
+	"State": "NY",
+	"latitude": 40.7875,
+	"longitude": -73.7152
+},
+{
+	"City": "Horseheads North",
+	"State": "NY",
+	"latitude": 42.1928,
+	"longitude": -76.8078
+},
+{
+	"City": "Lakeland",
+	"State": "NY",
+	"latitude": 43.0908,
+	"longitude": -76.2426
+},
+{
+	"City": "Yorkville",
+	"State": "NY",
+	"latitude": 43.1124,
+	"longitude": -75.2739
+},
+{
+	"City": "East Williston",
+	"State": "NY",
+	"latitude": 40.7608,
+	"longitude": -73.6336
+},
+{
+	"City": "Jamestown West",
+	"State": "NY",
+	"latitude": 42.0886,
+	"longitude": -79.2811
+},
+{
+	"City": "Piermont",
+	"State": "NY",
+	"latitude": 41.0423,
+	"longitude": -73.915
+},
+{
+	"City": "Lake Katrine",
+	"State": "NY",
+	"latitude": 41.9863,
+	"longitude": -73.9895
+},
+{
+	"City": "Harriman",
+	"State": "NY",
+	"latitude": 41.3088,
+	"longitude": -74.1444
+},
+{
+	"City": "Melrose Park",
+	"State": "NY",
+	"latitude": 42.9085,
+	"longitude": -76.5263
+},
+{
+	"City": "Barnum Island",
+	"State": "NY",
+	"latitude": 40.605,
+	"longitude": -73.6437
+},
+{
+	"City": "Glasco",
+	"State": "NY",
+	"latitude": 42.0461,
+	"longitude": -73.9487
+},
+{
+	"City": "Riverside",
+	"State": "NY",
+	"latitude": 40.9093,
+	"longitude": -72.6699
+},
+{
+	"City": "Crompond",
+	"State": "NY",
+	"latitude": 41.2908,
+	"longitude": -73.8357
+},
+{
+	"City": "Brewster",
+	"State": "NY",
+	"latitude": 41.3969,
+	"longitude": -73.6151
+},
+{
+	"City": "Shenorock",
+	"State": "NY",
+	"latitude": 41.3307,
+	"longitude": -73.7409
+},
+{
+	"City": "Nedrow",
+	"State": "NY",
+	"latitude": 42.9779,
+	"longitude": -76.1417
+},
+{
+	"City": "Lincoln Park",
+	"State": "NY",
+	"latitude": 41.9559,
+	"longitude": -74.0016
+},
+{
+	"City": "Greenport West",
+	"State": "NY",
+	"latitude": 41.1022,
+	"longitude": -72.3759
+},
+{
+	"City": "Sag Harbor",
+	"State": "NY",
+	"latitude": 40.997,
+	"longitude": -72.2892
+},
+{
+	"City": "Brinckerhoff",
+	"State": "NY",
+	"latitude": 41.5511,
+	"longitude": -73.8696
+},
+{
+	"City": "Oyster Bay Cove",
+	"State": "NY",
+	"latitude": 40.857,
+	"longitude": -73.5037
+},
+{
+	"City": "Falconer",
+	"State": "NY",
+	"latitude": 42.119,
+	"longitude": -79.1973
+},
+{
+	"City": "Phoenix",
+	"State": "NY",
+	"latitude": 43.2316,
+	"longitude": -76.2961
+},
+{
+	"City": "Buchanan",
+	"State": "NY",
+	"latitude": 41.2643,
+	"longitude": -73.9465
+},
+{
+	"City": "Pulaski",
+	"State": "NY",
+	"latitude": 43.5653,
+	"longitude": -76.1267
+},
+{
+	"City": "Liverpool",
+	"State": "NY",
+	"latitude": 43.1061,
+	"longitude": -76.2093
+},
+{
+	"City": "Shinnecock Hills",
+	"State": "NY",
+	"latitude": 40.8878,
+	"longitude": -72.4554
+},
+{
+	"City": "Brewster Hill",
+	"State": "NY",
+	"latitude": 41.4228,
+	"longitude": -73.6069
+},
+{
+	"City": "Old Brookville",
+	"State": "NY",
+	"latitude": 40.8332,
+	"longitude": -73.604
+},
+{
+	"City": "Upper Nyack",
+	"State": "NY",
+	"latitude": 41.1143,
+	"longitude": -73.9057
+},
+{
+	"City": "South Fallsburg",
+	"State": "NY",
+	"latitude": 41.7218,
+	"longitude": -74.635
+},
+{
+	"City": "Lorenz Park",
+	"State": "NY",
+	"latitude": 42.2669,
+	"longitude": -73.77
+},
+{
+	"City": "Rouses Point",
+	"State": "NY",
+	"latitude": 44.9933,
+	"longitude": -73.3633
+},
+{
+	"City": "Country Knolls",
+	"State": "NY",
+	"latitude": 42.9141,
+	"longitude": -73.8062
+},
+{
+	"City": "Watchtower",
+	"State": "NY",
+	"latitude": 41.6371,
+	"longitude": -74.2633
+},
+{
+	"City": "Conesus Lake",
+	"State": "NY",
+	"latitude": 42.7756,
+	"longitude": -77.7135
+},
+{
+	"City": "Angola",
+	"State": "NY",
+	"latitude": 42.6379,
+	"longitude": -79.0295
+},
+{
+	"City": "Dolgeville",
+	"State": "NY",
+	"latitude": 43.1031,
+	"longitude": -74.7749
+},
+{
+	"City": "Seneca Knolls",
+	"State": "NY",
+	"latitude": 43.12,
+	"longitude": -76.2874
+},
+{
+	"City": "Kerhonkson",
+	"State": "NY",
+	"latitude": 41.7797,
+	"longitude": -74.2956
+},
+{
+	"City": "Bellerose Terrace",
+	"State": "NY",
+	"latitude": 40.7221,
+	"longitude": -73.7252
+},
+{
+	"City": "Bellport",
+	"State": "NY",
+	"latitude": 40.7547,
+	"longitude": -72.9423
+},
+{
+	"City": "West End",
+	"State": "NY",
+	"latitude": 42.4667,
+	"longitude": -75.0969
+},
+{
+	"City": "Aquebogue",
+	"State": "NY",
+	"latitude": 40.9425,
+	"longitude": -72.6149
+},
+{
+	"City": "Laurel Hollow",
+	"State": "NY",
+	"latitude": 40.8541,
+	"longitude": -73.4755
+},
+{
+	"City": "Saugerties South",
+	"State": "NY",
+	"latitude": 42.0614,
+	"longitude": -73.9506
+},
+{
+	"City": "Clyde",
+	"State": "NY",
+	"latitude": 43.0839,
+	"longitude": -76.8707
+},
+{
+	"City": "Stewart Manor",
+	"State": "NY",
+	"latitude": 40.7203,
+	"longitude": -73.6853
+},
+{
+	"City": "West Carthage",
+	"State": "NY",
+	"latitude": 43.973,
+	"longitude": -75.6219
+},
+{
+	"City": "Painted Post",
+	"State": "NY",
+	"latitude": 42.1633,
+	"longitude": -77.0925
+},
+{
+	"City": "West Hurley",
+	"State": "NY",
+	"latitude": 42.0083,
+	"longitude": -74.1121
+},
+{
+	"City": "Eastport",
+	"State": "NY",
+	"latitude": 40.8407,
+	"longitude": -72.7251
+},
+{
+	"City": "Scottsville",
+	"State": "NY",
+	"latitude": 43.0221,
+	"longitude": -77.7555
+},
+{
+	"City": "Hampton Manor",
+	"State": "NY",
+	"latitude": 42.6214,
+	"longitude": -73.7279
+},
+{
+	"City": "St. Bonaventure",
+	"State": "NY",
+	"latitude": 42.0806,
+	"longitude": -78.475
+},
+{
+	"City": "Atlantic Beach",
+	"State": "NY",
+	"latitude": 40.5894,
+	"longitude": -73.7296
+},
+{
+	"City": "East Atlantic Beach",
+	"State": "NY",
+	"latitude": 40.5876,
+	"longitude": -73.7092
+},
+{
+	"City": "East Ithaca",
+	"State": "NY",
+	"latitude": 42.4263,
+	"longitude": -76.4627
+},
+{
+	"City": "Remsenburg-Speonk",
+	"State": "NY",
+	"latitude": 40.8169,
+	"longitude": -72.7046
+},
+{
+	"City": "Youngstown",
+	"State": "NY",
+	"latitude": 43.2486,
+	"longitude": -79.0444
+},
+{
+	"City": "Morrisville",
+	"State": "NY",
+	"latitude": 42.8987,
+	"longitude": -75.6448
+},
+{
+	"City": "Washington Heights",
+	"State": "NY",
+	"latitude": 41.4693,
+	"longitude": -74.4179
+},
+{
+	"City": "Beaver Dam Lake",
+	"State": "NY",
+	"latitude": 41.4441,
+	"longitude": -74.1178
+},
+{
+	"City": "Westhampton Beach",
+	"State": "NY",
+	"latitude": 40.808,
+	"longitude": -72.6457
+},
+{
+	"City": "Village of the Branch",
+	"State": "NY",
+	"latitude": 40.8524,
+	"longitude": -73.1844
+},
+{
+	"City": "Golden's Bridge",
+	"State": "NY",
+	"latitude": 41.2877,
+	"longitude": -73.6681
+},
+{
+	"City": "South Floral Park",
+	"State": "NY",
+	"latitude": 40.7136,
+	"longitude": -73.7005
+},
+{
+	"City": "Mountain Lodge Park",
+	"State": "NY",
+	"latitude": 41.3862,
+	"longitude": -74.1389
+},
+{
+	"City": "Lattingtown",
+	"State": "NY",
+	"latitude": 40.8922,
+	"longitude": -73.5966
+},
+{
+	"City": "Katonah",
+	"State": "NY",
+	"latitude": 41.2559,
+	"longitude": -73.6856
+},
+{
+	"City": "Cooperstown",
+	"State": "NY",
+	"latitude": 42.6996,
+	"longitude": -74.93
+},
+{
+	"City": "Central Square",
+	"State": "NY",
+	"latitude": 43.286,
+	"longitude": -76.1419
+},
+{
+	"City": "Upper Brookville",
+	"State": "NY",
+	"latitude": 40.8475,
+	"longitude": -73.5628
+},
+{
+	"City": "Middleport",
+	"State": "NY",
+	"latitude": 43.2117,
+	"longitude": -78.4757
+},
+{
+	"City": "Nissequogue",
+	"State": "NY",
+	"latitude": 40.9023,
+	"longitude": -73.1923
+},
+{
+	"City": "Pine Bush",
+	"State": "NY",
+	"latitude": 41.6094,
+	"longitude": -74.2966
+},
+{
+	"City": "Baiting Hollow",
+	"State": "NY",
+	"latitude": 40.9645,
+	"longitude": -72.7402
+},
+{
+	"City": "Merritt Park",
+	"State": "NY",
+	"latitude": 41.5385,
+	"longitude": -73.8724
+},
+{
+	"City": "Town Line",
+	"State": "NY",
+	"latitude": 42.8858,
+	"longitude": -78.561
+},
+{
+	"City": "Greenvale",
+	"State": "NY",
+	"latitude": 40.8118,
+	"longitude": -73.6262
+},
+{
+	"City": "Trumansburg",
+	"State": "NY",
+	"latitude": 42.541,
+	"longitude": -76.6618
+},
+{
+	"City": "Frewsburg",
+	"State": "NY",
+	"latitude": 42.0576,
+	"longitude": -79.1482
+},
+{
+	"City": "Clinton",
+	"State": "NY",
+	"latitude": 43.0488,
+	"longitude": -75.3785
+},
+{
+	"City": "Angola on the Lake",
+	"State": "NY",
+	"latitude": 42.655,
+	"longitude": -79.0523
+},
+{
+	"City": "Fort Montgomery",
+	"State": "NY",
+	"latitude": 41.3401,
+	"longitude": -73.9853
+},
+{
+	"City": "Holley",
+	"State": "NY",
+	"latitude": 43.2247,
+	"longitude": -78.0292
+},
+{
+	"City": "Altamont",
+	"State": "NY",
+	"latitude": 42.7055,
+	"longitude": -74.034
+},
+{
+	"City": "Tillson",
+	"State": "NY",
+	"latitude": 41.8316,
+	"longitude": -74.0696
+},
+{
+	"City": "Houghton",
+	"State": "NY",
+	"latitude": 42.4277,
+	"longitude": -78.1615
+},
+{
+	"City": "Water Mill",
+	"State": "NY",
+	"latitude": 40.9222,
+	"longitude": -72.3532
+},
+{
+	"City": "Dundee",
+	"State": "NY",
+	"latitude": 42.5236,
+	"longitude": -76.9775
+},
+{
+	"City": "Montour Falls",
+	"State": "NY",
+	"latitude": 42.3499,
+	"longitude": -76.8483
+},
+{
+	"City": "Peach Lake",
+	"State": "NY",
+	"latitude": 41.3682,
+	"longitude": -73.5778
+},
+{
+	"City": "Mayville",
+	"State": "NY",
+	"latitude": 42.2532,
+	"longitude": -79.5031
+},
+{
+	"City": "Sparkill",
+	"State": "NY",
+	"latitude": 41.0289,
+	"longitude": -73.9333
+},
+{
+	"City": "Clark Mills",
+	"State": "NY",
+	"latitude": 43.0895,
+	"longitude": -75.3757
+},
+{
+	"City": "Norwood",
+	"State": "NY",
+	"latitude": 44.7481,
+	"longitude": -74.997
+},
+{
+	"City": "Ransomville",
+	"State": "NY",
+	"latitude": 43.2389,
+	"longitude": -78.9114
+},
+{
+	"City": "Bay Park",
+	"State": "NY",
+	"latitude": 40.6302,
+	"longitude": -73.667
+},
+{
+	"City": "Fort Covington Hamlet",
+	"State": "NY",
+	"latitude": 44.9761,
+	"longitude": -74.5097
+},
+{
+	"City": "Crugers",
+	"State": "NY",
+	"latitude": 41.2279,
+	"longitude": -73.926
+},
+{
+	"City": "Port Dickinson",
+	"State": "NY",
+	"latitude": 42.1361,
+	"longitude": -75.8939
+},
+{
+	"City": "Waterville",
+	"State": "NY",
+	"latitude": 42.9306,
+	"longitude": -75.3802
+},
+{
+	"City": "Rock Hill",
+	"State": "NY",
+	"latitude": 41.6153,
+	"longitude": -74.5821
+},
+{
+	"City": "Plandome",
+	"State": "NY",
+	"latitude": 40.8069,
+	"longitude": -73.6996
+},
+{
+	"City": "Cumberland Head",
+	"State": "NY",
+	"latitude": 44.7165,
+	"longitude": -73.3966
+},
+{
+	"City": "Castleton-on-Hudson",
+	"State": "NY",
+	"latitude": 42.5332,
+	"longitude": -73.7493
+},
+{
+	"City": "Head of the Harbor",
+	"State": "NY",
+	"latitude": 40.8981,
+	"longitude": -73.1624
+},
+{
+	"City": "Mineville",
+	"State": "NY",
+	"latitude": 44.0933,
+	"longitude": -73.5246
+},
+{
+	"City": "Eatons Neck",
+	"State": "NY",
+	"latitude": 40.9328,
+	"longitude": -73.3951
+},
+{
+	"City": "Billington Heights",
+	"State": "NY",
+	"latitude": 42.7862,
+	"longitude": -78.6237
+},
+{
+	"City": "Northwest Ithaca",
+	"State": "NY",
+	"latitude": 42.4706,
+	"longitude": -76.5414
+},
+{
+	"City": "Huntington Bay",
+	"State": "NY",
+	"latitude": 40.9014,
+	"longitude": -73.4163
+},
+{
+	"City": "Chappaqua",
+	"State": "NY",
+	"latitude": 41.1601,
+	"longitude": -73.7672
+},
+{
+	"City": "Washington Mills",
+	"State": "NY",
+	"latitude": 43.0479,
+	"longitude": -75.2811
+},
+{
+	"City": "Clintondale",
+	"State": "NY",
+	"latitude": 41.6927,
+	"longitude": -74.0458
+},
+{
+	"City": "Millbrook",
+	"State": "NY",
+	"latitude": 41.7842,
+	"longitude": -73.6937
+},
+{
+	"City": "Great River",
+	"State": "NY",
+	"latitude": 40.7164,
+	"longitude": -73.1603
+},
+{
+	"City": "Shortsville",
+	"State": "NY",
+	"latitude": 42.9555,
+	"longitude": -77.2228
+},
+{
+	"City": "Sackets Harbor",
+	"State": "NY",
+	"latitude": 43.9418,
+	"longitude": -76.1182
+},
+{
+	"City": "Brocton",
+	"State": "NY",
+	"latitude": 42.39,
+	"longitude": -79.4429
+},
+{
+	"City": "Yorktown Heights",
+	"State": "NY",
+	"latitude": 41.2696,
+	"longitude": -73.7755
+},
+{
+	"City": "Gasport",
+	"State": "NY",
+	"latitude": 43.195,
+	"longitude": -78.5764
+},
+{
+	"City": "Adams Center",
+	"State": "NY",
+	"latitude": 43.8616,
+	"longitude": -76.0001
+},
+{
+	"City": "Northville",
+	"State": "NY",
+	"latitude": 40.9723,
+	"longitude": -72.618
+},
+{
+	"City": "Stottville",
+	"State": "NY",
+	"latitude": 42.2913,
+	"longitude": -73.7532
+},
+{
+	"City": "Shokan",
+	"State": "NY",
+	"latitude": 41.9809,
+	"longitude": -74.213
+},
+{
+	"City": "Lincolndale",
+	"State": "NY",
+	"latitude": 41.336,
+	"longitude": -73.7254
+},
+{
+	"City": "Bridgeport",
+	"State": "NY",
+	"latitude": 43.1545,
+	"longitude": -75.9734
+},
+{
+	"City": "Oriskany",
+	"State": "NY",
+	"latitude": 43.1569,
+	"longitude": -75.3336
+},
+{
+	"City": "Stone Ridge",
+	"State": "NY",
+	"latitude": 41.8414,
+	"longitude": -74.1539
+},
+{
+	"City": "Bridgehampton",
+	"State": "NY",
+	"latitude": 40.9427,
+	"longitude": -72.3101
+},
+{
+	"City": "Schuylerville",
+	"State": "NY",
+	"latitude": 43.1015,
+	"longitude": -73.5808
+},
+{
+	"City": "Bloomfield",
+	"State": "NY",
+	"latitude": 42.8991,
+	"longitude": -77.4241
+},
+{
+	"City": "Jordan",
+	"State": "NY",
+	"latitude": 43.0671,
+	"longitude": -76.4728
+},
+{
+	"City": "Plattsburgh West",
+	"State": "NY",
+	"latitude": 44.6837,
+	"longitude": -73.5037
+},
+{
+	"City": "Milton",
+	"State": "NY",
+	"latitude": 41.6587,
+	"longitude": -73.9664
+},
+{
+	"City": "Olcott",
+	"State": "NY",
+	"latitude": 43.3302,
+	"longitude": -78.7104
+},
+{
+	"City": "Walker Valley",
+	"State": "NY",
+	"latitude": 41.6386,
+	"longitude": -74.3775
+},
+{
+	"City": "Loch Sheldrake",
+	"State": "NY",
+	"latitude": 41.7733,
+	"longitude": -74.6558
+},
+{
+	"City": "Hewlett Harbor",
+	"State": "NY",
+	"latitude": 40.6327,
+	"longitude": -73.6842
+},
+{
+	"City": "Hagaman",
+	"State": "NY",
+	"latitude": 42.9728,
+	"longitude": -74.1545
+},
+{
+	"City": "Morrisonville",
+	"State": "NY",
+	"latitude": 44.6922,
+	"longitude": -73.5505
+},
+{
+	"City": "Philmont",
+	"State": "NY",
+	"latitude": 42.2477,
+	"longitude": -73.6463
+},
+{
+	"City": "Cortland West",
+	"State": "NY",
+	"latitude": 42.5942,
+	"longitude": -76.2258
+},
+{
+	"City": "Verplanck",
+	"State": "NY",
+	"latitude": 41.2558,
+	"longitude": -73.9585
+},
+{
+	"City": "Black River",
+	"State": "NY",
+	"latitude": 44.0089,
+	"longitude": -75.7966
+},
+{
+	"City": "Roslyn Estates",
+	"State": "NY",
+	"latitude": 40.7937,
+	"longitude": -73.6611
+},
+{
+	"City": "Averill Park",
+	"State": "NY",
+	"latitude": 42.6361,
+	"longitude": -73.5529
+},
+{
+	"City": "Niverville",
+	"State": "NY",
+	"latitude": 42.4484,
+	"longitude": -73.6497
+},
+{
+	"City": "Harbor Isle",
+	"State": "NY",
+	"latitude": 40.6019,
+	"longitude": -73.6647
+},
+{
+	"City": "Hillside Lake",
+	"State": "NY",
+	"latitude": 41.6191,
+	"longitude": -73.7944
+},
+{
+	"City": "Weston Mills",
+	"State": "NY",
+	"latitude": 42.0752,
+	"longitude": -78.3727
+},
+{
+	"City": "Kensington",
+	"State": "NY",
+	"latitude": 40.7931,
+	"longitude": -73.7221
+},
+{
+	"City": "Port Byron",
+	"State": "NY",
+	"latitude": 43.0366,
+	"longitude": -76.6263
+},
+{
+	"City": "Richfield Springs",
+	"State": "NY",
+	"latitude": 42.8537,
+	"longitude": -74.9862
+},
+{
+	"City": "Palenville",
+	"State": "NY",
+	"latitude": 42.1773,
+	"longitude": -74.0229
+},
+{
+	"City": "North Ballston Spa",
+	"State": "NY",
+	"latitude": 43.0197,
+	"longitude": -73.851
+},
+{
+	"City": "Bellerose",
+	"State": "NY",
+	"latitude": 40.7242,
+	"longitude": -73.7167
+},
+{
+	"City": "Great Neck Gardens",
+	"State": "NY",
+	"latitude": 40.7969,
+	"longitude": -73.7229
+},
+{
+	"City": "Union Springs",
+	"State": "NY",
+	"latitude": 42.8458,
+	"longitude": -76.691
+},
+{
+	"City": "Great Bend",
+	"State": "NY",
+	"latitude": 44.0197,
+	"longitude": -75.7075
+},
+{
+	"City": "Roslyn Harbor",
+	"State": "NY",
+	"latitude": 40.8157,
+	"longitude": -73.6378
+},
+{
+	"City": "Rosendale Hamlet",
+	"State": "NY",
+	"latitude": 41.8503,
+	"longitude": -74.0738
+},
+{
+	"City": "Dover Plains",
+	"State": "NY",
+	"latitude": 41.7395,
+	"longitude": -73.5734
+},
+{
+	"City": "Livingston Manor",
+	"State": "NY",
+	"latitude": 41.8935,
+	"longitude": -74.8265
+},
+{
+	"City": "Jefferson Heights",
+	"State": "NY",
+	"latitude": 42.2361,
+	"longitude": -73.8822
+},
+{
+	"City": "South Corning",
+	"State": "NY",
+	"latitude": 42.1262,
+	"longitude": -77.0356
+},
+{
+	"City": "Tivoli",
+	"State": "NY",
+	"latitude": 42.0587,
+	"longitude": -73.9119
+},
+{
+	"City": "Chadwicks",
+	"State": "NY",
+	"latitude": 43.0291,
+	"longitude": -75.271
+},
+{
+	"City": "Baxter Estates",
+	"State": "NY",
+	"latitude": 40.8338,
+	"longitude": -73.6949
+},
+{
+	"City": "Keuka Park",
+	"State": "NY",
+	"latitude": 42.6123,
+	"longitude": -77.0916
+},
+{
+	"City": "Apalachin",
+	"State": "NY",
+	"latitude": 42.0705,
+	"longitude": -76.1626
+},
+{
+	"City": "Alexandria Bay",
+	"State": "NY",
+	"latitude": 44.34,
+	"longitude": -75.9161
+},
+{
+	"City": "Celoron",
+	"State": "NY",
+	"latitude": 42.1053,
+	"longitude": -79.2777
+},
+{
+	"City": "Point Lookout",
+	"State": "NY",
+	"latitude": 40.5903,
+	"longitude": -73.5795
+},
+{
+	"City": "Delevan",
+	"State": "NY",
+	"latitude": 42.4913,
+	"longitude": -78.4796
+},
+{
+	"City": "Plandome Heights",
+	"State": "NY",
+	"latitude": 40.8021,
+	"longitude": -73.7049
+},
+{
+	"City": "Rapids",
+	"State": "NY",
+	"latitude": 43.0976,
+	"longitude": -78.644
+},
+{
+	"City": "Quogue",
+	"State": "NY",
+	"latitude": 40.8215,
+	"longitude": -72.5987
+},
+{
+	"City": "East Marion",
+	"State": "NY",
+	"latitude": 41.1291,
+	"longitude": -72.342
+},
+{
+	"City": "Dexter",
+	"State": "NY",
+	"latitude": 44.0111,
+	"longitude": -76.0425
+},
+{
+	"City": "Saddle Rock",
+	"State": "NY",
+	"latitude": 40.7947,
+	"longitude": -73.7494
+},
+{
+	"City": "Sanborn",
+	"State": "NY",
+	"latitude": 43.1451,
+	"longitude": -78.8777
+},
+{
+	"City": "Hillburn",
+	"State": "NY",
+	"latitude": 41.1264,
+	"longitude": -74.1705
+},
+{
+	"City": "McGraw",
+	"State": "NY",
+	"latitude": 42.5938,
+	"longitude": -76.0975
+},
+{
+	"City": "Jamesport",
+	"State": "NY",
+	"latitude": 40.9546,
+	"longitude": -72.5807
+},
+{
+	"City": "Laurel",
+	"State": "NY",
+	"latitude": 40.9728,
+	"longitude": -72.556
+},
+{
+	"City": "Mill Neck",
+	"State": "NY",
+	"latitude": 40.8839,
+	"longitude": -73.5582
+},
+{
+	"City": "Russell Gardens",
+	"State": "NY",
+	"latitude": 40.7809,
+	"longitude": -73.7254
+},
+{
+	"City": "Zena",
+	"State": "NY",
+	"latitude": 42.0209,
+	"longitude": -74.0855
+},
+{
+	"City": "Napanoch",
+	"State": "NY",
+	"latitude": 41.7514,
+	"longitude": -74.3729
+},
+{
+	"City": "Poquott",
+	"State": "NY",
+	"latitude": 40.9529,
+	"longitude": -73.0903
+},
+{
+	"City": "Millerton",
+	"State": "NY",
+	"latitude": 41.9533,
+	"longitude": -73.5112
+},
+{
+	"City": "Old Field",
+	"State": "NY",
+	"latitude": 40.9614,
+	"longitude": -73.1324
+},
+{
+	"City": "Cattaraugus",
+	"State": "NY",
+	"latitude": 42.33,
+	"longitude": -78.8671
+},
+{
+	"City": "Plandome Manor",
+	"State": "NY",
+	"latitude": 40.8146,
+	"longitude": -73.6979
+},
+{
+	"City": "Belmont",
+	"State": "NY",
+	"latitude": 42.2226,
+	"longitude": -78.0328
+},
+{
+	"City": "North Haven",
+	"State": "NY",
+	"latitude": 41.023,
+	"longitude": -72.314
+},
+{
+	"City": "Whitney Point",
+	"State": "NY",
+	"latitude": 42.3303,
+	"longitude": -75.9679
+},
+{
+	"City": "Durhamville",
+	"State": "NY",
+	"latitude": 43.1225,
+	"longitude": -75.665
+},
+{
+	"City": "Sodus Point",
+	"State": "NY",
+	"latitude": 43.2641,
+	"longitude": -76.9953
+},
+{
+	"City": "Hillside",
+	"State": "NY",
+	"latitude": 41.9177,
+	"longitude": -74.0336
+},
+{
+	"City": "West Winfield",
+	"State": "NY",
+	"latitude": 42.8838,
+	"longitude": -75.1914
+},
+{
+	"City": "La Fargeville",
+	"State": "NY",
+	"latitude": 44.196,
+	"longitude": -75.9627
+},
+{
+	"City": "Hailesboro",
+	"State": "NY",
+	"latitude": 44.3098,
+	"longitude": -75.4357
+},
+{
+	"City": "Orient",
+	"State": "NY",
+	"latitude": 41.1425,
+	"longitude": -72.277
+},
+{
+	"City": "Matinecock",
+	"State": "NY",
+	"latitude": 40.864,
+	"longitude": -73.5817
+},
+{
+	"City": "Lime Lake",
+	"State": "NY",
+	"latitude": 42.4327,
+	"longitude": -78.4808
+},
+{
+	"City": "Peconic",
+	"State": "NY",
+	"latitude": 41.0381,
+	"longitude": -72.4608
+},
+{
+	"City": "Earlville",
+	"State": "NY",
+	"latitude": 42.7401,
+	"longitude": -75.5436
+},
+{
+	"City": "Lakeville",
+	"State": "NY",
+	"latitude": 42.8367,
+	"longitude": -77.7032
+},
+{
+	"City": "Brasher Falls",
+	"State": "NY",
+	"latitude": 44.8096,
+	"longitude": -74.7789
+},
+{
+	"City": "Arkport",
+	"State": "NY",
+	"latitude": 42.3926,
+	"longitude": -77.6955
+},
+{
+	"City": "Belle Terre",
+	"State": "NY",
+	"latitude": 40.9607,
+	"longitude": -73.0672
+},
+{
+	"City": "Fultonville",
+	"State": "NY",
+	"latitude": 42.9463,
+	"longitude": -74.3704
+},
+{
+	"City": "Lyndonville",
+	"State": "NY",
+	"latitude": 43.3213,
+	"longitude": -78.3891
+},
+{
+	"City": "Woodsburgh",
+	"State": "NY",
+	"latitude": 40.6215,
+	"longitude": -73.7068
+},
+{
+	"City": "Savona",
+	"State": "NY",
+	"latitude": 42.283,
+	"longitude": -77.2238
+},
+{
+	"City": "Woodridge",
+	"State": "NY",
+	"latitude": 41.7122,
+	"longitude": -74.574
+},
+{
+	"City": "Breesport",
+	"State": "NY",
+	"latitude": 42.1816,
+	"longitude": -76.7358
+},
+{
+	"City": "Copenhagen",
+	"State": "NY",
+	"latitude": 43.8934,
+	"longitude": -75.6726
+},
+{
+	"City": "Round Lake",
+	"State": "NY",
+	"latitude": 42.9376,
+	"longitude": -73.7958
+},
+{
+	"City": "Schroon Lake",
+	"State": "NY",
+	"latitude": 43.8345,
+	"longitude": -73.7647
+},
+{
+	"City": "Quiogue",
+	"State": "NY",
+	"latitude": 40.8201,
+	"longitude": -72.628
+},
+{
+	"City": "Hannawa Falls",
+	"State": "NY",
+	"latitude": 44.6017,
+	"longitude": -74.9738
+},
+{
+	"City": "Fonda",
+	"State": "NY",
+	"latitude": 42.9536,
+	"longitude": -74.372
+},
+{
+	"City": "Palatine Bridge",
+	"State": "NY",
+	"latitude": 42.9143,
+	"longitude": -74.5756
+},
+{
+	"City": "Amagansett",
+	"State": "NY",
+	"latitude": 40.9844,
+	"longitude": -72.1326
+},
+{
+	"City": "North Hornell",
+	"State": "NY",
+	"latitude": 42.3454,
+	"longitude": -77.6605
+},
+{
+	"City": "Crystal Beach",
+	"State": "NY",
+	"latitude": 42.8095,
+	"longitude": -77.2582
+},
+{
+	"City": "Silver Springs",
+	"State": "NY",
+	"latitude": 42.6605,
+	"longitude": -78.0855
+},
+{
+	"City": "Shelter Island Heights",
+	"State": "NY",
+	"latitude": 41.0745,
+	"longitude": -72.3434
+},
+{
+	"City": "Heuvelton",
+	"State": "NY",
+	"latitude": 44.617,
+	"longitude": -75.4046
+},
+{
+	"City": "Fair Haven",
+	"State": "NY",
+	"latitude": 43.3263,
+	"longitude": -76.7044
+},
+{
+	"City": "Cleveland",
+	"State": "NY",
+	"latitude": 43.2398,
+	"longitude": -75.8847
+},
+{
+	"City": "Forestville",
+	"State": "NY",
+	"latitude": 42.4691,
+	"longitude": -79.1754
+},
+{
+	"City": "Corfu",
+	"State": "NY",
+	"latitude": 42.9611,
+	"longitude": -78.4026
+},
+{
+	"City": "North Creek",
+	"State": "NY",
+	"latitude": 43.6923,
+	"longitude": -73.9835
+},
+{
+	"City": "Oriskany Falls",
+	"State": "NY",
+	"latitude": 42.938,
+	"longitude": -75.4636
+},
+{
+	"City": "Copake Lake",
+	"State": "NY",
+	"latitude": 42.1416,
+	"longitude": -73.5903
+},
+{
+	"City": "Sand Ridge",
+	"State": "NY",
+	"latitude": 43.2559,
+	"longitude": -76.2317
+},
+{
+	"City": "Taconic Shores",
+	"State": "NY",
+	"latitude": 42.1192,
+	"longitude": -73.5532
+},
+{
+	"City": "Pine Valley",
+	"State": "NY",
+	"latitude": 42.2273,
+	"longitude": -76.8469
+},
+{
+	"City": "Rushville",
+	"State": "NY",
+	"latitude": 42.7607,
+	"longitude": -77.2274
+},
+{
+	"City": "Strykersville",
+	"State": "NY",
+	"latitude": 42.708,
+	"longitude": -78.4483
+},
+{
+	"City": "Schenevus",
+	"State": "NY",
+	"latitude": 42.5497,
+	"longitude": -74.827
+},
+{
+	"City": "Port Leyden",
+	"State": "NY",
+	"latitude": 43.5838,
+	"longitude": -75.3413
+},
+{
+	"City": "Asharoken",
+	"State": "NY",
+	"latitude": 40.938,
+	"longitude": -73.3815
+},
+{
+	"City": "East Avon",
+	"State": "NY",
+	"latitude": 42.9128,
+	"longitude": -77.7072
+},
+{
+	"City": "Nelsonville",
+	"State": "NY",
+	"latitude": 41.4291,
+	"longitude": -73.9466
+},
+{
+	"City": "Pultneyville",
+	"State": "NY",
+	"latitude": 43.2735,
+	"longitude": -77.1825
+},
+{
+	"City": "Oneida Castle",
+	"State": "NY",
+	"latitude": 43.0814,
+	"longitude": -75.6331
+},
+{
+	"City": "Hammondsport",
+	"State": "NY",
+	"latitude": 42.4082,
+	"longitude": -77.2236
+},
+{
+	"City": "Paul Smiths",
+	"State": "NY",
+	"latitude": 44.4341,
+	"longitude": -74.2533
+},
+{
+	"City": "East Randolph",
+	"State": "NY",
+	"latitude": 42.1692,
+	"longitude": -78.9521
+},
+{
+	"City": "Smallwood",
+	"State": "NY",
+	"latitude": 41.6595,
+	"longitude": -74.8202
+},
+{
+	"City": "Redwood",
+	"State": "NY",
+	"latitude": 44.3011,
+	"longitude": -75.8063
+},
+{
+	"City": "Wampsville",
+	"State": "NY",
+	"latitude": 43.0772,
+	"longitude": -75.7097
+},
+{
+	"City": "Harrisville",
+	"State": "NY",
+	"latitude": 44.1532,
+	"longitude": -75.3211
+},
+{
+	"City": "Forest Home",
+	"State": "NY",
+	"latitude": 42.453,
+	"longitude": -76.4702
+},
+{
+	"City": "Star Lake",
+	"State": "NY",
+	"latitude": 44.1613,
+	"longitude": -75.0363
+},
+{
+	"City": "Tuxedo Park",
+	"State": "NY",
+	"latitude": 41.2008,
+	"longitude": -74.206
+},
+{
+	"City": "Interlaken",
+	"State": "NY",
+	"latitude": 42.6189,
+	"longitude": -76.7251
+},
+{
+	"City": "Unionville",
+	"State": "NY",
+	"latitude": 41.3013,
+	"longitude": -74.5619
+},
+{
+	"City": "Scotts Corners",
+	"State": "NY",
+	"latitude": 41.1889,
+	"longitude": -73.5561
+},
+{
+	"City": "Cassadaga",
+	"State": "NY",
+	"latitude": 42.3427,
+	"longitude": -79.318
+},
+{
+	"City": "Sunset Bay",
+	"State": "NY",
+	"latitude": 42.5607,
+	"longitude": -79.1308
+},
+{
+	"City": "Tribes Hill",
+	"State": "NY",
+	"latitude": 42.9479,
+	"longitude": -74.2988
+},
+{
+	"City": "South Dayton",
+	"State": "NY",
+	"latitude": 42.3628,
+	"longitude": -79.051
+},
+{
+	"City": "Bolton Landing",
+	"State": "NY",
+	"latitude": 43.5614,
+	"longitude": -73.6588
+},
+{
+	"City": "Chaumont",
+	"State": "NY",
+	"latitude": 44.0675,
+	"longitude": -76.1301
+},
+{
+	"City": "Stannards",
+	"State": "NY",
+	"latitude": 42.0741,
+	"longitude": -77.9123
+},
+{
+	"City": "Nelliston",
+	"State": "NY",
+	"latitude": 42.9318,
+	"longitude": -74.6099
+},
+{
+	"City": "East Nassau",
+	"State": "NY",
+	"latitude": 42.533,
+	"longitude": -73.5085
+},
+{
+	"City": "Honeoye",
+	"State": "NY",
+	"latitude": 42.7901,
+	"longitude": -77.5149
+},
+{
+	"City": "West Valley",
+	"State": "NY",
+	"latitude": 42.4036,
+	"longitude": -78.6115
+},
+{
+	"City": "Accord",
+	"State": "NY",
+	"latitude": 41.7972,
+	"longitude": -74.2319
+},
+{
+	"City": "Evans Mills",
+	"State": "NY",
+	"latitude": 44.087,
+	"longitude": -75.8078
+},
+{
+	"City": "Odessa",
+	"State": "NY",
+	"latitude": 42.335,
+	"longitude": -76.7881
+},
+{
+	"City": "Claverack-Red Mills",
+	"State": "NY",
+	"latitude": 42.2263,
+	"longitude": -73.7269
+},
+{
+	"City": "Lyons Falls",
+	"State": "NY",
+	"latitude": 43.6171,
+	"longitude": -75.3619
+},
+{
+	"City": "Hemlock",
+	"State": "NY",
+	"latitude": 42.7937,
+	"longitude": -77.6073
+},
+{
+	"City": "Sinclairville",
+	"State": "NY",
+	"latitude": 42.2653,
+	"longitude": -79.2591
+},
+{
+	"City": "Lacona",
+	"State": "NY",
+	"latitude": 43.6434,
+	"longitude": -76.0666
+},
+{
+	"City": "Margaretville",
+	"State": "NY",
+	"latitude": 42.1458,
+	"longitude": -74.6503
+},
+{
+	"City": "Wellsburg",
+	"State": "NY",
+	"latitude": 42.0127,
+	"longitude": -76.7298
+},
+{
+	"City": "Titusville",
+	"State": "NY",
+	"latitude": 41.6663,
+	"longitude": -73.8633
+},
+{
+	"City": "Saddle Rock Estates",
+	"State": "NY",
+	"latitude": 40.7939,
+	"longitude": -73.7414
+},
+{
+	"City": "Shoreham",
+	"State": "NY",
+	"latitude": 40.9571,
+	"longitude": -72.9072
+},
+{
+	"City": "High Falls",
+	"State": "NY",
+	"latitude": 41.8275,
+	"longitude": -74.1184
+},
+{
+	"City": "Sharon Springs",
+	"State": "NY",
+	"latitude": 42.793,
+	"longitude": -74.6129
+},
+{
+	"City": "Downsville",
+	"State": "NY",
+	"latitude": 42.0818,
+	"longitude": -74.998
+},
+{
+	"City": "Roscoe",
+	"State": "NY",
+	"latitude": 41.9403,
+	"longitude": -74.9132
+},
+{
+	"City": "Cayuga",
+	"State": "NY",
+	"latitude": 42.9191,
+	"longitude": -76.7265
+},
+{
+	"City": "Fillmore",
+	"State": "NY",
+	"latitude": 42.4669,
+	"longitude": -78.1107
+},
+{
+	"City": "Tannersville",
+	"State": "NY",
+	"latitude": 42.1937,
+	"longitude": -74.1353
+},
+{
+	"City": "Caroga Lake",
+	"State": "NY",
+	"latitude": 43.1353,
+	"longitude": -74.481
+},
+{
+	"City": "Hopewell Junction",
+	"State": "NY",
+	"latitude": 41.5787,
+	"longitude": -73.8078
+},
+{
+	"City": "Canaseraga",
+	"State": "NY",
+	"latitude": 42.4618,
+	"longitude": -77.7773
+},
+{
+	"City": "Red Creek",
+	"State": "NY",
+	"latitude": 43.2488,
+	"longitude": -76.7225
+},
+{
+	"City": "Freeville",
+	"State": "NY",
+	"latitude": 42.5114,
+	"longitude": -76.3457
+},
+{
+	"City": "Middleville",
+	"State": "NY",
+	"latitude": 43.1384,
+	"longitude": -74.9707
+},
+{
+	"City": "Old Forge",
+	"State": "NY",
+	"latitude": 43.706,
+	"longitude": -74.9722
+},
+{
+	"City": "Bliss",
+	"State": "NY",
+	"latitude": 42.5801,
+	"longitude": -78.2538
+},
+{
+	"City": "Coopers Plains",
+	"State": "NY",
+	"latitude": 42.1794,
+	"longitude": -77.1376
+},
+{
+	"City": "Hewlett Neck",
+	"State": "NY",
+	"latitude": 40.6247,
+	"longitude": -73.6981
+},
+{
+	"City": "Glen Park",
+	"State": "NY",
+	"latitude": 44.0016,
+	"longitude": -75.9548
+},
+{
+	"City": "East Kingston",
+	"State": "NY",
+	"latitude": 41.9523,
+	"longitude": -73.9704
+},
+{
+	"City": "North Rose",
+	"State": "NY",
+	"latitude": 43.1872,
+	"longitude": -76.8864
+},
+{
+	"City": "North Lynbrook",
+	"State": "NY",
+	"latitude": 40.6686,
+	"longitude": -73.6736
+},
+{
+	"City": "Fort Johnson",
+	"State": "NY",
+	"latitude": 42.9591,
+	"longitude": -74.2381
+},
+{
+	"City": "Munnsville",
+	"State": "NY",
+	"latitude": 42.9765,
+	"longitude": -75.5865
+},
+{
+	"City": "Valley Falls",
+	"State": "NY",
+	"latitude": 42.9006,
+	"longitude": -73.5627
+},
+{
+	"City": "Newfield Hamlet",
+	"State": "NY",
+	"latitude": 42.3582,
+	"longitude": -76.5923
+},
+{
+	"City": "Holland Patent",
+	"State": "NY",
+	"latitude": 43.2413,
+	"longitude": -75.2566
+},
+{
+	"City": "Panama",
+	"State": "NY",
+	"latitude": 42.0747,
+	"longitude": -79.485
+},
+{
+	"City": "York Hamlet",
+	"State": "NY",
+	"latitude": 42.8696,
+	"longitude": -77.8872
+},
+{
+	"City": "Brushton",
+	"State": "NY",
+	"latitude": 44.8308,
+	"longitude": -74.5117
+},
+{
+	"City": "Chestertown",
+	"State": "NY",
+	"latitude": 43.6461,
+	"longitude": -73.7945
+},
+{
+	"City": "Rhinecliff",
+	"State": "NY",
+	"latitude": 41.9223,
+	"longitude": -73.9441
+},
+{
+	"City": "Springwater Hamlet",
+	"State": "NY",
+	"latitude": 42.635,
+	"longitude": -77.5964
+},
+{
+	"City": "Hewlett Bay Park",
+	"State": "NY",
+	"latitude": 40.6346,
+	"longitude": -73.6953
+},
+{
+	"City": "Prospect",
+	"State": "NY",
+	"latitude": 43.3026,
+	"longitude": -75.1514
+},
+{
+	"City": "Au Sable Forks",
+	"State": "NY",
+	"latitude": 44.4507,
+	"longitude": -73.6738
+},
+{
+	"City": "Richburg",
+	"State": "NY",
+	"latitude": 42.0887,
+	"longitude": -78.1565
+},
+{
+	"City": "Port Gibson",
+	"State": "NY",
+	"latitude": 43.0334,
+	"longitude": -77.1576
+},
+{
+	"City": "Wyoming",
+	"State": "NY",
+	"latitude": 42.824,
+	"longitude": -78.0842
+},
+{
+	"City": "Bloomingburg",
+	"State": "NY",
+	"latitude": 41.5519,
+	"longitude": -74.4437
+},
+{
+	"City": "Centre Island",
+	"State": "NY",
+	"latitude": 40.9018,
+	"longitude": -73.5211
+},
+{
+	"City": "Altmar",
+	"State": "NY",
+	"latitude": 43.511,
+	"longitude": -76.0037
+},
+{
+	"City": "Harbor Hills",
+	"State": "NY",
+	"latitude": 40.7881,
+	"longitude": -73.7492
+},
+{
+	"City": "St. Regis Falls",
+	"State": "NY",
+	"latitude": 44.6764,
+	"longitude": -74.5309
+},
+{
+	"City": "West Chazy",
+	"State": "NY",
+	"latitude": 44.8178,
+	"longitude": -73.5118
+},
+{
+	"City": "Hobart",
+	"State": "NY",
+	"latitude": 42.3715,
+	"longitude": -74.6691
+},
+{
+	"City": "Delanson",
+	"State": "NY",
+	"latitude": 42.7474,
+	"longitude": -74.1841
+},
+{
+	"City": "Kennedy",
+	"State": "NY",
+	"latitude": 42.159,
+	"longitude": -79.0982
+},
+{
+	"City": "Smithville Flats",
+	"State": "NY",
+	"latitude": 42.3943,
+	"longitude": -75.8105
+},
+{
+	"City": "Gilbertsville",
+	"State": "NY",
+	"latitude": 42.4694,
+	"longitude": -75.3226
+},
+{
+	"City": "Farnham",
+	"State": "NY",
+	"latitude": 42.5951,
+	"longitude": -79.0809
+},
+{
+	"City": "Gilgo",
+	"State": "NY",
+	"latitude": 40.6377,
+	"longitude": -73.3788
+},
+{
+	"City": "Redford",
+	"State": "NY",
+	"latitude": 44.6063,
+	"longitude": -73.8113
+},
+{
+	"City": "Dalton",
+	"State": "NY",
+	"latitude": 42.5422,
+	"longitude": -77.952
+},
+{
+	"City": "Central Bridge",
+	"State": "NY",
+	"latitude": 42.7068,
+	"longitude": -74.3473
+},
+{
+	"City": "Mariaville Lake",
+	"State": "NY",
+	"latitude": 42.8252,
+	"longitude": -74.1286
+},
+{
+	"City": "Limestone",
+	"State": "NY",
+	"latitude": 42.0228,
+	"longitude": -78.6325
+},
+{
+	"City": "Conesus Hamlet",
+	"State": "NY",
+	"latitude": 42.7262,
+	"longitude": -77.6696
+},
+{
+	"City": "Wainscott",
+	"State": "NY",
+	"latitude": 40.9592,
+	"longitude": -72.2508
+},
+{
+	"City": "Bemus Point",
+	"State": "NY",
+	"latitude": 42.1635,
+	"longitude": -79.3895
+},
+{
+	"City": "Castorland",
+	"State": "NY",
+	"latitude": 43.886,
+	"longitude": -75.5166
+},
+{
+	"City": "Greigsville",
+	"State": "NY",
+	"latitude": 42.8307,
+	"longitude": -77.9015
+},
+{
+	"City": "Clayville",
+	"State": "NY",
+	"latitude": 42.9754,
+	"longitude": -75.2488
+},
+{
+	"City": "Franklin",
+	"State": "NY",
+	"latitude": 42.3416,
+	"longitude": -75.1659
+},
+{
+	"City": "Jeffersonville",
+	"State": "NY",
+	"latitude": 41.7799,
+	"longitude": -74.9298
+},
+{
+	"City": "Mannsville",
+	"State": "NY",
+	"latitude": 43.7158,
+	"longitude": -76.0649
+},
+{
+	"City": "Felts Mills",
+	"State": "NY",
+	"latitude": 44.0201,
+	"longitude": -75.7595
+},
+{
+	"City": "Sagaponack",
+	"State": "NY",
+	"latitude": 40.9302,
+	"longitude": -72.2726
+},
+{
+	"City": "Leeds",
+	"State": "NY",
+	"latitude": 42.2529,
+	"longitude": -73.894
+},
+{
+	"City": "Glen Aubrey",
+	"State": "NY",
+	"latitude": 42.2623,
+	"longitude": -76.0002
+},
+{
+	"City": "Staatsburg",
+	"State": "NY",
+	"latitude": 41.8553,
+	"longitude": -73.9256
+},
+{
+	"City": "Burdett",
+	"State": "NY",
+	"latitude": 42.4169,
+	"longitude": -76.8441
+},
+{
+	"City": "Fleischmanns",
+	"State": "NY",
+	"latitude": 42.1552,
+	"longitude": -74.5335
+},
+{
+	"City": "Rensselaer Falls",
+	"State": "NY",
+	"latitude": 44.5909,
+	"longitude": -75.319
+},
+{
+	"City": "Cold Brook",
+	"State": "NY",
+	"latitude": 43.2399,
+	"longitude": -75.0389
+},
+{
+	"City": "Freedom Plains",
+	"State": "NY",
+	"latitude": 41.6695,
+	"longitude": -73.7974
+},
+{
+	"City": "Richville",
+	"State": "NY",
+	"latitude": 44.4151,
+	"longitude": -75.3924
+},
+{
+	"City": "Cove Neck",
+	"State": "NY",
+	"latitude": 40.8841,
+	"longitude": -73.5003
+},
+{
+	"City": "Salisbury Mills",
+	"State": "NY",
+	"latitude": 41.4308,
+	"longitude": -74.1098
+},
+{
+	"City": "Speculator",
+	"State": "NY",
+	"latitude": 43.5943,
+	"longitude": -74.3822
+},
+{
+	"City": "Grand View-on-Hudson",
+	"State": "NY",
+	"latitude": 41.0627,
+	"longitude": -73.9208
+},
+{
+	"City": "Preston-Potter Hollow",
+	"State": "NY",
+	"latitude": 42.433,
+	"longitude": -74.2287
+},
+{
+	"City": "Fire Island",
+	"State": "NY",
+	"latitude": 40.6782,
+	"longitude": -73.0708
+},
+{
+	"City": "Copake Falls",
+	"State": "NY",
+	"latitude": 42.1202,
+	"longitude": -73.5247
+},
+{
+	"City": "Natural Bridge",
+	"State": "NY",
+	"latitude": 44.0718,
+	"longitude": -75.4999
+},
+{
+	"City": "Meridian",
+	"State": "NY",
+	"latitude": 43.163,
+	"longitude": -76.5382
+},
+{
+	"City": "Belleville",
+	"State": "NY",
+	"latitude": 43.7844,
+	"longitude": -76.1168
+},
+{
+	"City": "Millport",
+	"State": "NY",
+	"latitude": 42.2681,
+	"longitude": -76.8363
+},
+{
+	"City": "Piffard",
+	"State": "NY",
+	"latitude": 42.8319,
+	"longitude": -77.8584
+},
+{
+	"City": "Deferiet",
+	"State": "NY",
+	"latitude": 44.0343,
+	"longitude": -75.6792
+},
+{
+	"City": "Cuylerville",
+	"State": "NY",
+	"latitude": 42.7777,
+	"longitude": -77.8737
+},
+{
+	"City": "Malverne Park Oaks",
+	"State": "NY",
+	"latitude": 40.6816,
+	"longitude": -73.6643
+},
+{
+	"City": "Depauville",
+	"State": "NY",
+	"latitude": 44.1425,
+	"longitude": -76.0451
+},
+{
+	"City": "Pamelia Center",
+	"State": "NY",
+	"latitude": 44.0409,
+	"longitude": -75.9017
+},
+{
+	"City": "Narrowsburg",
+	"State": "NY",
+	"latitude": 41.6006,
+	"longitude": -75.0579
+},
+{
+	"City": "Groveland Station",
+	"State": "NY",
+	"latitude": 42.6634,
+	"longitude": -77.7666
+},
+{
+	"City": "Wadsworth",
+	"State": "NY",
+	"latitude": 42.8214,
+	"longitude": -77.8939
+},
+{
+	"City": "Cragsmoor",
+	"State": "NY",
+	"latitude": 41.6664,
+	"longitude": -74.3905
+},
+{
+	"City": "Copake Hamlet",
+	"State": "NY",
+	"latitude": 42.1041,
+	"longitude": -73.5494
+},
+{
+	"City": "Witherbee",
+	"State": "NY",
+	"latitude": 44.0837,
+	"longitude": -73.5371
+},
+{
+	"City": "Davenport Center",
+	"State": "NY",
+	"latitude": 42.4459,
+	"longitude": -74.9088
+},
+{
+	"City": "New Suffolk",
+	"State": "NY",
+	"latitude": 40.9961,
+	"longitude": -72.4767
+},
+{
+	"City": "Lyon Mountain",
+	"State": "NY",
+	"latitude": 44.7249,
+	"longitude": -73.8823
+},
+{
+	"City": "Pottersville",
+	"State": "NY",
+	"latitude": 43.7363,
+	"longitude": -73.8212
+},
+{
+	"City": "Livonia Center",
+	"State": "NY",
+	"latitude": 42.821,
+	"longitude": -77.642
+},
+{
+	"City": "Constableville",
+	"State": "NY",
+	"latitude": 43.5649,
+	"longitude": -75.428
+},
+{
+	"City": "Parc",
+	"State": "NY",
+	"latitude": 44.6639,
+	"longitude": -73.453
+},
+{
+	"City": "Duane Lake",
+	"State": "NY",
+	"latitude": 42.7526,
+	"longitude": -74.1089
+},
+{
+	"City": "Three Mile Bay",
+	"State": "NY",
+	"latitude": 44.0829,
+	"longitude": -76.1983
+},
+{
+	"City": "Rifton",
+	"State": "NY",
+	"latitude": 41.8288,
+	"longitude": -74.0381
+},
+{
+	"City": "Malden-on-Hudson",
+	"State": "NY",
+	"latitude": 42.0933,
+	"longitude": -73.9365
+},
+{
+	"City": "Phoenicia",
+	"State": "NY",
+	"latitude": 42.0789,
+	"longitude": -74.3088
+},
+{
+	"City": "Pine Hill",
+	"State": "NY",
+	"latitude": 42.1308,
+	"longitude": -74.4668
+},
+{
+	"City": "Pierrepont Manor",
+	"State": "NY",
+	"latitude": 43.7374,
+	"longitude": -76.0595
+},
+{
+	"City": "South Lima",
+	"State": "NY",
+	"latitude": 42.8575,
+	"longitude": -77.6761
+},
+{
+	"City": "Napeague",
+	"State": "NY",
+	"latitude": 40.995,
+	"longitude": -72.0707
+},
+{
+	"City": "Salt Point",
+	"State": "NY",
+	"latitude": 41.806,
+	"longitude": -73.7901
+},
+{
+	"City": "Blodgett Mills",
+	"State": "NY",
+	"latitude": 42.5665,
+	"longitude": -76.1329
+},
+{
+	"City": "Plessis",
+	"State": "NY",
+	"latitude": 44.2735,
+	"longitude": -75.8575
+},
+{
+	"City": "Hortonville",
+	"State": "NY",
+	"latitude": 41.7661,
+	"longitude": -75.0221
+},
+{
+	"City": "Bloomville",
+	"State": "NY",
+	"latitude": 42.3338,
+	"longitude": -74.818
+},
+{
+	"City": "Cranberry Lake",
+	"State": "NY",
+	"latitude": 44.2063,
+	"longitude": -74.8426
+},
+{
+	"City": "Winthrop",
+	"State": "NY",
+	"latitude": 44.8006,
+	"longitude": -74.8016
+},
+{
+	"City": "Hall",
+	"State": "NY",
+	"latitude": 42.7965,
+	"longitude": -77.0679
+},
+{
+	"City": "Ames",
+	"State": "NY",
+	"latitude": 42.8373,
+	"longitude": -74.6016
+},
+{
+	"City": "Fowlerville",
+	"State": "NY",
+	"latitude": 42.894,
+	"longitude": -77.8481
+},
+{
+	"City": "Hunt",
+	"State": "NY",
+	"latitude": 42.5477,
+	"longitude": -77.991
+},
+{
+	"City": "Cumminsville",
+	"State": "NY",
+	"latitude": 42.5706,
+	"longitude": -77.7189
+},
+{
+	"City": "Fishers Island",
+	"State": "NY",
+	"latitude": 41.2702,
+	"longitude": -71.9878
+},
+{
+	"City": "Retsof",
+	"State": "NY",
+	"latitude": 42.8325,
+	"longitude": -77.8757
+},
+{
+	"City": "Oxbow",
+	"State": "NY",
+	"latitude": 44.287,
+	"longitude": -75.6227
+},
+{
+	"City": "Scottsburg",
+	"State": "NY",
+	"latitude": 42.6639,
+	"longitude": -77.7124
+},
+{
+	"City": "Woodsville",
+	"State": "NY",
+	"latitude": 42.579,
+	"longitude": -77.7338
+},
+{
+	"City": "Herrings",
+	"State": "NY",
+	"latitude": 44.0223,
+	"longitude": -75.6529
+},
+{
+	"City": "Ocean Beach",
+	"State": "NY",
+	"latitude": 40.6463,
+	"longitude": -73.1565
+},
+{
+	"City": "Linwood",
+	"State": "NY",
+	"latitude": 42.8967,
+	"longitude": -77.9476
+},
+{
+	"City": "West Hampton Dunes",
+	"State": "NY",
+	"latitude": 40.7776,
+	"longitude": -72.7137
+},
+{
+	"City": "Kysorville",
+	"State": "NY",
+	"latitude": 42.6528,
+	"longitude": -77.7948
+},
+{
+	"City": "Fishers Landing",
+	"State": "NY",
+	"latitude": 44.2743,
+	"longitude": -76.0069
+},
+{
+	"City": "Websters Crossing",
+	"State": "NY",
+	"latitude": 42.6661,
+	"longitude": -77.6373
+},
+{
+	"City": "Byersville",
+	"State": "NY",
+	"latitude": 42.5839,
+	"longitude": -77.7914
+},
+{
+	"City": "Saltaire",
+	"State": "NY",
+	"latitude": 40.6388,
+	"longitude": -73.1949
+},
+{
+	"City": "Thendara",
+	"State": "NY",
+	"latitude": 43.701,
+	"longitude": -74.9971
+},
+{
+	"City": "Thousand Island Park",
+	"State": "NY",
+	"latitude": 44.2888,
+	"longitude": -76.026
+},
+{
+	"City": "Dering Harbor",
+	"State": "NY",
+	"latitude": 41.0931,
+	"longitude": -72.3417
+}]

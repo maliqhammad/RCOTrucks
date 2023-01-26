@@ -1,0 +1,229 @@
+[
+{
+	"City": "Nashua",
+	"State": "NH",
+	"latitude": 42.7491,
+	"longitude": -71.491
+},
+{
+	"City": "Manchester",
+	"State": "NH",
+	"latitude": 42.9848,
+	"longitude": -71.4447
+},
+{
+	"City": "Dover",
+	"State": "NH",
+	"latitude": 43.1887,
+	"longitude": -70.8845
+},
+{
+	"City": "Portsmouth",
+	"State": "NH",
+	"latitude": 43.058,
+	"longitude": -70.7826
+},
+{
+	"City": "Concord",
+	"State": "NH",
+	"latitude": 43.2305,
+	"longitude": -71.5595
+},
+{
+	"City": "Rochester",
+	"State": "NH",
+	"latitude": 43.299,
+	"longitude": -70.9787
+},
+{
+	"City": "Lebanon",
+	"State": "NH",
+	"latitude": 43.6353,
+	"longitude": -72.2531
+},
+{
+	"City": "Keene",
+	"State": "NH",
+	"latitude": 42.9494,
+	"longitude": -72.2997
+},
+{
+	"City": "Laconia",
+	"State": "NH",
+	"latitude": 43.5724,
+	"longitude": -71.4775
+},
+{
+	"City": "Claremont",
+	"State": "NH",
+	"latitude": 43.379,
+	"longitude": -72.3368
+},
+{
+	"City": "Somersworth",
+	"State": "NH",
+	"latitude": 43.2534,
+	"longitude": -70.8856
+},
+{
+	"City": "Berlin",
+	"State": "NH",
+	"latitude": 44.4869,
+	"longitude": -71.2599
+},
+{
+	"City": "Franklin",
+	"State": "NH",
+	"latitude": 43.4499,
+	"longitude": -71.6691
+},
+{
+	"City": "South Hooksett",
+	"State": "NH",
+	"latitude": 43.0337,
+	"longitude": -71.4256
+},
+{
+	"City": "Pinardville",
+	"State": "NH",
+	"latitude": 43.001,
+	"longitude": -71.5171
+},
+{
+	"City": "Suncook",
+	"State": "NH",
+	"latitude": 43.1382,
+	"longitude": -71.4529
+},
+{
+	"City": "East Merrimack",
+	"State": "NH",
+	"latitude": 42.867,
+	"longitude": -71.484
+},
+{
+	"City": "Tilton Northfield",
+	"State": "NH",
+	"latitude": 43.443,
+	"longitude": -71.5937
+},
+{
+	"City": "Hampton Beach",
+	"State": "NH",
+	"latitude": 42.9142,
+	"longitude": -70.8128
+},
+{
+	"City": "North Conway",
+	"State": "NH",
+	"latitude": 44.0524,
+	"longitude": -71.1247
+},
+{
+	"City": "Contoocook",
+	"State": "NH",
+	"latitude": 43.2232,
+	"longitude": -71.7129
+},
+{
+	"City": "Groveton",
+	"State": "NH",
+	"latitude": 44.6048,
+	"longitude": -71.5201
+},
+{
+	"City": "Seabrook Beach",
+	"State": "NH",
+	"latitude": 42.8852,
+	"longitude": -70.8235
+},
+{
+	"City": "North Haverhill",
+	"State": "NH",
+	"latitude": 44.0938,
+	"longitude": -72.0272
+},
+{
+	"City": "West Swanzey",
+	"State": "NH",
+	"latitude": 42.8707,
+	"longitude": -72.3225
+},
+{
+	"City": "Woodsville",
+	"State": "NH",
+	"latitude": 44.1452,
+	"longitude": -72.0288
+},
+{
+	"City": "North Walpole",
+	"State": "NH",
+	"latitude": 43.1469,
+	"longitude": -72.4459
+},
+{
+	"City": "Mountain Lakes",
+	"State": "NH",
+	"latitude": 44.1205,
+	"longitude": -71.9579
+},
+{
+	"City": "Sanbornville",
+	"State": "NH",
+	"latitude": 43.5524,
+	"longitude": -71.03
+},
+{
+	"City": "Center Ossipee",
+	"State": "NH",
+	"latitude": 43.7543,
+	"longitude": -71.1514
+},
+{
+	"City": "North Woodstock",
+	"State": "NH",
+	"latitude": 44.0364,
+	"longitude": -71.6895
+},
+{
+	"City": "West Stewartstown",
+	"State": "NH",
+	"latitude": 44.9906,
+	"longitude": -71.5309
+},
+{
+	"City": "Suissevale",
+	"State": "NH",
+	"latitude": 43.7233,
+	"longitude": -71.3623
+},
+{
+	"City": "Milton Mills",
+	"State": "NH",
+	"latitude": 43.5037,
+	"longitude": -70.9654
+},
+{
+	"City": "Union",
+	"State": "NH",
+	"latitude": 43.4912,
+	"longitude": -71.0231
+},
+{
+	"City": "Center Sandwich",
+	"State": "NH",
+	"latitude": 43.8085,
+	"longitude": -71.4395
+},
+{
+	"City": "Melvin Village",
+	"State": "NH",
+	"latitude": 43.6894,
+	"longitude": -71.3033
+},
+{
+	"City": "Blodgett Landing",
+	"State": "NH",
+	"latitude": 43.3757,
+	"longitude": -72.0392
+}]

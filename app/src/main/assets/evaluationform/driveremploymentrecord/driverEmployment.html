@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>RCO | Forms - Driver Employment</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+        integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
+        integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <link rel="stylesheet" href="file:///android_asset/www/evaluationform/driveremploymentrecord/main-employment-record.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/4.17.47/css/bootstrap-datetimepicker.min.css">
+    <link rel="stylesheet" href="file:///android_asset/www/evaluationform/driveremploymentrecord/employment-record.css">
+</head>
+
+<body style="background-color:gold; margin: 0px !important;">
+    <div class="container-fluid">
+        <!-- <div class="row" style="border-bottom:1px solid white;">
+            <div class="col-sm-12">
+                <div class="row">
+                    <div class="col-sm-3">
+                        <a href="../../products/index.jsp" class="btn btn-primary"><i class="fas fa-home"></i> Home</a>
+                        <a href="../index.html" class="btn btn-primary"><i class="fas fa-backward"></i> Back</a>
+                    </div>
+                    <div class="col-sm-6 text-center">
+                        <h2  style="margin:0px !important">Forms</h2>
+                    </div>
+                    <div class="col-sm-3">
+                        <button class="btn btn-primary" id="save_button"><i class="fas fa-save"></i> Save</button>
+                        <a href="../../products/LogoutServlet.jsp" class="btn btn-primary pull-right">
+                            <i class="fas fa-power-off"></i> Logout
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+        <div class="row">
+            <div class="col-sm-12">
+                <form id="form">
+                    <div id="searchResultSide" style="display: none;">
+                        <div class="side-close">x</div>
+                        <div class="side-match"></div>
+                        <div class="side-body"></div>
+                    </div>
+                    <page size="Letter" style="padding: 80px;">
+                        <div class="row">
+                            <div class="col-xs-12 text-center mb-5">
+                                <h5 class="m-1"><b>EMPLOYMENT RECORD</b></h5>
+                                <p>(Attach sheet if additional space is needed)</p>
+                                <p>
+                                    NOTE: include the employment history for at least a 3 year period preceding<br>
+                                    this application that includes the current employer 
+                                </p>
+                                <p><b>Must list the complete mailing address: street number and name, city, state and zip code</b></p>
+                                
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-12 text-left mb-10">
+                                <span class="m-1"><b>LAST EMPLOYER: NAME</b></span>
+                                <input id="lastEmployerName" name='lastEmployerName' style="width:450px; border-bottom: 2px solid black;">
+                            </div>
+                            <div class="col-xs-12 text-left mb-10">
+                                <span class="m-1">ADDRESS </span>
+                                <input id="lastEmployerAddress" name='lastEmployerAddress' style="width:60px; border-bottom: 1px solid black;">
+                                <input id="lastEmployerCity" name='lastEmployerCity' style="width:60px; border-bottom: 1px solid black;">
+                                <input id="lastEmployerState" name='lastEmployerState' style="width:60px; border-bottom: 1px solid black;">
+                                <input id="lastEmployerZipcode" name='lastEmployerZipcode' style="width:60px; border-bottom: 1px solid black;">
+                                <span class="m-1">TELEPHONE NUMBER </span>
+                                <input id="lastEmployerTelephoneNumber" name='lastEmployerTelephoneNumber' style="width:150px; border-bottom: 1px solid black;">
+                            </div>
+                            <div class="col-xs-12 text-left mb-10">
+                                <span class="m-1">POSITION HELD </span>
+                                <input id="positionHeld1" name='positionHeld1' style="width:350px; border-bottom: 1px solid black;">
+                            </div>
+                            <div class="col-xs-12 text-left mb-10">
+                                <span class="m-1">FROM</span>
+                                <input id="lastEmployerFromDate" name='lastEmployerFromDate' style="width:150px; border-bottom: 1px solid black;">
+                                <span class="m-1"><span style="width:50px; display: inline-block;"></span>TO </span>
+                                <input id="lastEmployerToDate" name='lastEmployerToDate' style="width:150px; border-bottom: 1px solid black;">
+                            </div>
+                            <div class="col-xs-12 text-left mb-10">
+                                <span class="m-1">REASONS FOR LEAVING</span>
+                                <input id="lastEmployerReasonsforleaving" name='lastEmployerReasonsforleaving' style="width:455px; border-bottom: 1px solid black;">
+                            </div>
+
+
+
+                            <div class="col-xs-12 text-left mb-10">
+                                <span class="m-1"><b>SECOND EMPLOYER: NAME</b></span>
+                                <input id="secondLastEmployerName" name='secondLastEmployerName' style="width:450px; border-bottom: 2px solid black;">
+                            </div>
+                            <div class="col-xs-12 text-left mb-10">
+                                <span class="m-1">ADDRESS </span>
+                                <input id="secondLastEmployerAddress" name='secondLastEmployerAddress' style="width:60px; border-bottom: 1px solid black;">
+                                <input id="secondLastEmployerCity" name='secondLastEmployerCity' style="width:60px; border-bottom: 1px solid black;">
+                                <input id="secondLastEmployerState" name='secondLastEmployerState' style="width:60px; border-bottom: 1px solid black;">
+                                <input id="secondLastEmployerZipcode" name='secondLastEmployerZipcode' style="width:60px; border-bottom: 1px solid black;">
+                                <span class="m-1">TELEPHONE NUMBER </span>
+                                <input id="secondLastEmployerTelephoneNumber" name='secondLastEmployerTelephoneNumber' style="width:150px; border-bottom: 1px solid black;">
+                            </div>
+                            <div class="col-xs-12 text-left mb-10">
+                                <span class="m-1">POSITION HELD </span>
+                                <input id="positionHeld2" name='positionHeld2' style="width:350px; border-bottom: 1px solid black;">
+                            </div>
+                            <div class="col-xs-12 text-left mb-10">
+                                <span class="m-1">FROM</span>
+                                <input id="secondLastEmployerFromDate" name='secondLastEmployerFromDate' style="width:150px; border-bottom: 1px solid black;">
+                                <span class="m-1"><span style="width:50px; display: inline-block;"></span>TO </span>
+                                <input id="secondLastEmployerToDate" name='secondLastEmployerToDate' style="width:150px; border-bottom: 1px solid black;">
+                            </div>
+                            <div class="col-xs-12 text-left mb-10">
+                                <span class="m-1">REASONS FOR LEAVING</span>
+                                <input id="secondLastEmployerReasonsforleaving" name='secondLastEmployerReasonsforleaving' style="width:455px; border-bottom: 1px solid black;">
+                            </div>
+
+                            
+
+                            <div class="col-xs-12 text-left mb-10">
+                                <span class="m-1"><b>THIRD EMPLOYER: NAME</b></span>
+                                <input id="thirdLastEmployerName" name='thirdLastEmployerName' style="width:450px; border-bottom: 2px solid black;">
+                            </div>
+                            <div class="col-xs-12 text-left mb-10">
+                                <span class="m-1">ADDRESS </span>
+                                <input id="thirdLastEmployerAddress" name='thirdLastEmployerAddress' style="width:60px; border-bottom: 1px solid black;">
+                                <input id="thirdLastEmployerCity" name='thirdLastEmployerCity' style="width:60px; border-bottom: 1px solid black;">
+                                <input id="thirdLastEmployerState" name='thirdLastEmployerState' style="width:60px; border-bottom: 1px solid black;">
+                                <input id="thirdLastEmployerZipcode" name='thirdLastEmployerZipcode' style="width:60px; border-bottom: 1px solid black;">
+                                <span class="m-1">TELEPHONE NUMBER </span>
+                                <input id="thirdLastEmployerTelephoneNumber" name='thirdLastEmployerTelephoneNumber' style="width:150px; border-bottom: 1px solid black;">
+                            </div>
+                            <div class="col-xs-12 text-left mb-10">
+                                <span class="m-1">POSITION HELD </span>
+                                <input id="positionHeld3" name='positionHeld3' style="width:350px; border-bottom: 1px solid black;">
+                            </div>
+                            <div class="col-xs-12 text-left mb-10">
+                                <span class="m-1">FROM</span>
+                                <input id="thirdLastEmployerFromDate" name='thirdLastEmployerFromDate' style="width:150px; border-bottom: 1px solid black;">
+                                <span class="m-1"><span style="width:50px; display: inline-block;"></span>TO </span>
+                                <input id="thirdLastEmployerToDate" name='thirdLastEmployerToDate' style="width:150px; border-bottom: 1px solid black;">
+                            </div>
+                            <div class="col-xs-12 text-left mb-10">
+                                <span class="m-1">REASONS FOR LEAVING</span>
+                                <input id="thirdLastEmployerReasonsforleaving" name='thirdLastEmployerReasonsforleaving' style="width:455px; border-bottom: 1px solid black;">
+                            </div>
+                            
+                            
+                            <div class="col-xs-12 text-left mb-10">
+                                <h4>**************************************************************************************</h4>
+                                <p style="width: 615px;">This certifies that this application was completed by me, and that all entries on it and
+                                    information in it are complete to the best of my knowledge.</p>
+                            </div>
+                            <br><br><br>
+
+                            <div class="col-xs-12 text-left m-0">
+                                <input id="dateTime" name='dateTime' style="width:180px; border-bottom: 2px solid black;">
+                                <span style="width:50px; display: inline-block;"></span>
+                                <img id="signature_of_driver" height = "20" style="display: block;margin-left: auto;margin-right: auto;"/>
+                                <!--<input id="applicantSignature" name='' style="width:300px; border-bottom: 2px solid black;"> -->
+                            </div>
+                            <div class="col-xs-12 text-left"></div>
+                                <span class="m-1"><b>Date</b></h5></span>
+                                <span style="width:300px; display: inline-block;"></span>
+                                <span class="m-1"><b>Applicant's Signature</b></h5>
+                                </span>
+                            </div>
+
+                    </page>
+                </form>
+                
+            </div>
+        </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" 
+        integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/4.17.47/js/bootstrap-datetimepicker.min.js"></script>
+    <script src="../../components/app.js"></script>
+    <script src="../../components/apiHelper.js"></script>
+    <script src="../../components/helper.js"></script>
+    <script src="../../components/promisifyHelper.js"></script>
+    <script src="../../components/spinner.min.js"></script>
+    <script src="../scripts/singles/driverEmployment.js"></script>
+</body>
+
+</html>

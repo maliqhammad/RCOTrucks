@@ -1,0 +1,85 @@
+
+---------- DVIRFORM.HTML
+        <page size="Letter" id="page">
+            <input type="hidden" id="operation" value="I">
+            <input type="hidden" id="objectId" value="">
+            <input type="hidden" id="objectType" value="">
+            <input type="hidden" id="d_objectId" value="">
+            <input type="hidden" id="d_objectType" value="">
+            <input type="hidden" id="mobileRecordId" value="">
+            <input type="hidden" id="functionalGroupName" value="">
+            <input type="hidden" id="d_f_name" value="">
+            <input type="hidden" id="d_l_name" value="">
+            <input type="hidden" id="location" value="">
+            <input type="hidden" id="d_id" value="">
+            <input type="hidden" id="license_number" value="">
+                <input type="text" id="carrier" class="input-text m-r-40 w-85p">
+                <input type="text" id="address" class="input-text m-r-40 w-85p">
+                <input type="text" id="date" class="input-text m-r-40 float-0">
+                <input type="text" id="time" class="input-text m-r-40 float-0">
+                <span id="timeFormat"></span>
+                <input type="text" id="truckTractorNumber" class="input-text m-r-40 float-0">
+                <input type="text" id="odometer" class="input-text m-r-40 float-0">
+                        <input type="checkbox" id="airCompressor">
+                        <input type="checkbox" id="airLines">
+                        <input type="checkbox" id="battery">
+                        <input type="checkbox" id="brakeAccessories">
+                        <input type="checkbox" id="brakes">
+                        <input type="checkbox" id="carburetor">
+                        <input type="checkbox" id="clutch">
+                        <input type="checkbox" id="defroster">
+                        <input type="checkbox" id="driveLine">
+                        <input type="checkbox" id="fifthWheel">
+                        <input type="checkbox" id="registration">
+                        <input type="checkbox" id="insurance">
+                        <input type="checkbox" id="frontAxle">
+                        <input type="checkbox" id="fuelTanks">
+                        <input type="checkbox" id="horn">
+                        <input type="checkbox" id="heater">
+                        <input type="checkbox" id="lights">
+                        <input type="checkbox" id="mirrors">
+                        <input type="checkbox" id="oilPressure">
+                        <input type="checkbox" id="onBoardRecorder">
+                        <input type="checkbox" id="radiator">
+                        <input type="checkbox" id="rearEnd">
+                        <input type="checkbox" id="reflectors">
+                        <input type="checkbox" id="safetyEquipment">
+                        <input type="checkbox" id="springs">
+                        <input type="checkbox" id="starter">
+                        <input type="checkbox" id="steering">
+                        <input type="checkbox" id="tachograph">
+                        <input type="checkbox" id="tires">
+                        <input type="checkbox" id="transmission">
+                        <input type="checkbox" id="wheels">
+                        <input type="checkbox" id="windows">
+                        <input type="checkbox" id="windShieldWipers">
+                        <input type="checkbox" id="others">
+                    <input type="text" id="trailer1Numbers" class="input-text m-r-40 float-0">
+                    <input type="text" id="trailer1ReeferHOS" class="input-text m-r-40 float-0">
+                        <input type="checkbox" id="trailer1BreakeConnections">
+                        <input type="checkbox" id="trailer1Breakes">
+                        <input type="checkbox" id="trailer1CouplingPin">
+                        <input type="checkbox" id="trailer1CouplingChains">
+                        <input type="checkbox" id="trailer1Doors">
+                        <input type="checkbox" id="trailer1Hitch">
+                        <input type="checkbox" id="trailer1LandingGear">
+                        <input type="checkbox" id="trailer1LightsAll">
+                        <input type="checkbox" id="trailer1Roof">
+                        <input type="checkbox" id="trailer1Springs">
+                        <input type="checkbox" id="trailer1Tarpaulin">
+                        <input type="checkbox" id="trailer1Tires">
+                        <input type="checkbox" id="trailer1Wheels">
+                        <input type="checkbox" id="trailer1Other">
+            <textarea id="remarks"></textarea>
+                <input type="checkbox" id="conditionVehicleIsSatisfactory">
+                <input type="text" id="driversSignatureVehicleSatisfactory" class="input-text m-r-40 w-83p">
+                <input type="checkbox" id="aboveDefectsCorrected">
+                <input type="checkbox" id="aboveDefectsNoCorrectionNeeded">
+            <div class="m-t-10" id="signature_of_mechanic_DIV">
+                <img id="signature_of_mechanic" height = "20"/>
+                    <input type="text" id="mechanicsSignatureDate" style="width: 120px" class="input-text m-r-40 float-0">
+                <div class="m-signature-block"><img src="" id="mechanicsSignature" class="signature"></div>
+                <span id=mechanic_name></span>
+            <div class="m-t-10" id="signature_of_driver_DIV">
+                <img id="signature_of_driver" height = "20"/>
+                    <input type="text" id="driversSignatureNoCorrectionNeededDate" style="width: 120px" class="input-text m-r-40 float-0">

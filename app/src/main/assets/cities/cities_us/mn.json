@@ -1,0 +1,5377 @@
+[
+{
+	"City": "Minneapolis",
+	"State": "MN",
+	"latitude": 44.9635,
+	"longitude": -93.2678
+},
+{
+	"City": "St. Paul",
+	"State": "MN",
+	"latitude": 44.9477,
+	"longitude": -93.104
+},
+{
+	"City": "Rochester",
+	"State": "MN",
+	"latitude": 44.0151,
+	"longitude": -92.4778
+},
+{
+	"City": "Duluth",
+	"State": "MN",
+	"latitude": 46.7756,
+	"longitude": -92.1392
+},
+{
+	"City": "St. Cloud",
+	"State": "MN",
+	"latitude": 45.5339,
+	"longitude": -94.1718
+},
+{
+	"City": "Bloomington",
+	"State": "MN",
+	"latitude": 44.8306,
+	"longitude": -93.3151
+},
+{
+	"City": "Brooklyn Park",
+	"State": "MN",
+	"latitude": 45.1112,
+	"longitude": -93.3505
+},
+{
+	"City": "Plymouth",
+	"State": "MN",
+	"latitude": 45.0225,
+	"longitude": -93.4618
+},
+{
+	"City": "Woodbury",
+	"State": "MN",
+	"latitude": 44.9056,
+	"longitude": -92.923
+},
+{
+	"City": "Maple Grove",
+	"State": "MN",
+	"latitude": 45.1089,
+	"longitude": -93.4626
+},
+{
+	"City": "Lakeville",
+	"State": "MN",
+	"latitude": 44.6774,
+	"longitude": -93.252
+},
+{
+	"City": "Eagan",
+	"State": "MN",
+	"latitude": 44.8169,
+	"longitude": -93.1638
+},
+{
+	"City": "Blaine",
+	"State": "MN",
+	"latitude": 45.1696,
+	"longitude": -93.2077
+},
+{
+	"City": "Eden Prairie",
+	"State": "MN",
+	"latitude": 44.8488,
+	"longitude": -93.4595
+},
+{
+	"City": "Coon Rapids",
+	"State": "MN",
+	"latitude": 45.1755,
+	"longitude": -93.3095
+},
+{
+	"City": "Mankato",
+	"State": "MN",
+	"latitude": 44.1712,
+	"longitude": -93.9773
+},
+{
+	"City": "Burnsville",
+	"State": "MN",
+	"latitude": 44.7648,
+	"longitude": -93.2795
+},
+{
+	"City": "Apple Valley",
+	"State": "MN",
+	"latitude": 44.7457,
+	"longitude": -93.2006
+},
+{
+	"City": "Minnetonka",
+	"State": "MN",
+	"latitude": 44.9322,
+	"longitude": -93.4598
+},
+{
+	"City": "Edina",
+	"State": "MN",
+	"latitude": 44.8914,
+	"longitude": -93.3602
+},
+{
+	"City": "St. Louis Park",
+	"State": "MN",
+	"latitude": 44.9488,
+	"longitude": -93.3649
+},
+{
+	"City": "Moorhead",
+	"State": "MN",
+	"latitude": 46.8673,
+	"longitude": -96.7461
+},
+{
+	"City": "Shakopee",
+	"State": "MN",
+	"latitude": 44.7744,
+	"longitude": -93.4764
+},
+{
+	"City": "Maplewood",
+	"State": "MN",
+	"latitude": 44.9842,
+	"longitude": -93.0247
+},
+{
+	"City": "Cottage Grove",
+	"State": "MN",
+	"latitude": 44.8161,
+	"longitude": -92.9274
+},
+{
+	"City": "Roseville",
+	"State": "MN",
+	"latitude": 45.0155,
+	"longitude": -93.1545
+},
+{
+	"City": "Richfield",
+	"State": "MN",
+	"latitude": 44.8762,
+	"longitude": -93.2833
+},
+{
+	"City": "Inver Grove Heights",
+	"State": "MN",
+	"latitude": 44.8247,
+	"longitude": -93.0596
+},
+{
+	"City": "Andover",
+	"State": "MN",
+	"latitude": 45.2571,
+	"longitude": -93.3265
+},
+{
+	"City": "Savage",
+	"State": "MN",
+	"latitude": 44.7544,
+	"longitude": -93.3631
+},
+{
+	"City": "Brooklyn Center",
+	"State": "MN",
+	"latitude": 45.0681,
+	"longitude": -93.3162
+},
+{
+	"City": "Winona",
+	"State": "MN",
+	"latitude": 44.0505,
+	"longitude": -91.6684
+},
+{
+	"City": "Oakdale",
+	"State": "MN",
+	"latitude": 44.9876,
+	"longitude": -92.9641
+},
+{
+	"City": "Fridley",
+	"State": "MN",
+	"latitude": 45.0841,
+	"longitude": -93.2595
+},
+{
+	"City": "Ramsey",
+	"State": "MN",
+	"latitude": 45.2617,
+	"longitude": -93.4494
+},
+{
+	"City": "Monticello",
+	"State": "MN",
+	"latitude": 45.298,
+	"longitude": -93.7984
+},
+{
+	"City": "Prior Lake",
+	"State": "MN",
+	"latitude": 44.7251,
+	"longitude": -93.4409
+},
+{
+	"City": "Shoreview",
+	"State": "MN",
+	"latitude": 45.0842,
+	"longitude": -93.1358
+},
+{
+	"City": "Chaska",
+	"State": "MN",
+	"latitude": 44.8164,
+	"longitude": -93.6092
+},
+{
+	"City": "Chanhassen",
+	"State": "MN",
+	"latitude": 44.8544,
+	"longitude": -93.5621
+},
+{
+	"City": "White Bear Lake",
+	"State": "MN",
+	"latitude": 45.0657,
+	"longitude": -93.015
+},
+{
+	"City": "Owatonna",
+	"State": "MN",
+	"latitude": 44.0914,
+	"longitude": -93.2304
+},
+{
+	"City": "Austin",
+	"State": "MN",
+	"latitude": 43.6718,
+	"longitude": -92.9783
+},
+{
+	"City": "Champlin",
+	"State": "MN",
+	"latitude": 45.1702,
+	"longitude": -93.3903
+},
+{
+	"City": "Elk River",
+	"State": "MN",
+	"latitude": 45.3314,
+	"longitude": -93.567
+},
+{
+	"City": "Rosemount",
+	"State": "MN",
+	"latitude": 44.7465,
+	"longitude": -93.0662
+},
+{
+	"City": "Forest Lake",
+	"State": "MN",
+	"latitude": 45.2536,
+	"longitude": -92.9583
+},
+{
+	"City": "Faribault",
+	"State": "MN",
+	"latitude": 44.2985,
+	"longitude": -93.2786
+},
+{
+	"City": "Farmington",
+	"State": "MN",
+	"latitude": 44.6573,
+	"longitude": -93.1688
+},
+{
+	"City": "Hastings",
+	"State": "MN",
+	"latitude": 44.7318,
+	"longitude": -92.8538
+},
+{
+	"City": "Crystal",
+	"State": "MN",
+	"latitude": 45.0377,
+	"longitude": -93.3599
+},
+{
+	"City": "New Brighton",
+	"State": "MN",
+	"latitude": 45.0658,
+	"longitude": -93.206
+},
+{
+	"City": "Northfield",
+	"State": "MN",
+	"latitude": 44.455,
+	"longitude": -93.1698
+},
+{
+	"City": "Lino Lakes",
+	"State": "MN",
+	"latitude": 45.1679,
+	"longitude": -93.083
+},
+{
+	"City": "Golden Valley",
+	"State": "MN",
+	"latitude": 44.9901,
+	"longitude": -93.3591
+},
+{
+	"City": "Alexandria",
+	"State": "MN",
+	"latitude": 45.8777,
+	"longitude": -95.3766
+},
+{
+	"City": "New Hope",
+	"State": "MN",
+	"latitude": 45.0374,
+	"longitude": -93.3869
+},
+{
+	"City": "Willmar",
+	"State": "MN",
+	"latitude": 45.122,
+	"longitude": -95.0569
+},
+{
+	"City": "Columbia Heights",
+	"State": "MN",
+	"latitude": 45.0484,
+	"longitude": -93.2472
+},
+{
+	"City": "South St. Paul",
+	"State": "MN",
+	"latitude": 44.8876,
+	"longitude": -93.0411
+},
+{
+	"City": "West St. Paul",
+	"State": "MN",
+	"latitude": 44.9018,
+	"longitude": -93.0858
+},
+{
+	"City": "Stillwater",
+	"State": "MN",
+	"latitude": 45.0573,
+	"longitude": -92.8313
+},
+{
+	"City": "Brainerd",
+	"State": "MN",
+	"latitude": 46.3553,
+	"longitude": -94.1982
+},
+{
+	"City": "Sartell",
+	"State": "MN",
+	"latitude": 45.6187,
+	"longitude": -94.2207
+},
+{
+	"City": "Hopkins",
+	"State": "MN",
+	"latitude": 44.9261,
+	"longitude": -93.4056
+},
+{
+	"City": "St. Michael",
+	"State": "MN",
+	"latitude": 45.2014,
+	"longitude": -93.692
+},
+{
+	"City": "Otsego",
+	"State": "MN",
+	"latitude": 45.266,
+	"longitude": -93.62
+},
+{
+	"City": "Albert Lea",
+	"State": "MN",
+	"latitude": 43.6547,
+	"longitude": -93.3642
+},
+{
+	"City": "Anoka",
+	"State": "MN",
+	"latitude": 45.2099,
+	"longitude": -93.3893
+},
+{
+	"City": "Buffalo",
+	"State": "MN",
+	"latitude": 45.1796,
+	"longitude": -93.8644
+},
+{
+	"City": "Bemidji",
+	"State": "MN",
+	"latitude": 47.4828,
+	"longitude": -94.8796
+},
+{
+	"City": "Ham Lake",
+	"State": "MN",
+	"latitude": 45.2545,
+	"longitude": -93.2039
+},
+{
+	"City": "Red Wing",
+	"State": "MN",
+	"latitude": 44.5816,
+	"longitude": -92.6036
+},
+{
+	"City": "Cambridge",
+	"State": "MN",
+	"latitude": 45.5612,
+	"longitude": -93.2283
+},
+{
+	"City": "Hibbing",
+	"State": "MN",
+	"latitude": 47.3981,
+	"longitude": -92.9487
+},
+{
+	"City": "Hugo",
+	"State": "MN",
+	"latitude": 45.1671,
+	"longitude": -92.9588
+},
+{
+	"City": "Robbinsdale",
+	"State": "MN",
+	"latitude": 45.0261,
+	"longitude": -93.3332
+},
+{
+	"City": "Sauk Rapids",
+	"State": "MN",
+	"latitude": 45.5981,
+	"longitude": -94.1539
+},
+{
+	"City": "Hutchinson",
+	"State": "MN",
+	"latitude": 44.8856,
+	"longitude": -94.3768
+},
+{
+	"City": "North Mankato",
+	"State": "MN",
+	"latitude": 44.1813,
+	"longitude": -94.0387
+},
+{
+	"City": "Fergus Falls",
+	"State": "MN",
+	"latitude": 46.2853,
+	"longitude": -96.076
+},
+{
+	"City": "Vadnais Heights",
+	"State": "MN",
+	"latitude": 45.057,
+	"longitude": -93.0748
+},
+{
+	"City": "Rogers",
+	"State": "MN",
+	"latitude": 45.1865,
+	"longitude": -93.5783
+},
+{
+	"City": "Marshall",
+	"State": "MN",
+	"latitude": 44.4488,
+	"longitude": -95.7897
+},
+{
+	"City": "Mounds View",
+	"State": "MN",
+	"latitude": 45.1071,
+	"longitude": -93.2076
+},
+{
+	"City": "New Ulm",
+	"State": "MN",
+	"latitude": 44.3121,
+	"longitude": -94.4686
+},
+{
+	"City": "Worthington",
+	"State": "MN",
+	"latitude": 43.6281,
+	"longitude": -95.599
+},
+{
+	"City": "Cloquet",
+	"State": "MN",
+	"latitude": 46.7221,
+	"longitude": -92.4923
+},
+{
+	"City": "North St. Paul",
+	"State": "MN",
+	"latitude": 45.0137,
+	"longitude": -92.9995
+},
+{
+	"City": "Waconia",
+	"State": "MN",
+	"latitude": 44.8412,
+	"longitude": -93.7927
+},
+{
+	"City": "St. Peter",
+	"State": "MN",
+	"latitude": 44.3296,
+	"longitude": -93.9659
+},
+{
+	"City": "Virginia",
+	"State": "MN",
+	"latitude": 47.5169,
+	"longitude": -92.5128
+},
+{
+	"City": "East Bethel",
+	"State": "MN",
+	"latitude": 45.3557,
+	"longitude": -93.2038
+},
+{
+	"City": "Mendota Heights",
+	"State": "MN",
+	"latitude": 44.8815,
+	"longitude": -93.14
+},
+{
+	"City": "Big Lake",
+	"State": "MN",
+	"latitude": 45.3416,
+	"longitude": -93.7431
+},
+{
+	"City": "Grand Rapids",
+	"State": "MN",
+	"latitude": 47.238,
+	"longitude": -93.5327
+},
+{
+	"City": "North Branch",
+	"State": "MN",
+	"latitude": 45.5137,
+	"longitude": -92.9601
+},
+{
+	"City": "Little Canada",
+	"State": "MN",
+	"latitude": 45.0244,
+	"longitude": -93.0863
+},
+{
+	"City": "Arden Hills",
+	"State": "MN",
+	"latitude": 45.0721,
+	"longitude": -93.167
+},
+{
+	"City": "Victoria",
+	"State": "MN",
+	"latitude": 44.8634,
+	"longitude": -93.6586
+},
+{
+	"City": "Fairmont",
+	"State": "MN",
+	"latitude": 43.6441,
+	"longitude": -94.4621
+},
+{
+	"City": "Hermantown",
+	"State": "MN",
+	"latitude": 46.8058,
+	"longitude": -92.2407
+},
+{
+	"City": "Mound",
+	"State": "MN",
+	"latitude": 44.9328,
+	"longitude": -93.6591
+},
+{
+	"City": "Little Falls",
+	"State": "MN",
+	"latitude": 45.9833,
+	"longitude": -94.36
+},
+{
+	"City": "Zimmerman",
+	"State": "MN",
+	"latitude": 45.4416,
+	"longitude": -93.5981
+},
+{
+	"City": "Detroit Lakes",
+	"State": "MN",
+	"latitude": 46.806,
+	"longitude": -95.8449
+},
+{
+	"City": "Lake Elmo",
+	"State": "MN",
+	"latitude": 44.9944,
+	"longitude": -92.9031
+},
+{
+	"City": "Thief River Falls",
+	"State": "MN",
+	"latitude": 48.1112,
+	"longitude": -96.1771
+},
+{
+	"City": "Lindstrom",
+	"State": "MN",
+	"latitude": 45.387,
+	"longitude": -92.8477
+},
+{
+	"City": "St. Anthony",
+	"State": "MN",
+	"latitude": 45.0278,
+	"longitude": -93.2174
+},
+{
+	"City": "Waseca",
+	"State": "MN",
+	"latitude": 44.0826,
+	"longitude": -93.5025
+},
+{
+	"City": "Oak Grove",
+	"State": "MN",
+	"latitude": 45.3409,
+	"longitude": -93.3264
+},
+{
+	"City": "New Prague",
+	"State": "MN",
+	"latitude": 44.5459,
+	"longitude": -93.5758
+},
+{
+	"City": "East Grand Forks",
+	"State": "MN",
+	"latitude": 47.9284,
+	"longitude": -97.0138
+},
+{
+	"City": "Baxter",
+	"State": "MN",
+	"latitude": 46.3426,
+	"longitude": -94.2793
+},
+{
+	"City": "Orono",
+	"State": "MN",
+	"latitude": 44.9657,
+	"longitude": -93.5908
+},
+{
+	"City": "Mahtomedi",
+	"State": "MN",
+	"latitude": 45.0619,
+	"longitude": -92.966
+},
+{
+	"City": "Minnetrista",
+	"State": "MN",
+	"latitude": 44.9356,
+	"longitude": -93.7103
+},
+{
+	"City": "Shorewood",
+	"State": "MN",
+	"latitude": 44.9033,
+	"longitude": -93.5903
+},
+{
+	"City": "Wyoming",
+	"State": "MN",
+	"latitude": 45.3365,
+	"longitude": -92.9766
+},
+{
+	"City": "St. Francis",
+	"State": "MN",
+	"latitude": 45.3991,
+	"longitude": -93.3902
+},
+{
+	"City": "Crookston",
+	"State": "MN",
+	"latitude": 47.7747,
+	"longitude": -96.6062
+},
+{
+	"City": "Waite Park",
+	"State": "MN",
+	"latitude": 45.5313,
+	"longitude": -94.2528
+},
+{
+	"City": "Kasson",
+	"State": "MN",
+	"latitude": 44.0333,
+	"longitude": -92.7482
+},
+{
+	"City": "Albertville",
+	"State": "MN",
+	"latitude": 45.2364,
+	"longitude": -93.6618
+},
+{
+	"City": "St. Joseph",
+	"State": "MN",
+	"latitude": 45.5611,
+	"longitude": -94.3081
+},
+{
+	"City": "Belle Plaine",
+	"State": "MN",
+	"latitude": 44.6188,
+	"longitude": -93.7643
+},
+{
+	"City": "Spring Lake Park",
+	"State": "MN",
+	"latitude": 45.1161,
+	"longitude": -93.2451
+},
+{
+	"City": "Medina",
+	"State": "MN",
+	"latitude": 45.0326,
+	"longitude": -93.5834
+},
+{
+	"City": "Dayton",
+	"State": "MN",
+	"latitude": 45.1906,
+	"longitude": -93.4758
+},
+{
+	"City": "Litchfield",
+	"State": "MN",
+	"latitude": 45.1221,
+	"longitude": -94.5255
+},
+{
+	"City": "Jordan",
+	"State": "MN",
+	"latitude": 44.6652,
+	"longitude": -93.6351
+},
+{
+	"City": "International Falls",
+	"State": "MN",
+	"latitude": 48.5884,
+	"longitude": -93.4083
+},
+{
+	"City": "Delano",
+	"State": "MN",
+	"latitude": 45.0383,
+	"longitude": -93.7922
+},
+{
+	"City": "Corcoran",
+	"State": "MN",
+	"latitude": 45.1089,
+	"longitude": -93.5837
+},
+{
+	"City": "Isanti",
+	"State": "MN",
+	"latitude": 45.4928,
+	"longitude": -93.2407
+},
+{
+	"City": "Stewartville",
+	"State": "MN",
+	"latitude": 43.8605,
+	"longitude": -92.4896
+},
+{
+	"City": "Byron",
+	"State": "MN",
+	"latitude": 44.0379,
+	"longitude": -92.6411
+},
+{
+	"City": "Glencoe",
+	"State": "MN",
+	"latitude": 44.7699,
+	"longitude": -94.1512
+},
+{
+	"City": "Falcon Heights",
+	"State": "MN",
+	"latitude": 44.9899,
+	"longitude": -93.177
+},
+{
+	"City": "St. Paul Park",
+	"State": "MN",
+	"latitude": 44.836,
+	"longitude": -92.9949
+},
+{
+	"City": "North Oaks",
+	"State": "MN",
+	"latitude": 45.1002,
+	"longitude": -93.0882
+},
+{
+	"City": "Morris",
+	"State": "MN",
+	"latitude": 45.5856,
+	"longitude": -95.9048
+},
+{
+	"City": "Chisago City",
+	"State": "MN",
+	"latitude": 45.3474,
+	"longitude": -92.9116
+},
+{
+	"City": "Montrose",
+	"State": "MN",
+	"latitude": 45.0668,
+	"longitude": -93.9206
+},
+{
+	"City": "Lake City",
+	"State": "MN",
+	"latitude": 44.4453,
+	"longitude": -92.2796
+},
+{
+	"City": "Carver",
+	"State": "MN",
+	"latitude": 44.76,
+	"longitude": -93.6305
+},
+{
+	"City": "Montevideo",
+	"State": "MN",
+	"latitude": 44.9505,
+	"longitude": -95.7153
+},
+{
+	"City": "La Crescent",
+	"State": "MN",
+	"latitude": 43.8299,
+	"longitude": -91.3043
+},
+{
+	"City": "Oak Park Heights",
+	"State": "MN",
+	"latitude": 45.0324,
+	"longitude": -92.8099
+},
+{
+	"City": "Princeton",
+	"State": "MN",
+	"latitude": 45.5689,
+	"longitude": -93.59
+},
+{
+	"City": "Redwood Falls",
+	"State": "MN",
+	"latitude": 44.5471,
+	"longitude": -95.1031
+},
+{
+	"City": "Becker",
+	"State": "MN",
+	"latitude": 45.3815,
+	"longitude": -93.8737
+},
+{
+	"City": "Circle Pines",
+	"State": "MN",
+	"latitude": 45.1409,
+	"longitude": -93.1505
+},
+{
+	"City": "Chisholm",
+	"State": "MN",
+	"latitude": 47.4877,
+	"longitude": -92.8788
+},
+{
+	"City": "Rockford",
+	"State": "MN",
+	"latitude": 45.092,
+	"longitude": -93.7453
+},
+{
+	"City": "Elko New Market",
+	"State": "MN",
+	"latitude": 44.5667,
+	"longitude": -93.338
+},
+{
+	"City": "Nowthen",
+	"State": "MN",
+	"latitude": 45.3421,
+	"longitude": -93.4495
+},
+{
+	"City": "Wayzata",
+	"State": "MN",
+	"latitude": 44.9671,
+	"longitude": -93.5161
+},
+{
+	"City": "Cold Spring",
+	"State": "MN",
+	"latitude": 45.4572,
+	"longitude": -94.4296
+},
+{
+	"City": "Luverne",
+	"State": "MN",
+	"latitude": 43.6533,
+	"longitude": -96.2146
+},
+{
+	"City": "Watertown",
+	"State": "MN",
+	"latitude": 44.9603,
+	"longitude": -93.8431
+},
+{
+	"City": "Sauk Centre",
+	"State": "MN",
+	"latitude": 45.736,
+	"longitude": -94.9523
+},
+{
+	"City": "Dilworth",
+	"State": "MN",
+	"latitude": 46.8795,
+	"longitude": -96.6986
+},
+{
+	"City": "St. James",
+	"State": "MN",
+	"latitude": 43.9832,
+	"longitude": -94.6249
+},
+{
+	"City": "Windom",
+	"State": "MN",
+	"latitude": 43.8736,
+	"longitude": -95.1201
+},
+{
+	"City": "Cokato",
+	"State": "MN",
+	"latitude": 45.0771,
+	"longitude": -94.1879
+},
+{
+	"City": "Park Rapids",
+	"State": "MN",
+	"latitude": 46.917,
+	"longitude": -95.0577
+},
+{
+	"City": "Lonsdale",
+	"State": "MN",
+	"latitude": 44.4776,
+	"longitude": -93.422
+},
+{
+	"City": "Scandia",
+	"State": "MN",
+	"latitude": 45.254,
+	"longitude": -92.8278
+},
+{
+	"City": "Rice Lake",
+	"State": "MN",
+	"latitude": 46.8977,
+	"longitude": -92.1137
+},
+{
+	"City": "Columbus",
+	"State": "MN",
+	"latitude": 45.2685,
+	"longitude": -93.081
+},
+{
+	"City": "Grant",
+	"State": "MN",
+	"latitude": 45.0825,
+	"longitude": -92.909
+},
+{
+	"City": "Goodview",
+	"State": "MN",
+	"latitude": 44.0693,
+	"longitude": -91.7167
+},
+{
+	"City": "Wadena",
+	"State": "MN",
+	"latitude": 46.4452,
+	"longitude": -95.1281
+},
+{
+	"City": "Le Sueur",
+	"State": "MN",
+	"latitude": 44.4704,
+	"longitude": -93.9025
+},
+{
+	"City": "Cannon Falls",
+	"State": "MN",
+	"latitude": 44.5122,
+	"longitude": -92.9034
+},
+{
+	"City": "Pipestone",
+	"State": "MN",
+	"latitude": 43.9958,
+	"longitude": -96.3117
+},
+{
+	"City": "Centerville",
+	"State": "MN",
+	"latitude": 45.164,
+	"longitude": -93.054
+},
+{
+	"City": "Deephaven",
+	"State": "MN",
+	"latitude": 44.9318,
+	"longitude": -93.5293
+},
+{
+	"City": "St. Augusta",
+	"State": "MN",
+	"latitude": 45.4497,
+	"longitude": -94.1996
+},
+{
+	"City": "Independence",
+	"State": "MN",
+	"latitude": 45.0219,
+	"longitude": -93.7077
+},
+{
+	"City": "Norwood Young America",
+	"State": "MN",
+	"latitude": 44.7721,
+	"longitude": -93.9192
+},
+{
+	"City": "Bayport",
+	"State": "MN",
+	"latitude": 45.0152,
+	"longitude": -92.7789
+},
+{
+	"City": "St. Charles",
+	"State": "MN",
+	"latitude": 43.9688,
+	"longitude": -92.0591
+},
+{
+	"City": "Melrose",
+	"State": "MN",
+	"latitude": 45.6757,
+	"longitude": -94.8128
+},
+{
+	"City": "Mora",
+	"State": "MN",
+	"latitude": 45.8768,
+	"longitude": -93.2914
+},
+{
+	"City": "Perham",
+	"State": "MN",
+	"latitude": 46.6,
+	"longitude": -95.5773
+},
+{
+	"City": "New London",
+	"State": "MN",
+	"latitude": 45.2975,
+	"longitude": -94.9476
+},
+{
+	"City": "Newport",
+	"State": "MN",
+	"latitude": 44.8744,
+	"longitude": -92.9975
+},
+{
+	"City": "Eveleth",
+	"State": "MN",
+	"latitude": 47.4637,
+	"longitude": -92.5443
+},
+{
+	"City": "Annandale",
+	"State": "MN",
+	"latitude": 45.2598,
+	"longitude": -94.1205
+},
+{
+	"City": "Two Harbors",
+	"State": "MN",
+	"latitude": 47.03,
+	"longitude": -91.675
+},
+{
+	"City": "Hanover",
+	"State": "MN",
+	"latitude": 45.158,
+	"longitude": -93.6631
+},
+{
+	"City": "Zumbrota",
+	"State": "MN",
+	"latitude": 44.295,
+	"longitude": -92.6734
+},
+{
+	"City": "Pine Island",
+	"State": "MN",
+	"latitude": 44.197,
+	"longitude": -92.6165
+},
+{
+	"City": "Crosby",
+	"State": "MN",
+	"latitude": 46.4892,
+	"longitude": -93.9573
+},
+{
+	"City": "Sleepy Eye",
+	"State": "MN",
+	"latitude": 44.2988,
+	"longitude": -94.7235
+},
+{
+	"City": "Ely",
+	"State": "MN",
+	"latitude": 47.9054,
+	"longitude": -91.8517
+},
+{
+	"City": "Long Prairie",
+	"State": "MN",
+	"latitude": 45.9775,
+	"longitude": -94.8629
+},
+{
+	"City": "Plainview",
+	"State": "MN",
+	"latitude": 44.1648,
+	"longitude": -92.1697
+},
+{
+	"City": "Rush City",
+	"State": "MN",
+	"latitude": 45.6875,
+	"longitude": -92.9654
+},
+{
+	"City": "Jackson",
+	"State": "MN",
+	"latitude": 43.6288,
+	"longitude": -94.9886
+},
+{
+	"City": "Breckenridge",
+	"State": "MN",
+	"latitude": 46.2662,
+	"longitude": -96.585
+},
+{
+	"City": "Moose Lake",
+	"State": "MN",
+	"latitude": 46.4445,
+	"longitude": -92.7634
+},
+{
+	"City": "Pine City",
+	"State": "MN",
+	"latitude": 45.8367,
+	"longitude": -92.9683
+},
+{
+	"City": "Blue Earth",
+	"State": "MN",
+	"latitude": 43.6404,
+	"longitude": -94.1004
+},
+{
+	"City": "Eagle Lake",
+	"State": "MN",
+	"latitude": 44.1616,
+	"longitude": -93.8846
+},
+{
+	"City": "Montgomery",
+	"State": "MN",
+	"latitude": 44.4452,
+	"longitude": -93.5797
+},
+{
+	"City": "Benson",
+	"State": "MN",
+	"latitude": 45.3152,
+	"longitude": -95.6058
+},
+{
+	"City": "Greenfield",
+	"State": "MN",
+	"latitude": 45.0997,
+	"longitude": -93.6884
+},
+{
+	"City": "Proctor",
+	"State": "MN",
+	"latitude": 46.7416,
+	"longitude": -92.2276
+},
+{
+	"City": "Afton",
+	"State": "MN",
+	"latitude": 44.9042,
+	"longitude": -92.8174
+},
+{
+	"City": "Staples",
+	"State": "MN",
+	"latitude": 46.369,
+	"longitude": -94.8018
+},
+{
+	"City": "Milaca",
+	"State": "MN",
+	"latitude": 45.7573,
+	"longitude": -93.6522
+},
+{
+	"City": "Mountain Iron",
+	"State": "MN",
+	"latitude": 47.5473,
+	"longitude": -92.6252
+},
+{
+	"City": "Chatfield",
+	"State": "MN",
+	"latitude": 43.8445,
+	"longitude": -92.1829
+},
+{
+	"City": "Roseau",
+	"State": "MN",
+	"latitude": 48.8446,
+	"longitude": -95.7623
+},
+{
+	"City": "Albany",
+	"State": "MN",
+	"latitude": 45.6284,
+	"longitude": -94.5677
+},
+{
+	"City": "Dodge Center",
+	"State": "MN",
+	"latitude": 44.0289,
+	"longitude": -92.8507
+},
+{
+	"City": "Caledonia",
+	"State": "MN",
+	"latitude": 43.6344,
+	"longitude": -91.5009
+},
+{
+	"City": "Osseo",
+	"State": "MN",
+	"latitude": 45.1179,
+	"longitude": -93.3992
+},
+{
+	"City": "Cohasset",
+	"State": "MN",
+	"latitude": 47.2389,
+	"longitude": -93.6396
+},
+{
+	"City": "Granite Falls",
+	"State": "MN",
+	"latitude": 44.8107,
+	"longitude": -95.5375
+},
+{
+	"City": "Foley",
+	"State": "MN",
+	"latitude": 45.6636,
+	"longitude": -93.9095
+},
+{
+	"City": "Lexington",
+	"State": "MN",
+	"latitude": 45.1381,
+	"longitude": -93.1714
+},
+{
+	"City": "Sandstone",
+	"State": "MN",
+	"latitude": 46.1292,
+	"longitude": -92.8646
+},
+{
+	"City": "Glenwood",
+	"State": "MN",
+	"latitude": 45.6517,
+	"longitude": -95.3643
+},
+{
+	"City": "Barnesville",
+	"State": "MN",
+	"latitude": 46.6501,
+	"longitude": -96.4164
+},
+{
+	"City": "Rockville",
+	"State": "MN",
+	"latitude": 45.465,
+	"longitude": -94.3222
+},
+{
+	"City": "Pelican Rapids",
+	"State": "MN",
+	"latitude": 46.5701,
+	"longitude": -96.086
+},
+{
+	"City": "Lauderdale",
+	"State": "MN",
+	"latitude": 44.9942,
+	"longitude": -93.2026
+},
+{
+	"City": "Paynesville",
+	"State": "MN",
+	"latitude": 45.3786,
+	"longitude": -94.7216
+},
+{
+	"City": "Le Center",
+	"State": "MN",
+	"latitude": 44.3866,
+	"longitude": -93.7311
+},
+{
+	"City": "Lake Crystal",
+	"State": "MN",
+	"latitude": 44.1054,
+	"longitude": -94.2188
+},
+{
+	"City": "Wabasha",
+	"State": "MN",
+	"latitude": 44.3707,
+	"longitude": -92.042
+},
+{
+	"City": "Breezy Point",
+	"State": "MN",
+	"latitude": 46.6081,
+	"longitude": -94.218
+},
+{
+	"City": "Spring Valley",
+	"State": "MN",
+	"latitude": 43.6888,
+	"longitude": -92.3897
+},
+{
+	"City": "St. Bonifacius",
+	"State": "MN",
+	"latitude": 44.9054,
+	"longitude": -93.7476
+},
+{
+	"City": "Crosslake",
+	"State": "MN",
+	"latitude": 46.6755,
+	"longitude": -94.0955
+},
+{
+	"City": "Excelsior",
+	"State": "MN",
+	"latitude": 44.9025,
+	"longitude": -93.5663
+},
+{
+	"City": "Olivia",
+	"State": "MN",
+	"latitude": 44.777,
+	"longitude": -94.9971
+},
+{
+	"City": "Pequot Lakes",
+	"State": "MN",
+	"latitude": 46.5875,
+	"longitude": -94.2983
+},
+{
+	"City": "Mayer",
+	"State": "MN",
+	"latitude": 44.8868,
+	"longitude": -93.8904
+},
+{
+	"City": "Madelia",
+	"State": "MN",
+	"latitude": 44.0482,
+	"longitude": -94.4198
+},
+{
+	"City": "Janesville",
+	"State": "MN",
+	"latitude": 44.1214,
+	"longitude": -93.7107
+},
+{
+	"City": "Winsted",
+	"State": "MN",
+	"latitude": 44.9574,
+	"longitude": -94.0498
+},
+{
+	"City": "Gaylord",
+	"State": "MN",
+	"latitude": 44.5555,
+	"longitude": -94.2123
+},
+{
+	"City": "Hawley",
+	"State": "MN",
+	"latitude": 46.877,
+	"longitude": -96.318
+},
+{
+	"City": "Wells",
+	"State": "MN",
+	"latitude": 43.7432,
+	"longitude": -93.7278
+},
+{
+	"City": "Maple Lake",
+	"State": "MN",
+	"latitude": 45.2334,
+	"longitude": -94.0059
+},
+{
+	"City": "Arlington",
+	"State": "MN",
+	"latitude": 44.6083,
+	"longitude": -94.0766
+},
+{
+	"City": "Howard Lake",
+	"State": "MN",
+	"latitude": 45.0604,
+	"longitude": -94.067
+},
+{
+	"City": "Maple Plain",
+	"State": "MN",
+	"latitude": 45.0088,
+	"longitude": -93.6618
+},
+{
+	"City": "Nisswa",
+	"State": "MN",
+	"latitude": 46.5003,
+	"longitude": -94.2977
+},
+{
+	"City": "Tracy",
+	"State": "MN",
+	"latitude": 44.239,
+	"longitude": -95.6153
+},
+{
+	"City": "Esko",
+	"State": "MN",
+	"latitude": 46.71,
+	"longitude": -92.3721
+},
+{
+	"City": "Mountain Lake",
+	"State": "MN",
+	"latitude": 43.9414,
+	"longitude": -94.9273
+},
+{
+	"City": "Springfield",
+	"State": "MN",
+	"latitude": 44.2372,
+	"longitude": -94.9819
+},
+{
+	"City": "Eyota",
+	"State": "MN",
+	"latitude": 43.9883,
+	"longitude": -92.2321
+},
+{
+	"City": "Aitkin",
+	"State": "MN",
+	"latitude": 46.5289,
+	"longitude": -93.7067
+},
+{
+	"City": "Slayton",
+	"State": "MN",
+	"latitude": 43.9902,
+	"longitude": -95.7578
+},
+{
+	"City": "Coleraine",
+	"State": "MN",
+	"latitude": 47.2638,
+	"longitude": -93.4524
+},
+{
+	"City": "Hoyt Lakes",
+	"State": "MN",
+	"latitude": 47.5598,
+	"longitude": -92.1157
+},
+{
+	"City": "Blooming Prairie",
+	"State": "MN",
+	"latitude": 43.8683,
+	"longitude": -93.0552
+},
+{
+	"City": "Hinckley",
+	"State": "MN",
+	"latitude": 46.0122,
+	"longitude": -92.9256
+},
+{
+	"City": "Waterville",
+	"State": "MN",
+	"latitude": 44.2236,
+	"longitude": -93.5747
+},
+{
+	"City": "Lakeland",
+	"State": "MN",
+	"latitude": 44.9503,
+	"longitude": -92.77
+},
+{
+	"City": "Clearwater",
+	"State": "MN",
+	"latitude": 45.4102,
+	"longitude": -94.0446
+},
+{
+	"City": "Long Lake",
+	"State": "MN",
+	"latitude": 44.9841,
+	"longitude": -93.5689
+},
+{
+	"City": "Braham",
+	"State": "MN",
+	"latitude": 45.7223,
+	"longitude": -93.1717
+},
+{
+	"City": "Kenyon",
+	"State": "MN",
+	"latitude": 44.2726,
+	"longitude": -92.9858
+},
+{
+	"City": "Cologne",
+	"State": "MN",
+	"latitude": 44.7696,
+	"longitude": -93.7931
+},
+{
+	"City": "Warroad",
+	"State": "MN",
+	"latitude": 48.9169,
+	"longitude": -95.3272
+},
+{
+	"City": "Red Lake",
+	"State": "MN",
+	"latitude": 47.8707,
+	"longitude": -95.0052
+},
+{
+	"City": "Spring Park",
+	"State": "MN",
+	"latitude": 44.9364,
+	"longitude": -93.6319
+},
+{
+	"City": "Ortonville",
+	"State": "MN",
+	"latitude": 45.3017,
+	"longitude": -96.4415
+},
+{
+	"City": "Gilbert",
+	"State": "MN",
+	"latitude": 47.4913,
+	"longitude": -92.4612
+},
+{
+	"City": "Silver Bay",
+	"State": "MN",
+	"latitude": 47.294,
+	"longitude": -91.278
+},
+{
+	"City": "Osakis",
+	"State": "MN",
+	"latitude": 45.8649,
+	"longitude": -95.1524
+},
+{
+	"City": "Lester Prairie",
+	"State": "MN",
+	"latitude": 44.8829,
+	"longitude": -94.0374
+},
+{
+	"City": "Rushford",
+	"State": "MN",
+	"latitude": 43.8131,
+	"longitude": -91.7535
+},
+{
+	"City": "Mapleton",
+	"State": "MN",
+	"latitude": 43.9267,
+	"longitude": -93.9544
+},
+{
+	"City": "Canby",
+	"State": "MN",
+	"latitude": 44.7157,
+	"longitude": -96.269
+},
+{
+	"City": "Rock Creek",
+	"State": "MN",
+	"latitude": 45.7604,
+	"longitude": -92.9088
+},
+{
+	"City": "Dundas",
+	"State": "MN",
+	"latitude": 44.4276,
+	"longitude": -93.2039
+},
+{
+	"City": "Aurora",
+	"State": "MN",
+	"latitude": 47.5312,
+	"longitude": -92.2399
+},
+{
+	"City": "Lakefield",
+	"State": "MN",
+	"latitude": 43.678,
+	"longitude": -95.1695
+},
+{
+	"City": "Waverly",
+	"State": "MN",
+	"latitude": 45.065,
+	"longitude": -93.9663
+},
+{
+	"City": "Avon",
+	"State": "MN",
+	"latitude": 45.6101,
+	"longitude": -94.4619
+},
+{
+	"City": "Tonka Bay",
+	"State": "MN",
+	"latitude": 44.9167,
+	"longitude": -93.5886
+},
+{
+	"City": "Ada",
+	"State": "MN",
+	"latitude": 47.2992,
+	"longitude": -96.5165
+},
+{
+	"City": "Warren",
+	"State": "MN",
+	"latitude": 48.194,
+	"longitude": -96.7688
+},
+{
+	"City": "Lewiston",
+	"State": "MN",
+	"latitude": 43.9823,
+	"longitude": -91.8695
+},
+{
+	"City": "Oronoco",
+	"State": "MN",
+	"latitude": 44.1598,
+	"longitude": -92.5401
+},
+{
+	"City": "Stacy",
+	"State": "MN",
+	"latitude": 45.3841,
+	"longitude": -92.9938
+},
+{
+	"City": "Babbitt",
+	"State": "MN",
+	"latitude": 47.6445,
+	"longitude": -91.9458
+},
+{
+	"City": "Richmond",
+	"State": "MN",
+	"latitude": 45.4547,
+	"longitude": -94.5135
+},
+{
+	"City": "Fosston",
+	"State": "MN",
+	"latitude": 47.5855,
+	"longitude": -95.7579
+},
+{
+	"City": "Dassel",
+	"State": "MN",
+	"latitude": 45.083,
+	"longitude": -94.315
+},
+{
+	"City": "Red Lake Falls",
+	"State": "MN",
+	"latitude": 47.8837,
+	"longitude": -96.2727
+},
+{
+	"City": "Bagley",
+	"State": "MN",
+	"latitude": 47.5239,
+	"longitude": -95.4041
+},
+{
+	"City": "Dawson",
+	"State": "MN",
+	"latitude": 44.9289,
+	"longitude": -96.0504
+},
+{
+	"City": "Madison",
+	"State": "MN",
+	"latitude": 45.0127,
+	"longitude": -96.1889
+},
+{
+	"City": "Frazee",
+	"State": "MN",
+	"latitude": 46.7282,
+	"longitude": -95.7026
+},
+{
+	"City": "Rice",
+	"State": "MN",
+	"latitude": 45.7525,
+	"longitude": -94.2317
+},
+{
+	"City": "Glyndon",
+	"State": "MN",
+	"latitude": 46.8709,
+	"longitude": -96.5784
+},
+{
+	"City": "Pierz",
+	"State": "MN",
+	"latitude": 45.9772,
+	"longitude": -94.1008
+},
+{
+	"City": "Grand Marais",
+	"State": "MN",
+	"latitude": 47.7586,
+	"longitude": -90.3443
+},
+{
+	"City": "Minneota",
+	"State": "MN",
+	"latitude": 44.5626,
+	"longitude": -95.9827
+},
+{
+	"City": "Winthrop",
+	"State": "MN",
+	"latitude": 44.5427,
+	"longitude": -94.361
+},
+{
+	"City": "Winnebago",
+	"State": "MN",
+	"latitude": 43.7644,
+	"longitude": -94.1703
+},
+{
+	"City": "Hayfield",
+	"State": "MN",
+	"latitude": 43.8903,
+	"longitude": -92.8471
+},
+{
+	"City": "Appleton",
+	"State": "MN",
+	"latitude": 45.1997,
+	"longitude": -96.0225
+},
+{
+	"City": "Menahga",
+	"State": "MN",
+	"latitude": 46.7471,
+	"longitude": -95.1012
+},
+{
+	"City": "Preston",
+	"State": "MN",
+	"latitude": 43.6726,
+	"longitude": -92.0828
+},
+{
+	"City": "Wheaton",
+	"State": "MN",
+	"latitude": 45.8059,
+	"longitude": -96.498
+},
+{
+	"City": "Clara City",
+	"State": "MN",
+	"latitude": 44.9583,
+	"longitude": -95.3672
+},
+{
+	"City": "Starbuck",
+	"State": "MN",
+	"latitude": 45.6121,
+	"longitude": -95.5333
+},
+{
+	"City": "Spring Grove",
+	"State": "MN",
+	"latitude": 43.5607,
+	"longitude": -91.637
+},
+{
+	"City": "Medford",
+	"State": "MN",
+	"latitude": 44.1685,
+	"longitude": -93.2472
+},
+{
+	"City": "Cottonwood",
+	"State": "MN",
+	"latitude": 44.6106,
+	"longitude": -95.672
+},
+{
+	"City": "Royalton",
+	"State": "MN",
+	"latitude": 45.8302,
+	"longitude": -94.2931
+},
+{
+	"City": "Mahnomen",
+	"State": "MN",
+	"latitude": 47.3146,
+	"longitude": -95.9673
+},
+{
+	"City": "New York Mills",
+	"State": "MN",
+	"latitude": 46.5198,
+	"longitude": -95.3733
+},
+{
+	"City": "Spicer",
+	"State": "MN",
+	"latitude": 45.2329,
+	"longitude": -94.9401
+},
+{
+	"City": "Adrian",
+	"State": "MN",
+	"latitude": 43.6332,
+	"longitude": -95.933
+},
+{
+	"City": "Mantorville",
+	"State": "MN",
+	"latitude": 44.0656,
+	"longitude": -92.7537
+},
+{
+	"City": "Fulda",
+	"State": "MN",
+	"latitude": 43.8691,
+	"longitude": -95.6023
+},
+{
+	"City": "Grand Meadow",
+	"State": "MN",
+	"latitude": 43.7062,
+	"longitude": -92.5702
+},
+{
+	"City": "Renville",
+	"State": "MN",
+	"latitude": 44.7908,
+	"longitude": -95.2048
+},
+{
+	"City": "Harris",
+	"State": "MN",
+	"latitude": 45.5976,
+	"longitude": -92.9869
+},
+{
+	"City": "New Richland",
+	"State": "MN",
+	"latitude": 43.8938,
+	"longitude": -93.4939
+},
+{
+	"City": "Goodhue",
+	"State": "MN",
+	"latitude": 44.4007,
+	"longitude": -92.6255
+},
+{
+	"City": "Madison Lake",
+	"State": "MN",
+	"latitude": 44.2044,
+	"longitude": -93.8162
+},
+{
+	"City": "Little Rock",
+	"State": "MN",
+	"latitude": 47.8667,
+	"longitude": -95.106
+},
+{
+	"City": "Nicollet",
+	"State": "MN",
+	"latitude": 44.2747,
+	"longitude": -94.1885
+},
+{
+	"City": "Elbow Lake",
+	"State": "MN",
+	"latitude": 45.9905,
+	"longitude": -95.9776
+},
+{
+	"City": "Redby",
+	"State": "MN",
+	"latitude": 47.8717,
+	"longitude": -94.9184
+},
+{
+	"City": "Fairfax",
+	"State": "MN",
+	"latitude": 44.5283,
+	"longitude": -94.7231
+},
+{
+	"City": "Dellwood",
+	"State": "MN",
+	"latitude": 45.0986,
+	"longitude": -92.9672
+},
+{
+	"City": "Edgerton",
+	"State": "MN",
+	"latitude": 43.8753,
+	"longitude": -96.1304
+},
+{
+	"City": "Atwater",
+	"State": "MN",
+	"latitude": 45.1356,
+	"longitude": -94.7769
+},
+{
+	"City": "Shafer",
+	"State": "MN",
+	"latitude": 45.3901,
+	"longitude": -92.7531
+},
+{
+	"City": "Sherburn",
+	"State": "MN",
+	"latitude": 43.6547,
+	"longitude": -94.7273
+},
+{
+	"City": "Elgin",
+	"State": "MN",
+	"latitude": 44.1257,
+	"longitude": -92.247
+},
+{
+	"City": "Wanamingo",
+	"State": "MN",
+	"latitude": 44.3026,
+	"longitude": -92.7872
+},
+{
+	"City": "Lake St. Croix Beach",
+	"State": "MN",
+	"latitude": 44.9245,
+	"longitude": -92.7657
+},
+{
+	"City": "Tyler",
+	"State": "MN",
+	"latitude": 44.2785,
+	"longitude": -96.1355
+},
+{
+	"City": "Lake Shore",
+	"State": "MN",
+	"latitude": 46.504,
+	"longitude": -94.3635
+},
+{
+	"City": "Hector",
+	"State": "MN",
+	"latitude": 44.7412,
+	"longitude": -94.712
+},
+{
+	"City": "Truman",
+	"State": "MN",
+	"latitude": 43.8279,
+	"longitude": -94.4366
+},
+{
+	"City": "Eden Valley",
+	"State": "MN",
+	"latitude": 45.3263,
+	"longitude": -94.5453
+},
+{
+	"City": "East Gull Lake",
+	"State": "MN",
+	"latitude": 46.3948,
+	"longitude": -94.3548
+},
+{
+	"City": "Taylors Falls",
+	"State": "MN",
+	"latitude": 45.4121,
+	"longitude": -92.6644
+},
+{
+	"City": "Carlton",
+	"State": "MN",
+	"latitude": 46.6635,
+	"longitude": -92.407
+},
+{
+	"City": "Baudette",
+	"State": "MN",
+	"latitude": 48.7119,
+	"longitude": -94.5925
+},
+{
+	"City": "Keewatin",
+	"State": "MN",
+	"latitude": 47.4006,
+	"longitude": -93.0828
+},
+{
+	"City": "Parkers Prairie",
+	"State": "MN",
+	"latitude": 46.153,
+	"longitude": -95.329
+},
+{
+	"City": "Morristown",
+	"State": "MN",
+	"latitude": 44.2239,
+	"longitude": -93.4445
+},
+{
+	"City": "Harmony",
+	"State": "MN",
+	"latitude": 43.554,
+	"longitude": -92.0075
+},
+{
+	"City": "Buhl",
+	"State": "MN",
+	"latitude": 47.4994,
+	"longitude": -92.7692
+},
+{
+	"City": "Biwabik",
+	"State": "MN",
+	"latitude": 47.5551,
+	"longitude": -92.3233
+},
+{
+	"City": "Houston",
+	"State": "MN",
+	"latitude": 43.7582,
+	"longitude": -91.5707
+},
+{
+	"City": "Scanlon",
+	"State": "MN",
+	"latitude": 46.7066,
+	"longitude": -92.43
+},
+{
+	"City": "Bird Island",
+	"State": "MN",
+	"latitude": 44.7648,
+	"longitude": -94.8949
+},
+{
+	"City": "Watkins",
+	"State": "MN",
+	"latitude": 45.3153,
+	"longitude": -94.412
+},
+{
+	"City": "Nashwauk",
+	"State": "MN",
+	"latitude": 47.3805,
+	"longitude": -93.1666
+},
+{
+	"City": "Walker",
+	"State": "MN",
+	"latitude": 47.0891,
+	"longitude": -94.5854
+},
+{
+	"City": "Le Roy",
+	"State": "MN",
+	"latitude": 43.5131,
+	"longitude": -92.5076
+},
+{
+	"City": "Henderson",
+	"State": "MN",
+	"latitude": 44.5278,
+	"longitude": -93.9091
+},
+{
+	"City": "Deer River",
+	"State": "MN",
+	"latitude": 47.3409,
+	"longitude": -93.7961
+},
+{
+	"City": "Battle Lake",
+	"State": "MN",
+	"latitude": 46.2848,
+	"longitude": -95.7187
+},
+{
+	"City": "Pine River",
+	"State": "MN",
+	"latitude": 46.7225,
+	"longitude": -94.3975
+},
+{
+	"City": "Hallock",
+	"State": "MN",
+	"latitude": 48.7659,
+	"longitude": -96.9427
+},
+{
+	"City": "Birchwood Village",
+	"State": "MN",
+	"latitude": 45.0598,
+	"longitude": -92.9777
+},
+{
+	"City": "St. Stephen",
+	"State": "MN",
+	"latitude": 45.701,
+	"longitude": -94.2742
+},
+{
+	"City": "Onamia",
+	"State": "MN",
+	"latitude": 46.07,
+	"longitude": -93.6676
+},
+{
+	"City": "Vineland",
+	"State": "MN",
+	"latitude": 46.1832,
+	"longitude": -93.7823
+},
+{
+	"City": "Lilydale",
+	"State": "MN",
+	"latitude": 44.9096,
+	"longitude": -93.1301
+},
+{
+	"City": "Mazeppa",
+	"State": "MN",
+	"latitude": 44.2737,
+	"longitude": -92.5403
+},
+{
+	"City": "Morgan",
+	"State": "MN",
+	"latitude": 44.4158,
+	"longitude": -94.9248
+},
+{
+	"City": "Emily",
+	"State": "MN",
+	"latitude": 46.7602,
+	"longitude": -93.9665
+},
+{
+	"City": "Rushford Village",
+	"State": "MN",
+	"latitude": 43.8033,
+	"longitude": -91.7915
+},
+{
+	"City": "Blackduck",
+	"State": "MN",
+	"latitude": 47.7263,
+	"longitude": -94.5479
+},
+{
+	"City": "St. Clair",
+	"State": "MN",
+	"latitude": 44.0838,
+	"longitude": -93.8601
+},
+{
+	"City": "Fertile",
+	"State": "MN",
+	"latitude": 47.5339,
+	"longitude": -96.2893
+},
+{
+	"City": "Silver Lake",
+	"State": "MN",
+	"latitude": 44.9042,
+	"longitude": -94.1984
+},
+{
+	"City": "Henning",
+	"State": "MN",
+	"latitude": 46.3233,
+	"longitude": -95.4424
+},
+{
+	"City": "Walnut Grove",
+	"State": "MN",
+	"latitude": 44.225,
+	"longitude": -95.4692
+},
+{
+	"City": "Martin Lake",
+	"State": "MN",
+	"latitude": 45.3825,
+	"longitude": -93.0885
+},
+{
+	"City": "Kimball",
+	"State": "MN",
+	"latitude": 45.3143,
+	"longitude": -94.3008
+},
+{
+	"City": "Isle",
+	"State": "MN",
+	"latitude": 46.1398,
+	"longitude": -93.4597
+},
+{
+	"City": "Lake Park",
+	"State": "MN",
+	"latitude": 46.8839,
+	"longitude": -96.0988
+},
+{
+	"City": "Adams",
+	"State": "MN",
+	"latitude": 43.5654,
+	"longitude": -92.719
+},
+{
+	"City": "Clarkfield",
+	"State": "MN",
+	"latitude": 44.7907,
+	"longitude": -95.8077
+},
+{
+	"City": "Bovey",
+	"State": "MN",
+	"latitude": 47.2962,
+	"longitude": -93.4036
+},
+{
+	"City": "Belgrade",
+	"State": "MN",
+	"latitude": 45.4506,
+	"longitude": -94.9998
+},
+{
+	"City": "Warsaw",
+	"State": "MN",
+	"latitude": 44.2576,
+	"longitude": -93.3771
+},
+{
+	"City": "Dover",
+	"State": "MN",
+	"latitude": 43.9699,
+	"longitude": -92.1341
+},
+{
+	"City": "Lamberton",
+	"State": "MN",
+	"latitude": 44.2306,
+	"longitude": -95.2676
+},
+{
+	"City": "West Concord",
+	"State": "MN",
+	"latitude": 44.1529,
+	"longitude": -92.8995
+},
+{
+	"City": "Elysian",
+	"State": "MN",
+	"latitude": 44.2067,
+	"longitude": -93.6765
+},
+{
+	"City": "Hilltop",
+	"State": "MN",
+	"latitude": 45.0536,
+	"longitude": -93.2501
+},
+{
+	"City": "Raymond",
+	"State": "MN",
+	"latitude": 45.0186,
+	"longitude": -95.2369
+},
+{
+	"City": "Cass Lake",
+	"State": "MN",
+	"latitude": 47.3788,
+	"longitude": -94.5991
+},
+{
+	"City": "Twin Valley",
+	"State": "MN",
+	"latitude": 47.2589,
+	"longitude": -96.2592
+},
+{
+	"City": "Gibbon",
+	"State": "MN",
+	"latitude": 44.5333,
+	"longitude": -94.5242
+},
+{
+	"City": "Greenwood",
+	"State": "MN",
+	"latitude": 44.9122,
+	"longitude": -93.555
+},
+{
+	"City": "Brooten",
+	"State": "MN",
+	"latitude": 45.5001,
+	"longitude": -95.1157
+},
+{
+	"City": "Mabel",
+	"State": "MN",
+	"latitude": 43.5198,
+	"longitude": -91.768
+},
+{
+	"City": "Hancock",
+	"State": "MN",
+	"latitude": 45.4977,
+	"longitude": -95.795
+},
+{
+	"City": "Browerville",
+	"State": "MN",
+	"latitude": 46.0807,
+	"longitude": -94.8646
+},
+{
+	"City": "Ponemah",
+	"State": "MN",
+	"latitude": 48.0348,
+	"longitude": -94.8983
+},
+{
+	"City": "Cleveland",
+	"State": "MN",
+	"latitude": 44.3236,
+	"longitude": -93.8353
+},
+{
+	"City": "Stockton",
+	"State": "MN",
+	"latitude": 44.0271,
+	"longitude": -91.7697
+},
+{
+	"City": "Landfall",
+	"State": "MN",
+	"latitude": 44.9508,
+	"longitude": -92.9766
+},
+{
+	"City": "Lanesboro",
+	"State": "MN",
+	"latitude": 43.7181,
+	"longitude": -91.9719
+},
+{
+	"City": "Holdingford",
+	"State": "MN",
+	"latitude": 45.7298,
+	"longitude": -94.4717
+},
+{
+	"City": "Brownton",
+	"State": "MN",
+	"latitude": 44.7326,
+	"longitude": -94.3508
+},
+{
+	"City": "Karlstad",
+	"State": "MN",
+	"latitude": 48.578,
+	"longitude": -96.5169
+},
+{
+	"City": "Marine on St. Croix",
+	"State": "MN",
+	"latitude": 45.1983,
+	"longitude": -92.7783
+},
+{
+	"City": "Clear Lake",
+	"State": "MN",
+	"latitude": 45.4463,
+	"longitude": -93.9985
+},
+{
+	"City": "Kerkhoven",
+	"State": "MN",
+	"latitude": 45.1922,
+	"longitude": -95.3199
+},
+{
+	"City": "Westbrook",
+	"State": "MN",
+	"latitude": 44.0422,
+	"longitude": -95.4376
+},
+{
+	"City": "Trimont",
+	"State": "MN",
+	"latitude": 43.7611,
+	"longitude": -94.7162
+},
+{
+	"City": "Greenbush",
+	"State": "MN",
+	"latitude": 48.701,
+	"longitude": -96.1835
+},
+{
+	"City": "Hampton",
+	"State": "MN",
+	"latitude": 44.6085,
+	"longitude": -93.0025
+},
+{
+	"City": "Courtland",
+	"State": "MN",
+	"latitude": 44.2701,
+	"longitude": -94.3464
+},
+{
+	"City": "Brownsdale",
+	"State": "MN",
+	"latitude": 43.7401,
+	"longitude": -92.8675
+},
+{
+	"City": "Clarks Grove",
+	"State": "MN",
+	"latitude": 43.7618,
+	"longitude": -93.329
+},
+{
+	"City": "Buffalo Lake",
+	"State": "MN",
+	"latitude": 44.737,
+	"longitude": -94.6173
+},
+{
+	"City": "Hoffman",
+	"State": "MN",
+	"latitude": 45.8341,
+	"longitude": -95.787
+},
+{
+	"City": "Hendricks",
+	"State": "MN",
+	"latitude": 44.5076,
+	"longitude": -96.4281
+},
+{
+	"City": "Kasota",
+	"State": "MN",
+	"latitude": 44.2916,
+	"longitude": -93.9689
+},
+{
+	"City": "Ellendale",
+	"State": "MN",
+	"latitude": 43.8727,
+	"longitude": -93.2993
+},
+{
+	"City": "Marble",
+	"State": "MN",
+	"latitude": 47.328,
+	"longitude": -93.294
+},
+{
+	"City": "Freeport",
+	"State": "MN",
+	"latitude": 45.6627,
+	"longitude": -94.6888
+},
+{
+	"City": "Sebeka",
+	"State": "MN",
+	"latitude": 46.629,
+	"longitude": -95.0878
+},
+{
+	"City": "Loretto",
+	"State": "MN",
+	"latitude": 45.0548,
+	"longitude": -93.6353
+},
+{
+	"City": "Center City",
+	"State": "MN",
+	"latitude": 45.3941,
+	"longitude": -92.8141
+},
+{
+	"City": "La Prairie",
+	"State": "MN",
+	"latitude": 47.2302,
+	"longitude": -93.4913
+},
+{
+	"City": "Motley",
+	"State": "MN",
+	"latitude": 46.3349,
+	"longitude": -94.6423
+},
+{
+	"City": "Wabasso",
+	"State": "MN",
+	"latitude": 44.4025,
+	"longitude": -95.2554
+},
+{
+	"City": "Clarissa",
+	"State": "MN",
+	"latitude": 46.1284,
+	"longitude": -94.949
+},
+{
+	"City": "Hills",
+	"State": "MN",
+	"latitude": 43.5278,
+	"longitude": -96.3594
+},
+{
+	"City": "Welcome",
+	"State": "MN",
+	"latitude": 43.6662,
+	"longitude": -94.6071
+},
+{
+	"City": "Heron Lake",
+	"State": "MN",
+	"latitude": 43.798,
+	"longitude": -95.3198
+},
+{
+	"City": "Ottertail",
+	"State": "MN",
+	"latitude": 46.4267,
+	"longitude": -95.5638
+},
+{
+	"City": "Stephen",
+	"State": "MN",
+	"latitude": 48.4518,
+	"longitude": -96.8769
+},
+{
+	"City": "Minnesota Lake",
+	"State": "MN",
+	"latitude": 43.8408,
+	"longitude": -93.8279
+},
+{
+	"City": "Argyle",
+	"State": "MN",
+	"latitude": 48.3366,
+	"longitude": -96.8162
+},
+{
+	"City": "Rollingstone",
+	"State": "MN",
+	"latitude": 44.0993,
+	"longitude": -91.8187
+},
+{
+	"City": "Alden",
+	"State": "MN",
+	"latitude": 43.6695,
+	"longitude": -93.5735
+},
+{
+	"City": "Lake Benton",
+	"State": "MN",
+	"latitude": 44.2644,
+	"longitude": -96.2918
+},
+{
+	"City": "Taconite",
+	"State": "MN",
+	"latitude": 47.3315,
+	"longitude": -93.3758
+},
+{
+	"City": "The Lakes",
+	"State": "MN",
+	"latitude": 44.136,
+	"longitude": -95.7083
+},
+{
+	"City": "Randall",
+	"State": "MN",
+	"latitude": 46.0887,
+	"longitude": -94.5007
+},
+{
+	"City": "Balaton",
+	"State": "MN",
+	"latitude": 44.2331,
+	"longitude": -95.8707
+},
+{
+	"City": "Glenville",
+	"State": "MN",
+	"latitude": 43.5738,
+	"longitude": -93.2817
+},
+{
+	"City": "Grove City",
+	"State": "MN",
+	"latitude": 45.148,
+	"longitude": -94.6815
+},
+{
+	"City": "Elmore",
+	"State": "MN",
+	"latitude": 43.5069,
+	"longitude": -94.0888
+},
+{
+	"City": "McIntosh",
+	"State": "MN",
+	"latitude": 47.6369,
+	"longitude": -95.8864
+},
+{
+	"City": "Jasper",
+	"State": "MN",
+	"latitude": 43.8491,
+	"longitude": -96.3999
+},
+{
+	"City": "Barnum",
+	"State": "MN",
+	"latitude": 46.5054,
+	"longitude": -92.6884
+},
+{
+	"City": "Evansville",
+	"State": "MN",
+	"latitude": 46.0062,
+	"longitude": -95.6869
+},
+{
+	"City": "Racine",
+	"State": "MN",
+	"latitude": 43.7755,
+	"longitude": -92.481
+},
+{
+	"City": "Littlefork",
+	"State": "MN",
+	"latitude": 48.3964,
+	"longitude": -93.5578
+},
+{
+	"City": "Butterfield",
+	"State": "MN",
+	"latitude": 43.9586,
+	"longitude": -94.7938
+},
+{
+	"City": "Hill City",
+	"State": "MN",
+	"latitude": 46.983,
+	"longitude": -93.5959
+},
+{
+	"City": "Minnetonka Beach",
+	"State": "MN",
+	"latitude": 44.9385,
+	"longitude": -93.5865
+},
+{
+	"City": "Verndale",
+	"State": "MN",
+	"latitude": 46.3971,
+	"longitude": -95.0112
+},
+{
+	"City": "White Earth",
+	"State": "MN",
+	"latitude": 47.0977,
+	"longitude": -95.8445
+},
+{
+	"City": "Good Thunder",
+	"State": "MN",
+	"latitude": 44.0067,
+	"longitude": -94.0703
+},
+{
+	"City": "Cook",
+	"State": "MN",
+	"latitude": 47.8414,
+	"longitude": -92.6888
+},
+{
+	"City": "Graceville",
+	"State": "MN",
+	"latitude": 45.5686,
+	"longitude": -96.4372
+},
+{
+	"City": "Sabin",
+	"State": "MN",
+	"latitude": 46.7814,
+	"longitude": -96.6542
+},
+{
+	"City": "Green Isle",
+	"State": "MN",
+	"latitude": 44.6804,
+	"longitude": -94.0052
+},
+{
+	"City": "Ironton",
+	"State": "MN",
+	"latitude": 46.4817,
+	"longitude": -93.9977
+},
+{
+	"City": "Ranier",
+	"State": "MN",
+	"latitude": 48.6066,
+	"longitude": -93.353
+},
+{
+	"City": "Lyle",
+	"State": "MN",
+	"latitude": 43.5057,
+	"longitude": -92.9412
+},
+{
+	"City": "Halstad",
+	"State": "MN",
+	"latitude": 47.3511,
+	"longitude": -96.8247
+},
+{
+	"City": "Hokah",
+	"State": "MN",
+	"latitude": 43.7599,
+	"longitude": -91.35
+},
+{
+	"City": "Ulen",
+	"State": "MN",
+	"latitude": 47.0781,
+	"longitude": -96.2581
+},
+{
+	"City": "Sunfish Lake",
+	"State": "MN",
+	"latitude": 44.8722,
+	"longitude": -93.0943
+},
+{
+	"City": "Stewart",
+	"State": "MN",
+	"latitude": 44.7236,
+	"longitude": -94.4869
+},
+{
+	"City": "Geneva",
+	"State": "MN",
+	"latitude": 43.8226,
+	"longitude": -93.2683
+},
+{
+	"City": "Claremont",
+	"State": "MN",
+	"latitude": 44.0449,
+	"longitude": -92.9976
+},
+{
+	"City": "Foreston",
+	"State": "MN",
+	"latitude": 45.7321,
+	"longitude": -93.7095
+},
+{
+	"City": "Deerwood",
+	"State": "MN",
+	"latitude": 46.4729,
+	"longitude": -93.9
+},
+{
+	"City": "Ivanhoe",
+	"State": "MN",
+	"latitude": 44.4651,
+	"longitude": -96.252
+},
+{
+	"City": "Browns Valley",
+	"State": "MN",
+	"latitude": 45.5947,
+	"longitude": -96.8327
+},
+{
+	"City": "Floodwood",
+	"State": "MN",
+	"latitude": 46.9173,
+	"longitude": -92.9187
+},
+{
+	"City": "Clearbrook",
+	"State": "MN",
+	"latitude": 47.6962,
+	"longitude": -95.4287
+},
+{
+	"City": "Audubon",
+	"State": "MN",
+	"latitude": 46.8629,
+	"longitude": -95.9809
+},
+{
+	"City": "Eagle Bend",
+	"State": "MN",
+	"latitude": 46.1643,
+	"longitude": -95.0341
+},
+{
+	"City": "Hamburg",
+	"State": "MN",
+	"latitude": 44.7327,
+	"longitude": -93.9644
+},
+{
+	"City": "Pennock",
+	"State": "MN",
+	"latitude": 45.1459,
+	"longitude": -95.175
+},
+{
+	"City": "Willernie",
+	"State": "MN",
+	"latitude": 45.054,
+	"longitude": -92.9571
+},
+{
+	"City": "Amboy",
+	"State": "MN",
+	"latitude": 43.888,
+	"longitude": -94.1582
+},
+{
+	"City": "Brownsville",
+	"State": "MN",
+	"latitude": 43.6992,
+	"longitude": -91.2823
+},
+{
+	"City": "Sacred Heart",
+	"State": "MN",
+	"latitude": 44.7817,
+	"longitude": -95.3507
+},
+{
+	"City": "Bethel",
+	"State": "MN",
+	"latitude": 45.4022,
+	"longitude": -93.2711
+},
+{
+	"City": "Gem Lake",
+	"State": "MN",
+	"latitude": 45.0579,
+	"longitude": -93.0405
+},
+{
+	"City": "Prinsburg",
+	"State": "MN",
+	"latitude": 44.9349,
+	"longitude": -95.187
+},
+{
+	"City": "Lafayette",
+	"State": "MN",
+	"latitude": 44.4471,
+	"longitude": -94.3927
+},
+{
+	"City": "Carlos",
+	"State": "MN",
+	"latitude": 45.9741,
+	"longitude": -95.2925
+},
+{
+	"City": "Woodland",
+	"State": "MN",
+	"latitude": 44.9524,
+	"longitude": -93.5155
+},
+{
+	"City": "Tower",
+	"State": "MN",
+	"latitude": 47.8103,
+	"longitude": -92.2832
+},
+{
+	"City": "Brandon",
+	"State": "MN",
+	"latitude": 45.9663,
+	"longitude": -95.5945
+},
+{
+	"City": "Pillager",
+	"State": "MN",
+	"latitude": 46.3295,
+	"longitude": -94.4796
+},
+{
+	"City": "Bertha",
+	"State": "MN",
+	"latitude": 46.2671,
+	"longitude": -95.0618
+},
+{
+	"City": "Kandiyohi",
+	"State": "MN",
+	"latitude": 45.1315,
+	"longitude": -94.9331
+},
+{
+	"City": "Altura",
+	"State": "MN",
+	"latitude": 44.0642,
+	"longitude": -91.9435
+},
+{
+	"City": "Erskine",
+	"State": "MN",
+	"latitude": 47.6648,
+	"longitude": -96.0125
+},
+{
+	"City": "Rothsay",
+	"State": "MN",
+	"latitude": 46.4735,
+	"longitude": -96.2845
+},
+{
+	"City": "Franklin",
+	"State": "MN",
+	"latitude": 44.531,
+	"longitude": -94.8851
+},
+{
+	"City": "Jenkins",
+	"State": "MN",
+	"latitude": 46.6527,
+	"longitude": -94.3299
+},
+{
+	"City": "Brewster",
+	"State": "MN",
+	"latitude": 43.6973,
+	"longitude": -95.4644
+},
+{
+	"City": "Lynd",
+	"State": "MN",
+	"latitude": 44.3973,
+	"longitude": -95.8812
+},
+{
+	"City": "Naytahwaush",
+	"State": "MN",
+	"latitude": 47.2704,
+	"longitude": -95.6334
+},
+{
+	"City": "Kiester",
+	"State": "MN",
+	"latitude": 43.5369,
+	"longitude": -93.7113
+},
+{
+	"City": "Danube",
+	"State": "MN",
+	"latitude": 44.791,
+	"longitude": -95.1029
+},
+{
+	"City": "Ellsworth",
+	"State": "MN",
+	"latitude": 43.5209,
+	"longitude": -96.0197
+},
+{
+	"City": "Kellogg",
+	"State": "MN",
+	"latitude": 44.3074,
+	"longitude": -91.9989
+},
+{
+	"City": "Cosmos",
+	"State": "MN",
+	"latitude": 44.9354,
+	"longitude": -94.6949
+},
+{
+	"City": "Randolph",
+	"State": "MN",
+	"latitude": 44.526,
+	"longitude": -93.0198
+},
+{
+	"City": "Akeley",
+	"State": "MN",
+	"latitude": 47.0005,
+	"longitude": -94.728
+},
+{
+	"City": "Bigfork",
+	"State": "MN",
+	"latitude": 47.7473,
+	"longitude": -93.6525
+},
+{
+	"City": "Ashby",
+	"State": "MN",
+	"latitude": 46.0931,
+	"longitude": -95.8157
+},
+{
+	"City": "Herman",
+	"State": "MN",
+	"latitude": 45.8105,
+	"longitude": -96.1414
+},
+{
+	"City": "New Auburn",
+	"State": "MN",
+	"latitude": 44.6728,
+	"longitude": -94.232
+},
+{
+	"City": "Wykoff",
+	"State": "MN",
+	"latitude": 43.7086,
+	"longitude": -92.2674
+},
+{
+	"City": "Oklee",
+	"State": "MN",
+	"latitude": 47.839,
+	"longitude": -95.8509
+},
+{
+	"City": "Sturgeon Lake",
+	"State": "MN",
+	"latitude": 46.3863,
+	"longitude": -92.8241
+},
+{
+	"City": "Rose Creek",
+	"State": "MN",
+	"latitude": 43.6045,
+	"longitude": -92.8289
+},
+{
+	"City": "Upsala",
+	"State": "MN",
+	"latitude": 45.81,
+	"longitude": -94.5673
+},
+{
+	"City": "Wrenshall",
+	"State": "MN",
+	"latitude": 46.6217,
+	"longitude": -92.384
+},
+{
+	"City": "Miltona",
+	"State": "MN",
+	"latitude": 46.0462,
+	"longitude": -95.2931
+},
+{
+	"City": "Fisher",
+	"State": "MN",
+	"latitude": 47.7993,
+	"longitude": -96.7995
+},
+{
+	"City": "New Germany",
+	"State": "MN",
+	"latitude": 44.8861,
+	"longitude": -93.9731
+},
+{
+	"City": "Vermillion",
+	"State": "MN",
+	"latitude": 44.6735,
+	"longitude": -92.9643
+},
+{
+	"City": "Fairhaven",
+	"State": "MN",
+	"latitude": 45.3232,
+	"longitude": -94.204
+},
+{
+	"City": "Long Beach",
+	"State": "MN",
+	"latitude": 45.6509,
+	"longitude": -95.4294
+},
+{
+	"City": "Nevis",
+	"State": "MN",
+	"latitude": 46.9646,
+	"longitude": -94.8423
+},
+{
+	"City": "Clinton",
+	"State": "MN",
+	"latitude": 45.4632,
+	"longitude": -96.4415
+},
+{
+	"City": "Barrett",
+	"State": "MN",
+	"latitude": 45.9124,
+	"longitude": -95.8943
+},
+{
+	"City": "Waubun",
+	"State": "MN",
+	"latitude": 47.184,
+	"longitude": -95.9401
+},
+{
+	"City": "Fifty Lakes",
+	"State": "MN",
+	"latitude": 46.7618,
+	"longitude": -94.0898
+},
+{
+	"City": "Wood Lake",
+	"State": "MN",
+	"latitude": 44.6513,
+	"longitude": -95.5358
+},
+{
+	"City": "Willow River",
+	"State": "MN",
+	"latitude": 46.3204,
+	"longitude": -92.835
+},
+{
+	"City": "Fountain",
+	"State": "MN",
+	"latitude": 43.7426,
+	"longitude": -92.1342
+},
+{
+	"City": "Remer",
+	"State": "MN",
+	"latitude": 47.0569,
+	"longitude": -93.9126
+},
+{
+	"City": "St. Marys Point",
+	"State": "MN",
+	"latitude": 44.9128,
+	"longitude": -92.7704
+},
+{
+	"City": "Pine Springs",
+	"State": "MN",
+	"latitude": 45.0368,
+	"longitude": -92.9543
+},
+{
+	"City": "Chokio",
+	"State": "MN",
+	"latitude": 45.5731,
+	"longitude": -96.1748
+},
+{
+	"City": "Emmons",
+	"State": "MN",
+	"latitude": 43.5068,
+	"longitude": -93.4851
+},
+{
+	"City": "Soudan",
+	"State": "MN",
+	"latitude": 47.813,
+	"longitude": -92.2356
+},
+{
+	"City": "Hanska",
+	"State": "MN",
+	"latitude": 44.1487,
+	"longitude": -94.4945
+},
+{
+	"City": "Ogilvie",
+	"State": "MN",
+	"latitude": 45.829,
+	"longitude": -93.4221
+},
+{
+	"City": "Morton",
+	"State": "MN",
+	"latitude": 44.5534,
+	"longitude": -94.985
+},
+{
+	"City": "Medicine Lake",
+	"State": "MN",
+	"latitude": 44.9998,
+	"longitude": -93.4199
+},
+{
+	"City": "Pine Point",
+	"State": "MN",
+	"latitude": 46.9889,
+	"longitude": -95.3883
+},
+{
+	"City": "Round Lake",
+	"State": "MN",
+	"latitude": 43.5372,
+	"longitude": -95.4705
+},
+{
+	"City": "Ghent",
+	"State": "MN",
+	"latitude": 44.5116,
+	"longitude": -95.8926
+},
+{
+	"City": "Underwood",
+	"State": "MN",
+	"latitude": 46.2869,
+	"longitude": -95.8721
+},
+{
+	"City": "Newfolden",
+	"State": "MN",
+	"latitude": 48.3568,
+	"longitude": -96.3298
+},
+{
+	"City": "McGregor",
+	"State": "MN",
+	"latitude": 46.6087,
+	"longitude": -93.3055
+},
+{
+	"City": "Alvarado",
+	"State": "MN",
+	"latitude": 48.1929,
+	"longitude": -96.9985
+},
+{
+	"City": "Cuyuna",
+	"State": "MN",
+	"latitude": 46.5115,
+	"longitude": -93.9265
+},
+{
+	"City": "Mahtowa",
+	"State": "MN",
+	"latitude": 46.5616,
+	"longitude": -92.6279
+},
+{
+	"City": "Badger",
+	"State": "MN",
+	"latitude": 48.7768,
+	"longitude": -96.0212
+},
+{
+	"City": "Milan",
+	"State": "MN",
+	"latitude": 45.1125,
+	"longitude": -95.9117
+},
+{
+	"City": "Belview",
+	"State": "MN",
+	"latitude": 44.6065,
+	"longitude": -95.3287
+},
+{
+	"City": "Comfrey",
+	"State": "MN",
+	"latitude": 44.1111,
+	"longitude": -94.9029
+},
+{
+	"City": "Askov",
+	"State": "MN",
+	"latitude": 46.1886,
+	"longitude": -92.7824
+},
+{
+	"City": "Darwin",
+	"State": "MN",
+	"latitude": 45.0968,
+	"longitude": -94.4136
+},
+{
+	"City": "Vergas",
+	"State": "MN",
+	"latitude": 46.6549,
+	"longitude": -95.8038
+},
+{
+	"City": "Calumet",
+	"State": "MN",
+	"latitude": 47.3198,
+	"longitude": -93.2667
+},
+{
+	"City": "Garfield",
+	"State": "MN",
+	"latitude": 45.9387,
+	"longitude": -95.4942
+},
+{
+	"City": "St. Martin",
+	"State": "MN",
+	"latitude": 45.5028,
+	"longitude": -94.6678
+},
+{
+	"City": "Dexter",
+	"State": "MN",
+	"latitude": 43.7194,
+	"longitude": -92.7017
+},
+{
+	"City": "Jeffers",
+	"State": "MN",
+	"latitude": 44.0559,
+	"longitude": -95.1953
+},
+{
+	"City": "Maynard",
+	"State": "MN",
+	"latitude": 44.9056,
+	"longitude": -95.4688
+},
+{
+	"City": "Canton",
+	"State": "MN",
+	"latitude": 43.5298,
+	"longitude": -91.9299
+},
+{
+	"City": "Swanville",
+	"State": "MN",
+	"latitude": 45.9162,
+	"longitude": -94.6388
+},
+{
+	"City": "Russell",
+	"State": "MN",
+	"latitude": 44.3199,
+	"longitude": -95.9474
+},
+{
+	"City": "Ceylon",
+	"State": "MN",
+	"latitude": 43.5326,
+	"longitude": -94.6305
+},
+{
+	"City": "Bricelyn",
+	"State": "MN",
+	"latitude": 43.5607,
+	"longitude": -93.8131
+},
+{
+	"City": "Rushmore",
+	"State": "MN",
+	"latitude": 43.6197,
+	"longitude": -95.799
+},
+{
+	"City": "Orr",
+	"State": "MN",
+	"latitude": 48.0594,
+	"longitude": -92.8248
+},
+{
+	"City": "Lancaster",
+	"State": "MN",
+	"latitude": 48.8577,
+	"longitude": -96.8019
+},
+{
+	"City": "Grey Eagle",
+	"State": "MN",
+	"latitude": 45.8245,
+	"longitude": -94.749
+},
+{
+	"City": "Nett Lake",
+	"State": "MN",
+	"latitude": 48.1146,
+	"longitude": -93.0811
+},
+{
+	"City": "Wilmont",
+	"State": "MN",
+	"latitude": 43.765,
+	"longitude": -95.8269
+},
+{
+	"City": "New Munich",
+	"State": "MN",
+	"latitude": 45.6309,
+	"longitude": -94.7525
+},
+{
+	"City": "Riverland",
+	"State": "MN",
+	"latitude": 47.3219,
+	"longitude": -95.9512
+},
+{
+	"City": "Oslo",
+	"State": "MN",
+	"latitude": 48.1954,
+	"longitude": -97.1321
+},
+{
+	"City": "Deer Creek",
+	"State": "MN",
+	"latitude": 46.3909,
+	"longitude": -95.3218
+},
+{
+	"City": "Osage",
+	"State": "MN",
+	"latitude": 46.9283,
+	"longitude": -95.2586
+},
+{
+	"City": "Garden City",
+	"State": "MN",
+	"latitude": 44.0485,
+	"longitude": -94.1713
+},
+{
+	"City": "Vernon Center",
+	"State": "MN",
+	"latitude": 43.9626,
+	"longitude": -94.1666
+},
+{
+	"City": "Lakeland Shores",
+	"State": "MN",
+	"latitude": 44.9478,
+	"longitude": -92.7612
+},
+{
+	"City": "Sanborn",
+	"State": "MN",
+	"latitude": 44.2098,
+	"longitude": -95.1297
+},
+{
+	"City": "Hackensack",
+	"State": "MN",
+	"latitude": 46.9269,
+	"longitude": -94.5159
+},
+{
+	"City": "Finlayson",
+	"State": "MN",
+	"latitude": 46.2051,
+	"longitude": -92.9248
+},
+{
+	"City": "Dakota",
+	"State": "MN",
+	"latitude": 43.9106,
+	"longitude": -91.3605
+},
+{
+	"City": "Hartland",
+	"State": "MN",
+	"latitude": 43.8042,
+	"longitude": -93.4843
+},
+{
+	"City": "Plato",
+	"State": "MN",
+	"latitude": 44.7724,
+	"longitude": -94.0397
+},
+{
+	"City": "Kensington",
+	"State": "MN",
+	"latitude": 45.7783,
+	"longitude": -95.697
+},
+{
+	"City": "Middle River",
+	"State": "MN",
+	"latitude": 48.4349,
+	"longitude": -96.1617
+},
+{
+	"City": "Lowry",
+	"State": "MN",
+	"latitude": 45.705,
+	"longitude": -95.519
+},
+{
+	"City": "Skyline",
+	"State": "MN",
+	"latitude": 44.1408,
+	"longitude": -94.034
+},
+{
+	"City": "Hollandale",
+	"State": "MN",
+	"latitude": 43.7598,
+	"longitude": -93.2043
+},
+{
+	"City": "Vesta",
+	"State": "MN",
+	"latitude": 44.5066,
+	"longitude": -95.4139
+},
+{
+	"City": "Wilton",
+	"State": "MN",
+	"latitude": 47.5065,
+	"longitude": -94.9969
+},
+{
+	"City": "Nerstrand",
+	"State": "MN",
+	"latitude": 44.3429,
+	"longitude": -93.0638
+},
+{
+	"City": "Plummer",
+	"State": "MN",
+	"latitude": 47.9151,
+	"longitude": -96.0416
+},
+{
+	"City": "Granada",
+	"State": "MN",
+	"latitude": 43.6933,
+	"longitude": -94.3495
+},
+{
+	"City": "Hendrum",
+	"State": "MN",
+	"latitude": 47.2641,
+	"longitude": -96.8104
+},
+{
+	"City": "Beaver Creek",
+	"State": "MN",
+	"latitude": 43.6124,
+	"longitude": -96.3624
+},
+{
+	"City": "Gonvick",
+	"State": "MN",
+	"latitude": 47.7391,
+	"longitude": -95.5125
+},
+{
+	"City": "Bowlus",
+	"State": "MN",
+	"latitude": 45.8191,
+	"longitude": -94.4072
+},
+{
+	"City": "Hanley Falls",
+	"State": "MN",
+	"latitude": 44.6917,
+	"longitude": -95.6194
+},
+{
+	"City": "Lake George",
+	"State": "MN",
+	"latitude": 47.1881,
+	"longitude": -94.9801
+},
+{
+	"City": "Buckman",
+	"State": "MN",
+	"latitude": 45.8973,
+	"longitude": -94.094
+},
+{
+	"City": "Utica",
+	"State": "MN",
+	"latitude": 43.9772,
+	"longitude": -91.9494
+},
+{
+	"City": "Cyrus",
+	"State": "MN",
+	"latitude": 45.6147,
+	"longitude": -95.7381
+},
+{
+	"City": "Freeborn",
+	"State": "MN",
+	"latitude": 43.7659,
+	"longitude": -93.5645
+},
+{
+	"City": "Silver Creek",
+	"State": "MN",
+	"latitude": 45.3127,
+	"longitude": -93.9827
+},
+{
+	"City": "Searles",
+	"State": "MN",
+	"latitude": 44.2307,
+	"longitude": -94.4361
+},
+{
+	"City": "Kelliher",
+	"State": "MN",
+	"latitude": 47.9438,
+	"longitude": -94.4446
+},
+{
+	"City": "St. Hilaire",
+	"State": "MN",
+	"latitude": 48.0135,
+	"longitude": -96.2137
+},
+{
+	"City": "Climax",
+	"State": "MN",
+	"latitude": 47.6095,
+	"longitude": -96.8122
+},
+{
+	"City": "Murdock",
+	"State": "MN",
+	"latitude": 45.2234,
+	"longitude": -95.3946
+},
+{
+	"City": "Hewitt",
+	"State": "MN",
+	"latitude": 46.324,
+	"longitude": -95.0902
+},
+{
+	"City": "Echo",
+	"State": "MN",
+	"latitude": 44.6218,
+	"longitude": -95.4115
+},
+{
+	"City": "Villard",
+	"State": "MN",
+	"latitude": 45.7142,
+	"longitude": -95.2692
+},
+{
+	"City": "Backus",
+	"State": "MN",
+	"latitude": 46.8207,
+	"longitude": -94.5149
+},
+{
+	"City": "Eitzen",
+	"State": "MN",
+	"latitude": 43.508,
+	"longitude": -91.4636
+},
+{
+	"City": "Dalton",
+	"State": "MN",
+	"latitude": 46.1739,
+	"longitude": -95.9156
+},
+{
+	"City": "Ostrander",
+	"State": "MN",
+	"latitude": 43.6137,
+	"longitude": -92.4263
+},
+{
+	"City": "Lewisville",
+	"State": "MN",
+	"latitude": 43.9241,
+	"longitude": -94.434
+},
+{
+	"City": "Chandler",
+	"State": "MN",
+	"latitude": 43.9306,
+	"longitude": -95.9512
+},
+{
+	"City": "Hayward",
+	"State": "MN",
+	"latitude": 43.6499,
+	"longitude": -93.246
+},
+{
+	"City": "Pemberton",
+	"State": "MN",
+	"latitude": 44.0084,
+	"longitude": -93.7838
+},
+{
+	"City": "Zumbro Falls",
+	"State": "MN",
+	"latitude": 44.2849,
+	"longitude": -92.4263
+},
+{
+	"City": "Milroy",
+	"State": "MN",
+	"latitude": 44.4178,
+	"longitude": -95.5536
+},
+{
+	"City": "Lake Lillian",
+	"State": "MN",
+	"latitude": 44.9458,
+	"longitude": -94.88
+},
+{
+	"City": "Twin Lakes",
+	"State": "MN",
+	"latitude": 47.2261,
+	"longitude": -95.6555
+},
+{
+	"City": "Donnelly",
+	"State": "MN",
+	"latitude": 45.6895,
+	"longitude": -96.0143
+},
+{
+	"City": "Cromwell",
+	"State": "MN",
+	"latitude": 46.6795,
+	"longitude": -92.873
+},
+{
+	"City": "Bigelow",
+	"State": "MN",
+	"latitude": 43.5053,
+	"longitude": -95.6892
+},
+{
+	"City": "Callaway",
+	"State": "MN",
+	"latitude": 46.982,
+	"longitude": -95.912
+},
+{
+	"City": "Pease",
+	"State": "MN",
+	"latitude": 45.6995,
+	"longitude": -93.6491
+},
+{
+	"City": "Elrosa",
+	"State": "MN",
+	"latitude": 45.5629,
+	"longitude": -94.9472
+},
+{
+	"City": "Frontenac",
+	"State": "MN",
+	"latitude": 44.5061,
+	"longitude": -92.3511
+},
+{
+	"City": "Lake Wilson",
+	"State": "MN",
+	"latitude": 43.9953,
+	"longitude": -95.9533
+},
+{
+	"City": "Flensburg",
+	"State": "MN",
+	"latitude": 45.948,
+	"longitude": -94.5301
+},
+{
+	"City": "Waldorf",
+	"State": "MN",
+	"latitude": 43.9332,
+	"longitude": -93.6976
+},
+{
+	"City": "Winger",
+	"State": "MN",
+	"latitude": 47.5376,
+	"longitude": -95.9864
+},
+{
+	"City": "Greenwald",
+	"State": "MN",
+	"latitude": 45.6014,
+	"longitude": -94.8594
+},
+{
+	"City": "Lismore",
+	"State": "MN",
+	"latitude": 43.7491,
+	"longitude": -95.948
+},
+{
+	"City": "Rutledge",
+	"State": "MN",
+	"latitude": 46.257,
+	"longitude": -92.8696
+},
+{
+	"City": "Ruthton",
+	"State": "MN",
+	"latitude": 44.1776,
+	"longitude": -96.1035
+},
+{
+	"City": "Wahkon",
+	"State": "MN",
+	"latitude": 46.1206,
+	"longitude": -93.5223
+},
+{
+	"City": "Gilman",
+	"State": "MN",
+	"latitude": 45.7353,
+	"longitude": -93.9483
+},
+{
+	"City": "Mendota",
+	"State": "MN",
+	"latitude": 44.8877,
+	"longitude": -93.1607
+},
+{
+	"City": "Currie",
+	"State": "MN",
+	"latitude": 44.0704,
+	"longitude": -95.6668
+},
+{
+	"City": "Dennison",
+	"State": "MN",
+	"latitude": 44.4088,
+	"longitude": -93.0303
+},
+{
+	"City": "Bluffton",
+	"State": "MN",
+	"latitude": 46.4696,
+	"longitude": -95.2337
+},
+{
+	"City": "Lutsen",
+	"State": "MN",
+	"latitude": 47.6715,
+	"longitude": -90.6885
+},
+{
+	"City": "Northrop",
+	"State": "MN",
+	"latitude": 43.7359,
+	"longitude": -94.4367
+},
+{
+	"City": "Beardsley",
+	"State": "MN",
+	"latitude": 45.5577,
+	"longitude": -96.7139
+},
+{
+	"City": "Grygla",
+	"State": "MN",
+	"latitude": 48.2996,
+	"longitude": -95.624
+},
+{
+	"City": "Hitterdal",
+	"State": "MN",
+	"latitude": 46.9778,
+	"longitude": -96.2584
+},
+{
+	"City": "Magnolia",
+	"State": "MN",
+	"latitude": 43.6441,
+	"longitude": -96.0752
+},
+{
+	"City": "Big Falls",
+	"State": "MN",
+	"latitude": 48.1794,
+	"longitude": -93.8092
+},
+{
+	"City": "Garrison",
+	"State": "MN",
+	"latitude": 46.2992,
+	"longitude": -93.8262
+},
+{
+	"City": "Lake Bronson",
+	"State": "MN",
+	"latitude": 48.7322,
+	"longitude": -96.664
+},
+{
+	"City": "Storden",
+	"State": "MN",
+	"latitude": 44.0396,
+	"longitude": -95.3193
+},
+{
+	"City": "Gary",
+	"State": "MN",
+	"latitude": 47.3725,
+	"longitude": -96.2656
+},
+{
+	"City": "Sobieski",
+	"State": "MN",
+	"latitude": 45.923,
+	"longitude": -94.482
+},
+{
+	"City": "Tenstrike",
+	"State": "MN",
+	"latitude": 47.6603,
+	"longitude": -94.6843
+},
+{
+	"City": "Peterson",
+	"State": "MN",
+	"latitude": 43.7868,
+	"longitude": -91.8333
+},
+{
+	"City": "Meire Grove",
+	"State": "MN",
+	"latitude": 45.6264,
+	"longitude": -94.8694
+},
+{
+	"City": "Okabena",
+	"State": "MN",
+	"latitude": 43.7391,
+	"longitude": -95.3165
+},
+{
+	"City": "Nelson",
+	"State": "MN",
+	"latitude": 45.8865,
+	"longitude": -95.2648
+},
+{
+	"City": "South Haven",
+	"State": "MN",
+	"latitude": 45.2927,
+	"longitude": -94.2174
+},
+{
+	"City": "Homer",
+	"State": "MN",
+	"latitude": 44.0084,
+	"longitude": -91.5601
+},
+{
+	"City": "Inger",
+	"State": "MN",
+	"latitude": 47.558,
+	"longitude": -93.9794
+},
+{
+	"City": "Leota",
+	"State": "MN",
+	"latitude": 43.8292,
+	"longitude": -96.0231
+},
+{
+	"City": "Forada",
+	"State": "MN",
+	"latitude": 45.7884,
+	"longitude": -95.3567
+},
+{
+	"City": "Watson",
+	"State": "MN",
+	"latitude": 45.0099,
+	"longitude": -95.8
+},
+{
+	"City": "Northome",
+	"State": "MN",
+	"latitude": 47.8748,
+	"longitude": -94.2675
+},
+{
+	"City": "Minnesota City",
+	"State": "MN",
+	"latitude": 44.0923,
+	"longitude": -91.75
+},
+{
+	"City": "Dent",
+	"State": "MN",
+	"latitude": 46.553,
+	"longitude": -95.719
+},
+{
+	"City": "Ogema",
+	"State": "MN",
+	"latitude": 47.1016,
+	"longitude": -95.9225
+},
+{
+	"City": "Easton",
+	"State": "MN",
+	"latitude": 43.7661,
+	"longitude": -93.9
+},
+{
+	"City": "Hardwick",
+	"State": "MN",
+	"latitude": 43.7742,
+	"longitude": -96.1975
+},
+{
+	"City": "Frost",
+	"State": "MN",
+	"latitude": 43.5846,
+	"longitude": -93.9248
+},
+{
+	"City": "Warba",
+	"State": "MN",
+	"latitude": 47.1366,
+	"longitude": -93.2657
+},
+{
+	"City": "Kennedy",
+	"State": "MN",
+	"latitude": 48.6429,
+	"longitude": -96.9106
+},
+{
+	"City": "Shelly",
+	"State": "MN",
+	"latitude": 47.4582,
+	"longitude": -96.8197
+},
+{
+	"City": "Finland",
+	"State": "MN",
+	"latitude": 47.435,
+	"longitude": -91.2683
+},
+{
+	"City": "Millville",
+	"State": "MN",
+	"latitude": 44.2447,
+	"longitude": -92.296
+},
+{
+	"City": "Shevlin",
+	"State": "MN",
+	"latitude": 47.5302,
+	"longitude": -95.2595
+},
+{
+	"City": "Lucan",
+	"State": "MN",
+	"latitude": 44.41,
+	"longitude": -95.4135
+},
+{
+	"City": "Mapleview",
+	"State": "MN",
+	"latitude": 43.6901,
+	"longitude": -92.974
+},
+{
+	"City": "Williams",
+	"State": "MN",
+	"latitude": 48.768,
+	"longitude": -94.9533
+},
+{
+	"City": "Bellechester",
+	"State": "MN",
+	"latitude": 44.371,
+	"longitude": -92.5113
+},
+{
+	"City": "Holland",
+	"State": "MN",
+	"latitude": 44.0896,
+	"longitude": -96.1944
+},
+{
+	"City": "Felton",
+	"State": "MN",
+	"latitude": 47.0749,
+	"longitude": -96.5058
+},
+{
+	"City": "Kettle River",
+	"State": "MN",
+	"latitude": 46.4862,
+	"longitude": -92.8776
+},
+{
+	"City": "Elizabeth",
+	"State": "MN",
+	"latitude": 46.3798,
+	"longitude": -96.1309
+},
+{
+	"City": "Beaver Bay",
+	"State": "MN",
+	"latitude": 47.2561,
+	"longitude": -91.3061
+},
+{
+	"City": "Porter",
+	"State": "MN",
+	"latitude": 44.642,
+	"longitude": -96.1693
+},
+{
+	"City": "Palisade",
+	"State": "MN",
+	"latitude": 46.7126,
+	"longitude": -93.4895
+},
+{
+	"City": "Winton",
+	"State": "MN",
+	"latitude": 47.9284,
+	"longitude": -91.8004
+},
+{
+	"City": "Delavan",
+	"State": "MN",
+	"latitude": 43.7677,
+	"longitude": -94.0174
+},
+{
+	"City": "Steen",
+	"State": "MN",
+	"latitude": 43.5143,
+	"longitude": -96.2631
+},
+{
+	"City": "Ball Club",
+	"State": "MN",
+	"latitude": 47.3311,
+	"longitude": -93.946
+},
+{
+	"City": "Wendell",
+	"State": "MN",
+	"latitude": 46.0359,
+	"longitude": -96.1008
+},
+{
+	"City": "Kingston",
+	"State": "MN",
+	"latitude": 45.1959,
+	"longitude": -94.3109
+},
+{
+	"City": "Blomkest",
+	"State": "MN",
+	"latitude": 44.9428,
+	"longitude": -95.0235
+},
+{
+	"City": "Boyd",
+	"State": "MN",
+	"latitude": 44.8512,
+	"longitude": -95.9008
+},
+{
+	"City": "Clontarf",
+	"State": "MN",
+	"latitude": 45.377,
+	"longitude": -95.677
+},
+{
+	"City": "Elba",
+	"State": "MN",
+	"latitude": 44.0864,
+	"longitude": -92.0181
+},
+{
+	"City": "Coates",
+	"State": "MN",
+	"latitude": 44.716,
+	"longitude": -93.0323
+},
+{
+	"City": "Grasston",
+	"State": "MN",
+	"latitude": 45.7957,
+	"longitude": -93.1524
+},
+{
+	"City": "Campbell",
+	"State": "MN",
+	"latitude": 46.0975,
+	"longitude": -96.4055
+},
+{
+	"City": "Waltham",
+	"State": "MN",
+	"latitude": 43.8193,
+	"longitude": -92.8746
+},
+{
+	"City": "Longville",
+	"State": "MN",
+	"latitude": 46.9877,
+	"longitude": -94.212
+},
+{
+	"City": "Bellingham",
+	"State": "MN",
+	"latitude": 45.1366,
+	"longitude": -96.2841
+},
+{
+	"City": "Elkton",
+	"State": "MN",
+	"latitude": 43.6602,
+	"longitude": -92.7065
+},
+{
+	"City": "Mentor",
+	"State": "MN",
+	"latitude": 47.6966,
+	"longitude": -96.144
+},
+{
+	"City": "Dunnell",
+	"State": "MN",
+	"latitude": 43.5604,
+	"longitude": -94.7751
+},
+{
+	"City": "Erhard",
+	"State": "MN",
+	"latitude": 46.4836,
+	"longitude": -96.0965
+},
+{
+	"City": "Kilkenny",
+	"State": "MN",
+	"latitude": 44.3151,
+	"longitude": -93.5742
+},
+{
+	"City": "Conger",
+	"State": "MN",
+	"latitude": 43.6153,
+	"longitude": -93.5282
+},
+{
+	"City": "Kinney",
+	"State": "MN",
+	"latitude": 47.5167,
+	"longitude": -92.7227
+},
+{
+	"City": "Brookston",
+	"State": "MN",
+	"latitude": 46.8654,
+	"longitude": -92.6027
+},
+{
+	"City": "Marietta",
+	"State": "MN",
+	"latitude": 45.0105,
+	"longitude": -96.419
+},
+{
+	"City": "Clements",
+	"State": "MN",
+	"latitude": 44.3801,
+	"longitude": -95.0548
+},
+{
+	"City": "Roosevelt",
+	"State": "MN",
+	"latitude": 48.807,
+	"longitude": -95.101
+},
+{
+	"City": "Brooks",
+	"State": "MN",
+	"latitude": 47.8165,
+	"longitude": -96.0036
+},
+{
+	"City": "Burtrum",
+	"State": "MN",
+	"latitude": 45.8658,
+	"longitude": -94.6874
+},
+{
+	"City": "Avoca",
+	"State": "MN",
+	"latitude": 43.949,
+	"longitude": -95.6465
+},
+{
+	"City": "Hammond",
+	"State": "MN",
+	"latitude": 44.2221,
+	"longitude": -92.3738
+},
+{
+	"City": "Taunton",
+	"State": "MN",
+	"latitude": 44.5942,
+	"longitude": -96.063
+},
+{
+	"City": "Brook Park",
+	"State": "MN",
+	"latitude": 45.9484,
+	"longitude": -93.0728
+},
+{
+	"City": "Lansing",
+	"State": "MN",
+	"latitude": 43.7477,
+	"longitude": -92.9656
+},
+{
+	"City": "Garvin",
+	"State": "MN",
+	"latitude": 44.2142,
+	"longitude": -95.7607
+},
+{
+	"City": "Odessa",
+	"State": "MN",
+	"latitude": 45.2622,
+	"longitude": -96.3335
+},
+{
+	"City": "Iona",
+	"State": "MN",
+	"latitude": 43.9149,
+	"longitude": -95.7857
+},
+{
+	"City": "Wolverton",
+	"State": "MN",
+	"latitude": 46.563,
+	"longitude": -96.7363
+},
+{
+	"City": "Goodridge",
+	"State": "MN",
+	"latitude": 48.1442,
+	"longitude": -95.8039
+},
+{
+	"City": "Quamba",
+	"State": "MN",
+	"latitude": 45.9155,
+	"longitude": -93.1753
+},
+{
+	"City": "Meadowlands",
+	"State": "MN",
+	"latitude": 47.0731,
+	"longitude": -92.7311
+},
+{
+	"City": "Wright",
+	"State": "MN",
+	"latitude": 46.6725,
+	"longitude": -93.0069
+},
+{
+	"City": "Georgetown",
+	"State": "MN",
+	"latitude": 47.0784,
+	"longitude": -96.7959
+},
+{
+	"City": "Bingham Lake",
+	"State": "MN",
+	"latitude": 43.9096,
+	"longitude": -95.0461
+},
+{
+	"City": "Heidelberg",
+	"State": "MN",
+	"latitude": 44.4932,
+	"longitude": -93.6264
+},
+{
+	"City": "West Union",
+	"State": "MN",
+	"latitude": 45.7965,
+	"longitude": -95.0925
+},
+{
+	"City": "McKinley",
+	"State": "MN",
+	"latitude": 47.509,
+	"longitude": -92.4057
+},
+{
+	"City": "Harding",
+	"State": "MN",
+	"latitude": 46.1191,
+	"longitude": -94.0368
+},
+{
+	"City": "Bena",
+	"State": "MN",
+	"latitude": 47.3404,
+	"longitude": -94.206
+},
+{
+	"City": "De Graff",
+	"State": "MN",
+	"latitude": 45.2599,
+	"longitude": -95.4683
+},
+{
+	"City": "Miesville",
+	"State": "MN",
+	"latitude": 44.599,
+	"longitude": -92.8196
+},
+{
+	"City": "Ormsby",
+	"State": "MN",
+	"latitude": 43.8503,
+	"longitude": -94.6986
+},
+{
+	"City": "Alpha",
+	"State": "MN",
+	"latitude": 43.6381,
+	"longitude": -94.871
+},
+{
+	"City": "Woodstock",
+	"State": "MN",
+	"latitude": 44.011,
+	"longitude": -96.0967
+},
+{
+	"City": "Effie",
+	"State": "MN",
+	"latitude": 47.8411,
+	"longitude": -93.6377
+},
+{
+	"City": "Elmdale",
+	"State": "MN",
+	"latitude": 45.834,
+	"longitude": -94.4942
+},
+{
+	"City": "Laporte",
+	"State": "MN",
+	"latitude": 47.2147,
+	"longitude": -94.7573
+},
+{
+	"City": "Roscoe",
+	"State": "MN",
+	"latitude": 45.4323,
+	"longitude": -94.6364
+},
+{
+	"City": "Riverton",
+	"State": "MN",
+	"latitude": 46.4584,
+	"longitude": -94.0488
+},
+{
+	"City": "Foxhome",
+	"State": "MN",
+	"latitude": 46.2769,
+	"longitude": -96.3122
+},
+{
+	"City": "Lake Henry",
+	"State": "MN",
+	"latitude": 45.4619,
+	"longitude": -94.7965
+},
+{
+	"City": "Chickamaw Beach",
+	"State": "MN",
+	"latitude": 46.7452,
+	"longitude": -94.3844
+},
+{
+	"City": "Federal Dam",
+	"State": "MN",
+	"latitude": 47.2407,
+	"longitude": -94.2192
+},
+{
+	"City": "Biscay",
+	"State": "MN",
+	"latitude": 44.8261,
+	"longitude": -94.274
+},
+{
+	"City": "Minneiska",
+	"State": "MN",
+	"latitude": 44.1975,
+	"longitude": -91.8763
+},
+{
+	"City": "Comstock",
+	"State": "MN",
+	"latitude": 46.6596,
+	"longitude": -96.7466
+},
+{
+	"City": "Bock",
+	"State": "MN",
+	"latitude": 45.7845,
+	"longitude": -93.5528
+},
+{
+	"City": "Squaw Lake",
+	"State": "MN",
+	"latitude": 47.6275,
+	"longitude": -94.1381
+},
+{
+	"City": "New Trier",
+	"State": "MN",
+	"latitude": 44.604,
+	"longitude": -92.9328
+},
+{
+	"City": "Clitherall",
+	"State": "MN",
+	"latitude": 46.2745,
+	"longitude": -95.6309
+},
+{
+	"City": "Odin",
+	"State": "MN",
+	"latitude": 43.8672,
+	"longitude": -94.7427
+},
+{
+	"City": "Millerville",
+	"State": "MN",
+	"latitude": 46.0691,
+	"longitude": -95.5571
+},
+{
+	"City": "Fish Lake",
+	"State": "MN",
+	"latitude": 43.8404,
+	"longitude": -95.0477
+},
+{
+	"City": "Borup",
+	"State": "MN",
+	"latitude": 47.1803,
+	"longitude": -96.5058
+},
+{
+	"City": "Darfur",
+	"State": "MN",
+	"latitude": 44.0535,
+	"longitude": -94.8378
+},
+{
+	"City": "Viking",
+	"State": "MN",
+	"latitude": 48.2182,
+	"longitude": -96.4068
+},
+{
+	"City": "Beltrami",
+	"State": "MN",
+	"latitude": 47.5425,
+	"longitude": -96.527
+},
+{
+	"City": "Trommald",
+	"State": "MN",
+	"latitude": 46.5058,
+	"longitude": -94.0154
+},
+{
+	"City": "Alberta",
+	"State": "MN",
+	"latitude": 45.5749,
+	"longitude": -96.0505
+},
+{
+	"City": "Bruno",
+	"State": "MN",
+	"latitude": 46.281,
+	"longitude": -92.668
+},
+{
+	"City": "Sunburg",
+	"State": "MN",
+	"latitude": 45.3476,
+	"longitude": -95.24
+},
+{
+	"City": "Lastrup",
+	"State": "MN",
+	"latitude": 46.0398,
+	"longitude": -94.0621
+},
+{
+	"City": "Richville",
+	"State": "MN",
+	"latitude": 46.5061,
+	"longitude": -95.6262
+},
+{
+	"City": "Solway",
+	"State": "MN",
+	"latitude": 47.521,
+	"longitude": -95.1303
+},
+{
+	"City": "Whipholt",
+	"State": "MN",
+	"latitude": 47.0436,
+	"longitude": -94.386
+},
+{
+	"City": "Tamarack",
+	"State": "MN",
+	"latitude": 46.6529,
+	"longitude": -93.125
+},
+{
+	"City": "Spring Hill",
+	"State": "MN",
+	"latitude": 45.5232,
+	"longitude": -94.8317
+},
+{
+	"City": "St. Leo",
+	"State": "MN",
+	"latitude": 44.7173,
+	"longitude": -96.0526
+},
+{
+	"City": "Bejou",
+	"State": "MN",
+	"latitude": 47.4429,
+	"longitude": -95.9727
+},
+{
+	"City": "Zemple",
+	"State": "MN",
+	"latitude": 47.3207,
+	"longitude": -93.7859
+},
+{
+	"City": "Danvers",
+	"State": "MN",
+	"latitude": 45.2814,
+	"longitude": -95.7559
+},
+{
+	"City": "Dumont",
+	"State": "MN",
+	"latitude": 45.7174,
+	"longitude": -96.4231
+},
+{
+	"City": "Revere",
+	"State": "MN",
+	"latitude": 44.2215,
+	"longitude": -95.3611
+},
+{
+	"City": "Holt",
+	"State": "MN",
+	"latitude": 48.2929,
+	"longitude": -96.1945
+},
+{
+	"City": "Lengby",
+	"State": "MN",
+	"latitude": 47.5155,
+	"longitude": -95.6346
+},
+{
+	"City": "Iron Junction",
+	"State": "MN",
+	"latitude": 47.4189,
+	"longitude": -92.6087
+},
+{
+	"City": "Holloway",
+	"State": "MN",
+	"latitude": 45.2441,
+	"longitude": -95.9112
+},
+{
+	"City": "La Salle",
+	"State": "MN",
+	"latitude": 44.0711,
+	"longitude": -94.5713
+},
+{
+	"City": "Evan",
+	"State": "MN",
+	"latitude": 44.3549,
+	"longitude": -94.8361
+},
+{
+	"City": "Ebro",
+	"State": "MN",
+	"latitude": 47.4942,
+	"longitude": -95.5411
+},
+{
+	"City": "Perley",
+	"State": "MN",
+	"latitude": 47.1761,
+	"longitude": -96.8015
+},
+{
+	"City": "Seaforth",
+	"State": "MN",
+	"latitude": 44.4761,
+	"longitude": -95.331
+},
+{
+	"City": "Nielsville",
+	"State": "MN",
+	"latitude": 47.5288,
+	"longitude": -96.8161
+},
+{
+	"City": "Turtle River",
+	"State": "MN",
+	"latitude": 47.5882,
+	"longitude": -94.7581
+},
+{
+	"City": "Wanda",
+	"State": "MN",
+	"latitude": 44.3148,
+	"longitude": -95.2131
+},
+{
+	"City": "Trosky",
+	"State": "MN",
+	"latitude": 43.8884,
+	"longitude": -96.2509
+},
+{
+	"City": "Vining",
+	"State": "MN",
+	"latitude": 46.2619,
+	"longitude": -95.535
+},
+{
+	"City": "Kent",
+	"State": "MN",
+	"latitude": 46.4376,
+	"longitude": -96.6834
+},
+{
+	"City": "McGrath",
+	"State": "MN",
+	"latitude": 46.2421,
+	"longitude": -93.2751
+},
+{
+	"City": "Merrifield",
+	"State": "MN",
+	"latitude": 46.4673,
+	"longitude": -94.1746
+},
+{
+	"City": "St. Rosa",
+	"State": "MN",
+	"latitude": 45.7286,
+	"longitude": -94.7162
+},
+{
+	"City": "Norcross",
+	"State": "MN",
+	"latitude": 45.8687,
+	"longitude": -96.1964
+},
+{
+	"City": "Henriette",
+	"State": "MN",
+	"latitude": 45.8711,
+	"longitude": -93.12
+},
+{
+	"City": "Arco",
+	"State": "MN",
+	"latitude": 44.3814,
+	"longitude": -96.1812
+},
+{
+	"City": "Strandquist",
+	"State": "MN",
+	"latitude": 48.4894,
+	"longitude": -96.4479
+},
+{
+	"City": "Stanchfield",
+	"State": "MN",
+	"latitude": 45.6649,
+	"longitude": -93.1815
+},
+{
+	"City": "Genola",
+	"State": "MN",
+	"latitude": 45.9653,
+	"longitude": -94.1129
+},
+{
+	"City": "Walters",
+	"State": "MN",
+	"latitude": 43.6049,
+	"longitude": -93.6743
+},
+{
+	"City": "Dundee",
+	"State": "MN",
+	"latitude": 43.844,
+	"longitude": -95.4666
+},
+{
+	"City": "Fort Ripley",
+	"State": "MN",
+	"latitude": 46.169,
+	"longitude": -94.363
+},
+{
+	"City": "Nassau",
+	"State": "MN",
+	"latitude": 45.0677,
+	"longitude": -96.4417
+},
+{
+	"City": "Manhattan Beach",
+	"State": "MN",
+	"latitude": 46.737,
+	"longitude": -94.1396
+},
+{
+	"City": "Kenneth",
+	"State": "MN",
+	"latitude": 43.7543,
+	"longitude": -96.0725
+},
+{
+	"City": "Gully",
+	"State": "MN",
+	"latitude": 47.7684,
+	"longitude": -95.6229
+},
+{
+	"City": "Whalan",
+	"State": "MN",
+	"latitude": 43.7341,
+	"longitude": -91.9238
+},
+{
+	"City": "Ihlen",
+	"State": "MN",
+	"latitude": 43.9122,
+	"longitude": -96.3709
+},
+{
+	"City": "Taopi",
+	"State": "MN",
+	"latitude": 43.5575,
+	"longitude": -92.6404
+},
+{
+	"City": "Delhi",
+	"State": "MN",
+	"latitude": 44.5979,
+	"longitude": -95.2134
+},
+{
+	"City": "Nimrod",
+	"State": "MN",
+	"latitude": 46.6375,
+	"longitude": -94.8805
+},
+{
+	"City": "Nashua",
+	"State": "MN",
+	"latitude": 46.0377,
+	"longitude": -96.3059
+},
+{
+	"City": "Kerrick",
+	"State": "MN",
+	"latitude": 46.3386,
+	"longitude": -92.5843
+},
+{
+	"City": "St. Vincent",
+	"State": "MN",
+	"latitude": 48.9693,
+	"longitude": -97.2264
+},
+{
+	"City": "Westport",
+	"State": "MN",
+	"latitude": 45.7146,
+	"longitude": -95.168
+},
+{
+	"City": "Halma",
+	"State": "MN",
+	"latitude": 48.66,
+	"longitude": -96.5972
+},
+{
+	"City": "Sargeant",
+	"State": "MN",
+	"latitude": 43.8057,
+	"longitude": -92.8006
+},
+{
+	"City": "Wilder",
+	"State": "MN",
+	"latitude": 43.828,
+	"longitude": -95.2058
+},
+{
+	"City": "Hadley",
+	"State": "MN",
+	"latitude": 43.9987,
+	"longitude": -95.8575
+},
+{
+	"City": "Pine Bend",
+	"State": "MN",
+	"latitude": 47.4222,
+	"longitude": -95.5979
+},
+{
+	"City": "Wolf Lake",
+	"State": "MN",
+	"latitude": 46.8066,
+	"longitude": -95.3526
+},
+{
+	"City": "Hazel Run",
+	"State": "MN",
+	"latitude": 44.7484,
+	"longitude": -95.7165
+},
+{
+	"City": "Tintah",
+	"State": "MN",
+	"latitude": 46.0109,
+	"longitude": -96.3201
+},
+{
+	"City": "Manchester",
+	"State": "MN",
+	"latitude": 43.7256,
+	"longitude": -93.451
+},
+{
+	"City": "Leonidas",
+	"State": "MN",
+	"latitude": 47.4681,
+	"longitude": -92.5679
+},
+{
+	"City": "Hatfield",
+	"State": "MN",
+	"latitude": 43.9546,
+	"longitude": -96.1905
+},
+{
+	"City": "Mizpah",
+	"State": "MN",
+	"latitude": 47.9209,
+	"longitude": -94.2132
+},
+{
+	"City": "Farwell",
+	"State": "MN",
+	"latitude": 45.7524,
+	"longitude": -95.6189
+},
+{
+	"City": "Urbank",
+	"State": "MN",
+	"latitude": 46.1242,
+	"longitude": -95.5104
+},
+{
+	"City": "Boy River",
+	"State": "MN",
+	"latitude": 47.1669,
+	"longitude": -94.1233
+},
+{
+	"City": "Dovray",
+	"State": "MN",
+	"latitude": 44.0545,
+	"longitude": -95.5477
+},
+{
+	"City": "Doran",
+	"State": "MN",
+	"latitude": 46.1852,
+	"longitude": -96.4858
+},
+{
+	"City": "South End",
+	"State": "MN",
+	"latitude": 47.3231,
+	"longitude": -95.4788
+},
+{
+	"City": "Sedan",
+	"State": "MN",
+	"latitude": 45.5782,
+	"longitude": -95.2451
+},
+{
+	"City": "Trail",
+	"State": "MN",
+	"latitude": 47.7833,
+	"longitude": -95.6981
+},
+{
+	"City": "Cedar Mills",
+	"State": "MN",
+	"latitude": 44.9431,
+	"longitude": -94.5196
+},
+{
+	"City": "Myrtle",
+	"State": "MN",
+	"latitude": 43.5632,
+	"longitude": -93.163
+},
+{
+	"City": "Aldrich",
+	"State": "MN",
+	"latitude": 46.3747,
+	"longitude": -94.9394
+},
+{
+	"City": "Louisburg",
+	"State": "MN",
+	"latitude": 45.1645,
+	"longitude": -96.1711
+},
+{
+	"City": "Leonard",
+	"State": "MN",
+	"latitude": 47.6513,
+	"longitude": -95.2671
+},
+{
+	"City": "Strathcona",
+	"State": "MN",
+	"latitude": 48.5537,
+	"longitude": -96.1671
+},
+{
+	"City": "West Roy Lake",
+	"State": "MN",
+	"latitude": 47.3116,
+	"longitude": -95.5954
+},
+{
+	"City": "Humboldt",
+	"State": "MN",
+	"latitude": 48.9215,
+	"longitude": -97.0946
+},
+{
+	"City": "Donaldson",
+	"State": "MN",
+	"latitude": 48.5749,
+	"longitude": -96.899
+},
+{
+	"City": "Ronneby",
+	"State": "MN",
+	"latitude": 45.6853,
+	"longitude": -93.8601
+},
+{
+	"City": "Midway",
+	"State": "MN",
+	"latitude": 47.317,
+	"longitude": -95.7838
+},
+{
+	"City": "Hillman",
+	"State": "MN",
+	"latitude": 46.0063,
+	"longitude": -93.8887
+},
+{
+	"City": "Baker",
+	"State": "MN",
+	"latitude": 46.7105,
+	"longitude": -96.5579
+},
+{
+	"City": "Florence",
+	"State": "MN",
+	"latitude": 44.2372,
+	"longitude": -96.0517
+},
+{
+	"City": "Regal",
+	"State": "MN",
+	"latitude": 45.4054,
+	"longitude": -94.8397
+},
+{
+	"City": "Cobden",
+	"State": "MN",
+	"latitude": 44.2825,
+	"longitude": -94.8466
+},
+{
+	"City": "Denham",
+	"State": "MN",
+	"latitude": 46.3617,
+	"longitude": -92.9415
+},
+{
+	"City": "Beaulieu",
+	"State": "MN",
+	"latitude": 47.3389,
+	"longitude": -95.8054
+},
+{
+	"City": "Correll",
+	"State": "MN",
+	"latitude": 45.232,
+	"longitude": -96.1627
+},
+{
+	"City": "Johnson",
+	"State": "MN",
+	"latitude": 45.5722,
+	"longitude": -96.294
+},
+{
+	"City": "Roy Lake",
+	"State": "MN",
+	"latitude": 47.3176,
+	"longitude": -95.5428
+},
+{
+	"City": "Barry",
+	"State": "MN",
+	"latitude": 45.5582,
+	"longitude": -96.5604
+},
+{
+	"City": "Kinbrae",
+	"State": "MN",
+	"latitude": 43.8265,
+	"longitude": -95.4823
+},
+{
+	"City": "Funkley",
+	"State": "MN",
+	"latitude": 47.7869,
+	"longitude": -94.4267
+},
+{
+	"City": "The Ranch",
+	"State": "MN",
+	"latitude": 47.3198,
+	"longitude": -95.6952
+}]

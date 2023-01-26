@@ -1,0 +1,661 @@
+[
+{
+	"City": "Bridgeport",
+	"State": "CT",
+	"latitude": 41.1918,
+	"longitude": -73.1953
+},
+{
+	"City": "Hartford",
+	"State": "CT",
+	"latitude": 41.7661,
+	"longitude": -72.6834
+},
+{
+	"City": "New Haven",
+	"State": "CT",
+	"latitude": 41.3112,
+	"longitude": -72.9246
+},
+{
+	"City": "Norwich",
+	"State": "CT",
+	"latitude": 41.5495,
+	"longitude": -72.0882
+},
+{
+	"City": "Waterbury",
+	"State": "CT",
+	"latitude": 41.5583,
+	"longitude": -73.0361
+},
+{
+	"City": "Danbury",
+	"State": "CT",
+	"latitude": 41.4016,
+	"longitude": -73.471
+},
+{
+	"City": "Stamford",
+	"State": "CT",
+	"latitude": 41.1035,
+	"longitude": -73.5583
+},
+{
+	"City": "Norwalk",
+	"State": "CT",
+	"latitude": 41.1144,
+	"longitude": -73.4215
+},
+{
+	"City": "New Britain",
+	"State": "CT",
+	"latitude": 41.6758,
+	"longitude": -72.7862
+},
+{
+	"City": "Bristol",
+	"State": "CT",
+	"latitude": 41.6812,
+	"longitude": -72.9407
+},
+{
+	"City": "Meriden",
+	"State": "CT",
+	"latitude": 41.5367,
+	"longitude": -72.7944
+},
+{
+	"City": "West Haven",
+	"State": "CT",
+	"latitude": 41.2739,
+	"longitude": -72.9672
+},
+{
+	"City": "Milford",
+	"State": "CT",
+	"latitude": 41.2256,
+	"longitude": -73.0616
+},
+{
+	"City": "Milford city ",
+	"State": "CT",
+	"latitude": 41.2256,
+	"longitude": -73.0625
+},
+{
+	"City": "Middletown",
+	"State": "CT",
+	"latitude": 41.5476,
+	"longitude": -72.6549
+},
+{
+	"City": "Shelton",
+	"State": "CT",
+	"latitude": 41.306,
+	"longitude": -73.1383
+},
+{
+	"City": "Torrington",
+	"State": "CT",
+	"latitude": 41.8349,
+	"longitude": -73.1281
+},
+{
+	"City": "Naugatuck",
+	"State": "CT",
+	"latitude": 41.489,
+	"longitude": -73.0518
+},
+{
+	"City": "New London",
+	"State": "CT",
+	"latitude": 41.3502,
+	"longitude": -72.1023
+},
+{
+	"City": "Ansonia",
+	"State": "CT",
+	"latitude": 41.3443,
+	"longitude": -73.0689
+},
+{
+	"City": "Wallingford Center",
+	"State": "CT",
+	"latitude": 41.4499,
+	"longitude": -72.8189
+},
+{
+	"City": "Willimantic",
+	"State": "CT",
+	"latitude": 41.7153,
+	"longitude": -72.2173
+},
+{
+	"City": "Storrs",
+	"State": "CT",
+	"latitude": 41.8045,
+	"longitude": -72.2552
+},
+{
+	"City": "Derby",
+	"State": "CT",
+	"latitude": 41.3265,
+	"longitude": -73.0833
+},
+{
+	"City": "Conning Towers Nautilus Park",
+	"State": "CT",
+	"latitude": 41.3855,
+	"longitude": -72.0686
+},
+{
+	"City": "Jewett City",
+	"State": "CT",
+	"latitude": 41.607,
+	"longitude": -71.9807
+},
+{
+	"City": "Oakville",
+	"State": "CT",
+	"latitude": 41.5923,
+	"longitude": -73.0858
+},
+{
+	"City": "Thompsonville",
+	"State": "CT",
+	"latitude": 41.9916,
+	"longitude": -72.5965
+},
+{
+	"City": "Riverside",
+	"State": "CT",
+	"latitude": 41.0319,
+	"longitude": -73.5827
+},
+{
+	"City": "Kensington",
+	"State": "CT",
+	"latitude": 41.6298,
+	"longitude": -72.7714
+},
+{
+	"City": "Glastonbury Center",
+	"State": "CT",
+	"latitude": 41.7019,
+	"longitude": -72.6001
+},
+{
+	"City": "Southwood Acres",
+	"State": "CT",
+	"latitude": 41.961,
+	"longitude": -72.5719
+},
+{
+	"City": "Winsted",
+	"State": "CT",
+	"latitude": 41.9268,
+	"longitude": -73.0675
+},
+{
+	"City": "Rockville",
+	"State": "CT",
+	"latitude": 41.8667,
+	"longitude": -72.4528
+},
+{
+	"City": "Cos Cob",
+	"State": "CT",
+	"latitude": 41.0513,
+	"longitude": -73.5931
+},
+{
+	"City": "Old Greenwich",
+	"State": "CT",
+	"latitude": 41.0253,
+	"longitude": -73.5691
+},
+{
+	"City": "Branford Center",
+	"State": "CT",
+	"latitude": 41.2779,
+	"longitude": -72.8148
+},
+{
+	"City": "Simsbury Center",
+	"State": "CT",
+	"latitude": 41.8808,
+	"longitude": -72.8111
+},
+{
+	"City": "Cheshire Village",
+	"State": "CT",
+	"latitude": 41.5026,
+	"longitude": -72.8993
+},
+{
+	"City": "Sherwood Manor",
+	"State": "CT",
+	"latitude": 42.0125,
+	"longitude": -72.566
+},
+{
+	"City": "Pawcatuck",
+	"State": "CT",
+	"latitude": 41.3774,
+	"longitude": -71.8492
+},
+{
+	"City": "Terryville",
+	"State": "CT",
+	"latitude": 41.6784,
+	"longitude": -73.0064
+},
+{
+	"City": "Stafford Springs",
+	"State": "CT",
+	"latitude": 41.9595,
+	"longitude": -72.3105
+},
+{
+	"City": "Broad Brook",
+	"State": "CT",
+	"latitude": 41.9097,
+	"longitude": -72.5426
+},
+{
+	"City": "Hazardville",
+	"State": "CT",
+	"latitude": 41.9899,
+	"longitude": -72.5256
+},
+{
+	"City": "Byram",
+	"State": "CT",
+	"latitude": 41.0011,
+	"longitude": -73.6528
+},
+{
+	"City": "Long Hill",
+	"State": "CT",
+	"latitude": 41.3536,
+	"longitude": -72.0517
+},
+{
+	"City": "Mystic",
+	"State": "CT",
+	"latitude": 41.3573,
+	"longitude": -71.9548
+},
+{
+	"City": "Moosup",
+	"State": "CT",
+	"latitude": 41.717,
+	"longitude": -71.875
+},
+{
+	"City": "Heritage Village",
+	"State": "CT",
+	"latitude": 41.4845,
+	"longitude": -73.2351
+},
+{
+	"City": "Pemberwick",
+	"State": "CT",
+	"latitude": 41.0224,
+	"longitude": -73.6564
+},
+{
+	"City": "Danielson",
+	"State": "CT",
+	"latitude": 41.8086,
+	"longitude": -71.8854
+},
+{
+	"City": "Old Mystic",
+	"State": "CT",
+	"latitude": 41.3854,
+	"longitude": -71.985
+},
+{
+	"City": "Collinsville",
+	"State": "CT",
+	"latitude": 41.819,
+	"longitude": -72.922
+},
+{
+	"City": "Lake Pocotopaug",
+	"State": "CT",
+	"latitude": 41.5961,
+	"longitude": -72.5124
+},
+{
+	"City": "Northwest Harwinton",
+	"State": "CT",
+	"latitude": 41.7769,
+	"longitude": -73.0794
+},
+{
+	"City": "Niantic",
+	"State": "CT",
+	"latitude": 41.3265,
+	"longitude": -72.1949
+},
+{
+	"City": "Blue Hills",
+	"State": "CT",
+	"latitude": 41.8134,
+	"longitude": -72.6954
+},
+{
+	"City": "Oxoboxo River",
+	"State": "CT",
+	"latitude": 41.4441,
+	"longitude": -72.125
+},
+{
+	"City": "West Simsbury",
+	"State": "CT",
+	"latitude": 41.8747,
+	"longitude": -72.8448
+},
+{
+	"City": "Weatogue",
+	"State": "CT",
+	"latitude": 41.8459,
+	"longitude": -72.8294
+},
+{
+	"City": "Guilford Center",
+	"State": "CT",
+	"latitude": 41.2818,
+	"longitude": -72.6763
+},
+{
+	"City": "Glenville",
+	"State": "CT",
+	"latitude": 41.0349,
+	"longitude": -73.6656
+},
+{
+	"City": "Coventry Lake",
+	"State": "CT",
+	"latitude": 41.7736,
+	"longitude": -72.3287
+},
+{
+	"City": "Essex Village",
+	"State": "CT",
+	"latitude": 41.3552,
+	"longitude": -72.391
+},
+{
+	"City": "Deep River Center",
+	"State": "CT",
+	"latitude": 41.3823,
+	"longitude": -72.4386
+},
+{
+	"City": "Old Saybrook Center",
+	"State": "CT",
+	"latitude": 41.2918,
+	"longitude": -72.3682
+},
+{
+	"City": "Salmon Brook",
+	"State": "CT",
+	"latitude": 41.9567,
+	"longitude": -72.7931
+},
+{
+	"City": "Westbrook Center",
+	"State": "CT",
+	"latitude": 41.2811,
+	"longitude": -72.4424
+},
+{
+	"City": "Madison Center",
+	"State": "CT",
+	"latitude": 41.2794,
+	"longitude": -72.6003
+},
+{
+	"City": "Crystal Lake",
+	"State": "CT",
+	"latitude": 41.9343,
+	"longitude": -72.3756
+},
+{
+	"City": "Poquonock Bridge",
+	"State": "CT",
+	"latitude": 41.3379,
+	"longitude": -72.0175
+},
+{
+	"City": "Bethlehem Village",
+	"State": "CT",
+	"latitude": 41.6401,
+	"longitude": -73.2031
+},
+{
+	"City": "Plainfield Village",
+	"State": "CT",
+	"latitude": 41.6766,
+	"longitude": -71.925
+},
+{
+	"City": "Plantsville",
+	"State": "CT",
+	"latitude": 41.5832,
+	"longitude": -72.8915
+},
+{
+	"City": "Southport",
+	"State": "CT",
+	"latitude": 41.135,
+	"longitude": -73.2874
+},
+{
+	"City": "Canton Valley",
+	"State": "CT",
+	"latitude": 41.8316,
+	"longitude": -72.8978
+},
+{
+	"City": "Georgetown",
+	"State": "CT",
+	"latitude": 41.2494,
+	"longitude": -73.4343
+},
+{
+	"City": "Chester Center",
+	"State": "CT",
+	"latitude": 41.4014,
+	"longitude": -72.4523
+},
+{
+	"City": "Woodmont",
+	"State": "CT",
+	"latitude": 41.2282,
+	"longitude": -72.993
+},
+{
+	"City": "Tariffville",
+	"State": "CT",
+	"latitude": 41.9076,
+	"longitude": -72.7682
+},
+{
+	"City": "East Brooklyn",
+	"State": "CT",
+	"latitude": 41.7948,
+	"longitude": -71.8992
+},
+{
+	"City": "North Granby",
+	"State": "CT",
+	"latitude": 42.0152,
+	"longitude": -72.844
+},
+{
+	"City": "Quinebaug",
+	"State": "CT",
+	"latitude": 42.0107,
+	"longitude": -71.937
+},
+{
+	"City": "South Windham",
+	"State": "CT",
+	"latitude": 41.685,
+	"longitude": -72.1845
+},
+{
+	"City": "Wauregan",
+	"State": "CT",
+	"latitude": 41.75,
+	"longitude": -71.9091
+},
+{
+	"City": "Noank",
+	"State": "CT",
+	"latitude": 41.334,
+	"longitude": -71.9978
+},
+{
+	"City": "South Woodstock",
+	"State": "CT",
+	"latitude": 41.9275,
+	"longitude": -71.9627
+},
+{
+	"City": "Moodus",
+	"State": "CT",
+	"latitude": 41.5043,
+	"longitude": -72.449
+},
+{
+	"City": "Higganum",
+	"State": "CT",
+	"latitude": 41.49,
+	"longitude": -72.5562
+},
+{
+	"City": "Baltic",
+	"State": "CT",
+	"latitude": 41.614,
+	"longitude": -72.0866
+},
+{
+	"City": "Suffield Depot",
+	"State": "CT",
+	"latitude": 41.983,
+	"longitude": -72.6463
+},
+{
+	"City": "South Coventry",
+	"State": "CT",
+	"latitude": 41.7695,
+	"longitude": -72.3064
+},
+{
+	"City": "Woodbury Center",
+	"State": "CT",
+	"latitude": 41.5445,
+	"longitude": -73.2047
+},
+{
+	"City": "North Grosvenor Dale",
+	"State": "CT",
+	"latitude": 41.9862,
+	"longitude": -71.9034
+},
+{
+	"City": "Canaan",
+	"State": "CT",
+	"latitude": 42.0347,
+	"longitude": -73.3323
+},
+{
+	"City": "New Hartford Center",
+	"State": "CT",
+	"latitude": 41.8802,
+	"longitude": -72.9753
+},
+{
+	"City": "Lakeville",
+	"State": "CT",
+	"latitude": 41.9594,
+	"longitude": -73.4467
+},
+{
+	"City": "Terramuggus",
+	"State": "CT",
+	"latitude": 41.6342,
+	"longitude": -72.4692
+},
+{
+	"City": "Mansfield Center",
+	"State": "CT",
+	"latitude": 41.7618,
+	"longitude": -72.1944
+},
+{
+	"City": "Saybrook Manor",
+	"State": "CT",
+	"latitude": 41.2825,
+	"longitude": -72.4063
+},
+{
+	"City": "Gales Ferry",
+	"State": "CT",
+	"latitude": 41.4212,
+	"longitude": -72.0859
+},
+{
+	"City": "New Preston",
+	"State": "CT",
+	"latitude": 41.6813,
+	"longitude": -73.3523
+},
+{
+	"City": "Wilton Center",
+	"State": "CT",
+	"latitude": 41.188,
+	"longitude": -73.4298
+},
+{
+	"City": "Bantam",
+	"State": "CT",
+	"latitude": 41.7247,
+	"longitude": -73.2422
+},
+{
+	"City": "Groton Long Point",
+	"State": "CT",
+	"latitude": 41.3145,
+	"longitude": -72.0087
+},
+{
+	"City": "Falls Village",
+	"State": "CT",
+	"latitude": 41.9576,
+	"longitude": -73.3562
+},
+{
+	"City": "Mashantucket",
+	"State": "CT",
+	"latitude": 41.4645,
+	"longitude": -71.9746
+},
+{
+	"City": "Fenwick",
+	"State": "CT",
+	"latitude": 41.2711,
+	"longitude": -72.3546
+},
+{
+	"City": "Cannondale",
+	"State": "CT",
+	"latitude": 41.2161,
+	"longitude": -73.4248
+}]

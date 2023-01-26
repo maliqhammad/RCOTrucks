@@ -1,0 +1,8821 @@
+[
+{
+	"City": "Los Angeles",
+	"State": "CA",
+	"latitude": 34.1139,
+	"longitude": -118.4068
+},
+{
+	"City": "San Francisco",
+	"State": "CA",
+	"latitude": 37.7562,
+	"longitude": -122.443
+},
+{
+	"City": "San Diego",
+	"State": "CA",
+	"latitude": 32.8312,
+	"longitude": -117.1225
+},
+{
+	"City": "Riverside",
+	"State": "CA",
+	"latitude": 33.9381,
+	"longitude": -117.3948
+},
+{
+	"City": "Sacramento",
+	"State": "CA",
+	"latitude": 38.5667,
+	"longitude": -121.4683
+},
+{
+	"City": "San Jose",
+	"State": "CA",
+	"latitude": 37.3019,
+	"longitude": -121.8486
+},
+{
+	"City": "Fresno",
+	"State": "CA",
+	"latitude": 36.7831,
+	"longitude": -119.7941
+},
+{
+	"City": "Concord",
+	"State": "CA",
+	"latitude": 37.9722,
+	"longitude": -122.0016
+},
+{
+	"City": "Mission Viejo",
+	"State": "CA",
+	"latitude": 33.6095,
+	"longitude": -117.655
+},
+{
+	"City": "Bakersfield",
+	"State": "CA",
+	"latitude": 35.3529,
+	"longitude": -119.0359
+},
+{
+	"City": "Murrieta",
+	"State": "CA",
+	"latitude": 33.572,
+	"longitude": -117.1909
+},
+{
+	"City": "Long Beach",
+	"State": "CA",
+	"latitude": 33.7981,
+	"longitude": -118.1675
+},
+{
+	"City": "Oakland",
+	"State": "CA",
+	"latitude": 37.7903,
+	"longitude": -122.2165
+},
+{
+	"City": "Indio",
+	"State": "CA",
+	"latitude": 33.7346,
+	"longitude": -116.2346
+},
+{
+	"City": "Stockton",
+	"State": "CA",
+	"latitude": 37.9765,
+	"longitude": -121.3109
+},
+{
+	"City": "Oxnard",
+	"State": "CA",
+	"latitude": 34.1963,
+	"longitude": -119.1815
+},
+{
+	"City": "Modesto",
+	"State": "CA",
+	"latitude": 37.6374,
+	"longitude": -121.0028
+},
+{
+	"City": "Anaheim",
+	"State": "CA",
+	"latitude": 33.839,
+	"longitude": -117.8572
+},
+{
+	"City": "Victorville",
+	"State": "CA",
+	"latitude": 34.5277,
+	"longitude": -117.3536
+},
+{
+	"City": "Lancaster",
+	"State": "CA",
+	"latitude": 34.6935,
+	"longitude": -118.1753
+},
+{
+	"City": "Santa Ana",
+	"State": "CA",
+	"latitude": 33.7366,
+	"longitude": -117.8819
+},
+{
+	"City": "Santa Rosa",
+	"State": "CA",
+	"latitude": 38.4458,
+	"longitude": -122.7067
+},
+{
+	"City": "Santa Clarita",
+	"State": "CA",
+	"latitude": 34.4175,
+	"longitude": -118.4964
+},
+{
+	"City": "Antioch",
+	"State": "CA",
+	"latitude": 37.9789,
+	"longitude": -121.7958
+},
+{
+	"City": "Irvine",
+	"State": "CA",
+	"latitude": 33.6772,
+	"longitude": -117.7738
+},
+{
+	"City": "Chula Vista",
+	"State": "CA",
+	"latitude": 32.6281,
+	"longitude": -117.0145
+},
+{
+	"City": "Fremont",
+	"State": "CA",
+	"latitude": 37.5265,
+	"longitude": -121.9852
+},
+{
+	"City": "Visalia",
+	"State": "CA",
+	"latitude": 36.3276,
+	"longitude": -119.3269
+},
+{
+	"City": "San Bernardino",
+	"State": "CA",
+	"latitude": 34.1417,
+	"longitude": -117.2946
+},
+{
+	"City": "Thousand Oaks",
+	"State": "CA",
+	"latitude": 34.1914,
+	"longitude": -118.8755
+},
+{
+	"City": "Fontana",
+	"State": "CA",
+	"latitude": 34.0968,
+	"longitude": -117.4599
+},
+{
+	"City": "Moreno Valley",
+	"State": "CA",
+	"latitude": 33.9244,
+	"longitude": -117.2045
+},
+{
+	"City": "Santa Barbara",
+	"State": "CA",
+	"latitude": 34.4285,
+	"longitude": -119.7202
+},
+{
+	"City": "Glendale",
+	"State": "CA",
+	"latitude": 34.1818,
+	"longitude": -118.2468
+},
+{
+	"City": "Huntington Beach",
+	"State": "CA",
+	"latitude": 33.696,
+	"longitude": -118.0025
+},
+{
+	"City": "Salinas",
+	"State": "CA",
+	"latitude": 36.6884,
+	"longitude": -121.6317
+},
+{
+	"City": "Ontario",
+	"State": "CA",
+	"latitude": 34.0393,
+	"longitude": -117.6064
+},
+{
+	"City": "Rancho Cucamonga",
+	"State": "CA",
+	"latitude": 34.1248,
+	"longitude": -117.5666
+},
+{
+	"City": "Hemet",
+	"State": "CA",
+	"latitude": 33.7341,
+	"longitude": -116.9969
+},
+{
+	"City": "Santa Cruz",
+	"State": "CA",
+	"latitude": 36.9789,
+	"longitude": -122.0346
+},
+{
+	"City": "Oceanside",
+	"State": "CA",
+	"latitude": 33.2247,
+	"longitude": -117.3083
+},
+{
+	"City": "Elk Grove",
+	"State": "CA",
+	"latitude": 38.416,
+	"longitude": -121.3842
+},
+{
+	"City": "Vallejo",
+	"State": "CA",
+	"latitude": 38.1133,
+	"longitude": -122.2358
+},
+{
+	"City": "Garden Grove",
+	"State": "CA",
+	"latitude": 33.7787,
+	"longitude": -117.9601
+},
+{
+	"City": "Corona",
+	"State": "CA",
+	"latitude": 33.8616,
+	"longitude": -117.5649
+},
+{
+	"City": "Hayward",
+	"State": "CA",
+	"latitude": 37.6328,
+	"longitude": -122.0772
+},
+{
+	"City": "Palmdale",
+	"State": "CA",
+	"latitude": 34.5944,
+	"longitude": -118.1057
+},
+{
+	"City": "Sunnyvale",
+	"State": "CA",
+	"latitude": 37.3836,
+	"longitude": -122.0256
+},
+{
+	"City": "Pomona",
+	"State": "CA",
+	"latitude": 34.0585,
+	"longitude": -117.7626
+},
+{
+	"City": "Escondido",
+	"State": "CA",
+	"latitude": 33.1347,
+	"longitude": -117.0722
+},
+{
+	"City": "Fairfield",
+	"State": "CA",
+	"latitude": 38.2592,
+	"longitude": -122.0324
+},
+{
+	"City": "Merced",
+	"State": "CA",
+	"latitude": 37.3057,
+	"longitude": -120.4778
+},
+{
+	"City": "Torrance",
+	"State": "CA",
+	"latitude": 33.8346,
+	"longitude": -118.3417
+},
+{
+	"City": "Roseville",
+	"State": "CA",
+	"latitude": 38.7703,
+	"longitude": -121.3196
+},
+{
+	"City": "Pasadena",
+	"State": "CA",
+	"latitude": 34.1597,
+	"longitude": -118.139
+},
+{
+	"City": "Santa Maria",
+	"State": "CA",
+	"latitude": 34.9334,
+	"longitude": -120.4432
+},
+{
+	"City": "Orange",
+	"State": "CA",
+	"latitude": 33.8038,
+	"longitude": -117.8218
+},
+{
+	"City": "Fullerton",
+	"State": "CA",
+	"latitude": 33.8841,
+	"longitude": -117.9279
+},
+{
+	"City": "Santa Clara",
+	"State": "CA",
+	"latitude": 37.3645,
+	"longitude": -121.968
+},
+{
+	"City": "Simi Valley",
+	"State": "CA",
+	"latitude": 34.2663,
+	"longitude": -118.749
+},
+{
+	"City": "Berkeley",
+	"State": "CA",
+	"latitude": 37.8723,
+	"longitude": -122.276
+},
+{
+	"City": "Redding",
+	"State": "CA",
+	"latitude": 40.5698,
+	"longitude": -122.365
+},
+{
+	"City": "East Los Angeles",
+	"State": "CA",
+	"latitude": 34.0326,
+	"longitude": -118.1691
+},
+{
+	"City": "Yuba City",
+	"State": "CA",
+	"latitude": 39.1357,
+	"longitude": -121.6381
+},
+{
+	"City": "Gilroy",
+	"State": "CA",
+	"latitude": 37.0047,
+	"longitude": -121.5855
+},
+{
+	"City": "Chico",
+	"State": "CA",
+	"latitude": 39.7575,
+	"longitude": -121.8152
+},
+{
+	"City": "Seaside",
+	"State": "CA",
+	"latitude": 36.6224,
+	"longitude": -121.8191
+},
+{
+	"City": "El Monte",
+	"State": "CA",
+	"latitude": 34.0739,
+	"longitude": -118.0291
+},
+{
+	"City": "Carlsbad",
+	"State": "CA",
+	"latitude": 33.1247,
+	"longitude": -117.2837
+},
+{
+	"City": "Temecula",
+	"State": "CA",
+	"latitude": 33.4928,
+	"longitude": -117.1315
+},
+{
+	"City": "Clovis",
+	"State": "CA",
+	"latitude": 36.8278,
+	"longitude": -119.6831
+},
+{
+	"City": "Costa Mesa",
+	"State": "CA",
+	"latitude": 33.6667,
+	"longitude": -117.9135
+},
+{
+	"City": "El Centro",
+	"State": "CA",
+	"latitude": 32.7867,
+	"longitude": -115.5586
+},
+{
+	"City": "Downey",
+	"State": "CA",
+	"latitude": 33.9379,
+	"longitude": -118.1312
+},
+{
+	"City": "Richmond",
+	"State": "CA",
+	"latitude": 37.9477,
+	"longitude": -122.339
+},
+{
+	"City": "Jurupa Valley",
+	"State": "CA",
+	"latitude": 34.001,
+	"longitude": -117.4705
+},
+{
+	"City": "San Buenaventura",
+	"State": "CA",
+	"latitude": 34.2741,
+	"longitude": -119.2314
+},
+{
+	"City": "Inglewood",
+	"State": "CA",
+	"latitude": 33.9566,
+	"longitude": -118.3444
+},
+{
+	"City": "Turlock",
+	"State": "CA",
+	"latitude": 37.5053,
+	"longitude": -120.8588
+},
+{
+	"City": "Daly City",
+	"State": "CA",
+	"latitude": 37.6862,
+	"longitude": -122.4685
+},
+{
+	"City": "West Covina",
+	"State": "CA",
+	"latitude": 34.0555,
+	"longitude": -117.9112
+},
+{
+	"City": "San Mateo",
+	"State": "CA",
+	"latitude": 37.5521,
+	"longitude": -122.3122
+},
+{
+	"City": "Norwalk",
+	"State": "CA",
+	"latitude": 33.9069,
+	"longitude": -118.0829
+},
+{
+	"City": "Rialto",
+	"State": "CA",
+	"latitude": 34.1174,
+	"longitude": -117.3894
+},
+{
+	"City": "Manteca",
+	"State": "CA",
+	"latitude": 37.7927,
+	"longitude": -121.2264
+},
+{
+	"City": "Arden-Arcade",
+	"State": "CA",
+	"latitude": 38.6034,
+	"longitude": -121.381
+},
+{
+	"City": "El Cajon",
+	"State": "CA",
+	"latitude": 32.8017,
+	"longitude": -116.9605
+},
+{
+	"City": "Burbank",
+	"State": "CA",
+	"latitude": 34.1879,
+	"longitude": -118.3235
+},
+{
+	"City": "Vista",
+	"State": "CA",
+	"latitude": 33.1896,
+	"longitude": -117.2386
+},
+{
+	"City": "Vacaville",
+	"State": "CA",
+	"latitude": 38.359,
+	"longitude": -121.968
+},
+{
+	"City": "Tracy",
+	"State": "CA",
+	"latitude": 37.7269,
+	"longitude": -121.4522
+},
+{
+	"City": "San Marcos",
+	"State": "CA",
+	"latitude": 33.135,
+	"longitude": -117.1744
+},
+{
+	"City": "Hesperia",
+	"State": "CA",
+	"latitude": 34.3975,
+	"longitude": -117.3147
+},
+{
+	"City": "Compton",
+	"State": "CA",
+	"latitude": 33.893,
+	"longitude": -118.2275
+},
+{
+	"City": "Menifee",
+	"State": "CA",
+	"latitude": 33.6909,
+	"longitude": -117.1849
+},
+{
+	"City": "Chino",
+	"State": "CA",
+	"latitude": 33.9836,
+	"longitude": -117.6654
+},
+{
+	"City": "Hanford",
+	"State": "CA",
+	"latitude": 36.3274,
+	"longitude": -119.6549
+},
+{
+	"City": "South Gate",
+	"State": "CA",
+	"latitude": 33.9448,
+	"longitude": -118.1926
+},
+{
+	"City": "Carson",
+	"State": "CA",
+	"latitude": 33.8374,
+	"longitude": -118.2559
+},
+{
+	"City": "Livermore",
+	"State": "CA",
+	"latitude": 37.6862,
+	"longitude": -121.7608
+},
+{
+	"City": "Westminster",
+	"State": "CA",
+	"latitude": 33.7523,
+	"longitude": -117.9938
+},
+{
+	"City": "Santa Monica",
+	"State": "CA",
+	"latitude": 34.0232,
+	"longitude": -118.4813
+},
+{
+	"City": "San Leandro",
+	"State": "CA",
+	"latitude": 37.7071,
+	"longitude": -122.1601
+},
+{
+	"City": "Citrus Heights",
+	"State": "CA",
+	"latitude": 38.6948,
+	"longitude": -121.288
+},
+{
+	"City": "Hawthorne",
+	"State": "CA",
+	"latitude": 33.9146,
+	"longitude": -118.3476
+},
+{
+	"City": "Redwood City",
+	"State": "CA",
+	"latitude": 37.5026,
+	"longitude": -122.2252
+},
+{
+	"City": "Lake Forest",
+	"State": "CA",
+	"latitude": 33.6606,
+	"longitude": -117.6712
+},
+{
+	"City": "Napa",
+	"State": "CA",
+	"latitude": 38.2976,
+	"longitude": -122.3011
+},
+{
+	"City": "Whittier",
+	"State": "CA",
+	"latitude": 33.9678,
+	"longitude": -118.0188
+},
+{
+	"City": "Newport Beach",
+	"State": "CA",
+	"latitude": 33.6151,
+	"longitude": -117.8669
+},
+{
+	"City": "Milpitas",
+	"State": "CA",
+	"latitude": 37.4339,
+	"longitude": -121.8921
+},
+{
+	"City": "Madera",
+	"State": "CA",
+	"latitude": 36.9631,
+	"longitude": -120.0782
+},
+{
+	"City": "Chino Hills",
+	"State": "CA",
+	"latitude": 33.9508,
+	"longitude": -117.7253
+},
+{
+	"City": "Alhambra",
+	"State": "CA",
+	"latitude": 34.084,
+	"longitude": -118.1355
+},
+{
+	"City": "Mountain View",
+	"State": "CA",
+	"latitude": 37.4,
+	"longitude": -122.0796
+},
+{
+	"City": "Buena Park",
+	"State": "CA",
+	"latitude": 33.8572,
+	"longitude": -118.0046
+},
+{
+	"City": "Pleasanton",
+	"State": "CA",
+	"latitude": 37.6663,
+	"longitude": -121.8805
+},
+{
+	"City": "Folsom",
+	"State": "CA",
+	"latitude": 38.6668,
+	"longitude": -121.1422
+},
+{
+	"City": "Tustin",
+	"State": "CA",
+	"latitude": 33.7309,
+	"longitude": -117.8106
+},
+{
+	"City": "Lakewood",
+	"State": "CA",
+	"latitude": 33.8471,
+	"longitude": -118.1221
+},
+{
+	"City": "Perris",
+	"State": "CA",
+	"latitude": 33.7899,
+	"longitude": -117.2233
+},
+{
+	"City": "Alameda",
+	"State": "CA",
+	"latitude": 37.767,
+	"longitude": -122.2672
+},
+{
+	"City": "Watsonville",
+	"State": "CA",
+	"latitude": 36.9206,
+	"longitude": -121.7706
+},
+{
+	"City": "Porterville",
+	"State": "CA",
+	"latitude": 36.0644,
+	"longitude": -119.0338
+},
+{
+	"City": "Upland",
+	"State": "CA",
+	"latitude": 34.1178,
+	"longitude": -117.6603
+},
+{
+	"City": "Davis",
+	"State": "CA",
+	"latitude": 38.5552,
+	"longitude": -121.7365
+},
+{
+	"City": "Camarillo",
+	"State": "CA",
+	"latitude": 34.223,
+	"longitude": -119.0322
+},
+{
+	"City": "Bellflower",
+	"State": "CA",
+	"latitude": 33.888,
+	"longitude": -118.1271
+},
+{
+	"City": "San Ramon",
+	"State": "CA",
+	"latitude": 37.7625,
+	"longitude": -121.9365
+},
+{
+	"City": "Baldwin Park",
+	"State": "CA",
+	"latitude": 34.0829,
+	"longitude": -117.9721
+},
+{
+	"City": "Rancho Cordova",
+	"State": "CA",
+	"latitude": 38.574,
+	"longitude": -121.2523
+},
+{
+	"City": "Lodi",
+	"State": "CA",
+	"latitude": 38.1218,
+	"longitude": -121.2932
+},
+{
+	"City": "Union City",
+	"State": "CA",
+	"latitude": 37.603,
+	"longitude": -122.0187
+},
+{
+	"City": "Apple Valley",
+	"State": "CA",
+	"latitude": 34.5328,
+	"longitude": -117.2104
+},
+{
+	"City": "Pittsburg",
+	"State": "CA",
+	"latitude": 38.0182,
+	"longitude": -121.8964
+},
+{
+	"City": "Redlands",
+	"State": "CA",
+	"latitude": 34.0511,
+	"longitude": -117.1712
+},
+{
+	"City": "El Paso de Robles",
+	"State": "CA",
+	"latitude": 35.6394,
+	"longitude": -120.656
+},
+{
+	"City": "Walnut Creek",
+	"State": "CA",
+	"latitude": 37.9024,
+	"longitude": -122.0398
+},
+{
+	"City": "Lynwood",
+	"State": "CA",
+	"latitude": 33.924,
+	"longitude": -118.2017
+},
+{
+	"City": "Lake Elsinore",
+	"State": "CA",
+	"latitude": 33.6847,
+	"longitude": -117.3344
+},
+{
+	"City": "Rocklin",
+	"State": "CA",
+	"latitude": 38.8075,
+	"longitude": -121.2488
+},
+{
+	"City": "South San Francisco",
+	"State": "CA",
+	"latitude": 37.6536,
+	"longitude": -122.4197
+},
+{
+	"City": "Yorba Linda",
+	"State": "CA",
+	"latitude": 33.889,
+	"longitude": -117.7714
+},
+{
+	"City": "Petaluma",
+	"State": "CA",
+	"latitude": 38.2423,
+	"longitude": -122.6267
+},
+{
+	"City": "Redondo Beach",
+	"State": "CA",
+	"latitude": 33.8574,
+	"longitude": -118.3766
+},
+{
+	"City": "Laguna Niguel",
+	"State": "CA",
+	"latitude": 33.5275,
+	"longitude": -117.705
+},
+{
+	"City": "Florence-Graham",
+	"State": "CA",
+	"latitude": 33.9682,
+	"longitude": -118.2447
+},
+{
+	"City": "Tulare",
+	"State": "CA",
+	"latitude": 36.1996,
+	"longitude": -119.34
+},
+{
+	"City": "Palo Alto",
+	"State": "CA",
+	"latitude": 37.3913,
+	"longitude": -122.1468
+},
+{
+	"City": "Dublin",
+	"State": "CA",
+	"latitude": 37.7161,
+	"longitude": -121.8963
+},
+{
+	"City": "San Clemente",
+	"State": "CA",
+	"latitude": 33.4498,
+	"longitude": -117.6103
+},
+{
+	"City": "Brentwood",
+	"State": "CA",
+	"latitude": 37.9355,
+	"longitude": -121.7191
+},
+{
+	"City": "Carmichael",
+	"State": "CA",
+	"latitude": 38.6337,
+	"longitude": -121.323
+},
+{
+	"City": "Eastvale",
+	"State": "CA",
+	"latitude": 33.9617,
+	"longitude": -117.5802
+},
+{
+	"City": "Castro Valley",
+	"State": "CA",
+	"latitude": 37.7091,
+	"longitude": -122.0631
+},
+{
+	"City": "Encinitas",
+	"State": "CA",
+	"latitude": 33.049,
+	"longitude": -117.2613
+},
+{
+	"City": "San Luis Obispo",
+	"State": "CA",
+	"latitude": 35.2669,
+	"longitude": -120.6691
+},
+{
+	"City": "Pico Rivera",
+	"State": "CA",
+	"latitude": 33.9902,
+	"longitude": -118.0888
+},
+{
+	"City": "Montebello",
+	"State": "CA",
+	"latitude": 34.0155,
+	"longitude": -118.1108
+},
+{
+	"City": "National City",
+	"State": "CA",
+	"latitude": 32.6654,
+	"longitude": -117.0983
+},
+{
+	"City": "Woodland",
+	"State": "CA",
+	"latitude": 38.6712,
+	"longitude": -121.75
+},
+{
+	"City": "La Habra",
+	"State": "CA",
+	"latitude": 33.9278,
+	"longitude": -117.9513
+},
+{
+	"City": "South Whittier",
+	"State": "CA",
+	"latitude": 33.9336,
+	"longitude": -118.0311
+},
+{
+	"City": "Monterey Park",
+	"State": "CA",
+	"latitude": 34.0497,
+	"longitude": -118.1326
+},
+{
+	"City": "Gardena",
+	"State": "CA",
+	"latitude": 33.8944,
+	"longitude": -118.3073
+},
+{
+	"City": "Cupertino",
+	"State": "CA",
+	"latitude": 37.3168,
+	"longitude": -122.0465
+},
+{
+	"City": "La Mesa",
+	"State": "CA",
+	"latitude": 32.7703,
+	"longitude": -117.0204
+},
+{
+	"City": "San Rafael",
+	"State": "CA",
+	"latitude": 37.9905,
+	"longitude": -122.5222
+},
+{
+	"City": "Santee",
+	"State": "CA",
+	"latitude": 32.8554,
+	"longitude": -116.9851
+},
+{
+	"City": "Arcadia",
+	"State": "CA",
+	"latitude": 34.1342,
+	"longitude": -118.0373
+},
+{
+	"City": "Huntington Park",
+	"State": "CA",
+	"latitude": 33.98,
+	"longitude": -118.2167
+},
+{
+	"City": "Diamond Bar",
+	"State": "CA",
+	"latitude": 33.9991,
+	"longitude": -117.8161
+},
+{
+	"City": "Novato",
+	"State": "CA",
+	"latitude": 38.092,
+	"longitude": -122.5576
+},
+{
+	"City": "Highland",
+	"State": "CA",
+	"latitude": 34.1113,
+	"longitude": -117.1654
+},
+{
+	"City": "Fountain Valley",
+	"State": "CA",
+	"latitude": 33.7105,
+	"longitude": -117.9514
+},
+{
+	"City": "Hacienda Heights",
+	"State": "CA",
+	"latitude": 33.997,
+	"longitude": -117.9728
+},
+{
+	"City": "Cathedral City",
+	"State": "CA",
+	"latitude": 33.8363,
+	"longitude": -116.4642
+},
+{
+	"City": "Delano",
+	"State": "CA",
+	"latitude": 35.767,
+	"longitude": -119.2637
+},
+{
+	"City": "Colton",
+	"State": "CA",
+	"latitude": 34.0538,
+	"longitude": -117.3254
+},
+{
+	"City": "Arroyo Grande",
+	"State": "CA",
+	"latitude": 35.1241,
+	"longitude": -120.5845
+},
+{
+	"City": "Rosemead",
+	"State": "CA",
+	"latitude": 34.0689,
+	"longitude": -118.0823
+},
+{
+	"City": "Paramount",
+	"State": "CA",
+	"latitude": 33.8976,
+	"longitude": -118.1652
+},
+{
+	"City": "Yucaipa",
+	"State": "CA",
+	"latitude": 34.0336,
+	"longitude": -117.0429
+},
+{
+	"City": "West Sacramento",
+	"State": "CA",
+	"latitude": 38.5557,
+	"longitude": -121.5504
+},
+{
+	"City": "Palm Desert",
+	"State": "CA",
+	"latitude": 33.7378,
+	"longitude": -116.3695
+},
+{
+	"City": "Lompoc",
+	"State": "CA",
+	"latitude": 34.6618,
+	"longitude": -120.4714
+},
+{
+	"City": "Glendora",
+	"State": "CA",
+	"latitude": 34.1449,
+	"longitude": -117.8468
+},
+{
+	"City": "Placentia",
+	"State": "CA",
+	"latitude": 33.8807,
+	"longitude": -117.8553
+},
+{
+	"City": "Beaumont",
+	"State": "CA",
+	"latitude": 33.9076,
+	"longitude": -116.9766
+},
+{
+	"City": "Aliso Viejo",
+	"State": "CA",
+	"latitude": 33.5792,
+	"longitude": -117.7289
+},
+{
+	"City": "Rowland Heights",
+	"State": "CA",
+	"latitude": 33.9716,
+	"longitude": -117.8911
+},
+{
+	"City": "Azusa",
+	"State": "CA",
+	"latitude": 34.1386,
+	"longitude": -117.9124
+},
+{
+	"City": "Cerritos",
+	"State": "CA",
+	"latitude": 33.8677,
+	"longitude": -118.0686
+},
+{
+	"City": "Oroville",
+	"State": "CA",
+	"latitude": 39.4999,
+	"longitude": -121.5634
+},
+{
+	"City": "Poway",
+	"State": "CA",
+	"latitude": 32.9871,
+	"longitude": -117.0201
+},
+{
+	"City": "San Jacinto",
+	"State": "CA",
+	"latitude": 33.797,
+	"longitude": -116.9916
+},
+{
+	"City": "Newark",
+	"State": "CA",
+	"latitude": 37.5204,
+	"longitude": -122.0312
+},
+{
+	"City": "Reedley",
+	"State": "CA",
+	"latitude": 36.5987,
+	"longitude": -119.4473
+},
+{
+	"City": "Cypress",
+	"State": "CA",
+	"latitude": 33.8171,
+	"longitude": -118.0386
+},
+{
+	"City": "Hollister",
+	"State": "CA",
+	"latitude": 36.8563,
+	"longitude": -121.3981
+},
+{
+	"City": "Ceres",
+	"State": "CA",
+	"latitude": 37.5953,
+	"longitude": -120.9625
+},
+{
+	"City": "Palm Springs",
+	"State": "CA",
+	"latitude": 33.8017,
+	"longitude": -116.5382
+},
+{
+	"City": "Antelope",
+	"State": "CA",
+	"latitude": 38.7153,
+	"longitude": -121.361
+},
+{
+	"City": "Lincoln",
+	"State": "CA",
+	"latitude": 38.8759,
+	"longitude": -121.2916
+},
+{
+	"City": "La Mirada",
+	"State": "CA",
+	"latitude": 33.9025,
+	"longitude": -118.0093
+},
+{
+	"City": "Rancho Santa Margarita",
+	"State": "CA",
+	"latitude": 33.6318,
+	"longitude": -117.5989
+},
+{
+	"City": "North Highlands",
+	"State": "CA",
+	"latitude": 38.6713,
+	"longitude": -121.3721
+},
+{
+	"City": "Florin",
+	"State": "CA",
+	"latitude": 38.4832,
+	"longitude": -121.4042
+},
+{
+	"City": "Covina",
+	"State": "CA",
+	"latitude": 34.0903,
+	"longitude": -117.8817
+},
+{
+	"City": "El Dorado Hills",
+	"State": "CA",
+	"latitude": 38.675,
+	"longitude": -121.049
+},
+{
+	"City": "Morgan Hill",
+	"State": "CA",
+	"latitude": 37.1326,
+	"longitude": -121.6417
+},
+{
+	"City": "Coachella",
+	"State": "CA",
+	"latitude": 33.6905,
+	"longitude": -116.143
+},
+{
+	"City": "Altadena",
+	"State": "CA",
+	"latitude": 34.1928,
+	"longitude": -118.1345
+},
+{
+	"City": "Selma",
+	"State": "CA",
+	"latitude": 36.5715,
+	"longitude": -119.6143
+},
+{
+	"City": "Danville",
+	"State": "CA",
+	"latitude": 37.8121,
+	"longitude": -121.9698
+},
+{
+	"City": "Eureka",
+	"State": "CA",
+	"latitude": 40.7942,
+	"longitude": -124.1568
+},
+{
+	"City": "Desert Hot Springs",
+	"State": "CA",
+	"latitude": 33.9551,
+	"longitude": -116.543
+},
+{
+	"City": "Rohnert Park",
+	"State": "CA",
+	"latitude": 38.348,
+	"longitude": -122.6964
+},
+{
+	"City": "Brea",
+	"State": "CA",
+	"latitude": 33.9254,
+	"longitude": -117.8656
+},
+{
+	"City": "San Bruno",
+	"State": "CA",
+	"latitude": 37.6254,
+	"longitude": -122.4313
+},
+{
+	"City": "Oakley",
+	"State": "CA",
+	"latitude": 37.9929,
+	"longitude": -121.6951
+},
+{
+	"City": "Bell Gardens",
+	"State": "CA",
+	"latitude": 33.9663,
+	"longitude": -118.155
+},
+{
+	"City": "Campbell",
+	"State": "CA",
+	"latitude": 37.2802,
+	"longitude": -121.9538
+},
+{
+	"City": "La Quinta",
+	"State": "CA",
+	"latitude": 33.6536,
+	"longitude": -116.2785
+},
+{
+	"City": "Rancho Palos Verdes",
+	"State": "CA",
+	"latitude": 33.7554,
+	"longitude": -118.3637
+},
+{
+	"City": "Los Banos",
+	"State": "CA",
+	"latitude": 37.063,
+	"longitude": -120.8406
+},
+{
+	"City": "Montclair",
+	"State": "CA",
+	"latitude": 34.0714,
+	"longitude": -117.698
+},
+{
+	"City": "San Gabriel",
+	"State": "CA",
+	"latitude": 34.0948,
+	"longitude": -118.099
+},
+{
+	"City": "Calexico",
+	"State": "CA",
+	"latitude": 32.6849,
+	"longitude": -115.4944
+},
+{
+	"City": "La Puente",
+	"State": "CA",
+	"latitude": 34.0323,
+	"longitude": -117.9533
+},
+{
+	"City": "Culver City",
+	"State": "CA",
+	"latitude": 34.0058,
+	"longitude": -118.3968
+},
+{
+	"City": "Pacifica",
+	"State": "CA",
+	"latitude": 37.6112,
+	"longitude": -122.4781
+},
+{
+	"City": "Martinez",
+	"State": "CA",
+	"latitude": 37.9985,
+	"longitude": -122.116
+},
+{
+	"City": "La Presa",
+	"State": "CA",
+	"latitude": 32.711,
+	"longitude": -117.0027
+},
+{
+	"City": "Stanton",
+	"State": "CA",
+	"latitude": 33.8002,
+	"longitude": -117.9935
+},
+{
+	"City": "Wildomar",
+	"State": "CA",
+	"latitude": 33.6173,
+	"longitude": -117.2582
+},
+{
+	"City": "West Hollywood",
+	"State": "CA",
+	"latitude": 34.0882,
+	"longitude": -118.3718
+},
+{
+	"City": "Moorpark",
+	"State": "CA",
+	"latitude": 34.2855,
+	"longitude": -118.877
+},
+{
+	"City": "Monrovia",
+	"State": "CA",
+	"latitude": 34.165,
+	"longitude": -117.9921
+},
+{
+	"City": "Claremont",
+	"State": "CA",
+	"latitude": 34.1259,
+	"longitude": -117.7153
+},
+{
+	"City": "French Valley",
+	"State": "CA",
+	"latitude": 33.5998,
+	"longitude": -117.1069
+},
+{
+	"City": "San Juan Capistrano",
+	"State": "CA",
+	"latitude": 33.5009,
+	"longitude": -117.6544
+},
+{
+	"City": "Foothill Farms",
+	"State": "CA",
+	"latitude": 38.6867,
+	"longitude": -121.3475
+},
+{
+	"City": "Temple City",
+	"State": "CA",
+	"latitude": 34.1021,
+	"longitude": -118.0579
+},
+{
+	"City": "Bell",
+	"State": "CA",
+	"latitude": 33.9801,
+	"longitude": -118.1798
+},
+{
+	"City": "Auburn",
+	"State": "CA",
+	"latitude": 38.895,
+	"longitude": -121.0778
+},
+{
+	"City": "Westmont",
+	"State": "CA",
+	"latitude": 33.9417,
+	"longitude": -118.3018
+},
+{
+	"City": "Manhattan Beach",
+	"State": "CA",
+	"latitude": 33.8895,
+	"longitude": -118.3972
+},
+{
+	"City": "Pleasant Hill",
+	"State": "CA",
+	"latitude": 37.954,
+	"longitude": -122.0759
+},
+{
+	"City": "Orangevale",
+	"State": "CA",
+	"latitude": 38.6881,
+	"longitude": -121.2209
+},
+{
+	"City": "Oildale",
+	"State": "CA",
+	"latitude": 35.4249,
+	"longitude": -119.0279
+},
+{
+	"City": "Menlo Park",
+	"State": "CA",
+	"latitude": 37.4686,
+	"longitude": -122.1672
+},
+{
+	"City": "Arcata",
+	"State": "CA",
+	"latitude": 40.8615,
+	"longitude": -124.0757
+},
+{
+	"City": "Grass Valley",
+	"State": "CA",
+	"latitude": 39.2237,
+	"longitude": -121.0521
+},
+{
+	"City": "Adelanto",
+	"State": "CA",
+	"latitude": 34.5815,
+	"longitude": -117.4397
+},
+{
+	"City": "Foster City",
+	"State": "CA",
+	"latitude": 37.5553,
+	"longitude": -122.2659
+},
+{
+	"City": "Sonoma",
+	"State": "CA",
+	"latitude": 38.2902,
+	"longitude": -122.4598
+},
+{
+	"City": "Beverly Hills",
+	"State": "CA",
+	"latitude": 34.0786,
+	"longitude": -118.4021
+},
+{
+	"City": "San Dimas",
+	"State": "CA",
+	"latitude": 34.1082,
+	"longitude": -117.809
+},
+{
+	"City": "Dana Point",
+	"State": "CA",
+	"latitude": 33.4733,
+	"longitude": -117.6968
+},
+{
+	"City": "Ridgecrest",
+	"State": "CA",
+	"latitude": 35.6308,
+	"longitude": -117.6621
+},
+{
+	"City": "Lawndale",
+	"State": "CA",
+	"latitude": 33.8884,
+	"longitude": -118.3531
+},
+{
+	"City": "La Verne",
+	"State": "CA",
+	"latitude": 34.1208,
+	"longitude": -117.7702
+},
+{
+	"City": "Placerville",
+	"State": "CA",
+	"latitude": 38.7308,
+	"longitude": -120.7978
+},
+{
+	"City": "Fallbrook",
+	"State": "CA",
+	"latitude": 33.3693,
+	"longitude": -117.2259
+},
+{
+	"City": "Spring Valley",
+	"State": "CA",
+	"latitude": 32.7316,
+	"longitude": -116.9766
+},
+{
+	"City": "Banning",
+	"State": "CA",
+	"latitude": 33.946,
+	"longitude": -116.8992
+},
+{
+	"City": "Laguna Hills",
+	"State": "CA",
+	"latitude": 33.592,
+	"longitude": -117.6992
+},
+{
+	"City": "Orcutt",
+	"State": "CA",
+	"latitude": 34.8668,
+	"longitude": -120.4269
+},
+{
+	"City": "Fair Oaks",
+	"State": "CA",
+	"latitude": 38.6504,
+	"longitude": -121.2497
+},
+{
+	"City": "San Pablo",
+	"State": "CA",
+	"latitude": 37.9628,
+	"longitude": -122.3425
+},
+{
+	"City": "Goleta",
+	"State": "CA",
+	"latitude": 34.436,
+	"longitude": -119.8596
+},
+{
+	"City": "Burlingame",
+	"State": "CA",
+	"latitude": 37.586,
+	"longitude": -122.3669
+},
+{
+	"City": "Barstow",
+	"State": "CA",
+	"latitude": 34.8661,
+	"longitude": -117.0472
+},
+{
+	"City": "Santa Paula",
+	"State": "CA",
+	"latitude": 34.3521,
+	"longitude": -119.0698
+},
+{
+	"City": "Los Gatos",
+	"State": "CA",
+	"latitude": 37.2303,
+	"longitude": -121.956
+},
+{
+	"City": "South Lake Tahoe",
+	"State": "CA",
+	"latitude": 38.9393,
+	"longitude": -119.9828
+},
+{
+	"City": "San Carlos",
+	"State": "CA",
+	"latitude": 37.4982,
+	"longitude": -122.268
+},
+{
+	"City": "Saratoga",
+	"State": "CA",
+	"latitude": 37.2684,
+	"longitude": -122.0263
+},
+{
+	"City": "Los Altos",
+	"State": "CA",
+	"latitude": 37.3685,
+	"longitude": -122.0966
+},
+{
+	"City": "Atascadero",
+	"State": "CA",
+	"latitude": 35.4827,
+	"longitude": -120.6858
+},
+{
+	"City": "Walnut",
+	"State": "CA",
+	"latitude": 34.0334,
+	"longitude": -117.8593
+},
+{
+	"City": "Suisun City",
+	"State": "CA",
+	"latitude": 38.2473,
+	"longitude": -122.009
+},
+{
+	"City": "Ukiah",
+	"State": "CA",
+	"latitude": 39.1463,
+	"longitude": -123.2105
+},
+{
+	"City": "Atwater",
+	"State": "CA",
+	"latitude": 37.3543,
+	"longitude": -120.5981
+},
+{
+	"City": "East Palo Alto",
+	"State": "CA",
+	"latitude": 37.4671,
+	"longitude": -122.1352
+},
+{
+	"City": "Wasco",
+	"State": "CA",
+	"latitude": 35.5938,
+	"longitude": -119.3671
+},
+{
+	"City": "Vineyard",
+	"State": "CA",
+	"latitude": 38.4744,
+	"longitude": -121.319
+},
+{
+	"City": "Benicia",
+	"State": "CA",
+	"latitude": 38.0725,
+	"longitude": -122.1525
+},
+{
+	"City": "Monterey",
+	"State": "CA",
+	"latitude": 36.5922,
+	"longitude": -121.8807
+},
+{
+	"City": "Sonora",
+	"State": "CA",
+	"latitude": 37.9819,
+	"longitude": -120.3828
+},
+{
+	"City": "Galt",
+	"State": "CA",
+	"latitude": 38.2693,
+	"longitude": -121.3
+},
+{
+	"City": "Sanger",
+	"State": "CA",
+	"latitude": 36.699,
+	"longitude": -119.5575
+},
+{
+	"City": "Isla Vista",
+	"State": "CA",
+	"latitude": 34.4144,
+	"longitude": -119.8581
+},
+{
+	"City": "Temescal Valley",
+	"State": "CA",
+	"latitude": 33.7581,
+	"longitude": -117.4677
+},
+{
+	"City": "Imperial Beach",
+	"State": "CA",
+	"latitude": 32.5689,
+	"longitude": -117.1184
+},
+{
+	"City": "Ladera Ranch",
+	"State": "CA",
+	"latitude": 33.5491,
+	"longitude": -117.6416
+},
+{
+	"City": "Windsor",
+	"State": "CA",
+	"latitude": 38.5417,
+	"longitude": -122.8086
+},
+{
+	"City": "Maywood",
+	"State": "CA",
+	"latitude": 33.9885,
+	"longitude": -118.1877
+},
+{
+	"City": "Belmont",
+	"State": "CA",
+	"latitude": 37.5154,
+	"longitude": -122.2955
+},
+{
+	"City": "Lemon Grove",
+	"State": "CA",
+	"latitude": 32.7331,
+	"longitude": -117.0344
+},
+{
+	"City": "Lemoore",
+	"State": "CA",
+	"latitude": 36.2949,
+	"longitude": -119.7983
+},
+{
+	"City": "West Whittier-Los Nietos",
+	"State": "CA",
+	"latitude": 33.9759,
+	"longitude": -118.0689
+},
+{
+	"City": "Lafayette",
+	"State": "CA",
+	"latitude": 37.8919,
+	"longitude": -122.1189
+},
+{
+	"City": "Norco",
+	"State": "CA",
+	"latitude": 33.9252,
+	"longitude": -117.5499
+},
+{
+	"City": "Brawley",
+	"State": "CA",
+	"latitude": 32.9783,
+	"longitude": -115.5287
+},
+{
+	"City": "Hercules",
+	"State": "CA",
+	"latitude": 38.0064,
+	"longitude": -122.2564
+},
+{
+	"City": "Soledad",
+	"State": "CA",
+	"latitude": 36.4432,
+	"longitude": -121.3426
+},
+{
+	"City": "Twentynine Palms",
+	"State": "CA",
+	"latitude": 34.1478,
+	"longitude": -116.0659
+},
+{
+	"City": "Bay Point",
+	"State": "CA",
+	"latitude": 38.0329,
+	"longitude": -121.9614
+},
+{
+	"City": "San Lorenzo",
+	"State": "CA",
+	"latitude": 37.6737,
+	"longitude": -122.1349
+},
+{
+	"City": "El Cerrito",
+	"State": "CA",
+	"latitude": 37.9197,
+	"longitude": -122.3025
+},
+{
+	"City": "South Pasadena",
+	"State": "CA",
+	"latitude": 34.1103,
+	"longitude": -118.1573
+},
+{
+	"City": "Yucca Valley",
+	"State": "CA",
+	"latitude": 34.1234,
+	"longitude": -116.4216
+},
+{
+	"City": "Riverbank",
+	"State": "CA",
+	"latitude": 37.7268,
+	"longitude": -120.9402
+},
+{
+	"City": "North Tustin",
+	"State": "CA",
+	"latitude": 33.7644,
+	"longitude": -117.7945
+},
+{
+	"City": "Lathrop",
+	"State": "CA",
+	"latitude": 37.809,
+	"longitude": -121.3131
+},
+{
+	"City": "Loma Linda",
+	"State": "CA",
+	"latitude": 34.0451,
+	"longitude": -117.2498
+},
+{
+	"City": "Dinuba",
+	"State": "CA",
+	"latitude": 36.5453,
+	"longitude": -119.3987
+},
+{
+	"City": "Ashland",
+	"State": "CA",
+	"latitude": 37.6942,
+	"longitude": -122.1159
+},
+{
+	"City": "San Fernando",
+	"State": "CA",
+	"latitude": 34.2886,
+	"longitude": -118.4363
+},
+{
+	"City": "Seal Beach",
+	"State": "CA",
+	"latitude": 33.7542,
+	"longitude": -118.0714
+},
+{
+	"City": "Calabasas",
+	"State": "CA",
+	"latitude": 34.1375,
+	"longitude": -118.6689
+},
+{
+	"City": "Coronado",
+	"State": "CA",
+	"latitude": 32.664,
+	"longitude": -117.16
+},
+{
+	"City": "Valinda",
+	"State": "CA",
+	"latitude": 34.0401,
+	"longitude": -117.93
+},
+{
+	"City": "Half Moon Bay",
+	"State": "CA",
+	"latitude": 37.4688,
+	"longitude": -122.4383
+},
+{
+	"City": "Rosemont",
+	"State": "CA",
+	"latitude": 38.5477,
+	"longitude": -121.3553
+},
+{
+	"City": "Oakdale",
+	"State": "CA",
+	"latitude": 37.7616,
+	"longitude": -120.847
+},
+{
+	"City": "Cudahy",
+	"State": "CA",
+	"latitude": 33.9631,
+	"longitude": -118.183
+},
+{
+	"City": "Winter Gardens",
+	"State": "CA",
+	"latitude": 32.8376,
+	"longitude": -116.9268
+},
+{
+	"City": "West Puente Valley",
+	"State": "CA",
+	"latitude": 34.0512,
+	"longitude": -117.9681
+},
+{
+	"City": "Granite Bay",
+	"State": "CA",
+	"latitude": 38.7601,
+	"longitude": -121.1714
+},
+{
+	"City": "Patterson",
+	"State": "CA",
+	"latitude": 37.4758,
+	"longitude": -121.1535
+},
+{
+	"City": "West Rancho Dominguez",
+	"State": "CA",
+	"latitude": 33.9057,
+	"longitude": -118.2682
+},
+{
+	"City": "Laguna Beach",
+	"State": "CA",
+	"latitude": 33.5448,
+	"longitude": -117.7612
+},
+{
+	"City": "Willowbrook",
+	"State": "CA",
+	"latitude": 33.9199,
+	"longitude": -118.2362
+},
+{
+	"City": "Marina",
+	"State": "CA",
+	"latitude": 36.6812,
+	"longitude": -121.7895
+},
+{
+	"City": "Corcoran",
+	"State": "CA",
+	"latitude": 36.0839,
+	"longitude": -119.561
+},
+{
+	"City": "Millbrae",
+	"State": "CA",
+	"latitude": 37.5994,
+	"longitude": -122.4023
+},
+{
+	"City": "Arvin",
+	"State": "CA",
+	"latitude": 35.1944,
+	"longitude": -118.8306
+},
+{
+	"City": "West Carson",
+	"State": "CA",
+	"latitude": 33.8229,
+	"longitude": -118.2931
+},
+{
+	"City": "Port Hueneme",
+	"State": "CA",
+	"latitude": 34.1617,
+	"longitude": -119.2036
+},
+{
+	"City": "Lakeside",
+	"State": "CA",
+	"latitude": 32.856,
+	"longitude": -116.904
+},
+{
+	"City": "Bloomington",
+	"State": "CA",
+	"latitude": 34.0601,
+	"longitude": -117.4013
+},
+{
+	"City": "Lennox",
+	"State": "CA",
+	"latitude": 33.938,
+	"longitude": -118.3586
+},
+{
+	"City": "Rancho San Diego",
+	"State": "CA",
+	"latitude": 32.7624,
+	"longitude": -116.9197
+},
+{
+	"City": "Shafter",
+	"State": "CA",
+	"latitude": 35.4794,
+	"longitude": -119.2013
+},
+{
+	"City": "Ramona",
+	"State": "CA",
+	"latitude": 33.0474,
+	"longitude": -116.8767
+},
+{
+	"City": "Duarte",
+	"State": "CA",
+	"latitude": 34.161,
+	"longitude": -117.9504
+},
+{
+	"City": "Rosamond",
+	"State": "CA",
+	"latitude": 34.8658,
+	"longitude": -118.2154
+},
+{
+	"City": "Dixon",
+	"State": "CA",
+	"latitude": 38.4468,
+	"longitude": -121.8249
+},
+{
+	"City": "South El Monte",
+	"State": "CA",
+	"latitude": 34.0493,
+	"longitude": -118.0484
+},
+{
+	"City": "American Canyon",
+	"State": "CA",
+	"latitude": 38.1796,
+	"longitude": -122.2583
+},
+{
+	"City": "Prunedale",
+	"State": "CA",
+	"latitude": 36.8064,
+	"longitude": -121.6555
+},
+{
+	"City": "Lomita",
+	"State": "CA",
+	"latitude": 33.7933,
+	"longitude": -118.3175
+},
+{
+	"City": "Linda",
+	"State": "CA",
+	"latitude": 39.1241,
+	"longitude": -121.5421
+},
+{
+	"City": "Agoura Hills",
+	"State": "CA",
+	"latitude": 34.151,
+	"longitude": -118.7608
+},
+{
+	"City": "East Hemet",
+	"State": "CA",
+	"latitude": 33.7301,
+	"longitude": -116.941
+},
+{
+	"City": "Mead Valley",
+	"State": "CA",
+	"latitude": 33.8333,
+	"longitude": -117.2852
+},
+{
+	"City": "La CaÃ±ada Flintridge",
+	"State": "CA",
+	"latitude": 34.2097,
+	"longitude": -118.2002
+},
+{
+	"City": "South San Jose Hills",
+	"State": "CA",
+	"latitude": 34.0123,
+	"longitude": -117.9041
+},
+{
+	"City": "Orinda",
+	"State": "CA",
+	"latitude": 37.8808,
+	"longitude": -122.1791
+},
+{
+	"City": "Casa de Oro-Mount Helix",
+	"State": "CA",
+	"latitude": 32.764,
+	"longitude": -116.9687
+},
+{
+	"City": "Albany",
+	"State": "CA",
+	"latitude": 37.8898,
+	"longitude": -122.3018
+},
+{
+	"City": "La Crescenta-Montrose",
+	"State": "CA",
+	"latitude": 34.2322,
+	"longitude": -118.2353
+},
+{
+	"City": "Blythe",
+	"State": "CA",
+	"latitude": 33.622,
+	"longitude": -114.6188
+},
+{
+	"City": "Castaic",
+	"State": "CA",
+	"latitude": 34.4818,
+	"longitude": -118.6317
+},
+{
+	"City": "Hermosa Beach",
+	"State": "CA",
+	"latitude": 33.8654,
+	"longitude": -118.3966
+},
+{
+	"City": "Pinole",
+	"State": "CA",
+	"latitude": 37.9931,
+	"longitude": -122.2834
+},
+{
+	"City": "Stevenson Ranch",
+	"State": "CA",
+	"latitude": 34.3894,
+	"longitude": -118.5885
+},
+{
+	"City": "Cameron Park",
+	"State": "CA",
+	"latitude": 38.6737,
+	"longitude": -120.9872
+},
+{
+	"City": "Red Bluff",
+	"State": "CA",
+	"latitude": 40.1735,
+	"longitude": -122.2413
+},
+{
+	"City": "Rancho Mirage",
+	"State": "CA",
+	"latitude": 33.7634,
+	"longitude": -116.4271
+},
+{
+	"City": "Chowchilla",
+	"State": "CA",
+	"latitude": 37.1095,
+	"longitude": -120.2349
+},
+{
+	"City": "Imperial",
+	"State": "CA",
+	"latitude": 32.839,
+	"longitude": -115.5719
+},
+{
+	"City": "Mountain House",
+	"State": "CA",
+	"latitude": 37.774,
+	"longitude": -121.5452
+},
+{
+	"City": "Woodcrest",
+	"State": "CA",
+	"latitude": 33.8789,
+	"longitude": -117.3686
+},
+{
+	"City": "Moraga",
+	"State": "CA",
+	"latitude": 37.8439,
+	"longitude": -122.1225
+},
+{
+	"City": "Valle Vista",
+	"State": "CA",
+	"latitude": 33.7436,
+	"longitude": -116.8872
+},
+{
+	"City": "Greenfield",
+	"State": "CA",
+	"latitude": 36.3232,
+	"longitude": -121.2451
+},
+{
+	"City": "Santa Fe Springs",
+	"State": "CA",
+	"latitude": 33.933,
+	"longitude": -118.0625
+},
+{
+	"City": "Nipomo",
+	"State": "CA",
+	"latitude": 35.0323,
+	"longitude": -120.4991
+},
+{
+	"City": "Lakeport",
+	"State": "CA",
+	"latitude": 39.0392,
+	"longitude": -122.9218
+},
+{
+	"City": "McKinleyville",
+	"State": "CA",
+	"latitude": 40.9488,
+	"longitude": -124.0857
+},
+{
+	"City": "Coalinga",
+	"State": "CA",
+	"latitude": 36.143,
+	"longitude": -120.3262
+},
+{
+	"City": "Crescent City",
+	"State": "CA",
+	"latitude": 41.7727,
+	"longitude": -124.1902
+},
+{
+	"City": "Live Oak",
+	"State": "CA",
+	"latitude": 36.986,
+	"longitude": -121.9804
+},
+{
+	"City": "Rosedale",
+	"State": "CA",
+	"latitude": 35.3887,
+	"longitude": -119.2058
+},
+{
+	"City": "Truckee",
+	"State": "CA",
+	"latitude": 39.3455,
+	"longitude": -120.1848
+},
+{
+	"City": "Lindsay",
+	"State": "CA",
+	"latitude": 36.2082,
+	"longitude": -119.0897
+},
+{
+	"City": "El Segundo",
+	"State": "CA",
+	"latitude": 33.9169,
+	"longitude": -118.4021
+},
+{
+	"City": "Bostonia",
+	"State": "CA",
+	"latitude": 32.8189,
+	"longitude": -116.9479
+},
+{
+	"City": "Artesia",
+	"State": "CA",
+	"latitude": 33.8676,
+	"longitude": -118.0806
+},
+{
+	"City": "Solvang",
+	"State": "CA",
+	"latitude": 34.5936,
+	"longitude": -120.1401
+},
+{
+	"City": "Los Osos",
+	"State": "CA",
+	"latitude": 35.3068,
+	"longitude": -120.8249
+},
+{
+	"City": "Ripon",
+	"State": "CA",
+	"latitude": 37.7417,
+	"longitude": -121.131
+},
+{
+	"City": "Rio Linda",
+	"State": "CA",
+	"latitude": 38.6876,
+	"longitude": -121.4418
+},
+{
+	"City": "Stanford",
+	"State": "CA",
+	"latitude": 37.4252,
+	"longitude": -122.1674
+},
+{
+	"City": "East San Gabriel",
+	"State": "CA",
+	"latitude": 34.1198,
+	"longitude": -118.0807
+},
+{
+	"City": "Vincent",
+	"State": "CA",
+	"latitude": 34.0982,
+	"longitude": -117.9238
+},
+{
+	"City": "Discovery Bay",
+	"State": "CA",
+	"latitude": 37.9071,
+	"longitude": -121.6076
+},
+{
+	"City": "Cherryland",
+	"State": "CA",
+	"latitude": 37.6792,
+	"longitude": -122.1038
+},
+{
+	"City": "Phelan",
+	"State": "CA",
+	"latitude": 34.4398,
+	"longitude": -117.5248
+},
+{
+	"City": "Clearlake",
+	"State": "CA",
+	"latitude": 38.959,
+	"longitude": -122.633
+},
+{
+	"City": "Fillmore",
+	"State": "CA",
+	"latitude": 34.3989,
+	"longitude": -118.9181
+},
+{
+	"City": "Walnut Park",
+	"State": "CA",
+	"latitude": 33.9683,
+	"longitude": -118.222
+},
+{
+	"City": "King City",
+	"State": "CA",
+	"latitude": 36.2166,
+	"longitude": -121.133
+},
+{
+	"City": "Laguna Woods",
+	"State": "CA",
+	"latitude": 33.6098,
+	"longitude": -117.7299
+},
+{
+	"City": "Parkway",
+	"State": "CA",
+	"latitude": 38.4993,
+	"longitude": -121.452
+},
+{
+	"City": "East Rancho Dominguez",
+	"State": "CA",
+	"latitude": 33.895,
+	"longitude": -118.1956
+},
+{
+	"City": "McFarland",
+	"State": "CA",
+	"latitude": 35.6781,
+	"longitude": -119.2414
+},
+{
+	"City": "Parlier",
+	"State": "CA",
+	"latitude": 36.6087,
+	"longitude": -119.5434
+},
+{
+	"City": "La Palma",
+	"State": "CA",
+	"latitude": 33.8504,
+	"longitude": -118.0406
+},
+{
+	"City": "Avocado Heights",
+	"State": "CA",
+	"latitude": 34.0381,
+	"longitude": -118.0026
+},
+{
+	"City": "Pacific Grove",
+	"State": "CA",
+	"latitude": 36.6192,
+	"longitude": -121.9255
+},
+{
+	"City": "Kerman",
+	"State": "CA",
+	"latitude": 36.7249,
+	"longitude": -120.0625
+},
+{
+	"City": "Coto de Caza",
+	"State": "CA",
+	"latitude": 33.5961,
+	"longitude": -117.5862
+},
+{
+	"City": "Susanville",
+	"State": "CA",
+	"latitude": 40.4205,
+	"longitude": -120.6129
+},
+{
+	"City": "Tehachapi",
+	"State": "CA",
+	"latitude": 35.1274,
+	"longitude": -118.4749
+},
+{
+	"City": "Alamo",
+	"State": "CA",
+	"latitude": 37.8546,
+	"longitude": -122.013
+},
+{
+	"City": "Taft",
+	"State": "CA",
+	"latitude": 35.1267,
+	"longitude": -119.4242
+},
+{
+	"City": "Livingston",
+	"State": "CA",
+	"latitude": 37.3875,
+	"longitude": -120.7248
+},
+{
+	"City": "Alpine",
+	"State": "CA",
+	"latitude": 32.8439,
+	"longitude": -116.7585
+},
+{
+	"City": "Lamont",
+	"State": "CA",
+	"latitude": 35.2651,
+	"longitude": -118.9159
+},
+{
+	"City": "Lemon Hill",
+	"State": "CA",
+	"latitude": 38.5172,
+	"longitude": -121.4573
+},
+{
+	"City": "North Fair Oaks",
+	"State": "CA",
+	"latitude": 37.4754,
+	"longitude": -122.2035
+},
+{
+	"City": "North Auburn",
+	"State": "CA",
+	"latitude": 38.9306,
+	"longitude": -121.0821
+},
+{
+	"City": "Mill Valley",
+	"State": "CA",
+	"latitude": 37.9085,
+	"longitude": -122.5421
+},
+{
+	"City": "Salida",
+	"State": "CA",
+	"latitude": 37.7145,
+	"longitude": -121.087
+},
+{
+	"City": "California City",
+	"State": "CA",
+	"latitude": 35.1578,
+	"longitude": -117.8721
+},
+{
+	"City": "Hawaiian Gardens",
+	"State": "CA",
+	"latitude": 33.8303,
+	"longitude": -118.0728
+},
+{
+	"City": "El Sobrante",
+	"State": "CA",
+	"latitude": 33.8724,
+	"longitude": -117.4625
+},
+{
+	"City": "Oak Park",
+	"State": "CA",
+	"latitude": 34.1849,
+	"longitude": -118.7669
+},
+{
+	"City": "Sun Village",
+	"State": "CA",
+	"latitude": 34.5596,
+	"longitude": -117.9559
+},
+{
+	"City": "Avenal",
+	"State": "CA",
+	"latitude": 36.0311,
+	"longitude": -120.1162
+},
+{
+	"City": "Olivehurst",
+	"State": "CA",
+	"latitude": 39.0817,
+	"longitude": -121.5549
+},
+{
+	"City": "Big Bear City",
+	"State": "CA",
+	"latitude": 34.2536,
+	"longitude": -116.7903
+},
+{
+	"City": "Grover Beach",
+	"State": "CA",
+	"latitude": 35.1204,
+	"longitude": -120.6199
+},
+{
+	"City": "Fortuna",
+	"State": "CA",
+	"latitude": 40.5862,
+	"longitude": -124.1419
+},
+{
+	"City": "Carpinteria",
+	"State": "CA",
+	"latitude": 34.3962,
+	"longitude": -119.5118
+},
+{
+	"City": "Solana Beach",
+	"State": "CA",
+	"latitude": 32.9942,
+	"longitude": -117.2575
+},
+{
+	"City": "Palos Verdes Estates",
+	"State": "CA",
+	"latitude": 33.7871,
+	"longitude": -118.3976
+},
+{
+	"City": "San Marino",
+	"State": "CA",
+	"latitude": 34.1224,
+	"longitude": -118.1132
+},
+{
+	"City": "Lakeland Village",
+	"State": "CA",
+	"latitude": 33.648,
+	"longitude": -117.3706
+},
+{
+	"City": "Bonita",
+	"State": "CA",
+	"latitude": 32.6652,
+	"longitude": -117.0295
+},
+{
+	"City": "Commerce",
+	"State": "CA",
+	"latitude": 33.9963,
+	"longitude": -118.1519
+},
+{
+	"City": "Grand Terrace",
+	"State": "CA",
+	"latitude": 34.0312,
+	"longitude": -117.3132
+},
+{
+	"City": "Muscoy",
+	"State": "CA",
+	"latitude": 34.155,
+	"longitude": -117.3477
+},
+{
+	"City": "San Anselmo",
+	"State": "CA",
+	"latitude": 37.9821,
+	"longitude": -122.5699
+},
+{
+	"City": "Marysville",
+	"State": "CA",
+	"latitude": 39.1518,
+	"longitude": -121.5835
+},
+{
+	"City": "Delhi",
+	"State": "CA",
+	"latitude": 37.4306,
+	"longitude": -120.7759
+},
+{
+	"City": "Clayton",
+	"State": "CA",
+	"latitude": 37.9403,
+	"longitude": -121.9301
+},
+{
+	"City": "Larkspur",
+	"State": "CA",
+	"latitude": 37.9393,
+	"longitude": -122.5313
+},
+{
+	"City": "Home Gardens",
+	"State": "CA",
+	"latitude": 33.8784,
+	"longitude": -117.5116
+},
+{
+	"City": "Kingsburg",
+	"State": "CA",
+	"latitude": 36.5245,
+	"longitude": -119.5602
+},
+{
+	"City": "Emeryville",
+	"State": "CA",
+	"latitude": 37.8382,
+	"longitude": -122.2932
+},
+{
+	"City": "Camp Pendleton South",
+	"State": "CA",
+	"latitude": 33.2284,
+	"longitude": -117.3791
+},
+{
+	"City": "Healdsburg",
+	"State": "CA",
+	"latitude": 38.6229,
+	"longitude": -122.8651
+},
+{
+	"City": "Malibu",
+	"State": "CA",
+	"latitude": 34.0368,
+	"longitude": -118.7845
+},
+{
+	"City": "Newman",
+	"State": "CA",
+	"latitude": 37.3157,
+	"longitude": -121.0211
+},
+{
+	"City": "Scotts Valley",
+	"State": "CA",
+	"latitude": 37.0555,
+	"longitude": -122.0118
+},
+{
+	"City": "View Park-Windsor Hills",
+	"State": "CA",
+	"latitude": 33.9955,
+	"longitude": -118.3484
+},
+{
+	"City": "Lake Los Angeles",
+	"State": "CA",
+	"latitude": 34.6097,
+	"longitude": -117.8339
+},
+{
+	"City": "Diamond Springs",
+	"State": "CA",
+	"latitude": 38.692,
+	"longitude": -120.8391
+},
+{
+	"City": "Mendota",
+	"State": "CA",
+	"latitude": 36.7555,
+	"longitude": -120.3776
+},
+{
+	"City": "Tamalpais-Homestead Valley",
+	"State": "CA",
+	"latitude": 37.8793,
+	"longitude": -122.5382
+},
+{
+	"City": "Alum Rock",
+	"State": "CA",
+	"latitude": 37.3695,
+	"longitude": -121.8241
+},
+{
+	"City": "Magalia",
+	"State": "CA",
+	"latitude": 39.8228,
+	"longitude": -121.6078
+},
+{
+	"City": "Signal Hill",
+	"State": "CA",
+	"latitude": 33.8029,
+	"longitude": -118.1681
+},
+{
+	"City": "Los Alamitos",
+	"State": "CA",
+	"latitude": 33.7972,
+	"longitude": -118.0594
+},
+{
+	"City": "Hillsborough",
+	"State": "CA",
+	"latitude": 37.5573,
+	"longitude": -122.3587
+},
+{
+	"City": "Winton",
+	"State": "CA",
+	"latitude": 37.3854,
+	"longitude": -120.6173
+},
+{
+	"City": "Canyon Lake",
+	"State": "CA",
+	"latitude": 33.6885,
+	"longitude": -117.2621
+},
+{
+	"City": "Piedmont",
+	"State": "CA",
+	"latitude": 37.8226,
+	"longitude": -122.23
+},
+{
+	"City": "Rossmoor",
+	"State": "CA",
+	"latitude": 33.7886,
+	"longitude": -118.0803
+},
+{
+	"City": "Valley Center",
+	"State": "CA",
+	"latitude": 33.233,
+	"longitude": -117.0157
+},
+{
+	"City": "Orange Cove",
+	"State": "CA",
+	"latitude": 36.6211,
+	"longitude": -119.3188
+},
+{
+	"City": "Soquel",
+	"State": "CA",
+	"latitude": 36.9978,
+	"longitude": -121.9482
+},
+{
+	"City": "La Riviera",
+	"State": "CA",
+	"latitude": 38.5683,
+	"longitude": -121.3544
+},
+{
+	"City": "Sierra Madre",
+	"State": "CA",
+	"latitude": 34.1687,
+	"longitude": -118.0504
+},
+{
+	"City": "Farmersville",
+	"State": "CA",
+	"latitude": 36.3053,
+	"longitude": -119.2083
+},
+{
+	"City": "Anderson",
+	"State": "CA",
+	"latitude": 40.4497,
+	"longitude": -122.295
+},
+{
+	"City": "Morro Bay",
+	"State": "CA",
+	"latitude": 35.3681,
+	"longitude": -120.8481
+},
+{
+	"City": "Fairview",
+	"State": "CA",
+	"latitude": 37.676,
+	"longitude": -122.048
+},
+{
+	"City": "San Diego Country Estates",
+	"State": "CA",
+	"latitude": 33.0093,
+	"longitude": -116.7874
+},
+{
+	"City": "Exeter",
+	"State": "CA",
+	"latitude": 36.294,
+	"longitude": -119.1459
+},
+{
+	"City": "Oak Hills",
+	"State": "CA",
+	"latitude": 34.3912,
+	"longitude": -117.4125
+},
+{
+	"City": "Shasta Lake",
+	"State": "CA",
+	"latitude": 40.679,
+	"longitude": -122.3775
+},
+{
+	"City": "Rodeo",
+	"State": "CA",
+	"latitude": 38.0368,
+	"longitude": -122.2526
+},
+{
+	"City": "Fort Bragg",
+	"State": "CA",
+	"latitude": 39.4399,
+	"longitude": -123.8013
+},
+{
+	"City": "East Whittier",
+	"State": "CA",
+	"latitude": 33.9244,
+	"longitude": -117.9887
+},
+{
+	"City": "Citrus",
+	"State": "CA",
+	"latitude": 34.1161,
+	"longitude": -117.889
+},
+{
+	"City": "Charter Oak",
+	"State": "CA",
+	"latitude": 34.1025,
+	"longitude": -117.8564
+},
+{
+	"City": "Capitola",
+	"State": "CA",
+	"latitude": 36.9772,
+	"longitude": -121.9538
+},
+{
+	"City": "Quartz Hill",
+	"State": "CA",
+	"latitude": 34.6527,
+	"longitude": -118.2163
+},
+{
+	"City": "Del Aire",
+	"State": "CA",
+	"latitude": 33.9168,
+	"longitude": -118.3693
+},
+{
+	"City": "Country Club",
+	"State": "CA",
+	"latitude": 37.9687,
+	"longitude": -121.3408
+},
+{
+	"City": "Garden Acres",
+	"State": "CA",
+	"latitude": 37.9637,
+	"longitude": -121.2296
+},
+{
+	"City": "Orland",
+	"State": "CA",
+	"latitude": 39.7461,
+	"longitude": -122.1856
+},
+{
+	"City": "Fort Irwin",
+	"State": "CA",
+	"latitude": 35.2476,
+	"longitude": -116.6834
+},
+{
+	"City": "Madera Acres",
+	"State": "CA",
+	"latitude": 37.0123,
+	"longitude": -120.0799
+},
+{
+	"City": "Marina del Rey",
+	"State": "CA",
+	"latitude": 33.9765,
+	"longitude": -118.4486
+},
+{
+	"City": "Mentone",
+	"State": "CA",
+	"latitude": 34.0609,
+	"longitude": -117.1108
+},
+{
+	"City": "Corte Madera",
+	"State": "CA",
+	"latitude": 37.9238,
+	"longitude": -122.5129
+},
+{
+	"City": "Rio Vista",
+	"State": "CA",
+	"latitude": 38.1763,
+	"longitude": -121.7025
+},
+{
+	"City": "West Athens",
+	"State": "CA",
+	"latitude": 33.9235,
+	"longitude": -118.3033
+},
+{
+	"City": "Rio del Mar",
+	"State": "CA",
+	"latitude": 36.9607,
+	"longitude": -121.8807
+},
+{
+	"City": "Waterford",
+	"State": "CA",
+	"latitude": 37.6429,
+	"longitude": -120.7553
+},
+{
+	"City": "Blackhawk",
+	"State": "CA",
+	"latitude": 37.816,
+	"longitude": -121.9071
+},
+{
+	"City": "Bishop",
+	"State": "CA",
+	"latitude": 37.3665,
+	"longitude": -118.3958
+},
+{
+	"City": "Golden Hills",
+	"State": "CA",
+	"latitude": 35.1512,
+	"longitude": -118.5024
+},
+{
+	"City": "Gridley",
+	"State": "CA",
+	"latitude": 39.3622,
+	"longitude": -121.6971
+},
+{
+	"City": "Cloverdale",
+	"State": "CA",
+	"latitude": 38.7961,
+	"longitude": -123.0151
+},
+{
+	"City": "Good Hope",
+	"State": "CA",
+	"latitude": 33.7706,
+	"longitude": -117.2772
+},
+{
+	"City": "Calimesa",
+	"State": "CA",
+	"latitude": 33.9874,
+	"longitude": -117.0542
+},
+{
+	"City": "Tiburon",
+	"State": "CA",
+	"latitude": 37.8854,
+	"longitude": -122.4637
+},
+{
+	"City": "Lake Arrowhead",
+	"State": "CA",
+	"latitude": 34.2531,
+	"longitude": -117.1945
+},
+{
+	"City": "Needles",
+	"State": "CA",
+	"latitude": 34.8164,
+	"longitude": -114.6189
+},
+{
+	"City": "Crestline",
+	"State": "CA",
+	"latitude": 34.2486,
+	"longitude": -117.289
+},
+{
+	"City": "Earlimart",
+	"State": "CA",
+	"latitude": 35.8824,
+	"longitude": -119.2715
+},
+{
+	"City": "Corning",
+	"State": "CA",
+	"latitude": 39.9282,
+	"longitude": -122.182
+},
+{
+	"City": "Ione",
+	"State": "CA",
+	"latitude": 38.3613,
+	"longitude": -120.9422
+},
+{
+	"City": "Los Altos Hills",
+	"State": "CA",
+	"latitude": 37.3671,
+	"longitude": -122.139
+},
+{
+	"City": "August",
+	"State": "CA",
+	"latitude": 37.9797,
+	"longitude": -121.2625
+},
+{
+	"City": "Spring Valley Lake",
+	"State": "CA",
+	"latitude": 34.4987,
+	"longitude": -117.2683
+},
+{
+	"City": "Midway City",
+	"State": "CA",
+	"latitude": 33.7451,
+	"longitude": -117.9849
+},
+{
+	"City": "Larkfield-Wikiup",
+	"State": "CA",
+	"latitude": 38.513,
+	"longitude": -122.7536
+},
+{
+	"City": "Gonzales",
+	"State": "CA",
+	"latitude": 36.506,
+	"longitude": -121.4429
+},
+{
+	"City": "Orosi",
+	"State": "CA",
+	"latitude": 36.5434,
+	"longitude": -119.2903
+},
+{
+	"City": "Firebaugh",
+	"State": "CA",
+	"latitude": 36.8534,
+	"longitude": -120.4536
+},
+{
+	"City": "Alondra Park",
+	"State": "CA",
+	"latitude": 33.8885,
+	"longitude": -118.335
+},
+{
+	"City": "Montecito",
+	"State": "CA",
+	"latitude": 34.4382,
+	"longitude": -119.6286
+},
+{
+	"City": "Mammoth Lakes",
+	"State": "CA",
+	"latitude": 37.6273,
+	"longitude": -118.99
+},
+{
+	"City": "Westlake Village",
+	"State": "CA",
+	"latitude": 34.1369,
+	"longitude": -118.822
+},
+{
+	"City": "Pismo Beach",
+	"State": "CA",
+	"latitude": 35.1484,
+	"longitude": -120.6492
+},
+{
+	"City": "South San Gabriel",
+	"State": "CA",
+	"latitude": 34.0489,
+	"longitude": -118.0961
+},
+{
+	"City": "Cherry Valley",
+	"State": "CA",
+	"latitude": 33.9797,
+	"longitude": -116.9694
+},
+{
+	"City": "Vandenberg Village",
+	"State": "CA",
+	"latitude": 34.7111,
+	"longitude": -120.4623
+},
+{
+	"City": "Rolling Hills Estates",
+	"State": "CA",
+	"latitude": 33.7783,
+	"longitude": -118.3509
+},
+{
+	"City": "Willits",
+	"State": "CA",
+	"latitude": 39.4047,
+	"longitude": -123.3494
+},
+{
+	"City": "Topanga",
+	"State": "CA",
+	"latitude": 34.0964,
+	"longitude": -118.6053
+},
+{
+	"City": "Woodlake",
+	"State": "CA",
+	"latitude": 36.4124,
+	"longitude": -119.0999
+},
+{
+	"City": "Templeton",
+	"State": "CA",
+	"latitude": 35.556,
+	"longitude": -120.7182
+},
+{
+	"City": "Winters",
+	"State": "CA",
+	"latitude": 38.532,
+	"longitude": -121.9781
+},
+{
+	"City": "Interlaken",
+	"State": "CA",
+	"latitude": 36.9505,
+	"longitude": -121.7363
+},
+{
+	"City": "Guadalupe",
+	"State": "CA",
+	"latitude": 34.9608,
+	"longitude": -120.5735
+},
+{
+	"City": "Oroville East",
+	"State": "CA",
+	"latitude": 39.4947,
+	"longitude": -121.4866
+},
+{
+	"City": "Boyes Hot Springs",
+	"State": "CA",
+	"latitude": 38.3126,
+	"longitude": -122.4888
+},
+{
+	"City": "Sebastopol",
+	"State": "CA",
+	"latitude": 38.4001,
+	"longitude": -122.8276
+},
+{
+	"City": "Holtville",
+	"State": "CA",
+	"latitude": 32.813,
+	"longitude": -115.378
+},
+{
+	"City": "PiÃ±on Hills",
+	"State": "CA",
+	"latitude": 34.4438,
+	"longitude": -117.6214
+},
+{
+	"City": "Escalon",
+	"State": "CA",
+	"latitude": 37.7912,
+	"longitude": -120.9982
+},
+{
+	"City": "Joshua Tree",
+	"State": "CA",
+	"latitude": 34.1236,
+	"longitude": -116.3128
+},
+{
+	"City": "Plumas Lake",
+	"State": "CA",
+	"latitude": 38.9924,
+	"longitude": -121.558
+},
+{
+	"City": "Hughson",
+	"State": "CA",
+	"latitude": 37.602,
+	"longitude": -120.866
+},
+{
+	"City": "Jackson",
+	"State": "CA",
+	"latitude": 38.3485,
+	"longitude": -120.7728
+},
+{
+	"City": "Gold River",
+	"State": "CA",
+	"latitude": 38.6268,
+	"longitude": -121.2488
+},
+{
+	"City": "Fairfax",
+	"State": "CA",
+	"latitude": 37.9886,
+	"longitude": -122.5952
+},
+{
+	"City": "Yreka",
+	"State": "CA",
+	"latitude": 41.7292,
+	"longitude": -122.6312
+},
+{
+	"City": "Dos Palos",
+	"State": "CA",
+	"latitude": 36.9854,
+	"longitude": -120.6336
+},
+{
+	"City": "Oceano",
+	"State": "CA",
+	"latitude": 35.1019,
+	"longitude": -120.609
+},
+{
+	"City": "Mount Shasta",
+	"State": "CA",
+	"latitude": 41.3206,
+	"longitude": -122.315
+},
+{
+	"City": "Ojai",
+	"State": "CA",
+	"latitude": 34.4487,
+	"longitude": -119.2469
+},
+{
+	"City": "Cotati",
+	"State": "CA",
+	"latitude": 38.3279,
+	"longitude": -122.7092
+},
+{
+	"City": "Camp Pendleton North",
+	"State": "CA",
+	"latitude": 33.3148,
+	"longitude": -117.3162
+},
+{
+	"City": "University of California-Davis",
+	"State": "CA",
+	"latitude": 38.5374,
+	"longitude": -121.7576
+},
+{
+	"City": "Huron",
+	"State": "CA",
+	"latitude": 36.2041,
+	"longitude": -120.0961
+},
+{
+	"City": "Alta Sierra",
+	"State": "CA",
+	"latitude": 39.1237,
+	"longitude": -121.0523
+},
+{
+	"City": "Willows",
+	"State": "CA",
+	"latitude": 39.5149,
+	"longitude": -122.1995
+},
+{
+	"City": "Acton",
+	"State": "CA",
+	"latitude": 34.4956,
+	"longitude": -118.1857
+},
+{
+	"City": "Nuevo",
+	"State": "CA",
+	"latitude": 33.8011,
+	"longitude": -117.1415
+},
+{
+	"City": "Pollock Pines",
+	"State": "CA",
+	"latitude": 38.7564,
+	"longitude": -120.5904
+},
+{
+	"City": "Atherton",
+	"State": "CA",
+	"latitude": 37.4539,
+	"longitude": -122.2032
+},
+{
+	"City": "Calipatria",
+	"State": "CA",
+	"latitude": 33.1493,
+	"longitude": -115.5056
+},
+{
+	"City": "Homeland",
+	"State": "CA",
+	"latitude": 33.7459,
+	"longitude": -117.1132
+},
+{
+	"City": "Sausalito",
+	"State": "CA",
+	"latitude": 37.858,
+	"longitude": -122.4932
+},
+{
+	"City": "St. Helena",
+	"State": "CA",
+	"latitude": 38.5063,
+	"longitude": -122.4682
+},
+{
+	"City": "Rancho Calaveras",
+	"State": "CA",
+	"latitude": 38.1248,
+	"longitude": -120.857
+},
+{
+	"City": "Kentfield",
+	"State": "CA",
+	"latitude": 37.9481,
+	"longitude": -122.5496
+},
+{
+	"City": "Franklin",
+	"State": "CA",
+	"latitude": 37.3277,
+	"longitude": -120.5321
+},
+{
+	"City": "Thermalito",
+	"State": "CA",
+	"latitude": 39.4909,
+	"longitude": -121.615
+},
+{
+	"City": "Colusa",
+	"State": "CA",
+	"latitude": 39.2059,
+	"longitude": -122.0125
+},
+{
+	"City": "Ben Lomond",
+	"State": "CA",
+	"latitude": 37.0782,
+	"longitude": -122.0882
+},
+{
+	"City": "Loomis",
+	"State": "CA",
+	"latitude": 38.8093,
+	"longitude": -121.1955
+},
+{
+	"City": "Lemoore Station",
+	"State": "CA",
+	"latitude": 36.2633,
+	"longitude": -119.9049
+},
+{
+	"City": "San Martin",
+	"State": "CA",
+	"latitude": 37.0829,
+	"longitude": -121.5963
+},
+{
+	"City": "Thousand Palms",
+	"State": "CA",
+	"latitude": 33.815,
+	"longitude": -116.3545
+},
+{
+	"City": "Lake Mathews",
+	"State": "CA",
+	"latitude": 33.825,
+	"longitude": -117.3683
+},
+{
+	"City": "Fowler",
+	"State": "CA",
+	"latitude": 36.6243,
+	"longitude": -119.6737
+},
+{
+	"City": "Desert Palms",
+	"State": "CA",
+	"latitude": 33.779,
+	"longitude": -116.293
+},
+{
+	"City": "Bermuda Dunes",
+	"State": "CA",
+	"latitude": 33.7434,
+	"longitude": -116.2874
+},
+{
+	"City": "Lucas Valley-Marinwood",
+	"State": "CA",
+	"latitude": 38.0405,
+	"longitude": -122.5765
+},
+{
+	"City": "Mecca",
+	"State": "CA",
+	"latitude": 33.5767,
+	"longitude": -116.0645
+},
+{
+	"City": "Mira Monte",
+	"State": "CA",
+	"latitude": 34.4284,
+	"longitude": -119.2853
+},
+{
+	"City": "Ladera Heights",
+	"State": "CA",
+	"latitude": 33.9972,
+	"longitude": -118.374
+},
+{
+	"City": "South Monrovia Island",
+	"State": "CA",
+	"latitude": 34.1234,
+	"longitude": -117.9958
+},
+{
+	"City": "Contra Costa Centre",
+	"State": "CA",
+	"latitude": 37.9261,
+	"longitude": -122.054
+},
+{
+	"City": "Keyes",
+	"State": "CA",
+	"latitude": 37.5618,
+	"longitude": -120.9088
+},
+{
+	"City": "Castroville",
+	"State": "CA",
+	"latitude": 36.765,
+	"longitude": -121.7535
+},
+{
+	"City": "La Habra Heights",
+	"State": "CA",
+	"latitude": 33.9602,
+	"longitude": -117.951
+},
+{
+	"City": "Aptos",
+	"State": "CA",
+	"latitude": 36.9912,
+	"longitude": -121.8934
+},
+{
+	"City": "El Rio",
+	"State": "CA",
+	"latitude": 34.2452,
+	"longitude": -119.1568
+},
+{
+	"City": "East Porterville",
+	"State": "CA",
+	"latitude": 36.0573,
+	"longitude": -118.9713
+},
+{
+	"City": "Salton City",
+	"State": "CA",
+	"latitude": 33.2994,
+	"longitude": -115.9609
+},
+{
+	"City": "East Foothills",
+	"State": "CA",
+	"latitude": 37.3827,
+	"longitude": -121.8138
+},
+{
+	"City": "Saranap",
+	"State": "CA",
+	"latitude": 37.8878,
+	"longitude": -122.076
+},
+{
+	"City": "East Pasadena",
+	"State": "CA",
+	"latitude": 34.1377,
+	"longitude": -118.0776
+},
+{
+	"City": "Eucalyptus Hills",
+	"State": "CA",
+	"latitude": 32.885,
+	"longitude": -116.9453
+},
+{
+	"City": "Fruitridge Pocket",
+	"State": "CA",
+	"latitude": 38.5326,
+	"longitude": -121.4558
+},
+{
+	"City": "El Granada",
+	"State": "CA",
+	"latitude": 37.5134,
+	"longitude": -122.466
+},
+{
+	"City": "Pleasure Point",
+	"State": "CA",
+	"latitude": 36.9618,
+	"longitude": -121.9715
+},
+{
+	"City": "Durham",
+	"State": "CA",
+	"latitude": 39.6232,
+	"longitude": -121.7875
+},
+{
+	"City": "Lucerne Valley",
+	"State": "CA",
+	"latitude": 34.4427,
+	"longitude": -116.9021
+},
+{
+	"City": "Paradise",
+	"State": "CA",
+	"latitude": 39.7558,
+	"longitude": -121.6063
+},
+{
+	"City": "Greenacres",
+	"State": "CA",
+	"latitude": 35.3831,
+	"longitude": -119.1184
+},
+{
+	"City": "Gustine",
+	"State": "CA",
+	"latitude": 37.2545,
+	"longitude": -120.9949
+},
+{
+	"City": "Mayflower Village",
+	"State": "CA",
+	"latitude": 34.116,
+	"longitude": -118.0096
+},
+{
+	"City": "Las Flores",
+	"State": "CA",
+	"latitude": 33.5838,
+	"longitude": -117.6235
+},
+{
+	"City": "Old Fig Garden",
+	"State": "CA",
+	"latitude": 36.7989,
+	"longitude": -119.8051
+},
+{
+	"City": "Silver Lakes",
+	"State": "CA",
+	"latitude": 34.7519,
+	"longitude": -117.3431
+},
+{
+	"City": "Villa Park",
+	"State": "CA",
+	"latitude": 33.818,
+	"longitude": -117.8104
+},
+{
+	"City": "Highgrove",
+	"State": "CA",
+	"latitude": 34.0106,
+	"longitude": -117.3098
+},
+{
+	"City": "West Modesto",
+	"State": "CA",
+	"latitude": 37.618,
+	"longitude": -121.0343
+},
+{
+	"City": "Hilmar-Irwin",
+	"State": "CA",
+	"latitude": 37.4045,
+	"longitude": -120.8504
+},
+{
+	"City": "Rancho Murieta",
+	"State": "CA",
+	"latitude": 38.5085,
+	"longitude": -121.0716
+},
+{
+	"City": "Wilton",
+	"State": "CA",
+	"latitude": 38.413,
+	"longitude": -121.2127
+},
+{
+	"City": "Cambria",
+	"State": "CA",
+	"latitude": 35.5523,
+	"longitude": -121.0847
+},
+{
+	"City": "Elverta",
+	"State": "CA",
+	"latitude": 38.7185,
+	"longitude": -121.4455
+},
+{
+	"City": "Hidden Valley Lake",
+	"State": "CA",
+	"latitude": 38.8003,
+	"longitude": -122.5505
+},
+{
+	"City": "Strawberry",
+	"State": "CA",
+	"latitude": 37.8925,
+	"longitude": -122.5078
+},
+{
+	"City": "Yosemite Lakes",
+	"State": "CA",
+	"latitude": 37.1885,
+	"longitude": -119.7723
+},
+{
+	"City": "Indian Wells",
+	"State": "CA",
+	"latitude": 33.7036,
+	"longitude": -116.3396
+},
+{
+	"City": "Williams",
+	"State": "CA",
+	"latitude": 39.1498,
+	"longitude": -122.1389
+},
+{
+	"City": "Woodside",
+	"State": "CA",
+	"latitude": 37.4222,
+	"longitude": -122.2591
+},
+{
+	"City": "Jamul",
+	"State": "CA",
+	"latitude": 32.7184,
+	"longitude": -116.8709
+},
+{
+	"City": "Palermo",
+	"State": "CA",
+	"latitude": 39.4313,
+	"longitude": -121.5225
+},
+{
+	"City": "Kensington",
+	"State": "CA",
+	"latitude": 37.9084,
+	"longitude": -122.2805
+},
+{
+	"City": "Bear Valley Springs",
+	"State": "CA",
+	"latitude": 35.1775,
+	"longitude": -118.646
+},
+{
+	"City": "Garnet",
+	"State": "CA",
+	"latitude": 33.9179,
+	"longitude": -116.4796
+},
+{
+	"City": "Big Bear Lake",
+	"State": "CA",
+	"latitude": 34.2429,
+	"longitude": -116.8951
+},
+{
+	"City": "Calistoga",
+	"State": "CA",
+	"latitude": 38.5818,
+	"longitude": -122.5824
+},
+{
+	"City": "Lake Wildwood",
+	"State": "CA",
+	"latitude": 39.235,
+	"longitude": -121.2003
+},
+{
+	"City": "Myrtletown",
+	"State": "CA",
+	"latitude": 40.7888,
+	"longitude": -124.1286
+},
+{
+	"City": "Cutler",
+	"State": "CA",
+	"latitude": 36.5263,
+	"longitude": -119.2884
+},
+{
+	"City": "Twin Lakes",
+	"State": "CA",
+	"latitude": 36.9646,
+	"longitude": -121.9896
+},
+{
+	"City": "Boulder Creek",
+	"State": "CA",
+	"latitude": 37.1341,
+	"longitude": -122.1271
+},
+{
+	"City": "Broadmoor",
+	"State": "CA",
+	"latitude": 37.6914,
+	"longitude": -122.4811
+},
+{
+	"City": "Bret Harte",
+	"State": "CA",
+	"latitude": 37.6021,
+	"longitude": -121.0045
+},
+{
+	"City": "Tara Hills",
+	"State": "CA",
+	"latitude": 37.9939,
+	"longitude": -122.3188
+},
+{
+	"City": "Buellton",
+	"State": "CA",
+	"latitude": 34.6152,
+	"longitude": -120.1943
+},
+{
+	"City": "Denair",
+	"State": "CA",
+	"latitude": 37.5262,
+	"longitude": -120.7994
+},
+{
+	"City": "Guerneville",
+	"State": "CA",
+	"latitude": 38.5137,
+	"longitude": -122.9894
+},
+{
+	"City": "Mayfair",
+	"State": "CA",
+	"latitude": 36.7693,
+	"longitude": -119.7612
+},
+{
+	"City": "Lincoln Village",
+	"State": "CA",
+	"latitude": 38.0054,
+	"longitude": -121.3339
+},
+{
+	"City": "Ford City",
+	"State": "CA",
+	"latitude": 35.1647,
+	"longitude": -119.4584
+},
+{
+	"City": "Camino Tassajara",
+	"State": "CA",
+	"latitude": 37.7909,
+	"longitude": -121.885
+},
+{
+	"City": "Emerald Lake Hills",
+	"State": "CA",
+	"latitude": 37.4662,
+	"longitude": -122.2675
+},
+{
+	"City": "Lake San Marcos",
+	"State": "CA",
+	"latitude": 33.1196,
+	"longitude": -117.2088
+},
+{
+	"City": "Brisbane",
+	"State": "CA",
+	"latitude": 37.6898,
+	"longitude": -122.402
+},
+{
+	"City": "Oak View",
+	"State": "CA",
+	"latitude": 34.399,
+	"longitude": -119.2976
+},
+{
+	"City": "Portola Valley",
+	"State": "CA",
+	"latitude": 37.3713,
+	"longitude": -122.2203
+},
+{
+	"City": "Santa Ynez",
+	"State": "CA",
+	"latitude": 34.6151,
+	"longitude": -120.0944
+},
+{
+	"City": "Phoenix Lake",
+	"State": "CA",
+	"latitude": 38.0075,
+	"longitude": -120.3089
+},
+{
+	"City": "Santa Venetia",
+	"State": "CA",
+	"latitude": 38.0055,
+	"longitude": -122.5032
+},
+{
+	"City": "Sunnyside",
+	"State": "CA",
+	"latitude": 36.7294,
+	"longitude": -119.6945
+},
+{
+	"City": "Bonsall",
+	"State": "CA",
+	"latitude": 33.2761,
+	"longitude": -117.1942
+},
+{
+	"City": "Mountain View Acres",
+	"State": "CA",
+	"latitude": 34.4976,
+	"longitude": -117.3472
+},
+{
+	"City": "Planada",
+	"State": "CA",
+	"latitude": 37.2892,
+	"longitude": -120.3207
+},
+{
+	"City": "Armona",
+	"State": "CA",
+	"latitude": 36.3179,
+	"longitude": -119.7054
+},
+{
+	"City": "McSwain",
+	"State": "CA",
+	"latitude": 37.3146,
+	"longitude": -120.5867
+},
+{
+	"City": "Fetters Hot Springs-Agua Caliente",
+	"State": "CA",
+	"latitude": 38.3274,
+	"longitude": -122.4871
+},
+{
+	"City": "Pacheco",
+	"State": "CA",
+	"latitude": 37.9878,
+	"longitude": -122.07
+},
+{
+	"City": "Copperopolis",
+	"State": "CA",
+	"latitude": 37.9365,
+	"longitude": -120.6277
+},
+{
+	"City": "Del Mar",
+	"State": "CA",
+	"latitude": 32.9633,
+	"longitude": -117.2627
+},
+{
+	"City": "Humboldt Hill",
+	"State": "CA",
+	"latitude": 40.7219,
+	"longitude": -124.1987
+},
+{
+	"City": "Mather",
+	"State": "CA",
+	"latitude": 38.5489,
+	"longitude": -121.2832
+},
+{
+	"City": "Ivanhoe",
+	"State": "CA",
+	"latitude": 36.3886,
+	"longitude": -119.2202
+},
+{
+	"City": "West Menlo Park",
+	"State": "CA",
+	"latitude": 37.4338,
+	"longitude": -122.2034
+},
+{
+	"City": "Harbison Canyon",
+	"State": "CA",
+	"latitude": 32.8273,
+	"longitude": -116.8381
+},
+{
+	"City": "Carmel Valley Village",
+	"State": "CA",
+	"latitude": 36.4824,
+	"longitude": -121.7198
+},
+{
+	"City": "Lenwood",
+	"State": "CA",
+	"latitude": 34.8861,
+	"longitude": -117.1078
+},
+{
+	"City": "Del Monte Forest",
+	"State": "CA",
+	"latitude": 36.5857,
+	"longitude": -121.9439
+},
+{
+	"City": "North Richmond",
+	"State": "CA",
+	"latitude": 37.9642,
+	"longitude": -122.3711
+},
+{
+	"City": "Running Springs",
+	"State": "CA",
+	"latitude": 34.2104,
+	"longitude": -117.1147
+},
+{
+	"City": "Rio Dell",
+	"State": "CA",
+	"latitude": 40.5022,
+	"longitude": -124.1103
+},
+{
+	"City": "Empire",
+	"State": "CA",
+	"latitude": 37.6432,
+	"longitude": -120.9045
+},
+{
+	"City": "San Joaquin",
+	"State": "CA",
+	"latitude": 36.6057,
+	"longitude": -120.1897
+},
+{
+	"City": "Wrightwood",
+	"State": "CA",
+	"latitude": 34.3495,
+	"longitude": -117.6299
+},
+{
+	"City": "Burney",
+	"State": "CA",
+	"latitude": 40.8846,
+	"longitude": -121.6691
+},
+{
+	"City": "Angels",
+	"State": "CA",
+	"latitude": 38.0707,
+	"longitude": -120.5501
+},
+{
+	"City": "North El Monte",
+	"State": "CA",
+	"latitude": 34.103,
+	"longitude": -118.0238
+},
+{
+	"City": "Clearlake Riviera",
+	"State": "CA",
+	"latitude": 38.9512,
+	"longitude": -122.7207
+},
+{
+	"City": "Vine Hill",
+	"State": "CA",
+	"latitude": 38.0071,
+	"longitude": -122.0873
+},
+{
+	"City": "Wheatland",
+	"State": "CA",
+	"latitude": 39.0287,
+	"longitude": -121.39
+},
+{
+	"City": "Mojave",
+	"State": "CA",
+	"latitude": 35.0139,
+	"longitude": -118.1895
+},
+{
+	"City": "Shingle Springs",
+	"State": "CA",
+	"latitude": 38.6665,
+	"longitude": -120.937
+},
+{
+	"City": "Mission Hills",
+	"State": "CA",
+	"latitude": 34.6861,
+	"longitude": -120.4404
+},
+{
+	"City": "French Camp",
+	"State": "CA",
+	"latitude": 37.8802,
+	"longitude": -121.2803
+},
+{
+	"City": "Carmel-by-the-Sea",
+	"State": "CA",
+	"latitude": 36.5528,
+	"longitude": -121.9222
+},
+{
+	"City": "Arbuckle",
+	"State": "CA",
+	"latitude": 39.0141,
+	"longitude": -122.061
+},
+{
+	"City": "Brooktrails",
+	"State": "CA",
+	"latitude": 39.4429,
+	"longitude": -123.3963
+},
+{
+	"City": "Freedom",
+	"State": "CA",
+	"latitude": 36.9402,
+	"longitude": -121.7953
+},
+{
+	"City": "Forestville",
+	"State": "CA",
+	"latitude": 38.4825,
+	"longitude": -122.8899
+},
+{
+	"City": "Bystrom",
+	"State": "CA",
+	"latitude": 37.6199,
+	"longitude": -120.9827
+},
+{
+	"City": "Agua Dulce",
+	"State": "CA",
+	"latitude": 34.5044,
+	"longitude": -118.316
+},
+{
+	"City": "Avalon",
+	"State": "CA",
+	"latitude": 33.3342,
+	"longitude": -118.3315
+},
+{
+	"City": "Meadow Vista",
+	"State": "CA",
+	"latitude": 39.003,
+	"longitude": -121.0304
+},
+{
+	"City": "Auburn Lake Trails",
+	"State": "CA",
+	"latitude": 38.8917,
+	"longitude": -120.9849
+},
+{
+	"City": "Squaw Valley",
+	"State": "CA",
+	"latitude": 36.6944,
+	"longitude": -119.2
+},
+{
+	"City": "Felton",
+	"State": "CA",
+	"latitude": 37.0392,
+	"longitude": -122.0804
+},
+{
+	"City": "Pajaro",
+	"State": "CA",
+	"latitude": 36.9016,
+	"longitude": -121.7417
+},
+{
+	"City": "Tarpey Village",
+	"State": "CA",
+	"latitude": 36.7941,
+	"longitude": -119.7012
+},
+{
+	"City": "Heber",
+	"State": "CA",
+	"latitude": 32.7318,
+	"longitude": -115.5204
+},
+{
+	"City": "Moss Beach",
+	"State": "CA",
+	"latitude": 37.5184,
+	"longitude": -122.5036
+},
+{
+	"City": "Lake of the Pines",
+	"State": "CA",
+	"latitude": 39.0378,
+	"longitude": -121.0642
+},
+{
+	"City": "Woodbridge",
+	"State": "CA",
+	"latitude": 38.1692,
+	"longitude": -121.3113
+},
+{
+	"City": "Stallion Springs",
+	"State": "CA",
+	"latitude": 35.0935,
+	"longitude": -118.6477
+},
+{
+	"City": "Meiners Oaks",
+	"State": "CA",
+	"latitude": 34.4505,
+	"longitude": -119.2731
+},
+{
+	"City": "Kelseyville",
+	"State": "CA",
+	"latitude": 38.9704,
+	"longitude": -122.8327
+},
+{
+	"City": "Lockeford",
+	"State": "CA",
+	"latitude": 38.1509,
+	"longitude": -121.1554
+},
+{
+	"City": "Reliez Valley",
+	"State": "CA",
+	"latitude": 37.9399,
+	"longitude": -122.1027
+},
+{
+	"City": "Valley Springs",
+	"State": "CA",
+	"latitude": 38.1837,
+	"longitude": -120.815
+},
+{
+	"City": "Granite Hills",
+	"State": "CA",
+	"latitude": 32.8033,
+	"longitude": -116.9056
+},
+{
+	"City": "Lake Isabella",
+	"State": "CA",
+	"latitude": 35.6378,
+	"longitude": -118.4819
+},
+{
+	"City": "Hidden Meadows",
+	"State": "CA",
+	"latitude": 33.2236,
+	"longitude": -117.1198
+},
+{
+	"City": "Rollingwood",
+	"State": "CA",
+	"latitude": 37.9655,
+	"longitude": -122.3305
+},
+{
+	"City": "Oakhurst",
+	"State": "CA",
+	"latitude": 37.3342,
+	"longitude": -119.6483
+},
+{
+	"City": "Mono Vista",
+	"State": "CA",
+	"latitude": 38.0124,
+	"longitude": -120.2697
+},
+{
+	"City": "Riverdale",
+	"State": "CA",
+	"latitude": 36.4304,
+	"longitude": -119.8671
+},
+{
+	"City": "San Miguel",
+	"State": "CA",
+	"latitude": 37.8867,
+	"longitude": -122.0368
+},
+{
+	"City": "Monte Sereno",
+	"State": "CA",
+	"latitude": 37.2404,
+	"longitude": -121.9882
+},
+{
+	"City": "Meadowbrook",
+	"State": "CA",
+	"latitude": 33.7253,
+	"longitude": -117.2851
+},
+{
+	"City": "Campo",
+	"State": "CA",
+	"latitude": 32.6394,
+	"longitude": -116.4745
+},
+{
+	"City": "Vandenberg AFB",
+	"State": "CA",
+	"latitude": 34.7483,
+	"longitude": -120.5182
+},
+{
+	"City": "Coronita",
+	"State": "CA",
+	"latitude": 33.876,
+	"longitude": -117.6109
+},
+{
+	"City": "Pine Hills",
+	"State": "CA",
+	"latitude": 40.7313,
+	"longitude": -124.1551
+},
+{
+	"City": "Casa Conejo",
+	"State": "CA",
+	"latitude": 34.1847,
+	"longitude": -118.9445
+},
+{
+	"City": "Loyola",
+	"State": "CA",
+	"latitude": 37.3502,
+	"longitude": -122.098
+},
+{
+	"City": "Kennedy",
+	"State": "CA",
+	"latitude": 37.929,
+	"longitude": -121.2457
+},
+{
+	"City": "North Lakeport",
+	"State": "CA",
+	"latitude": 39.0883,
+	"longitude": -122.9054
+},
+{
+	"City": "Pixley",
+	"State": "CA",
+	"latitude": 35.9769,
+	"longitude": -119.2889
+},
+{
+	"City": "Lake California",
+	"State": "CA",
+	"latitude": 40.3608,
+	"longitude": -122.2102
+},
+{
+	"City": "Winchester",
+	"State": "CA",
+	"latitude": 33.7146,
+	"longitude": -117.0775
+},
+{
+	"City": "Desert Edge",
+	"State": "CA",
+	"latitude": 33.9223,
+	"longitude": -116.4401
+},
+{
+	"City": "Goshen",
+	"State": "CA",
+	"latitude": 36.3518,
+	"longitude": -119.421
+},
+{
+	"City": "El Verano",
+	"State": "CA",
+	"latitude": 38.2975,
+	"longitude": -122.4915
+},
+{
+	"City": "Seacliff",
+	"State": "CA",
+	"latitude": 36.977,
+	"longitude": -121.9176
+},
+{
+	"City": "Esparto",
+	"State": "CA",
+	"latitude": 38.6934,
+	"longitude": -122.0241
+},
+{
+	"City": "Crockett",
+	"State": "CA",
+	"latitude": 38.0519,
+	"longitude": -122.2201
+},
+{
+	"City": "Cambrian Park",
+	"State": "CA",
+	"latitude": 37.2563,
+	"longitude": -121.9287
+},
+{
+	"City": "Cottonwood",
+	"State": "CA",
+	"latitude": 40.3904,
+	"longitude": -122.2861
+},
+{
+	"City": "Tipton",
+	"State": "CA",
+	"latitude": 36.0585,
+	"longitude": -119.313
+},
+{
+	"City": "Colfax",
+	"State": "CA",
+	"latitude": 39.0938,
+	"longitude": -120.9533
+},
+{
+	"City": "Hoopa",
+	"State": "CA",
+	"latitude": 41.0802,
+	"longitude": -123.6972
+},
+{
+	"City": "San Antonio Heights",
+	"State": "CA",
+	"latitude": 34.1571,
+	"longitude": -117.6592
+},
+{
+	"City": "Terra Bella",
+	"State": "CA",
+	"latitude": 35.9567,
+	"longitude": -119.0328
+},
+{
+	"City": "Angwin",
+	"State": "CA",
+	"latitude": 38.5776,
+	"longitude": -122.4513
+},
+{
+	"City": "Loma Rica",
+	"State": "CA",
+	"latitude": 39.3204,
+	"longitude": -121.4038
+},
+{
+	"City": "Morada",
+	"State": "CA",
+	"latitude": 38.0386,
+	"longitude": -121.2456
+},
+{
+	"City": "Amesti",
+	"State": "CA",
+	"latitude": 36.9583,
+	"longitude": -121.7805
+},
+{
+	"City": "East Richmond Heights",
+	"State": "CA",
+	"latitude": 37.945,
+	"longitude": -122.314
+},
+{
+	"City": "Weaverville",
+	"State": "CA",
+	"latitude": 40.7488,
+	"longitude": -122.9274
+},
+{
+	"City": "Nevada City",
+	"State": "CA",
+	"latitude": 39.2607,
+	"longitude": -121.0231
+},
+{
+	"City": "Marin City",
+	"State": "CA",
+	"latitude": 37.8711,
+	"longitude": -122.5137
+},
+{
+	"City": "San Andreas",
+	"State": "CA",
+	"latitude": 38.1911,
+	"longitude": -120.6763
+},
+{
+	"City": "Jamestown",
+	"State": "CA",
+	"latitude": 37.9574,
+	"longitude": -120.411
+},
+{
+	"City": "Bonny Doon",
+	"State": "CA",
+	"latitude": 37.0435,
+	"longitude": -122.1369
+},
+{
+	"City": "Morongo Valley",
+	"State": "CA",
+	"latitude": 34.0724,
+	"longitude": -116.5627
+},
+{
+	"City": "Anza",
+	"State": "CA",
+	"latitude": 33.5679,
+	"longitude": -116.6967
+},
+{
+	"City": "Kings Beach",
+	"State": "CA",
+	"latitude": 39.249,
+	"longitude": -120.0201
+},
+{
+	"City": "Day Valley",
+	"State": "CA",
+	"latitude": 37.0255,
+	"longitude": -121.8559
+},
+{
+	"City": "Strathmore",
+	"State": "CA",
+	"latitude": 36.1438,
+	"longitude": -119.0611
+},
+{
+	"City": "Santa Rosa Valley",
+	"State": "CA",
+	"latitude": 34.2453,
+	"longitude": -118.9023
+},
+{
+	"City": "Sutter",
+	"State": "CA",
+	"latitude": 39.1556,
+	"longitude": -121.7492
+},
+{
+	"City": "Lake Nacimiento",
+	"State": "CA",
+	"latitude": 35.7309,
+	"longitude": -120.8702
+},
+{
+	"City": "Yountville",
+	"State": "CA",
+	"latitude": 38.3963,
+	"longitude": -122.3671
+},
+{
+	"City": "Hartley",
+	"State": "CA",
+	"latitude": 38.4203,
+	"longitude": -121.9521
+},
+{
+	"City": "Las Lomas",
+	"State": "CA",
+	"latitude": 36.8689,
+	"longitude": -121.7317
+},
+{
+	"City": "Cutten",
+	"State": "CA",
+	"latitude": 40.7657,
+	"longitude": -124.1446
+},
+{
+	"City": "South Oroville",
+	"State": "CA",
+	"latitude": 39.4767,
+	"longitude": -121.5439
+},
+{
+	"City": "Channel Islands Beach",
+	"State": "CA",
+	"latitude": 34.1586,
+	"longitude": -119.2231
+},
+{
+	"City": "Lucerne",
+	"State": "CA",
+	"latitude": 39.0697,
+	"longitude": -122.776
+},
+{
+	"City": "Ridgemark",
+	"State": "CA",
+	"latitude": 36.8082,
+	"longitude": -121.3623
+},
+{
+	"City": "Homestead Valley",
+	"State": "CA",
+	"latitude": 34.273,
+	"longitude": -116.4145
+},
+{
+	"City": "Oasis",
+	"State": "CA",
+	"latitude": 33.5275,
+	"longitude": -116.1261
+},
+{
+	"City": "Montalvin Manor",
+	"State": "CA",
+	"latitude": 37.9977,
+	"longitude": -122.33
+},
+{
+	"City": "Kelly Ridge",
+	"State": "CA",
+	"latitude": 39.5289,
+	"longitude": -121.4662
+},
+{
+	"City": "East Oakdale",
+	"State": "CA",
+	"latitude": 37.7854,
+	"longitude": -120.8007
+},
+{
+	"City": "Bayview",
+	"State": "CA",
+	"latitude": 40.7654,
+	"longitude": -124.1787
+},
+{
+	"City": "Penngrove",
+	"State": "CA",
+	"latitude": 38.3005,
+	"longitude": -122.6707
+},
+{
+	"City": "Pine Mountain Lake",
+	"State": "CA",
+	"latitude": 37.8599,
+	"longitude": -120.1843
+},
+{
+	"City": "Rose Hills",
+	"State": "CA",
+	"latitude": 34.009,
+	"longitude": -118.0419
+},
+{
+	"City": "Crest",
+	"State": "CA",
+	"latitude": 32.8,
+	"longitude": -116.8671
+},
+{
+	"City": "North Shore",
+	"State": "CA",
+	"latitude": 33.5157,
+	"longitude": -115.9092
+},
+{
+	"City": "Vista Santa Rosa",
+	"State": "CA",
+	"latitude": 33.6227,
+	"longitude": -116.2126
+},
+{
+	"City": "Val Verde",
+	"State": "CA",
+	"latitude": 34.4504,
+	"longitude": -118.6717
+},
+{
+	"City": "West Bishop",
+	"State": "CA",
+	"latitude": 37.3571,
+	"longitude": -118.4542
+},
+{
+	"City": "Weed",
+	"State": "CA",
+	"latitude": 41.4128,
+	"longitude": -122.3816
+},
+{
+	"City": "Hayfork",
+	"State": "CA",
+	"latitude": 40.561,
+	"longitude": -123.1299
+},
+{
+	"City": "Collierville",
+	"State": "CA",
+	"latitude": 38.2141,
+	"longitude": -121.2675
+},
+{
+	"City": "Lexington Hills",
+	"State": "CA",
+	"latitude": 37.1616,
+	"longitude": -121.9879
+},
+{
+	"City": "La Selva Beach",
+	"State": "CA",
+	"latitude": 36.9276,
+	"longitude": -121.8445
+},
+{
+	"City": "Desert View Highlands",
+	"State": "CA",
+	"latitude": 34.5901,
+	"longitude": -118.1535
+},
+{
+	"City": "Dixon Lane-Meadow Creek",
+	"State": "CA",
+	"latitude": 37.3864,
+	"longitude": -118.4152
+},
+{
+	"City": "Dogtown",
+	"State": "CA",
+	"latitude": 38.2096,
+	"longitude": -121.1551
+},
+{
+	"City": "Lakeview",
+	"State": "CA",
+	"latitude": 33.8285,
+	"longitude": -117.1233
+},
+{
+	"City": "Alturas",
+	"State": "CA",
+	"latitude": 41.4898,
+	"longitude": -120.5516
+},
+{
+	"City": "Cayucos",
+	"State": "CA",
+	"latitude": 35.4375,
+	"longitude": -120.8847
+},
+{
+	"City": "Sutter Creek",
+	"State": "CA",
+	"latitude": 38.3827,
+	"longitude": -120.8107
+},
+{
+	"City": "Cabazon",
+	"State": "CA",
+	"latitude": 33.9127,
+	"longitude": -116.7828
+},
+{
+	"City": "Frazier Park",
+	"State": "CA",
+	"latitude": 34.8123,
+	"longitude": -118.9542
+},
+{
+	"City": "Georgetown",
+	"State": "CA",
+	"latitude": 38.9112,
+	"longitude": -120.8356
+},
+{
+	"City": "Caruthers",
+	"State": "CA",
+	"latitude": 36.5399,
+	"longitude": -119.845
+},
+{
+	"City": "Edwards AFB",
+	"State": "CA",
+	"latitude": 34.9045,
+	"longitude": -117.9295
+},
+{
+	"City": "Nice",
+	"State": "CA",
+	"latitude": 39.1266,
+	"longitude": -122.8526
+},
+{
+	"City": "Ahwahnee",
+	"State": "CA",
+	"latitude": 37.3652,
+	"longitude": -119.7194
+},
+{
+	"City": "Idyllwild-Pine Cove",
+	"State": "CA",
+	"latitude": 33.7443,
+	"longitude": -116.7257
+},
+{
+	"City": "Rancho Santa Fe",
+	"State": "CA",
+	"latitude": 33.024,
+	"longitude": -117.1992
+},
+{
+	"City": "Mission Canyon",
+	"State": "CA",
+	"latitude": 34.4534,
+	"longitude": -119.7125
+},
+{
+	"City": "Montara",
+	"State": "CA",
+	"latitude": 37.5482,
+	"longitude": -122.4924
+},
+{
+	"City": "Aromas",
+	"State": "CA",
+	"latitude": 36.8771,
+	"longitude": -121.6404
+},
+{
+	"City": "Ross",
+	"State": "CA",
+	"latitude": 37.9638,
+	"longitude": -122.5615
+},
+{
+	"City": "Parksdale",
+	"State": "CA",
+	"latitude": 36.9465,
+	"longitude": -120.0212
+},
+{
+	"City": "Bella Vista",
+	"State": "CA",
+	"latitude": 40.6502,
+	"longitude": -122.245
+},
+{
+	"City": "Three Rivers",
+	"State": "CA",
+	"latitude": 36.4319,
+	"longitude": -118.8806
+},
+{
+	"City": "Buckhorn",
+	"State": "CA",
+	"latitude": 38.4532,
+	"longitude": -120.5354
+},
+{
+	"City": "Pine Canyon",
+	"State": "CA",
+	"latitude": 36.1757,
+	"longitude": -121.1498
+},
+{
+	"City": "Rainbow",
+	"State": "CA",
+	"latitude": 33.4098,
+	"longitude": -117.1395
+},
+{
+	"City": "Wofford Heights",
+	"State": "CA",
+	"latitude": 35.7127,
+	"longitude": -118.4732
+},
+{
+	"City": "Weldon",
+	"State": "CA",
+	"latitude": 35.6431,
+	"longitude": -118.3103
+},
+{
+	"City": "Richgrove",
+	"State": "CA",
+	"latitude": 35.7966,
+	"longitude": -119.1069
+},
+{
+	"City": "Portola",
+	"State": "CA",
+	"latitude": 39.8241,
+	"longitude": -120.4733
+},
+{
+	"City": "Twain Harte",
+	"State": "CA",
+	"latitude": 38.0384,
+	"longitude": -120.234
+},
+{
+	"City": "Romoland",
+	"State": "CA",
+	"latitude": 33.7648,
+	"longitude": -117.1572
+},
+{
+	"City": "Arnold",
+	"State": "CA",
+	"latitude": 38.2423,
+	"longitude": -120.3547
+},
+{
+	"City": "Weedpatch",
+	"State": "CA",
+	"latitude": 35.2369,
+	"longitude": -118.9123
+},
+{
+	"City": "East Sonora",
+	"State": "CA",
+	"latitude": 37.9777,
+	"longitude": -120.341
+},
+{
+	"City": "Sleepy Hollow",
+	"State": "CA",
+	"latitude": 38.012,
+	"longitude": -122.5877
+},
+{
+	"City": "Clearlake Oaks",
+	"State": "CA",
+	"latitude": 39.0218,
+	"longitude": -122.6593
+},
+{
+	"City": "Poplar-Cotton Center",
+	"State": "CA",
+	"latitude": 36.0564,
+	"longitude": -119.1493
+},
+{
+	"City": "Westmorland",
+	"State": "CA",
+	"latitude": 33.0389,
+	"longitude": -115.6223
+},
+{
+	"City": "Aptos Hills-Larkin Valley",
+	"State": "CA",
+	"latitude": 36.9606,
+	"longitude": -121.8341
+},
+{
+	"City": "Shingletown",
+	"State": "CA",
+	"latitude": 40.5035,
+	"longitude": -121.86
+},
+{
+	"City": "Sky Valley",
+	"State": "CA",
+	"latitude": 33.8912,
+	"longitude": -116.3551
+},
+{
+	"City": "Columbia",
+	"State": "CA",
+	"latitude": 38.0333,
+	"longitude": -120.4097
+},
+{
+	"City": "Boron",
+	"State": "CA",
+	"latitude": 35.0164,
+	"longitude": -117.6659
+},
+{
+	"City": "Soulsbyville",
+	"State": "CA",
+	"latitude": 37.9917,
+	"longitude": -120.2617
+},
+{
+	"City": "East Quincy",
+	"State": "CA",
+	"latitude": 39.9165,
+	"longitude": -120.9189
+},
+{
+	"City": "Murphys",
+	"State": "CA",
+	"latitude": 38.1447,
+	"longitude": -120.4348
+},
+{
+	"City": "Parkwood",
+	"State": "CA",
+	"latitude": 36.9293,
+	"longitude": -120.0482
+},
+{
+	"City": "Bethel Island",
+	"State": "CA",
+	"latitude": 38.0288,
+	"longitude": -121.6404
+},
+{
+	"City": "Corralitos",
+	"State": "CA",
+	"latitude": 36.9941,
+	"longitude": -121.7892
+},
+{
+	"City": "Chester",
+	"State": "CA",
+	"latitude": 40.3017,
+	"longitude": -121.2339
+},
+{
+	"City": "Borrego Springs",
+	"State": "CA",
+	"latitude": 33.241,
+	"longitude": -116.3571
+},
+{
+	"City": "China Lake Acres",
+	"State": "CA",
+	"latitude": 35.6387,
+	"longitude": -117.7667
+},
+{
+	"City": "Santa Nella",
+	"State": "CA",
+	"latitude": 37.1014,
+	"longitude": -121.0153
+},
+{
+	"City": "Hamilton City",
+	"State": "CA",
+	"latitude": 39.7422,
+	"longitude": -122.0125
+},
+{
+	"City": "Bell Canyon",
+	"State": "CA",
+	"latitude": 34.2081,
+	"longitude": -118.6876
+},
+{
+	"City": "Belvedere",
+	"State": "CA",
+	"latitude": 37.8735,
+	"longitude": -122.4662
+},
+{
+	"City": "San Juan Bautista",
+	"State": "CA",
+	"latitude": 36.8455,
+	"longitude": -121.538
+},
+{
+	"City": "Calwa",
+	"State": "CA",
+	"latitude": 36.7136,
+	"longitude": -119.7607
+},
+{
+	"City": "Patterson Tract",
+	"State": "CA",
+	"latitude": 36.3795,
+	"longitude": -119.2956
+},
+{
+	"City": "Fairbanks Ranch",
+	"State": "CA",
+	"latitude": 32.9919,
+	"longitude": -117.1859
+},
+{
+	"City": "Rouse",
+	"State": "CA",
+	"latitude": 37.6196,
+	"longitude": -121.0084
+},
+{
+	"City": "Bodfish",
+	"State": "CA",
+	"latitude": 35.5765,
+	"longitude": -118.4764
+},
+{
+	"City": "Woodlands",
+	"State": "CA",
+	"latitude": 35.0289,
+	"longitude": -120.5524
+},
+{
+	"City": "Easton",
+	"State": "CA",
+	"latitude": 36.6524,
+	"longitude": -119.7908
+},
+{
+	"City": "Seeley",
+	"State": "CA",
+	"latitude": 32.7899,
+	"longitude": -115.6842
+},
+{
+	"City": "Auberry",
+	"State": "CA",
+	"latitude": 37.0755,
+	"longitude": -119.4901
+},
+{
+	"City": "Laton",
+	"State": "CA",
+	"latitude": 36.4338,
+	"longitude": -119.6916
+},
+{
+	"City": "Taft Heights",
+	"State": "CA",
+	"latitude": 35.1337,
+	"longitude": -119.4711
+},
+{
+	"City": "Bertsch-Oceanview",
+	"State": "CA",
+	"latitude": 41.7524,
+	"longitude": -124.1594
+},
+{
+	"City": "San Pasqual",
+	"State": "CA",
+	"latitude": 34.1393,
+	"longitude": -118.1027
+},
+{
+	"City": "Quincy",
+	"State": "CA",
+	"latitude": 39.931,
+	"longitude": -120.9548
+},
+{
+	"City": "Brookdale",
+	"State": "CA",
+	"latitude": 37.1058,
+	"longitude": -122.1106
+},
+{
+	"City": "Camino",
+	"State": "CA",
+	"latitude": 38.7412,
+	"longitude": -120.6815
+},
+{
+	"City": "Hidden Hills",
+	"State": "CA",
+	"latitude": 34.1637,
+	"longitude": -118.6612
+},
+{
+	"City": "Graton",
+	"State": "CA",
+	"latitude": 38.4376,
+	"longitude": -122.866
+},
+{
+	"City": "Biggs",
+	"State": "CA",
+	"latitude": 39.4102,
+	"longitude": -121.7133
+},
+{
+	"City": "Warm Springs",
+	"State": "CA",
+	"latitude": 33.7067,
+	"longitude": -117.3344
+},
+{
+	"City": "Foresthill",
+	"State": "CA",
+	"latitude": 39.0053,
+	"longitude": -120.8314
+},
+{
+	"City": "Rolling Hills",
+	"State": "CA",
+	"latitude": 33.76,
+	"longitude": -118.3471
+},
+{
+	"City": "Lone Pine",
+	"State": "CA",
+	"latitude": 36.5774,
+	"longitude": -118.0777
+},
+{
+	"City": "Piru",
+	"State": "CA",
+	"latitude": 34.4075,
+	"longitude": -118.7999
+},
+{
+	"City": "Red Corral",
+	"State": "CA",
+	"latitude": 38.4116,
+	"longitude": -120.6056
+},
+{
+	"City": "Lagunitas-Forest Knolls",
+	"State": "CA",
+	"latitude": 38.018,
+	"longitude": -122.6914
+},
+{
+	"City": "South Taft",
+	"State": "CA",
+	"latitude": 35.1293,
+	"longitude": -119.4575
+},
+{
+	"City": "Woodville",
+	"State": "CA",
+	"latitude": 36.0898,
+	"longitude": -119.205
+},
+{
+	"City": "Boronda",
+	"State": "CA",
+	"latitude": 36.6947,
+	"longitude": -121.6745
+},
+{
+	"City": "Pine Grove",
+	"State": "CA",
+	"latitude": 38.4074,
+	"longitude": -120.6606
+},
+{
+	"City": "South Dos Palos",
+	"State": "CA",
+	"latitude": 36.9707,
+	"longitude": -120.6467
+},
+{
+	"City": "Pine Mountain Club",
+	"State": "CA",
+	"latitude": 34.8446,
+	"longitude": -119.1669
+},
+{
+	"City": "Los Molinos",
+	"State": "CA",
+	"latitude": 40.027,
+	"longitude": -122.0981
+},
+{
+	"City": "Elizabeth Lake",
+	"State": "CA",
+	"latitude": 34.659,
+	"longitude": -118.3783
+},
+{
+	"City": "Le Grand",
+	"State": "CA",
+	"latitude": 37.2288,
+	"longitude": -120.254
+},
+{
+	"City": "Toro Canyon",
+	"State": "CA",
+	"latitude": 34.4235,
+	"longitude": -119.5568
+},
+{
+	"City": "Lost Hills",
+	"State": "CA",
+	"latitude": 35.6254,
+	"longitude": -119.6789
+},
+{
+	"City": "Redwood Valley",
+	"State": "CA",
+	"latitude": 39.269,
+	"longitude": -123.2023
+},
+{
+	"City": "Biola",
+	"State": "CA",
+	"latitude": 36.8006,
+	"longitude": -120.0199
+},
+{
+	"City": "London",
+	"State": "CA",
+	"latitude": 36.481,
+	"longitude": -119.444
+},
+{
+	"City": "Searles Valley",
+	"State": "CA",
+	"latitude": 35.7701,
+	"longitude": -117.3967
+},
+{
+	"City": "Rancho Tehama Reserve",
+	"State": "CA",
+	"latitude": 40.001,
+	"longitude": -122.4418
+},
+{
+	"City": "Lake Sherwood",
+	"State": "CA",
+	"latitude": 34.1339,
+	"longitude": -118.8804
+},
+{
+	"City": "Del Rey Oaks",
+	"State": "CA",
+	"latitude": 36.5929,
+	"longitude": -121.8381
+},
+{
+	"City": "Westwood",
+	"State": "CA",
+	"latitude": 40.3049,
+	"longitude": -121.0045
+},
+{
+	"City": "Los Ranchos",
+	"State": "CA",
+	"latitude": 35.2102,
+	"longitude": -120.6291
+},
+{
+	"City": "Los Alamos",
+	"State": "CA",
+	"latitude": 34.7375,
+	"longitude": -120.2783
+},
+{
+	"City": "Black Point-Green Point",
+	"State": "CA",
+	"latitude": 38.112,
+	"longitude": -122.5191
+},
+{
+	"City": "Temelec",
+	"State": "CA",
+	"latitude": 38.2577,
+	"longitude": -122.4982
+},
+{
+	"City": "Ladera",
+	"State": "CA",
+	"latitude": 37.3996,
+	"longitude": -122.199
+},
+{
+	"City": "Del Rio",
+	"State": "CA",
+	"latitude": 37.7432,
+	"longitude": -121.0091
+},
+{
+	"City": "Coarsegold",
+	"State": "CA",
+	"latitude": 37.2526,
+	"longitude": -119.7
+},
+{
+	"City": "Tuolumne City",
+	"State": "CA",
+	"latitude": 37.9615,
+	"longitude": -120.2428
+},
+{
+	"City": "Shasta",
+	"State": "CA",
+	"latitude": 40.591,
+	"longitude": -122.4797
+},
+{
+	"City": "Leona Valley",
+	"State": "CA",
+	"latitude": 34.6147,
+	"longitude": -118.299
+},
+{
+	"City": "Descanso",
+	"State": "CA",
+	"latitude": 32.8696,
+	"longitude": -116.6279
+},
+{
+	"City": "Dunsmuir",
+	"State": "CA",
+	"latitude": 41.2318,
+	"longitude": -122.2714
+},
+{
+	"City": "Linden",
+	"State": "CA",
+	"latitude": 38.0186,
+	"longitude": -121.0994
+},
+{
+	"City": "Big Pine",
+	"State": "CA",
+	"latitude": 37.1655,
+	"longitude": -118.2952
+},
+{
+	"City": "Home Garden",
+	"State": "CA",
+	"latitude": 36.3025,
+	"longitude": -119.6362
+},
+{
+	"City": "Willow Creek",
+	"State": "CA",
+	"latitude": 40.9385,
+	"longitude": -123.6412
+},
+{
+	"City": "Chualar",
+	"State": "CA",
+	"latitude": 36.5711,
+	"longitude": -121.5103
+},
+{
+	"City": "Colma",
+	"State": "CA",
+	"latitude": 37.6767,
+	"longitude": -122.4526
+},
+{
+	"City": "Airport",
+	"State": "CA",
+	"latitude": 37.6324,
+	"longitude": -120.9774
+},
+{
+	"City": "Pine Valley",
+	"State": "CA",
+	"latitude": 32.8415,
+	"longitude": -116.5107
+},
+{
+	"City": "Green Valley",
+	"State": "CA",
+	"latitude": 38.2607,
+	"longitude": -122.1622
+},
+{
+	"City": "Lebec",
+	"State": "CA",
+	"latitude": 34.845,
+	"longitude": -118.8992
+},
+{
+	"City": "Monument Hills",
+	"State": "CA",
+	"latitude": 38.6641,
+	"longitude": -121.8756
+},
+{
+	"City": "Dunnigan",
+	"State": "CA",
+	"latitude": 38.8926,
+	"longitude": -121.9741
+},
+{
+	"City": "Irwindale",
+	"State": "CA",
+	"latitude": 34.1121,
+	"longitude": -117.9636
+},
+{
+	"City": "Buttonwillow",
+	"State": "CA",
+	"latitude": 35.4092,
+	"longitude": -119.4406
+},
+{
+	"City": "Midpines",
+	"State": "CA",
+	"latitude": 37.5531,
+	"longitude": -119.9485
+},
+{
+	"City": "Castle Hill",
+	"State": "CA",
+	"latitude": 37.8729,
+	"longitude": -122.0573
+},
+{
+	"City": "Eldridge",
+	"State": "CA",
+	"latitude": 38.3339,
+	"longitude": -122.5065
+},
+{
+	"City": "Janesville",
+	"State": "CA",
+	"latitude": 40.2809,
+	"longitude": -120.5335
+},
+{
+	"City": "Montague",
+	"State": "CA",
+	"latitude": 41.7276,
+	"longitude": -122.5304
+},
+{
+	"City": "Mountain Mesa",
+	"State": "CA",
+	"latitude": 35.6411,
+	"longitude": -118.4047
+},
+{
+	"City": "Allendale",
+	"State": "CA",
+	"latitude": 38.4426,
+	"longitude": -121.9814
+},
+{
+	"City": "Pioneer",
+	"State": "CA",
+	"latitude": 38.4354,
+	"longitude": -120.5848
+},
+{
+	"City": "Lewiston",
+	"State": "CA",
+	"latitude": 40.6969,
+	"longitude": -122.8225
+},
+{
+	"City": "Walnut Grove",
+	"State": "CA",
+	"latitude": 38.2478,
+	"longitude": -121.528
+},
+{
+	"City": "Grayson",
+	"State": "CA",
+	"latitude": 37.565,
+	"longitude": -121.1794
+},
+{
+	"City": "Redway",
+	"State": "CA",
+	"latitude": 40.1209,
+	"longitude": -123.822
+},
+{
+	"City": "Sheridan",
+	"State": "CA",
+	"latitude": 38.969,
+	"longitude": -121.3559
+},
+{
+	"City": "Lower Lake",
+	"State": "CA",
+	"latitude": 38.9119,
+	"longitude": -122.6085
+},
+{
+	"City": "Lake Riverside",
+	"State": "CA",
+	"latitude": 33.5173,
+	"longitude": -116.8107
+},
+{
+	"City": "Ferndale",
+	"State": "CA",
+	"latitude": 40.5799,
+	"longitude": -124.2619
+},
+{
+	"City": "Shell Ridge",
+	"State": "CA",
+	"latitude": 37.906,
+	"longitude": -122.0345
+},
+{
+	"City": "Penn Valley",
+	"State": "CA",
+	"latitude": 39.1954,
+	"longitude": -121.1942
+},
+{
+	"City": "Thermal",
+	"State": "CA",
+	"latitude": 33.6262,
+	"longitude": -116.1308
+},
+{
+	"City": "Forest Meadows",
+	"State": "CA",
+	"latitude": 38.1664,
+	"longitude": -120.4052
+},
+{
+	"City": "Berry Creek",
+	"State": "CA",
+	"latitude": 39.6314,
+	"longitude": -121.4052
+},
+{
+	"City": "Avila Beach",
+	"State": "CA",
+	"latitude": 35.1969,
+	"longitude": -120.7191
+},
+{
+	"City": "Byron",
+	"State": "CA",
+	"latitude": 37.8756,
+	"longitude": -121.642
+},
+{
+	"City": "Herlong",
+	"State": "CA",
+	"latitude": 40.1419,
+	"longitude": -120.1399
+},
+{
+	"City": "Del Rey",
+	"State": "CA",
+	"latitude": 36.6562,
+	"longitude": -119.5993
+},
+{
+	"City": "Mount Hermon",
+	"State": "CA",
+	"latitude": 37.0511,
+	"longitude": -122.0533
+},
+{
+	"City": "Blue Lake",
+	"State": "CA",
+	"latitude": 40.8813,
+	"longitude": -123.9931
+},
+{
+	"City": "Saticoy",
+	"State": "CA",
+	"latitude": 34.2819,
+	"longitude": -119.1452
+},
+{
+	"City": "Callender",
+	"State": "CA",
+	"latitude": 35.048,
+	"longitude": -120.5759
+},
+{
+	"City": "Newcastle",
+	"State": "CA",
+	"latitude": 38.8677,
+	"longitude": -121.1318
+},
+{
+	"City": "Pasatiempo",
+	"State": "CA",
+	"latitude": 37.0035,
+	"longitude": -122.0265
+},
+{
+	"City": "Laytonville",
+	"State": "CA",
+	"latitude": 39.6715,
+	"longitude": -123.4945
+},
+{
+	"City": "Grizzly Flats",
+	"State": "CA",
+	"latitude": 38.6357,
+	"longitude": -120.5355
+},
+{
+	"City": "Maricopa",
+	"State": "CA",
+	"latitude": 35.0516,
+	"longitude": -119.4054
+},
+{
+	"City": "Clay",
+	"State": "CA",
+	"latitude": 38.314,
+	"longitude": -121.1596
+},
+{
+	"City": "Malaga",
+	"State": "CA",
+	"latitude": 36.6816,
+	"longitude": -119.7318
+},
+{
+	"City": "Mariposa",
+	"State": "CA",
+	"latitude": 37.4873,
+	"longitude": -119.9682
+},
+{
+	"City": "Knightsen",
+	"State": "CA",
+	"latitude": 37.9633,
+	"longitude": -121.6511
+},
+{
+	"City": "Woodacre",
+	"State": "CA",
+	"latitude": 38.0052,
+	"longitude": -122.6384
+},
+{
+	"City": "Yosemite Valley",
+	"State": "CA",
+	"latitude": 37.7407,
+	"longitude": -119.5779
+},
+{
+	"City": "Sunnyside-Tahoe City",
+	"State": "CA",
+	"latitude": 39.1504,
+	"longitude": -120.1613
+},
+{
+	"City": "Tahoe Vista",
+	"State": "CA",
+	"latitude": 39.2483,
+	"longitude": -120.0535
+},
+{
+	"City": "Elkhorn",
+	"State": "CA",
+	"latitude": 36.8103,
+	"longitude": -121.7212
+},
+{
+	"City": "Big River",
+	"State": "CA",
+	"latitude": 34.1393,
+	"longitude": -114.3604
+},
+{
+	"City": "Alpaugh",
+	"State": "CA",
+	"latitude": 35.8876,
+	"longitude": -119.4873
+},
+{
+	"City": "Hasley Canyon",
+	"State": "CA",
+	"latitude": 34.4817,
+	"longitude": -118.6665
+},
+{
+	"City": "Palo Cedro",
+	"State": "CA",
+	"latitude": 40.5511,
+	"longitude": -122.2363
+},
+{
+	"City": "Mountain Ranch",
+	"State": "CA",
+	"latitude": 38.2509,
+	"longitude": -120.5119
+},
+{
+	"City": "Gerber",
+	"State": "CA",
+	"latitude": 40.0614,
+	"longitude": -122.1482
+},
+{
+	"City": "Covelo",
+	"State": "CA",
+	"latitude": 39.8025,
+	"longitude": -123.2499
+},
+{
+	"City": "Camanche North Shore",
+	"State": "CA",
+	"latitude": 38.2442,
+	"longitude": -120.9538
+},
+{
+	"City": "Matheny",
+	"State": "CA",
+	"latitude": 36.1707,
+	"longitude": -119.3516
+},
+{
+	"City": "Kettleman City",
+	"State": "CA",
+	"latitude": 36.009,
+	"longitude": -119.9627
+},
+{
+	"City": "Sea Ranch",
+	"State": "CA",
+	"latitude": 38.7165,
+	"longitude": -123.4527
+},
+{
+	"City": "Acalanes Ridge",
+	"State": "CA",
+	"latitude": 37.9046,
+	"longitude": -122.0786
+},
+{
+	"City": "Johnstonville",
+	"State": "CA",
+	"latitude": 40.3789,
+	"longitude": -120.5846
+},
+{
+	"City": "Santa Margarita",
+	"State": "CA",
+	"latitude": 35.3893,
+	"longitude": -120.6084
+},
+{
+	"City": "Westhaven-Moonstone",
+	"State": "CA",
+	"latitude": 41.0447,
+	"longitude": -124.1023
+},
+{
+	"City": "Fairmead",
+	"State": "CA",
+	"latitude": 37.0775,
+	"longitude": -120.1937
+},
+{
+	"City": "Taft Mosswood",
+	"State": "CA",
+	"latitude": 37.9139,
+	"longitude": -121.2831
+},
+{
+	"City": "Fort Dick",
+	"State": "CA",
+	"latitude": 41.8663,
+	"longitude": -124.1526
+},
+{
+	"City": "Inverness",
+	"State": "CA",
+	"latitude": 38.082,
+	"longitude": -122.8471
+},
+{
+	"City": "Shandon",
+	"State": "CA",
+	"latitude": 35.6536,
+	"longitude": -120.3831
+},
+{
+	"City": "Crowley Lake",
+	"State": "CA",
+	"latitude": 37.5692,
+	"longitude": -118.7465
+},
+{
+	"City": "Plymouth",
+	"State": "CA",
+	"latitude": 38.4776,
+	"longitude": -120.8584
+},
+{
+	"City": "Maxwell",
+	"State": "CA",
+	"latitude": 39.2771,
+	"longitude": -122.1946
+},
+{
+	"City": "Bolinas",
+	"State": "CA",
+	"latitude": 37.9177,
+	"longitude": -122.7095
+},
+{
+	"City": "West Park",
+	"State": "CA",
+	"latitude": 36.7055,
+	"longitude": -119.8516
+},
+{
+	"City": "Bradbury",
+	"State": "CA",
+	"latitude": 34.1536,
+	"longitude": -117.9684
+},
+{
+	"City": "Hydesville",
+	"State": "CA",
+	"latitude": 40.5579,
+	"longitude": -124.0822
+},
+{
+	"City": "McClellan Park",
+	"State": "CA",
+	"latitude": 38.6631,
+	"longitude": -121.4015
+},
+{
+	"City": "Parklawn",
+	"State": "CA",
+	"latitude": 37.6069,
+	"longitude": -120.9793
+},
+{
+	"City": "Knights Landing",
+	"State": "CA",
+	"latitude": 38.7979,
+	"longitude": -121.7175
+},
+{
+	"City": "Lompico",
+	"State": "CA",
+	"latitude": 37.1101,
+	"longitude": -122.0523
+},
+{
+	"City": "Riverdale Park",
+	"State": "CA",
+	"latitude": 37.6028,
+	"longitude": -121.0425
+},
+{
+	"City": "Thornton",
+	"State": "CA",
+	"latitude": 38.231,
+	"longitude": -121.425
+},
+{
+	"City": "Beale AFB",
+	"State": "CA",
+	"latitude": 39.1095,
+	"longitude": -121.3543
+},
+{
+	"City": "McCloud",
+	"State": "CA",
+	"latitude": 41.254,
+	"longitude": -122.136
+},
+{
+	"City": "Julian",
+	"State": "CA",
+	"latitude": 33.0735,
+	"longitude": -116.5889
+},
+{
+	"City": "Silverado Resort",
+	"State": "CA",
+	"latitude": 38.3536,
+	"longitude": -122.2556
+},
+{
+	"City": "Cedar Ridge",
+	"State": "CA",
+	"latitude": 38.0661,
+	"longitude": -120.2737
+},
+{
+	"City": "Cobb",
+	"State": "CA",
+	"latitude": 38.8356,
+	"longitude": -122.723
+},
+{
+	"City": "Pala",
+	"State": "CA",
+	"latitude": 33.3617,
+	"longitude": -117.0696
+},
+{
+	"City": "Chalfant",
+	"State": "CA",
+	"latitude": 37.5105,
+	"longitude": -118.375
+},
+{
+	"City": "Talmage",
+	"State": "CA",
+	"latitude": 39.1314,
+	"longitude": -123.1648
+},
+{
+	"City": "Tuttletown",
+	"State": "CA",
+	"latitude": 38.0003,
+	"longitude": -120.4503
+},
+{
+	"City": "Sultana",
+	"State": "CA",
+	"latitude": 36.5464,
+	"longitude": -119.3359
+},
+{
+	"City": "March ARB",
+	"State": "CA",
+	"latitude": 33.8888,
+	"longitude": -117.2776
+},
+{
+	"City": "Squirrel Mountain Valley",
+	"State": "CA",
+	"latitude": 35.6176,
+	"longitude": -118.4046
+},
+{
+	"City": "Tulelake",
+	"State": "CA",
+	"latitude": 41.9534,
+	"longitude": -121.4752
+},
+{
+	"City": "Monte Rio",
+	"State": "CA",
+	"latitude": 38.4683,
+	"longitude": -123.0147
+},
+{
+	"City": "Tahoma",
+	"State": "CA",
+	"latitude": 39.0633,
+	"longitude": -120.1438
+},
+{
+	"City": "Cleone",
+	"State": "CA",
+	"latitude": 39.4927,
+	"longitude": -123.7812
+},
+{
+	"City": "Westley",
+	"State": "CA",
+	"latitude": 37.5444,
+	"longitude": -121.2035
+},
+{
+	"City": "Herald",
+	"State": "CA",
+	"latitude": 38.2913,
+	"longitude": -121.2318
+},
+{
+	"City": "Springville",
+	"State": "CA",
+	"latitude": 36.1168,
+	"longitude": -118.8345
+},
+{
+	"City": "Fruitdale",
+	"State": "CA",
+	"latitude": 37.3116,
+	"longitude": -121.9357
+},
+{
+	"City": "La Honda",
+	"State": "CA",
+	"latitude": 37.3182,
+	"longitude": -122.2651
+},
+{
+	"City": "Butte Creek Canyon",
+	"State": "CA",
+	"latitude": 39.749,
+	"longitude": -121.6968
+},
+{
+	"City": "Minkler",
+	"State": "CA",
+	"latitude": 36.7277,
+	"longitude": -119.4587
+},
+{
+	"City": "Mountain Gate",
+	"State": "CA",
+	"latitude": 40.7184,
+	"longitude": -122.3262
+},
+{
+	"City": "Boonville",
+	"State": "CA",
+	"latitude": 39.0115,
+	"longitude": -123.374
+},
+{
+	"City": "Wallace",
+	"State": "CA",
+	"latitude": 38.1978,
+	"longitude": -120.9586
+},
+{
+	"City": "Santa Susana",
+	"State": "CA",
+	"latitude": 34.258,
+	"longitude": -118.6662
+},
+{
+	"City": "Lake of the Woods",
+	"State": "CA",
+	"latitude": 34.8226,
+	"longitude": -119.0027
+},
+{
+	"City": "Linnell Camp",
+	"State": "CA",
+	"latitude": 36.3089,
+	"longitude": -119.2225
+},
+{
+	"City": "Hopland",
+	"State": "CA",
+	"latitude": 38.9691,
+	"longitude": -123.1173
+},
+{
+	"City": "Garberville",
+	"State": "CA",
+	"latitude": 40.1003,
+	"longitude": -123.7948
+},
+{
+	"City": "Mesa Verde",
+	"State": "CA",
+	"latitude": 33.5957,
+	"longitude": -114.7317
+},
+{
+	"City": "Camanche Village",
+	"State": "CA",
+	"latitude": 38.2662,
+	"longitude": -120.9866
+},
+{
+	"City": "Lake Don Pedro",
+	"State": "CA",
+	"latitude": 37.6461,
+	"longitude": -120.3367
+},
+{
+	"City": "Stratford",
+	"State": "CA",
+	"latitude": 36.1884,
+	"longitude": -119.8224
+},
+{
+	"City": "Norris Canyon",
+	"State": "CA",
+	"latitude": 37.7454,
+	"longitude": -121.9878
+},
+{
+	"City": "Dorris",
+	"State": "CA",
+	"latitude": 41.9644,
+	"longitude": -121.9205
+},
+{
+	"City": "Upper Lake",
+	"State": "CA",
+	"latitude": 39.1653,
+	"longitude": -122.9052
+},
+{
+	"City": "Bodega",
+	"State": "CA",
+	"latitude": 38.3488,
+	"longitude": -122.9712
+},
+{
+	"City": "Whitewater",
+	"State": "CA",
+	"latitude": 33.9356,
+	"longitude": -116.6873
+},
+{
+	"City": "Diablo Grande",
+	"State": "CA",
+	"latitude": 37.4006,
+	"longitude": -121.2699
+},
+{
+	"City": "Plainview",
+	"State": "CA",
+	"latitude": 36.1423,
+	"longitude": -119.1375
+},
+{
+	"City": "Fuller Acres",
+	"State": "CA",
+	"latitude": 35.3023,
+	"longitude": -118.9143
+},
+{
+	"City": "Teviston",
+	"State": "CA",
+	"latitude": 35.929,
+	"longitude": -119.2783
+},
+{
+	"City": "Fieldbrook",
+	"State": "CA",
+	"latitude": 40.9722,
+	"longitude": -124.025
+},
+{
+	"City": "North Edwards",
+	"State": "CA",
+	"latitude": 35.0474,
+	"longitude": -117.8093
+},
+{
+	"City": "Mi-Wuk Village",
+	"State": "CA",
+	"latitude": 38.057,
+	"longitude": -120.179
+},
+{
+	"City": "Soda Bay",
+	"State": "CA",
+	"latitude": 39.0024,
+	"longitude": -122.7794
+},
+{
+	"City": "Deer Park",
+	"State": "CA",
+	"latitude": 38.536,
+	"longitude": -122.4679
+},
+{
+	"City": "Walker",
+	"State": "CA",
+	"latitude": 38.5341,
+	"longitude": -119.4582
+},
+{
+	"City": "Mendocino",
+	"State": "CA",
+	"latitude": 39.311,
+	"longitude": -123.7908
+},
+{
+	"City": "East Tulare Villa",
+	"State": "CA",
+	"latitude": 36.2035,
+	"longitude": -119.2821
+},
+{
+	"City": "Blacklake",
+	"State": "CA",
+	"latitude": 35.0497,
+	"longitude": -120.5387
+},
+{
+	"City": "Sunol",
+	"State": "CA",
+	"latitude": 37.5894,
+	"longitude": -121.8854
+},
+{
+	"City": "Summerland",
+	"State": "CA",
+	"latitude": 34.4255,
+	"longitude": -119.5893
+},
+{
+	"City": "Isleton",
+	"State": "CA",
+	"latitude": 38.1617,
+	"longitude": -121.6051
+},
+{
+	"City": "Happy Camp",
+	"State": "CA",
+	"latitude": 41.8104,
+	"longitude": -123.3892
+},
+{
+	"City": "Potrero",
+	"State": "CA",
+	"latitude": 32.6131,
+	"longitude": -116.6068
+},
+{
+	"City": "Occidental",
+	"State": "CA",
+	"latitude": 38.4004,
+	"longitude": -122.9349
+},
+{
+	"City": "Penryn",
+	"State": "CA",
+	"latitude": 38.8478,
+	"longitude": -121.1699
+},
+{
+	"City": "Greenville",
+	"State": "CA",
+	"latitude": 40.1336,
+	"longitude": -120.9454
+},
+{
+	"City": "Tranquillity",
+	"State": "CA",
+	"latitude": 36.648,
+	"longitude": -120.2525
+},
+{
+	"City": "Aguanga",
+	"State": "CA",
+	"latitude": 33.4522,
+	"longitude": -116.8555
+},
+{
+	"City": "Dollar Point",
+	"State": "CA",
+	"latitude": 39.1905,
+	"longitude": -120.1089
+},
+{
+	"City": "East Orosi",
+	"State": "CA",
+	"latitude": 36.5481,
+	"longitude": -119.2599
+},
+{
+	"City": "Zayante",
+	"State": "CA",
+	"latitude": 37.0889,
+	"longitude": -122.0414
+},
+{
+	"City": "Manila",
+	"State": "CA",
+	"latitude": 40.8513,
+	"longitude": -124.1631
+},
+{
+	"City": "Clyde",
+	"State": "CA",
+	"latitude": 38.0253,
+	"longitude": -122.0278
+},
+{
+	"City": "Los Olivos",
+	"State": "CA",
+	"latitude": 34.6647,
+	"longitude": -120.118
+},
+{
+	"City": "Littlerock",
+	"State": "CA",
+	"latitude": 34.5232,
+	"longitude": -117.9809
+},
+{
+	"City": "Alhambra Valley",
+	"State": "CA",
+	"latitude": 37.9665,
+	"longitude": -122.132
+},
+{
+	"City": "Indio Hills",
+	"State": "CA",
+	"latitude": 33.8411,
+	"longitude": -116.2484
+},
+{
+	"City": "Forest Ranch",
+	"State": "CA",
+	"latitude": 39.8952,
+	"longitude": -121.6705
+},
+{
+	"City": "Geyserville",
+	"State": "CA",
+	"latitude": 38.7173,
+	"longitude": -122.9034
+},
+{
+	"City": "Traver",
+	"State": "CA",
+	"latitude": 36.4526,
+	"longitude": -119.4824
+},
+{
+	"City": "Greeley Hill",
+	"State": "CA",
+	"latitude": 37.7569,
+	"longitude": -120.1291
+},
+{
+	"City": "Bootjack",
+	"State": "CA",
+	"latitude": 37.4672,
+	"longitude": -119.8887
+},
+{
+	"City": "Middletown",
+	"State": "CA",
+	"latitude": 38.7518,
+	"longitude": -122.6221
+},
+{
+	"City": "Indianola",
+	"State": "CA",
+	"latitude": 40.8133,
+	"longitude": -124.0808
+},
+{
+	"City": "Butte Valley",
+	"State": "CA",
+	"latitude": 39.6571,
+	"longitude": -121.6363
+},
+{
+	"City": "Glen Ellen",
+	"State": "CA",
+	"latitude": 38.3564,
+	"longitude": -122.5412
+},
+{
+	"City": "Challenge-Brownsville",
+	"State": "CA",
+	"latitude": 39.4646,
+	"longitude": -121.2632
+},
+{
+	"City": "Etna",
+	"State": "CA",
+	"latitude": 41.4582,
+	"longitude": -122.8946
+},
+{
+	"City": "Kenwood",
+	"State": "CA",
+	"latitude": 38.4153,
+	"longitude": -122.5387
+},
+{
+	"City": "Delft Colony",
+	"State": "CA",
+	"latitude": 36.512,
+	"longitude": -119.4465
+},
+{
+	"City": "Hickman",
+	"State": "CA",
+	"latitude": 37.6228,
+	"longitude": -120.7532
+},
+{
+	"City": "Loyalton",
+	"State": "CA",
+	"latitude": 39.6768,
+	"longitude": -120.2448
+},
+{
+	"City": "Inyokern",
+	"State": "CA",
+	"latitude": 35.6546,
+	"longitude": -117.8212
+},
+{
+	"City": "Fort Jones",
+	"State": "CA",
+	"latitude": 41.6085,
+	"longitude": -122.8411
+},
+{
+	"City": "Mokelumne Hill",
+	"State": "CA",
+	"latitude": 38.3057,
+	"longitude": -120.7061
+},
+{
+	"City": "North Gate",
+	"State": "CA",
+	"latitude": 37.9062,
+	"longitude": -121.9981
+},
+{
+	"City": "Gasquet",
+	"State": "CA",
+	"latitude": 41.8429,
+	"longitude": -123.9733
+},
+{
+	"City": "Tres Pinos",
+	"State": "CA",
+	"latitude": 36.7904,
+	"longitude": -121.3105
+},
+{
+	"City": "Calpella",
+	"State": "CA",
+	"latitude": 39.2322,
+	"longitude": -123.197
+},
+{
+	"City": "Junction City",
+	"State": "CA",
+	"latitude": 40.7274,
+	"longitude": -123.0615
+},
+{
+	"City": "Millville",
+	"State": "CA",
+	"latitude": 40.5576,
+	"longitude": -122.1696
+},
+{
+	"City": "Lytle Creek",
+	"State": "CA",
+	"latitude": 34.2499,
+	"longitude": -117.5044
+},
+{
+	"City": "Lakehead",
+	"State": "CA",
+	"latitude": 40.9007,
+	"longitude": -122.3924
+},
+{
+	"City": "Waterloo",
+	"State": "CA",
+	"latitude": 38.0365,
+	"longitude": -121.1846
+},
+{
+	"City": "Bodega Bay",
+	"State": "CA",
+	"latitude": 38.325,
+	"longitude": -123.0308
+},
+{
+	"City": "Kernville",
+	"State": "CA",
+	"latitude": 35.7531,
+	"longitude": -118.4321
+},
+{
+	"City": "New Cuyama",
+	"State": "CA",
+	"latitude": 34.9421,
+	"longitude": -119.6808
+},
+{
+	"City": "San Simeon",
+	"State": "CA",
+	"latitude": 35.6182,
+	"longitude": -121.1375
+},
+{
+	"City": "Valley Acres",
+	"State": "CA",
+	"latitude": 35.2087,
+	"longitude": -119.4106
+},
+{
+	"City": "Fulton",
+	"State": "CA",
+	"latitude": 38.4937,
+	"longitude": -122.7734
+},
+{
+	"City": "Dustin Acres",
+	"State": "CA",
+	"latitude": 35.2159,
+	"longitude": -119.375
+},
+{
+	"City": "Ducor",
+	"State": "CA",
+	"latitude": 35.8943,
+	"longitude": -119.0456
+},
+{
+	"City": "Klamath",
+	"State": "CA",
+	"latitude": 41.5322,
+	"longitude": -124.0063
+},
+{
+	"City": "Loleta",
+	"State": "CA",
+	"latitude": 40.6409,
+	"longitude": -124.2225
+},
+{
+	"City": "Niland",
+	"State": "CA",
+	"latitude": 33.2387,
+	"longitude": -115.5146
+},
+{
+	"City": "Cohasset",
+	"State": "CA",
+	"latitude": 39.9022,
+	"longitude": -121.7453
+},
+{
+	"City": "Patton Village",
+	"State": "CA",
+	"latitude": 40.1401,
+	"longitude": -120.1778
+},
+{
+	"City": "Douglas City",
+	"State": "CA",
+	"latitude": 40.6636,
+	"longitude": -122.9261
+},
+{
+	"City": "Peters",
+	"State": "CA",
+	"latitude": 37.9763,
+	"longitude": -121.044
+},
+{
+	"City": "Doyle",
+	"State": "CA",
+	"latitude": 40.0275,
+	"longitude": -120.1172
+},
+{
+	"City": "Seville",
+	"State": "CA",
+	"latitude": 36.4856,
+	"longitude": -119.2247
+},
+{
+	"City": "Alto",
+	"State": "CA",
+	"latitude": 37.9056,
+	"longitude": -122.5186
+},
+{
+	"City": "Caspar",
+	"State": "CA",
+	"latitude": 39.3631,
+	"longitude": -123.8044
+},
+{
+	"City": "Cedarville",
+	"State": "CA",
+	"latitude": 41.528,
+	"longitude": -120.1748
+},
+{
+	"City": "Miranda",
+	"State": "CA",
+	"latitude": 40.2289,
+	"longitude": -123.8173
+},
+{
+	"City": "Catheys Valley",
+	"State": "CA",
+	"latitude": 37.4371,
+	"longitude": -120.0936
+},
+{
+	"City": "Friant",
+	"State": "CA",
+	"latitude": 36.9848,
+	"longitude": -119.713
+},
+{
+	"City": "Independence",
+	"State": "CA",
+	"latitude": 36.8274,
+	"longitude": -118.2132
+},
+{
+	"City": "Stinson Beach",
+	"State": "CA",
+	"latitude": 37.9051,
+	"longitude": -122.6456
+},
+{
+	"City": "Buena Vista",
+	"State": "CA",
+	"latitude": 38.2974,
+	"longitude": -120.9179
+},
+{
+	"City": "Cold Springs",
+	"State": "CA",
+	"latitude": 38.7468,
+	"longitude": -120.8761
+},
+{
+	"City": "Madison",
+	"State": "CA",
+	"latitude": 38.675,
+	"longitude": -121.9702
+},
+{
+	"City": "Shelter Cove",
+	"State": "CA",
+	"latitude": 40.0389,
+	"longitude": -124.0558
+},
+{
+	"City": "Allensworth",
+	"State": "CA",
+	"latitude": 35.8498,
+	"longitude": -119.3893
+},
+{
+	"City": "Desert Shores",
+	"State": "CA",
+	"latitude": 33.4041,
+	"longitude": -116.0394
+},
+{
+	"City": "Alta",
+	"State": "CA",
+	"latitude": 39.2138,
+	"longitude": -120.8033
+},
+{
+	"City": "River Pines",
+	"State": "CA",
+	"latitude": 38.5454,
+	"longitude": -120.7475
+},
+{
+	"City": "Newell",
+	"State": "CA",
+	"latitude": 41.8897,
+	"longitude": -121.3675
+},
+{
+	"City": "Avery",
+	"State": "CA",
+	"latitude": 38.1939,
+	"longitude": -120.379
+},
+{
+	"City": "Concow",
+	"State": "CA",
+	"latitude": 39.7733,
+	"longitude": -121.5196
+},
+{
+	"City": "Paradise Park",
+	"State": "CA",
+	"latitude": 37.0063,
+	"longitude": -122.0425
+},
+{
+	"City": "Scotia",
+	"State": "CA",
+	"latitude": 40.4774,
+	"longitude": -124.1032
+},
+{
+	"City": "San Lucas",
+	"State": "CA",
+	"latitude": 36.1283,
+	"longitude": -121.0217
+},
+{
+	"City": "San Ardo",
+	"State": "CA",
+	"latitude": 36.0237,
+	"longitude": -120.9074
+},
+{
+	"City": "Bridgeport",
+	"State": "CA",
+	"latitude": 38.2562,
+	"longitude": -119.2123
+},
+{
+	"City": "Baker",
+	"State": "CA",
+	"latitude": 35.2769,
+	"longitude": -116.0718
+},
+{
+	"City": "Fort Washington",
+	"State": "CA",
+	"latitude": 36.8793,
+	"longitude": -119.7613
+},
+{
+	"City": "Ballico",
+	"State": "CA",
+	"latitude": 37.4519,
+	"longitude": -120.7037
+},
+{
+	"City": "Graeagle",
+	"State": "CA",
+	"latitude": 39.7572,
+	"longitude": -120.6486
+},
+{
+	"City": "Ballard",
+	"State": "CA",
+	"latitude": 34.634,
+	"longitude": -120.1156
+},
+{
+	"City": "Los Berros",
+	"State": "CA",
+	"latitude": 35.0809,
+	"longitude": -120.545
+},
+{
+	"City": "Lake Hughes",
+	"State": "CA",
+	"latitude": 34.6833,
+	"longitude": -118.4588
+},
+{
+	"City": "Wilkerson",
+	"State": "CA",
+	"latitude": 37.2794,
+	"longitude": -118.3877
+},
+{
+	"City": "Lockwood",
+	"State": "CA",
+	"latitude": 35.9412,
+	"longitude": -121.0802
+},
+{
+	"City": "Yettem",
+	"State": "CA",
+	"latitude": 36.4866,
+	"longitude": -119.2549
+},
+{
+	"City": "Round Valley",
+	"State": "CA",
+	"latitude": 37.4067,
+	"longitude": -118.5819
+},
+{
+	"City": "Rough and Ready",
+	"State": "CA",
+	"latitude": 39.234,
+	"longitude": -121.1381
+},
+{
+	"City": "Bend",
+	"State": "CA",
+	"latitude": 40.2561,
+	"longitude": -122.2095
+},
+{
+	"City": "Cowan",
+	"State": "CA",
+	"latitude": 37.5601,
+	"longitude": -120.9888
+},
+{
+	"City": "Smith River",
+	"State": "CA",
+	"latitude": 41.9249,
+	"longitude": -124.1494
+},
+{
+	"City": "Potter Valley",
+	"State": "CA",
+	"latitude": 39.319,
+	"longitude": -123.1123
+},
+{
+	"City": "Hamilton Branch",
+	"State": "CA",
+	"latitude": 40.2772,
+	"longitude": -121.0961
+},
+{
+	"City": "Smith Corner",
+	"State": "CA",
+	"latitude": 35.4788,
+	"longitude": -119.2771
+},
+{
+	"City": "Onyx",
+	"State": "CA",
+	"latitude": 35.6839,
+	"longitude": -118.2102
+},
+{
+	"City": "Delleker",
+	"State": "CA",
+	"latitude": 39.8101,
+	"longitude": -120.4969
+},
+{
+	"City": "Shaver Lake",
+	"State": "CA",
+	"latitude": 37.0971,
+	"longitude": -119.3245
+},
+{
+	"City": "Coleville",
+	"State": "CA",
+	"latitude": 38.5834,
+	"longitude": -119.516
+},
+{
+	"City": "Mad River",
+	"State": "CA",
+	"latitude": 40.4325,
+	"longitude": -123.4917
+},
+{
+	"City": "Clarksburg",
+	"State": "CA",
+	"latitude": 38.4193,
+	"longitude": -121.5416
+},
+{
+	"City": "West Point",
+	"State": "CA",
+	"latitude": 38.4043,
+	"longitude": -120.5374
+},
+{
+	"City": "Carnelian Bay",
+	"State": "CA",
+	"latitude": 39.2346,
+	"longitude": -120.0767
+},
+{
+	"City": "Point Arena",
+	"State": "CA",
+	"latitude": 38.9123,
+	"longitude": -123.6955
+},
+{
+	"City": "Bass Lake",
+	"State": "CA",
+	"latitude": 37.328,
+	"longitude": -119.5668
+},
+{
+	"City": "Diablo",
+	"State": "CA",
+	"latitude": 37.8408,
+	"longitude": -121.9565
+},
+{
+	"City": "Terminous",
+	"State": "CA",
+	"latitude": 38.1154,
+	"longitude": -121.4896
+},
+{
+	"City": "McArthur",
+	"State": "CA",
+	"latitude": 41.0415,
+	"longitude": -121.4068
+},
+{
+	"City": "Ripley",
+	"State": "CA",
+	"latitude": 33.5238,
+	"longitude": -114.6531
+},
+{
+	"City": "French Gulch",
+	"State": "CA",
+	"latitude": 40.7166,
+	"longitude": -122.6312
+},
+{
+	"City": "California Pines",
+	"State": "CA",
+	"latitude": 41.4117,
+	"longitude": -120.6605
+},
+{
+	"City": "Oak Glen",
+	"State": "CA",
+	"latitude": 34.0448,
+	"longitude": -116.9497
+},
+{
+	"City": "Bangor",
+	"State": "CA",
+	"latitude": 39.3761,
+	"longitude": -121.4117
+},
+{
+	"City": "West Goshen",
+	"State": "CA",
+	"latitude": 36.349,
+	"longitude": -119.4516
+},
+{
+	"City": "Coloma",
+	"State": "CA",
+	"latitude": 38.8026,
+	"longitude": -120.8946
+},
+{
+	"City": "Mexican Colony",
+	"State": "CA",
+	"latitude": 35.4689,
+	"longitude": -119.2687
+},
+{
+	"City": "Chilcoot-Vinton",
+	"State": "CA",
+	"latitude": 39.8067,
+	"longitude": -120.1388
+},
+{
+	"City": "Robbins",
+	"State": "CA",
+	"latitude": 38.8672,
+	"longitude": -121.7055
+},
+{
+	"City": "Meadow Valley",
+	"State": "CA",
+	"latitude": 39.9322,
+	"longitude": -121.0831
+},
+{
+	"City": "Spreckels",
+	"State": "CA",
+	"latitude": 36.6247,
+	"longitude": -121.6465
+},
+{
+	"City": "Beckwourth",
+	"State": "CA",
+	"latitude": 39.8485,
+	"longitude": -120.4111
+},
+{
+	"City": "Raisin City",
+	"State": "CA",
+	"latitude": 36.6033,
+	"longitude": -119.9092
+},
+{
+	"City": "Forbestown",
+	"State": "CA",
+	"latitude": 39.53,
+	"longitude": -121.2689
+},
+{
+	"City": "Lake Almanor Country Club",
+	"State": "CA",
+	"latitude": 40.2578,
+	"longitude": -121.147
+},
+{
+	"City": "Boulevard",
+	"State": "CA",
+	"latitude": 32.664,
+	"longitude": -116.2896
+},
+{
+	"City": "Garden Farms",
+	"State": "CA",
+	"latitude": 35.4158,
+	"longitude": -120.614
+},
+{
+	"City": "Martell",
+	"State": "CA",
+	"latitude": 38.3623,
+	"longitude": -120.8039
+},
+{
+	"City": "Sand City",
+	"State": "CA",
+	"latitude": 36.6189,
+	"longitude": -121.8478
+},
+{
+	"City": "San Geronimo",
+	"State": "CA",
+	"latitude": 38.0068,
+	"longitude": -122.6634
+},
+{
+	"City": "Grenada",
+	"State": "CA",
+	"latitude": 41.6406,
+	"longitude": -122.526
+},
+{
+	"City": "June Lake",
+	"State": "CA",
+	"latitude": 37.7677,
+	"longitude": -119.1022
+},
+{
+	"City": "Orick",
+	"State": "CA",
+	"latitude": 41.2909,
+	"longitude": -124.0692
+},
+{
+	"City": "Tonyville",
+	"State": "CA",
+	"latitude": 36.2474,
+	"longitude": -119.0903
+},
+{
+	"City": "Derby Acres",
+	"State": "CA",
+	"latitude": 35.2439,
+	"longitude": -119.6039
+},
+{
+	"City": "Princeton",
+	"State": "CA",
+	"latitude": 39.4029,
+	"longitude": -122.0212
+},
+{
+	"City": "Centerville",
+	"State": "CA",
+	"latitude": 36.7361,
+	"longitude": -119.4961
+},
+{
+	"City": "Cantua Creek",
+	"State": "CA",
+	"latitude": 36.5001,
+	"longitude": -120.3164
+},
+{
+	"City": "Stirling City",
+	"State": "CA",
+	"latitude": 39.9065,
+	"longitude": -121.5361
+},
+{
+	"City": "Tehama",
+	"State": "CA",
+	"latitude": 40.0218,
+	"longitude": -122.1269
+},
+{
+	"City": "Meridian",
+	"State": "CA",
+	"latitude": 39.1404,
+	"longitude": -121.9079
+},
+{
+	"City": "Davenport",
+	"State": "CA",
+	"latitude": 37.0176,
+	"longitude": -122.1882
+},
+{
+	"City": "Lake Almanor Peninsula",
+	"State": "CA",
+	"latitude": 40.2812,
+	"longitude": -121.1345
+},
+{
+	"City": "Plumas Eureka",
+	"State": "CA",
+	"latitude": 39.7982,
+	"longitude": -120.6645
+},
+{
+	"City": "Mineral",
+	"State": "CA",
+	"latitude": 40.3755,
+	"longitude": -121.5694
+},
+{
+	"City": "Edmundson Acres",
+	"State": "CA",
+	"latitude": 35.2273,
+	"longitude": -118.8233
+},
+{
+	"City": "Trinidad",
+	"State": "CA",
+	"latitude": 41.0589,
+	"longitude": -124.1434
+},
+{
+	"City": "Anchor Bay",
+	"State": "CA",
+	"latitude": 38.8126,
+	"longitude": -123.5704
+},
+{
+	"City": "Manton",
+	"State": "CA",
+	"latitude": 40.4202,
+	"longitude": -121.854
+},
+{
+	"City": "Rio Oso",
+	"State": "CA",
+	"latitude": 38.9518,
+	"longitude": -121.531
+},
+{
+	"City": "Nipinnawasee",
+	"State": "CA",
+	"latitude": 37.4031,
+	"longitude": -119.7293
+},
+{
+	"City": "Mesa",
+	"State": "CA",
+	"latitude": 37.4189,
+	"longitude": -118.5424
+},
+{
+	"City": "Oak Shores",
+	"State": "CA",
+	"latitude": 35.7624,
+	"longitude": -120.9817
+},
+{
+	"City": "Dobbins",
+	"State": "CA",
+	"latitude": 39.3657,
+	"longitude": -121.2127
+},
+{
+	"City": "Grangeville",
+	"State": "CA",
+	"latitude": 36.3439,
+	"longitude": -119.7075
+},
+{
+	"City": "Cazadero",
+	"State": "CA",
+	"latitude": 38.5265,
+	"longitude": -123.0978
+},
+{
+	"City": "Cressey",
+	"State": "CA",
+	"latitude": 37.421,
+	"longitude": -120.6556
+},
+{
+	"City": "Camptonville",
+	"State": "CA",
+	"latitude": 39.4521,
+	"longitude": -121.0488
+},
+{
+	"City": "El Nido",
+	"State": "CA",
+	"latitude": 37.1324,
+	"longitude": -120.4985
+},
+{
+	"City": "Muir Beach",
+	"State": "CA",
+	"latitude": 37.8654,
+	"longitude": -122.5858
+},
+{
+	"City": "Clipper Mills",
+	"State": "CA",
+	"latitude": 39.5324,
+	"longitude": -121.1666
+},
+{
+	"City": "Benton",
+	"State": "CA",
+	"latitude": 37.8189,
+	"longitude": -118.4844
+},
+{
+	"City": "Twain",
+	"State": "CA",
+	"latitude": 40.0355,
+	"longitude": -121.0404
+},
+{
+	"City": "Fiddletown",
+	"State": "CA",
+	"latitude": 38.5091,
+	"longitude": -120.7605
+},
+{
+	"City": "Cromberg",
+	"State": "CA",
+	"latitude": 39.8684,
+	"longitude": -120.6904
+},
+{
+	"City": "Hood",
+	"State": "CA",
+	"latitude": 38.3693,
+	"longitude": -121.5155
+},
+{
+	"City": "Nord",
+	"State": "CA",
+	"latitude": 39.774,
+	"longitude": -121.9549
+},
+{
+	"City": "Artois",
+	"State": "CA",
+	"latitude": 39.6332,
+	"longitude": -122.1898
+},
+{
+	"City": "Jacumba",
+	"State": "CA",
+	"latitude": 32.6278,
+	"longitude": -116.1826
+},
+{
+	"City": "Grimes",
+	"State": "CA",
+	"latitude": 39.0742,
+	"longitude": -121.8988
+},
+{
+	"City": "Crows Landing",
+	"State": "CA",
+	"latitude": 37.3947,
+	"longitude": -121.0843
+},
+{
+	"City": "Weott",
+	"State": "CA",
+	"latitude": 40.3226,
+	"longitude": -123.9209
+},
+{
+	"City": "Richfield",
+	"State": "CA",
+	"latitude": 39.9738,
+	"longitude": -122.1732
+},
+{
+	"City": "Burnt Ranch",
+	"State": "CA",
+	"latitude": 40.811,
+	"longitude": -123.5082
+},
+{
+	"City": "Bombay Beach",
+	"State": "CA",
+	"latitude": 33.3548,
+	"longitude": -115.7307
+},
+{
+	"City": "Sierra Brooks",
+	"State": "CA",
+	"latitude": 39.6426,
+	"longitude": -120.2153
+},
+{
+	"City": "Bloomfield",
+	"State": "CA",
+	"latitude": 38.3183,
+	"longitude": -122.8502
+},
+{
+	"City": "Keswick",
+	"State": "CA",
+	"latitude": 40.6135,
+	"longitude": -122.4606
+},
+{
+	"City": "Point Reyes Station",
+	"State": "CA",
+	"latitude": 38.0847,
+	"longitude": -122.8093
+},
+{
+	"City": "Lindcove",
+	"State": "CA",
+	"latitude": 36.3595,
+	"longitude": -119.0721
+},
+{
+	"City": "Pajaro Dunes",
+	"State": "CA",
+	"latitude": 36.8722,
+	"longitude": -121.8101
+},
+{
+	"City": "Monson",
+	"State": "CA",
+	"latitude": 36.4927,
+	"longitude": -119.3358
+},
+{
+	"City": "Canby",
+	"State": "CA",
+	"latitude": 41.4477,
+	"longitude": -120.8843
+},
+{
+	"City": "Yankee Hill",
+	"State": "CA",
+	"latitude": 39.7007,
+	"longitude": -121.5147
+},
+{
+	"City": "Dorrington",
+	"State": "CA",
+	"latitude": 38.2949,
+	"longitude": -120.2706
+},
+{
+	"City": "Fall River Mills",
+	"State": "CA",
+	"latitude": 41.0069,
+	"longitude": -121.4401
+},
+{
+	"City": "East Nicolaus",
+	"State": "CA",
+	"latitude": 38.91,
+	"longitude": -121.5443
+},
+{
+	"City": "Bowles",
+	"State": "CA",
+	"latitude": 36.6089,
+	"longitude": -119.7526
+},
+{
+	"City": "Monterey Park Tract",
+	"State": "CA",
+	"latitude": 37.5268,
+	"longitude": -121.0115
+},
+{
+	"City": "Smartsville",
+	"State": "CA",
+	"latitude": 39.2053,
+	"longitude": -121.2928
+},
+{
+	"City": "Salton Sea Beach",
+	"State": "CA",
+	"latitude": 33.3759,
+	"longitude": -116.0115
+},
+{
+	"City": "Greenhorn",
+	"State": "CA",
+	"latitude": 39.903,
+	"longitude": -120.759
+},
+{
+	"City": "Albion",
+	"State": "CA",
+	"latitude": 39.2256,
+	"longitude": -123.7564
+},
+{
+	"City": "Trowbridge",
+	"State": "CA",
+	"latitude": 38.9264,
+	"longitude": -121.5148
+},
+{
+	"City": "Dillon Beach",
+	"State": "CA",
+	"latitude": 38.2436,
+	"longitude": -122.956
+},
+{
+	"City": "Trinity Village",
+	"State": "CA",
+	"latitude": 40.8789,
+	"longitude": -123.5133
+},
+{
+	"City": "Fields Landing",
+	"State": "CA",
+	"latitude": 40.7249,
+	"longitude": -124.2176
+},
+{
+	"City": "Swall Meadows",
+	"State": "CA",
+	"latitude": 37.5061,
+	"longitude": -118.6426
+},
+{
+	"City": "Three Rocks",
+	"State": "CA",
+	"latitude": 36.5051,
+	"longitude": -120.3936
+},
+{
+	"City": "Cassel",
+	"State": "CA",
+	"latitude": 40.9213,
+	"longitude": -121.5514
+},
+{
+	"City": "Groveland",
+	"State": "CA",
+	"latitude": 37.8325,
+	"longitude": -120.2394
+},
+{
+	"City": "Elmira",
+	"State": "CA",
+	"latitude": 38.3523,
+	"longitude": -121.9077
+},
+{
+	"City": "Hiouchi",
+	"State": "CA",
+	"latitude": 41.7936,
+	"longitude": -124.0662
+},
+{
+	"City": "Guinda",
+	"State": "CA",
+	"latitude": 38.8275,
+	"longitude": -122.1985
+},
+{
+	"City": "Vallecito",
+	"State": "CA",
+	"latitude": 38.074,
+	"longitude": -120.4564
+},
+{
+	"City": "Lemon Cove",
+	"State": "CA",
+	"latitude": 36.379,
+	"longitude": -119.0312
+},
+{
+	"City": "Vina",
+	"State": "CA",
+	"latitude": 39.9343,
+	"longitude": -122.0518
+},
+{
+	"City": "Greenview",
+	"State": "CA",
+	"latitude": 41.5471,
+	"longitude": -122.9185
+},
+{
+	"City": "Dos Palos Y",
+	"State": "CA",
+	"latitude": 37.0466,
+	"longitude": -120.6394
+},
+{
+	"City": "Olancha",
+	"State": "CA",
+	"latitude": 36.2704,
+	"longitude": -118.0015
+},
+{
+	"City": "Mesa Vista",
+	"State": "CA",
+	"latitude": 38.8103,
+	"longitude": -119.8033
+},
+{
+	"City": "Keene",
+	"State": "CA",
+	"latitude": 35.233,
+	"longitude": -118.6103
+},
+{
+	"City": "Lanare",
+	"State": "CA",
+	"latitude": 36.4377,
+	"longitude": -119.9322
+},
+{
+	"City": "Lake Almanor West",
+	"State": "CA",
+	"latitude": 40.2336,
+	"longitude": -121.2021
+},
+{
+	"City": "Whitley Gardens",
+	"State": "CA",
+	"latitude": 35.6571,
+	"longitude": -120.5068
+},
+{
+	"City": "El Portal",
+	"State": "CA",
+	"latitude": 37.6736,
+	"longitude": -119.799
+},
+{
+	"City": "Pescadero",
+	"State": "CA",
+	"latitude": 37.2507,
+	"longitude": -122.3725
+},
+{
+	"City": "Manchester",
+	"State": "CA",
+	"latitude": 38.9744,
+	"longitude": -123.6909
+},
+{
+	"City": "Desert Center",
+	"State": "CA",
+	"latitude": 33.7378,
+	"longitude": -115.3666
+},
+{
+	"City": "Victor",
+	"State": "CA",
+	"latitude": 38.1385,
+	"longitude": -121.1987
+},
+{
+	"City": "Cherokee Strip",
+	"State": "CA",
+	"latitude": 35.4698,
+	"longitude": -119.2617
+},
+{
+	"City": "Samoa",
+	"State": "CA",
+	"latitude": 40.8146,
+	"longitude": -124.1893
+},
+{
+	"City": "Little River",
+	"State": "CA",
+	"latitude": 39.2703,
+	"longitude": -123.7817
+},
+{
+	"City": "La Vina",
+	"State": "CA",
+	"latitude": 36.8799,
+	"longitude": -120.1147
+},
+{
+	"City": "Hornbrook",
+	"State": "CA",
+	"latitude": 41.9079,
+	"longitude": -122.5596
+},
+{
+	"City": "Clear Creek",
+	"State": "CA",
+	"latitude": 40.3023,
+	"longitude": -121.0531
+},
+{
+	"City": "Richvale",
+	"State": "CA",
+	"latitude": 39.4937,
+	"longitude": -121.7507
+},
+{
+	"City": "Daphnedale Park",
+	"State": "CA",
+	"latitude": 41.5089,
+	"longitude": -120.5507
+},
+{
+	"City": "Rackerby",
+	"State": "CA",
+	"latitude": 39.4261,
+	"longitude": -121.3542
+},
+{
+	"City": "Milford",
+	"State": "CA",
+	"latitude": 40.1634,
+	"longitude": -120.3686
+},
+{
+	"City": "Litchfield",
+	"State": "CA",
+	"latitude": 40.3877,
+	"longitude": -120.3809
+},
+{
+	"City": "Acampo",
+	"State": "CA",
+	"latitude": 38.1735,
+	"longitude": -121.2798
+},
+{
+	"City": "Industry",
+	"State": "CA",
+	"latitude": 34.0175,
+	"longitude": -117.9267
+},
+{
+	"City": "Big Creek",
+	"State": "CA",
+	"latitude": 37.2036,
+	"longitude": -119.2486
+},
+{
+	"City": "Taylorsville",
+	"State": "CA",
+	"latitude": 40.0586,
+	"longitude": -120.8387
+},
+{
+	"City": "Coffee Creek",
+	"State": "CA",
+	"latitude": 41.0802,
+	"longitude": -122.7136
+},
+{
+	"City": "Bear Valley",
+	"State": "CA",
+	"latitude": 37.5671,
+	"longitude": -120.1229
+},
+{
+	"City": "Yolo",
+	"State": "CA",
+	"latitude": 38.7405,
+	"longitude": -121.8093
+},
+{
+	"City": "Fort Bidwell",
+	"State": "CA",
+	"latitude": 41.8629,
+	"longitude": -120.1589
+},
+{
+	"City": "Winterhaven",
+	"State": "CA",
+	"latitude": 32.7372,
+	"longitude": -114.6378
+},
+{
+	"City": "Tomales",
+	"State": "CA",
+	"latitude": 38.247,
+	"longitude": -122.9054
+},
+{
+	"City": "Garey",
+	"State": "CA",
+	"latitude": 34.8869,
+	"longitude": -120.3141
+},
+{
+	"City": "Iron Horse",
+	"State": "CA",
+	"latitude": 39.7805,
+	"longitude": -120.4823
+},
+{
+	"City": "Rail Road Flat",
+	"State": "CA",
+	"latitude": 38.3168,
+	"longitude": -120.491
+},
+{
+	"City": "Amador City",
+	"State": "CA",
+	"latitude": 38.419,
+	"longitude": -120.8232
+},
+{
+	"City": "Wawona",
+	"State": "CA",
+	"latitude": 37.5482,
+	"longitude": -119.6395
+},
+{
+	"City": "Verdi",
+	"State": "CA",
+	"latitude": 39.5237,
+	"longitude": -120.0164
+},
+{
+	"City": "Valley Home",
+	"State": "CA",
+	"latitude": 37.8272,
+	"longitude": -120.9144
+},
+{
+	"City": "Elk Creek",
+	"State": "CA",
+	"latitude": 39.6002,
+	"longitude": -122.5376
+},
+{
+	"City": "Calpine",
+	"State": "CA",
+	"latitude": 39.6633,
+	"longitude": -120.4436
+},
+{
+	"City": "Proberta",
+	"State": "CA",
+	"latitude": 40.0762,
+	"longitude": -122.1776
+},
+{
+	"City": "Port Costa",
+	"State": "CA",
+	"latitude": 38.0446,
+	"longitude": -122.185
+},
+{
+	"City": "Courtland",
+	"State": "CA",
+	"latitude": 38.3329,
+	"longitude": -121.557
+},
+{
+	"City": "Dutch Flat",
+	"State": "CA",
+	"latitude": 39.208,
+	"longitude": -120.8345
+},
+{
+	"City": "North San Juan",
+	"State": "CA",
+	"latitude": 39.3719,
+	"longitude": -121.106
+},
+{
+	"City": "Fairhaven",
+	"State": "CA",
+	"latitude": 40.7885,
+	"longitude": -124.2013
+},
+{
+	"City": "Stevinson",
+	"State": "CA",
+	"latitude": 37.3247,
+	"longitude": -120.8497
+},
+{
+	"City": "Philo",
+	"State": "CA",
+	"latitude": 39.0657,
+	"longitude": -123.4452
+},
+{
+	"City": "Chinese Camp",
+	"State": "CA",
+	"latitude": 37.8703,
+	"longitude": -120.4443
+},
+{
+	"City": "Edna",
+	"State": "CA",
+	"latitude": 35.2108,
+	"longitude": -120.606
+},
+{
+	"City": "Loma Mar",
+	"State": "CA",
+	"latitude": 37.2658,
+	"longitude": -122.3007
+},
+{
+	"City": "Farmington",
+	"State": "CA",
+	"latitude": 37.9299,
+	"longitude": -121.0043
+},
+{
+	"City": "Adin",
+	"State": "CA",
+	"latitude": 41.1964,
+	"longitude": -120.9494
+},
+{
+	"City": "College City",
+	"State": "CA",
+	"latitude": 39.0063,
+	"longitude": -122.0068
+},
+{
+	"City": "Ruth",
+	"State": "CA",
+	"latitude": 40.2943,
+	"longitude": -123.3483
+},
+{
+	"City": "Sierra Village",
+	"State": "CA",
+	"latitude": 38.0768,
+	"longitude": -120.1624
+},
+{
+	"City": "Sisquoc",
+	"State": "CA",
+	"latitude": 34.8622,
+	"longitude": -120.2943
+},
+{
+	"City": "Lodoga",
+	"State": "CA",
+	"latitude": 39.3041,
+	"longitude": -122.5058
+},
+{
+	"City": "Tecopa",
+	"State": "CA",
+	"latitude": 35.835,
+	"longitude": -116.2074
+},
+{
+	"City": "Tooleville",
+	"State": "CA",
+	"latitude": 36.2878,
+	"longitude": -119.1154
+},
+{
+	"City": "Bluewater",
+	"State": "CA",
+	"latitude": 34.176,
+	"longitude": -114.264
+},
+{
+	"City": "Pike",
+	"State": "CA",
+	"latitude": 39.4278,
+	"longitude": -120.9996
+},
+{
+	"City": "Downieville",
+	"State": "CA",
+	"latitude": 39.5701,
+	"longitude": -120.8213
+},
+{
+	"City": "Mettler",
+	"State": "CA",
+	"latitude": 35.0635,
+	"longitude": -118.9729
+},
+{
+	"City": "Bieber",
+	"State": "CA",
+	"latitude": 41.1251,
+	"longitude": -121.1336
+},
+{
+	"City": "Alderpoint",
+	"State": "CA",
+	"latitude": 40.1614,
+	"longitude": -123.6157
+},
+{
+	"City": "Flournoy",
+	"State": "CA",
+	"latitude": 39.9284,
+	"longitude": -122.4461
+},
+{
+	"City": "Trinity Center",
+	"State": "CA",
+	"latitude": 40.9841,
+	"longitude": -122.7083
+},
+{
+	"City": "Waukena",
+	"State": "CA",
+	"latitude": 36.1361,
+	"longitude": -119.511
+},
+{
+	"City": "Nicolaus",
+	"State": "CA",
+	"latitude": 38.8981,
+	"longitude": -121.5729
+},
+{
+	"City": "Bear Creek",
+	"State": "CA",
+	"latitude": 37.2966,
+	"longitude": -120.4177
+},
+{
+	"City": "Pine Flat",
+	"State": "CA",
+	"latitude": 35.8737,
+	"longitude": -118.6427
+},
+{
+	"City": "Montgomery Creek",
+	"State": "CA",
+	"latitude": 40.8415,
+	"longitude": -121.9215
+},
+{
+	"City": "Casmalia",
+	"State": "CA",
+	"latitude": 34.8376,
+	"longitude": -120.5311
+},
+{
+	"City": "Tupman",
+	"State": "CA",
+	"latitude": 35.2987,
+	"longitude": -119.3575
+},
+{
+	"City": "Timber Cove",
+	"State": "CA",
+	"latitude": 38.541,
+	"longitude": -123.259
+},
+{
+	"City": "C-Road",
+	"State": "CA",
+	"latitude": 39.7628,
+	"longitude": -120.577
+},
+{
+	"City": "Hardwick",
+	"State": "CA",
+	"latitude": 36.4026,
+	"longitude": -119.7208
+},
+{
+	"City": "Cherokee",
+	"State": "CA",
+	"latitude": 39.6514,
+	"longitude": -121.5344
+},
+{
+	"City": "Big Bend",
+	"State": "CA",
+	"latitude": 41.0109,
+	"longitude": -121.924
+},
+{
+	"City": "Myers Flat",
+	"State": "CA",
+	"latitude": 40.2666,
+	"longitude": -123.8737
+},
+{
+	"City": "Markleeville",
+	"State": "CA",
+	"latitude": 38.6841,
+	"longitude": -119.8225
+},
+{
+	"City": "Hat Creek",
+	"State": "CA",
+	"latitude": 40.8101,
+	"longitude": -121.4809
+},
+{
+	"City": "Volta",
+	"State": "CA",
+	"latitude": 37.0875,
+	"longitude": -120.9235
+},
+{
+	"City": "East Shore",
+	"State": "CA",
+	"latitude": 40.2451,
+	"longitude": -121.0768
+},
+{
+	"City": "Sierra City",
+	"State": "CA",
+	"latitude": 39.574,
+	"longitude": -120.6297
+},
+{
+	"City": "Topaz",
+	"State": "CA",
+	"latitude": 38.6587,
+	"longitude": -119.5274
+},
+{
+	"City": "Randsburg",
+	"State": "CA",
+	"latitude": 35.368,
+	"longitude": -117.6607
+},
+{
+	"City": "Moskowite Corner",
+	"State": "CA",
+	"latitude": 38.4464,
+	"longitude": -122.1945
+},
+{
+	"City": "Snelling",
+	"State": "CA",
+	"latitude": 37.5216,
+	"longitude": -120.4387
+},
+{
+	"City": "Johannesburg",
+	"State": "CA",
+	"latitude": 35.3718,
+	"longitude": -117.642
+},
+{
+	"City": "Benbow",
+	"State": "CA",
+	"latitude": 40.0603,
+	"longitude": -123.7654
+},
+{
+	"City": "Mount Laguna",
+	"State": "CA",
+	"latitude": 32.8711,
+	"longitude": -116.4247
+},
+{
+	"City": "McKittrick",
+	"State": "CA",
+	"latitude": 35.2981,
+	"longitude": -119.6249
+},
+{
+	"City": "Honcut",
+	"State": "CA",
+	"latitude": 39.3326,
+	"longitude": -121.5388
+},
+{
+	"City": "Hyampom",
+	"State": "CA",
+	"latitude": 40.6262,
+	"longitude": -123.4689
+},
+{
+	"City": "Bradley",
+	"State": "CA",
+	"latitude": 35.8628,
+	"longitude": -120.8042
+},
+{
+	"City": "Monmouth",
+	"State": "CA",
+	"latitude": 36.5656,
+	"longitude": -119.7405
+},
+{
+	"City": "Vernon",
+	"State": "CA",
+	"latitude": 34.0019,
+	"longitude": -118.2106
+},
+{
+	"City": "Spaulding",
+	"State": "CA",
+	"latitude": 40.6557,
+	"longitude": -120.7863
+},
+{
+	"City": "Furnace Creek",
+	"State": "CA",
+	"latitude": 36.4277,
+	"longitude": -116.8747
+},
+{
+	"City": "Paskenta",
+	"State": "CA",
+	"latitude": 39.8833,
+	"longitude": -122.5458
+},
+{
+	"City": "Long Barn",
+	"State": "CA",
+	"latitude": 38.0957,
+	"longitude": -120.1285
+},
+{
+	"City": "Alpine Village",
+	"State": "CA",
+	"latitude": 38.7856,
+	"longitude": -119.8009
+},
+{
+	"City": "Rodriguez Camp",
+	"State": "CA",
+	"latitude": 35.809,
+	"longitude": -119.1388
+},
+{
+	"City": "Darwin",
+	"State": "CA",
+	"latitude": 36.2689,
+	"longitude": -117.589
+},
+{
+	"City": "Big Lagoon",
+	"State": "CA",
+	"latitude": 41.1592,
+	"longitude": -124.1303
+},
+{
+	"City": "Comptche",
+	"State": "CA",
+	"latitude": 39.2651,
+	"longitude": -123.5896
+},
+{
+	"City": "Lee Vining",
+	"State": "CA",
+	"latitude": 37.9547,
+	"longitude": -119.1221
+},
+{
+	"City": "Mono City",
+	"State": "CA",
+	"latitude": 38.0412,
+	"longitude": -119.1467
+},
+{
+	"City": "Tuttle",
+	"State": "CA",
+	"latitude": 37.2965,
+	"longitude": -120.3789
+},
+{
+	"City": "Crescent Mills",
+	"State": "CA",
+	"latitude": 40.1008,
+	"longitude": -120.9217
+},
+{
+	"City": "Fish Camp",
+	"State": "CA",
+	"latitude": 37.4797,
+	"longitude": -119.6373
+},
+{
+	"City": "Carrick",
+	"State": "CA",
+	"latitude": 41.4467,
+	"longitude": -122.3635
+},
+{
+	"City": "Stonyford",
+	"State": "CA",
+	"latitude": 39.3703,
+	"longitude": -122.5445
+},
+{
+	"City": "Oakville",
+	"State": "CA",
+	"latitude": 38.4384,
+	"longitude": -122.4067
+},
+{
+	"City": "Round Mountain",
+	"State": "CA",
+	"latitude": 40.8005,
+	"longitude": -121.9376
+},
+{
+	"City": "Ocotillo",
+	"State": "CA",
+	"latitude": 32.7431,
+	"longitude": -116.002
+},
+{
+	"City": "New Pine Creek",
+	"State": "CA",
+	"latitude": 41.9872,
+	"longitude": -120.3009
+},
+{
+	"City": "Rutherford",
+	"State": "CA",
+	"latitude": 38.4568,
+	"longitude": -122.4231
+},
+{
+	"City": "Sattley",
+	"State": "CA",
+	"latitude": 39.6265,
+	"longitude": -120.4357
+},
+{
+	"City": "Sierraville",
+	"State": "CA",
+	"latitude": 39.575,
+	"longitude": -120.3637
+},
+{
+	"City": "Leggett",
+	"State": "CA",
+	"latitude": 39.8635,
+	"longitude": -123.7253
+},
+{
+	"City": "Westside",
+	"State": "CA",
+	"latitude": 36.4042,
+	"longitude": -120.1341
+},
+{
+	"City": "Kirkwood",
+	"State": "CA",
+	"latitude": 38.693,
+	"longitude": -120.064
+},
+{
+	"City": "Sereno del Mar",
+	"State": "CA",
+	"latitude": 38.3836,
+	"longitude": -123.0732
+},
+{
+	"City": "Paynes Creek",
+	"State": "CA",
+	"latitude": 40.3409,
+	"longitude": -121.9174
+},
+{
+	"City": "Alleghany",
+	"State": "CA",
+	"latitude": 39.4666,
+	"longitude": -120.841
+},
+{
+	"City": "Keddie",
+	"State": "CA",
+	"latitude": 40.0059,
+	"longitude": -120.9525
+},
+{
+	"City": "Mount Hebron",
+	"State": "CA",
+	"latitude": 41.7855,
+	"longitude": -122.0083
+},
+{
+	"City": "Nicasio",
+	"State": "CA",
+	"latitude": 38.0605,
+	"longitude": -122.7008
+},
+{
+	"City": "Kingvale",
+	"State": "CA",
+	"latitude": 39.3203,
+	"longitude": -120.4387
+},
+{
+	"City": "Freeport",
+	"State": "CA",
+	"latitude": 38.4636,
+	"longitude": -121.5022
+},
+{
+	"City": "Phillipsville",
+	"State": "CA",
+	"latitude": 40.2117,
+	"longitude": -123.7844
+},
+{
+	"City": "Homewood Canyon",
+	"State": "CA",
+	"latitude": 35.89,
+	"longitude": -117.3863
+},
+{
+	"City": "Sunny Slopes",
+	"State": "CA",
+	"latitude": 37.5694,
+	"longitude": -118.6759
+},
+{
+	"City": "Hornitos",
+	"State": "CA",
+	"latitude": 37.5034,
+	"longitude": -120.242
+},
+{
+	"City": "Palo Verde",
+	"State": "CA",
+	"latitude": 33.4279,
+	"longitude": -114.7273
+},
+{
+	"City": "Coulterville",
+	"State": "CA",
+	"latitude": 37.7105,
+	"longitude": -120.1992
+},
+{
+	"City": "El Rancho",
+	"State": "CA",
+	"latitude": 36.2207,
+	"longitude": -119.069
+},
+{
+	"City": "Clio",
+	"State": "CA",
+	"latitude": 39.7487,
+	"longitude": -120.5725
+},
+{
+	"City": "Lake City",
+	"State": "CA",
+	"latitude": 41.646,
+	"longitude": -120.2255
+},
+{
+	"City": "Washington",
+	"State": "CA",
+	"latitude": 39.3591,
+	"longitude": -120.7906
+},
+{
+	"City": "Gazelle",
+	"State": "CA",
+	"latitude": 41.5137,
+	"longitude": -122.5215
+},
+{
+	"City": "Macdoel",
+	"State": "CA",
+	"latitude": 41.8258,
+	"longitude": -122.0058
+},
+{
+	"City": "Mohawk Vista",
+	"State": "CA",
+	"latitude": 39.8048,
+	"longitude": -120.5883
+},
+{
+	"City": "Moss Landing",
+	"State": "CA",
+	"latitude": 36.8019,
+	"longitude": -121.7872
+},
+{
+	"City": "Robinson Mill",
+	"State": "CA",
+	"latitude": 39.4857,
+	"longitude": -121.3202
+},
+{
+	"City": "Indian Falls",
+	"State": "CA",
+	"latitude": 40.0587,
+	"longitude": -120.9803
+},
+{
+	"City": "Lake Davis",
+	"State": "CA",
+	"latitude": 39.8564,
+	"longitude": -120.463
+},
+{
+	"City": "Eagleville",
+	"State": "CA",
+	"latitude": 41.3191,
+	"longitude": -120.1147
+},
+{
+	"City": "Fellows",
+	"State": "CA",
+	"latitude": 35.1779,
+	"longitude": -119.5472
+},
+{
+	"City": "Whitehawk",
+	"State": "CA",
+	"latitude": 39.7206,
+	"longitude": -120.5536
+},
+{
+	"City": "Panorama Heights",
+	"State": "CA",
+	"latitude": 35.8068,
+	"longitude": -118.627
+},
+{
+	"City": "McClenney Tract",
+	"State": "CA",
+	"latitude": 35.822,
+	"longitude": -118.6478
+},
+{
+	"City": "California Hot Springs",
+	"State": "CA",
+	"latitude": 35.8863,
+	"longitude": -118.6561
+},
+{
+	"City": "Soda Springs",
+	"State": "CA",
+	"latitude": 39.3248,
+	"longitude": -120.3784
+},
+{
+	"City": "Lookout",
+	"State": "CA",
+	"latitude": 41.21,
+	"longitude": -121.1545
+},
+{
+	"City": "Butte Meadows",
+	"State": "CA",
+	"latitude": 40.0871,
+	"longitude": -121.537
+},
+{
+	"City": "Volcano",
+	"State": "CA",
+	"latitude": 38.4456,
+	"longitude": -120.6306
+},
+{
+	"City": "Trona",
+	"State": "CA",
+	"latitude": 35.815,
+	"longitude": -117.3449
+},
+{
+	"City": "Pierpoint",
+	"State": "CA",
+	"latitude": 36.1405,
+	"longitude": -118.6296
+},
+{
+	"City": "Sequoia Crest",
+	"State": "CA",
+	"latitude": 36.1858,
+	"longitude": -118.6256
+},
+{
+	"City": "Edgewood",
+	"State": "CA",
+	"latitude": 41.462,
+	"longitude": -122.426
+},
+{
+	"City": "Nubieber",
+	"State": "CA",
+	"latitude": 41.0967,
+	"longitude": -121.1816
+},
+{
+	"City": "Valley Ford",
+	"State": "CA",
+	"latitude": 38.3246,
+	"longitude": -122.9148
+},
+{
+	"City": "Creston",
+	"State": "CA",
+	"latitude": 35.5173,
+	"longitude": -120.5211
+},
+{
+	"City": "Old Station",
+	"State": "CA",
+	"latitude": 40.6722,
+	"longitude": -121.4228
+},
+{
+	"City": "Jenner",
+	"State": "CA",
+	"latitude": 38.4511,
+	"longitude": -123.1203
+},
+{
+	"City": "Prattville",
+	"State": "CA",
+	"latitude": 40.206,
+	"longitude": -121.1575
+},
+{
+	"City": "Goodyears Bar",
+	"State": "CA",
+	"latitude": 39.5458,
+	"longitude": -120.8881
+},
+{
+	"City": "Tennant",
+	"State": "CA",
+	"latitude": 41.5815,
+	"longitude": -121.9151
+},
+{
+	"City": "Little Valley",
+	"State": "CA",
+	"latitude": 40.893,
+	"longitude": -121.1781
+},
+{
+	"City": "Mabie",
+	"State": "CA",
+	"latitude": 39.7771,
+	"longitude": -120.5447
+},
+{
+	"City": "Redcrest",
+	"State": "CA",
+	"latitude": 40.3987,
+	"longitude": -123.9474
+},
+{
+	"City": "Aspen Springs",
+	"State": "CA",
+	"latitude": 37.55,
+	"longitude": -118.7087
+},
+{
+	"City": "Drytown",
+	"State": "CA",
+	"latitude": 38.4382,
+	"longitude": -120.8565
+},
+{
+	"City": "Spring Garden",
+	"State": "CA",
+	"latitude": 39.9012,
+	"longitude": -120.7935
+},
+{
+	"City": "Salmon Creek",
+	"State": "CA",
+	"latitude": 38.3463,
+	"longitude": -123.0595
+},
+{
+	"City": "Ponderosa",
+	"State": "CA",
+	"latitude": 36.105,
+	"longitude": -118.5293
+},
+{
+	"City": "Blairsden",
+	"State": "CA",
+	"latitude": 39.7752,
+	"longitude": -120.6109
+},
+{
+	"City": "Cuyama",
+	"State": "CA",
+	"latitude": 34.9312,
+	"longitude": -119.6148
+},
+{
+	"City": "Shoshone",
+	"State": "CA",
+	"latitude": 35.951,
+	"longitude": -116.3055
+},
+{
+	"City": "Graniteville",
+	"State": "CA",
+	"latitude": 39.4443,
+	"longitude": -120.736
+},
+{
+	"City": "Buck Meadows",
+	"State": "CA",
+	"latitude": 37.8127,
+	"longitude": -120.0653
+},
+{
+	"City": "Keeler",
+	"State": "CA",
+	"latitude": 36.4846,
+	"longitude": -117.872
+},
+{
+	"City": "Sugarloaf Village",
+	"State": "CA",
+	"latitude": 35.8269,
+	"longitude": -118.6354
+},
+{
+	"City": "Pearsonville",
+	"State": "CA",
+	"latitude": 35.8188,
+	"longitude": -117.8755
+},
+{
+	"City": "Cartago",
+	"State": "CA",
+	"latitude": 36.3123,
+	"longitude": -118.0261
+},
+{
+	"City": "Poso Park",
+	"State": "CA",
+	"latitude": 35.8114,
+	"longitude": -118.6364
+}]

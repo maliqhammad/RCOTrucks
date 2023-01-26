@@ -1,0 +1,3457 @@
+[
+{
+	"City": "Omaha",
+	"State": "NE",
+	"latitude": 41.2627,
+	"longitude": -96.0522
+},
+{
+	"City": "Lincoln",
+	"State": "NE",
+	"latitude": 40.809,
+	"longitude": -96.6788
+},
+{
+	"City": "Bellevue",
+	"State": "NE",
+	"latitude": 41.1535,
+	"longitude": -95.9357
+},
+{
+	"City": "Grand Island",
+	"State": "NE",
+	"latitude": 40.9214,
+	"longitude": -98.3584
+},
+{
+	"City": "Kearney",
+	"State": "NE",
+	"latitude": 40.701,
+	"longitude": -99.0834
+},
+{
+	"City": "Fremont",
+	"State": "NE",
+	"latitude": 41.4396,
+	"longitude": -96.4879
+},
+{
+	"City": "Norfolk",
+	"State": "NE",
+	"latitude": 42.0327,
+	"longitude": -97.4208
+},
+{
+	"City": "Scottsbluff",
+	"State": "NE",
+	"latitude": 41.8684,
+	"longitude": -103.6616
+},
+{
+	"City": "Hastings",
+	"State": "NE",
+	"latitude": 40.5963,
+	"longitude": -98.3914
+},
+{
+	"City": "North Platte",
+	"State": "NE",
+	"latitude": 41.1266,
+	"longitude": -100.764
+},
+{
+	"City": "Columbus",
+	"State": "NE",
+	"latitude": 41.4368,
+	"longitude": -97.3563
+},
+{
+	"City": "Papillion",
+	"State": "NE",
+	"latitude": 41.1516,
+	"longitude": -96.0679
+},
+{
+	"City": "La Vista",
+	"State": "NE",
+	"latitude": 41.1816,
+	"longitude": -96.0666
+},
+{
+	"City": "South Sioux City",
+	"State": "NE",
+	"latitude": 42.4627,
+	"longitude": -96.4126
+},
+{
+	"City": "Beatrice",
+	"State": "NE",
+	"latitude": 40.2737,
+	"longitude": -96.7454
+},
+{
+	"City": "Chalco",
+	"State": "NE",
+	"latitude": 41.1817,
+	"longitude": -96.1353
+},
+{
+	"City": "Lexington",
+	"State": "NE",
+	"latitude": 40.7779,
+	"longitude": -99.7461
+},
+{
+	"City": "Gering",
+	"State": "NE",
+	"latitude": 41.8275,
+	"longitude": -103.6649
+},
+{
+	"City": "Alliance",
+	"State": "NE",
+	"latitude": 42.1025,
+	"longitude": -102.8766
+},
+{
+	"City": "Blair",
+	"State": "NE",
+	"latitude": 41.5417,
+	"longitude": -96.1361
+},
+{
+	"City": "York",
+	"State": "NE",
+	"latitude": 40.8698,
+	"longitude": -97.5928
+},
+{
+	"City": "McCook",
+	"State": "NE",
+	"latitude": 40.2046,
+	"longitude": -100.6214
+},
+{
+	"City": "Nebraska City",
+	"State": "NE",
+	"latitude": 40.6762,
+	"longitude": -95.8613
+},
+{
+	"City": "Ralston",
+	"State": "NE",
+	"latitude": 41.2005,
+	"longitude": -96.0354
+},
+{
+	"City": "Seward",
+	"State": "NE",
+	"latitude": 40.9099,
+	"longitude": -97.0957
+},
+{
+	"City": "Crete",
+	"State": "NE",
+	"latitude": 40.6254,
+	"longitude": -96.9575
+},
+{
+	"City": "Plattsmouth",
+	"State": "NE",
+	"latitude": 41.0053,
+	"longitude": -95.894
+},
+{
+	"City": "Schuyler",
+	"State": "NE",
+	"latitude": 41.4497,
+	"longitude": -97.0619
+},
+{
+	"City": "Sidney",
+	"State": "NE",
+	"latitude": 41.134,
+	"longitude": -102.9681
+},
+{
+	"City": "Wayne",
+	"State": "NE",
+	"latitude": 42.2379,
+	"longitude": -97.01
+},
+{
+	"City": "Chadron",
+	"State": "NE",
+	"latitude": 42.826,
+	"longitude": -103.0025
+},
+{
+	"City": "Holdrege",
+	"State": "NE",
+	"latitude": 40.4395,
+	"longitude": -99.3773
+},
+{
+	"City": "Gretna",
+	"State": "NE",
+	"latitude": 41.1319,
+	"longitude": -96.2447
+},
+{
+	"City": "Offutt AFB",
+	"State": "NE",
+	"latitude": 41.1207,
+	"longitude": -95.9209
+},
+{
+	"City": "Wahoo",
+	"State": "NE",
+	"latitude": 41.2166,
+	"longitude": -96.6172
+},
+{
+	"City": "Aurora",
+	"State": "NE",
+	"latitude": 40.8642,
+	"longitude": -98.007
+},
+{
+	"City": "Ogallala",
+	"State": "NE",
+	"latitude": 41.1292,
+	"longitude": -101.721
+},
+{
+	"City": "Falls City",
+	"State": "NE",
+	"latitude": 40.0623,
+	"longitude": -95.599
+},
+{
+	"City": "Waverly",
+	"State": "NE",
+	"latitude": 40.9111,
+	"longitude": -96.534
+},
+{
+	"City": "Cozad",
+	"State": "NE",
+	"latitude": 40.8613,
+	"longitude": -99.9863
+},
+{
+	"City": "Fairbury",
+	"State": "NE",
+	"latitude": 40.1449,
+	"longitude": -97.1764
+},
+{
+	"City": "O'Neill",
+	"State": "NE",
+	"latitude": 42.461,
+	"longitude": -98.6465
+},
+{
+	"City": "Broken Bow",
+	"State": "NE",
+	"latitude": 41.4052,
+	"longitude": -99.6401
+},
+{
+	"City": "Gothenburg",
+	"State": "NE",
+	"latitude": 40.9241,
+	"longitude": -100.154
+},
+{
+	"City": "Auburn",
+	"State": "NE",
+	"latitude": 40.3894,
+	"longitude": -95.8436
+},
+{
+	"City": "West Point",
+	"State": "NE",
+	"latitude": 41.8378,
+	"longitude": -96.7062
+},
+{
+	"City": "Minden",
+	"State": "NE",
+	"latitude": 40.4982,
+	"longitude": -98.967
+},
+{
+	"City": "Valley",
+	"State": "NE",
+	"latitude": 41.3147,
+	"longitude": -96.3565
+},
+{
+	"City": "Central City",
+	"State": "NE",
+	"latitude": 41.1133,
+	"longitude": -98.0003
+},
+{
+	"City": "David City",
+	"State": "NE",
+	"latitude": 41.2549,
+	"longitude": -97.1269
+},
+{
+	"City": "Ashland",
+	"State": "NE",
+	"latitude": 41.0404,
+	"longitude": -96.3707
+},
+{
+	"City": "Valentine",
+	"State": "NE",
+	"latitude": 42.8739,
+	"longitude": -100.5498
+},
+{
+	"City": "Madison",
+	"State": "NE",
+	"latitude": 41.8283,
+	"longitude": -97.4568
+},
+{
+	"City": "Kimball",
+	"State": "NE",
+	"latitude": 41.2335,
+	"longitude": -103.6512
+},
+{
+	"City": "Hickman",
+	"State": "NE",
+	"latitude": 40.6248,
+	"longitude": -96.6306
+},
+{
+	"City": "St. Paul",
+	"State": "NE",
+	"latitude": 41.214,
+	"longitude": -98.46
+},
+{
+	"City": "Milford",
+	"State": "NE",
+	"latitude": 40.7722,
+	"longitude": -97.0535
+},
+{
+	"City": "Geneva",
+	"State": "NE",
+	"latitude": 40.5308,
+	"longitude": -97.5974
+},
+{
+	"City": "Ord",
+	"State": "NE",
+	"latitude": 41.5995,
+	"longitude": -98.9169
+},
+{
+	"City": "Imperial",
+	"State": "NE",
+	"latitude": 40.5145,
+	"longitude": -101.6374
+},
+{
+	"City": "Syracuse",
+	"State": "NE",
+	"latitude": 40.6635,
+	"longitude": -96.1827
+},
+{
+	"City": "Gibbon",
+	"State": "NE",
+	"latitude": 40.7461,
+	"longitude": -98.8458
+},
+{
+	"City": "Dakota City",
+	"State": "NE",
+	"latitude": 42.4184,
+	"longitude": -96.4202
+},
+{
+	"City": "Wilber",
+	"State": "NE",
+	"latitude": 40.481,
+	"longitude": -96.9645
+},
+{
+	"City": "Superior",
+	"State": "NE",
+	"latitude": 40.023,
+	"longitude": -98.0663
+},
+{
+	"City": "Pierce",
+	"State": "NE",
+	"latitude": 42.199,
+	"longitude": -97.5284
+},
+{
+	"City": "Tekamah",
+	"State": "NE",
+	"latitude": 41.778,
+	"longitude": -96.2247
+},
+{
+	"City": "Springfield",
+	"State": "NE",
+	"latitude": 41.0854,
+	"longitude": -96.1332
+},
+{
+	"City": "Mitchell",
+	"State": "NE",
+	"latitude": 41.9427,
+	"longitude": -103.8097
+},
+{
+	"City": "Ainsworth",
+	"State": "NE",
+	"latitude": 42.5485,
+	"longitude": -99.8574
+},
+{
+	"City": "Woodland Park",
+	"State": "NE",
+	"latitude": 42.0542,
+	"longitude": -97.3452
+},
+{
+	"City": "Tecumseh",
+	"State": "NE",
+	"latitude": 40.3718,
+	"longitude": -96.1888
+},
+{
+	"City": "Albion",
+	"State": "NE",
+	"latitude": 41.6872,
+	"longitude": -97.9987
+},
+{
+	"City": "Gordon",
+	"State": "NE",
+	"latitude": 42.8063,
+	"longitude": -102.2039
+},
+{
+	"City": "Bennington",
+	"State": "NE",
+	"latitude": 41.3681,
+	"longitude": -96.1616
+},
+{
+	"City": "Stanton",
+	"State": "NE",
+	"latitude": 41.9472,
+	"longitude": -97.2172
+},
+{
+	"City": "Neligh",
+	"State": "NE",
+	"latitude": 42.1291,
+	"longitude": -98.03
+},
+{
+	"City": "Hebron",
+	"State": "NE",
+	"latitude": 40.1681,
+	"longitude": -97.5872
+},
+{
+	"City": "Bridgeport",
+	"State": "NE",
+	"latitude": 41.6639,
+	"longitude": -103.0962
+},
+{
+	"City": "Hartington",
+	"State": "NE",
+	"latitude": 42.6205,
+	"longitude": -97.2672
+},
+{
+	"City": "Sutton",
+	"State": "NE",
+	"latitude": 40.6072,
+	"longitude": -97.8589
+},
+{
+	"City": "Wakefield",
+	"State": "NE",
+	"latitude": 42.2665,
+	"longitude": -96.8632
+},
+{
+	"City": "Ravenna",
+	"State": "NE",
+	"latitude": 41.0276,
+	"longitude": -98.8947
+},
+{
+	"City": "Wood River",
+	"State": "NE",
+	"latitude": 40.8208,
+	"longitude": -98.6003
+},
+{
+	"City": "Wymore",
+	"State": "NE",
+	"latitude": 40.1221,
+	"longitude": -96.6642
+},
+{
+	"City": "Sutherland",
+	"State": "NE",
+	"latitude": 41.1602,
+	"longitude": -101.1228
+},
+{
+	"City": "Arlington",
+	"State": "NE",
+	"latitude": 41.4548,
+	"longitude": -96.3562
+},
+{
+	"City": "Yutan",
+	"State": "NE",
+	"latitude": 41.2431,
+	"longitude": -96.3959
+},
+{
+	"City": "Louisville",
+	"State": "NE",
+	"latitude": 40.9965,
+	"longitude": -96.1614
+},
+{
+	"City": "North Bend",
+	"State": "NE",
+	"latitude": 41.462,
+	"longitude": -96.7858
+},
+{
+	"City": "Atkinson",
+	"State": "NE",
+	"latitude": 42.5309,
+	"longitude": -98.9747
+},
+{
+	"City": "Fullerton",
+	"State": "NE",
+	"latitude": 41.3648,
+	"longitude": -97.9725
+},
+{
+	"City": "Plainview",
+	"State": "NE",
+	"latitude": 42.3534,
+	"longitude": -97.7871
+},
+{
+	"City": "Battle Creek",
+	"State": "NE",
+	"latitude": 41.9981,
+	"longitude": -97.5994
+},
+{
+	"City": "Oakland",
+	"State": "NE",
+	"latitude": 41.8356,
+	"longitude": -96.4668
+},
+{
+	"City": "Wisner",
+	"State": "NE",
+	"latitude": 41.9878,
+	"longitude": -96.9133
+},
+{
+	"City": "Terrytown",
+	"State": "NE",
+	"latitude": 41.8465,
+	"longitude": -103.6705
+},
+{
+	"City": "Burwell",
+	"State": "NE",
+	"latitude": 41.78,
+	"longitude": -99.1341
+},
+{
+	"City": "Alma",
+	"State": "NE",
+	"latitude": 40.1036,
+	"longitude": -99.3656
+},
+{
+	"City": "Stromsburg",
+	"State": "NE",
+	"latitude": 41.116,
+	"longitude": -97.591
+},
+{
+	"City": "Grant",
+	"State": "NE",
+	"latitude": 40.8445,
+	"longitude": -101.7256
+},
+{
+	"City": "Pender",
+	"State": "NE",
+	"latitude": 42.1108,
+	"longitude": -96.7113
+},
+{
+	"City": "Eagle",
+	"State": "NE",
+	"latitude": 40.8161,
+	"longitude": -96.4327
+},
+{
+	"City": "Weeping Water",
+	"State": "NE",
+	"latitude": 40.8691,
+	"longitude": -96.14
+},
+{
+	"City": "Creighton",
+	"State": "NE",
+	"latitude": 42.4649,
+	"longitude": -97.9072
+},
+{
+	"City": "Bayard",
+	"State": "NE",
+	"latitude": 41.7572,
+	"longitude": -103.323
+},
+{
+	"City": "Shelton",
+	"State": "NE",
+	"latitude": 40.7789,
+	"longitude": -98.7306
+},
+{
+	"City": "Cambridge",
+	"State": "NE",
+	"latitude": 40.2843,
+	"longitude": -100.1653
+},
+{
+	"City": "Macy",
+	"State": "NE",
+	"latitude": 42.1158,
+	"longitude": -96.3667
+},
+{
+	"City": "Henderson",
+	"State": "NE",
+	"latitude": 40.7795,
+	"longitude": -97.8117
+},
+{
+	"City": "Fort Calhoun",
+	"State": "NE",
+	"latitude": 41.4563,
+	"longitude": -96.0263
+},
+{
+	"City": "Bennet",
+	"State": "NE",
+	"latitude": 40.6818,
+	"longitude": -96.5039
+},
+{
+	"City": "Arapahoe",
+	"State": "NE",
+	"latitude": 40.3048,
+	"longitude": -99.8979
+},
+{
+	"City": "Loup City",
+	"State": "NE",
+	"latitude": 41.2766,
+	"longitude": -98.9678
+},
+{
+	"City": "Friend",
+	"State": "NE",
+	"latitude": 40.6505,
+	"longitude": -97.2838
+},
+{
+	"City": "Harvard",
+	"State": "NE",
+	"latitude": 40.6201,
+	"longitude": -98.0961
+},
+{
+	"City": "Kenesaw",
+	"State": "NE",
+	"latitude": 40.6187,
+	"longitude": -98.6576
+},
+{
+	"City": "Elm Creek",
+	"State": "NE",
+	"latitude": 40.7201,
+	"longitude": -99.3755
+},
+{
+	"City": "Genoa",
+	"State": "NE",
+	"latitude": 41.4462,
+	"longitude": -97.7322
+},
+{
+	"City": "Bloomfield",
+	"State": "NE",
+	"latitude": 42.5984,
+	"longitude": -97.6481
+},
+{
+	"City": "Crawford",
+	"State": "NE",
+	"latitude": 42.6845,
+	"longitude": -103.416
+},
+{
+	"City": "Tilden",
+	"State": "NE",
+	"latitude": 42.0435,
+	"longitude": -97.8318
+},
+{
+	"City": "Laurel",
+	"State": "NE",
+	"latitude": 42.4301,
+	"longitude": -97.0986
+},
+{
+	"City": "Red Cloud",
+	"State": "NE",
+	"latitude": 40.0864,
+	"longitude": -98.5222
+},
+{
+	"City": "Waterloo",
+	"State": "NE",
+	"latitude": 41.2856,
+	"longitude": -96.285
+},
+{
+	"City": "Ponca",
+	"State": "NE",
+	"latitude": 42.5648,
+	"longitude": -96.7097
+},
+{
+	"City": "Franklin",
+	"State": "NE",
+	"latitude": 40.0966,
+	"longitude": -98.9514
+},
+{
+	"City": "Ceresco",
+	"State": "NE",
+	"latitude": 41.058,
+	"longitude": -96.6459
+},
+{
+	"City": "Randolph",
+	"State": "NE",
+	"latitude": 42.3775,
+	"longitude": -97.3577
+},
+{
+	"City": "Morrill",
+	"State": "NE",
+	"latitude": 41.9641,
+	"longitude": -103.9247
+},
+{
+	"City": "Curtis",
+	"State": "NE",
+	"latitude": 40.6335,
+	"longitude": -100.5113
+},
+{
+	"City": "Rushville",
+	"State": "NE",
+	"latitude": 42.7134,
+	"longitude": -102.4665
+},
+{
+	"City": "Blue Hill",
+	"State": "NE",
+	"latitude": 40.333,
+	"longitude": -98.4482
+},
+{
+	"City": "Chappell",
+	"State": "NE",
+	"latitude": 41.0913,
+	"longitude": -102.4699
+},
+{
+	"City": "Osceola",
+	"State": "NE",
+	"latitude": 41.1782,
+	"longitude": -97.5498
+},
+{
+	"City": "Hooper",
+	"State": "NE",
+	"latitude": 41.6117,
+	"longitude": -96.5487
+},
+{
+	"City": "Pawnee City",
+	"State": "NE",
+	"latitude": 40.1106,
+	"longitude": -96.1529
+},
+{
+	"City": "Utica",
+	"State": "NE",
+	"latitude": 40.8953,
+	"longitude": -97.3454
+},
+{
+	"City": "Doniphan",
+	"State": "NE",
+	"latitude": 40.7742,
+	"longitude": -98.3708
+},
+{
+	"City": "Juniata",
+	"State": "NE",
+	"latitude": 40.5903,
+	"longitude": -98.5069
+},
+{
+	"City": "Humphrey",
+	"State": "NE",
+	"latitude": 41.6884,
+	"longitude": -97.485
+},
+{
+	"City": "Humboldt",
+	"State": "NE",
+	"latitude": 40.1658,
+	"longitude": -95.9443
+},
+{
+	"City": "Lyons",
+	"State": "NE",
+	"latitude": 41.936,
+	"longitude": -96.4717
+},
+{
+	"City": "Scribner",
+	"State": "NE",
+	"latitude": 41.665,
+	"longitude": -96.6653
+},
+{
+	"City": "Walthill",
+	"State": "NE",
+	"latitude": 42.1489,
+	"longitude": -96.4929
+},
+{
+	"City": "Cairo",
+	"State": "NE",
+	"latitude": 41.0046,
+	"longitude": -98.6007
+},
+{
+	"City": "Emerson",
+	"State": "NE",
+	"latitude": 42.2782,
+	"longitude": -96.7265
+},
+{
+	"City": "Benkelman",
+	"State": "NE",
+	"latitude": 40.0517,
+	"longitude": -101.5354
+},
+{
+	"City": "Minatare",
+	"State": "NE",
+	"latitude": 41.8112,
+	"longitude": -103.5019
+},
+{
+	"City": "Winnebago",
+	"State": "NE",
+	"latitude": 42.2361,
+	"longitude": -96.4719
+},
+{
+	"City": "Oshkosh",
+	"State": "NE",
+	"latitude": 41.408,
+	"longitude": -102.3452
+},
+{
+	"City": "Hemingford",
+	"State": "NE",
+	"latitude": 42.3214,
+	"longitude": -103.0752
+},
+{
+	"City": "Peru",
+	"State": "NE",
+	"latitude": 40.4785,
+	"longitude": -95.7314
+},
+{
+	"City": "Axtell",
+	"State": "NE",
+	"latitude": 40.4798,
+	"longitude": -99.1292
+},
+{
+	"City": "Osmond",
+	"State": "NE",
+	"latitude": 42.3583,
+	"longitude": -97.599
+},
+{
+	"City": "Deshler",
+	"State": "NE",
+	"latitude": 40.1398,
+	"longitude": -97.7234
+},
+{
+	"City": "Oxford",
+	"State": "NE",
+	"latitude": 40.253,
+	"longitude": -99.6322
+},
+{
+	"City": "Clay Center",
+	"State": "NE",
+	"latitude": 40.5256,
+	"longitude": -98.055
+},
+{
+	"City": "Bertrand",
+	"State": "NE",
+	"latitude": 40.5263,
+	"longitude": -99.6324
+},
+{
+	"City": "Newman Grove",
+	"State": "NE",
+	"latitude": 41.7469,
+	"longitude": -97.7767
+},
+{
+	"City": "Shelby",
+	"State": "NE",
+	"latitude": 41.194,
+	"longitude": -97.426
+},
+{
+	"City": "Elwood",
+	"State": "NE",
+	"latitude": 40.5897,
+	"longitude": -99.8616
+},
+{
+	"City": "Crofton",
+	"State": "NE",
+	"latitude": 42.7315,
+	"longitude": -97.4986
+},
+{
+	"City": "Alda",
+	"State": "NE",
+	"latitude": 40.8666,
+	"longitude": -98.4679
+},
+{
+	"City": "Elmwood",
+	"State": "NE",
+	"latitude": 40.8426,
+	"longitude": -96.2947
+},
+{
+	"City": "St. Edward",
+	"State": "NE",
+	"latitude": 41.5715,
+	"longitude": -97.8611
+},
+{
+	"City": "Hershey",
+	"State": "NE",
+	"latitude": 41.1601,
+	"longitude": -100.9985
+},
+{
+	"City": "Beemer",
+	"State": "NE",
+	"latitude": 41.93,
+	"longitude": -96.8092
+},
+{
+	"City": "Clarkson",
+	"State": "NE",
+	"latitude": 41.7234,
+	"longitude": -97.1215
+},
+{
+	"City": "Firth",
+	"State": "NE",
+	"latitude": 40.5359,
+	"longitude": -96.6049
+},
+{
+	"City": "Elgin",
+	"State": "NE",
+	"latitude": 41.9831,
+	"longitude": -98.0828
+},
+{
+	"City": "Adams",
+	"State": "NE",
+	"latitude": 40.4571,
+	"longitude": -96.5127
+},
+{
+	"City": "Greenwood",
+	"State": "NE",
+	"latitude": 40.9614,
+	"longitude": -96.4433
+},
+{
+	"City": "Dodge",
+	"State": "NE",
+	"latitude": 41.7218,
+	"longitude": -96.8804
+},
+{
+	"City": "Stuart",
+	"State": "NE",
+	"latitude": 42.6008,
+	"longitude": -99.1404
+},
+{
+	"City": "Cedar Bluffs",
+	"State": "NE",
+	"latitude": 41.3971,
+	"longitude": -96.6098
+},
+{
+	"City": "Beaver City",
+	"State": "NE",
+	"latitude": 40.1383,
+	"longitude": -99.8276
+},
+{
+	"City": "Dorchester",
+	"State": "NE",
+	"latitude": 40.6475,
+	"longitude": -97.1149
+},
+{
+	"City": "Arnold",
+	"State": "NE",
+	"latitude": 41.4232,
+	"longitude": -100.1936
+},
+{
+	"City": "Overton",
+	"State": "NE",
+	"latitude": 40.7406,
+	"longitude": -99.5374
+},
+{
+	"City": "Mead",
+	"State": "NE",
+	"latitude": 41.2136,
+	"longitude": -96.4824
+},
+{
+	"City": "Palmyra",
+	"State": "NE",
+	"latitude": 40.7057,
+	"longitude": -96.392
+},
+{
+	"City": "Howells",
+	"State": "NE",
+	"latitude": 41.7241,
+	"longitude": -97.0043
+},
+{
+	"City": "Boys Town",
+	"State": "NE",
+	"latitude": 41.256,
+	"longitude": -96.1336
+},
+{
+	"City": "Wausa",
+	"State": "NE",
+	"latitude": 42.4979,
+	"longitude": -97.5393
+},
+{
+	"City": "Culbertson",
+	"State": "NE",
+	"latitude": 40.2284,
+	"longitude": -100.8351
+},
+{
+	"City": "Wauneta",
+	"State": "NE",
+	"latitude": 40.4164,
+	"longitude": -101.3766
+},
+{
+	"City": "Indianola",
+	"State": "NE",
+	"latitude": 40.2346,
+	"longitude": -100.4198
+},
+{
+	"City": "Glenwood",
+	"State": "NE",
+	"latitude": 40.7555,
+	"longitude": -99.081
+},
+{
+	"City": "Valparaiso",
+	"State": "NE",
+	"latitude": 41.0798,
+	"longitude": -96.833
+},
+{
+	"City": "Bassett",
+	"State": "NE",
+	"latitude": 42.5827,
+	"longitude": -99.5368
+},
+{
+	"City": "Hay Springs",
+	"State": "NE",
+	"latitude": 42.6834,
+	"longitude": -102.6896
+},
+{
+	"City": "Callaway",
+	"State": "NE",
+	"latitude": 41.2915,
+	"longitude": -99.9203
+},
+{
+	"City": "Trenton",
+	"State": "NE",
+	"latitude": 40.1746,
+	"longitude": -101.0136
+},
+{
+	"City": "Verdigre",
+	"State": "NE",
+	"latitude": 42.5974,
+	"longitude": -98.0357
+},
+{
+	"City": "Exeter",
+	"State": "NE",
+	"latitude": 40.6445,
+	"longitude": -97.4489
+},
+{
+	"City": "Homer",
+	"State": "NE",
+	"latitude": 42.3225,
+	"longitude": -96.4912
+},
+{
+	"City": "Fairmont",
+	"State": "NE",
+	"latitude": 40.6333,
+	"longitude": -97.5876
+},
+{
+	"City": "Sargent",
+	"State": "NE",
+	"latitude": 41.6399,
+	"longitude": -99.3688
+},
+{
+	"City": "De Witt",
+	"State": "NE",
+	"latitude": 40.3953,
+	"longitude": -96.9222
+},
+{
+	"City": "Paxton",
+	"State": "NE",
+	"latitude": 41.1235,
+	"longitude": -101.3522
+},
+{
+	"City": "Murray",
+	"State": "NE",
+	"latitude": 40.9163,
+	"longitude": -95.9267
+},
+{
+	"City": "Cortland",
+	"State": "NE",
+	"latitude": 40.5059,
+	"longitude": -96.7064
+},
+{
+	"City": "Palmer",
+	"State": "NE",
+	"latitude": 41.2224,
+	"longitude": -98.2599
+},
+{
+	"City": "Bancroft",
+	"State": "NE",
+	"latitude": 42.0104,
+	"longitude": -96.5733
+},
+{
+	"City": "Decatur",
+	"State": "NE",
+	"latitude": 42.0056,
+	"longitude": -96.2497
+},
+{
+	"City": "Mullen",
+	"State": "NE",
+	"latitude": 42.0432,
+	"longitude": -101.0445
+},
+{
+	"City": "Sterling",
+	"State": "NE",
+	"latitude": 40.4612,
+	"longitude": -96.3776
+},
+{
+	"City": "Edgar",
+	"State": "NE",
+	"latitude": 40.3683,
+	"longitude": -97.971
+},
+{
+	"City": "Coleridge",
+	"State": "NE",
+	"latitude": 42.5065,
+	"longitude": -97.2029
+},
+{
+	"City": "Nelson",
+	"State": "NE",
+	"latitude": 40.2011,
+	"longitude": -98.0687
+},
+{
+	"City": "Spalding",
+	"State": "NE",
+	"latitude": 41.6892,
+	"longitude": -98.3626
+},
+{
+	"City": "Hampton",
+	"State": "NE",
+	"latitude": 40.8812,
+	"longitude": -97.8875
+},
+{
+	"City": "McCool Junction",
+	"State": "NE",
+	"latitude": 40.744,
+	"longitude": -97.6007
+},
+{
+	"City": "Greeley Center",
+	"State": "NE",
+	"latitude": 41.5484,
+	"longitude": -98.5305
+},
+{
+	"City": "Ansley",
+	"State": "NE",
+	"latitude": 41.2863,
+	"longitude": -99.3825
+},
+{
+	"City": "Bellwood",
+	"State": "NE",
+	"latitude": 41.3419,
+	"longitude": -97.24
+},
+{
+	"City": "Brady",
+	"State": "NE",
+	"latitude": 41.0223,
+	"longitude": -100.3674
+},
+{
+	"City": "Leigh",
+	"State": "NE",
+	"latitude": 41.7023,
+	"longitude": -97.2398
+},
+{
+	"City": "Spencer",
+	"State": "NE",
+	"latitude": 42.8749,
+	"longitude": -98.7002
+},
+{
+	"City": "Beaver Crossing",
+	"State": "NE",
+	"latitude": 40.7782,
+	"longitude": -97.2825
+},
+{
+	"City": "Cedar Creek",
+	"State": "NE",
+	"latitude": 41.0451,
+	"longitude": -96.1016
+},
+{
+	"City": "Malcolm",
+	"State": "NE",
+	"latitude": 40.909,
+	"longitude": -96.8657
+},
+{
+	"City": "Winside",
+	"State": "NE",
+	"latitude": 42.1773,
+	"longitude": -97.1751
+},
+{
+	"City": "Clearwater",
+	"State": "NE",
+	"latitude": 42.1707,
+	"longitude": -98.1897
+},
+{
+	"City": "Plymouth",
+	"State": "NE",
+	"latitude": 40.3023,
+	"longitude": -96.9886
+},
+{
+	"City": "Big Springs",
+	"State": "NE",
+	"latitude": 41.061,
+	"longitude": -102.0745
+},
+{
+	"City": "Loomis",
+	"State": "NE",
+	"latitude": 40.4786,
+	"longitude": -99.5077
+},
+{
+	"City": "Eustis",
+	"State": "NE",
+	"latitude": 40.6645,
+	"longitude": -100.0296
+},
+{
+	"City": "Ewing",
+	"State": "NE",
+	"latitude": 42.2594,
+	"longitude": -98.3438
+},
+{
+	"City": "Orleans",
+	"State": "NE",
+	"latitude": 40.1318,
+	"longitude": -99.4549
+},
+{
+	"City": "Lakeview",
+	"State": "NE",
+	"latitude": 41.4998,
+	"longitude": -97.3775
+},
+{
+	"City": "Fairfield",
+	"State": "NE",
+	"latitude": 40.4323,
+	"longitude": -98.1033
+},
+{
+	"City": "Nickerson",
+	"State": "NE",
+	"latitude": 41.5349,
+	"longitude": -96.4709
+},
+{
+	"City": "Duncan",
+	"State": "NE",
+	"latitude": 41.3901,
+	"longitude": -97.4934
+},
+{
+	"City": "Giltner",
+	"State": "NE",
+	"latitude": 40.775,
+	"longitude": -98.1537
+},
+{
+	"City": "Kennard",
+	"State": "NE",
+	"latitude": 41.4747,
+	"longitude": -96.2037
+},
+{
+	"City": "Merna",
+	"State": "NE",
+	"latitude": 41.4853,
+	"longitude": -99.761
+},
+{
+	"City": "Cedar Rapids",
+	"State": "NE",
+	"latitude": 41.5589,
+	"longitude": -98.1493
+},
+{
+	"City": "Pleasanton",
+	"State": "NE",
+	"latitude": 40.9698,
+	"longitude": -99.0876
+},
+{
+	"City": "Pilger",
+	"State": "NE",
+	"latitude": 42.0077,
+	"longitude": -97.0546
+},
+{
+	"City": "Silver Creek",
+	"State": "NE",
+	"latitude": 41.3152,
+	"longitude": -97.6651
+},
+{
+	"City": "Hildreth",
+	"State": "NE",
+	"latitude": 40.3378,
+	"longitude": -99.0458
+},
+{
+	"City": "Rising City",
+	"State": "NE",
+	"latitude": 41.1983,
+	"longitude": -97.2974
+},
+{
+	"City": "Roca",
+	"State": "NE",
+	"latitude": 40.6583,
+	"longitude": -96.6614
+},
+{
+	"City": "Allen",
+	"State": "NE",
+	"latitude": 42.4144,
+	"longitude": -96.8432
+},
+{
+	"City": "Newcastle",
+	"State": "NE",
+	"latitude": 42.6524,
+	"longitude": -96.874
+},
+{
+	"City": "Wilcox",
+	"State": "NE",
+	"latitude": 40.3641,
+	"longitude": -99.1694
+},
+{
+	"City": "Orchard",
+	"State": "NE",
+	"latitude": 42.337,
+	"longitude": -98.2412
+},
+{
+	"City": "Clarks",
+	"State": "NE",
+	"latitude": 41.2164,
+	"longitude": -97.8396
+},
+{
+	"City": "Wallace",
+	"State": "NE",
+	"latitude": 40.8376,
+	"longitude": -101.1645
+},
+{
+	"City": "Santee",
+	"State": "NE",
+	"latitude": 42.8386,
+	"longitude": -97.8495
+},
+{
+	"City": "Niobrara",
+	"State": "NE",
+	"latitude": 42.7499,
+	"longitude": -98.0317
+},
+{
+	"City": "Platte Center",
+	"State": "NE",
+	"latitude": 41.5374,
+	"longitude": -97.4886
+},
+{
+	"City": "Palisade",
+	"State": "NE",
+	"latitude": 40.3483,
+	"longitude": -101.1075
+},
+{
+	"City": "Weston",
+	"State": "NE",
+	"latitude": 41.1931,
+	"longitude": -96.7422
+},
+{
+	"City": "Johnson",
+	"State": "NE",
+	"latitude": 40.4106,
+	"longitude": -95.9996
+},
+{
+	"City": "Stratton",
+	"State": "NE",
+	"latitude": 40.1502,
+	"longitude": -101.2278
+},
+{
+	"City": "Lyman",
+	"State": "NE",
+	"latitude": 41.9177,
+	"longitude": -104.0373
+},
+{
+	"City": "Unadilla",
+	"State": "NE",
+	"latitude": 40.6827,
+	"longitude": -96.2702
+},
+{
+	"City": "Inglewood",
+	"State": "NE",
+	"latitude": 41.416,
+	"longitude": -96.5021
+},
+{
+	"City": "Shickley",
+	"State": "NE",
+	"latitude": 40.4165,
+	"longitude": -97.7242
+},
+{
+	"City": "Blue Springs",
+	"State": "NE",
+	"latitude": 40.1376,
+	"longitude": -96.6631
+},
+{
+	"City": "Brainard",
+	"State": "NE",
+	"latitude": 41.1819,
+	"longitude": -97.0022
+},
+{
+	"City": "Petersburg",
+	"State": "NE",
+	"latitude": 41.8536,
+	"longitude": -98.0811
+},
+{
+	"City": "Prague",
+	"State": "NE",
+	"latitude": 41.3095,
+	"longitude": -96.8081
+},
+{
+	"City": "Hadar",
+	"State": "NE",
+	"latitude": 42.1072,
+	"longitude": -97.451
+},
+{
+	"City": "Polk",
+	"State": "NE",
+	"latitude": 41.0755,
+	"longitude": -97.7834
+},
+{
+	"City": "Arcadia",
+	"State": "NE",
+	"latitude": 41.4249,
+	"longitude": -99.126
+},
+{
+	"City": "Brule",
+	"State": "NE",
+	"latitude": 41.0948,
+	"longitude": -101.8887
+},
+{
+	"City": "Dannebrog",
+	"State": "NE",
+	"latitude": 41.1186,
+	"longitude": -98.5456
+},
+{
+	"City": "Butte",
+	"State": "NE",
+	"latitude": 42.9125,
+	"longitude": -98.8479
+},
+{
+	"City": "Cook",
+	"State": "NE",
+	"latitude": 40.5105,
+	"longitude": -96.1618
+},
+{
+	"City": "Campbell",
+	"State": "NE",
+	"latitude": 40.2963,
+	"longitude": -98.7316
+},
+{
+	"City": "Hoskins",
+	"State": "NE",
+	"latitude": 42.1126,
+	"longitude": -97.3045
+},
+{
+	"City": "Stapleton",
+	"State": "NE",
+	"latitude": 41.4802,
+	"longitude": -100.5126
+},
+{
+	"City": "Phillips",
+	"State": "NE",
+	"latitude": 40.898,
+	"longitude": -98.2142
+},
+{
+	"City": "Maxwell",
+	"State": "NE",
+	"latitude": 41.0784,
+	"longitude": -100.5257
+},
+{
+	"City": "Oakdale",
+	"State": "NE",
+	"latitude": 42.07,
+	"longitude": -97.9672
+},
+{
+	"City": "North Loup",
+	"State": "NE",
+	"latitude": 41.4955,
+	"longitude": -98.7727
+},
+{
+	"City": "Glenvil",
+	"State": "NE",
+	"latitude": 40.5027,
+	"longitude": -98.2545
+},
+{
+	"City": "Potter",
+	"State": "NE",
+	"latitude": 41.2244,
+	"longitude": -103.1907
+},
+{
+	"City": "Odell",
+	"State": "NE",
+	"latitude": 40.0503,
+	"longitude": -96.8016
+},
+{
+	"City": "Snyder",
+	"State": "NE",
+	"latitude": 41.7046,
+	"longitude": -96.7867
+},
+{
+	"City": "Scotia",
+	"State": "NE",
+	"latitude": 41.4678,
+	"longitude": -98.7025
+},
+{
+	"City": "Meadow Grove",
+	"State": "NE",
+	"latitude": 42.029,
+	"longitude": -97.736
+},
+{
+	"City": "Long Pine",
+	"State": "NE",
+	"latitude": 42.5353,
+	"longitude": -99.7027
+},
+{
+	"City": "Chapman",
+	"State": "NE",
+	"latitude": 41.0232,
+	"longitude": -98.1594
+},
+{
+	"City": "Yankee Hill",
+	"State": "NE",
+	"latitude": 40.7674,
+	"longitude": -96.7364
+},
+{
+	"City": "Davenport",
+	"State": "NE",
+	"latitude": 40.3123,
+	"longitude": -97.8115
+},
+{
+	"City": "Monroe",
+	"State": "NE",
+	"latitude": 41.474,
+	"longitude": -97.5998
+},
+{
+	"City": "Lawrence",
+	"State": "NE",
+	"latitude": 40.2902,
+	"longitude": -98.2596
+},
+{
+	"City": "Dalton",
+	"State": "NE",
+	"latitude": 41.4083,
+	"longitude": -102.9708
+},
+{
+	"City": "Lodgepole",
+	"State": "NE",
+	"latitude": 41.149,
+	"longitude": -102.6391
+},
+{
+	"City": "Panama",
+	"State": "NE",
+	"latitude": 40.5998,
+	"longitude": -96.5111
+},
+{
+	"City": "Herman",
+	"State": "NE",
+	"latitude": 41.674,
+	"longitude": -96.2167
+},
+{
+	"City": "Bartley",
+	"State": "NE",
+	"latitude": 40.2511,
+	"longitude": -100.3104
+},
+{
+	"City": "Bruning",
+	"State": "NE",
+	"latitude": 40.3357,
+	"longitude": -97.5648
+},
+{
+	"City": "Bradshaw",
+	"State": "NE",
+	"latitude": 40.8835,
+	"longitude": -97.747
+},
+{
+	"City": "Roseland",
+	"State": "NE",
+	"latitude": 40.4698,
+	"longitude": -98.5587
+},
+{
+	"City": "Hallam",
+	"State": "NE",
+	"latitude": 40.5365,
+	"longitude": -96.7867
+},
+{
+	"City": "Milligan",
+	"State": "NE",
+	"latitude": 40.5001,
+	"longitude": -97.3883
+},
+{
+	"City": "Lindsay",
+	"State": "NE",
+	"latitude": 41.7004,
+	"longitude": -97.6938
+},
+{
+	"City": "Chambers",
+	"State": "NE",
+	"latitude": 42.2047,
+	"longitude": -98.7486
+},
+{
+	"City": "Diller",
+	"State": "NE",
+	"latitude": 40.1089,
+	"longitude": -96.9374
+},
+{
+	"City": "Wolbach",
+	"State": "NE",
+	"latitude": 41.4013,
+	"longitude": -98.394
+},
+{
+	"City": "Amherst",
+	"State": "NE",
+	"latitude": 40.8385,
+	"longitude": -99.2694
+},
+{
+	"City": "Table Rock",
+	"State": "NE",
+	"latitude": 40.1783,
+	"longitude": -96.0888
+},
+{
+	"City": "Avoca",
+	"State": "NE",
+	"latitude": 40.7965,
+	"longitude": -96.1192
+},
+{
+	"City": "Maywood",
+	"State": "NE",
+	"latitude": 40.6586,
+	"longitude": -100.6222
+},
+{
+	"City": "Litchfield",
+	"State": "NE",
+	"latitude": 41.1562,
+	"longitude": -99.1532
+},
+{
+	"City": "Murdock",
+	"State": "NE",
+	"latitude": 40.926,
+	"longitude": -96.2812
+},
+{
+	"City": "Union",
+	"State": "NE",
+	"latitude": 40.8144,
+	"longitude": -95.9215
+},
+{
+	"City": "Dix",
+	"State": "NE",
+	"latitude": 41.2342,
+	"longitude": -103.4867
+},
+{
+	"City": "Talmage",
+	"State": "NE",
+	"latitude": 40.5315,
+	"longitude": -96.0239
+},
+{
+	"City": "Marquette",
+	"State": "NE",
+	"latitude": 41.0065,
+	"longitude": -98.0096
+},
+{
+	"City": "Holstein",
+	"State": "NE",
+	"latitude": 40.4652,
+	"longitude": -98.651
+},
+{
+	"City": "Waco",
+	"State": "NE",
+	"latitude": 40.897,
+	"longitude": -97.4614
+},
+{
+	"City": "Springview",
+	"State": "NE",
+	"latitude": 42.8249,
+	"longitude": -99.7475
+},
+{
+	"City": "Western",
+	"State": "NE",
+	"latitude": 40.3931,
+	"longitude": -97.1984
+},
+{
+	"City": "Woodland Hills",
+	"State": "NE",
+	"latitude": 40.7511,
+	"longitude": -96.421
+},
+{
+	"City": "Staplehurst",
+	"State": "NE",
+	"latitude": 40.9747,
+	"longitude": -97.173
+},
+{
+	"City": "Madrid",
+	"State": "NE",
+	"latitude": 40.8525,
+	"longitude": -101.5278
+},
+{
+	"City": "Benedict",
+	"State": "NE",
+	"latitude": 41.0063,
+	"longitude": -97.6073
+},
+{
+	"City": "Elba",
+	"State": "NE",
+	"latitude": 41.2853,
+	"longitude": -98.5693
+},
+{
+	"City": "Hubbard",
+	"State": "NE",
+	"latitude": 42.3859,
+	"longitude": -96.5915
+},
+{
+	"City": "Harrison",
+	"State": "NE",
+	"latitude": 42.6879,
+	"longitude": -103.8825
+},
+{
+	"City": "Uehling",
+	"State": "NE",
+	"latitude": 41.7347,
+	"longitude": -96.5057
+},
+{
+	"City": "Chester",
+	"State": "NE",
+	"latitude": 40.0101,
+	"longitude": -97.6181
+},
+{
+	"City": "Clatonia",
+	"State": "NE",
+	"latitude": 40.4654,
+	"longitude": -96.8512
+},
+{
+	"City": "Lynch",
+	"State": "NE",
+	"latitude": 42.8314,
+	"longitude": -98.4671
+},
+{
+	"City": "Sumner",
+	"State": "NE",
+	"latitude": 40.949,
+	"longitude": -99.5081
+},
+{
+	"City": "Bladen",
+	"State": "NE",
+	"latitude": 40.3233,
+	"longitude": -98.596
+},
+{
+	"City": "Thedford",
+	"State": "NE",
+	"latitude": 41.9789,
+	"longitude": -100.5747
+},
+{
+	"City": "Garland",
+	"State": "NE",
+	"latitude": 40.9446,
+	"longitude": -96.9855
+},
+{
+	"City": "Carroll",
+	"State": "NE",
+	"latitude": 42.2758,
+	"longitude": -97.1908
+},
+{
+	"City": "Nehawka",
+	"State": "NE",
+	"latitude": 40.8295,
+	"longitude": -95.9901
+},
+{
+	"City": "Gresham",
+	"State": "NE",
+	"latitude": 41.0284,
+	"longitude": -97.4011
+},
+{
+	"City": "Pleasant Dale",
+	"State": "NE",
+	"latitude": 40.7913,
+	"longitude": -96.933
+},
+{
+	"City": "Denton",
+	"State": "NE",
+	"latitude": 40.7392,
+	"longitude": -96.846
+},
+{
+	"City": "Creston",
+	"State": "NE",
+	"latitude": 41.7081,
+	"longitude": -97.3625
+},
+{
+	"City": "Jackson",
+	"State": "NE",
+	"latitude": 42.4507,
+	"longitude": -96.579
+},
+{
+	"City": "Hayes Center",
+	"State": "NE",
+	"latitude": 40.511,
+	"longitude": -101.0204
+},
+{
+	"City": "Guide Rock",
+	"State": "NE",
+	"latitude": 40.0738,
+	"longitude": -98.3288
+},
+{
+	"City": "Taylor",
+	"State": "NE",
+	"latitude": 41.7696,
+	"longitude": -99.3814
+},
+{
+	"City": "Lewellen",
+	"State": "NE",
+	"latitude": 41.3306,
+	"longitude": -102.1437
+},
+{
+	"City": "Trumbull",
+	"State": "NE",
+	"latitude": 40.6801,
+	"longitude": -98.2734
+},
+{
+	"City": "Holbrook",
+	"State": "NE",
+	"latitude": 40.3047,
+	"longitude": -100.0099
+},
+{
+	"City": "Dunbar",
+	"State": "NE",
+	"latitude": 40.6687,
+	"longitude": -96.0309
+},
+{
+	"City": "Pickrell",
+	"State": "NE",
+	"latitude": 40.3782,
+	"longitude": -96.7294
+},
+{
+	"City": "Dwight",
+	"State": "NE",
+	"latitude": 41.0827,
+	"longitude": -97.0191
+},
+{
+	"City": "Gurley",
+	"State": "NE",
+	"latitude": 41.3214,
+	"longitude": -102.9745
+},
+{
+	"City": "Craig",
+	"State": "NE",
+	"latitude": 41.7852,
+	"longitude": -96.3624
+},
+{
+	"City": "Howard City",
+	"State": "NE",
+	"latitude": 41.0753,
+	"longitude": -98.7154
+},
+{
+	"City": "Ashton",
+	"State": "NE",
+	"latitude": 41.2477,
+	"longitude": -98.795
+},
+{
+	"City": "Raymond",
+	"State": "NE",
+	"latitude": 40.9567,
+	"longitude": -96.7816
+},
+{
+	"City": "Bee",
+	"State": "NE",
+	"latitude": 41.0064,
+	"longitude": -97.0583
+},
+{
+	"City": "Hyannis",
+	"State": "NE",
+	"latitude": 42.0005,
+	"longitude": -101.7622
+},
+{
+	"City": "Funk",
+	"State": "NE",
+	"latitude": 40.463,
+	"longitude": -99.2508
+},
+{
+	"City": "Wynot",
+	"State": "NE",
+	"latitude": 42.7398,
+	"longitude": -97.1697
+},
+{
+	"City": "Walton",
+	"State": "NE",
+	"latitude": 40.796,
+	"longitude": -96.5657
+},
+{
+	"City": "Riverdale",
+	"State": "NE",
+	"latitude": 40.7839,
+	"longitude": -99.1605
+},
+{
+	"City": "Douglas",
+	"State": "NE",
+	"latitude": 40.5932,
+	"longitude": -96.3882
+},
+{
+	"City": "Otoe",
+	"State": "NE",
+	"latitude": 40.7242,
+	"longitude": -96.1206
+},
+{
+	"City": "Stamford",
+	"State": "NE",
+	"latitude": 40.1313,
+	"longitude": -99.5945
+},
+{
+	"City": "Manley",
+	"State": "NE",
+	"latitude": 40.9199,
+	"longitude": -96.1664
+},
+{
+	"City": "Alexandria",
+	"State": "NE",
+	"latitude": 40.2475,
+	"longitude": -97.3877
+},
+{
+	"City": "Mason City",
+	"State": "NE",
+	"latitude": 41.2221,
+	"longitude": -99.2988
+},
+{
+	"City": "St. Libory",
+	"State": "NE",
+	"latitude": 41.0822,
+	"longitude": -98.359
+},
+{
+	"City": "Farnam",
+	"State": "NE",
+	"latitude": 40.7065,
+	"longitude": -100.2155
+},
+{
+	"City": "Rosalie",
+	"State": "NE",
+	"latitude": 42.0574,
+	"longitude": -96.5128
+},
+{
+	"City": "Venango",
+	"State": "NE",
+	"latitude": 40.7637,
+	"longitude": -102.0441
+},
+{
+	"City": "Rulo",
+	"State": "NE",
+	"latitude": 40.0517,
+	"longitude": -95.4306
+},
+{
+	"City": "Daykin",
+	"State": "NE",
+	"latitude": 40.3217,
+	"longitude": -97.2984
+},
+{
+	"City": "Ulysses",
+	"State": "NE",
+	"latitude": 41.0722,
+	"longitude": -97.2029
+},
+{
+	"City": "Goehner",
+	"State": "NE",
+	"latitude": 40.8327,
+	"longitude": -97.2196
+},
+{
+	"City": "Page",
+	"State": "NE",
+	"latitude": 42.4,
+	"longitude": -98.4177
+},
+{
+	"City": "Verdon",
+	"State": "NE",
+	"latitude": 40.1491,
+	"longitude": -95.7112
+},
+{
+	"City": "La Platte",
+	"State": "NE",
+	"latitude": 41.0718,
+	"longitude": -95.9255
+},
+{
+	"City": "Washington",
+	"State": "NE",
+	"latitude": 41.3977,
+	"longitude": -96.2075
+},
+{
+	"City": "Davey",
+	"State": "NE",
+	"latitude": 40.9838,
+	"longitude": -96.6692
+},
+{
+	"City": "Republican City",
+	"State": "NE",
+	"latitude": 40.0987,
+	"longitude": -99.2223
+},
+{
+	"City": "Cody",
+	"State": "NE",
+	"latitude": 42.9377,
+	"longitude": -101.2489
+},
+{
+	"City": "Concord",
+	"State": "NE",
+	"latitude": 42.3838,
+	"longitude": -96.9891
+},
+{
+	"City": "Sprague",
+	"State": "NE",
+	"latitude": 40.6266,
+	"longitude": -96.7445
+},
+{
+	"City": "Ithaca",
+	"State": "NE",
+	"latitude": 41.1593,
+	"longitude": -96.5394
+},
+{
+	"City": "Hordville",
+	"State": "NE",
+	"latitude": 41.0793,
+	"longitude": -97.8904
+},
+{
+	"City": "Hardy",
+	"State": "NE",
+	"latitude": 40.0114,
+	"longitude": -97.9238
+},
+{
+	"City": "Oconto",
+	"State": "NE",
+	"latitude": 41.1415,
+	"longitude": -99.7619
+},
+{
+	"City": "Stella",
+	"State": "NE",
+	"latitude": 40.2321,
+	"longitude": -95.7735
+},
+{
+	"City": "Morse Bluff",
+	"State": "NE",
+	"latitude": 41.431,
+	"longitude": -96.7664
+},
+{
+	"City": "Nemaha",
+	"State": "NE",
+	"latitude": 40.3388,
+	"longitude": -95.676
+},
+{
+	"City": "Haigler",
+	"State": "NE",
+	"latitude": 40.0122,
+	"longitude": -101.9385
+},
+{
+	"City": "Shubert",
+	"State": "NE",
+	"latitude": 40.2359,
+	"longitude": -95.6837
+},
+{
+	"City": "Anselmo",
+	"State": "NE",
+	"latitude": 41.6186,
+	"longitude": -99.8645
+},
+{
+	"City": "Alvo",
+	"State": "NE",
+	"latitude": 40.8723,
+	"longitude": -96.3867
+},
+{
+	"City": "Du Bois",
+	"State": "NE",
+	"latitude": 40.0346,
+	"longitude": -96.0467
+},
+{
+	"City": "Thurston",
+	"State": "NE",
+	"latitude": 42.1769,
+	"longitude": -96.7002
+},
+{
+	"City": "Dawson",
+	"State": "NE",
+	"latitude": 40.1304,
+	"longitude": -95.8296
+},
+{
+	"City": "Upland",
+	"State": "NE",
+	"latitude": 40.3195,
+	"longitude": -98.9023
+},
+{
+	"City": "Cordova",
+	"State": "NE",
+	"latitude": 40.7164,
+	"longitude": -97.3516
+},
+{
+	"City": "Atlanta",
+	"State": "NE",
+	"latitude": 40.3684,
+	"longitude": -99.4732
+},
+{
+	"City": "Brunswick",
+	"State": "NE",
+	"latitude": 42.3377,
+	"longitude": -97.9718
+},
+{
+	"City": "Miller",
+	"State": "NE",
+	"latitude": 40.9276,
+	"longitude": -99.3901
+},
+{
+	"City": "Fordyce",
+	"State": "NE",
+	"latitude": 42.6983,
+	"longitude": -97.3628
+},
+{
+	"City": "Merriman",
+	"State": "NE",
+	"latitude": 42.923,
+	"longitude": -101.6997
+},
+{
+	"City": "Brownville",
+	"State": "NE",
+	"latitude": 40.3976,
+	"longitude": -95.661
+},
+{
+	"City": "Filley",
+	"State": "NE",
+	"latitude": 40.2849,
+	"longitude": -96.534
+},
+{
+	"City": "Endicott",
+	"State": "NE",
+	"latitude": 40.0814,
+	"longitude": -97.0954
+},
+{
+	"City": "Edison",
+	"State": "NE",
+	"latitude": 40.2776,
+	"longitude": -99.7763
+},
+{
+	"City": "Ayr",
+	"State": "NE",
+	"latitude": 40.4377,
+	"longitude": -98.4409
+},
+{
+	"City": "Inman",
+	"State": "NE",
+	"latitude": 42.3819,
+	"longitude": -98.5298
+},
+{
+	"City": "Octavia",
+	"State": "NE",
+	"latitude": 41.3475,
+	"longitude": -97.0591
+},
+{
+	"City": "Leshara",
+	"State": "NE",
+	"latitude": 41.3298,
+	"longitude": -96.4292
+},
+{
+	"City": "Arthur",
+	"State": "NE",
+	"latitude": 41.5718,
+	"longitude": -101.6923
+},
+{
+	"City": "Grafton",
+	"State": "NE",
+	"latitude": 40.6298,
+	"longitude": -97.7147
+},
+{
+	"City": "Broadwater",
+	"State": "NE",
+	"latitude": 41.598,
+	"longitude": -102.8525
+},
+{
+	"City": "Farwell",
+	"State": "NE",
+	"latitude": 41.2156,
+	"longitude": -98.628
+},
+{
+	"City": "Bushnell",
+	"State": "NE",
+	"latitude": 41.2327,
+	"longitude": -103.891
+},
+{
+	"City": "Belgrade",
+	"State": "NE",
+	"latitude": 41.471,
+	"longitude": -98.0678
+},
+{
+	"City": "Bartlett",
+	"State": "NE",
+	"latitude": 41.8839,
+	"longitude": -98.5527
+},
+{
+	"City": "Malmo",
+	"State": "NE",
+	"latitude": 41.2664,
+	"longitude": -96.7209
+},
+{
+	"City": "Ruskin",
+	"State": "NE",
+	"latitude": 40.144,
+	"longitude": -97.867
+},
+{
+	"City": "Jansen",
+	"State": "NE",
+	"latitude": 40.1839,
+	"longitude": -97.0848
+},
+{
+	"City": "Barneston",
+	"State": "NE",
+	"latitude": 40.0488,
+	"longitude": -96.5735
+},
+{
+	"City": "Memphis",
+	"State": "NE",
+	"latitude": 41.0946,
+	"longitude": -96.4333
+},
+{
+	"City": "Belden",
+	"State": "NE",
+	"latitude": 42.4116,
+	"longitude": -97.2077
+},
+{
+	"City": "Roscoe",
+	"State": "NE",
+	"latitude": 41.1317,
+	"longitude": -101.5853
+},
+{
+	"City": "Loretto",
+	"State": "NE",
+	"latitude": 41.7635,
+	"longitude": -98.0817
+},
+{
+	"City": "Melbeta",
+	"State": "NE",
+	"latitude": 41.7819,
+	"longitude": -103.5171
+},
+{
+	"City": "Ohiowa",
+	"State": "NE",
+	"latitude": 40.4136,
+	"longitude": -97.4524
+},
+{
+	"City": "Brock",
+	"State": "NE",
+	"latitude": 40.4804,
+	"longitude": -95.9601
+},
+{
+	"City": "Colon",
+	"State": "NE",
+	"latitude": 41.2982,
+	"longitude": -96.6069
+},
+{
+	"City": "Sarben",
+	"State": "NE",
+	"latitude": 41.1662,
+	"longitude": -101.3044
+},
+{
+	"City": "Tobias",
+	"State": "NE",
+	"latitude": 40.4185,
+	"longitude": -97.3367
+},
+{
+	"City": "Elsie",
+	"State": "NE",
+	"latitude": 40.8472,
+	"longitude": -101.3894
+},
+{
+	"City": "Belmar",
+	"State": "NE",
+	"latitude": 41.3055,
+	"longitude": -101.9346
+},
+{
+	"City": "Salem",
+	"State": "NE",
+	"latitude": 40.0769,
+	"longitude": -95.7285
+},
+{
+	"City": "South Bend",
+	"State": "NE",
+	"latitude": 41.0021,
+	"longitude": -96.2474
+},
+{
+	"City": "Wann",
+	"State": "NE",
+	"latitude": 41.1394,
+	"longitude": -96.3632
+},
+{
+	"City": "Lemoyne",
+	"State": "NE",
+	"latitude": 41.2765,
+	"longitude": -101.8134
+},
+{
+	"City": "Winslow",
+	"State": "NE",
+	"latitude": 41.6102,
+	"longitude": -96.5047
+},
+{
+	"City": "McGrew",
+	"State": "NE",
+	"latitude": 41.7477,
+	"longitude": -103.4176
+},
+{
+	"City": "Naponee",
+	"State": "NE",
+	"latitude": 40.0747,
+	"longitude": -99.1386
+},
+{
+	"City": "Rockville",
+	"State": "NE",
+	"latitude": 41.1183,
+	"longitude": -98.8312
+},
+{
+	"City": "Henry",
+	"State": "NE",
+	"latitude": 41.9979,
+	"longitude": -104.0461
+},
+{
+	"City": "Overland",
+	"State": "NE",
+	"latitude": 41.0808,
+	"longitude": -97.9784
+},
+{
+	"City": "Dunning",
+	"State": "NE",
+	"latitude": 41.827,
+	"longitude": -100.1044
+},
+{
+	"City": "Bloomington",
+	"State": "NE",
+	"latitude": 40.0938,
+	"longitude": -99.0384
+},
+{
+	"City": "Danbury",
+	"State": "NE",
+	"latitude": 40.0377,
+	"longitude": -100.4051
+},
+{
+	"City": "Elk Creek",
+	"State": "NE",
+	"latitude": 40.2883,
+	"longitude": -96.1269
+},
+{
+	"City": "Eddyville",
+	"State": "NE",
+	"latitude": 41.0124,
+	"longitude": -99.6241
+},
+{
+	"City": "Rogers",
+	"State": "NE",
+	"latitude": 41.4643,
+	"longitude": -96.9159
+},
+{
+	"City": "Tryon",
+	"State": "NE",
+	"latitude": 41.5584,
+	"longitude": -100.9536
+},
+{
+	"City": "Bruno",
+	"State": "NE",
+	"latitude": 41.2831,
+	"longitude": -96.961
+},
+{
+	"City": "St. Helena",
+	"State": "NE",
+	"latitude": 42.8106,
+	"longitude": -97.2489
+},
+{
+	"City": "Swanton",
+	"State": "NE",
+	"latitude": 40.3797,
+	"longitude": -97.0799
+},
+{
+	"City": "Ericson",
+	"State": "NE",
+	"latitude": 41.7803,
+	"longitude": -98.6785
+},
+{
+	"City": "Martinsburg",
+	"State": "NE",
+	"latitude": 42.5084,
+	"longitude": -96.8314
+},
+{
+	"City": "Comstock",
+	"State": "NE",
+	"latitude": 41.5572,
+	"longitude": -99.243
+},
+{
+	"City": "Harrisburg",
+	"State": "NE",
+	"latitude": 41.5505,
+	"longitude": -103.7266
+},
+{
+	"City": "Carleton",
+	"State": "NE",
+	"latitude": 40.3033,
+	"longitude": -97.6816
+},
+{
+	"City": "Center",
+	"State": "NE",
+	"latitude": 42.609,
+	"longitude": -97.8761
+},
+{
+	"City": "Newport",
+	"State": "NE",
+	"latitude": 42.6002,
+	"longitude": -99.3283
+},
+{
+	"City": "Wilsonville",
+	"State": "NE",
+	"latitude": 40.112,
+	"longitude": -100.1068
+},
+{
+	"City": "Max",
+	"State": "NE",
+	"latitude": 40.1144,
+	"longitude": -101.4044
+},
+{
+	"City": "Riverton",
+	"State": "NE",
+	"latitude": 40.0897,
+	"longitude": -98.7597
+},
+{
+	"City": "Linwood",
+	"State": "NE",
+	"latitude": 41.4122,
+	"longitude": -96.9323
+},
+{
+	"City": "Halsey",
+	"State": "NE",
+	"latitude": 41.9033,
+	"longitude": -100.2699
+},
+{
+	"City": "Odessa",
+	"State": "NE",
+	"latitude": 40.6991,
+	"longitude": -99.2544
+},
+{
+	"City": "Dixon",
+	"State": "NE",
+	"latitude": 42.4153,
+	"longitude": -96.9948
+},
+{
+	"City": "Berwyn",
+	"State": "NE",
+	"latitude": 41.3508,
+	"longitude": -99.5006
+},
+{
+	"City": "Byron",
+	"State": "NE",
+	"latitude": 40.0048,
+	"longitude": -97.7686
+},
+{
+	"City": "Kilgore",
+	"State": "NE",
+	"latitude": 42.9392,
+	"longitude": -100.9571
+},
+{
+	"City": "King Lake",
+	"State": "NE",
+	"latitude": 41.3135,
+	"longitude": -96.3017
+},
+{
+	"City": "Wellfleet",
+	"State": "NE",
+	"latitude": 40.7539,
+	"longitude": -100.7318
+},
+{
+	"City": "Lebanon",
+	"State": "NE",
+	"latitude": 40.0487,
+	"longitude": -100.2761
+},
+{
+	"City": "Bow Valley",
+	"State": "NE",
+	"latitude": 42.7154,
+	"longitude": -97.2522
+},
+{
+	"City": "Naper",
+	"State": "NE",
+	"latitude": 42.9641,
+	"longitude": -99.097
+},
+{
+	"City": "Burchard",
+	"State": "NE",
+	"latitude": 40.1492,
+	"longitude": -96.3488
+},
+{
+	"City": "Liberty",
+	"State": "NE",
+	"latitude": 40.0854,
+	"longitude": -96.4829
+},
+{
+	"City": "Richland",
+	"State": "NE",
+	"latitude": 41.4367,
+	"longitude": -97.2154
+},
+{
+	"City": "Prosser",
+	"State": "NE",
+	"latitude": 40.6875,
+	"longitude": -98.5777
+},
+{
+	"City": "Whitney",
+	"State": "NE",
+	"latitude": 42.7837,
+	"longitude": -103.2569
+},
+{
+	"City": "Maskell",
+	"State": "NE",
+	"latitude": 42.6901,
+	"longitude": -96.9807
+},
+{
+	"City": "Steinauer",
+	"State": "NE",
+	"latitude": 40.2073,
+	"longitude": -96.2329
+},
+{
+	"City": "Crookston",
+	"State": "NE",
+	"latitude": 42.9263,
+	"longitude": -100.7534
+},
+{
+	"City": "Heartwell",
+	"State": "NE",
+	"latitude": 40.5699,
+	"longitude": -98.7891
+},
+{
+	"City": "Waterbury",
+	"State": "NE",
+	"latitude": 42.4571,
+	"longitude": -96.7353
+},
+{
+	"City": "Reynolds",
+	"State": "NE",
+	"latitude": 40.0598,
+	"longitude": -97.3359
+},
+{
+	"City": "Hazard",
+	"State": "NE",
+	"latitude": 41.0914,
+	"longitude": -99.0772
+},
+{
+	"City": "Winnetoon",
+	"State": "NE",
+	"latitude": 42.5135,
+	"longitude": -97.9601
+},
+{
+	"City": "Deweese",
+	"State": "NE",
+	"latitude": 40.3548,
+	"longitude": -98.1392
+},
+{
+	"City": "Abie",
+	"State": "NE",
+	"latitude": 41.3339,
+	"longitude": -96.9495
+},
+{
+	"City": "Hubbell",
+	"State": "NE",
+	"latitude": 40.0088,
+	"longitude": -97.4966
+},
+{
+	"City": "Inavale",
+	"State": "NE",
+	"latitude": 40.0923,
+	"longitude": -98.6484
+},
+{
+	"City": "Sunol",
+	"State": "NE",
+	"latitude": 41.1539,
+	"longitude": -102.763
+},
+{
+	"City": "Wood Lake",
+	"State": "NE",
+	"latitude": 42.6386,
+	"longitude": -100.2376
+},
+{
+	"City": "Lewiston",
+	"State": "NE",
+	"latitude": 40.2428,
+	"longitude": -96.4073
+},
+{
+	"City": "Keystone",
+	"State": "NE",
+	"latitude": 41.2187,
+	"longitude": -101.5841
+},
+{
+	"City": "Johnstown",
+	"State": "NE",
+	"latitude": 42.5721,
+	"longitude": -100.0563
+},
+{
+	"City": "Oak",
+	"State": "NE",
+	"latitude": 40.2384,
+	"longitude": -97.9037
+},
+{
+	"City": "Ong",
+	"State": "NE",
+	"latitude": 40.3983,
+	"longitude": -97.8392
+},
+{
+	"City": "Burr",
+	"State": "NE",
+	"latitude": 40.536,
+	"longitude": -96.2997
+},
+{
+	"City": "Bristow",
+	"State": "NE",
+	"latitude": 42.8409,
+	"longitude": -98.5837
+},
+{
+	"City": "Steele City",
+	"State": "NE",
+	"latitude": 40.0368,
+	"longitude": -97.0229
+},
+{
+	"City": "Thayer",
+	"State": "NE",
+	"latitude": 40.9703,
+	"longitude": -97.4967
+},
+{
+	"City": "Royal",
+	"State": "NE",
+	"latitude": 42.3331,
+	"longitude": -98.125
+},
+{
+	"City": "Primrose",
+	"State": "NE",
+	"latitude": 41.6238,
+	"longitude": -98.2375
+},
+{
+	"City": "Virginia",
+	"State": "NE",
+	"latitude": 40.2459,
+	"longitude": -96.4988
+},
+{
+	"City": "Hamlet",
+	"State": "NE",
+	"latitude": 40.3845,
+	"longitude": -101.2346
+},
+{
+	"City": "Julian",
+	"State": "NE",
+	"latitude": 40.5198,
+	"longitude": -95.8674
+},
+{
+	"City": "Magnet",
+	"State": "NE",
+	"latitude": 42.4561,
+	"longitude": -97.4693
+},
+{
+	"City": "Smithfield",
+	"State": "NE",
+	"latitude": 40.5733,
+	"longitude": -99.7409
+},
+{
+	"City": "Garrison",
+	"State": "NE",
+	"latitude": 41.1754,
+	"longitude": -97.1633
+},
+{
+	"City": "Martin",
+	"State": "NE",
+	"latitude": 41.2581,
+	"longitude": -101.7091
+},
+{
+	"City": "Archer",
+	"State": "NE",
+	"latitude": 41.1667,
+	"longitude": -98.1389
+},
+{
+	"City": "Elyria",
+	"State": "NE",
+	"latitude": 41.6802,
+	"longitude": -99.0053
+},
+{
+	"City": "Foster",
+	"State": "NE",
+	"latitude": 42.2747,
+	"longitude": -97.6651
+},
+{
+	"City": "Venice",
+	"State": "NE",
+	"latitude": 41.239,
+	"longitude": -96.3526
+},
+{
+	"City": "Poole",
+	"State": "NE",
+	"latitude": 40.9871,
+	"longitude": -98.9655
+},
+{
+	"City": "Cotesfield",
+	"State": "NE",
+	"latitude": 41.3575,
+	"longitude": -98.6335
+},
+{
+	"City": "Belvidere",
+	"State": "NE",
+	"latitude": 40.2546,
+	"longitude": -97.5577
+},
+{
+	"City": "Tarnov",
+	"State": "NE",
+	"latitude": 41.6148,
+	"longitude": -97.5025
+},
+{
+	"City": "Harbine",
+	"State": "NE",
+	"latitude": 40.1916,
+	"longitude": -96.9742
+},
+{
+	"City": "Emmet",
+	"State": "NE",
+	"latitude": 42.4757,
+	"longitude": -98.8093
+},
+{
+	"City": "Saronville",
+	"State": "NE",
+	"latitude": 40.6029,
+	"longitude": -97.9386
+},
+{
+	"City": "Stockham",
+	"State": "NE",
+	"latitude": 40.7163,
+	"longitude": -97.9433
+},
+{
+	"City": "Norman",
+	"State": "NE",
+	"latitude": 40.4791,
+	"longitude": -98.7922
+},
+{
+	"City": "Lorton",
+	"State": "NE",
+	"latitude": 40.5972,
+	"longitude": -96.0243
+},
+{
+	"City": "Huntley",
+	"State": "NE",
+	"latitude": 40.2105,
+	"longitude": -99.2904
+},
+{
+	"City": "Champion",
+	"State": "NE",
+	"latitude": 40.4706,
+	"longitude": -101.7469
+},
+{
+	"City": "Surprise",
+	"State": "NE",
+	"latitude": 41.1047,
+	"longitude": -97.3086
+},
+{
+	"City": "Clinton",
+	"State": "NE",
+	"latitude": 42.7597,
+	"longitude": -102.3479
+},
+{
+	"City": "Gilead",
+	"State": "NE",
+	"latitude": 40.1461,
+	"longitude": -97.4151
+},
+{
+	"City": "Ragan",
+	"State": "NE",
+	"latitude": 40.3108,
+	"longitude": -99.2896
+},
+{
+	"City": "Crab Orchard",
+	"State": "NE",
+	"latitude": 40.3347,
+	"longitude": -96.4224
+},
+{
+	"City": "McLean",
+	"State": "NE",
+	"latitude": 42.3862,
+	"longitude": -97.4682
+},
+{
+	"City": "Cornlea",
+	"State": "NE",
+	"latitude": 41.68,
+	"longitude": -97.5669
+},
+{
+	"City": "Seneca",
+	"State": "NE",
+	"latitude": 42.044,
+	"longitude": -100.832
+},
+{
+	"City": "Cushing",
+	"State": "NE",
+	"latitude": 41.2948,
+	"longitude": -98.3691
+},
+{
+	"City": "Gandy",
+	"State": "NE",
+	"latitude": 41.4698,
+	"longitude": -100.4583
+},
+{
+	"City": "Moorefield",
+	"State": "NE",
+	"latitude": 40.6899,
+	"longitude": -100.4004
+},
+{
+	"City": "Lisco",
+	"State": "NE",
+	"latitude": 41.4987,
+	"longitude": -102.6237
+},
+{
+	"City": "Verdel",
+	"State": "NE",
+	"latitude": 42.8114,
+	"longitude": -98.1933
+},
+{
+	"City": "Bazile Mills",
+	"State": "NE",
+	"latitude": 42.5124,
+	"longitude": -97.9083
+},
+{
+	"City": "Lushton",
+	"State": "NE",
+	"latitude": 40.724,
+	"longitude": -97.7237
+},
+{
+	"City": "Fontanelle",
+	"State": "NE",
+	"latitude": 41.5383,
+	"longitude": -96.4271
+},
+{
+	"City": "Aten",
+	"State": "NE",
+	"latitude": 42.8369,
+	"longitude": -97.4408
+},
+{
+	"City": "Strang",
+	"State": "NE",
+	"latitude": 40.4149,
+	"longitude": -97.5872
+},
+{
+	"City": "Cowles",
+	"State": "NE",
+	"latitude": 40.1714,
+	"longitude": -98.4491
+},
+{
+	"City": "Preston",
+	"State": "NE",
+	"latitude": 40.0346,
+	"longitude": -95.5182
+},
+{
+	"City": "Stockville",
+	"State": "NE",
+	"latitude": 40.5336,
+	"longitude": -100.3845
+},
+{
+	"City": "Hendley",
+	"State": "NE",
+	"latitude": 40.1312,
+	"longitude": -99.9713
+},
+{
+	"City": "Lorenzo",
+	"State": "NE",
+	"latitude": 41.0576,
+	"longitude": -103.0821
+},
+{
+	"City": "Barada",
+	"State": "NE",
+	"latitude": 40.2185,
+	"longitude": -95.5777
+},
+{
+	"City": "Obert",
+	"State": "NE",
+	"latitude": 42.6895,
+	"longitude": -97.0272
+},
+{
+	"City": "Lamar",
+	"State": "NE",
+	"latitude": 40.5725,
+	"longitude": -101.9794
+},
+{
+	"City": "Berea",
+	"State": "NE",
+	"latitude": 42.2123,
+	"longitude": -102.983
+},
+{
+	"City": "Richfield",
+	"State": "NE",
+	"latitude": 41.1108,
+	"longitude": -96.0763
+},
+{
+	"City": "Nora",
+	"State": "NE",
+	"latitude": 40.1642,
+	"longitude": -97.9738
+},
+{
+	"City": "Sholes",
+	"State": "NE",
+	"latitude": 42.3348,
+	"longitude": -97.2946
+},
+{
+	"City": "Lindy",
+	"State": "NE",
+	"latitude": 42.7351,
+	"longitude": -97.7499
+},
+{
+	"City": "Nenzel",
+	"State": "NE",
+	"latitude": 42.9274,
+	"longitude": -101.1018
+},
+{
+	"City": "Holmesville",
+	"State": "NE",
+	"latitude": 40.201,
+	"longitude": -96.6584
+},
+{
+	"City": "Brewster",
+	"State": "NE",
+	"latitude": 41.9384,
+	"longitude": -99.8651
+},
+{
+	"City": "Parks",
+	"State": "NE",
+	"latitude": 40.0437,
+	"longitude": -101.7251
+},
+{
+	"City": "Burton",
+	"State": "NE",
+	"latitude": 42.9119,
+	"longitude": -99.5918
+},
+{
+	"City": "Willow Island",
+	"State": "NE",
+	"latitude": 40.89,
+	"longitude": -100.0707
+},
+{
+	"City": "Tamora",
+	"State": "NE",
+	"latitude": 40.8945,
+	"longitude": -97.2252
+},
+{
+	"City": "Enders",
+	"State": "NE",
+	"latitude": 40.455,
+	"longitude": -101.5356
+},
+{
+	"City": "Inland",
+	"State": "NE",
+	"latitude": 40.5953,
+	"longitude": -98.2231
+},
+{
+	"City": "Brownlee",
+	"State": "NE",
+	"latitude": 42.2893,
+	"longitude": -100.6241
+},
+{
+	"City": "Anoka",
+	"State": "NE",
+	"latitude": 42.946,
+	"longitude": -98.8285
+},
+{
+	"City": "Gross",
+	"State": "NE",
+	"latitude": 42.9461,
+	"longitude": -98.5697
+},
+{
+	"City": "Monowi",
+	"State": "NE",
+	"latitude": 42.8307,
+	"longitude": -98.3296
+}]

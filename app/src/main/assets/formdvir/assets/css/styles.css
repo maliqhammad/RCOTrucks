@@ -1,0 +1,344 @@
+body {
+	background: #cccccc;
+	margin: 8px !important;
+	color: black !important;
+	-webkit-owerflow-scrolling: touch;
+}
+
+page[size="Letter"] {
+	background: white;
+	width: 8.5in;
+	height: 11.3in;
+	display: block;
+	margin: 0 auto;
+	margin-bottom: 0.5cm;
+	padding: 30px;
+	box-shadow: 0 0 0.5cm rgba(0, 0, 0, 0.5);
+	font-size: 12px;
+	-webkit-owerflow-scrolling: touch;
+}
+
+#save {
+	width: inherit;
+    margin-left: 20px;
+    display: none;
+}
+
+.content {
+	border: 1px solid black;
+}
+
+.content-item {
+	padding: 10px;
+}
+
+#data-tbl {
+	background: white;
+    padding: 10px;
+}
+
+.doc-name {
+	font-weight: bold;
+    font-size: 70px;
+    padding-left: 20px;
+}
+
+.doc-text-1 {
+	font-weight: bold;
+    font-size: 20px;
+    margin-top: 45px
+}
+
+.doc-text-2 {
+	font-weight: bold;
+    font-size: 13px;
+    margin-top: 10px
+}
+
+.doc-text-3 {
+	border: 1px solid black;
+    margin: 10px auto;
+    line-height: 13px;
+    padding: 5px;
+    font-size: 9px;
+}
+
+.doc-text-4 {
+	text-align: center;
+    font-weight: bold;
+}
+
+table {
+	margin-bottom: 0 !important;
+}
+
+.top-tbl td, .bottom-tbl td {
+	border-color: black !important;
+	padding: 3px 8px !important;
+}
+
+.top-tbl tr td:first-of-type, .bottom-tbl tr td:first-of-type {
+	border-left: 0 !important
+}
+
+.top-tbl tr td:last-of-type, .bottom-tbl tr td:last-of-type {
+	border-right: 0 !important
+}
+
+.top-tbl {
+	border: 0;
+	border-top: 1px solid black;
+}
+
+.top-tbl tr:last-of-type td {
+	border-bottom: 0 !important;
+}
+
+.bottom-tbl-block {
+	overflow: hidden;
+    overflow-y: auto;
+    max-height: 315px;
+	min-height: 150px;
+}
+
+.bottom-tbl {
+	border: 0;
+	border-top: 1px solid black;
+}
+
+.bottom-tbl td {
+	border-top: 0 !important;
+	border-bottom: 1px solid black !important;
+}
+
+.signature {
+	height: 100px;
+}
+
+.event-x {
+	width: 30px;
+	cursor: pointer;
+	opacity: .8;
+}
+
+.event-x:hover {
+	opacity: 1;
+}
+
+#back {
+	display: none;
+}
+
+.view-link {
+	text-decoration: none !important;
+    color: #0D9A0D !important;
+    font-size: 15px;
+}
+
+.doc-text-5 {
+	font-size: 9px;
+	font-weight: bold;
+}
+
+.doc-text-6 {
+	font-size: 8px;
+	line-height: 12px;
+    font-weight: bold;
+}
+
+.doc-text-7 {
+	text-align: center;
+    margin-top: 5px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.input-text {
+	float: right;
+    border: 0;
+    border-bottom: 1px solid black;
+    outline: none;
+	padding: 0 5px;
+}
+
+.input-text-2 {
+	border: 0;
+    border-bottom: 1px solid black;
+    outline: none;
+	padding: 0 5px;
+}
+
+.w-40 {
+	width: 40px;
+}
+
+.w-95 {
+	width: 95px;
+}
+
+.w-96 {
+	width: 96px;
+}
+
+.w-100 {
+	width: 100px;
+}
+
+.w-110 {
+	width: 110px;
+}
+
+.w-185 {
+	width: 185px;
+}
+
+.w-195 {
+	width: 195px;
+}
+
+.w-225 {
+	width: 225px;
+}
+
+.w-250 {
+	width: 250px;
+}
+
+.w-300 {
+	width: 300px;
+}
+
+.b-t-0 {
+	border-top: 0;
+}
+
+.b-0 {
+	border: 0 !important;
+}
+
+.m-0 {
+	margin: 0 !important;
+}
+
+.m-l-5 {
+	margin-left: 5px;
+}
+
+.m-l-10 {
+	margin-left: 10px !important;
+}
+
+.m-l-15 {
+	margin-left: 15px !important;
+}
+
+.m-l-20 {
+	margin-left: 20px !important;
+}
+
+.m-l-30 {
+	margin-left: 30px !important;
+}
+
+.m-l-40 {
+	margin-left: 40px !important;
+}
+
+.m-l-50 {
+	margin-left: 50px;
+}
+
+.m-l-70 {
+	margin-left: 70px;
+}
+
+.m-l-80 {
+	margin-left: 80px;
+}
+
+.m-l-165 {
+	margin-left: 165px;
+}
+
+.m-t-5 {
+	margin-top: 5px;
+}
+
+.m-t-10 {
+	margin-top: 10px;
+}
+
+.m-t-20 {
+	margin-top: 20px;
+}
+
+.m-t-60 {
+	margin-top: 60px;
+}
+
+.m-t-70 {
+	margin-top: 70px;
+}
+
+.m-r-40 {
+	margin-right: 40px;
+}
+
+.m-b-0 {
+	margin-bottom: 0 !important;
+}
+
+.m-b-10 {
+	margin-bottom: 10px;
+}
+
+.m-b-20 {
+	margin-bottom: 20px;
+}
+
+.p-t-5 {
+	padding-top: 5px;
+}
+
+.p-t-10 {
+	padding-top: 10px;
+}
+
+.p-t-20 {
+	padding-top: 20px;
+}
+
+.w-180 {
+	width: 180px;
+}
+
+.w-100-p {
+	width: 100%;
+}
+
+.f-s-15 {
+	font-size: 15px;
+}	
+
+.f-s-14 {
+	font-size: 14px;
+}	
+
+.f-s-13 {
+	font-size: 13px;
+}
+
+.f-s-10 {
+	font-size: 10px;
+}
+
+.f-s-9 {
+	font-size: 9px;
+}
+
+@media print {
+	body, page[size="Letter"] {
+		margin: 0;
+		box-shadow: 0;
+	}
+}

@@ -1,0 +1,289 @@
+[
+{
+	"City": "Burlington",
+	"State": "VT",
+	"latitude": 44.4877,
+	"longitude": -73.2314
+},
+{
+	"City": "Barre",
+	"State": "VT",
+	"latitude": 44.1997,
+	"longitude": -72.5083
+},
+{
+	"City": "South Burlington",
+	"State": "VT",
+	"latitude": 44.4622,
+	"longitude": -73.2203
+},
+{
+	"City": "Rutland",
+	"State": "VT",
+	"latitude": 43.6091,
+	"longitude": -72.9782
+},
+{
+	"City": "Essex Junction",
+	"State": "VT",
+	"latitude": 44.4902,
+	"longitude": -73.114
+},
+{
+	"City": "St. Albans",
+	"State": "VT",
+	"latitude": 44.8118,
+	"longitude": -73.0846
+},
+{
+	"City": "Montpelier",
+	"State": "VT",
+	"latitude": 44.2658,
+	"longitude": -72.5717
+},
+{
+	"City": "Winooski",
+	"State": "VT",
+	"latitude": 44.4951,
+	"longitude": -73.1843
+},
+{
+	"City": "Bellows Falls",
+	"State": "VT",
+	"latitude": 43.1344,
+	"longitude": -72.455
+},
+{
+	"City": "Newport",
+	"State": "VT",
+	"latitude": 44.9375,
+	"longitude": -72.2088
+},
+{
+	"City": "Lyndonville",
+	"State": "VT",
+	"latitude": 44.5352,
+	"longitude": -72.0016
+},
+{
+	"City": "West Brattleboro",
+	"State": "VT",
+	"latitude": 42.8558,
+	"longitude": -72.6017
+},
+{
+	"City": "Vergennes",
+	"State": "VT",
+	"latitude": 44.1664,
+	"longitude": -73.2555
+},
+{
+	"City": "White River Junction",
+	"State": "VT",
+	"latitude": 43.6496,
+	"longitude": -72.3239
+},
+{
+	"City": "Morrisville",
+	"State": "VT",
+	"latitude": 44.5583,
+	"longitude": -72.5933
+},
+{
+	"City": "Manchester Center",
+	"State": "VT",
+	"latitude": 43.1822,
+	"longitude": -73.0362
+},
+{
+	"City": "North Bennington",
+	"State": "VT",
+	"latitude": 42.924,
+	"longitude": -73.2411
+},
+{
+	"City": "Wilder",
+	"State": "VT",
+	"latitude": 43.673,
+	"longitude": -72.3109
+},
+{
+	"City": "Enosburg Falls",
+	"State": "VT",
+	"latitude": 44.9083,
+	"longitude": -72.8029
+},
+{
+	"City": "South Barre",
+	"State": "VT",
+	"latitude": 44.1646,
+	"longitude": -72.5038
+},
+{
+	"City": "Graniteville",
+	"State": "VT",
+	"latitude": 44.1463,
+	"longitude": -72.4817
+},
+{
+	"City": "Island Pond",
+	"State": "VT",
+	"latitude": 44.8125,
+	"longitude": -71.8862
+},
+{
+	"City": "Jeffersonville",
+	"State": "VT",
+	"latitude": 44.6427,
+	"longitude": -72.8282
+},
+{
+	"City": "Orleans",
+	"State": "VT",
+	"latitude": 44.8092,
+	"longitude": -72.2013
+},
+{
+	"City": "East Barre",
+	"State": "VT",
+	"latitude": 44.1498,
+	"longitude": -72.4498
+},
+{
+	"City": "South Royalton",
+	"State": "VT",
+	"latitude": 43.8123,
+	"longitude": -72.5156
+},
+{
+	"City": "North Springfield",
+	"State": "VT",
+	"latitude": 43.33,
+	"longitude": -72.5263
+},
+{
+	"City": "Derby Line",
+	"State": "VT",
+	"latitude": 45.0008,
+	"longitude": -72.1034
+},
+{
+	"City": "North Troy",
+	"State": "VT",
+	"latitude": 44.9963,
+	"longitude": -72.4038
+},
+{
+	"City": "Derby Center",
+	"State": "VT",
+	"latitude": 44.955,
+	"longitude": -72.1361
+},
+{
+	"City": "Saxtons River",
+	"State": "VT",
+	"latitude": 43.1391,
+	"longitude": -72.5101
+},
+{
+	"City": "East Middlebury",
+	"State": "VT",
+	"latitude": 43.9747,
+	"longitude": -73.1056
+},
+{
+	"City": "Websterville",
+	"State": "VT",
+	"latitude": 44.1617,
+	"longitude": -72.4722
+},
+{
+	"City": "Ascutney",
+	"State": "VT",
+	"latitude": 43.408,
+	"longitude": -72.407
+},
+{
+	"City": "South Shaftsbury",
+	"State": "VT",
+	"latitude": 42.9411,
+	"longitude": -73.202
+},
+{
+	"City": "Wells River",
+	"State": "VT",
+	"latitude": 44.1538,
+	"longitude": -72.0616
+},
+{
+	"City": "West Burke",
+	"State": "VT",
+	"latitude": 44.6431,
+	"longitude": -71.9792
+},
+{
+	"City": "Proctorsville",
+	"State": "VT",
+	"latitude": 43.3824,
+	"longitude": -72.6415
+},
+{
+	"City": "Quechee",
+	"State": "VT",
+	"latitude": 43.6444,
+	"longitude": -72.4185
+},
+{
+	"City": "Newport Center",
+	"State": "VT",
+	"latitude": 44.9509,
+	"longitude": -72.3043
+},
+{
+	"City": "Greensboro Bend",
+	"State": "VT",
+	"latitude": 44.5583,
+	"longitude": -72.2642
+},
+{
+	"City": "North Hartland",
+	"State": "VT",
+	"latitude": 43.5936,
+	"longitude": -72.3578
+},
+{
+	"City": "Jacksonville",
+	"State": "VT",
+	"latitude": 42.7976,
+	"longitude": -72.8192
+},
+{
+	"City": "Beecher Falls",
+	"State": "VT",
+	"latitude": 45.009,
+	"longitude": -71.4935
+},
+{
+	"City": "North Westminster",
+	"State": "VT",
+	"latitude": 43.1219,
+	"longitude": -72.4555
+},
+{
+	"City": "Old Bennington",
+	"State": "VT",
+	"latitude": 42.8848,
+	"longitude": -73.2143
+},
+{
+	"City": "Perkinsville",
+	"State": "VT",
+	"latitude": 43.371,
+	"longitude": -72.5157
+},
+{
+	"City": "East Burke",
+	"State": "VT",
+	"latitude": 44.5875,
+	"longitude": -71.9403
+}]

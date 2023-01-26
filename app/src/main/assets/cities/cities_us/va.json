@@ -1,0 +1,3517 @@
+[
+{
+	"City": "Virginia Beach",
+	"State": "VA",
+	"latitude": 36.7335,
+	"longitude": -76.0435
+},
+{
+	"City": "Richmond",
+	"State": "VA",
+	"latitude": 37.5295,
+	"longitude": -77.4756
+},
+{
+	"City": "Chesapeake",
+	"State": "VA",
+	"latitude": 36.6778,
+	"longitude": -76.3024
+},
+{
+	"City": "Norfolk",
+	"State": "VA",
+	"latitude": 36.8945,
+	"longitude": -76.259
+},
+{
+	"City": "Arlington",
+	"State": "VA",
+	"latitude": 38.8786,
+	"longitude": -77.1011
+},
+{
+	"City": "Roanoke",
+	"State": "VA",
+	"latitude": 37.2785,
+	"longitude": -79.958
+},
+{
+	"City": "Newport News",
+	"State": "VA",
+	"latitude": 37.1051,
+	"longitude": -76.5185
+},
+{
+	"City": "Fredericksburg",
+	"State": "VA",
+	"latitude": 38.2992,
+	"longitude": -77.4872
+},
+{
+	"City": "Alexandria",
+	"State": "VA",
+	"latitude": 38.8185,
+	"longitude": -77.0861
+},
+{
+	"City": "Hampton",
+	"State": "VA",
+	"latitude": 37.0551,
+	"longitude": -76.363
+},
+{
+	"City": "Lynchburg",
+	"State": "VA",
+	"latitude": 37.4003,
+	"longitude": -79.1909
+},
+{
+	"City": "Charlottesville",
+	"State": "VA",
+	"latitude": 38.0375,
+	"longitude": -78.4855
+},
+{
+	"City": "Portsmouth",
+	"State": "VA",
+	"latitude": 36.8468,
+	"longitude": -76.354
+},
+{
+	"City": "Suffolk",
+	"State": "VA",
+	"latitude": 36.6953,
+	"longitude": -76.6398
+},
+{
+	"City": "Blacksburg",
+	"State": "VA",
+	"latitude": 37.23,
+	"longitude": -80.4279
+},
+{
+	"City": "Williamsburg",
+	"State": "VA",
+	"latitude": 37.2692,
+	"longitude": -76.7076
+},
+{
+	"City": "Winchester",
+	"State": "VA",
+	"latitude": 39.1735,
+	"longitude": -78.1746
+},
+{
+	"City": "Centreville",
+	"State": "VA",
+	"latitude": 38.8391,
+	"longitude": -77.4388
+},
+{
+	"City": "Dale City",
+	"State": "VA",
+	"latitude": 38.6473,
+	"longitude": -77.3459
+},
+{
+	"City": "Harrisonburg",
+	"State": "VA",
+	"latitude": 38.4361,
+	"longitude": -78.8735
+},
+{
+	"City": "Reston",
+	"State": "VA",
+	"latitude": 38.9497,
+	"longitude": -77.3461
+},
+{
+	"City": "Staunton",
+	"State": "VA",
+	"latitude": 38.1593,
+	"longitude": -79.0611
+},
+{
+	"City": "Leesburg",
+	"State": "VA",
+	"latitude": 39.1058,
+	"longitude": -77.5544
+},
+{
+	"City": "Ashburn",
+	"State": "VA",
+	"latitude": 39.03,
+	"longitude": -77.4711
+},
+{
+	"City": "Tuckahoe",
+	"State": "VA",
+	"latitude": 37.5878,
+	"longitude": -77.5858
+},
+{
+	"City": "McLean",
+	"State": "VA",
+	"latitude": 38.9436,
+	"longitude": -77.1943
+},
+{
+	"City": "Danville",
+	"State": "VA",
+	"latitude": 36.5831,
+	"longitude": -79.4087
+},
+{
+	"City": "Lake Ridge",
+	"State": "VA",
+	"latitude": 38.6843,
+	"longitude": -77.3059
+},
+{
+	"City": "Annandale",
+	"State": "VA",
+	"latitude": 38.8324,
+	"longitude": -77.196
+},
+{
+	"City": "Burke",
+	"State": "VA",
+	"latitude": 38.7773,
+	"longitude": -77.2633
+},
+{
+	"City": "Linton Hall",
+	"State": "VA",
+	"latitude": 38.7551,
+	"longitude": -77.575
+},
+{
+	"City": "Manassas",
+	"State": "VA",
+	"latitude": 38.7479,
+	"longitude": -77.4839
+},
+{
+	"City": "Mechanicsville",
+	"State": "VA",
+	"latitude": 37.6262,
+	"longitude": -77.3561
+},
+{
+	"City": "Oakton",
+	"State": "VA",
+	"latitude": 38.8887,
+	"longitude": -77.3016
+},
+{
+	"City": "Fair Oaks",
+	"State": "VA",
+	"latitude": 38.8653,
+	"longitude": -77.3586
+},
+{
+	"City": "Springfield",
+	"State": "VA",
+	"latitude": 38.7809,
+	"longitude": -77.1839
+},
+{
+	"City": "Martinsville",
+	"State": "VA",
+	"latitude": 36.6827,
+	"longitude": -79.8636
+},
+{
+	"City": "South Riding",
+	"State": "VA",
+	"latitude": 38.912,
+	"longitude": -77.5132
+},
+{
+	"City": "Petersburg",
+	"State": "VA",
+	"latitude": 37.2043,
+	"longitude": -77.3913
+},
+{
+	"City": "Sterling",
+	"State": "VA",
+	"latitude": 39.0052,
+	"longitude": -77.405
+},
+{
+	"City": "West Falls Church",
+	"State": "VA",
+	"latitude": 38.8648,
+	"longitude": -77.1878
+},
+{
+	"City": "Short Pump",
+	"State": "VA",
+	"latitude": 37.6549,
+	"longitude": -77.6201
+},
+{
+	"City": "Cave Spring",
+	"State": "VA",
+	"latitude": 37.2254,
+	"longitude": -80.0073
+},
+{
+	"City": "Salem",
+	"State": "VA",
+	"latitude": 37.2864,
+	"longitude": -80.0555
+},
+{
+	"City": "Herndon",
+	"State": "VA",
+	"latitude": 38.9699,
+	"longitude": -77.3867
+},
+{
+	"City": "Chantilly",
+	"State": "VA",
+	"latitude": 38.8868,
+	"longitude": -77.4453
+},
+{
+	"City": "Woodlawn",
+	"State": "VA",
+	"latitude": 38.7332,
+	"longitude": -77.1149
+},
+{
+	"City": "Tysons",
+	"State": "VA",
+	"latitude": 38.9215,
+	"longitude": -77.2273
+},
+{
+	"City": "West Springfield",
+	"State": "VA",
+	"latitude": 38.7771,
+	"longitude": -77.2268
+},
+{
+	"City": "Bailey's Crossroads",
+	"State": "VA",
+	"latitude": 38.8477,
+	"longitude": -77.1305
+},
+{
+	"City": "Fairfax",
+	"State": "VA",
+	"latitude": 38.8531,
+	"longitude": -77.2998
+},
+{
+	"City": "Lincolnia",
+	"State": "VA",
+	"latitude": 38.8158,
+	"longitude": -77.1543
+},
+{
+	"City": "Waynesboro",
+	"State": "VA",
+	"latitude": 38.0674,
+	"longitude": -78.9014
+},
+{
+	"City": "Hopewell",
+	"State": "VA",
+	"latitude": 37.2915,
+	"longitude": -77.2985
+},
+{
+	"City": "Christiansburg",
+	"State": "VA",
+	"latitude": 37.1411,
+	"longitude": -80.4028
+},
+{
+	"City": "Rose Hill",
+	"State": "VA",
+	"latitude": 38.7872,
+	"longitude": -77.1085
+},
+{
+	"City": "Chester",
+	"State": "VA",
+	"latitude": 37.3531,
+	"longitude": -77.4342
+},
+{
+	"City": "McNair",
+	"State": "VA",
+	"latitude": 38.9513,
+	"longitude": -77.4116
+},
+{
+	"City": "Brambleton",
+	"State": "VA",
+	"latitude": 38.9802,
+	"longitude": -77.5323
+},
+{
+	"City": "Montclair",
+	"State": "VA",
+	"latitude": 38.6111,
+	"longitude": -77.34
+},
+{
+	"City": "Lorton",
+	"State": "VA",
+	"latitude": 38.6984,
+	"longitude": -77.2163
+},
+{
+	"City": "Culpeper",
+	"State": "VA",
+	"latitude": 38.4705,
+	"longitude": -78.0001
+},
+{
+	"City": "Neabsco",
+	"State": "VA",
+	"latitude": 38.6083,
+	"longitude": -77.2847
+},
+{
+	"City": "Cherry Hill",
+	"State": "VA",
+	"latitude": 38.5696,
+	"longitude": -77.2895
+},
+{
+	"City": "Meadowbrook",
+	"State": "VA",
+	"latitude": 37.4301,
+	"longitude": -77.474
+},
+{
+	"City": "Franconia",
+	"State": "VA",
+	"latitude": 38.7682,
+	"longitude": -77.1587
+},
+{
+	"City": "Front Royal",
+	"State": "VA",
+	"latitude": 38.926,
+	"longitude": -78.1838
+},
+{
+	"City": "Sudley",
+	"State": "VA",
+	"latitude": 38.7878,
+	"longitude": -77.4961
+},
+{
+	"City": "Franklin Farm",
+	"State": "VA",
+	"latitude": 38.9133,
+	"longitude": -77.3969
+},
+{
+	"City": "Merrifield",
+	"State": "VA",
+	"latitude": 38.8731,
+	"longitude": -77.2426
+},
+{
+	"City": "Idylwood",
+	"State": "VA",
+	"latitude": 38.8896,
+	"longitude": -77.2055
+},
+{
+	"City": "Radford",
+	"State": "VA",
+	"latitude": 37.1229,
+	"longitude": -80.5587
+},
+{
+	"City": "Bon Air",
+	"State": "VA",
+	"latitude": 37.5187,
+	"longitude": -77.5713
+},
+{
+	"City": "Burke Centre",
+	"State": "VA",
+	"latitude": 38.7903,
+	"longitude": -77.2999
+},
+{
+	"City": "Buckhall",
+	"State": "VA",
+	"latitude": 38.725,
+	"longitude": -77.4472
+},
+{
+	"City": "Laurel",
+	"State": "VA",
+	"latitude": 37.6375,
+	"longitude": -77.5062
+},
+{
+	"City": "Kingstowne",
+	"State": "VA",
+	"latitude": 38.7625,
+	"longitude": -77.1445
+},
+{
+	"City": "Manassas Park",
+	"State": "VA",
+	"latitude": 38.7719,
+	"longitude": -77.445
+},
+{
+	"City": "Colonial Heights",
+	"State": "VA",
+	"latitude": 37.265,
+	"longitude": -77.3969
+},
+{
+	"City": "Gainesville",
+	"State": "VA",
+	"latitude": 38.7931,
+	"longitude": -77.6347
+},
+{
+	"City": "Hybla Valley",
+	"State": "VA",
+	"latitude": 38.7485,
+	"longitude": -77.0822
+},
+{
+	"City": "Fort Hunt",
+	"State": "VA",
+	"latitude": 38.7361,
+	"longitude": -77.0589
+},
+{
+	"City": "Bristol",
+	"State": "VA",
+	"latitude": 36.618,
+	"longitude": -82.1606
+},
+{
+	"City": "Bull Run",
+	"State": "VA",
+	"latitude": 38.7802,
+	"longitude": -77.5204
+},
+{
+	"City": "Groveton",
+	"State": "VA",
+	"latitude": 38.7605,
+	"longitude": -77.098
+},
+{
+	"City": "Vienna",
+	"State": "VA",
+	"latitude": 38.8996,
+	"longitude": -77.2597
+},
+{
+	"City": "Highland Springs",
+	"State": "VA",
+	"latitude": 37.5516,
+	"longitude": -77.3285
+},
+{
+	"City": "Wolf Trap",
+	"State": "VA",
+	"latitude": 38.9395,
+	"longitude": -77.2842
+},
+{
+	"City": "Purcellville",
+	"State": "VA",
+	"latitude": 39.1378,
+	"longitude": -77.7109
+},
+{
+	"City": "East Highland Park",
+	"State": "VA",
+	"latitude": 37.577,
+	"longitude": -77.3865
+},
+{
+	"City": "Glen Allen",
+	"State": "VA",
+	"latitude": 37.666,
+	"longitude": -77.4838
+},
+{
+	"City": "Pulaski",
+	"State": "VA",
+	"latitude": 37.0528,
+	"longitude": -80.7624
+},
+{
+	"City": "Great Falls",
+	"State": "VA",
+	"latitude": 39.011,
+	"longitude": -77.3013
+},
+{
+	"City": "Falls Church",
+	"State": "VA",
+	"latitude": 38.8847,
+	"longitude": -77.1751
+},
+{
+	"City": "Hollins",
+	"State": "VA",
+	"latitude": 37.3434,
+	"longitude": -79.9535
+},
+{
+	"City": "Kings Park West",
+	"State": "VA",
+	"latitude": 38.8151,
+	"longitude": -77.296
+},
+{
+	"City": "Stone Ridge",
+	"State": "VA",
+	"latitude": 38.9295,
+	"longitude": -77.5553
+},
+{
+	"City": "Brandermill",
+	"State": "VA",
+	"latitude": 37.434,
+	"longitude": -77.6522
+},
+{
+	"City": "Broadlands",
+	"State": "VA",
+	"latitude": 39.0168,
+	"longitude": -77.5167
+},
+{
+	"City": "Huntington",
+	"State": "VA",
+	"latitude": 38.7916,
+	"longitude": -77.074
+},
+{
+	"City": "Timberlake",
+	"State": "VA",
+	"latitude": 37.3167,
+	"longitude": -79.2482
+},
+{
+	"City": "Newington",
+	"State": "VA",
+	"latitude": 38.7358,
+	"longitude": -77.1993
+},
+{
+	"City": "Mount Vernon",
+	"State": "VA",
+	"latitude": 38.714,
+	"longitude": -77.1043
+},
+{
+	"City": "Sugarland Run",
+	"State": "VA",
+	"latitude": 39.0309,
+	"longitude": -77.3762
+},
+{
+	"City": "Lakeside",
+	"State": "VA",
+	"latitude": 37.6133,
+	"longitude": -77.4768
+},
+{
+	"City": "Newington Forest",
+	"State": "VA",
+	"latitude": 38.7371,
+	"longitude": -77.2339
+},
+{
+	"City": "Lansdowne",
+	"State": "VA",
+	"latitude": 39.0846,
+	"longitude": -77.4839
+},
+{
+	"City": "Poquoson",
+	"State": "VA",
+	"latitude": 37.1318,
+	"longitude": -76.3569
+},
+{
+	"City": "Fairfax Station",
+	"State": "VA",
+	"latitude": 38.7942,
+	"longitude": -77.3358
+},
+{
+	"City": "Madison Heights",
+	"State": "VA",
+	"latitude": 37.4487,
+	"longitude": -79.1057
+},
+{
+	"City": "Dranesville",
+	"State": "VA",
+	"latitude": 38.9955,
+	"longitude": -77.3693
+},
+{
+	"City": "Wakefield",
+	"State": "VA",
+	"latitude": 38.823,
+	"longitude": -77.2407
+},
+{
+	"City": "Cascades",
+	"State": "VA",
+	"latitude": 39.0464,
+	"longitude": -77.3874
+},
+{
+	"City": "Manchester",
+	"State": "VA",
+	"latitude": 37.4902,
+	"longitude": -77.5396
+},
+{
+	"City": "Lake Monticello",
+	"State": "VA",
+	"latitude": 37.921,
+	"longitude": -78.3295
+},
+{
+	"City": "Lowes Island",
+	"State": "VA",
+	"latitude": 39.0471,
+	"longitude": -77.3524
+},
+{
+	"City": "Forest",
+	"State": "VA",
+	"latitude": 37.3728,
+	"longitude": -79.2831
+},
+{
+	"City": "Smithfield",
+	"State": "VA",
+	"latitude": 36.9754,
+	"longitude": -76.6162
+},
+{
+	"City": "Wyndham",
+	"State": "VA",
+	"latitude": 37.6924,
+	"longitude": -77.6123
+},
+{
+	"City": "Norton",
+	"State": "VA",
+	"latitude": 36.9314,
+	"longitude": -82.6262
+},
+{
+	"City": "New Baltimore",
+	"State": "VA",
+	"latitude": 38.7495,
+	"longitude": -77.7151
+},
+{
+	"City": "Warrenton",
+	"State": "VA",
+	"latitude": 38.7176,
+	"longitude": -77.7975
+},
+{
+	"City": "Gloucester Point",
+	"State": "VA",
+	"latitude": 37.2767,
+	"longitude": -76.5043
+},
+{
+	"City": "Lake Barcroft",
+	"State": "VA",
+	"latitude": 38.8514,
+	"longitude": -77.1579
+},
+{
+	"City": "George Mason",
+	"State": "VA",
+	"latitude": 38.8355,
+	"longitude": -77.3185
+},
+{
+	"City": "Countryside",
+	"State": "VA",
+	"latitude": 39.0518,
+	"longitude": -77.4124
+},
+{
+	"City": "Yorkshire",
+	"State": "VA",
+	"latitude": 38.7882,
+	"longitude": -77.4495
+},
+{
+	"City": "Stuarts Draft",
+	"State": "VA",
+	"latitude": 38.0245,
+	"longitude": -79.0308
+},
+{
+	"City": "Lexington",
+	"State": "VA",
+	"latitude": 37.7825,
+	"longitude": -79.444
+},
+{
+	"City": "Independent Hill",
+	"State": "VA",
+	"latitude": 38.6404,
+	"longitude": -77.409
+},
+{
+	"City": "Dunn Loring",
+	"State": "VA",
+	"latitude": 38.8945,
+	"longitude": -77.2316
+},
+{
+	"City": "Woodburn",
+	"State": "VA",
+	"latitude": 38.8503,
+	"longitude": -77.2322
+},
+{
+	"City": "Triangle",
+	"State": "VA",
+	"latitude": 38.5483,
+	"longitude": -77.3195
+},
+{
+	"City": "Innsbrook",
+	"State": "VA",
+	"latitude": 37.6552,
+	"longitude": -77.5775
+},
+{
+	"City": "Seven Corners",
+	"State": "VA",
+	"latitude": 38.8658,
+	"longitude": -77.1445
+},
+{
+	"City": "Dumbarton",
+	"State": "VA",
+	"latitude": 37.613,
+	"longitude": -77.5065
+},
+{
+	"City": "Greenbriar",
+	"State": "VA",
+	"latitude": 38.8717,
+	"longitude": -77.397
+},
+{
+	"City": "Fishersville",
+	"State": "VA",
+	"latitude": 38.1005,
+	"longitude": -78.9687
+},
+{
+	"City": "Richlands",
+	"State": "VA",
+	"latitude": 37.0878,
+	"longitude": -81.808
+},
+{
+	"City": "Farmville",
+	"State": "VA",
+	"latitude": 37.2959,
+	"longitude": -78.4002
+},
+{
+	"City": "Franklin",
+	"State": "VA",
+	"latitude": 36.6831,
+	"longitude": -76.9386
+},
+{
+	"City": "University of Virginia",
+	"State": "VA",
+	"latitude": 38.0405,
+	"longitude": -78.5163
+},
+{
+	"City": "Lake of the Woods",
+	"State": "VA",
+	"latitude": 38.3342,
+	"longitude": -77.7599
+},
+{
+	"City": "Fair Lakes",
+	"State": "VA",
+	"latitude": 38.853,
+	"longitude": -77.3885
+},
+{
+	"City": "Long Branch",
+	"State": "VA",
+	"latitude": 38.8302,
+	"longitude": -77.2713
+},
+{
+	"City": "Floris",
+	"State": "VA",
+	"latitude": 38.9347,
+	"longitude": -77.4083
+},
+{
+	"City": "Rockwood",
+	"State": "VA",
+	"latitude": 37.463,
+	"longitude": -77.5744
+},
+{
+	"City": "Vinton",
+	"State": "VA",
+	"latitude": 37.2746,
+	"longitude": -79.8887
+},
+{
+	"City": "Hollymead",
+	"State": "VA",
+	"latitude": 38.1266,
+	"longitude": -78.4386
+},
+{
+	"City": "Loudoun Valley Estates",
+	"State": "VA",
+	"latitude": 38.9801,
+	"longitude": -77.5082
+},
+{
+	"City": "Laurel Hill",
+	"State": "VA",
+	"latitude": 38.7026,
+	"longitude": -77.2422
+},
+{
+	"City": "Fort Belvoir",
+	"State": "VA",
+	"latitude": 38.7119,
+	"longitude": -77.1459
+},
+{
+	"City": "Wytheville",
+	"State": "VA",
+	"latitude": 36.953,
+	"longitude": -81.0881
+},
+{
+	"City": "Ashland",
+	"State": "VA",
+	"latitude": 37.7596,
+	"longitude": -77.4715
+},
+{
+	"City": "Abingdon",
+	"State": "VA",
+	"latitude": 36.7089,
+	"longitude": -81.9713
+},
+{
+	"City": "Covington",
+	"State": "VA",
+	"latitude": 37.7785,
+	"longitude": -79.9868
+},
+{
+	"City": "South Boston",
+	"State": "VA",
+	"latitude": 36.7132,
+	"longitude": -78.9135
+},
+{
+	"City": "Collinsville",
+	"State": "VA",
+	"latitude": 36.7215,
+	"longitude": -79.9121
+},
+{
+	"City": "Montrose",
+	"State": "VA",
+	"latitude": 37.52,
+	"longitude": -77.3772
+},
+{
+	"City": "Big Stone Gap",
+	"State": "VA",
+	"latitude": 36.8626,
+	"longitude": -82.7769
+},
+{
+	"City": "Marion",
+	"State": "VA",
+	"latitude": 36.8389,
+	"longitude": -81.5135
+},
+{
+	"City": "Mantua",
+	"State": "VA",
+	"latitude": 38.8526,
+	"longitude": -77.2571
+},
+{
+	"City": "Strasburg",
+	"State": "VA",
+	"latitude": 38.9961,
+	"longitude": -78.3548
+},
+{
+	"City": "North Springfield",
+	"State": "VA",
+	"latitude": 38.8024,
+	"longitude": -77.2028
+},
+{
+	"City": "Bedford",
+	"State": "VA",
+	"latitude": 37.336,
+	"longitude": -79.5179
+},
+{
+	"City": "Woodstock",
+	"State": "VA",
+	"latitude": 38.875,
+	"longitude": -78.516
+},
+{
+	"City": "Sandston",
+	"State": "VA",
+	"latitude": 37.512,
+	"longitude": -77.3149
+},
+{
+	"City": "Crozet",
+	"State": "VA",
+	"latitude": 38.0645,
+	"longitude": -78.6962
+},
+{
+	"City": "Woodlake",
+	"State": "VA",
+	"latitude": 37.4216,
+	"longitude": -77.6783
+},
+{
+	"City": "Bellwood",
+	"State": "VA",
+	"latitude": 37.406,
+	"longitude": -77.4363
+},
+{
+	"City": "Broadway",
+	"State": "VA",
+	"latitude": 38.6083,
+	"longitude": -78.8016
+},
+{
+	"City": "Potomac Mills",
+	"State": "VA",
+	"latitude": 38.6547,
+	"longitude": -77.3012
+},
+{
+	"City": "Belle Haven",
+	"State": "VA",
+	"latitude": 38.7775,
+	"longitude": -77.0574
+},
+{
+	"City": "Belmont",
+	"State": "VA",
+	"latitude": 39.065,
+	"longitude": -77.4965
+},
+{
+	"City": "Buena Vista",
+	"State": "VA",
+	"latitude": 37.7319,
+	"longitude": -79.3569
+},
+{
+	"City": "Emporia",
+	"State": "VA",
+	"latitude": 36.6953,
+	"longitude": -77.5356
+},
+{
+	"City": "Carrollton",
+	"State": "VA",
+	"latitude": 36.9394,
+	"longitude": -76.5264
+},
+{
+	"City": "Galax",
+	"State": "VA",
+	"latitude": 36.6661,
+	"longitude": -80.9176
+},
+{
+	"City": "South Run",
+	"State": "VA",
+	"latitude": 38.7467,
+	"longitude": -77.2754
+},
+{
+	"City": "Pimmit Hills",
+	"State": "VA",
+	"latitude": 38.9105,
+	"longitude": -77.1991
+},
+{
+	"City": "Bridgewater",
+	"State": "VA",
+	"latitude": 38.3862,
+	"longitude": -78.9674
+},
+{
+	"City": "Aquia Harbour",
+	"State": "VA",
+	"latitude": 38.4597,
+	"longitude": -77.3806
+},
+{
+	"City": "Bensley",
+	"State": "VA",
+	"latitude": 37.447,
+	"longitude": -77.442
+},
+{
+	"City": "Rocky Mount",
+	"State": "VA",
+	"latitude": 37.0045,
+	"longitude": -79.8854
+},
+{
+	"City": "Dumfries",
+	"State": "VA",
+	"latitude": 38.567,
+	"longitude": -77.3233
+},
+{
+	"City": "Chamberlayne",
+	"State": "VA",
+	"latitude": 37.628,
+	"longitude": -77.4288
+},
+{
+	"City": "Massanetta Springs",
+	"State": "VA",
+	"latitude": 38.3899,
+	"longitude": -78.834
+},
+{
+	"City": "Fort Lee",
+	"State": "VA",
+	"latitude": 37.2357,
+	"longitude": -77.3325
+},
+{
+	"City": "Crosspointe",
+	"State": "VA",
+	"latitude": 38.7253,
+	"longitude": -77.2638
+},
+{
+	"City": "Dulles Town Center",
+	"State": "VA",
+	"latitude": 39.0265,
+	"longitude": -77.4196
+},
+{
+	"City": "Orange",
+	"State": "VA",
+	"latitude": 38.2486,
+	"longitude": -78.1127
+},
+{
+	"City": "Ettrick",
+	"State": "VA",
+	"latitude": 37.2435,
+	"longitude": -77.4287
+},
+{
+	"City": "Kings Park",
+	"State": "VA",
+	"latitude": 38.8026,
+	"longitude": -77.2396
+},
+{
+	"City": "Quantico Base",
+	"State": "VA",
+	"latitude": 38.5228,
+	"longitude": -77.3187
+},
+{
+	"City": "King George",
+	"State": "VA",
+	"latitude": 38.2807,
+	"longitude": -77.1896
+},
+{
+	"City": "Bealeton",
+	"State": "VA",
+	"latitude": 38.5822,
+	"longitude": -77.7781
+},
+{
+	"City": "Luray",
+	"State": "VA",
+	"latitude": 38.665,
+	"longitude": -78.4546
+},
+{
+	"City": "Bluefield",
+	"State": "VA",
+	"latitude": 37.2351,
+	"longitude": -81.2751
+},
+{
+	"City": "Clifton Forge",
+	"State": "VA",
+	"latitude": 37.8232,
+	"longitude": -79.825
+},
+{
+	"City": "Falmouth",
+	"State": "VA",
+	"latitude": 38.3319,
+	"longitude": -77.4655
+},
+{
+	"City": "Spotsylvania Courthouse",
+	"State": "VA",
+	"latitude": 38.1982,
+	"longitude": -77.5885
+},
+{
+	"City": "Altavista",
+	"State": "VA",
+	"latitude": 37.1232,
+	"longitude": -79.2858
+},
+{
+	"City": "South Hill",
+	"State": "VA",
+	"latitude": 36.7254,
+	"longitude": -78.1287
+},
+{
+	"City": "Berryville",
+	"State": "VA",
+	"latitude": 39.1504,
+	"longitude": -77.9824
+},
+{
+	"City": "Tazewell",
+	"State": "VA",
+	"latitude": 37.1268,
+	"longitude": -81.5134
+},
+{
+	"City": "Enon",
+	"State": "VA",
+	"latitude": 37.3273,
+	"longitude": -77.3194
+},
+{
+	"City": "Woodbridge",
+	"State": "VA",
+	"latitude": 38.6569,
+	"longitude": -77.2403
+},
+{
+	"City": "Grottoes",
+	"State": "VA",
+	"latitude": 38.2692,
+	"longitude": -78.8252
+},
+{
+	"City": "Bethel Manor",
+	"State": "VA",
+	"latitude": 37.0973,
+	"longitude": -76.4244
+},
+{
+	"City": "Hayfield",
+	"State": "VA",
+	"latitude": 38.7536,
+	"longitude": -77.1321
+},
+{
+	"City": "Stafford Courthouse",
+	"State": "VA",
+	"latitude": 38.417,
+	"longitude": -77.4207
+},
+{
+	"City": "Verona",
+	"State": "VA",
+	"latitude": 38.1939,
+	"longitude": -79.0087
+},
+{
+	"City": "Narrows",
+	"State": "VA",
+	"latitude": 37.3315,
+	"longitude": -80.8083
+},
+{
+	"City": "County Center",
+	"State": "VA",
+	"latitude": 38.6917,
+	"longitude": -77.3507
+},
+{
+	"City": "Loch Lomond",
+	"State": "VA",
+	"latitude": 38.7812,
+	"longitude": -77.4817
+},
+{
+	"City": "Lake Land'Or",
+	"State": "VA",
+	"latitude": 38.017,
+	"longitude": -77.5593
+},
+{
+	"City": "University Center",
+	"State": "VA",
+	"latitude": 39.0601,
+	"longitude": -77.4445
+},
+{
+	"City": "Crewe",
+	"State": "VA",
+	"latitude": 37.1812,
+	"longitude": -78.1307
+},
+{
+	"City": "Mount Hermon",
+	"State": "VA",
+	"latitude": 36.6716,
+	"longitude": -79.4196
+},
+{
+	"City": "Elkton",
+	"State": "VA",
+	"latitude": 38.4106,
+	"longitude": -78.616
+},
+{
+	"City": "Colonial Beach",
+	"State": "VA",
+	"latitude": 38.2565,
+	"longitude": -76.9784
+},
+{
+	"City": "Shenandoah Farms",
+	"State": "VA",
+	"latitude": 38.9793,
+	"longitude": -78.0469
+},
+{
+	"City": "Southern Gateway",
+	"State": "VA",
+	"latitude": 38.3489,
+	"longitude": -77.5036
+},
+{
+	"City": "Pantops",
+	"State": "VA",
+	"latitude": 38.0308,
+	"longitude": -78.4444
+},
+{
+	"City": "Blackstone",
+	"State": "VA",
+	"latitude": 37.0821,
+	"longitude": -78.0029
+},
+{
+	"City": "Cloverdale",
+	"State": "VA",
+	"latitude": 37.3566,
+	"longitude": -79.9055
+},
+{
+	"City": "Blue Ridge",
+	"State": "VA",
+	"latitude": 37.3783,
+	"longitude": -79.8206
+},
+{
+	"City": "West Point",
+	"State": "VA",
+	"latitude": 37.5519,
+	"longitude": -76.8017
+},
+{
+	"City": "North Shore",
+	"State": "VA",
+	"latitude": 37.0778,
+	"longitude": -79.6518
+},
+{
+	"City": "Lebanon",
+	"State": "VA",
+	"latitude": 36.8993,
+	"longitude": -82.0777
+},
+{
+	"City": "Dahlgren",
+	"State": "VA",
+	"latitude": 38.3444,
+	"longitude": -77.0624
+},
+{
+	"City": "Wise",
+	"State": "VA",
+	"latitude": 36.9767,
+	"longitude": -82.5809
+},
+{
+	"City": "Chincoteague",
+	"State": "VA",
+	"latitude": 37.9591,
+	"longitude": -75.3496
+},
+{
+	"City": "Lake Wilderness",
+	"State": "VA",
+	"latitude": 38.3036,
+	"longitude": -77.7276
+},
+{
+	"City": "Lawrenceville",
+	"State": "VA",
+	"latitude": 36.7564,
+	"longitude": -77.8539
+},
+{
+	"City": "Daleville",
+	"State": "VA",
+	"latitude": 37.415,
+	"longitude": -79.9132
+},
+{
+	"City": "Oak Grove",
+	"State": "VA",
+	"latitude": 38.9845,
+	"longitude": -77.4174
+},
+{
+	"City": "Windsor",
+	"State": "VA",
+	"latitude": 36.8095,
+	"longitude": -76.7406
+},
+{
+	"City": "Coeburn",
+	"State": "VA",
+	"latitude": 36.9444,
+	"longitude": -82.4698
+},
+{
+	"City": "Pearisburg",
+	"State": "VA",
+	"latitude": 37.3289,
+	"longitude": -80.7275
+},
+{
+	"City": "Timberville",
+	"State": "VA",
+	"latitude": 38.634,
+	"longitude": -78.773
+},
+{
+	"City": "Hillsville",
+	"State": "VA",
+	"latitude": 36.7613,
+	"longitude": -80.7372
+},
+{
+	"City": "Merrimac",
+	"State": "VA",
+	"latitude": 37.1904,
+	"longitude": -80.4244
+},
+{
+	"City": "Massanutten",
+	"State": "VA",
+	"latitude": 38.4115,
+	"longitude": -78.7269
+},
+{
+	"City": "Dublin",
+	"State": "VA",
+	"latitude": 37.0987,
+	"longitude": -80.6831
+},
+{
+	"City": "Tappahannock",
+	"State": "VA",
+	"latitude": 37.9187,
+	"longitude": -76.8667
+},
+{
+	"City": "Chase City",
+	"State": "VA",
+	"latitude": 36.7998,
+	"longitude": -78.461
+},
+{
+	"City": "Matoaca",
+	"State": "VA",
+	"latitude": 37.2313,
+	"longitude": -77.4679
+},
+{
+	"City": "Gloucester Courthouse",
+	"State": "VA",
+	"latitude": 37.4053,
+	"longitude": -76.526
+},
+{
+	"City": "Shenandoah",
+	"State": "VA",
+	"latitude": 38.4875,
+	"longitude": -78.6171
+},
+{
+	"City": "Fairlawn",
+	"State": "VA",
+	"latitude": 37.1476,
+	"longitude": -80.5567
+},
+{
+	"City": "Ferrum",
+	"State": "VA",
+	"latitude": 36.9313,
+	"longitude": -80.0149
+},
+{
+	"City": "New Market",
+	"State": "VA",
+	"latitude": 38.6459,
+	"longitude": -78.6709
+},
+{
+	"City": "Crimora",
+	"State": "VA",
+	"latitude": 38.1618,
+	"longitude": -78.8413
+},
+{
+	"City": "Lovettsville",
+	"State": "VA",
+	"latitude": 39.2736,
+	"longitude": -77.6399
+},
+{
+	"City": "Ravensworth",
+	"State": "VA",
+	"latitude": 38.8032,
+	"longitude": -77.2223
+},
+{
+	"City": "Amherst",
+	"State": "VA",
+	"latitude": 37.5816,
+	"longitude": -79.0509
+},
+{
+	"City": "Laymantown",
+	"State": "VA",
+	"latitude": 37.3628,
+	"longitude": -79.8525
+},
+{
+	"City": "Mount Jackson",
+	"State": "VA",
+	"latitude": 38.7394,
+	"longitude": -78.6513
+},
+{
+	"City": "Lake Holiday",
+	"State": "VA",
+	"latitude": 39.3092,
+	"longitude": -78.3245
+},
+{
+	"City": "Horse Pasture",
+	"State": "VA",
+	"latitude": 36.6313,
+	"longitude": -79.9514
+},
+{
+	"City": "Stephens City",
+	"State": "VA",
+	"latitude": 39.0902,
+	"longitude": -78.223
+},
+{
+	"City": "Marshall",
+	"State": "VA",
+	"latitude": 38.8661,
+	"longitude": -77.8453
+},
+{
+	"City": "Raven",
+	"State": "VA",
+	"latitude": 37.0937,
+	"longitude": -81.8601
+},
+{
+	"City": "Mason Neck",
+	"State": "VA",
+	"latitude": 38.6556,
+	"longitude": -77.1819
+},
+{
+	"City": "Moorefield Station",
+	"State": "VA",
+	"latitude": 38.9981,
+	"longitude": -77.4971
+},
+{
+	"City": "Waverly",
+	"State": "VA",
+	"latitude": 37.034,
+	"longitude": -77.0956
+},
+{
+	"City": "Weyers Cave",
+	"State": "VA",
+	"latitude": 38.2844,
+	"longitude": -78.9125
+},
+{
+	"City": "Patrick Springs",
+	"State": "VA",
+	"latitude": 36.6344,
+	"longitude": -80.1985
+},
+{
+	"City": "Saltville",
+	"State": "VA",
+	"latitude": 36.8751,
+	"longitude": -81.7642
+},
+{
+	"City": "Prince George",
+	"State": "VA",
+	"latitude": 37.2209,
+	"longitude": -77.2683
+},
+{
+	"City": "Gate City",
+	"State": "VA",
+	"latitude": 36.6401,
+	"longitude": -82.5782
+},
+{
+	"City": "Rivanna",
+	"State": "VA",
+	"latitude": 37.9945,
+	"longitude": -78.3788
+},
+{
+	"City": "Cana",
+	"State": "VA",
+	"latitude": 36.5816,
+	"longitude": -80.6688
+},
+{
+	"City": "Lyndhurst",
+	"State": "VA",
+	"latitude": 38.0221,
+	"longitude": -78.9516
+},
+{
+	"City": "Appomattox",
+	"State": "VA",
+	"latitude": 37.3591,
+	"longitude": -78.8269
+},
+{
+	"City": "Castlewood",
+	"State": "VA",
+	"latitude": 36.8782,
+	"longitude": -82.2879
+},
+{
+	"City": "Louisa",
+	"State": "VA",
+	"latitude": 38.0212,
+	"longitude": -77.9985
+},
+{
+	"City": "Hampden-Sydney",
+	"State": "VA",
+	"latitude": 37.2416,
+	"longitude": -78.4693
+},
+{
+	"City": "Pennington Gap",
+	"State": "VA",
+	"latitude": 36.7594,
+	"longitude": -83.03
+},
+{
+	"City": "Chilhowie",
+	"State": "VA",
+	"latitude": 36.8009,
+	"longitude": -81.6832
+},
+{
+	"City": "Shawneeland",
+	"State": "VA",
+	"latitude": 39.1976,
+	"longitude": -78.3464
+},
+{
+	"City": "East Lexington",
+	"State": "VA",
+	"latitude": 37.8009,
+	"longitude": -79.416
+},
+{
+	"City": "Haymarket",
+	"State": "VA",
+	"latitude": 38.8122,
+	"longitude": -77.6363
+},
+{
+	"City": "Stanley",
+	"State": "VA",
+	"latitude": 38.5769,
+	"longitude": -78.5027
+},
+{
+	"City": "Dayton",
+	"State": "VA",
+	"latitude": 38.4173,
+	"longitude": -78.9412
+},
+{
+	"City": "Victoria",
+	"State": "VA",
+	"latitude": 36.9947,
+	"longitude": -78.2242
+},
+{
+	"City": "Gordonsville",
+	"State": "VA",
+	"latitude": 38.136,
+	"longitude": -78.1879
+},
+{
+	"City": "Central Garage",
+	"State": "VA",
+	"latitude": 37.7458,
+	"longitude": -77.1315
+},
+{
+	"City": "Adwolf",
+	"State": "VA",
+	"latitude": 36.793,
+	"longitude": -81.5927
+},
+{
+	"City": "Shawsville",
+	"State": "VA",
+	"latitude": 37.1707,
+	"longitude": -80.2527
+},
+{
+	"City": "Chatmoss",
+	"State": "VA",
+	"latitude": 36.6758,
+	"longitude": -79.7981
+},
+{
+	"City": "Appalachia",
+	"State": "VA",
+	"latitude": 36.9098,
+	"longitude": -82.7882
+},
+{
+	"City": "Passapatanzy",
+	"State": "VA",
+	"latitude": 38.2942,
+	"longitude": -77.3266
+},
+{
+	"City": "Lake Caroline",
+	"State": "VA",
+	"latitude": 37.9856,
+	"longitude": -77.5244
+},
+{
+	"City": "Plum Creek",
+	"State": "VA",
+	"latitude": 37.1268,
+	"longitude": -80.5047
+},
+{
+	"City": "Warsaw",
+	"State": "VA",
+	"latitude": 37.9603,
+	"longitude": -76.761
+},
+{
+	"City": "Rural Retreat",
+	"State": "VA",
+	"latitude": 36.901,
+	"longitude": -81.2765
+},
+{
+	"City": "Chatham",
+	"State": "VA",
+	"latitude": 36.8185,
+	"longitude": -79.3967
+},
+{
+	"City": "Greenville",
+	"State": "VA",
+	"latitude": 38.0036,
+	"longitude": -79.1522
+},
+{
+	"City": "Rustburg",
+	"State": "VA",
+	"latitude": 37.2712,
+	"longitude": -79.0962
+},
+{
+	"City": "Glade Spring",
+	"State": "VA",
+	"latitude": 36.7899,
+	"longitude": -81.7726
+},
+{
+	"City": "Middletown",
+	"State": "VA",
+	"latitude": 39.0288,
+	"longitude": -78.278
+},
+{
+	"City": "Kilmarnock",
+	"State": "VA",
+	"latitude": 37.7118,
+	"longitude": -76.3834
+},
+{
+	"City": "Stanleytown",
+	"State": "VA",
+	"latitude": 36.7512,
+	"longitude": -79.9521
+},
+{
+	"City": "Exmore",
+	"State": "VA",
+	"latitude": 37.5295,
+	"longitude": -75.8283
+},
+{
+	"City": "Apple Mountain Lake",
+	"State": "VA",
+	"latitude": 38.9231,
+	"longitude": -78.1033
+},
+{
+	"City": "Piney Mountain",
+	"State": "VA",
+	"latitude": 38.1591,
+	"longitude": -78.4156
+},
+{
+	"City": "Claypool Hill",
+	"State": "VA",
+	"latitude": 37.0633,
+	"longitude": -81.7506
+},
+{
+	"City": "Ruckersville",
+	"State": "VA",
+	"latitude": 38.2314,
+	"longitude": -78.3756
+},
+{
+	"City": "Nokesville",
+	"State": "VA",
+	"latitude": 38.694,
+	"longitude": -77.5757
+},
+{
+	"City": "Honaker",
+	"State": "VA",
+	"latitude": 37.0156,
+	"longitude": -81.9685
+},
+{
+	"City": "Bull Run Mountain Estates",
+	"State": "VA",
+	"latitude": 38.9107,
+	"longitude": -77.6638
+},
+{
+	"City": "Nellysford",
+	"State": "VA",
+	"latitude": 37.913,
+	"longitude": -78.8828
+},
+{
+	"City": "Springville",
+	"State": "VA",
+	"latitude": 37.194,
+	"longitude": -81.3999
+},
+{
+	"City": "Henry Fork",
+	"State": "VA",
+	"latitude": 36.9679,
+	"longitude": -79.871
+},
+{
+	"City": "Clintwood",
+	"State": "VA",
+	"latitude": 37.1507,
+	"longitude": -82.4573
+},
+{
+	"City": "Twin Lakes",
+	"State": "VA",
+	"latitude": 38.2505,
+	"longitude": -78.4417
+},
+{
+	"City": "Stuart",
+	"State": "VA",
+	"latitude": 36.6404,
+	"longitude": -80.2687
+},
+{
+	"City": "Belmont Estates",
+	"State": "VA",
+	"latitude": 38.4465,
+	"longitude": -78.9228
+},
+{
+	"City": "Hurt",
+	"State": "VA",
+	"latitude": 37.0954,
+	"longitude": -79.3029
+},
+{
+	"City": "Arcola",
+	"State": "VA",
+	"latitude": 38.9447,
+	"longitude": -77.5306
+},
+{
+	"City": "Courtland",
+	"State": "VA",
+	"latitude": 36.7123,
+	"longitude": -77.062
+},
+{
+	"City": "Onancock",
+	"State": "VA",
+	"latitude": 37.7102,
+	"longitude": -75.7433
+},
+{
+	"City": "Weber City",
+	"State": "VA",
+	"latitude": 36.6236,
+	"longitude": -82.5631
+},
+{
+	"City": "Halifax",
+	"State": "VA",
+	"latitude": 36.7612,
+	"longitude": -78.9279
+},
+{
+	"City": "Kenbridge",
+	"State": "VA",
+	"latitude": 36.9608,
+	"longitude": -78.1283
+},
+{
+	"City": "Brightwood",
+	"State": "VA",
+	"latitude": 38.4132,
+	"longitude": -78.188
+},
+{
+	"City": "Harriston",
+	"State": "VA",
+	"latitude": 38.212,
+	"longitude": -78.8283
+},
+{
+	"City": "Gretna",
+	"State": "VA",
+	"latitude": 36.9492,
+	"longitude": -79.3646
+},
+{
+	"City": "Bowling Green",
+	"State": "VA",
+	"latitude": 38.0535,
+	"longitude": -77.3473
+},
+{
+	"City": "Buchanan",
+	"State": "VA",
+	"latitude": 37.5211,
+	"longitude": -79.6894
+},
+{
+	"City": "Dryden",
+	"State": "VA",
+	"latitude": 36.7764,
+	"longitude": -82.9433
+},
+{
+	"City": "Clarksville",
+	"State": "VA",
+	"latitude": 36.6172,
+	"longitude": -78.5639
+},
+{
+	"City": "Emory",
+	"State": "VA",
+	"latitude": 36.78,
+	"longitude": -81.828
+},
+{
+	"City": "Chester Gap",
+	"State": "VA",
+	"latitude": 38.8534,
+	"longitude": -78.1325
+},
+{
+	"City": "Skyland Estates",
+	"State": "VA",
+	"latitude": 38.9329,
+	"longitude": -78.085
+},
+{
+	"City": "Union Hall",
+	"State": "VA",
+	"latitude": 37.0205,
+	"longitude": -79.6833
+},
+{
+	"City": "Dooms",
+	"State": "VA",
+	"latitude": 38.1027,
+	"longitude": -78.8495
+},
+{
+	"City": "Glasgow",
+	"State": "VA",
+	"latitude": 37.6348,
+	"longitude": -79.4514
+},
+{
+	"City": "Gratton",
+	"State": "VA",
+	"latitude": 37.1351,
+	"longitude": -81.4212
+},
+{
+	"City": "Brookneal",
+	"State": "VA",
+	"latitude": 37.0532,
+	"longitude": -78.9485
+},
+{
+	"City": "Glenvar",
+	"State": "VA",
+	"latitude": 37.276,
+	"longitude": -80.1256
+},
+{
+	"City": "Occoquan",
+	"State": "VA",
+	"latitude": 38.6825,
+	"longitude": -77.2606
+},
+{
+	"City": "Pembroke",
+	"State": "VA",
+	"latitude": 37.3219,
+	"longitude": -80.6365
+},
+{
+	"City": "Captains Cove",
+	"State": "VA",
+	"latitude": 38.0003,
+	"longitude": -75.4173
+},
+{
+	"City": "Belview",
+	"State": "VA",
+	"latitude": 37.1687,
+	"longitude": -80.511
+},
+{
+	"City": "Edinburg",
+	"State": "VA",
+	"latitude": 38.8235,
+	"longitude": -78.5634
+},
+{
+	"City": "Bracey",
+	"State": "VA",
+	"latitude": 36.5762,
+	"longitude": -78.1107
+},
+{
+	"City": "Bassett",
+	"State": "VA",
+	"latitude": 36.7615,
+	"longitude": -79.9866
+},
+{
+	"City": "Amelia Court House",
+	"State": "VA",
+	"latitude": 37.3366,
+	"longitude": -77.9882
+},
+{
+	"City": "Elliston",
+	"State": "VA",
+	"latitude": 37.2163,
+	"longitude": -80.2245
+},
+{
+	"City": "Meadow View",
+	"State": "VA",
+	"latitude": 36.7638,
+	"longitude": -81.8728
+},
+{
+	"City": "Riner",
+	"State": "VA",
+	"latitude": 37.0675,
+	"longitude": -80.4405
+},
+{
+	"City": "Penhook",
+	"State": "VA",
+	"latitude": 36.9905,
+	"longitude": -79.6318
+},
+{
+	"City": "Deltaville",
+	"State": "VA",
+	"latitude": 37.5525,
+	"longitude": -76.3331
+},
+{
+	"City": "Cape Charles",
+	"State": "VA",
+	"latitude": 37.257,
+	"longitude": -76.0093
+},
+{
+	"City": "Rushmere",
+	"State": "VA",
+	"latitude": 37.0836,
+	"longitude": -76.6747
+},
+{
+	"City": "Cedar Bluff",
+	"State": "VA",
+	"latitude": 37.0876,
+	"longitude": -81.7632
+},
+{
+	"City": "Wattsville",
+	"State": "VA",
+	"latitude": 37.9304,
+	"longitude": -75.4953
+},
+{
+	"City": "Pastoria",
+	"State": "VA",
+	"latitude": 37.7446,
+	"longitude": -75.6352
+},
+{
+	"City": "Westlake Corner",
+	"State": "VA",
+	"latitude": 37.1234,
+	"longitude": -79.6971
+},
+{
+	"City": "Fort Chiswell",
+	"State": "VA",
+	"latitude": 36.9444,
+	"longitude": -80.9577
+},
+{
+	"City": "Maurertown",
+	"State": "VA",
+	"latitude": 38.9325,
+	"longitude": -78.4615
+},
+{
+	"City": "Basye",
+	"State": "VA",
+	"latitude": 38.8181,
+	"longitude": -78.7659
+},
+{
+	"City": "Shenandoah Shores",
+	"State": "VA",
+	"latitude": 38.9621,
+	"longitude": -78.1414
+},
+{
+	"City": "Camptown",
+	"State": "VA",
+	"latitude": 36.6833,
+	"longitude": -76.8964
+},
+{
+	"City": "Craigsville",
+	"State": "VA",
+	"latitude": 38.0838,
+	"longitude": -79.3853
+},
+{
+	"City": "Jonesville",
+	"State": "VA",
+	"latitude": 36.6871,
+	"longitude": -83.1154
+},
+{
+	"City": "Boston",
+	"State": "VA",
+	"latitude": 37.6039,
+	"longitude": -75.8437
+},
+{
+	"City": "Jolivue",
+	"State": "VA",
+	"latitude": 38.1149,
+	"longitude": -79.0668
+},
+{
+	"City": "Pound",
+	"State": "VA",
+	"latitude": 37.126,
+	"longitude": -82.6071
+},
+{
+	"City": "Prices Fork",
+	"State": "VA",
+	"latitude": 37.207,
+	"longitude": -80.4851
+},
+{
+	"City": "Fieldale",
+	"State": "VA",
+	"latitude": 36.7009,
+	"longitude": -79.9424
+},
+{
+	"City": "Arrington",
+	"State": "VA",
+	"latitude": 37.6744,
+	"longitude": -78.8929
+},
+{
+	"City": "Grundy",
+	"State": "VA",
+	"latitude": 37.2754,
+	"longitude": -82.0988
+},
+{
+	"City": "Sugar Grove",
+	"State": "VA",
+	"latitude": 36.7689,
+	"longitude": -81.4075
+},
+{
+	"City": "Goochland",
+	"State": "VA",
+	"latitude": 37.6973,
+	"longitude": -77.8944
+},
+{
+	"City": "Independence",
+	"State": "VA",
+	"latitude": 36.6254,
+	"longitude": -81.1511
+},
+{
+	"City": "St. Paul",
+	"State": "VA",
+	"latitude": 36.9068,
+	"longitude": -82.3162
+},
+{
+	"City": "Laurel Park",
+	"State": "VA",
+	"latitude": 36.6871,
+	"longitude": -79.7872
+},
+{
+	"City": "Middleburg",
+	"State": "VA",
+	"latitude": 38.9715,
+	"longitude": -77.7429
+},
+{
+	"City": "Esmont",
+	"State": "VA",
+	"latitude": 37.8284,
+	"longitude": -78.5959
+},
+{
+	"City": "Parksley",
+	"State": "VA",
+	"latitude": 37.7862,
+	"longitude": -75.6538
+},
+{
+	"City": "Mountain Road",
+	"State": "VA",
+	"latitude": 36.7585,
+	"longitude": -78.989
+},
+{
+	"City": "Keysville",
+	"State": "VA",
+	"latitude": 37.039,
+	"longitude": -78.4804
+},
+{
+	"City": "Damascus",
+	"State": "VA",
+	"latitude": 36.6326,
+	"longitude": -81.7891
+},
+{
+	"City": "Atlantic",
+	"State": "VA",
+	"latitude": 37.9023,
+	"longitude": -75.5058
+},
+{
+	"City": "Blue Ridge Shores",
+	"State": "VA",
+	"latitude": 38.1091,
+	"longitude": -78.0235
+},
+{
+	"City": "Cluster Springs",
+	"State": "VA",
+	"latitude": 36.6128,
+	"longitude": -78.9221
+},
+{
+	"City": "Riverdale",
+	"State": "VA",
+	"latitude": 36.6764,
+	"longitude": -78.8944
+},
+{
+	"City": "Atkins",
+	"State": "VA",
+	"latitude": 36.8674,
+	"longitude": -81.3992
+},
+{
+	"City": "Concord",
+	"State": "VA",
+	"latitude": 37.3426,
+	"longitude": -78.9862
+},
+{
+	"City": "Rich Creek",
+	"State": "VA",
+	"latitude": 37.3832,
+	"longitude": -80.8204
+},
+{
+	"City": "Riverview",
+	"State": "VA",
+	"latitude": 36.9326,
+	"longitude": -82.4846
+},
+{
+	"City": "New River",
+	"State": "VA",
+	"latitude": 37.1409,
+	"longitude": -80.5929
+},
+{
+	"City": "Tangier",
+	"State": "VA",
+	"latitude": 37.8235,
+	"longitude": -75.9934
+},
+{
+	"City": "Motley",
+	"State": "VA",
+	"latitude": 37.0657,
+	"longitude": -79.3474
+},
+{
+	"City": "Ridgeway",
+	"State": "VA",
+	"latitude": 36.5781,
+	"longitude": -79.8583
+},
+{
+	"City": "Opal",
+	"State": "VA",
+	"latitude": 38.6201,
+	"longitude": -77.8049
+},
+{
+	"City": "Remington",
+	"State": "VA",
+	"latitude": 38.5346,
+	"longitude": -77.8083
+},
+{
+	"City": "Round Hill",
+	"State": "VA",
+	"latitude": 39.1319,
+	"longitude": -77.7681
+},
+{
+	"City": "Oak Level",
+	"State": "VA",
+	"latitude": 36.7944,
+	"longitude": -79.9392
+},
+{
+	"City": "New Hope",
+	"State": "VA",
+	"latitude": 38.1954,
+	"longitude": -78.9044
+},
+{
+	"City": "Saluda",
+	"State": "VA",
+	"latitude": 37.6053,
+	"longitude": -76.5938
+},
+{
+	"City": "Selma",
+	"State": "VA",
+	"latitude": 37.8033,
+	"longitude": -79.8499
+},
+{
+	"City": "Hamilton",
+	"State": "VA",
+	"latitude": 39.1349,
+	"longitude": -77.6642
+},
+{
+	"City": "Dahlgren Center",
+	"State": "VA",
+	"latitude": 38.34,
+	"longitude": -77.0324
+},
+{
+	"City": "Boyce",
+	"State": "VA",
+	"latitude": 39.0933,
+	"longitude": -78.0601
+},
+{
+	"City": "Shenandoah Retreat",
+	"State": "VA",
+	"latitude": 39.1373,
+	"longitude": -77.8637
+},
+{
+	"City": "Scottsville",
+	"State": "VA",
+	"latitude": 37.8063,
+	"longitude": -78.4919
+},
+{
+	"City": "Montvale",
+	"State": "VA",
+	"latitude": 37.3866,
+	"longitude": -79.7253
+},
+{
+	"City": "Seven Mile Ford",
+	"State": "VA",
+	"latitude": 36.8129,
+	"longitude": -81.6294
+},
+{
+	"City": "Villa Heights",
+	"State": "VA",
+	"latitude": 36.6981,
+	"longitude": -79.8994
+},
+{
+	"City": "Blairs",
+	"State": "VA",
+	"latitude": 36.6958,
+	"longitude": -79.3774
+},
+{
+	"City": "La Crosse",
+	"State": "VA",
+	"latitude": 36.7014,
+	"longitude": -78.0939
+},
+{
+	"City": "Jarratt",
+	"State": "VA",
+	"latitude": 36.816,
+	"longitude": -77.4689
+},
+{
+	"City": "Lafayette",
+	"State": "VA",
+	"latitude": 37.233,
+	"longitude": -80.2051
+},
+{
+	"City": "Sherando",
+	"State": "VA",
+	"latitude": 37.9889,
+	"longitude": -78.9442
+},
+{
+	"City": "Mathews",
+	"State": "VA",
+	"latitude": 37.4365,
+	"longitude": -76.3245
+},
+{
+	"City": "Dante",
+	"State": "VA",
+	"latitude": 36.9792,
+	"longitude": -82.296
+},
+{
+	"City": "Quantico",
+	"State": "VA",
+	"latitude": 38.5224,
+	"longitude": -77.2901
+},
+{
+	"City": "Benns Church",
+	"State": "VA",
+	"latitude": 36.937,
+	"longitude": -76.5842
+},
+{
+	"City": "Wintergreen",
+	"State": "VA",
+	"latitude": 37.9161,
+	"longitude": -78.9382
+},
+{
+	"City": "Gasburg",
+	"State": "VA",
+	"latitude": 36.5588,
+	"longitude": -77.8722
+},
+{
+	"City": "Boykins",
+	"State": "VA",
+	"latitude": 36.5779,
+	"longitude": -77.1989
+},
+{
+	"City": "Horntown",
+	"State": "VA",
+	"latitude": 37.9655,
+	"longitude": -75.4559
+},
+{
+	"City": "Mineral",
+	"State": "VA",
+	"latitude": 38.0068,
+	"longitude": -77.9061
+},
+{
+	"City": "Charlotte Court House",
+	"State": "VA",
+	"latitude": 37.0563,
+	"longitude": -78.6377
+},
+{
+	"City": "Metompkin",
+	"State": "VA",
+	"latitude": 37.7671,
+	"longitude": -75.6054
+},
+{
+	"City": "Drakes Branch",
+	"State": "VA",
+	"latitude": 36.9933,
+	"longitude": -78.6009
+},
+{
+	"City": "Onley",
+	"State": "VA",
+	"latitude": 37.6916,
+	"longitude": -75.718
+},
+{
+	"City": "Hot Springs",
+	"State": "VA",
+	"latitude": 38.0013,
+	"longitude": -79.8239
+},
+{
+	"City": "Lovingston",
+	"State": "VA",
+	"latitude": 37.7605,
+	"longitude": -78.8689
+},
+{
+	"City": "Sandy Level",
+	"State": "VA",
+	"latitude": 36.5645,
+	"longitude": -79.7276
+},
+{
+	"City": "McKenney",
+	"State": "VA",
+	"latitude": 36.9853,
+	"longitude": -77.7219
+},
+{
+	"City": "Mappsville",
+	"State": "VA",
+	"latitude": 37.8433,
+	"longitude": -75.5689
+},
+{
+	"City": "Accomac",
+	"State": "VA",
+	"latitude": 37.7196,
+	"longitude": -75.6674
+},
+{
+	"City": "New Kent",
+	"State": "VA",
+	"latitude": 37.5095,
+	"longitude": -76.9862
+},
+{
+	"City": "Fairview Beach",
+	"State": "VA",
+	"latitude": 38.3282,
+	"longitude": -77.2423
+},
+{
+	"City": "Nassawadox",
+	"State": "VA",
+	"latitude": 37.4763,
+	"longitude": -75.8591
+},
+{
+	"City": "Haysi",
+	"State": "VA",
+	"latitude": 37.2151,
+	"longitude": -82.2931
+},
+{
+	"City": "Ivanhoe",
+	"State": "VA",
+	"latitude": 36.8428,
+	"longitude": -80.9683
+},
+{
+	"City": "Ivy",
+	"State": "VA",
+	"latitude": 38.0611,
+	"longitude": -78.5987
+},
+{
+	"City": "Urbanna",
+	"State": "VA",
+	"latitude": 37.6395,
+	"longitude": -76.5747
+},
+{
+	"City": "Mount Crawford",
+	"State": "VA",
+	"latitude": 38.3601,
+	"longitude": -78.9413
+},
+{
+	"City": "Nelsonia",
+	"State": "VA",
+	"latitude": 37.8224,
+	"longitude": -75.5895
+},
+{
+	"City": "Cheriton",
+	"State": "VA",
+	"latitude": 37.2919,
+	"longitude": -75.9679
+},
+{
+	"City": "Fries",
+	"State": "VA",
+	"latitude": 36.714,
+	"longitude": -80.9752
+},
+{
+	"City": "Mount Sidney",
+	"State": "VA",
+	"latitude": 38.2586,
+	"longitude": -78.9654
+},
+{
+	"City": "Dillwyn",
+	"State": "VA",
+	"latitude": 37.5411,
+	"longitude": -78.4613
+},
+{
+	"City": "Max Meadows",
+	"State": "VA",
+	"latitude": 36.9798,
+	"longitude": -80.9678
+},
+{
+	"City": "McMullin",
+	"State": "VA",
+	"latitude": 36.8179,
+	"longitude": -81.5775
+},
+{
+	"City": "Floyd",
+	"State": "VA",
+	"latitude": 36.9118,
+	"longitude": -80.3184
+},
+{
+	"City": "Tasley",
+	"State": "VA",
+	"latitude": 37.7125,
+	"longitude": -75.6971
+},
+{
+	"City": "Troutville",
+	"State": "VA",
+	"latitude": 37.4168,
+	"longitude": -79.8779
+},
+{
+	"City": "Savageville",
+	"State": "VA",
+	"latitude": 37.6826,
+	"longitude": -75.7591
+},
+{
+	"City": "Boydton",
+	"State": "VA",
+	"latitude": 36.666,
+	"longitude": -78.3908
+},
+{
+	"City": "Sedley",
+	"State": "VA",
+	"latitude": 36.7753,
+	"longitude": -76.9862
+},
+{
+	"City": "Burkeville",
+	"State": "VA",
+	"latitude": 37.1879,
+	"longitude": -78.2012
+},
+{
+	"City": "Keokee",
+	"State": "VA",
+	"latitude": 36.8622,
+	"longitude": -82.9161
+},
+{
+	"City": "Irvington",
+	"State": "VA",
+	"latitude": 37.6621,
+	"longitude": -76.4205
+},
+{
+	"City": "Cumberland",
+	"State": "VA",
+	"latitude": 37.4914,
+	"longitude": -78.2577
+},
+{
+	"City": "Montross",
+	"State": "VA",
+	"latitude": 38.0941,
+	"longitude": -76.8227
+},
+{
+	"City": "Melfa",
+	"State": "VA",
+	"latitude": 37.6489,
+	"longitude": -75.7407
+},
+{
+	"City": "Stanardsville",
+	"State": "VA",
+	"latitude": 38.2991,
+	"longitude": -78.4367
+},
+{
+	"City": "Draper",
+	"State": "VA",
+	"latitude": 37.0012,
+	"longitude": -80.7373
+},
+{
+	"City": "Clover",
+	"State": "VA",
+	"latitude": 36.839,
+	"longitude": -78.7284
+},
+{
+	"City": "Goshen",
+	"State": "VA",
+	"latitude": 37.9901,
+	"longitude": -79.5067
+},
+{
+	"City": "Bloxom",
+	"State": "VA",
+	"latitude": 37.8292,
+	"longitude": -75.6214
+},
+{
+	"City": "King William",
+	"State": "VA",
+	"latitude": 37.6882,
+	"longitude": -77.0212
+},
+{
+	"City": "Nickelsville",
+	"State": "VA",
+	"latitude": 36.7517,
+	"longitude": -82.416
+},
+{
+	"City": "Bland",
+	"State": "VA",
+	"latitude": 37.1,
+	"longitude": -81.1161
+},
+{
+	"City": "Iron Gate",
+	"State": "VA",
+	"latitude": 37.7985,
+	"longitude": -79.7903
+},
+{
+	"City": "Sussex",
+	"State": "VA",
+	"latitude": 36.9173,
+	"longitude": -77.2719
+},
+{
+	"City": "Gwynn",
+	"State": "VA",
+	"latitude": 37.4984,
+	"longitude": -76.2883
+},
+{
+	"City": "Pocahontas",
+	"State": "VA",
+	"latitude": 37.3071,
+	"longitude": -81.3438
+},
+{
+	"City": "Powhatan",
+	"State": "VA",
+	"latitude": 37.5427,
+	"longitude": -77.9267
+},
+{
+	"City": "Fincastle",
+	"State": "VA",
+	"latitude": 37.4994,
+	"longitude": -79.8757
+},
+{
+	"City": "Eastville",
+	"State": "VA",
+	"latitude": 37.3511,
+	"longitude": -75.9416
+},
+{
+	"City": "Claremont",
+	"State": "VA",
+	"latitude": 37.2273,
+	"longitude": -76.9666
+},
+{
+	"City": "Flint Hill",
+	"State": "VA",
+	"latitude": 38.7666,
+	"longitude": -78.1028
+},
+{
+	"City": "Shipman",
+	"State": "VA",
+	"latitude": 37.7272,
+	"longitude": -78.8423
+},
+{
+	"City": "Quinby",
+	"State": "VA",
+	"latitude": 37.5533,
+	"longitude": -75.7368
+},
+{
+	"City": "White Stone",
+	"State": "VA",
+	"latitude": 37.644,
+	"longitude": -76.3897
+},
+{
+	"City": "Chase Crossing",
+	"State": "VA",
+	"latitude": 37.7604,
+	"longitude": -75.6658
+},
+{
+	"City": "Yorktown",
+	"State": "VA",
+	"latitude": 37.2352,
+	"longitude": -76.5146
+},
+{
+	"City": "Makemie Park",
+	"State": "VA",
+	"latitude": 37.9106,
+	"longitude": -75.5845
+},
+{
+	"City": "Ivor",
+	"State": "VA",
+	"latitude": 36.9052,
+	"longitude": -76.8978
+},
+{
+	"City": "Hiwassee",
+	"State": "VA",
+	"latitude": 36.9682,
+	"longitude": -80.7044
+},
+{
+	"City": "Southampton Meadows",
+	"State": "VA",
+	"latitude": 36.5916,
+	"longitude": -76.9293
+},
+{
+	"City": "Dungannon",
+	"State": "VA",
+	"latitude": 36.8285,
+	"longitude": -82.4681
+},
+{
+	"City": "Newsoms",
+	"State": "VA",
+	"latitude": 36.6262,
+	"longitude": -77.1248
+},
+{
+	"City": "Clinchco",
+	"State": "VA",
+	"latitude": 37.1588,
+	"longitude": -82.3562
+},
+{
+	"City": "Clifton",
+	"State": "VA",
+	"latitude": 38.7802,
+	"longitude": -77.3866
+},
+{
+	"City": "Callaghan",
+	"State": "VA",
+	"latitude": 37.8112,
+	"longitude": -80.0871
+},
+{
+	"City": "Toms Brook",
+	"State": "VA",
+	"latitude": 38.9466,
+	"longitude": -78.44
+},
+{
+	"City": "Bayside",
+	"State": "VA",
+	"latitude": 37.7548,
+	"longitude": -75.7129
+},
+{
+	"City": "Alberta",
+	"State": "VA",
+	"latitude": 36.8552,
+	"longitude": -77.8937
+},
+{
+	"City": "Brodnax",
+	"State": "VA",
+	"latitude": 36.7033,
+	"longitude": -78.0318
+},
+{
+	"City": "Free Union",
+	"State": "VA",
+	"latitude": 38.1539,
+	"longitude": -78.5595
+},
+{
+	"City": "Temperanceville",
+	"State": "VA",
+	"latitude": 37.8991,
+	"longitude": -75.5526
+},
+{
+	"City": "Parrott",
+	"State": "VA",
+	"latitude": 37.2168,
+	"longitude": -80.6242
+},
+{
+	"City": "Dendron",
+	"State": "VA",
+	"latitude": 37.0364,
+	"longitude": -76.924
+},
+{
+	"City": "Vansant",
+	"State": "VA",
+	"latitude": 37.2358,
+	"longitude": -82.096
+},
+{
+	"City": "Madison",
+	"State": "VA",
+	"latitude": 38.3794,
+	"longitude": -78.2586
+},
+{
+	"City": "Schuyler",
+	"State": "VA",
+	"latitude": 37.7939,
+	"longitude": -78.7002
+},
+{
+	"City": "Ebony",
+	"State": "VA",
+	"latitude": 36.5759,
+	"longitude": -77.984
+},
+{
+	"City": "The Plains",
+	"State": "VA",
+	"latitude": 38.8621,
+	"longitude": -77.7741
+},
+{
+	"City": "Boones Mill",
+	"State": "VA",
+	"latitude": 37.1156,
+	"longitude": -79.9514
+},
+{
+	"City": "Saxis",
+	"State": "VA",
+	"latitude": 37.9261,
+	"longitude": -75.7224
+},
+{
+	"City": "Pungoteague",
+	"State": "VA",
+	"latitude": 37.6291,
+	"longitude": -75.8172
+},
+{
+	"City": "Pamplin City",
+	"State": "VA",
+	"latitude": 37.2642,
+	"longitude": -78.682
+},
+{
+	"City": "Sperryville",
+	"State": "VA",
+	"latitude": 38.6562,
+	"longitude": -78.2322
+},
+{
+	"City": "Painter",
+	"State": "VA",
+	"latitude": 37.5852,
+	"longitude": -75.7837
+},
+{
+	"City": "Wachapreague",
+	"State": "VA",
+	"latitude": 37.6064,
+	"longitude": -75.6898
+},
+{
+	"City": "Hanover",
+	"State": "VA",
+	"latitude": 37.7668,
+	"longitude": -77.3706
+},
+{
+	"City": "Harborton",
+	"State": "VA",
+	"latitude": 37.6596,
+	"longitude": -75.8332
+},
+{
+	"City": "Surry",
+	"State": "VA",
+	"latitude": 37.1371,
+	"longitude": -76.8333
+},
+{
+	"City": "Phenix",
+	"State": "VA",
+	"latitude": 37.0811,
+	"longitude": -78.7485
+},
+{
+	"City": "Augusta Springs",
+	"State": "VA",
+	"latitude": 38.1079,
+	"longitude": -79.3352
+},
+{
+	"City": "Low Moor",
+	"State": "VA",
+	"latitude": 37.7943,
+	"longitude": -79.8706
+},
+{
+	"City": "Port Royal",
+	"State": "VA",
+	"latitude": 38.1657,
+	"longitude": -77.1989
+},
+{
+	"City": "Big Island",
+	"State": "VA",
+	"latitude": 37.5351,
+	"longitude": -79.3615
+},
+{
+	"City": "Lunenburg",
+	"State": "VA",
+	"latitude": 36.9584,
+	"longitude": -78.2682
+},
+{
+	"City": "Nathalie",
+	"State": "VA",
+	"latitude": 36.9381,
+	"longitude": -78.9422
+},
+{
+	"City": "Hallwood",
+	"State": "VA",
+	"latitude": 37.8774,
+	"longitude": -75.5898
+},
+{
+	"City": "Belspring",
+	"State": "VA",
+	"latitude": 37.1939,
+	"longitude": -80.6097
+},
+{
+	"City": "Ewing",
+	"State": "VA",
+	"latitude": 36.6381,
+	"longitude": -83.4291
+},
+{
+	"City": "Greenbush",
+	"State": "VA",
+	"latitude": 37.7397,
+	"longitude": -75.6796
+},
+{
+	"City": "Stony Creek",
+	"State": "VA",
+	"latitude": 36.948,
+	"longitude": -77.4
+},
+{
+	"City": "Cleveland",
+	"State": "VA",
+	"latitude": 36.9434,
+	"longitude": -82.1527
+},
+{
+	"City": "Carrsville",
+	"State": "VA",
+	"latitude": 36.7088,
+	"longitude": -76.8371
+},
+{
+	"City": "Churchville",
+	"State": "VA",
+	"latitude": 38.2247,
+	"longitude": -79.1619
+},
+{
+	"City": "Whitesville",
+	"State": "VA",
+	"latitude": 37.7816,
+	"longitude": -75.6636
+},
+{
+	"City": "Gargatha",
+	"State": "VA",
+	"latitude": 37.7905,
+	"longitude": -75.5819
+},
+{
+	"City": "Hillsboro",
+	"State": "VA",
+	"latitude": 39.1987,
+	"longitude": -77.7239
+},
+{
+	"City": "Keller",
+	"State": "VA",
+	"latitude": 37.6212,
+	"longitude": -75.7644
+},
+{
+	"City": "Troutdale",
+	"State": "VA",
+	"latitude": 36.7022,
+	"longitude": -81.4413
+},
+{
+	"City": "Scotland",
+	"State": "VA",
+	"latitude": 37.1812,
+	"longitude": -76.7966
+},
+{
+	"City": "Catlett",
+	"State": "VA",
+	"latitude": 38.654,
+	"longitude": -77.637
+},
+{
+	"City": "Templeton",
+	"State": "VA",
+	"latitude": 37.0811,
+	"longitude": -77.3563
+},
+{
+	"City": "Yogaville",
+	"State": "VA",
+	"latitude": 37.6654,
+	"longitude": -78.6946
+},
+{
+	"City": "Thynedale",
+	"State": "VA",
+	"latitude": 36.8182,
+	"longitude": -78.4774
+},
+{
+	"City": "New Castle",
+	"State": "VA",
+	"latitude": 37.5013,
+	"longitude": -80.1119
+},
+{
+	"City": "Fairview",
+	"State": "VA",
+	"latitude": 36.8292,
+	"longitude": -78.4653
+},
+{
+	"City": "Capron",
+	"State": "VA",
+	"latitude": 36.7093,
+	"longitude": -77.2013
+},
+{
+	"City": "Cats Bridge",
+	"State": "VA",
+	"latitude": 37.5491,
+	"longitude": -75.7797
+},
+{
+	"City": "Virgilina",
+	"State": "VA",
+	"latitude": 36.5463,
+	"longitude": -78.7755
+},
+{
+	"City": "Monterey",
+	"State": "VA",
+	"latitude": 38.4116,
+	"longitude": -79.5809
+},
+{
+	"City": "Modest Town",
+	"State": "VA",
+	"latitude": 37.8169,
+	"longitude": -75.561
+},
+{
+	"City": "Scottsburg",
+	"State": "VA",
+	"latitude": 36.7588,
+	"longitude": -78.7914
+},
+{
+	"City": "Washington",
+	"State": "VA",
+	"latitude": 38.7121,
+	"longitude": -78.1599
+},
+{
+	"City": "Columbia",
+	"State": "VA",
+	"latitude": 37.7538,
+	"longitude": -78.1632
+},
+{
+	"City": "Bobtown",
+	"State": "VA",
+	"latitude": 37.6493,
+	"longitude": -75.7998
+},
+{
+	"City": "Southside Chesconessex",
+	"State": "VA",
+	"latitude": 37.7439,
+	"longitude": -75.7786
+},
+{
+	"City": "Branchville",
+	"State": "VA",
+	"latitude": 36.57,
+	"longitude": -77.2501
+},
+{
+	"City": "Middlebrook",
+	"State": "VA",
+	"latitude": 38.0552,
+	"longitude": -79.2182
+},
+{
+	"City": "St. Charles",
+	"State": "VA",
+	"latitude": 36.8052,
+	"longitude": -83.0575
+},
+{
+	"City": "Heathsville",
+	"State": "VA",
+	"latitude": 37.92,
+	"longitude": -76.4785
+},
+{
+	"City": "Calverton",
+	"State": "VA",
+	"latitude": 38.6355,
+	"longitude": -77.6661
+},
+{
+	"City": "Deerfield",
+	"State": "VA",
+	"latitude": 38.1954,
+	"longitude": -79.4105
+},
+{
+	"City": "King and Queen Court House",
+	"State": "VA",
+	"latitude": 37.6683,
+	"longitude": -76.8782
+},
+{
+	"City": "Union Level",
+	"State": "VA",
+	"latitude": 36.7071,
+	"longitude": -78.2319
+},
+{
+	"City": "Palmyra",
+	"State": "VA",
+	"latitude": 37.8652,
+	"longitude": -78.2627
+},
+{
+	"City": "Warfield",
+	"State": "VA",
+	"latitude": 36.8976,
+	"longitude": -77.8194
+},
+{
+	"City": "Nottoway Court House",
+	"State": "VA",
+	"latitude": 37.1272,
+	"longitude": -78.0734
+},
+{
+	"City": "Oak Hall",
+	"State": "VA",
+	"latitude": 37.9308,
+	"longitude": -75.5469
+},
+{
+	"City": "Glen Lyn",
+	"State": "VA",
+	"latitude": 37.3727,
+	"longitude": -80.858
+},
+{
+	"City": "Sanford",
+	"State": "VA",
+	"latitude": 37.9299,
+	"longitude": -75.662
+},
+{
+	"City": "Midland",
+	"State": "VA",
+	"latitude": 38.5984,
+	"longitude": -77.7213
+},
+{
+	"City": "New Church",
+	"State": "VA",
+	"latitude": 37.9826,
+	"longitude": -75.5291
+},
+{
+	"City": "Allisonia",
+	"State": "VA",
+	"latitude": 36.9342,
+	"longitude": -80.7255
+},
+{
+	"City": "Duffield",
+	"State": "VA",
+	"latitude": 36.7197,
+	"longitude": -82.7962
+},
+{
+	"City": "Snowville",
+	"State": "VA",
+	"latitude": 37.026,
+	"longitude": -80.5739
+},
+{
+	"City": "Baskerville",
+	"State": "VA",
+	"latitude": 36.6844,
+	"longitude": -78.2732
+},
+{
+	"City": "Lee Mont",
+	"State": "VA",
+	"latitude": 37.7799,
+	"longitude": -75.6802
+},
+{
+	"City": "Mappsburg",
+	"State": "VA",
+	"latitude": 37.576,
+	"longitude": -75.7593
+},
+{
+	"City": "Clinchport",
+	"State": "VA",
+	"latitude": 36.6781,
+	"longitude": -82.7451
+},
+{
+	"City": "Savage Town",
+	"State": "VA",
+	"latitude": 37.55,
+	"longitude": -75.7983
+},
+{
+	"City": "Charles City",
+	"State": "VA",
+	"latitude": 37.3441,
+	"longitude": -77.0687
+},
+{
+	"City": "Buckingham Courthouse",
+	"State": "VA",
+	"latitude": 37.5541,
+	"longitude": -78.5514
+},
+{
+	"City": "Lancaster",
+	"State": "VA",
+	"latitude": 37.7675,
+	"longitude": -76.4549
+},
+{
+	"City": "Fancy Gap",
+	"State": "VA",
+	"latitude": 36.6771,
+	"longitude": -80.6997
+},
+{
+	"City": "Deep Creek",
+	"State": "VA",
+	"latitude": 37.763,
+	"longitude": -75.7549
+},
+{
+	"City": "Greenbackville",
+	"State": "VA",
+	"latitude": 38.0105,
+	"longitude": -75.3869
+}]

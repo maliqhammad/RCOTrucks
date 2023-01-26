@@ -1,0 +1,1117 @@
+[
+{
+	"City": "Cheyenne",
+	"State": "WY",
+	"latitude": 41.1351,
+	"longitude": -104.79
+},
+{
+	"City": "Casper",
+	"State": "WY",
+	"latitude": 42.842,
+	"longitude": -106.3207
+},
+{
+	"City": "Gillette",
+	"State": "WY",
+	"latitude": 44.2752,
+	"longitude": -105.4983
+},
+{
+	"City": "Laramie",
+	"State": "WY",
+	"latitude": 41.3099,
+	"longitude": -105.6085
+},
+{
+	"City": "Rock Springs",
+	"State": "WY",
+	"latitude": 41.5951,
+	"longitude": -109.2238
+},
+{
+	"City": "Sheridan",
+	"State": "WY",
+	"latitude": 44.7962,
+	"longitude": -106.9643
+},
+{
+	"City": "Jackson",
+	"State": "WY",
+	"latitude": 43.4721,
+	"longitude": -110.7745
+},
+{
+	"City": "Riverton",
+	"State": "WY",
+	"latitude": 43.0421,
+	"longitude": -108.414
+},
+{
+	"City": "Green River",
+	"State": "WY",
+	"latitude": 41.5124,
+	"longitude": -109.4708
+},
+{
+	"City": "Evanston",
+	"State": "WY",
+	"latitude": 41.2602,
+	"longitude": -110.9646
+},
+{
+	"City": "Cody",
+	"State": "WY",
+	"latitude": 44.5212,
+	"longitude": -109.0549
+},
+{
+	"City": "Rawlins",
+	"State": "WY",
+	"latitude": 41.7849,
+	"longitude": -107.2265
+},
+{
+	"City": "Lander",
+	"State": "WY",
+	"latitude": 42.8313,
+	"longitude": -108.7599
+},
+{
+	"City": "Torrington",
+	"State": "WY",
+	"latitude": 42.0658,
+	"longitude": -104.1623
+},
+{
+	"City": "Douglas",
+	"State": "WY",
+	"latitude": 42.7541,
+	"longitude": -105.3968
+},
+{
+	"City": "Ranchettes",
+	"State": "WY",
+	"latitude": 41.2186,
+	"longitude": -104.7729
+},
+{
+	"City": "Powell",
+	"State": "WY",
+	"latitude": 44.7958,
+	"longitude": -108.7681
+},
+{
+	"City": "Worland",
+	"State": "WY",
+	"latitude": 44.0026,
+	"longitude": -107.9543
+},
+{
+	"City": "Buffalo",
+	"State": "WY",
+	"latitude": 44.3426,
+	"longitude": -106.7139
+},
+{
+	"City": "Fox Farm-College",
+	"State": "WY",
+	"latitude": 41.1103,
+	"longitude": -104.7872
+},
+{
+	"City": "South Greeley",
+	"State": "WY",
+	"latitude": 41.0928,
+	"longitude": -104.8066
+},
+{
+	"City": "Mills",
+	"State": "WY",
+	"latitude": 42.8473,
+	"longitude": -106.383
+},
+{
+	"City": "Wheatland",
+	"State": "WY",
+	"latitude": 42.0516,
+	"longitude": -104.9595
+},
+{
+	"City": "Newcastle",
+	"State": "WY",
+	"latitude": 43.851,
+	"longitude": -104.2123
+},
+{
+	"City": "Kemmerer",
+	"State": "WY",
+	"latitude": 41.7761,
+	"longitude": -110.5555
+},
+{
+	"City": "Thermopolis",
+	"State": "WY",
+	"latitude": 43.6479,
+	"longitude": -108.2139
+},
+{
+	"City": "Evansville",
+	"State": "WY",
+	"latitude": 42.868,
+	"longitude": -106.2525
+},
+{
+	"City": "Bar Nunn",
+	"State": "WY",
+	"latitude": 42.922,
+	"longitude": -106.3475
+},
+{
+	"City": "Glenrock",
+	"State": "WY",
+	"latitude": 42.8565,
+	"longitude": -105.8624
+},
+{
+	"City": "North Rock Springs",
+	"State": "WY",
+	"latitude": 41.6698,
+	"longitude": -109.2714
+},
+{
+	"City": "Warren AFB",
+	"State": "WY",
+	"latitude": 41.1488,
+	"longitude": -104.8618
+},
+{
+	"City": "Lovell",
+	"State": "WY",
+	"latitude": 44.8357,
+	"longitude": -108.3919
+},
+{
+	"City": "Lyman",
+	"State": "WY",
+	"latitude": 41.3275,
+	"longitude": -110.2975
+},
+{
+	"City": "Afton",
+	"State": "WY",
+	"latitude": 42.7271,
+	"longitude": -110.9315
+},
+{
+	"City": "Pinedale",
+	"State": "WY",
+	"latitude": 42.8676,
+	"longitude": -109.8706
+},
+{
+	"City": "Greybull",
+	"State": "WY",
+	"latitude": 44.4887,
+	"longitude": -108.0592
+},
+{
+	"City": "Arapahoe",
+	"State": "WY",
+	"latitude": 42.9912,
+	"longitude": -108.4562
+},
+{
+	"City": "South Park",
+	"State": "WY",
+	"latitude": 43.4235,
+	"longitude": -110.7993
+},
+{
+	"City": "Wright",
+	"State": "WY",
+	"latitude": 43.7484,
+	"longitude": -105.4963
+},
+{
+	"City": "Rafter J Ranch",
+	"State": "WY",
+	"latitude": 43.4317,
+	"longitude": -110.7922
+},
+{
+	"City": "Fort Washakie",
+	"State": "WY",
+	"latitude": 43.0069,
+	"longitude": -108.9205
+},
+{
+	"City": "Star Valley Ranch",
+	"State": "WY",
+	"latitude": 42.9798,
+	"longitude": -110.9617
+},
+{
+	"City": "Saratoga",
+	"State": "WY",
+	"latitude": 41.4517,
+	"longitude": -106.8107
+},
+{
+	"City": "Lusk",
+	"State": "WY",
+	"latitude": 42.7612,
+	"longitude": -104.4583
+},
+{
+	"City": "Ethete",
+	"State": "WY",
+	"latitude": 43.0008,
+	"longitude": -108.723
+},
+{
+	"City": "Wilson",
+	"State": "WY",
+	"latitude": 43.486,
+	"longitude": -110.8937
+},
+{
+	"City": "Hoback",
+	"State": "WY",
+	"latitude": 43.3082,
+	"longitude": -110.7443
+},
+{
+	"City": "Moose Wilson Road",
+	"State": "WY",
+	"latitude": 43.5315,
+	"longitude": -110.834
+},
+{
+	"City": "Sleepy Hollow",
+	"State": "WY",
+	"latitude": 44.2327,
+	"longitude": -105.4309
+},
+{
+	"City": "Sundance",
+	"State": "WY",
+	"latitude": 44.4048,
+	"longitude": -104.3623
+},
+{
+	"City": "Basin",
+	"State": "WY",
+	"latitude": 44.3804,
+	"longitude": -108.0466
+},
+{
+	"City": "Mountain View",
+	"State": "WY",
+	"latitude": 41.2723,
+	"longitude": -110.3344
+},
+{
+	"City": "Clearview Acres",
+	"State": "WY",
+	"latitude": 41.5842,
+	"longitude": -109.2801
+},
+{
+	"City": "Pine Bluffs",
+	"State": "WY",
+	"latitude": 41.1803,
+	"longitude": -104.0692
+},
+{
+	"City": "Guernsey",
+	"State": "WY",
+	"latitude": 42.2657,
+	"longitude": -104.743
+},
+{
+	"City": "Marbleton",
+	"State": "WY",
+	"latitude": 42.5574,
+	"longitude": -110.1004
+},
+{
+	"City": "Moorcroft",
+	"State": "WY",
+	"latitude": 44.2643,
+	"longitude": -104.9473
+},
+{
+	"City": "Upton",
+	"State": "WY",
+	"latitude": 44.1025,
+	"longitude": -104.6374
+},
+{
+	"City": "Ranchester",
+	"State": "WY",
+	"latitude": 44.9075,
+	"longitude": -107.1674
+},
+{
+	"City": "Dubois",
+	"State": "WY",
+	"latitude": 43.5389,
+	"longitude": -109.6443
+},
+{
+	"City": "Alpine",
+	"State": "WY",
+	"latitude": 43.1631,
+	"longitude": -111.0196
+},
+{
+	"City": "Vista West",
+	"State": "WY",
+	"latitude": 42.8622,
+	"longitude": -106.4363
+},
+{
+	"City": "Casper Mountain",
+	"State": "WY",
+	"latitude": 42.7448,
+	"longitude": -106.3206
+},
+{
+	"City": "Dayton",
+	"State": "WY",
+	"latitude": 44.8732,
+	"longitude": -107.2624
+},
+{
+	"City": "Purple Sage",
+	"State": "WY",
+	"latitude": 41.5515,
+	"longitude": -109.3199
+},
+{
+	"City": "Red Butte",
+	"State": "WY",
+	"latitude": 42.8051,
+	"longitude": -106.4339
+},
+{
+	"City": "Hartrandt",
+	"State": "WY",
+	"latitude": 42.8836,
+	"longitude": -106.3492
+},
+{
+	"City": "Hanna",
+	"State": "WY",
+	"latitude": 41.8698,
+	"longitude": -106.5596
+},
+{
+	"City": "Cowley",
+	"State": "WY",
+	"latitude": 44.8834,
+	"longitude": -108.4693
+},
+{
+	"City": "Diamondville",
+	"State": "WY",
+	"latitude": 41.7771,
+	"longitude": -110.5357
+},
+{
+	"City": "Osmond",
+	"State": "WY",
+	"latitude": 42.6777,
+	"longitude": -110.9408
+},
+{
+	"City": "James Town",
+	"State": "WY",
+	"latitude": 41.5651,
+	"longitude": -109.5392
+},
+{
+	"City": "Story",
+	"State": "WY",
+	"latitude": 44.5731,
+	"longitude": -106.9142
+},
+{
+	"City": "Shoshoni",
+	"State": "WY",
+	"latitude": 43.238,
+	"longitude": -108.1068
+},
+{
+	"City": "Byron",
+	"State": "WY",
+	"latitude": 44.7964,
+	"longitude": -108.5081
+},
+{
+	"City": "La Barge",
+	"State": "WY",
+	"latitude": 42.2605,
+	"longitude": -110.1971
+},
+{
+	"City": "Ralston",
+	"State": "WY",
+	"latitude": 44.7085,
+	"longitude": -108.8823
+},
+{
+	"City": "Cokeville",
+	"State": "WY",
+	"latitude": 42.068,
+	"longitude": -110.9607
+},
+{
+	"City": "Pine Haven",
+	"State": "WY",
+	"latitude": 44.3534,
+	"longitude": -104.8104
+},
+{
+	"City": "Big Piney",
+	"State": "WY",
+	"latitude": 42.5401,
+	"longitude": -110.1192
+},
+{
+	"City": "Bear River",
+	"State": "WY",
+	"latitude": 41.3859,
+	"longitude": -111.0271
+},
+{
+	"City": "Big Horn",
+	"State": "WY",
+	"latitude": 44.6791,
+	"longitude": -106.9971
+},
+{
+	"City": "Auburn",
+	"State": "WY",
+	"latitude": 42.7943,
+	"longitude": -111.0135
+},
+{
+	"City": "Wamsutter",
+	"State": "WY",
+	"latitude": 41.6679,
+	"longitude": -107.979
+},
+{
+	"City": "Lucerne",
+	"State": "WY",
+	"latitude": 43.7136,
+	"longitude": -108.1873
+},
+{
+	"City": "Alta",
+	"State": "WY",
+	"latitude": 43.7737,
+	"longitude": -111.0312
+},
+{
+	"City": "Lingle",
+	"State": "WY",
+	"latitude": 42.1387,
+	"longitude": -104.3461
+},
+{
+	"City": "Hudson",
+	"State": "WY",
+	"latitude": 42.9028,
+	"longitude": -108.5819
+},
+{
+	"City": "La Grange",
+	"State": "WY",
+	"latitude": 41.6384,
+	"longitude": -104.163
+},
+{
+	"City": "Teton Village",
+	"State": "WY",
+	"latitude": 43.5931,
+	"longitude": -110.8441
+},
+{
+	"City": "Grover",
+	"State": "WY",
+	"latitude": 42.7947,
+	"longitude": -110.9294
+},
+{
+	"City": "Hulett",
+	"State": "WY",
+	"latitude": 44.6828,
+	"longitude": -104.5982
+},
+{
+	"City": "Encampment",
+	"State": "WY",
+	"latitude": 41.2088,
+	"longitude": -106.7948
+},
+{
+	"City": "Rolling Hills",
+	"State": "WY",
+	"latitude": 42.9037,
+	"longitude": -105.8431
+},
+{
+	"City": "Baggs",
+	"State": "WY",
+	"latitude": 41.0345,
+	"longitude": -107.6574
+},
+{
+	"City": "Sinclair",
+	"State": "WY",
+	"latitude": 41.7761,
+	"longitude": -107.1199
+},
+{
+	"City": "Midwest",
+	"State": "WY",
+	"latitude": 43.4113,
+	"longitude": -106.2772
+},
+{
+	"City": "Thayne",
+	"State": "WY",
+	"latitude": 42.9194,
+	"longitude": -110.997
+},
+{
+	"City": "Reliance",
+	"State": "WY",
+	"latitude": 41.6682,
+	"longitude": -109.1977
+},
+{
+	"City": "Carpenter",
+	"State": "WY",
+	"latitude": 41.0456,
+	"longitude": -104.3644
+},
+{
+	"City": "Burlington",
+	"State": "WY",
+	"latitude": 44.4471,
+	"longitude": -108.432
+},
+{
+	"City": "Nordic",
+	"State": "WY",
+	"latitude": 43.0793,
+	"longitude": -110.9913
+},
+{
+	"City": "Meeteetse",
+	"State": "WY",
+	"latitude": 44.1543,
+	"longitude": -108.8612
+},
+{
+	"City": "Urie",
+	"State": "WY",
+	"latitude": 41.3089,
+	"longitude": -110.3351
+},
+{
+	"City": "Burns",
+	"State": "WY",
+	"latitude": 41.1909,
+	"longitude": -104.359
+},
+{
+	"City": "Superior",
+	"State": "WY",
+	"latitude": 41.7595,
+	"longitude": -108.9643
+},
+{
+	"City": "Centennial",
+	"State": "WY",
+	"latitude": 41.3005,
+	"longitude": -106.1355
+},
+{
+	"City": "Bedford",
+	"State": "WY",
+	"latitude": 42.8983,
+	"longitude": -110.9432
+},
+{
+	"City": "Kaycee",
+	"State": "WY",
+	"latitude": 43.71,
+	"longitude": -106.6372
+},
+{
+	"City": "Freedom",
+	"State": "WY",
+	"latitude": 42.9854,
+	"longitude": -111.0296
+},
+{
+	"City": "Medicine Bow",
+	"State": "WY",
+	"latitude": 41.8995,
+	"longitude": -106.2019
+},
+{
+	"City": "Rock River",
+	"State": "WY",
+	"latitude": 41.7317,
+	"longitude": -105.9752
+},
+{
+	"City": "Ten Sleep",
+	"State": "WY",
+	"latitude": 44.0349,
+	"longitude": -107.4483
+},
+{
+	"City": "Boulder Flats",
+	"State": "WY",
+	"latitude": 42.9156,
+	"longitude": -108.7993
+},
+{
+	"City": "Homa Hills",
+	"State": "WY",
+	"latitude": 42.9857,
+	"longitude": -106.3719
+},
+{
+	"City": "East Thermopolis",
+	"State": "WY",
+	"latitude": 43.6441,
+	"longitude": -108.198
+},
+{
+	"City": "Bessemer Bend",
+	"State": "WY",
+	"latitude": 42.7576,
+	"longitude": -106.5237
+},
+{
+	"City": "Pavillion",
+	"State": "WY",
+	"latitude": 43.244,
+	"longitude": -108.689
+},
+{
+	"City": "Fort Laramie",
+	"State": "WY",
+	"latitude": 42.2133,
+	"longitude": -104.5178
+},
+{
+	"City": "Smoot",
+	"State": "WY",
+	"latitude": 42.6191,
+	"longitude": -110.9197
+},
+{
+	"City": "Chugcreek",
+	"State": "WY",
+	"latitude": 42.0535,
+	"longitude": -104.9079
+},
+{
+	"City": "Albin",
+	"State": "WY",
+	"latitude": 41.4174,
+	"longitude": -104.1019
+},
+{
+	"City": "Edgerton",
+	"State": "WY",
+	"latitude": 43.4142,
+	"longitude": -106.2477
+},
+{
+	"City": "Garland",
+	"State": "WY",
+	"latitude": 44.7777,
+	"longitude": -108.6542
+},
+{
+	"City": "Glendo",
+	"State": "WY",
+	"latitude": 42.5048,
+	"longitude": -105.0249
+},
+{
+	"City": "Chugwater",
+	"State": "WY",
+	"latitude": 41.7558,
+	"longitude": -104.8229
+},
+{
+	"City": "Eden",
+	"State": "WY",
+	"latitude": 42.0601,
+	"longitude": -109.4391
+},
+{
+	"City": "Elk Mountain",
+	"State": "WY",
+	"latitude": 41.6883,
+	"longitude": -106.4135
+},
+{
+	"City": "Johnstown",
+	"State": "WY",
+	"latitude": 43.1118,
+	"longitude": -108.6955
+},
+{
+	"City": "Deaver",
+	"State": "WY",
+	"latitude": 44.889,
+	"longitude": -108.596
+},
+{
+	"City": "Fort Bridger",
+	"State": "WY",
+	"latitude": 41.3183,
+	"longitude": -110.3894
+},
+{
+	"City": "Brookhurst",
+	"State": "WY",
+	"latitude": 42.8618,
+	"longitude": -106.2272
+},
+{
+	"City": "Alpine Northwest",
+	"State": "WY",
+	"latitude": 43.1816,
+	"longitude": -111.0344
+},
+{
+	"City": "Frannie",
+	"State": "WY",
+	"latitude": 44.971,
+	"longitude": -108.6205
+},
+{
+	"City": "Clearmont",
+	"State": "WY",
+	"latitude": 44.6399,
+	"longitude": -106.3812
+},
+{
+	"City": "Yoder",
+	"State": "WY",
+	"latitude": 41.917,
+	"longitude": -104.2956
+},
+{
+	"City": "Osage",
+	"State": "WY",
+	"latitude": 43.9848,
+	"longitude": -104.4269
+},
+{
+	"City": "Crowheart",
+	"State": "WY",
+	"latitude": 43.3398,
+	"longitude": -109.2298
+},
+{
+	"City": "Farson",
+	"State": "WY",
+	"latitude": 42.1528,
+	"longitude": -109.4283
+},
+{
+	"City": "Whiting",
+	"State": "WY",
+	"latitude": 42.0089,
+	"longitude": -104.9711
+},
+{
+	"City": "Meadow Acres",
+	"State": "WY",
+	"latitude": 42.8593,
+	"longitude": -106.0953
+},
+{
+	"City": "Granger",
+	"State": "WY",
+	"latitude": 41.597,
+	"longitude": -109.9627
+},
+{
+	"City": "Parkman",
+	"State": "WY",
+	"latitude": 44.9488,
+	"longitude": -107.3077
+},
+{
+	"City": "Kelly",
+	"State": "WY",
+	"latitude": 43.6228,
+	"longitude": -110.6274
+},
+{
+	"City": "Arrowhead Springs",
+	"State": "WY",
+	"latitude": 41.5081,
+	"longitude": -109.1551
+},
+{
+	"City": "Y-O Ranch",
+	"State": "WY",
+	"latitude": 42.0351,
+	"longitude": -104.9229
+},
+{
+	"City": "Manderson",
+	"State": "WY",
+	"latitude": 44.2699,
+	"longitude": -107.9641
+},
+{
+	"City": "Woods Landing-Jelm",
+	"State": "WY",
+	"latitude": 41.1014,
+	"longitude": -106.0288
+},
+{
+	"City": "Taylor",
+	"State": "WY",
+	"latitude": 42.0703,
+	"longitude": -110.9899
+},
+{
+	"City": "Opal",
+	"State": "WY",
+	"latitude": 41.768,
+	"longitude": -110.3242
+},
+{
+	"City": "Turnerville",
+	"State": "WY",
+	"latitude": 42.8622,
+	"longitude": -110.9007
+},
+{
+	"City": "Fairview",
+	"State": "WY",
+	"latitude": 42.6871,
+	"longitude": -110.9866
+},
+{
+	"City": "Lakeview North",
+	"State": "WY",
+	"latitude": 42.0969,
+	"longitude": -104.9586
+},
+{
+	"City": "Bairoil",
+	"State": "WY",
+	"latitude": 42.2372,
+	"longitude": -107.5611
+},
+{
+	"City": "Hyattville",
+	"State": "WY",
+	"latitude": 44.2498,
+	"longitude": -107.6148
+},
+{
+	"City": "Shell",
+	"State": "WY",
+	"latitude": 44.5346,
+	"longitude": -107.7843
+},
+{
+	"City": "Daniel",
+	"State": "WY",
+	"latitude": 42.8658,
+	"longitude": -110.0767
+},
+{
+	"City": "Dixon",
+	"State": "WY",
+	"latitude": 41.0344,
+	"longitude": -107.5355
+},
+{
+	"City": "Slater",
+	"State": "WY",
+	"latitude": 41.8776,
+	"longitude": -104.7887
+},
+{
+	"City": "Orin",
+	"State": "WY",
+	"latitude": 42.6506,
+	"longitude": -105.1827
+},
+{
+	"City": "Manville",
+	"State": "WY",
+	"latitude": 42.7794,
+	"longitude": -104.6175
+},
+{
+	"City": "Esterbrook",
+	"State": "WY",
+	"latitude": 42.4062,
+	"longitude": -105.3858
+},
+{
+	"City": "Kirby",
+	"State": "WY",
+	"latitude": 43.8033,
+	"longitude": -108.1808
+},
+{
+	"City": "Hill View Heights",
+	"State": "WY",
+	"latitude": 43.8159,
+	"longitude": -104.1517
+},
+{
+	"City": "Hartville",
+	"State": "WY",
+	"latitude": 42.3277,
+	"longitude": -104.7245
+},
+{
+	"City": "Bondurant",
+	"State": "WY",
+	"latitude": 43.1948,
+	"longitude": -110.4026
+},
+{
+	"City": "Point of Rocks",
+	"State": "WY",
+	"latitude": 41.6831,
+	"longitude": -108.7755
+},
+{
+	"City": "Alpine Northeast",
+	"State": "WY",
+	"latitude": 43.1941,
+	"longitude": -111.0073
+},
+{
+	"City": "Riverside",
+	"State": "WY",
+	"latitude": 41.2154,
+	"longitude": -106.7813
+},
+{
+	"City": "McKinnon",
+	"State": "WY",
+	"latitude": 41.0314,
+	"longitude": -109.9384
+},
+{
+	"City": "Cora",
+	"State": "WY",
+	"latitude": 42.9578,
+	"longitude": -109.9917
+},
+{
+	"City": "Mammoth",
+	"State": "WY",
+	"latitude": 44.9733,
+	"longitude": -110.6931
+},
+{
+	"City": "Veteran",
+	"State": "WY",
+	"latitude": 41.9627,
+	"longitude": -104.3863
+},
+{
+	"City": "Albany",
+	"State": "WY",
+	"latitude": 41.1868,
+	"longitude": -106.1255
+},
+{
+	"City": "Robertson",
+	"State": "WY",
+	"latitude": 41.1816,
+	"longitude": -110.4274
+},
+{
+	"City": "Little America",
+	"State": "WY",
+	"latitude": 41.547,
+	"longitude": -109.8642
+},
+{
+	"City": "Lance Creek",
+	"State": "WY",
+	"latitude": 43.041,
+	"longitude": -104.6626
+},
+{
+	"City": "Boulder",
+	"State": "WY",
+	"latitude": 42.7461,
+	"longitude": -109.7067
+},
+{
+	"City": "Jeffrey City",
+	"State": "WY",
+	"latitude": 42.4808,
+	"longitude": -107.8256
+},
+{
+	"City": "Ryan Park",
+	"State": "WY",
+	"latitude": 41.3131,
+	"longitude": -106.4895
+},
+{
+	"City": "Fontenelle",
+	"State": "WY",
+	"latitude": 41.9973,
+	"longitude": -110.0626
+},
+{
+	"City": "Arvada",
+	"State": "WY",
+	"latitude": 44.6621,
+	"longitude": -106.1419
+},
+{
+	"City": "Van Tassell",
+	"State": "WY",
+	"latitude": 42.6643,
+	"longitude": -104.0913
+},
+{
+	"City": "Fox Park",
+	"State": "WY",
+	"latitude": 41.0801,
+	"longitude": -106.1534
+},
+{
+	"City": "Hawk Springs",
+	"State": "WY",
+	"latitude": 41.7852,
+	"longitude": -104.265
+},
+{
+	"City": "Lost Springs",
+	"State": "WY",
+	"latitude": 42.7652,
+	"longitude": -104.9255
+}]

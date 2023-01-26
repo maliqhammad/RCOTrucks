@@ -1,0 +1,37 @@
+[
+{
+	"City": "Yellowknife",
+	"State": "NT",
+	"latitude": 62.4709,
+	"longitude": -114.4053
+},
+{
+	"City": "Hay River",
+	"State": "NT",
+	"latitude": 60.7531,
+	"longitude": -115.9004
+},
+{
+	"City": "Inuvik",
+	"State": "NT",
+	"latitude": 68.3407,
+	"longitude": -133.6096
+},
+{
+	"City": "Fort Smith",
+	"State": "NT",
+	"latitude": 60.026,
+	"longitude": -112.0821
+},
+{
+	"City": "BehchokÃ²",
+	"State": "NT",
+	"latitude": 62.8184,
+	"longitude": -115.9933
+},
+{
+	"City": "Fort Simpson",
+	"State": "NT",
+	"latitude": 61.8082,
+	"longitude": -121.3199
+}]

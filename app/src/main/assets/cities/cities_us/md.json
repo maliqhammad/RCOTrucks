@@ -1,0 +1,3061 @@
+[
+{
+	"City": "Baltimore",
+	"State": "MD",
+	"latitude": 39.3051,
+	"longitude": -76.6144
+},
+{
+	"City": "Hagerstown",
+	"State": "MD",
+	"latitude": 39.6401,
+	"longitude": -77.7217
+},
+{
+	"City": "Frederick",
+	"State": "MD",
+	"latitude": 39.4336,
+	"longitude": -77.4141
+},
+{
+	"City": "Salisbury",
+	"State": "MD",
+	"latitude": 38.3756,
+	"longitude": -75.5867
+},
+{
+	"City": "Columbia",
+	"State": "MD",
+	"latitude": 39.2004,
+	"longitude": -76.859
+},
+{
+	"City": "Germantown",
+	"State": "MD",
+	"latitude": 39.1755,
+	"longitude": -77.2643
+},
+{
+	"City": "Silver Spring",
+	"State": "MD",
+	"latitude": 39.0028,
+	"longitude": -77.0207
+},
+{
+	"City": "Waldorf",
+	"State": "MD",
+	"latitude": 38.6085,
+	"longitude": -76.9195
+},
+{
+	"City": "Ellicott City",
+	"State": "MD",
+	"latitude": 39.2773,
+	"longitude": -76.8344
+},
+{
+	"City": "Glen Burnie",
+	"State": "MD",
+	"latitude": 39.1559,
+	"longitude": -76.6072
+},
+{
+	"City": "Rockville",
+	"State": "MD",
+	"latitude": 39.0834,
+	"longitude": -77.1552
+},
+{
+	"City": "Gaithersburg",
+	"State": "MD",
+	"latitude": 39.1346,
+	"longitude": -77.2132
+},
+{
+	"City": "Bethesda",
+	"State": "MD",
+	"latitude": 38.9866,
+	"longitude": -77.1188
+},
+{
+	"City": "Dundalk",
+	"State": "MD",
+	"latitude": 39.2703,
+	"longitude": -76.4942
+},
+{
+	"City": "Bowie",
+	"State": "MD",
+	"latitude": 38.9569,
+	"longitude": -76.7409
+},
+{
+	"City": "Towson",
+	"State": "MD",
+	"latitude": 39.3944,
+	"longitude": -76.619
+},
+{
+	"City": "Aspen Hill",
+	"State": "MD",
+	"latitude": 39.0928,
+	"longitude": -77.0823
+},
+{
+	"City": "Severn",
+	"State": "MD",
+	"latitude": 39.1355,
+	"longitude": -76.6958
+},
+{
+	"City": "Wheaton",
+	"State": "MD",
+	"latitude": 39.0492,
+	"longitude": -77.0572
+},
+{
+	"City": "North Bethesda",
+	"State": "MD",
+	"latitude": 39.0393,
+	"longitude": -77.1191
+},
+{
+	"City": "Bel Air South",
+	"State": "MD",
+	"latitude": 39.5051,
+	"longitude": -76.3197
+},
+{
+	"City": "Cumberland",
+	"State": "MD",
+	"latitude": 39.6515,
+	"longitude": -78.7585
+},
+{
+	"City": "Potomac",
+	"State": "MD",
+	"latitude": 39.0141,
+	"longitude": -77.1943
+},
+{
+	"City": "Odenton",
+	"State": "MD",
+	"latitude": 39.0661,
+	"longitude": -76.6939
+},
+{
+	"City": "Catonsville",
+	"State": "MD",
+	"latitude": 39.2646,
+	"longitude": -76.7424
+},
+{
+	"City": "Woodlawn",
+	"State": "MD",
+	"latitude": 39.3054,
+	"longitude": -76.7489
+},
+{
+	"City": "Essex",
+	"State": "MD",
+	"latitude": 39.3024,
+	"longitude": -76.4457
+},
+{
+	"City": "Annapolis",
+	"State": "MD",
+	"latitude": 38.9706,
+	"longitude": -76.5047
+},
+{
+	"City": "Clinton",
+	"State": "MD",
+	"latitude": 38.7499,
+	"longitude": -76.9063
+},
+{
+	"City": "Severna Park",
+	"State": "MD",
+	"latitude": 39.087,
+	"longitude": -76.5687
+},
+{
+	"City": "Chillum",
+	"State": "MD",
+	"latitude": 38.9667,
+	"longitude": -76.979
+},
+{
+	"City": "Randallstown",
+	"State": "MD",
+	"latitude": 39.3723,
+	"longitude": -76.8024
+},
+{
+	"City": "Olney",
+	"State": "MD",
+	"latitude": 39.1465,
+	"longitude": -77.0715
+},
+{
+	"City": "Owings Mills",
+	"State": "MD",
+	"latitude": 39.4115,
+	"longitude": -76.7913
+},
+{
+	"City": "Montgomery Village",
+	"State": "MD",
+	"latitude": 39.1783,
+	"longitude": -77.1957
+},
+{
+	"City": "Pikesville",
+	"State": "MD",
+	"latitude": 39.3893,
+	"longitude": -76.702
+},
+{
+	"City": "College Park",
+	"State": "MD",
+	"latitude": 38.996,
+	"longitude": -76.9337
+},
+{
+	"City": "Bel Air North",
+	"State": "MD",
+	"latitude": 39.5544,
+	"longitude": -76.3733
+},
+{
+	"City": "Parkville",
+	"State": "MD",
+	"latitude": 39.3832,
+	"longitude": -76.5519
+},
+{
+	"City": "Eldersburg",
+	"State": "MD",
+	"latitude": 39.4041,
+	"longitude": -76.9529
+},
+{
+	"City": "Carney",
+	"State": "MD",
+	"latitude": 39.405,
+	"longitude": -76.5236
+},
+{
+	"City": "Milford Mill",
+	"State": "MD",
+	"latitude": 39.3444,
+	"longitude": -76.7668
+},
+{
+	"City": "Pasadena",
+	"State": "MD",
+	"latitude": 39.1552,
+	"longitude": -76.5537
+},
+{
+	"City": "Crofton",
+	"State": "MD",
+	"latitude": 39.0144,
+	"longitude": -76.68
+},
+{
+	"City": "South Laurel",
+	"State": "MD",
+	"latitude": 39.0603,
+	"longitude": -76.8456
+},
+{
+	"City": "Perry Hall",
+	"State": "MD",
+	"latitude": 39.4067,
+	"longitude": -76.4781
+},
+{
+	"City": "Reisterstown",
+	"State": "MD",
+	"latitude": 39.4552,
+	"longitude": -76.8144
+},
+{
+	"City": "Ilchester",
+	"State": "MD",
+	"latitude": 39.2187,
+	"longitude": -76.7684
+},
+{
+	"City": "Lochearn",
+	"State": "MD",
+	"latitude": 39.346,
+	"longitude": -76.7307
+},
+{
+	"City": "Laurel",
+	"State": "MD",
+	"latitude": 39.095,
+	"longitude": -76.8622
+},
+{
+	"City": "Edgewood",
+	"State": "MD",
+	"latitude": 39.421,
+	"longitude": -76.2968
+},
+{
+	"City": "Fairland",
+	"State": "MD",
+	"latitude": 39.0804,
+	"longitude": -76.9527
+},
+{
+	"City": "Middle River",
+	"State": "MD",
+	"latitude": 39.3345,
+	"longitude": -76.4318
+},
+{
+	"City": "North Laurel",
+	"State": "MD",
+	"latitude": 39.1286,
+	"longitude": -76.8476
+},
+{
+	"City": "Chesapeake Beach",
+	"State": "MD",
+	"latitude": 38.6881,
+	"longitude": -76.5448
+},
+{
+	"City": "Clarksburg",
+	"State": "MD",
+	"latitude": 39.2314,
+	"longitude": -77.2617
+},
+{
+	"City": "Suitland",
+	"State": "MD",
+	"latitude": 38.8492,
+	"longitude": -76.9225
+},
+{
+	"City": "Fort Washington",
+	"State": "MD",
+	"latitude": 38.7339,
+	"longitude": -77.0069
+},
+{
+	"City": "North Potomac",
+	"State": "MD",
+	"latitude": 39.0955,
+	"longitude": -77.2372
+},
+{
+	"City": "Arnold",
+	"State": "MD",
+	"latitude": 39.0437,
+	"longitude": -76.4974
+},
+{
+	"City": "Greenbelt",
+	"State": "MD",
+	"latitude": 38.9953,
+	"longitude": -76.8885
+},
+{
+	"City": "Landover",
+	"State": "MD",
+	"latitude": 38.9241,
+	"longitude": -76.8875
+},
+{
+	"City": "Camp Springs",
+	"State": "MD",
+	"latitude": 38.8052,
+	"longitude": -76.9198
+},
+{
+	"City": "Elkridge",
+	"State": "MD",
+	"latitude": 39.1941,
+	"longitude": -76.7427
+},
+{
+	"City": "Ballenger Creek",
+	"State": "MD",
+	"latitude": 39.3807,
+	"longitude": -77.4205
+},
+{
+	"City": "Cockeysville",
+	"State": "MD",
+	"latitude": 39.4793,
+	"longitude": -76.63
+},
+{
+	"City": "Rosedale",
+	"State": "MD",
+	"latitude": 39.3266,
+	"longitude": -76.5084
+},
+{
+	"City": "Lake Shore",
+	"State": "MD",
+	"latitude": 39.1029,
+	"longitude": -76.4876
+},
+{
+	"City": "Langley Park",
+	"State": "MD",
+	"latitude": 38.9897,
+	"longitude": -76.9808
+},
+{
+	"City": "Arbutus",
+	"State": "MD",
+	"latitude": 39.2428,
+	"longitude": -76.6922
+},
+{
+	"City": "White Oak",
+	"State": "MD",
+	"latitude": 39.0433,
+	"longitude": -76.9906
+},
+{
+	"City": "Westminster",
+	"State": "MD",
+	"latitude": 39.5796,
+	"longitude": -77.0066
+},
+{
+	"City": "Seabrook",
+	"State": "MD",
+	"latitude": 38.9802,
+	"longitude": -76.8502
+},
+{
+	"City": "Hyattsville",
+	"State": "MD",
+	"latitude": 38.9612,
+	"longitude": -76.9548
+},
+{
+	"City": "Oxon Hill",
+	"State": "MD",
+	"latitude": 38.7887,
+	"longitude": -76.9733
+},
+{
+	"City": "Easton",
+	"State": "MD",
+	"latitude": 38.776,
+	"longitude": -76.0702
+},
+{
+	"City": "Beltsville",
+	"State": "MD",
+	"latitude": 39.0394,
+	"longitude": -76.9211
+},
+{
+	"City": "Takoma Park",
+	"State": "MD",
+	"latitude": 38.981,
+	"longitude": -77.0028
+},
+{
+	"City": "Maryland City",
+	"State": "MD",
+	"latitude": 39.1016,
+	"longitude": -76.8051
+},
+{
+	"City": "Redland",
+	"State": "MD",
+	"latitude": 39.1335,
+	"longitude": -77.1465
+},
+{
+	"City": "Ferndale",
+	"State": "MD",
+	"latitude": 39.1869,
+	"longitude": -76.633
+},
+{
+	"City": "Parole",
+	"State": "MD",
+	"latitude": 38.9861,
+	"longitude": -76.5519
+},
+{
+	"City": "Glassmanor",
+	"State": "MD",
+	"latitude": 38.8181,
+	"longitude": -76.9836
+},
+{
+	"City": "Calverton",
+	"State": "MD",
+	"latitude": 39.0578,
+	"longitude": -76.9488
+},
+{
+	"City": "Glenmont",
+	"State": "MD",
+	"latitude": 39.0698,
+	"longitude": -77.0467
+},
+{
+	"City": "East Riverdale",
+	"State": "MD",
+	"latitude": 38.96,
+	"longitude": -76.9108
+},
+{
+	"City": "Hillcrest Heights",
+	"State": "MD",
+	"latitude": 38.8373,
+	"longitude": -76.9641
+},
+{
+	"City": "Adelphi",
+	"State": "MD",
+	"latitude": 39.0017,
+	"longitude": -76.9649
+},
+{
+	"City": "Aberdeen",
+	"State": "MD",
+	"latitude": 39.5146,
+	"longitude": -76.173
+},
+{
+	"City": "Elkton",
+	"State": "MD",
+	"latitude": 39.6067,
+	"longitude": -75.8208
+},
+{
+	"City": "Cloverly",
+	"State": "MD",
+	"latitude": 39.1065,
+	"longitude": -76.9993
+},
+{
+	"City": "Damascus",
+	"State": "MD",
+	"latitude": 39.2737,
+	"longitude": -77.2006
+},
+{
+	"City": "Rossville",
+	"State": "MD",
+	"latitude": 39.3572,
+	"longitude": -76.4767
+},
+{
+	"City": "Brooklyn Park",
+	"State": "MD",
+	"latitude": 39.217,
+	"longitude": -76.6174
+},
+{
+	"City": "California",
+	"State": "MD",
+	"latitude": 38.2969,
+	"longitude": -76.4949
+},
+{
+	"City": "Kemp Mill",
+	"State": "MD",
+	"latitude": 39.0412,
+	"longitude": -77.0215
+},
+{
+	"City": "Summerfield",
+	"State": "MD",
+	"latitude": 38.9042,
+	"longitude": -76.8678
+},
+{
+	"City": "Cambridge",
+	"State": "MD",
+	"latitude": 38.5515,
+	"longitude": -76.0786
+},
+{
+	"City": "Havre de Grace",
+	"State": "MD",
+	"latitude": 39.5481,
+	"longitude": -76.1145
+},
+{
+	"City": "Colesville",
+	"State": "MD",
+	"latitude": 39.073,
+	"longitude": -77.0009
+},
+{
+	"City": "Kettering",
+	"State": "MD",
+	"latitude": 38.8888,
+	"longitude": -76.789
+},
+{
+	"City": "Glenn Dale",
+	"State": "MD",
+	"latitude": 38.9833,
+	"longitude": -76.804
+},
+{
+	"City": "Bensville",
+	"State": "MD",
+	"latitude": 38.6176,
+	"longitude": -77.0077
+},
+{
+	"City": "New Carrollton",
+	"State": "MD",
+	"latitude": 38.9654,
+	"longitude": -76.8773
+},
+{
+	"City": "Riviera Beach",
+	"State": "MD",
+	"latitude": 39.1628,
+	"longitude": -76.5263
+},
+{
+	"City": "Urbana",
+	"State": "MD",
+	"latitude": 39.3237,
+	"longitude": -77.3411
+},
+{
+	"City": "Annapolis Neck",
+	"State": "MD",
+	"latitude": 38.9408,
+	"longitude": -76.4997
+},
+{
+	"City": "Ocean Pines",
+	"State": "MD",
+	"latitude": 38.3825,
+	"longitude": -75.1475
+},
+{
+	"City": "Forestville",
+	"State": "MD",
+	"latitude": 38.8518,
+	"longitude": -76.8708
+},
+{
+	"City": "Joppatowne",
+	"State": "MD",
+	"latitude": 39.4181,
+	"longitude": -76.3516
+},
+{
+	"City": "Mays Chapel",
+	"State": "MD",
+	"latitude": 39.4343,
+	"longitude": -76.6516
+},
+{
+	"City": "Overlea",
+	"State": "MD",
+	"latitude": 39.3642,
+	"longitude": -76.5176
+},
+{
+	"City": "Brock Hall",
+	"State": "MD",
+	"latitude": 38.8617,
+	"longitude": -76.7549
+},
+{
+	"City": "Accokeek",
+	"State": "MD",
+	"latitude": 38.6745,
+	"longitude": -77.0023
+},
+{
+	"City": "Mitchellville",
+	"State": "MD",
+	"latitude": 38.9358,
+	"longitude": -76.8146
+},
+{
+	"City": "Travilah",
+	"State": "MD",
+	"latitude": 39.0571,
+	"longitude": -77.2458
+},
+{
+	"City": "Lanham",
+	"State": "MD",
+	"latitude": 38.9621,
+	"longitude": -76.8421
+},
+{
+	"City": "Princess Anne",
+	"State": "MD",
+	"latitude": 38.2054,
+	"longitude": -75.6969
+},
+{
+	"City": "Lexington Park",
+	"State": "MD",
+	"latitude": 38.2543,
+	"longitude": -76.4415
+},
+{
+	"City": "Largo",
+	"State": "MD",
+	"latitude": 38.88,
+	"longitude": -76.8289
+},
+{
+	"City": "Walker Mill",
+	"State": "MD",
+	"latitude": 38.8754,
+	"longitude": -76.8862
+},
+{
+	"City": "Halfway",
+	"State": "MD",
+	"latitude": 39.6163,
+	"longitude": -77.77
+},
+{
+	"City": "Fort Meade",
+	"State": "MD",
+	"latitude": 39.1058,
+	"longitude": -76.7438
+},
+{
+	"City": "Timonium",
+	"State": "MD",
+	"latitude": 39.4463,
+	"longitude": -76.6083
+},
+{
+	"City": "Rosaryville",
+	"State": "MD",
+	"latitude": 38.7672,
+	"longitude": -76.8266
+},
+{
+	"City": "Linthicum",
+	"State": "MD",
+	"latitude": 39.2088,
+	"longitude": -76.6625
+},
+{
+	"City": "Bel Air",
+	"State": "MD",
+	"latitude": 39.5348,
+	"longitude": -76.346
+},
+{
+	"City": "Friendly",
+	"State": "MD",
+	"latitude": 38.7601,
+	"longitude": -76.9642
+},
+{
+	"City": "Lake Arbor",
+	"State": "MD",
+	"latitude": 38.907,
+	"longitude": -76.8299
+},
+{
+	"City": "Westphalia",
+	"State": "MD",
+	"latitude": 38.8385,
+	"longitude": -76.8231
+},
+{
+	"City": "Brandywine",
+	"State": "MD",
+	"latitude": 38.6963,
+	"longitude": -76.8846
+},
+{
+	"City": "Burtonsville",
+	"State": "MD",
+	"latitude": 39.1166,
+	"longitude": -76.9356
+},
+{
+	"City": "Scaggsville",
+	"State": "MD",
+	"latitude": 39.1416,
+	"longitude": -76.8843
+},
+{
+	"City": "Chesapeake Ranch Estates",
+	"State": "MD",
+	"latitude": 38.3574,
+	"longitude": -76.4147
+},
+{
+	"City": "La Plata",
+	"State": "MD",
+	"latitude": 38.5352,
+	"longitude": -76.9701
+},
+{
+	"City": "Chevy Chase",
+	"State": "MD",
+	"latitude": 38.9943,
+	"longitude": -77.0737
+},
+{
+	"City": "Jessup",
+	"State": "MD",
+	"latitude": 39.1457,
+	"longitude": -76.7745
+},
+{
+	"City": "Mount Airy",
+	"State": "MD",
+	"latitude": 39.3743,
+	"longitude": -77.1535
+},
+{
+	"City": "Bladensburg",
+	"State": "MD",
+	"latitude": 38.9424,
+	"longitude": -76.9263
+},
+{
+	"City": "Brunswick",
+	"State": "MD",
+	"latitude": 39.318,
+	"longitude": -77.6253
+},
+{
+	"City": "Marlboro Village",
+	"State": "MD",
+	"latitude": 38.8307,
+	"longitude": -76.7699
+},
+{
+	"City": "White Marsh",
+	"State": "MD",
+	"latitude": 39.3819,
+	"longitude": -76.4573
+},
+{
+	"City": "Linganore",
+	"State": "MD",
+	"latitude": 39.4111,
+	"longitude": -77.3026
+},
+{
+	"City": "Edgewater",
+	"State": "MD",
+	"latitude": 38.9373,
+	"longitude": -76.5572
+},
+{
+	"City": "Marlton",
+	"State": "MD",
+	"latitude": 38.762,
+	"longitude": -76.7857
+},
+{
+	"City": "Leisure World",
+	"State": "MD",
+	"latitude": 39.1023,
+	"longitude": -77.0691
+},
+{
+	"City": "North Kensington",
+	"State": "MD",
+	"latitude": 39.0392,
+	"longitude": -77.0723
+},
+{
+	"City": "Fallston",
+	"State": "MD",
+	"latitude": 39.5332,
+	"longitude": -76.4452
+},
+{
+	"City": "South Kensington",
+	"State": "MD",
+	"latitude": 39.0188,
+	"longitude": -77.0785
+},
+{
+	"City": "Cape St. Claire",
+	"State": "MD",
+	"latitude": 39.0433,
+	"longitude": -76.4471
+},
+{
+	"City": "Coral Hills",
+	"State": "MD",
+	"latitude": 38.8709,
+	"longitude": -76.9234
+},
+{
+	"City": "Edgemere",
+	"State": "MD",
+	"latitude": 39.2273,
+	"longitude": -76.459
+},
+{
+	"City": "Frostburg",
+	"State": "MD",
+	"latitude": 39.6506,
+	"longitude": -78.9269
+},
+{
+	"City": "Lansdowne",
+	"State": "MD",
+	"latitude": 39.2365,
+	"longitude": -76.6659
+},
+{
+	"City": "Garrison",
+	"State": "MD",
+	"latitude": 39.4023,
+	"longitude": -76.7514
+},
+{
+	"City": "Four Corners",
+	"State": "MD",
+	"latitude": 39.0235,
+	"longitude": -77.0102
+},
+{
+	"City": "Mount Rainier",
+	"State": "MD",
+	"latitude": 38.9423,
+	"longitude": -76.9645
+},
+{
+	"City": "Mayo",
+	"State": "MD",
+	"latitude": 38.9041,
+	"longitude": -76.518
+},
+{
+	"City": "Baltimore Highlands",
+	"State": "MD",
+	"latitude": 39.2355,
+	"longitude": -76.6367
+},
+{
+	"City": "Temple Hills",
+	"State": "MD",
+	"latitude": 38.8106,
+	"longitude": -76.9495
+},
+{
+	"City": "Bryans Road",
+	"State": "MD",
+	"latitude": 38.6144,
+	"longitude": -77.085
+},
+{
+	"City": "Robinwood",
+	"State": "MD",
+	"latitude": 39.6266,
+	"longitude": -77.663
+},
+{
+	"City": "Thurmont",
+	"State": "MD",
+	"latitude": 39.621,
+	"longitude": -77.4076
+},
+{
+	"City": "Stevensville",
+	"State": "MD",
+	"latitude": 38.9745,
+	"longitude": -76.3184
+},
+{
+	"City": "Emmitsburg",
+	"State": "MD",
+	"latitude": 39.7051,
+	"longitude": -77.3216
+},
+{
+	"City": "Riverdale Park",
+	"State": "MD",
+	"latitude": 38.9642,
+	"longitude": -76.9266
+},
+{
+	"City": "Ocean City",
+	"State": "MD",
+	"latitude": 38.3998,
+	"longitude": -75.0715
+},
+{
+	"City": "Chestertown",
+	"State": "MD",
+	"latitude": 39.2182,
+	"longitude": -76.0714
+},
+{
+	"City": "Lutherville",
+	"State": "MD",
+	"latitude": 39.4239,
+	"longitude": -76.6176
+},
+{
+	"City": "Taneytown",
+	"State": "MD",
+	"latitude": 39.657,
+	"longitude": -77.1683
+},
+{
+	"City": "Hillandale",
+	"State": "MD",
+	"latitude": 39.0254,
+	"longitude": -76.9751
+},
+{
+	"City": "Forest Glen",
+	"State": "MD",
+	"latitude": 39.0191,
+	"longitude": -77.0445
+},
+{
+	"City": "Darnestown",
+	"State": "MD",
+	"latitude": 39.096,
+	"longitude": -77.3033
+},
+{
+	"City": "Cheverly",
+	"State": "MD",
+	"latitude": 38.9254,
+	"longitude": -76.914
+},
+{
+	"City": "Savage",
+	"State": "MD",
+	"latitude": 39.1485,
+	"longitude": -76.8228
+},
+{
+	"City": "Walkersville",
+	"State": "MD",
+	"latitude": 39.4832,
+	"longitude": -77.3559
+},
+{
+	"City": "Bowleys Quarters",
+	"State": "MD",
+	"latitude": 39.3198,
+	"longitude": -76.3858
+},
+{
+	"City": "Hampstead",
+	"State": "MD",
+	"latitude": 39.6104,
+	"longitude": -76.855
+},
+{
+	"City": "Fairwood",
+	"State": "MD",
+	"latitude": 38.9565,
+	"longitude": -76.778
+},
+{
+	"City": "Leonardtown",
+	"State": "MD",
+	"latitude": 38.3039,
+	"longitude": -76.6396
+},
+{
+	"City": "Glenarden",
+	"State": "MD",
+	"latitude": 38.9293,
+	"longitude": -76.8577
+},
+{
+	"City": "Riverside",
+	"State": "MD",
+	"latitude": 39.4777,
+	"longitude": -76.2385
+},
+{
+	"City": "Ashton-Sandy Spring",
+	"State": "MD",
+	"latitude": 39.1515,
+	"longitude": -77.0065
+},
+{
+	"City": "District Heights",
+	"State": "MD",
+	"latitude": 38.8588,
+	"longitude": -76.8885
+},
+{
+	"City": "Naval Academy",
+	"State": "MD",
+	"latitude": 38.9859,
+	"longitude": -76.488
+},
+{
+	"City": "Cresaptown",
+	"State": "MD",
+	"latitude": 39.5912,
+	"longitude": -78.855
+},
+{
+	"City": "Spring Ridge",
+	"State": "MD",
+	"latitude": 39.4043,
+	"longitude": -77.3413
+},
+{
+	"City": "Marlow Heights",
+	"State": "MD",
+	"latitude": 38.8237,
+	"longitude": -76.9485
+},
+{
+	"City": "Fountainhead-Orchard Hills",
+	"State": "MD",
+	"latitude": 39.6878,
+	"longitude": -77.7173
+},
+{
+	"City": "Shady Side",
+	"State": "MD",
+	"latitude": 38.8285,
+	"longitude": -76.5211
+},
+{
+	"City": "Friendship Heights Village",
+	"State": "MD",
+	"latitude": 38.9633,
+	"longitude": -77.09
+},
+{
+	"City": "Manchester",
+	"State": "MD",
+	"latitude": 39.6584,
+	"longitude": -76.8881
+},
+{
+	"City": "Westernport",
+	"State": "MD",
+	"latitude": 39.488,
+	"longitude": -79.0429
+},
+{
+	"City": "Fruitland",
+	"State": "MD",
+	"latitude": 38.3214,
+	"longitude": -75.6246
+},
+{
+	"City": "Poolesville",
+	"State": "MD",
+	"latitude": 39.1423,
+	"longitude": -77.4102
+},
+{
+	"City": "Layhill",
+	"State": "MD",
+	"latitude": 39.087,
+	"longitude": -77.0401
+},
+{
+	"City": "Silver Hill",
+	"State": "MD",
+	"latitude": 38.8392,
+	"longitude": -76.9367
+},
+{
+	"City": "Centreville",
+	"State": "MD",
+	"latitude": 39.042,
+	"longitude": -76.0631
+},
+{
+	"City": "Denton",
+	"State": "MD",
+	"latitude": 38.8769,
+	"longitude": -75.8265
+},
+{
+	"City": "Berlin",
+	"State": "MD",
+	"latitude": 38.3309,
+	"longitude": -75.215
+},
+{
+	"City": "Middletown",
+	"State": "MD",
+	"latitude": 39.4415,
+	"longitude": -77.5348
+},
+{
+	"City": "Seat Pleasant",
+	"State": "MD",
+	"latitude": 38.8952,
+	"longitude": -76.9016
+},
+{
+	"City": "Deale",
+	"State": "MD",
+	"latitude": 38.791,
+	"longitude": -76.5469
+},
+{
+	"City": "Mountain Lake Park",
+	"State": "MD",
+	"latitude": 39.4004,
+	"longitude": -79.3812
+},
+{
+	"City": "Chester",
+	"State": "MD",
+	"latitude": 38.9677,
+	"longitude": -76.2823
+},
+{
+	"City": "Hampton",
+	"State": "MD",
+	"latitude": 39.4222,
+	"longitude": -76.5696
+},
+{
+	"City": "Woodmore",
+	"State": "MD",
+	"latitude": 38.9222,
+	"longitude": -76.781
+},
+{
+	"City": "Peppermill Village",
+	"State": "MD",
+	"latitude": 38.894,
+	"longitude": -76.8878
+},
+{
+	"City": "Capitol Heights",
+	"State": "MD",
+	"latitude": 38.8766,
+	"longitude": -76.9074
+},
+{
+	"City": "Perryville",
+	"State": "MD",
+	"latitude": 39.5738,
+	"longitude": -76.0669
+},
+{
+	"City": "Kingsville",
+	"State": "MD",
+	"latitude": 39.4496,
+	"longitude": -76.4204
+},
+{
+	"City": "West Laurel",
+	"State": "MD",
+	"latitude": 39.1133,
+	"longitude": -76.8924
+},
+{
+	"City": "Fulton",
+	"State": "MD",
+	"latitude": 39.1516,
+	"longitude": -76.9163
+},
+{
+	"City": "West Ocean City",
+	"State": "MD",
+	"latitude": 38.3476,
+	"longitude": -75.1115
+},
+{
+	"City": "National Harbor",
+	"State": "MD",
+	"latitude": 38.7883,
+	"longitude": -77.0106
+},
+{
+	"City": "Melwood",
+	"State": "MD",
+	"latitude": 38.8022,
+	"longitude": -76.8419
+},
+{
+	"City": "Pocomoke City",
+	"State": "MD",
+	"latitude": 38.0635,
+	"longitude": -75.5553
+},
+{
+	"City": "Riva",
+	"State": "MD",
+	"latitude": 38.9449,
+	"longitude": -76.5876
+},
+{
+	"City": "Sykesville",
+	"State": "MD",
+	"latitude": 39.3714,
+	"longitude": -76.9716
+},
+{
+	"City": "Brookmont",
+	"State": "MD",
+	"latitude": 38.9546,
+	"longitude": -77.1292
+},
+{
+	"City": "St. James",
+	"State": "MD",
+	"latitude": 39.5738,
+	"longitude": -77.7482
+},
+{
+	"City": "Pleasant Hills",
+	"State": "MD",
+	"latitude": 39.4861,
+	"longitude": -76.3908
+},
+{
+	"City": "Indian Head",
+	"State": "MD",
+	"latitude": 38.5987,
+	"longitude": -77.1556
+},
+{
+	"City": "Boonsboro",
+	"State": "MD",
+	"latitude": 39.5079,
+	"longitude": -77.6586
+},
+{
+	"City": "North East",
+	"State": "MD",
+	"latitude": 39.6077,
+	"longitude": -75.9414
+},
+{
+	"City": "Grasonville",
+	"State": "MD",
+	"latitude": 38.9559,
+	"longitude": -76.1948
+},
+{
+	"City": "Huntingtown",
+	"State": "MD",
+	"latitude": 38.6117,
+	"longitude": -76.6187
+},
+{
+	"City": "Brentwood",
+	"State": "MD",
+	"latitude": 38.9439,
+	"longitude": -76.9571
+},
+{
+	"City": "Marlboro Meadows",
+	"State": "MD",
+	"latitude": 38.8374,
+	"longitude": -76.7144
+},
+{
+	"City": "La Vale",
+	"State": "MD",
+	"latitude": 39.6518,
+	"longitude": -78.8162
+},
+{
+	"City": "Crisfield",
+	"State": "MD",
+	"latitude": 37.9827,
+	"longitude": -75.8516
+},
+{
+	"City": "Delmar",
+	"State": "MD",
+	"latitude": 38.4451,
+	"longitude": -75.5662
+},
+{
+	"City": "Berwyn Heights",
+	"State": "MD",
+	"latitude": 38.9929,
+	"longitude": -76.9131
+},
+{
+	"City": "Springdale",
+	"State": "MD",
+	"latitude": 38.9383,
+	"longitude": -76.8423
+},
+{
+	"City": "Federalsburg",
+	"State": "MD",
+	"latitude": 38.6928,
+	"longitude": -75.7727
+},
+{
+	"City": "Andrews AFB",
+	"State": "MD",
+	"latitude": 38.8053,
+	"longitude": -76.8744
+},
+{
+	"City": "Paramount-Long Meadow",
+	"State": "MD",
+	"latitude": 39.6798,
+	"longitude": -77.6921
+},
+{
+	"City": "Golden Beach",
+	"State": "MD",
+	"latitude": 38.49,
+	"longitude": -76.7019
+},
+{
+	"City": "Jarrettsville",
+	"State": "MD",
+	"latitude": 39.6031,
+	"longitude": -76.4752
+},
+{
+	"City": "Smithsburg",
+	"State": "MD",
+	"latitude": 39.6564,
+	"longitude": -77.5762
+},
+{
+	"City": "Prince Frederick",
+	"State": "MD",
+	"latitude": 38.544,
+	"longitude": -76.5879
+},
+{
+	"City": "Braddock Heights",
+	"State": "MD",
+	"latitude": 39.4114,
+	"longitude": -77.5009
+},
+{
+	"City": "Aberdeen Proving Ground",
+	"State": "MD",
+	"latitude": 39.4673,
+	"longitude": -76.1308
+},
+{
+	"City": "Gambrills",
+	"State": "MD",
+	"latitude": 39.0929,
+	"longitude": -76.6512
+},
+{
+	"City": "Rising Sun",
+	"State": "MD",
+	"latitude": 39.7003,
+	"longitude": -76.0587
+},
+{
+	"City": "Herald Harbor",
+	"State": "MD",
+	"latitude": 39.0516,
+	"longitude": -76.5746
+},
+{
+	"City": "Dunkirk",
+	"State": "MD",
+	"latitude": 38.7156,
+	"longitude": -76.673
+},
+{
+	"City": "University Park",
+	"State": "MD",
+	"latitude": 38.9719,
+	"longitude": -76.9445
+},
+{
+	"City": "Forest Heights",
+	"State": "MD",
+	"latitude": 38.8105,
+	"longitude": -76.9995
+},
+{
+	"City": "Maugansville",
+	"State": "MD",
+	"latitude": 39.6936,
+	"longitude": -77.7472
+},
+{
+	"City": "Konterra",
+	"State": "MD",
+	"latitude": 39.0774,
+	"longitude": -76.9022
+},
+{
+	"City": "Owings",
+	"State": "MD",
+	"latitude": 38.7117,
+	"longitude": -76.6055
+},
+{
+	"City": "Adamstown",
+	"State": "MD",
+	"latitude": 39.3065,
+	"longitude": -77.4668
+},
+{
+	"City": "Perryman",
+	"State": "MD",
+	"latitude": 39.4633,
+	"longitude": -76.2115
+},
+{
+	"City": "Kensington",
+	"State": "MD",
+	"latitude": 39.0265,
+	"longitude": -77.0738
+},
+{
+	"City": "Hughesville",
+	"State": "MD",
+	"latitude": 38.5376,
+	"longitude": -76.7748
+},
+{
+	"City": "Wilson-Conococheague",
+	"State": "MD",
+	"latitude": 39.653,
+	"longitude": -77.8306
+},
+{
+	"City": "Jefferson",
+	"State": "MD",
+	"latitude": 39.3661,
+	"longitude": -77.5409
+},
+{
+	"City": "Drum Point",
+	"State": "MD",
+	"latitude": 38.3325,
+	"longitude": -76.4295
+},
+{
+	"City": "Croom",
+	"State": "MD",
+	"latitude": 38.7458,
+	"longitude": -76.7555
+},
+{
+	"City": "Long Beach",
+	"State": "MD",
+	"latitude": 38.4568,
+	"longitude": -76.4737
+},
+{
+	"City": "Solomons",
+	"State": "MD",
+	"latitude": 38.3373,
+	"longitude": -76.4611
+},
+{
+	"City": "Cabin John",
+	"State": "MD",
+	"latitude": 38.9743,
+	"longitude": -77.1635
+},
+{
+	"City": "Williamsport",
+	"State": "MD",
+	"latitude": 39.5974,
+	"longitude": -77.818
+},
+{
+	"City": "Spencerville",
+	"State": "MD",
+	"latitude": 39.119,
+	"longitude": -76.9828
+},
+{
+	"City": "Chevy Chase Village",
+	"State": "MD",
+	"latitude": 38.9698,
+	"longitude": -77.0793
+},
+{
+	"City": "Snow Hill",
+	"State": "MD",
+	"latitude": 38.1654,
+	"longitude": -75.3968
+},
+{
+	"City": "North Beach",
+	"State": "MD",
+	"latitude": 38.708,
+	"longitude": -76.5347
+},
+{
+	"City": "Hurlock",
+	"State": "MD",
+	"latitude": 38.6268,
+	"longitude": -75.864
+},
+{
+	"City": "Queensland",
+	"State": "MD",
+	"latitude": 38.8021,
+	"longitude": -76.7839
+},
+{
+	"City": "Kingstown",
+	"State": "MD",
+	"latitude": 39.2036,
+	"longitude": -76.0465
+},
+{
+	"City": "Derwood",
+	"State": "MD",
+	"latitude": 39.1136,
+	"longitude": -77.1509
+},
+{
+	"City": "Arden on the Severn",
+	"State": "MD",
+	"latitude": 39.0677,
+	"longitude": -76.5963
+},
+{
+	"City": "Greensboro",
+	"State": "MD",
+	"latitude": 38.9764,
+	"longitude": -75.808
+},
+{
+	"City": "Charlotte Hall",
+	"State": "MD",
+	"latitude": 38.4667,
+	"longitude": -76.7847
+},
+{
+	"City": "Point of Rocks",
+	"State": "MD",
+	"latitude": 39.2781,
+	"longitude": -77.5292
+},
+{
+	"City": "Myersville",
+	"State": "MD",
+	"latitude": 39.5062,
+	"longitude": -77.5689
+},
+{
+	"City": "Lusby",
+	"State": "MD",
+	"latitude": 38.362,
+	"longitude": -76.4372
+},
+{
+	"City": "Oakland",
+	"State": "MD",
+	"latitude": 39.4165,
+	"longitude": -79.4022
+},
+{
+	"City": "Mechanicsville",
+	"State": "MD",
+	"latitude": 38.4355,
+	"longitude": -76.7424
+},
+{
+	"City": "Baden",
+	"State": "MD",
+	"latitude": 38.6719,
+	"longitude": -76.7428
+},
+{
+	"City": "Bartonsville",
+	"State": "MD",
+	"latitude": 39.3866,
+	"longitude": -77.3434
+},
+{
+	"City": "Ridgely",
+	"State": "MD",
+	"latitude": 38.9529,
+	"longitude": -75.8828
+},
+{
+	"City": "Landover Hills",
+	"State": "MD",
+	"latitude": 38.9424,
+	"longitude": -76.8946
+},
+{
+	"City": "Crownsville",
+	"State": "MD",
+	"latitude": 39.0225,
+	"longitude": -76.5903
+},
+{
+	"City": "Hancock",
+	"State": "MD",
+	"latitude": 39.7054,
+	"longitude": -78.1749
+},
+{
+	"City": "Fairmount Heights",
+	"State": "MD",
+	"latitude": 38.9016,
+	"longitude": -76.9153
+},
+{
+	"City": "Edmonston",
+	"State": "MD",
+	"latitude": 38.9502,
+	"longitude": -76.9332
+},
+{
+	"City": "Pittsville",
+	"State": "MD",
+	"latitude": 38.3939,
+	"longitude": -75.4074
+},
+{
+	"City": "Colmar Manor",
+	"State": "MD",
+	"latitude": 38.9302,
+	"longitude": -76.9437
+},
+{
+	"City": "New Windsor",
+	"State": "MD",
+	"latitude": 39.5442,
+	"longitude": -77.1016
+},
+{
+	"City": "Cottage City",
+	"State": "MD",
+	"latitude": 38.9385,
+	"longitude": -76.9492
+},
+{
+	"City": "Potomac Heights",
+	"State": "MD",
+	"latitude": 38.5987,
+	"longitude": -77.1372
+},
+{
+	"City": "Buckeystown",
+	"State": "MD",
+	"latitude": 39.3301,
+	"longitude": -77.4316
+},
+{
+	"City": "Morningside",
+	"State": "MD",
+	"latitude": 38.8266,
+	"longitude": -76.8895
+},
+{
+	"City": "Rock Hall",
+	"State": "MD",
+	"latitude": 39.1392,
+	"longitude": -76.2428
+},
+{
+	"City": "Somerset",
+	"State": "MD",
+	"latitude": 38.9666,
+	"longitude": -77.0963
+},
+{
+	"City": "Woodsboro",
+	"State": "MD",
+	"latitude": 39.5328,
+	"longitude": -77.3096
+},
+{
+	"City": "Algonquin",
+	"State": "MD",
+	"latitude": 38.5839,
+	"longitude": -76.0978
+},
+{
+	"City": "Keedysville",
+	"State": "MD",
+	"latitude": 39.4867,
+	"longitude": -77.6979
+},
+{
+	"City": "Bowling Green",
+	"State": "MD",
+	"latitude": 39.6272,
+	"longitude": -78.805
+},
+{
+	"City": "Highland",
+	"State": "MD",
+	"latitude": 39.1814,
+	"longitude": -76.957
+},
+{
+	"City": "Charlestown",
+	"State": "MD",
+	"latitude": 39.579,
+	"longitude": -75.9812
+},
+{
+	"City": "Cavetown",
+	"State": "MD",
+	"latitude": 39.6426,
+	"longitude": -77.5932
+},
+{
+	"City": "Lonaconing",
+	"State": "MD",
+	"latitude": 39.5658,
+	"longitude": -78.9789
+},
+{
+	"City": "Hebron",
+	"State": "MD",
+	"latitude": 38.4243,
+	"longitude": -75.6871
+},
+{
+	"City": "Pylesville",
+	"State": "MD",
+	"latitude": 39.688,
+	"longitude": -76.3876
+},
+{
+	"City": "Garrett Park",
+	"State": "MD",
+	"latitude": 39.036,
+	"longitude": -77.0934
+},
+{
+	"City": "Queen Anne",
+	"State": "MD",
+	"latitude": 38.9021,
+	"longitude": -76.6973
+},
+{
+	"City": "St. Michaels",
+	"State": "MD",
+	"latitude": 38.7882,
+	"longitude": -76.2243
+},
+{
+	"City": "Willards",
+	"State": "MD",
+	"latitude": 38.3922,
+	"longitude": -75.3494
+},
+{
+	"City": "Tilghman Island",
+	"State": "MD",
+	"latitude": 38.7026,
+	"longitude": -76.3354
+},
+{
+	"City": "Trappe",
+	"State": "MD",
+	"latitude": 38.6635,
+	"longitude": -76.0518
+},
+{
+	"City": "Martin's Additions",
+	"State": "MD",
+	"latitude": 38.9795,
+	"longitude": -77.0693
+},
+{
+	"City": "Libertytown",
+	"State": "MD",
+	"latitude": 39.4858,
+	"longitude": -77.2481
+},
+{
+	"City": "Chevy Chase View",
+	"State": "MD",
+	"latitude": 39.0192,
+	"longitude": -77.081
+},
+{
+	"City": "Mount Vernon",
+	"State": "MD",
+	"latitude": 38.2448,
+	"longitude": -75.7825
+},
+{
+	"City": "Union Bridge",
+	"State": "MD",
+	"latitude": 39.5734,
+	"longitude": -77.1745
+},
+{
+	"City": "Calvert Beach",
+	"State": "MD",
+	"latitude": 38.4728,
+	"longitude": -76.4895
+},
+{
+	"City": "Aquasco",
+	"State": "MD",
+	"latitude": 38.5913,
+	"longitude": -76.7074
+},
+{
+	"City": "Monrovia",
+	"State": "MD",
+	"latitude": 39.3571,
+	"longitude": -77.2753
+},
+{
+	"City": "Funkstown",
+	"State": "MD",
+	"latitude": 39.6088,
+	"longitude": -77.7082
+},
+{
+	"City": "Tilghmanton",
+	"State": "MD",
+	"latitude": 39.5286,
+	"longitude": -77.7437
+},
+{
+	"City": "Grantsville",
+	"State": "MD",
+	"latitude": 39.6969,
+	"longitude": -79.1528
+},
+{
+	"City": "Cobb Island",
+	"State": "MD",
+	"latitude": 38.2646,
+	"longitude": -76.8496
+},
+{
+	"City": "Potomac Park",
+	"State": "MD",
+	"latitude": 39.6124,
+	"longitude": -78.8082
+},
+{
+	"City": "Highfield-Cascade",
+	"State": "MD",
+	"latitude": 39.7136,
+	"longitude": -77.4947
+},
+{
+	"City": "Chevy Chase Section Three",
+	"State": "MD",
+	"latitude": 38.9793,
+	"longitude": -77.0742
+},
+{
+	"City": "Piney Point",
+	"State": "MD",
+	"latitude": 38.1483,
+	"longitude": -76.5201
+},
+{
+	"City": "Bishopville",
+	"State": "MD",
+	"latitude": 38.4413,
+	"longitude": -75.2092
+},
+{
+	"City": "Finzel",
+	"State": "MD",
+	"latitude": 39.7018,
+	"longitude": -78.952
+},
+{
+	"City": "Eden",
+	"State": "MD",
+	"latitude": 38.2792,
+	"longitude": -75.6533
+},
+{
+	"City": "Port Deposit",
+	"State": "MD",
+	"latitude": 39.6111,
+	"longitude": -76.098
+},
+{
+	"City": "Church Hill",
+	"State": "MD",
+	"latitude": 39.1451,
+	"longitude": -75.9808
+},
+{
+	"City": "Mount Savage",
+	"State": "MD",
+	"latitude": 39.6971,
+	"longitude": -78.8763
+},
+{
+	"City": "New Market",
+	"State": "MD",
+	"latitude": 39.3889,
+	"longitude": -77.279
+},
+{
+	"City": "Preston",
+	"State": "MD",
+	"latitude": 38.7112,
+	"longitude": -75.909
+},
+{
+	"City": "Chevy Chase Section Five",
+	"State": "MD",
+	"latitude": 38.984,
+	"longitude": -77.074
+},
+{
+	"City": "Queenstown",
+	"State": "MD",
+	"latitude": 38.9868,
+	"longitude": -76.1633
+},
+{
+	"City": "McCoole",
+	"State": "MD",
+	"latitude": 39.4534,
+	"longitude": -78.9731
+},
+{
+	"City": "Chesapeake City",
+	"State": "MD",
+	"latitude": 39.528,
+	"longitude": -75.8095
+},
+{
+	"City": "Mount Aetna",
+	"State": "MD",
+	"latitude": 39.5989,
+	"longitude": -77.6128
+},
+{
+	"City": "Upper Marlboro",
+	"State": "MD",
+	"latitude": 38.8171,
+	"longitude": -76.7546
+},
+{
+	"City": "Cecilton",
+	"State": "MD",
+	"latitude": 39.4046,
+	"longitude": -75.8675
+},
+{
+	"City": "Eckhart Mines",
+	"State": "MD",
+	"latitude": 39.6553,
+	"longitude": -78.8941
+},
+{
+	"City": "Sharptown",
+	"State": "MD",
+	"latitude": 38.5382,
+	"longitude": -75.719
+},
+{
+	"City": "Sharpsburg",
+	"State": "MD",
+	"latitude": 39.4576,
+	"longitude": -77.7496
+},
+{
+	"City": "Galesville",
+	"State": "MD",
+	"latitude": 38.8379,
+	"longitude": -76.5514
+},
+{
+	"City": "Bryantown",
+	"State": "MD",
+	"latitude": 38.5498,
+	"longitude": -76.8429
+},
+{
+	"City": "Cordova",
+	"State": "MD",
+	"latitude": 38.868,
+	"longitude": -75.9989
+},
+{
+	"City": "Oxford",
+	"State": "MD",
+	"latitude": 38.6849,
+	"longitude": -76.1703
+},
+{
+	"City": "Millington",
+	"State": "MD",
+	"latitude": 39.2629,
+	"longitude": -75.8359
+},
+{
+	"City": "Tall Timbers",
+	"State": "MD",
+	"latitude": 38.1654,
+	"longitude": -76.5366
+},
+{
+	"City": "North Chevy Chase",
+	"State": "MD",
+	"latitude": 39.0021,
+	"longitude": -77.0743
+},
+{
+	"City": "Fairlee",
+	"State": "MD",
+	"latitude": 39.2268,
+	"longitude": -76.1654
+},
+{
+	"City": "Galena",
+	"State": "MD",
+	"latitude": 39.3425,
+	"longitude": -75.8787
+},
+{
+	"City": "Newark",
+	"State": "MD",
+	"latitude": 38.2749,
+	"longitude": -75.2735
+},
+{
+	"City": "Bowmans Addition",
+	"State": "MD",
+	"latitude": 39.6876,
+	"longitude": -78.7541
+},
+{
+	"City": "Washington Grove",
+	"State": "MD",
+	"latitude": 39.1406,
+	"longitude": -77.1746
+},
+{
+	"City": "Corriganville",
+	"State": "MD",
+	"latitude": 39.6945,
+	"longitude": -78.797
+},
+{
+	"City": "North Brentwood",
+	"State": "MD",
+	"latitude": 38.945,
+	"longitude": -76.951
+},
+{
+	"City": "Cedarville",
+	"State": "MD",
+	"latitude": 38.6623,
+	"longitude": -76.819
+},
+{
+	"City": "Loch Lynn Heights",
+	"State": "MD",
+	"latitude": 39.3919,
+	"longitude": -79.3726
+},
+{
+	"City": "Pomfret",
+	"State": "MD",
+	"latitude": 38.5699,
+	"longitude": -77.0304
+},
+{
+	"City": "Kent Narrows",
+	"State": "MD",
+	"latitude": 38.9704,
+	"longitude": -76.2385
+},
+{
+	"City": "Secretary",
+	"State": "MD",
+	"latitude": 38.6082,
+	"longitude": -75.947
+},
+{
+	"City": "Darlington",
+	"State": "MD",
+	"latitude": 39.6425,
+	"longitude": -76.2035
+},
+{
+	"City": "St. Leonard",
+	"State": "MD",
+	"latitude": 38.4659,
+	"longitude": -76.4973
+},
+{
+	"City": "Friendsville",
+	"State": "MD",
+	"latitude": 39.6624,
+	"longitude": -79.4044
+},
+{
+	"City": "Pleasant Grove",
+	"State": "MD",
+	"latitude": 39.6803,
+	"longitude": -78.6903
+},
+{
+	"City": "Sudlersville",
+	"State": "MD",
+	"latitude": 39.1832,
+	"longitude": -75.8535
+},
+{
+	"City": "Chance",
+	"State": "MD",
+	"latitude": 38.1772,
+	"longitude": -75.9366
+},
+{
+	"City": "Rawlings",
+	"State": "MD",
+	"latitude": 39.5403,
+	"longitude": -78.8858
+},
+{
+	"City": "Leitersburg",
+	"State": "MD",
+	"latitude": 39.6928,
+	"longitude": -77.6206
+},
+{
+	"City": "Allen",
+	"State": "MD",
+	"latitude": 38.2886,
+	"longitude": -75.6904
+},
+{
+	"City": "Mount Lena",
+	"State": "MD",
+	"latitude": 39.554,
+	"longitude": -77.6218
+},
+{
+	"City": "Kennedyville",
+	"State": "MD",
+	"latitude": 39.3059,
+	"longitude": -75.9947
+},
+{
+	"City": "Fairplay",
+	"State": "MD",
+	"latitude": 39.5357,
+	"longitude": -77.7463
+},
+{
+	"City": "Barton",
+	"State": "MD",
+	"latitude": 39.5323,
+	"longitude": -79.0171
+},
+{
+	"City": "Broomes Island",
+	"State": "MD",
+	"latitude": 38.4202,
+	"longitude": -76.5475
+},
+{
+	"City": "Parsonsburg",
+	"State": "MD",
+	"latitude": 38.3936,
+	"longitude": -75.4748
+},
+{
+	"City": "Midland",
+	"State": "MD",
+	"latitude": 39.5897,
+	"longitude": -78.9485
+},
+{
+	"City": "Ellerslie",
+	"State": "MD",
+	"latitude": 39.7188,
+	"longitude": -78.7787
+},
+{
+	"City": "Midlothian",
+	"State": "MD",
+	"latitude": 39.6316,
+	"longitude": -78.9523
+},
+{
+	"City": "Bagtown",
+	"State": "MD",
+	"latitude": 39.583,
+	"longitude": -77.6139
+},
+{
+	"City": "Laytonsville",
+	"State": "MD",
+	"latitude": 39.2093,
+	"longitude": -77.1418
+},
+{
+	"City": "East New Market",
+	"State": "MD",
+	"latitude": 38.597,
+	"longitude": -75.9233
+},
+{
+	"City": "Zihlman",
+	"State": "MD",
+	"latitude": 39.6741,
+	"longitude": -78.913
+},
+{
+	"City": "Deer Park",
+	"State": "MD",
+	"latitude": 39.424,
+	"longitude": -79.326
+},
+{
+	"City": "Fairmount",
+	"State": "MD",
+	"latitude": 38.1016,
+	"longitude": -75.8074
+},
+{
+	"City": "Clear Spring",
+	"State": "MD",
+	"latitude": 39.6562,
+	"longitude": -77.9306
+},
+{
+	"City": "St. George Island",
+	"State": "MD",
+	"latitude": 38.1155,
+	"longitude": -76.4771
+},
+{
+	"City": "Sabillasville",
+	"State": "MD",
+	"latitude": 39.6973,
+	"longitude": -77.4562
+},
+{
+	"City": "Mardela Springs",
+	"State": "MD",
+	"latitude": 38.4589,
+	"longitude": -75.7567
+},
+{
+	"City": "Shaft",
+	"State": "MD",
+	"latitude": 39.6265,
+	"longitude": -78.9384
+},
+{
+	"City": "Deal Island",
+	"State": "MD",
+	"latitude": 38.1444,
+	"longitude": -75.9417
+},
+{
+	"City": "Tolchester",
+	"State": "MD",
+	"latitude": 39.2218,
+	"longitude": -76.2349
+},
+{
+	"City": "Chewsville",
+	"State": "MD",
+	"latitude": 39.6484,
+	"longitude": -77.6311
+},
+{
+	"City": "San Mar",
+	"State": "MD",
+	"latitude": 39.5524,
+	"longitude": -77.6406
+},
+{
+	"City": "Nanticoke",
+	"State": "MD",
+	"latitude": 38.2672,
+	"longitude": -75.8938
+},
+{
+	"City": "West Pocomoke",
+	"State": "MD",
+	"latitude": 38.0956,
+	"longitude": -75.5842
+},
+{
+	"City": "Rosemont",
+	"State": "MD",
+	"latitude": 39.3317,
+	"longitude": -77.6214
+},
+{
+	"City": "Garretts Mill",
+	"State": "MD",
+	"latitude": 39.3534,
+	"longitude": -77.689
+},
+{
+	"City": "Downsville",
+	"State": "MD",
+	"latitude": 39.5549,
+	"longitude": -77.8016
+},
+{
+	"City": "Betterton",
+	"State": "MD",
+	"latitude": 39.3652,
+	"longitude": -76.069
+},
+{
+	"City": "Accident",
+	"State": "MD",
+	"latitude": 39.6257,
+	"longitude": -79.32
+},
+{
+	"City": "Grahamtown",
+	"State": "MD",
+	"latitude": 39.6448,
+	"longitude": -78.9224
+},
+{
+	"City": "Beaver Creek",
+	"State": "MD",
+	"latitude": 39.5786,
+	"longitude": -77.6477
+},
+{
+	"City": "Kitzmiller",
+	"State": "MD",
+	"latitude": 39.3894,
+	"longitude": -79.1833
+},
+{
+	"City": "Butlertown",
+	"State": "MD",
+	"latitude": 39.282,
+	"longitude": -76.0991
+},
+{
+	"City": "Mapleville",
+	"State": "MD",
+	"latitude": 39.5357,
+	"longitude": -77.6463
+},
+{
+	"City": "Breathedsville",
+	"State": "MD",
+	"latitude": 39.546,
+	"longitude": -77.7246
+},
+{
+	"City": "Friendship",
+	"State": "MD",
+	"latitude": 38.7359,
+	"longitude": -76.5878
+},
+{
+	"City": "Charlton",
+	"State": "MD",
+	"latitude": 39.6344,
+	"longitude": -77.8944
+},
+{
+	"City": "Jugtown",
+	"State": "MD",
+	"latitude": 39.6143,
+	"longitude": -77.5943
+},
+{
+	"City": "Quantico",
+	"State": "MD",
+	"latitude": 38.3767,
+	"longitude": -75.7526
+},
+{
+	"City": "Yarrowsburg",
+	"State": "MD",
+	"latitude": 39.3762,
+	"longitude": -77.6843
+},
+{
+	"City": "Glen Echo",
+	"State": "MD",
+	"latitude": 38.968,
+	"longitude": -77.141
+},
+{
+	"City": "Vienna",
+	"State": "MD",
+	"latitude": 38.4811,
+	"longitude": -75.8319
+},
+{
+	"City": "Greensburg",
+	"State": "MD",
+	"latitude": 39.6806,
+	"longitude": -77.5615
+},
+{
+	"City": "Moscow",
+	"State": "MD",
+	"latitude": 39.5409,
+	"longitude": -79.0074
+},
+{
+	"City": "Pinesburg",
+	"State": "MD",
+	"latitude": 39.6269,
+	"longitude": -77.8561
+},
+{
+	"City": "Edgemont",
+	"State": "MD",
+	"latitude": 39.6766,
+	"longitude": -77.547
+},
+{
+	"City": "Pecktonville",
+	"State": "MD",
+	"latitude": 39.6659,
+	"longitude": -78.0481
+},
+{
+	"City": "Flintstone",
+	"State": "MD",
+	"latitude": 39.7034,
+	"longitude": -78.5758
+},
+{
+	"City": "Edesville",
+	"State": "MD",
+	"latitude": 39.154,
+	"longitude": -76.2097
+},
+{
+	"City": "Sandy Hook",
+	"State": "MD",
+	"latitude": 39.3284,
+	"longitude": -77.7052
+},
+{
+	"City": "Jennings",
+	"State": "MD",
+	"latitude": 39.6487,
+	"longitude": -79.1835
+},
+{
+	"City": "Goldsboro",
+	"State": "MD",
+	"latitude": 39.0317,
+	"longitude": -75.7821
+},
+{
+	"City": "Gilmore",
+	"State": "MD",
+	"latitude": 39.583,
+	"longitude": -78.9512
+},
+{
+	"City": "Taylors Island",
+	"State": "MD",
+	"latitude": 38.473,
+	"longitude": -76.3126
+},
+{
+	"City": "Jesterville",
+	"State": "MD",
+	"latitude": 38.2897,
+	"longitude": -75.8928
+},
+{
+	"City": "Bier",
+	"State": "MD",
+	"latitude": 39.5525,
+	"longitude": -78.8692
+},
+{
+	"City": "Madison",
+	"State": "MD",
+	"latitude": 38.5149,
+	"longitude": -76.2155
+},
+{
+	"City": "Benedict",
+	"State": "MD",
+	"latitude": 38.5116,
+	"longitude": -76.6797
+},
+{
+	"City": "Danville",
+	"State": "MD",
+	"latitude": 39.5124,
+	"longitude": -78.9184
+},
+{
+	"City": "Fishing Creek",
+	"State": "MD",
+	"latitude": 38.3357,
+	"longitude": -76.2238
+},
+{
+	"City": "Bloomington",
+	"State": "MD",
+	"latitude": 39.4794,
+	"longitude": -79.0769
+},
+{
+	"City": "Franklin",
+	"State": "MD",
+	"latitude": 39.4991,
+	"longitude": -79.0513
+},
+{
+	"City": "Choptank",
+	"State": "MD",
+	"latitude": 38.6823,
+	"longitude": -75.9494
+},
+{
+	"City": "Barnesville",
+	"State": "MD",
+	"latitude": 39.2211,
+	"longitude": -77.3799
+},
+{
+	"City": "Mount Briar",
+	"State": "MD",
+	"latitude": 39.4426,
+	"longitude": -77.6873
+},
+{
+	"City": "Dargan",
+	"State": "MD",
+	"latitude": 39.3767,
+	"longitude": -77.734
+},
+{
+	"City": "Barclay",
+	"State": "MD",
+	"latitude": 39.1448,
+	"longitude": -75.8655
+},
+{
+	"City": "Burkittsville",
+	"State": "MD",
+	"latitude": 39.3923,
+	"longitude": -77.6275
+},
+{
+	"City": "Hillsboro",
+	"State": "MD",
+	"latitude": 38.9168,
+	"longitude": -75.9413
+},
+{
+	"City": "Smith Island",
+	"State": "MD",
+	"latitude": 37.9748,
+	"longitude": -76.0251
+},
+{
+	"City": "Tyaskin",
+	"State": "MD",
+	"latitude": 38.3193,
+	"longitude": -75.8738
+},
+{
+	"City": "National",
+	"State": "MD",
+	"latitude": 39.6111,
+	"longitude": -78.9401
+},
+{
+	"City": "Brookeville",
+	"State": "MD",
+	"latitude": 39.1809,
+	"longitude": -77.059
+},
+{
+	"City": "Henderson",
+	"State": "MD",
+	"latitude": 39.075,
+	"longitude": -75.7661
+},
+{
+	"City": "Marydel",
+	"State": "MD",
+	"latitude": 39.113,
+	"longitude": -75.7497
+},
+{
+	"City": "Ringgold",
+	"State": "MD",
+	"latitude": 39.7091,
+	"longitude": -77.569
+},
+{
+	"City": "Klondike",
+	"State": "MD",
+	"latitude": 39.6101,
+	"longitude": -78.9635
+},
+{
+	"City": "Galestown",
+	"State": "MD",
+	"latitude": 38.5633,
+	"longitude": -75.715
+},
+{
+	"City": "Church Creek",
+	"State": "MD",
+	"latitude": 38.5036,
+	"longitude": -76.153
+},
+{
+	"City": "Trego-Rohrersville Station",
+	"State": "MD",
+	"latitude": 39.4291,
+	"longitude": -77.6748
+},
+{
+	"City": "Templeville",
+	"State": "MD",
+	"latitude": 39.1362,
+	"longitude": -75.7667
+},
+{
+	"City": "Rohrersville",
+	"State": "MD",
+	"latitude": 39.4349,
+	"longitude": -77.6655
+},
+{
+	"City": "Highland Beach",
+	"State": "MD",
+	"latitude": 38.9312,
+	"longitude": -76.466
+},
+{
+	"City": "Detmold",
+	"State": "MD",
+	"latitude": 39.5572,
+	"longitude": -78.991
+},
+{
+	"City": "Frenchtown-Rumbly",
+	"State": "MD",
+	"latitude": 38.0831,
+	"longitude": -75.8521
+},
+{
+	"City": "Bivalve",
+	"State": "MD",
+	"latitude": 38.3059,
+	"longitude": -75.8834
+},
+{
+	"City": "Girdletree",
+	"State": "MD",
+	"latitude": 38.0987,
+	"longitude": -75.4004
+},
+{
+	"City": "Williston",
+	"State": "MD",
+	"latitude": 38.8309,
+	"longitude": -75.8511
+},
+{
+	"City": "Vale Summit",
+	"State": "MD",
+	"latitude": 39.6152,
+	"longitude": -78.9084
+},
+{
+	"City": "Gorman",
+	"State": "MD",
+	"latitude": 39.2923,
+	"longitude": -79.3527
+},
+{
+	"City": "Cearfoss",
+	"State": "MD",
+	"latitude": 39.6989,
+	"longitude": -77.7766
+},
+{
+	"City": "Mercersville",
+	"State": "MD",
+	"latitude": 39.4968,
+	"longitude": -77.7672
+},
+{
+	"City": "Georgetown",
+	"State": "MD",
+	"latitude": 39.2194,
+	"longitude": -76.1971
+},
+{
+	"City": "Big Pool",
+	"State": "MD",
+	"latitude": 39.6251,
+	"longitude": -78.0161
+},
+{
+	"City": "Stockton",
+	"State": "MD",
+	"latitude": 38.0659,
+	"longitude": -75.4134
+},
+{
+	"City": "Rock Point",
+	"State": "MD",
+	"latitude": 38.2754,
+	"longitude": -76.8428
+},
+{
+	"City": "Crellin",
+	"State": "MD",
+	"latitude": 39.3887,
+	"longitude": -79.4686
+},
+{
+	"City": "Barrelville",
+	"State": "MD",
+	"latitude": 39.7026,
+	"longitude": -78.8425
+},
+{
+	"City": "Carlos",
+	"State": "MD",
+	"latitude": 39.6237,
+	"longitude": -78.9567
+},
+{
+	"City": "Dawson",
+	"State": "MD",
+	"latitude": 39.4789,
+	"longitude": -78.9462
+},
+{
+	"City": "Worton",
+	"State": "MD",
+	"latitude": 39.2717,
+	"longitude": -76.0934
+},
+{
+	"City": "Gapland",
+	"State": "MD",
+	"latitude": 39.402,
+	"longitude": -77.6583
+},
+{
+	"City": "Antietam",
+	"State": "MD",
+	"latitude": 39.4151,
+	"longitude": -77.7364
+},
+{
+	"City": "Fort Ritchie",
+	"State": "MD",
+	"latitude": 39.7022,
+	"longitude": -77.5021
+},
+{
+	"City": "Hutton",
+	"State": "MD",
+	"latitude": 39.4145,
+	"longitude": -79.4801
+},
+{
+	"City": "Eagle Harbor",
+	"State": "MD",
+	"latitude": 38.5664,
+	"longitude": -76.6872
+},
+{
+	"City": "Whitehaven",
+	"State": "MD",
+	"latitude": 38.2707,
+	"longitude": -75.7935
+},
+{
+	"City": "Big Spring",
+	"State": "MD",
+	"latitude": 39.6258,
+	"longitude": -77.9396
+},
+{
+	"City": "Luke",
+	"State": "MD",
+	"latitude": 39.4766,
+	"longitude": -79.0593
+},
+{
+	"City": "Brookview",
+	"State": "MD",
+	"latitude": 38.5738,
+	"longitude": -75.7926
+},
+{
+	"City": "Eldorado",
+	"State": "MD",
+	"latitude": 38.5842,
+	"longitude": -75.7893
+},
+{
+	"City": "Spring Gap",
+	"State": "MD",
+	"latitude": 39.5653,
+	"longitude": -78.7054
+},
+{
+	"City": "Whaleyville",
+	"State": "MD",
+	"latitude": 38.3911,
+	"longitude": -75.3001
+},
+{
+	"City": "Bakersville",
+	"State": "MD",
+	"latitude": 39.5148,
+	"longitude": -77.757
+},
+{
+	"City": "Powellville",
+	"State": "MD",
+	"latitude": 38.3296,
+	"longitude": -75.3753
+},
+{
+	"City": "Oldtown",
+	"State": "MD",
+	"latitude": 39.5428,
+	"longitude": -78.6155
+},
+{
+	"City": "Pondsville",
+	"State": "MD",
+	"latitude": 39.6234,
+	"longitude": -77.5916
+},
+{
+	"City": "Dames Quarter",
+	"State": "MD",
+	"latitude": 38.1697,
+	"longitude": -75.8895
+},
+{
+	"City": "Ernstville",
+	"State": "MD",
+	"latitude": 39.6304,
+	"longitude": -78.0239
+},
+{
+	"City": "Elliott",
+	"State": "MD",
+	"latitude": 38.3095,
+	"longitude": -76.0067
+},
+{
+	"City": "Woodland",
+	"State": "MD",
+	"latitude": 39.6081,
+	"longitude": -78.9497
+},
+{
+	"City": "Reid",
+	"State": "MD",
+	"latitude": 39.7126,
+	"longitude": -77.6794
+},
+{
+	"City": "Little Orleans",
+	"State": "MD",
+	"latitude": 39.6308,
+	"longitude": -78.3921
+},
+{
+	"City": "Nanticoke Acres",
+	"State": "MD",
+	"latitude": 38.2578,
+	"longitude": -75.906
+},
+{
+	"City": "Clarysville",
+	"State": "MD",
+	"latitude": 39.6421,
+	"longitude": -78.8887
+},
+{
+	"City": "Kemps Mill",
+	"State": "MD",
+	"latitude": 39.6268,
+	"longitude": -77.8138
+},
+{
+	"City": "Brownsville",
+	"State": "MD",
+	"latitude": 39.3782,
+	"longitude": -77.6615
+},
+{
+	"City": "Fairview",
+	"State": "MD",
+	"latitude": 39.7111,
+	"longitude": -77.8406
+},
+{
+	"City": "Indian Springs",
+	"State": "MD",
+	"latitude": 39.6457,
+	"longitude": -78.0074
+},
+{
+	"City": "Waterview",
+	"State": "MD",
+	"latitude": 38.2482,
+	"longitude": -75.9017
+},
+{
+	"City": "Middleburg",
+	"State": "MD",
+	"latitude": 39.7177,
+	"longitude": -77.7239
+},
+{
+	"City": "West Denton",
+	"State": "MD",
+	"latitude": 38.8896,
+	"longitude": -75.8389
+},
+{
+	"City": "Port Tobacco Village",
+	"State": "MD",
+	"latitude": 38.5104,
+	"longitude": -77.0197
+}]

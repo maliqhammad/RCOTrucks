@@ -1,0 +1,3229 @@
+[
+{
+	"City": "Louisville",
+	"State": "KY",
+	"latitude": 38.1663,
+	"longitude": -85.6485
+},
+{
+	"City": "Lexington",
+	"State": "KY",
+	"latitude": 38.0423,
+	"longitude": -84.4587
+},
+{
+	"City": "Bowling Green",
+	"State": "KY",
+	"latitude": 36.9719,
+	"longitude": -86.4373
+},
+{
+	"City": "Elizabethtown",
+	"State": "KY",
+	"latitude": 37.703,
+	"longitude": -85.877
+},
+{
+	"City": "Owensboro",
+	"State": "KY",
+	"latitude": 37.7574,
+	"longitude": -87.1173
+},
+{
+	"City": "Paducah",
+	"State": "KY",
+	"latitude": 37.0711,
+	"longitude": -88.6436
+},
+{
+	"City": "Richmond",
+	"State": "KY",
+	"latitude": 37.7306,
+	"longitude": -84.2926
+},
+{
+	"City": "Covington",
+	"State": "KY",
+	"latitude": 39.0334,
+	"longitude": -84.5166
+},
+{
+	"City": "Frankfort",
+	"State": "KY",
+	"latitude": 38.1924,
+	"longitude": -84.8643
+},
+{
+	"City": "London",
+	"State": "KY",
+	"latitude": 37.1175,
+	"longitude": -84.0767
+},
+{
+	"City": "Georgetown",
+	"State": "KY",
+	"latitude": 38.2249,
+	"longitude": -84.5482
+},
+{
+	"City": "Florence",
+	"State": "KY",
+	"latitude": 38.99,
+	"longitude": -84.647
+},
+{
+	"City": "Hopkinsville",
+	"State": "KY",
+	"latitude": 36.8386,
+	"longitude": -87.4776
+},
+{
+	"City": "Nicholasville",
+	"State": "KY",
+	"latitude": 37.8902,
+	"longitude": -84.5669
+},
+{
+	"City": "Somerset",
+	"State": "KY",
+	"latitude": 37.0815,
+	"longitude": -84.6091
+},
+{
+	"City": "Independence",
+	"State": "KY",
+	"latitude": 38.951,
+	"longitude": -84.5492
+},
+{
+	"City": "Henderson",
+	"State": "KY",
+	"latitude": 37.8397,
+	"longitude": -87.5798
+},
+{
+	"City": "Jeffersontown",
+	"State": "KY",
+	"latitude": 38.2048,
+	"longitude": -85.5701
+},
+{
+	"City": "Winchester",
+	"State": "KY",
+	"latitude": 38.0017,
+	"longitude": -84.1907
+},
+{
+	"City": "Shelbyville",
+	"State": "KY",
+	"latitude": 38.2069,
+	"longitude": -85.2293
+},
+{
+	"City": "Madisonville",
+	"State": "KY",
+	"latitude": 37.3408,
+	"longitude": -87.5034
+},
+{
+	"City": "Radcliff",
+	"State": "KY",
+	"latitude": 37.8206,
+	"longitude": -85.9366
+},
+{
+	"City": "Bardstown",
+	"State": "KY",
+	"latitude": 37.8174,
+	"longitude": -85.4548
+},
+{
+	"City": "Murray",
+	"State": "KY",
+	"latitude": 36.6146,
+	"longitude": -88.3206
+},
+{
+	"City": "Ashland",
+	"State": "KY",
+	"latitude": 38.4592,
+	"longitude": -82.6449
+},
+{
+	"City": "Danville",
+	"State": "KY",
+	"latitude": 37.6418,
+	"longitude": -84.7777
+},
+{
+	"City": "Erlanger",
+	"State": "KY",
+	"latitude": 39.0109,
+	"longitude": -84.5864
+},
+{
+	"City": "Berea",
+	"State": "KY",
+	"latitude": 37.5904,
+	"longitude": -84.2898
+},
+{
+	"City": "St. Matthews",
+	"State": "KY",
+	"latitude": 38.2497,
+	"longitude": -85.6383
+},
+{
+	"City": "Burlington",
+	"State": "KY",
+	"latitude": 39.0223,
+	"longitude": -84.7217
+},
+{
+	"City": "Versailles",
+	"State": "KY",
+	"latitude": 38.0487,
+	"longitude": -84.7259
+},
+{
+	"City": "Fort Thomas",
+	"State": "KY",
+	"latitude": 39.0802,
+	"longitude": -84.4518
+},
+{
+	"City": "Shively",
+	"State": "KY",
+	"latitude": 38.197,
+	"longitude": -85.8136
+},
+{
+	"City": "Newport",
+	"State": "KY",
+	"latitude": 39.0855,
+	"longitude": -84.4868
+},
+{
+	"City": "Mount Washington",
+	"State": "KY",
+	"latitude": 38.043,
+	"longitude": -85.5549
+},
+{
+	"City": "Campbellsville",
+	"State": "KY",
+	"latitude": 37.3446,
+	"longitude": -85.3511
+},
+{
+	"City": "Glasgow",
+	"State": "KY",
+	"latitude": 37.0047,
+	"longitude": -85.9263
+},
+{
+	"City": "Fort Campbell North",
+	"State": "KY",
+	"latitude": 36.6554,
+	"longitude": -87.4658
+},
+{
+	"City": "Lawrenceburg",
+	"State": "KY",
+	"latitude": 38.0332,
+	"longitude": -84.9032
+},
+{
+	"City": "Middlesborough",
+	"State": "KY",
+	"latitude": 36.6127,
+	"longitude": -83.7227
+},
+{
+	"City": "Paris",
+	"State": "KY",
+	"latitude": 38.2016,
+	"longitude": -84.2719
+},
+{
+	"City": "Shepherdsville",
+	"State": "KY",
+	"latitude": 37.9806,
+	"longitude": -85.6999
+},
+{
+	"City": "Lyndon",
+	"State": "KY",
+	"latitude": 38.2644,
+	"longitude": -85.5891
+},
+{
+	"City": "Mount Sterling",
+	"State": "KY",
+	"latitude": 38.0648,
+	"longitude": -83.9472
+},
+{
+	"City": "Mayfield",
+	"State": "KY",
+	"latitude": 36.737,
+	"longitude": -88.6446
+},
+{
+	"City": "Maysville",
+	"State": "KY",
+	"latitude": 38.6454,
+	"longitude": -83.7911
+},
+{
+	"City": "Franklin",
+	"State": "KY",
+	"latitude": 36.7178,
+	"longitude": -86.5595
+},
+{
+	"City": "Alexandria",
+	"State": "KY",
+	"latitude": 38.9621,
+	"longitude": -84.386
+},
+{
+	"City": "Wilmore",
+	"State": "KY",
+	"latitude": 37.8786,
+	"longitude": -84.6545
+},
+{
+	"City": "Central City",
+	"State": "KY",
+	"latitude": 37.2962,
+	"longitude": -87.128
+},
+{
+	"City": "Francisville",
+	"State": "KY",
+	"latitude": 39.1067,
+	"longitude": -84.7277
+},
+{
+	"City": "Hillview",
+	"State": "KY",
+	"latitude": 38.0563,
+	"longitude": -85.6848
+},
+{
+	"City": "La Grange",
+	"State": "KY",
+	"latitude": 38.3987,
+	"longitude": -85.375
+},
+{
+	"City": "Oakbrook",
+	"State": "KY",
+	"latitude": 38.9996,
+	"longitude": -84.6797
+},
+{
+	"City": "Harrodsburg",
+	"State": "KY",
+	"latitude": 37.7654,
+	"longitude": -84.8474
+},
+{
+	"City": "Edgewood",
+	"State": "KY",
+	"latitude": 39.0091,
+	"longitude": -84.5604
+},
+{
+	"City": "Fort Knox",
+	"State": "KY",
+	"latitude": 37.8915,
+	"longitude": -85.9636
+},
+{
+	"City": "Elsmere",
+	"State": "KY",
+	"latitude": 38.9949,
+	"longitude": -84.6017
+},
+{
+	"City": "Fort Mitchell",
+	"State": "KY",
+	"latitude": 39.0459,
+	"longitude": -84.5563
+},
+{
+	"City": "Hazard",
+	"State": "KY",
+	"latitude": 37.2583,
+	"longitude": -83.1977
+},
+{
+	"City": "Morehead",
+	"State": "KY",
+	"latitude": 38.1906,
+	"longitude": -83.4467
+},
+{
+	"City": "Middletown",
+	"State": "KY",
+	"latitude": 38.241,
+	"longitude": -85.5215
+},
+{
+	"City": "Pikeville",
+	"State": "KY",
+	"latitude": 37.4807,
+	"longitude": -82.5262
+},
+{
+	"City": "Villa Hills",
+	"State": "KY",
+	"latitude": 39.0656,
+	"longitude": -84.595
+},
+{
+	"City": "Oak Grove",
+	"State": "KY",
+	"latitude": 36.6686,
+	"longitude": -87.4216
+},
+{
+	"City": "Corbin",
+	"State": "KY",
+	"latitude": 36.9321,
+	"longitude": -84.1004
+},
+{
+	"City": "Russellville",
+	"State": "KY",
+	"latitude": 36.8393,
+	"longitude": -86.895
+},
+{
+	"City": "Flatwoods",
+	"State": "KY",
+	"latitude": 38.521,
+	"longitude": -82.7195
+},
+{
+	"City": "Highland Heights",
+	"State": "KY",
+	"latitude": 39.0355,
+	"longitude": -84.4567
+},
+{
+	"City": "Leitchfield",
+	"State": "KY",
+	"latitude": 37.4862,
+	"longitude": -86.2857
+},
+{
+	"City": "Paintsville",
+	"State": "KY",
+	"latitude": 37.8167,
+	"longitude": -82.8088
+},
+{
+	"City": "Taylor Mill",
+	"State": "KY",
+	"latitude": 39.0092,
+	"longitude": -84.4988
+},
+{
+	"City": "Beaver Dam",
+	"State": "KY",
+	"latitude": 37.4042,
+	"longitude": -86.8742
+},
+{
+	"City": "Cold Spring",
+	"State": "KY",
+	"latitude": 39.013,
+	"longitude": -84.4349
+},
+{
+	"City": "Monticello",
+	"State": "KY",
+	"latitude": 36.8404,
+	"longitude": -84.8506
+},
+{
+	"City": "Prestonsburg",
+	"State": "KY",
+	"latitude": 37.6816,
+	"longitude": -82.7662
+},
+{
+	"City": "Hebron",
+	"State": "KY",
+	"latitude": 39.0626,
+	"longitude": -84.709
+},
+{
+	"City": "Vine Grove",
+	"State": "KY",
+	"latitude": 37.8133,
+	"longitude": -85.9828
+},
+{
+	"City": "Cynthiana",
+	"State": "KY",
+	"latitude": 38.386,
+	"longitude": -84.2993
+},
+{
+	"City": "Princeton",
+	"State": "KY",
+	"latitude": 37.1068,
+	"longitude": -87.8854
+},
+{
+	"City": "Harlan",
+	"State": "KY",
+	"latitude": 36.8432,
+	"longitude": -83.3184
+},
+{
+	"City": "Barbourville",
+	"State": "KY",
+	"latitude": 36.8667,
+	"longitude": -83.885
+},
+{
+	"City": "Union",
+	"State": "KY",
+	"latitude": 38.9472,
+	"longitude": -84.6731
+},
+{
+	"City": "Williamsburg",
+	"State": "KY",
+	"latitude": 36.7392,
+	"longitude": -84.1647
+},
+{
+	"City": "Lebanon",
+	"State": "KY",
+	"latitude": 37.5689,
+	"longitude": -85.2578
+},
+{
+	"City": "Fort Wright",
+	"State": "KY",
+	"latitude": 39.0462,
+	"longitude": -84.5362
+},
+{
+	"City": "Bellevue",
+	"State": "KY",
+	"latitude": 39.1011,
+	"longitude": -84.4776
+},
+{
+	"City": "Douglass Hills",
+	"State": "KY",
+	"latitude": 38.2366,
+	"longitude": -85.5499
+},
+{
+	"City": "Dayton",
+	"State": "KY",
+	"latitude": 39.1127,
+	"longitude": -84.464
+},
+{
+	"City": "Buckner",
+	"State": "KY",
+	"latitude": 38.3867,
+	"longitude": -85.4503
+},
+{
+	"City": "Morganfield",
+	"State": "KY",
+	"latitude": 37.6869,
+	"longitude": -87.8876
+},
+{
+	"City": "Grayson",
+	"State": "KY",
+	"latitude": 38.3317,
+	"longitude": -82.9371
+},
+{
+	"City": "Hendron",
+	"State": "KY",
+	"latitude": 37.0346,
+	"longitude": -88.6437
+},
+{
+	"City": "Crestwood",
+	"State": "KY",
+	"latitude": 38.3356,
+	"longitude": -85.4839
+},
+{
+	"City": "Massac",
+	"State": "KY",
+	"latitude": 37.0335,
+	"longitude": -88.6859
+},
+{
+	"City": "Carrollton",
+	"State": "KY",
+	"latitude": 38.68,
+	"longitude": -85.1656
+},
+{
+	"City": "Prospect",
+	"State": "KY",
+	"latitude": 38.3471,
+	"longitude": -85.6103
+},
+{
+	"City": "Manchester",
+	"State": "KY",
+	"latitude": 37.1464,
+	"longitude": -83.7635
+},
+{
+	"City": "Columbia",
+	"State": "KY",
+	"latitude": 37.1036,
+	"longitude": -85.3074
+},
+{
+	"City": "Westwood",
+	"State": "KY",
+	"latitude": 38.4806,
+	"longitude": -82.6798
+},
+{
+	"City": "Scottsville",
+	"State": "KY",
+	"latitude": 36.7521,
+	"longitude": -86.2018
+},
+{
+	"City": "Benton",
+	"State": "KY",
+	"latitude": 36.8512,
+	"longitude": -88.3594
+},
+{
+	"City": "Ludlow",
+	"State": "KY",
+	"latitude": 39.0904,
+	"longitude": -84.5498
+},
+{
+	"City": "Williamstown",
+	"State": "KY",
+	"latitude": 38.6415,
+	"longitude": -84.5676
+},
+{
+	"City": "Horse Cave",
+	"State": "KY",
+	"latitude": 37.1738,
+	"longitude": -85.9146
+},
+{
+	"City": "Stanford",
+	"State": "KY",
+	"latitude": 37.535,
+	"longitude": -84.6605
+},
+{
+	"City": "Hurstbourne",
+	"State": "KY",
+	"latitude": 38.238,
+	"longitude": -85.5891
+},
+{
+	"City": "Crittenden",
+	"State": "KY",
+	"latitude": 38.7754,
+	"longitude": -84.6137
+},
+{
+	"City": "Reidland",
+	"State": "KY",
+	"latitude": 37.0085,
+	"longitude": -88.5261
+},
+{
+	"City": "Farley",
+	"State": "KY",
+	"latitude": 37.0405,
+	"longitude": -88.5734
+},
+{
+	"City": "Greenville",
+	"State": "KY",
+	"latitude": 37.2121,
+	"longitude": -87.1779
+},
+{
+	"City": "Lancaster",
+	"State": "KY",
+	"latitude": 37.6152,
+	"longitude": -84.5817
+},
+{
+	"City": "Stanton",
+	"State": "KY",
+	"latitude": 37.8465,
+	"longitude": -83.8563
+},
+{
+	"City": "Walton",
+	"State": "KY",
+	"latitude": 38.8646,
+	"longitude": -84.6122
+},
+{
+	"City": "Crescent Springs",
+	"State": "KY",
+	"latitude": 39.0553,
+	"longitude": -84.5788
+},
+{
+	"City": "Southgate",
+	"State": "KY",
+	"latitude": 39.063,
+	"longitude": -84.4715
+},
+{
+	"City": "Louisa",
+	"State": "KY",
+	"latitude": 38.1079,
+	"longitude": -82.6132
+},
+{
+	"City": "Fulton",
+	"State": "KY",
+	"latitude": 36.5145,
+	"longitude": -88.8819
+},
+{
+	"City": "Rineyville",
+	"State": "KY",
+	"latitude": 37.7502,
+	"longitude": -85.9703
+},
+{
+	"City": "West Liberty",
+	"State": "KY",
+	"latitude": 37.9161,
+	"longitude": -83.2668
+},
+{
+	"City": "Hodgenville",
+	"State": "KY",
+	"latitude": 37.5668,
+	"longitude": -85.7353
+},
+{
+	"City": "Crestview Hills",
+	"State": "KY",
+	"latitude": 39.0249,
+	"longitude": -84.5695
+},
+{
+	"City": "Russell",
+	"State": "KY",
+	"latitude": 38.5116,
+	"longitude": -82.6996
+},
+{
+	"City": "Cumberland",
+	"State": "KY",
+	"latitude": 36.9824,
+	"longitude": -82.9919
+},
+{
+	"City": "Cadiz",
+	"State": "KY",
+	"latitude": 36.8695,
+	"longitude": -87.8048
+},
+{
+	"City": "Wilder",
+	"State": "KY",
+	"latitude": 39.04,
+	"longitude": -84.4816
+},
+{
+	"City": "Providence",
+	"State": "KY",
+	"latitude": 37.3993,
+	"longitude": -87.7509
+},
+{
+	"City": "Park Hills",
+	"State": "KY",
+	"latitude": 39.0691,
+	"longitude": -84.5312
+},
+{
+	"City": "Indian Hills",
+	"State": "KY",
+	"latitude": 38.2808,
+	"longitude": -85.6616
+},
+{
+	"City": "Irvine",
+	"State": "KY",
+	"latitude": 37.6969,
+	"longitude": -83.9685
+},
+{
+	"City": "Springfield",
+	"State": "KY",
+	"latitude": 37.6921,
+	"longitude": -85.2193
+},
+{
+	"City": "Flemingsburg",
+	"State": "KY",
+	"latitude": 38.4236,
+	"longitude": -83.7372
+},
+{
+	"City": "Graymoor-Devondale",
+	"State": "KY",
+	"latitude": 38.2733,
+	"longitude": -85.6177
+},
+{
+	"City": "Pioneer Village",
+	"State": "KY",
+	"latitude": 38.0599,
+	"longitude": -85.68
+},
+{
+	"City": "Simpsonville",
+	"State": "KY",
+	"latitude": 38.2167,
+	"longitude": -85.3514
+},
+{
+	"City": "Brandenburg",
+	"State": "KY",
+	"latitude": 37.9956,
+	"longitude": -86.1773
+},
+{
+	"City": "Marion",
+	"State": "KY",
+	"latitude": 37.3321,
+	"longitude": -88.0795
+},
+{
+	"City": "Lakeside Park",
+	"State": "KY",
+	"latitude": 39.0338,
+	"longitude": -84.5674
+},
+{
+	"City": "Hartford",
+	"State": "KY",
+	"latitude": 37.4506,
+	"longitude": -86.893
+},
+{
+	"City": "Russell Springs",
+	"State": "KY",
+	"latitude": 37.0509,
+	"longitude": -85.0774
+},
+{
+	"City": "Dawson Springs",
+	"State": "KY",
+	"latitude": 37.174,
+	"longitude": -87.688
+},
+{
+	"City": "Eminence",
+	"State": "KY",
+	"latitude": 38.3637,
+	"longitude": -85.1778
+},
+{
+	"City": "Mount Vernon",
+	"State": "KY",
+	"latitude": 37.3578,
+	"longitude": -84.3431
+},
+{
+	"City": "Eddyville",
+	"State": "KY",
+	"latitude": 37.0759,
+	"longitude": -88.0769
+},
+{
+	"City": "Calvert City",
+	"State": "KY",
+	"latitude": 37.0295,
+	"longitude": -88.3603
+},
+{
+	"City": "Brooks",
+	"State": "KY",
+	"latitude": 38.0656,
+	"longitude": -85.7178
+},
+{
+	"City": "Windy Hills",
+	"State": "KY",
+	"latitude": 38.2702,
+	"longitude": -85.6378
+},
+{
+	"City": "Claryville",
+	"State": "KY",
+	"latitude": 38.9141,
+	"longitude": -84.4103
+},
+{
+	"City": "Morgantown",
+	"State": "KY",
+	"latitude": 37.2173,
+	"longitude": -86.7001
+},
+{
+	"City": "Cave City",
+	"State": "KY",
+	"latitude": 37.14,
+	"longitude": -85.9646
+},
+{
+	"City": "Anchorage",
+	"State": "KY",
+	"latitude": 38.2689,
+	"longitude": -85.5363
+},
+{
+	"City": "Raceland",
+	"State": "KY",
+	"latitude": 38.5376,
+	"longitude": -82.7344
+},
+{
+	"City": "Hardinsburg",
+	"State": "KY",
+	"latitude": 37.7755,
+	"longitude": -86.4537
+},
+{
+	"City": "Junction City",
+	"State": "KY",
+	"latitude": 37.5854,
+	"longitude": -84.7903
+},
+{
+	"City": "Tompkinsville",
+	"State": "KY",
+	"latitude": 36.7012,
+	"longitude": -85.6927
+},
+{
+	"City": "Jackson",
+	"State": "KY",
+	"latitude": 37.5589,
+	"longitude": -83.3782
+},
+{
+	"City": "Evarts",
+	"State": "KY",
+	"latitude": 36.8644,
+	"longitude": -83.1926
+},
+{
+	"City": "Dry Ridge",
+	"State": "KY",
+	"latitude": 38.6837,
+	"longitude": -84.6006
+},
+{
+	"City": "Liberty",
+	"State": "KY",
+	"latitude": 37.3206,
+	"longitude": -84.9285
+},
+{
+	"City": "Elkton",
+	"State": "KY",
+	"latitude": 36.8135,
+	"longitude": -87.161
+},
+{
+	"City": "Breckinridge Center",
+	"State": "KY",
+	"latitude": 37.682,
+	"longitude": -87.8656
+},
+{
+	"City": "Hickman",
+	"State": "KY",
+	"latitude": 36.565,
+	"longitude": -89.1837
+},
+{
+	"City": "Falmouth",
+	"State": "KY",
+	"latitude": 38.6708,
+	"longitude": -84.331
+},
+{
+	"City": "Greensburg",
+	"State": "KY",
+	"latitude": 37.2599,
+	"longitude": -85.4966
+},
+{
+	"City": "North Corbin",
+	"State": "KY",
+	"latitude": 36.9649,
+	"longitude": -84.0973
+},
+{
+	"City": "Albany",
+	"State": "KY",
+	"latitude": 36.6906,
+	"longitude": -85.1353
+},
+{
+	"City": "Carlisle",
+	"State": "KY",
+	"latitude": 38.3162,
+	"longitude": -84.0333
+},
+{
+	"City": "Lebanon Junction",
+	"State": "KY",
+	"latitude": 37.8358,
+	"longitude": -85.7243
+},
+{
+	"City": "Jenkins",
+	"State": "KY",
+	"latitude": 37.1826,
+	"longitude": -82.6311
+},
+{
+	"City": "Midway",
+	"State": "KY",
+	"latitude": 38.1543,
+	"longitude": -84.678
+},
+{
+	"City": "Hurstbourne Acres",
+	"State": "KY",
+	"latitude": 38.2201,
+	"longitude": -85.5907
+},
+{
+	"City": "Ledbetter",
+	"State": "KY",
+	"latitude": 37.0521,
+	"longitude": -88.4966
+},
+{
+	"City": "Doe Valley",
+	"State": "KY",
+	"latitude": 37.9745,
+	"longitude": -86.1107
+},
+{
+	"City": "Whitesburg",
+	"State": "KY",
+	"latitude": 37.1183,
+	"longitude": -82.823
+},
+{
+	"City": "Jamestown",
+	"State": "KY",
+	"latitude": 36.9896,
+	"longitude": -85.0662
+},
+{
+	"City": "Sturgis",
+	"State": "KY",
+	"latitude": 37.5465,
+	"longitude": -87.9878
+},
+{
+	"City": "Orchard Grass Hills",
+	"State": "KY",
+	"latitude": 38.3234,
+	"longitude": -85.5236
+},
+{
+	"City": "Jeffersonville",
+	"State": "KY",
+	"latitude": 37.9659,
+	"longitude": -83.832
+},
+{
+	"City": "Catlettsburg",
+	"State": "KY",
+	"latitude": 38.4189,
+	"longitude": -82.6024
+},
+{
+	"City": "Pineville",
+	"State": "KY",
+	"latitude": 36.7537,
+	"longitude": -83.7087
+},
+{
+	"City": "Warsaw",
+	"State": "KY",
+	"latitude": 38.7773,
+	"longitude": -84.9042
+},
+{
+	"City": "Lewisport",
+	"State": "KY",
+	"latitude": 37.931,
+	"longitude": -86.9029
+},
+{
+	"City": "Munfordville",
+	"State": "KY",
+	"latitude": 37.2795,
+	"longitude": -85.8982
+},
+{
+	"City": "Salyersville",
+	"State": "KY",
+	"latitude": 37.7459,
+	"longitude": -83.0646
+},
+{
+	"City": "Elk Creek",
+	"State": "KY",
+	"latitude": 38.117,
+	"longitude": -85.3722
+},
+{
+	"City": "Edmonton",
+	"State": "KY",
+	"latitude": 36.9854,
+	"longitude": -85.6193
+},
+{
+	"City": "Owingsville",
+	"State": "KY",
+	"latitude": 38.1364,
+	"longitude": -83.7603
+},
+{
+	"City": "Pewee Valley",
+	"State": "KY",
+	"latitude": 38.3105,
+	"longitude": -85.4895
+},
+{
+	"City": "Olive Hill",
+	"State": "KY",
+	"latitude": 38.3033,
+	"longitude": -83.1695
+},
+{
+	"City": "Worthington Hills",
+	"State": "KY",
+	"latitude": 38.3093,
+	"longitude": -85.527
+},
+{
+	"City": "Owenton",
+	"State": "KY",
+	"latitude": 38.5386,
+	"longitude": -84.8409
+},
+{
+	"City": "Sebree",
+	"State": "KY",
+	"latitude": 37.604,
+	"longitude": -87.5187
+},
+{
+	"City": "Coal Run Village",
+	"State": "KY",
+	"latitude": 37.5372,
+	"longitude": -82.5578
+},
+{
+	"City": "Worthington",
+	"State": "KY",
+	"latitude": 38.5509,
+	"longitude": -82.7349
+},
+{
+	"City": "St. Regis Park",
+	"State": "KY",
+	"latitude": 38.2289,
+	"longitude": -85.6159
+},
+{
+	"City": "Audubon Park",
+	"State": "KY",
+	"latitude": 38.205,
+	"longitude": -85.727
+},
+{
+	"City": "Pine Knot",
+	"State": "KY",
+	"latitude": 36.6648,
+	"longitude": -84.4395
+},
+{
+	"City": "Burkesville",
+	"State": "KY",
+	"latitude": 36.7906,
+	"longitude": -85.3674
+},
+{
+	"City": "Verona",
+	"State": "KY",
+	"latitude": 38.8122,
+	"longitude": -84.6649
+},
+{
+	"City": "Guthrie",
+	"State": "KY",
+	"latitude": 36.6502,
+	"longitude": -87.1741
+},
+{
+	"City": "Vanceburg",
+	"State": "KY",
+	"latitude": 38.5937,
+	"longitude": -83.3212
+},
+{
+	"City": "Whitley City",
+	"State": "KY",
+	"latitude": 36.7238,
+	"longitude": -84.4731
+},
+{
+	"City": "Masonville",
+	"State": "KY",
+	"latitude": 37.6718,
+	"longitude": -87.0511
+},
+{
+	"City": "Auburn",
+	"State": "KY",
+	"latitude": 36.8654,
+	"longitude": -86.7107
+},
+{
+	"City": "Beechwood Village",
+	"State": "KY",
+	"latitude": 38.2555,
+	"longitude": -85.6295
+},
+{
+	"City": "Plano",
+	"State": "KY",
+	"latitude": 36.8772,
+	"longitude": -86.4165
+},
+{
+	"City": "Earlington",
+	"State": "KY",
+	"latitude": 37.2754,
+	"longitude": -87.5066
+},
+{
+	"City": "Taylorsville",
+	"State": "KY",
+	"latitude": 38.0368,
+	"longitude": -85.3336
+},
+{
+	"City": "Livermore",
+	"State": "KY",
+	"latitude": 37.4919,
+	"longitude": -87.1342
+},
+{
+	"City": "West Buechel",
+	"State": "KY",
+	"latitude": 38.195,
+	"longitude": -85.6678
+},
+{
+	"City": "Clinton",
+	"State": "KY",
+	"latitude": 36.6662,
+	"longitude": -88.9939
+},
+{
+	"City": "Barbourmeade",
+	"State": "KY",
+	"latitude": 38.2986,
+	"longitude": -85.6009
+},
+{
+	"City": "Beattyville",
+	"State": "KY",
+	"latitude": 37.5862,
+	"longitude": -83.7065
+},
+{
+	"City": "Stearns",
+	"State": "KY",
+	"latitude": 36.6957,
+	"longitude": -84.4769
+},
+{
+	"City": "Irvington",
+	"State": "KY",
+	"latitude": 37.8779,
+	"longitude": -86.2846
+},
+{
+	"City": "Silver Grove",
+	"State": "KY",
+	"latitude": 39.0404,
+	"longitude": -84.3996
+},
+{
+	"City": "Brodhead",
+	"State": "KY",
+	"latitude": 37.4027,
+	"longitude": -84.4144
+},
+{
+	"City": "Hebron Estates",
+	"State": "KY",
+	"latitude": 38.0501,
+	"longitude": -85.6682
+},
+{
+	"City": "Coldstream",
+	"State": "KY",
+	"latitude": 38.3144,
+	"longitude": -85.5264
+},
+{
+	"City": "Cloverport",
+	"State": "KY",
+	"latitude": 37.8312,
+	"longitude": -86.6304
+},
+{
+	"City": "Nortonville",
+	"State": "KY",
+	"latitude": 37.186,
+	"longitude": -87.4556
+},
+{
+	"City": "Augusta",
+	"State": "KY",
+	"latitude": 38.7723,
+	"longitude": -84.0003
+},
+{
+	"City": "Camargo",
+	"State": "KY",
+	"latitude": 37.997,
+	"longitude": -83.8926
+},
+{
+	"City": "Heritage Creek",
+	"State": "KY",
+	"latitude": 38.0952,
+	"longitude": -85.6125
+},
+{
+	"City": "Greenup",
+	"State": "KY",
+	"latitude": 38.5728,
+	"longitude": -82.8303
+},
+{
+	"City": "Clay",
+	"State": "KY",
+	"latitude": 37.4763,
+	"longitude": -87.8203
+},
+{
+	"City": "Clay City",
+	"State": "KY",
+	"latitude": 37.8622,
+	"longitude": -83.9277
+},
+{
+	"City": "Ryland Heights",
+	"State": "KY",
+	"latitude": 38.9701,
+	"longitude": -84.4607
+},
+{
+	"City": "Flat Lick",
+	"State": "KY",
+	"latitude": 36.8353,
+	"longitude": -83.7598
+},
+{
+	"City": "Bloomfield",
+	"State": "KY",
+	"latitude": 37.9122,
+	"longitude": -85.314
+},
+{
+	"City": "South Shore",
+	"State": "KY",
+	"latitude": 38.7224,
+	"longitude": -82.9647
+},
+{
+	"City": "Northfield",
+	"State": "KY",
+	"latitude": 38.2857,
+	"longitude": -85.6362
+},
+{
+	"City": "Auxier",
+	"State": "KY",
+	"latitude": 37.7356,
+	"longitude": -82.7661
+},
+{
+	"City": "Wurtland",
+	"State": "KY",
+	"latitude": 38.5495,
+	"longitude": -82.7788
+},
+{
+	"City": "Watterson Park",
+	"State": "KY",
+	"latitude": 38.189,
+	"longitude": -85.6865
+},
+{
+	"City": "Goshen",
+	"State": "KY",
+	"latitude": 38.4027,
+	"longitude": -85.5825
+},
+{
+	"City": "Burgin",
+	"State": "KY",
+	"latitude": 37.7544,
+	"longitude": -84.7632
+},
+{
+	"City": "Hawesville",
+	"State": "KY",
+	"latitude": 37.8962,
+	"longitude": -86.7562
+},
+{
+	"City": "Rolling Hills",
+	"State": "KY",
+	"latitude": 38.2825,
+	"longitude": -85.5784
+},
+{
+	"City": "Muldraugh",
+	"State": "KY",
+	"latitude": 37.9365,
+	"longitude": -85.9915
+},
+{
+	"City": "Ironville",
+	"State": "KY",
+	"latitude": 38.4562,
+	"longitude": -82.6978
+},
+{
+	"City": "Woodlawn Park",
+	"State": "KY",
+	"latitude": 38.2615,
+	"longitude": -85.6305
+},
+{
+	"City": "La Center",
+	"State": "KY",
+	"latitude": 37.075,
+	"longitude": -88.9748
+},
+{
+	"City": "Ferguson",
+	"State": "KY",
+	"latitude": 37.0629,
+	"longitude": -84.5922
+},
+{
+	"City": "New Castle",
+	"State": "KY",
+	"latitude": 38.4334,
+	"longitude": -85.1689
+},
+{
+	"City": "Lynnview",
+	"State": "KY",
+	"latitude": 38.1791,
+	"longitude": -85.7112
+},
+{
+	"City": "Uniontown",
+	"State": "KY",
+	"latitude": 37.7732,
+	"longitude": -87.9318
+},
+{
+	"City": "Langdon Place",
+	"State": "KY",
+	"latitude": 38.2865,
+	"longitude": -85.5849
+},
+{
+	"City": "East Bernstadt",
+	"State": "KY",
+	"latitude": 37.1923,
+	"longitude": -84.1209
+},
+{
+	"City": "McRoberts",
+	"State": "KY",
+	"latitude": 37.2132,
+	"longitude": -82.6686
+},
+{
+	"City": "White Plains",
+	"State": "KY",
+	"latitude": 37.1708,
+	"longitude": -87.3801
+},
+{
+	"City": "New Haven",
+	"State": "KY",
+	"latitude": 37.6591,
+	"longitude": -85.5885
+},
+{
+	"City": "Annville",
+	"State": "KY",
+	"latitude": 37.3255,
+	"longitude": -83.9622
+},
+{
+	"City": "Elkhorn City",
+	"State": "KY",
+	"latitude": 37.3202,
+	"longitude": -82.3522
+},
+{
+	"City": "Pembroke",
+	"State": "KY",
+	"latitude": 36.7752,
+	"longitude": -87.3579
+},
+{
+	"City": "Clarkson",
+	"State": "KY",
+	"latitude": 37.4937,
+	"longitude": -86.2259
+},
+{
+	"City": "Bellemeade",
+	"State": "KY",
+	"latitude": 38.251,
+	"longitude": -85.591
+},
+{
+	"City": "Adairville",
+	"State": "KY",
+	"latitude": 36.671,
+	"longitude": -86.856
+},
+{
+	"City": "Pleasureville",
+	"State": "KY",
+	"latitude": 38.3511,
+	"longitude": -85.1121
+},
+{
+	"City": "Dixon",
+	"State": "KY",
+	"latitude": 37.5132,
+	"longitude": -87.6961
+},
+{
+	"City": "West Point",
+	"State": "KY",
+	"latitude": 37.9851,
+	"longitude": -85.9557
+},
+{
+	"City": "Plantation",
+	"State": "KY",
+	"latitude": 38.2834,
+	"longitude": -85.5936
+},
+{
+	"City": "South Wallins",
+	"State": "KY",
+	"latitude": 36.8153,
+	"longitude": -83.4044
+},
+{
+	"City": "Fincastle",
+	"State": "KY",
+	"latitude": 38.3082,
+	"longitude": -85.5414
+},
+{
+	"City": "Burnside",
+	"State": "KY",
+	"latitude": 37.0042,
+	"longitude": -84.6489
+},
+{
+	"City": "Brownsville",
+	"State": "KY",
+	"latitude": 37.1952,
+	"longitude": -86.2691
+},
+{
+	"City": "Mortons Gap",
+	"State": "KY",
+	"latitude": 37.2403,
+	"longitude": -87.4667
+},
+{
+	"City": "Crab Orchard",
+	"State": "KY",
+	"latitude": 37.4627,
+	"longitude": -84.5067
+},
+{
+	"City": "Bellefonte",
+	"State": "KY",
+	"latitude": 38.4949,
+	"longitude": -82.6911
+},
+{
+	"City": "Hollow Creek",
+	"State": "KY",
+	"latitude": 38.1527,
+	"longitude": -85.6243
+},
+{
+	"City": "Lewisburg",
+	"State": "KY",
+	"latitude": 36.9872,
+	"longitude": -86.9502
+},
+{
+	"City": "Stamping Ground",
+	"State": "KY",
+	"latitude": 38.2697,
+	"longitude": -84.6831
+},
+{
+	"City": "Smiths Grove",
+	"State": "KY",
+	"latitude": 37.0503,
+	"longitude": -86.2083
+},
+{
+	"City": "Bromley",
+	"State": "KY",
+	"latitude": 39.0801,
+	"longitude": -84.5629
+},
+{
+	"City": "Campbellsburg",
+	"State": "KY",
+	"latitude": 38.522,
+	"longitude": -85.2195
+},
+{
+	"City": "Millersburg",
+	"State": "KY",
+	"latitude": 38.3041,
+	"longitude": -84.145
+},
+{
+	"City": "McKee",
+	"State": "KY",
+	"latitude": 37.4301,
+	"longitude": -83.986
+},
+{
+	"City": "Blue Ridge Manor",
+	"State": "KY",
+	"latitude": 38.2434,
+	"longitude": -85.5647
+},
+{
+	"City": "Garrison",
+	"State": "KY",
+	"latitude": 38.6075,
+	"longitude": -83.1834
+},
+{
+	"City": "Phelps",
+	"State": "KY",
+	"latitude": 37.509,
+	"longitude": -82.1605
+},
+{
+	"City": "Meadow Vale",
+	"State": "KY",
+	"latitude": 38.2833,
+	"longitude": -85.5728
+},
+{
+	"City": "Perryville",
+	"State": "KY",
+	"latitude": 37.6494,
+	"longitude": -84.9513
+},
+{
+	"City": "Green Spring",
+	"State": "KY",
+	"latitude": 38.3163,
+	"longitude": -85.6137
+},
+{
+	"City": "Woodland Hills",
+	"State": "KY",
+	"latitude": 38.2393,
+	"longitude": -85.5289
+},
+{
+	"City": "Powderly",
+	"State": "KY",
+	"latitude": 37.2374,
+	"longitude": -87.1589
+},
+{
+	"City": "Calhoun",
+	"State": "KY",
+	"latitude": 37.5411,
+	"longitude": -87.2596
+},
+{
+	"City": "Salem",
+	"State": "KY",
+	"latitude": 37.2653,
+	"longitude": -88.241
+},
+{
+	"City": "Hanson",
+	"State": "KY",
+	"latitude": 37.4184,
+	"longitude": -87.4808
+},
+{
+	"City": "Seneca Gardens",
+	"State": "KY",
+	"latitude": 38.2272,
+	"longitude": -85.6772
+},
+{
+	"City": "Crofton",
+	"State": "KY",
+	"latitude": 37.0477,
+	"longitude": -87.4843
+},
+{
+	"City": "Upton",
+	"State": "KY",
+	"latitude": 37.4626,
+	"longitude": -85.899
+},
+{
+	"City": "Science Hill",
+	"State": "KY",
+	"latitude": 37.174,
+	"longitude": -84.6329
+},
+{
+	"City": "Loretto",
+	"State": "KY",
+	"latitude": 37.6351,
+	"longitude": -85.3985
+},
+{
+	"City": "Corydon",
+	"State": "KY",
+	"latitude": 37.7403,
+	"longitude": -87.7063
+},
+{
+	"City": "Spring Valley",
+	"State": "KY",
+	"latitude": 38.2968,
+	"longitude": -85.6108
+},
+{
+	"City": "Hindman",
+	"State": "KY",
+	"latitude": 37.335,
+	"longitude": -82.9819
+},
+{
+	"City": "Fleming-Neon",
+	"State": "KY",
+	"latitude": 37.1953,
+	"longitude": -82.7047
+},
+{
+	"City": "Bardwell",
+	"State": "KY",
+	"latitude": 36.874,
+	"longitude": -89.0091
+},
+{
+	"City": "Brownsboro Farm",
+	"State": "KY",
+	"latitude": 38.304,
+	"longitude": -85.5946
+},
+{
+	"City": "Kuttawa",
+	"State": "KY",
+	"latitude": 37.0594,
+	"longitude": -88.1149
+},
+{
+	"City": "Rolling Fields",
+	"State": "KY",
+	"latitude": 38.2689,
+	"longitude": -85.6708
+},
+{
+	"City": "Strathmoor Village",
+	"State": "KY",
+	"latitude": 38.2208,
+	"longitude": -85.6778
+},
+{
+	"City": "Parkway Village",
+	"State": "KY",
+	"latitude": 38.2113,
+	"longitude": -85.7381
+},
+{
+	"City": "Pippa Passes",
+	"State": "KY",
+	"latitude": 37.3342,
+	"longitude": -82.8733
+},
+{
+	"City": "McDowell",
+	"State": "KY",
+	"latitude": 37.459,
+	"longitude": -82.734
+},
+{
+	"City": "Wickliffe",
+	"State": "KY",
+	"latitude": 36.9658,
+	"longitude": -89.0822
+},
+{
+	"City": "North Middletown",
+	"State": "KY",
+	"latitude": 38.1426,
+	"longitude": -84.1102
+},
+{
+	"City": "Barlow",
+	"State": "KY",
+	"latitude": 37.0511,
+	"longitude": -89.0445
+},
+{
+	"City": "Lynch",
+	"State": "KY",
+	"latitude": 36.9641,
+	"longitude": -82.9139
+},
+{
+	"City": "Cannonsburg",
+	"State": "KY",
+	"latitude": 38.3806,
+	"longitude": -82.7006
+},
+{
+	"City": "Wingo",
+	"State": "KY",
+	"latitude": 36.6422,
+	"longitude": -88.7396
+},
+{
+	"City": "Brooksville",
+	"State": "KY",
+	"latitude": 38.6818,
+	"longitude": -84.0666
+},
+{
+	"City": "Inez",
+	"State": "KY",
+	"latitude": 37.8693,
+	"longitude": -82.5399
+},
+{
+	"City": "Cecilia",
+	"State": "KY",
+	"latitude": 37.6622,
+	"longitude": -85.9522
+},
+{
+	"City": "Magnolia",
+	"State": "KY",
+	"latitude": 37.4502,
+	"longitude": -85.74
+},
+{
+	"City": "Artemus",
+	"State": "KY",
+	"latitude": 36.8352,
+	"longitude": -83.8414
+},
+{
+	"City": "Sandy Hook",
+	"State": "KY",
+	"latitude": 38.0929,
+	"longitude": -83.1241
+},
+{
+	"City": "Caneyville",
+	"State": "KY",
+	"latitude": 37.4241,
+	"longitude": -86.4906
+},
+{
+	"City": "Chaplin",
+	"State": "KY",
+	"latitude": 37.8996,
+	"longitude": -85.2195
+},
+{
+	"City": "Murray Hill",
+	"State": "KY",
+	"latitude": 38.2907,
+	"longitude": -85.5871
+},
+{
+	"City": "Hardin",
+	"State": "KY",
+	"latitude": 36.7652,
+	"longitude": -88.3023
+},
+{
+	"City": "Loyall",
+	"State": "KY",
+	"latitude": 36.8527,
+	"longitude": -83.3506
+},
+{
+	"City": "Milton",
+	"State": "KY",
+	"latitude": 38.7113,
+	"longitude": -85.3734
+},
+{
+	"City": "Diablock",
+	"State": "KY",
+	"latitude": 37.2295,
+	"longitude": -83.1709
+},
+{
+	"City": "Fancy Farm",
+	"State": "KY",
+	"latitude": 36.8003,
+	"longitude": -88.7928
+},
+{
+	"City": "Kevil",
+	"State": "KY",
+	"latitude": 37.0842,
+	"longitude": -88.8829
+},
+{
+	"City": "Butler",
+	"State": "KY",
+	"latitude": 38.7877,
+	"longitude": -84.372
+},
+{
+	"City": "Petersburg",
+	"State": "KY",
+	"latitude": 39.0531,
+	"longitude": -84.8572
+},
+{
+	"City": "Bedford",
+	"State": "KY",
+	"latitude": 38.5957,
+	"longitude": -85.3175
+},
+{
+	"City": "Wellington",
+	"State": "KY",
+	"latitude": 38.2168,
+	"longitude": -85.6702
+},
+{
+	"City": "South Williamson",
+	"State": "KY",
+	"latitude": 37.6633,
+	"longitude": -82.2879
+},
+{
+	"City": "Gilbertsville",
+	"State": "KY",
+	"latitude": 37.0284,
+	"longitude": -88.3103
+},
+{
+	"City": "Park City",
+	"State": "KY",
+	"latitude": 37.0934,
+	"longitude": -86.0486
+},
+{
+	"City": "Ravenna",
+	"State": "KY",
+	"latitude": 37.6871,
+	"longitude": -83.9502
+},
+{
+	"City": "Beechmont",
+	"State": "KY",
+	"latitude": 37.1714,
+	"longitude": -87.0364
+},
+{
+	"City": "Emlyn",
+	"State": "KY",
+	"latitude": 36.7023,
+	"longitude": -84.1418
+},
+{
+	"City": "Whitesville",
+	"State": "KY",
+	"latitude": 37.6831,
+	"longitude": -86.8699
+},
+{
+	"City": "Hollyvilla",
+	"State": "KY",
+	"latitude": 38.0929,
+	"longitude": -85.7467
+},
+{
+	"City": "Martin",
+	"State": "KY",
+	"latitude": 37.5669,
+	"longitude": -82.7603
+},
+{
+	"City": "Frenchburg",
+	"State": "KY",
+	"latitude": 37.9542,
+	"longitude": -83.6226
+},
+{
+	"City": "Glenview",
+	"State": "KY",
+	"latitude": 38.302,
+	"longitude": -85.6519
+},
+{
+	"City": "Fordsville",
+	"State": "KY",
+	"latitude": 37.6356,
+	"longitude": -86.7171
+},
+{
+	"City": "Plum Springs",
+	"State": "KY",
+	"latitude": 37.021,
+	"longitude": -86.3777
+},
+{
+	"City": "Symsonia",
+	"State": "KY",
+	"latitude": 36.9211,
+	"longitude": -88.5227
+},
+{
+	"City": "Sonora",
+	"State": "KY",
+	"latitude": 37.5319,
+	"longitude": -85.8947
+},
+{
+	"City": "Bancroft",
+	"State": "KY",
+	"latitude": 38.2832,
+	"longitude": -85.6129
+},
+{
+	"City": "Utica",
+	"State": "KY",
+	"latitude": 37.6028,
+	"longitude": -87.1126
+},
+{
+	"City": "Houston Acres",
+	"State": "KY",
+	"latitude": 38.2147,
+	"longitude": -85.6143
+},
+{
+	"City": "Wheelwright",
+	"State": "KY",
+	"latitude": 37.3392,
+	"longitude": -82.7186
+},
+{
+	"City": "Robards",
+	"State": "KY",
+	"latitude": 37.6766,
+	"longitude": -87.5333
+},
+{
+	"City": "Cawood",
+	"State": "KY",
+	"latitude": 36.7878,
+	"longitude": -83.2284
+},
+{
+	"City": "Drakesboro",
+	"State": "KY",
+	"latitude": 37.2176,
+	"longitude": -87.0493
+},
+{
+	"City": "Crestview",
+	"State": "KY",
+	"latitude": 39.0245,
+	"longitude": -84.4156
+},
+{
+	"City": "Mayking",
+	"State": "KY",
+	"latitude": 37.1335,
+	"longitude": -82.773
+},
+{
+	"City": "Fox Chase",
+	"State": "KY",
+	"latitude": 38.046,
+	"longitude": -85.6911
+},
+{
+	"City": "Pleasant View",
+	"State": "KY",
+	"latitude": 36.6781,
+	"longitude": -84.1284
+},
+{
+	"City": "Melbourne",
+	"State": "KY",
+	"latitude": 39.0319,
+	"longitude": -84.3707
+},
+{
+	"City": "Kenvir",
+	"State": "KY",
+	"latitude": 36.8531,
+	"longitude": -83.1539
+},
+{
+	"City": "Riverwood",
+	"State": "KY",
+	"latitude": 38.2831,
+	"longitude": -85.6614
+},
+{
+	"City": "Pathfork",
+	"State": "KY",
+	"latitude": 36.7595,
+	"longitude": -83.4711
+},
+{
+	"City": "Forest Hills",
+	"State": "KY",
+	"latitude": 38.2158,
+	"longitude": -85.5837
+},
+{
+	"City": "Summersville",
+	"State": "KY",
+	"latitude": 37.3265,
+	"longitude": -85.543
+},
+{
+	"City": "Island",
+	"State": "KY",
+	"latitude": 37.4433,
+	"longitude": -87.1474
+},
+{
+	"City": "Norbourne Estates",
+	"State": "KY",
+	"latitude": 38.2466,
+	"longitude": -85.6465
+},
+{
+	"City": "Moorland",
+	"State": "KY",
+	"latitude": 38.2728,
+	"longitude": -85.58
+},
+{
+	"City": "Briarwood",
+	"State": "KY",
+	"latitude": 38.278,
+	"longitude": -85.5926
+},
+{
+	"City": "River Bluff",
+	"State": "KY",
+	"latitude": 38.3719,
+	"longitude": -85.604
+},
+{
+	"City": "Spottsville",
+	"State": "KY",
+	"latitude": 37.8564,
+	"longitude": -87.4167
+},
+{
+	"City": "Arjay",
+	"State": "KY",
+	"latitude": 36.8061,
+	"longitude": -83.6421
+},
+{
+	"City": "Sacramento",
+	"State": "KY",
+	"latitude": 37.416,
+	"longitude": -87.2678
+},
+{
+	"City": "Manitou",
+	"State": "KY",
+	"latitude": 37.3754,
+	"longitude": -87.5782
+},
+{
+	"City": "Sedalia",
+	"State": "KY",
+	"latitude": 36.6437,
+	"longitude": -88.6049
+},
+{
+	"City": "Centertown",
+	"State": "KY",
+	"latitude": 37.4177,
+	"longitude": -86.9959
+},
+{
+	"City": "Oneida",
+	"State": "KY",
+	"latitude": 37.2701,
+	"longitude": -83.6496
+},
+{
+	"City": "Benham",
+	"State": "KY",
+	"latitude": 36.9652,
+	"longitude": -82.9544
+},
+{
+	"City": "Poplar Hills",
+	"State": "KY",
+	"latitude": 38.178,
+	"longitude": -85.6931
+},
+{
+	"City": "Campton",
+	"State": "KY",
+	"latitude": 37.7353,
+	"longitude": -83.5473
+},
+{
+	"City": "Richlawn",
+	"State": "KY",
+	"latitude": 38.2547,
+	"longitude": -85.6412
+},
+{
+	"City": "Maceo",
+	"State": "KY",
+	"latitude": 37.8624,
+	"longitude": -86.9914
+},
+{
+	"City": "Beech Grove",
+	"State": "KY",
+	"latitude": 37.6183,
+	"longitude": -87.392
+},
+{
+	"City": "Hazel",
+	"State": "KY",
+	"latitude": 36.5055,
+	"longitude": -88.3253
+},
+{
+	"City": "Fredonia",
+	"State": "KY",
+	"latitude": 37.2085,
+	"longitude": -88.0603
+},
+{
+	"City": "Kingsley",
+	"State": "KY",
+	"latitude": 38.2219,
+	"longitude": -85.6726
+},
+{
+	"City": "McHenry",
+	"State": "KY",
+	"latitude": 37.3794,
+	"longitude": -86.9226
+},
+{
+	"City": "Norwood",
+	"State": "KY",
+	"latitude": 38.2521,
+	"longitude": -85.6107
+},
+{
+	"City": "Wayland",
+	"State": "KY",
+	"latitude": 37.4511,
+	"longitude": -82.7994
+},
+{
+	"City": "Bandana",
+	"State": "KY",
+	"latitude": 37.1447,
+	"longitude": -88.9418
+},
+{
+	"City": "Trenton",
+	"State": "KY",
+	"latitude": 36.7224,
+	"longitude": -87.2626
+},
+{
+	"City": "Hustonville",
+	"State": "KY",
+	"latitude": 37.4784,
+	"longitude": -84.815
+},
+{
+	"City": "Grand Rivers",
+	"State": "KY",
+	"latitude": 37.005,
+	"longitude": -88.233
+},
+{
+	"City": "Ages",
+	"State": "KY",
+	"latitude": 36.8569,
+	"longitude": -83.2426
+},
+{
+	"City": "Glencoe",
+	"State": "KY",
+	"latitude": 38.7252,
+	"longitude": -84.8238
+},
+{
+	"City": "Old Brownsboro Place",
+	"State": "KY",
+	"latitude": 38.2892,
+	"longitude": -85.6132
+},
+{
+	"City": "Woodburn",
+	"State": "KY",
+	"latitude": 36.8421,
+	"longitude": -86.53
+},
+{
+	"City": "Sadieville",
+	"State": "KY",
+	"latitude": 38.3881,
+	"longitude": -84.5494
+},
+{
+	"City": "Hardyville",
+	"State": "KY",
+	"latitude": 37.2535,
+	"longitude": -85.7896
+},
+{
+	"City": "Belfry",
+	"State": "KY",
+	"latitude": 37.6194,
+	"longitude": -82.2684
+},
+{
+	"City": "Hunters Hollow",
+	"State": "KY",
+	"latitude": 38.0784,
+	"longitude": -85.6934
+},
+{
+	"City": "Gamaliel",
+	"State": "KY",
+	"latitude": 36.6402,
+	"longitude": -85.7963
+},
+{
+	"City": "Cerulean",
+	"State": "KY",
+	"latitude": 36.9551,
+	"longitude": -87.709
+},
+{
+	"City": "Freeburn",
+	"State": "KY",
+	"latitude": 37.5619,
+	"longitude": -82.1514
+},
+{
+	"City": "Betsy Layne",
+	"State": "KY",
+	"latitude": 37.5541,
+	"longitude": -82.6262
+},
+{
+	"City": "Big Clifty",
+	"State": "KY",
+	"latitude": 37.5441,
+	"longitude": -86.1514
+},
+{
+	"City": "Wallins Creek",
+	"State": "KY",
+	"latitude": 36.8297,
+	"longitude": -83.4174
+},
+{
+	"City": "Strathmoor Manor",
+	"State": "KY",
+	"latitude": 38.219,
+	"longitude": -85.6836
+},
+{
+	"City": "Sharpsburg",
+	"State": "KY",
+	"latitude": 38.2016,
+	"longitude": -83.9279
+},
+{
+	"City": "Belleview",
+	"State": "KY",
+	"latitude": 38.9792,
+	"longitude": -84.8249
+},
+{
+	"City": "Mount Olivet",
+	"State": "KY",
+	"latitude": 38.5317,
+	"longitude": -84.0358
+},
+{
+	"City": "Buffalo",
+	"State": "KY",
+	"latitude": 37.5081,
+	"longitude": -85.6992
+},
+{
+	"City": "Hyden",
+	"State": "KY",
+	"latitude": 37.162,
+	"longitude": -83.3779
+},
+{
+	"City": "Eubank",
+	"State": "KY",
+	"latitude": 37.2799,
+	"longitude": -84.6541
+},
+{
+	"City": "Glenview Hills",
+	"State": "KY",
+	"latitude": 38.2951,
+	"longitude": -85.6382
+},
+{
+	"City": "Salt Lick",
+	"State": "KY",
+	"latitude": 38.1193,
+	"longitude": -83.6156
+},
+{
+	"City": "Bellewood",
+	"State": "KY",
+	"latitude": 38.2608,
+	"longitude": -85.6594
+},
+{
+	"City": "Brownsboro Village",
+	"State": "KY",
+	"latitude": 38.2629,
+	"longitude": -85.6659
+},
+{
+	"City": "Creekside",
+	"State": "KY",
+	"latitude": 38.2914,
+	"longitude": -85.5701
+},
+{
+	"City": "Druid Hills",
+	"State": "KY",
+	"latitude": 38.2649,
+	"longitude": -85.6617
+},
+{
+	"City": "Ghent",
+	"State": "KY",
+	"latitude": 38.734,
+	"longitude": -85.0612
+},
+{
+	"City": "Goose Creek",
+	"State": "KY",
+	"latitude": 38.2934,
+	"longitude": -85.5906
+},
+{
+	"City": "Arlington",
+	"State": "KY",
+	"latitude": 36.7904,
+	"longitude": -89.0132
+},
+{
+	"City": "Vicco",
+	"State": "KY",
+	"latitude": 37.2161,
+	"longitude": -83.0609
+},
+{
+	"City": "Bradfordsville",
+	"State": "KY",
+	"latitude": 37.4943,
+	"longitude": -85.1482
+},
+{
+	"City": "Rockholds",
+	"State": "KY",
+	"latitude": 36.8308,
+	"longitude": -84.1131
+},
+{
+	"City": "Spring Mill",
+	"State": "KY",
+	"latitude": 38.1436,
+	"longitude": -85.6315
+},
+{
+	"City": "Mays Lick",
+	"State": "KY",
+	"latitude": 38.517,
+	"longitude": -83.8452
+},
+{
+	"City": "Waverly",
+	"State": "KY",
+	"latitude": 37.7092,
+	"longitude": -87.8146
+},
+{
+	"City": "Dexter",
+	"State": "KY",
+	"latitude": 36.7396,
+	"longitude": -88.2956
+},
+{
+	"City": "Smithland",
+	"State": "KY",
+	"latitude": 37.1386,
+	"longitude": -88.4038
+},
+{
+	"City": "Willisburg",
+	"State": "KY",
+	"latitude": 37.8092,
+	"longitude": -85.1208
+},
+{
+	"City": "Payne Gap",
+	"State": "KY",
+	"latitude": 37.1508,
+	"longitude": -82.667
+},
+{
+	"City": "Broeck Pointe",
+	"State": "KY",
+	"latitude": 38.2955,
+	"longitude": -85.5856
+},
+{
+	"City": "Anthoston",
+	"State": "KY",
+	"latitude": 37.7553,
+	"longitude": -87.5327
+},
+{
+	"City": "Hickory",
+	"State": "KY",
+	"latitude": 36.8174,
+	"longitude": -88.6484
+},
+{
+	"City": "Sparta",
+	"State": "KY",
+	"latitude": 38.6969,
+	"longitude": -84.9073
+},
+{
+	"City": "Pryorsburg",
+	"State": "KY",
+	"latitude": 36.6899,
+	"longitude": -88.7124
+},
+{
+	"City": "St. Charles",
+	"State": "KY",
+	"latitude": 37.1881,
+	"longitude": -87.551
+},
+{
+	"City": "Wildwood",
+	"State": "KY",
+	"latitude": 38.249,
+	"longitude": -85.5747
+},
+{
+	"City": "Crayne",
+	"State": "KY",
+	"latitude": 37.2763,
+	"longitude": -88.0839
+},
+{
+	"City": "Rockport",
+	"State": "KY",
+	"latitude": 37.3359,
+	"longitude": -86.9909
+},
+{
+	"City": "Bonnieville",
+	"State": "KY",
+	"latitude": 37.3776,
+	"longitude": -85.9011
+},
+{
+	"City": "High Bridge",
+	"State": "KY",
+	"latitude": 37.8299,
+	"longitude": -84.7096
+},
+{
+	"City": "Westport",
+	"State": "KY",
+	"latitude": 38.4874,
+	"longitude": -85.4753
+},
+{
+	"City": "Berry",
+	"State": "KY",
+	"latitude": 38.5206,
+	"longitude": -84.3838
+},
+{
+	"City": "Fairview",
+	"State": "KY",
+	"latitude": 36.8425,
+	"longitude": -87.3054
+},
+{
+	"City": "Dover",
+	"State": "KY",
+	"latitude": 38.7563,
+	"longitude": -83.8845
+},
+{
+	"City": "Cunningham",
+	"State": "KY",
+	"latitude": 36.9081,
+	"longitude": -88.8869
+},
+{
+	"City": "Ewing",
+	"State": "KY",
+	"latitude": 38.4278,
+	"longitude": -83.8618
+},
+{
+	"City": "Woodlawn",
+	"State": "KY",
+	"latitude": 39.0909,
+	"longitude": -84.4729
+},
+{
+	"City": "Sanders",
+	"State": "KY",
+	"latitude": 38.6549,
+	"longitude": -84.9466
+},
+{
+	"City": "Manor Creek",
+	"State": "KY",
+	"latitude": 38.2981,
+	"longitude": -85.5873
+},
+{
+	"City": "Summer Shade",
+	"State": "KY",
+	"latitude": 36.8836,
+	"longitude": -85.7098
+},
+{
+	"City": "Rabbit Hash",
+	"State": "KY",
+	"latitude": 38.924,
+	"longitude": -84.8503
+},
+{
+	"City": "Coldiron",
+	"State": "KY",
+	"latitude": 36.8279,
+	"longitude": -83.4529
+},
+{
+	"City": "Warfield",
+	"State": "KY",
+	"latitude": 37.8415,
+	"longitude": -82.4224
+},
+{
+	"City": "Crossgate",
+	"State": "KY",
+	"latitude": 38.2793,
+	"longitude": -85.6296
+},
+{
+	"City": "Nebo",
+	"State": "KY",
+	"latitude": 37.3832,
+	"longitude": -87.6416
+},
+{
+	"City": "Corinth",
+	"State": "KY",
+	"latitude": 38.4997,
+	"longitude": -84.6032
+},
+{
+	"City": "Lakeview Heights",
+	"State": "KY",
+	"latitude": 38.152,
+	"longitude": -83.5043
+},
+{
+	"City": "Burna",
+	"State": "KY",
+	"latitude": 37.2456,
+	"longitude": -88.3589
+},
+{
+	"City": "Mackville",
+	"State": "KY",
+	"latitude": 37.7355,
+	"longitude": -85.0701
+},
+{
+	"City": "Mentor",
+	"State": "KY",
+	"latitude": 38.8902,
+	"longitude": -84.2484
+},
+{
+	"City": "Oakland",
+	"State": "KY",
+	"latitude": 37.0467,
+	"longitude": -86.2506
+},
+{
+	"City": "Livingston",
+	"State": "KY",
+	"latitude": 37.298,
+	"longitude": -84.2157
+},
+{
+	"City": "Virgie",
+	"State": "KY",
+	"latitude": 37.3323,
+	"longitude": -82.5824
+},
+{
+	"City": "Dunmor",
+	"State": "KY",
+	"latitude": 37.0753,
+	"longitude": -86.9951
+},
+{
+	"City": "Fountain Run",
+	"State": "KY",
+	"latitude": 36.7238,
+	"longitude": -85.9561
+},
+{
+	"City": "Slaughters",
+	"State": "KY",
+	"latitude": 37.4901,
+	"longitude": -87.5021
+},
+{
+	"City": "Hiseville",
+	"State": "KY",
+	"latitude": 37.1008,
+	"longitude": -85.8149
+},
+{
+	"City": "Jeff",
+	"State": "KY",
+	"latitude": 37.2093,
+	"longitude": -83.1395
+},
+{
+	"City": "Glenview Manor",
+	"State": "KY",
+	"latitude": 38.2907,
+	"longitude": -85.6333
+},
+{
+	"City": "Bremen",
+	"State": "KY",
+	"latitude": 37.3623,
+	"longitude": -87.2201
+},
+{
+	"City": "Water Valley",
+	"State": "KY",
+	"latitude": 36.5687,
+	"longitude": -88.8101
+},
+{
+	"City": "Thornhill",
+	"State": "KY",
+	"latitude": 38.2884,
+	"longitude": -85.6256
+},
+{
+	"City": "Worthville",
+	"State": "KY",
+	"latitude": 38.6098,
+	"longitude": -85.0681
+},
+{
+	"City": "Maryhill Estates",
+	"State": "KY",
+	"latitude": 38.2663,
+	"longitude": -85.6532
+},
+{
+	"City": "South Carrollton",
+	"State": "KY",
+	"latitude": 37.3358,
+	"longitude": -87.1401
+},
+{
+	"City": "Cambridge",
+	"State": "KY",
+	"latitude": 38.2217,
+	"longitude": -85.6172
+},
+{
+	"City": "Rosine",
+	"State": "KY",
+	"latitude": 37.4523,
+	"longitude": -86.7373
+},
+{
+	"City": "Cleaton",
+	"State": "KY",
+	"latitude": 37.2518,
+	"longitude": -87.0903
+},
+{
+	"City": "Millstone",
+	"State": "KY",
+	"latitude": 37.1638,
+	"longitude": -82.7495
+},
+{
+	"City": "Allen",
+	"State": "KY",
+	"latitude": 37.6119,
+	"longitude": -82.7292
+},
+{
+	"City": "Meadowview Estates",
+	"State": "KY",
+	"latitude": 38.2227,
+	"longitude": -85.6353
+},
+{
+	"City": "Coxton",
+	"State": "KY",
+	"latitude": 36.8581,
+	"longitude": -83.2681
+},
+{
+	"City": "Sycamore",
+	"State": "KY",
+	"latitude": 38.2468,
+	"longitude": -85.5612
+},
+{
+	"City": "Mockingbird Valley",
+	"State": "KY",
+	"latitude": 38.27,
+	"longitude": -85.6815
+},
+{
+	"City": "Combs",
+	"State": "KY",
+	"latitude": 37.2684,
+	"longitude": -83.2148
+},
+{
+	"City": "LaFayette",
+	"State": "KY",
+	"latitude": 36.66,
+	"longitude": -87.6585
+},
+{
+	"City": "Prestonville",
+	"State": "KY",
+	"latitude": 38.6805,
+	"longitude": -85.1931
+},
+{
+	"City": "Booneville",
+	"State": "KY",
+	"latitude": 37.4702,
+	"longitude": -83.6828
+},
+{
+	"City": "Allensville",
+	"State": "KY",
+	"latitude": 36.7163,
+	"longitude": -87.0683
+},
+{
+	"City": "Columbus",
+	"State": "KY",
+	"latitude": 36.7596,
+	"longitude": -89.102
+},
+{
+	"City": "Wheatcroft",
+	"State": "KY",
+	"latitude": 37.4893,
+	"longitude": -87.8612
+},
+{
+	"City": "Farmington",
+	"State": "KY",
+	"latitude": 36.6691,
+	"longitude": -88.5276
+},
+{
+	"City": "Rochester",
+	"State": "KY",
+	"latitude": 37.2093,
+	"longitude": -86.8921
+},
+{
+	"City": "Lincolnshire",
+	"State": "KY",
+	"latitude": 38.2238,
+	"longitude": -85.6216
+},
+{
+	"City": "Ekron",
+	"State": "KY",
+	"latitude": 37.9302,
+	"longitude": -86.1765
+},
+{
+	"City": "Germantown",
+	"State": "KY",
+	"latitude": 38.6559,
+	"longitude": -83.9643
+},
+{
+	"City": "Hills and Dales",
+	"State": "KY",
+	"latitude": 38.3005,
+	"longitude": -85.6249
+},
+{
+	"City": "Blackey",
+	"State": "KY",
+	"latitude": 37.139,
+	"longitude": -82.9812
+},
+{
+	"City": "Meadowbrook Farm",
+	"State": "KY",
+	"latitude": 38.2782,
+	"longitude": -85.5748
+},
+{
+	"City": "Elizaville",
+	"State": "KY",
+	"latitude": 38.4167,
+	"longitude": -83.8243
+},
+{
+	"City": "Ezel",
+	"State": "KY",
+	"latitude": 37.892,
+	"longitude": -83.4446
+},
+{
+	"City": "Buckhorn",
+	"State": "KY",
+	"latitude": 37.346,
+	"longitude": -83.4696
+},
+{
+	"City": "Raywick",
+	"State": "KY",
+	"latitude": 37.5606,
+	"longitude": -85.4311
+},
+{
+	"City": "Monterey",
+	"State": "KY",
+	"latitude": 38.4233,
+	"longitude": -84.8728
+},
+{
+	"City": "Boston",
+	"State": "KY",
+	"latitude": 37.7838,
+	"longitude": -85.6803
+},
+{
+	"City": "St. Mary",
+	"State": "KY",
+	"latitude": 37.5807,
+	"longitude": -85.3463
+},
+{
+	"City": "Salvisa",
+	"State": "KY",
+	"latitude": 37.921,
+	"longitude": -84.8615
+},
+{
+	"City": "Hickory Hill",
+	"State": "KY",
+	"latitude": 38.2877,
+	"longitude": -85.5679
+},
+{
+	"City": "Fairfield",
+	"State": "KY",
+	"latitude": 37.932,
+	"longitude": -85.3838
+},
+{
+	"City": "McKinney",
+	"State": "KY",
+	"latitude": 37.453,
+	"longitude": -84.7579
+},
+{
+	"City": "Smithfield",
+	"State": "KY",
+	"latitude": 38.3864,
+	"longitude": -85.2566
+},
+{
+	"City": "Kenton Vale",
+	"State": "KY",
+	"latitude": 39.0514,
+	"longitude": -84.5199
+},
+{
+	"City": "Dwale",
+	"State": "KY",
+	"latitude": 37.6254,
+	"longitude": -82.7277
+},
+{
+	"City": "Ten Broeck",
+	"State": "KY",
+	"latitude": 38.2976,
+	"longitude": -85.5806
+},
+{
+	"City": "New Hope",
+	"State": "KY",
+	"latitude": 37.6279,
+	"longitude": -85.5067
+},
+{
+	"City": "Marrowbone",
+	"State": "KY",
+	"latitude": 36.8319,
+	"longitude": -85.5053
+},
+{
+	"City": "Sardis",
+	"State": "KY",
+	"latitude": 38.5348,
+	"longitude": -83.9573
+},
+{
+	"City": "California",
+	"State": "KY",
+	"latitude": 38.9184,
+	"longitude": -84.2635
+},
+{
+	"City": "Poole",
+	"State": "KY",
+	"latitude": 37.6392,
+	"longitude": -87.6446
+},
+{
+	"City": "Maytown",
+	"State": "KY",
+	"latitude": 37.5327,
+	"longitude": -82.7991
+},
+{
+	"City": "Woodbury",
+	"State": "KY",
+	"latitude": 37.1835,
+	"longitude": -86.6353
+},
+{
+	"City": "Cayce",
+	"State": "KY",
+	"latitude": 36.5577,
+	"longitude": -89.0349
+},
+{
+	"City": "Keene",
+	"State": "KY",
+	"latitude": 37.9431,
+	"longitude": -84.6411
+},
+{
+	"City": "Blandville",
+	"State": "KY",
+	"latitude": 36.9441,
+	"longitude": -88.9646
+},
+{
+	"City": "McCarr",
+	"State": "KY",
+	"latitude": 37.6178,
+	"longitude": -82.1706
+},
+{
+	"City": "Lowes",
+	"State": "KY",
+	"latitude": 36.8828,
+	"longitude": -88.7706
+},
+{
+	"City": "Gratz",
+	"State": "KY",
+	"latitude": 38.4718,
+	"longitude": -84.947
+},
+{
+	"City": "Gracey",
+	"State": "KY",
+	"latitude": 36.8792,
+	"longitude": -87.6638
+},
+{
+	"City": "Hazel Green",
+	"State": "KY",
+	"latitude": 37.7999,
+	"longitude": -83.4173
+},
+{
+	"City": "Carrsville",
+	"State": "KY",
+	"latitude": 37.3981,
+	"longitude": -88.3754
+},
+{
+	"City": "Blaine",
+	"State": "KY",
+	"latitude": 38.0272,
+	"longitude": -82.8413
+},
+{
+	"City": "Tolu",
+	"State": "KY",
+	"latitude": 37.4335,
+	"longitude": -88.2453
+},
+{
+	"City": "Onton",
+	"State": "KY",
+	"latitude": 37.5578,
+	"longitude": -87.4371
+},
+{
+	"City": "Concord",
+	"State": "KY",
+	"latitude": 38.6876,
+	"longitude": -83.4915
+},
+{
+	"City": "Farmers",
+	"State": "KY",
+	"latitude": 38.1405,
+	"longitude": -83.5414
+},
+{
+	"City": "Lovelaceville",
+	"State": "KY",
+	"latitude": 36.9672,
+	"longitude": -88.8335
+},
+{
+	"City": "South Park View",
+	"State": "KY",
+	"latitude": 38.1185,
+	"longitude": -85.7199
+}]

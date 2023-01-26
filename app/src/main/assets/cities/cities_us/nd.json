@@ -1,0 +1,2383 @@
+[
+{
+	"City": "Fargo",
+	"State": "ND",
+	"latitude": 46.8652,
+	"longitude": -96.8292
+},
+{
+	"City": "Bismarck",
+	"State": "ND",
+	"latitude": 46.8144,
+	"longitude": -100.7694
+},
+{
+	"City": "Grand Forks",
+	"State": "ND",
+	"latitude": 47.9218,
+	"longitude": -97.0886
+},
+{
+	"City": "Minot",
+	"State": "ND",
+	"latitude": 48.2375,
+	"longitude": -101.2781
+},
+{
+	"City": "West Fargo",
+	"State": "ND",
+	"latitude": 46.8573,
+	"longitude": -96.9057
+},
+{
+	"City": "Williston",
+	"State": "ND",
+	"latitude": 48.1814,
+	"longitude": -103.6364
+},
+{
+	"City": "Dickinson",
+	"State": "ND",
+	"latitude": 46.8917,
+	"longitude": -102.7924
+},
+{
+	"City": "Mandan",
+	"State": "ND",
+	"latitude": 46.829,
+	"longitude": -100.887
+},
+{
+	"City": "Jamestown",
+	"State": "ND",
+	"latitude": 46.9063,
+	"longitude": -98.6936
+},
+{
+	"City": "Wahpeton",
+	"State": "ND",
+	"latitude": 46.2722,
+	"longitude": -96.6118
+},
+{
+	"City": "Watford City",
+	"State": "ND",
+	"latitude": 47.8028,
+	"longitude": -103.2678
+},
+{
+	"City": "Devils Lake",
+	"State": "ND",
+	"latitude": 48.1131,
+	"longitude": -98.875
+},
+{
+	"City": "Valley City",
+	"State": "ND",
+	"latitude": 46.9223,
+	"longitude": -98.0055
+},
+{
+	"City": "Minot AFB",
+	"State": "ND",
+	"latitude": 48.4209,
+	"longitude": -101.3381
+},
+{
+	"City": "Lincoln",
+	"State": "ND",
+	"latitude": 46.7691,
+	"longitude": -100.6987
+},
+{
+	"City": "Grafton",
+	"State": "ND",
+	"latitude": 48.4142,
+	"longitude": -97.4055
+},
+{
+	"City": "Beulah",
+	"State": "ND",
+	"latitude": 47.2665,
+	"longitude": -101.7733
+},
+{
+	"City": "Horace",
+	"State": "ND",
+	"latitude": 46.7559,
+	"longitude": -96.9078
+},
+{
+	"City": "Grand Forks AFB",
+	"State": "ND",
+	"latitude": 47.9557,
+	"longitude": -97.3913
+},
+{
+	"City": "Stanley",
+	"State": "ND",
+	"latitude": 48.3164,
+	"longitude": -102.3873
+},
+{
+	"City": "New Town",
+	"State": "ND",
+	"latitude": 47.9848,
+	"longitude": -102.4813
+},
+{
+	"City": "Rugby",
+	"State": "ND",
+	"latitude": 48.3656,
+	"longitude": -99.9906
+},
+{
+	"City": "Casselton",
+	"State": "ND",
+	"latitude": 46.8972,
+	"longitude": -97.2129
+},
+{
+	"City": "Hazen",
+	"State": "ND",
+	"latitude": 47.299,
+	"longitude": -101.626
+},
+{
+	"City": "Belcourt",
+	"State": "ND",
+	"latitude": 48.8417,
+	"longitude": -99.7447
+},
+{
+	"City": "Bottineau",
+	"State": "ND",
+	"latitude": 48.8248,
+	"longitude": -100.4425
+},
+{
+	"City": "Lisbon",
+	"State": "ND",
+	"latitude": 46.4385,
+	"longitude": -97.6841
+},
+{
+	"City": "Carrington",
+	"State": "ND",
+	"latitude": 47.4521,
+	"longitude": -99.1304
+},
+{
+	"City": "Mayville",
+	"State": "ND",
+	"latitude": 47.4982,
+	"longitude": -97.3264
+},
+{
+	"City": "Langdon",
+	"State": "ND",
+	"latitude": 48.7624,
+	"longitude": -98.3747
+},
+{
+	"City": "Oakes",
+	"State": "ND",
+	"latitude": 46.1398,
+	"longitude": -98.0871
+},
+{
+	"City": "Harvey",
+	"State": "ND",
+	"latitude": 47.7766,
+	"longitude": -99.9301
+},
+{
+	"City": "Hillsboro",
+	"State": "ND",
+	"latitude": 47.403,
+	"longitude": -97.0635
+},
+{
+	"City": "Bowman",
+	"State": "ND",
+	"latitude": 46.184,
+	"longitude": -103.3991
+},
+{
+	"City": "Garrison",
+	"State": "ND",
+	"latitude": 47.6533,
+	"longitude": -101.4222
+},
+{
+	"City": "Surrey",
+	"State": "ND",
+	"latitude": 48.2435,
+	"longitude": -101.1339
+},
+{
+	"City": "Tioga",
+	"State": "ND",
+	"latitude": 48.3947,
+	"longitude": -102.9431
+},
+{
+	"City": "New Rockford",
+	"State": "ND",
+	"latitude": 47.6798,
+	"longitude": -99.1377
+},
+{
+	"City": "Park River",
+	"State": "ND",
+	"latitude": 48.3911,
+	"longitude": -97.7428
+},
+{
+	"City": "Larimore",
+	"State": "ND",
+	"latitude": 47.9091,
+	"longitude": -97.6269
+},
+{
+	"City": "Parshall",
+	"State": "ND",
+	"latitude": 47.9557,
+	"longitude": -102.1342
+},
+{
+	"City": "Crosby",
+	"State": "ND",
+	"latitude": 48.9161,
+	"longitude": -103.2966
+},
+{
+	"City": "Washburn",
+	"State": "ND",
+	"latitude": 47.292,
+	"longitude": -101.0278
+},
+{
+	"City": "Rolla",
+	"State": "ND",
+	"latitude": 48.8527,
+	"longitude": -99.6142
+},
+{
+	"City": "Fort Totten",
+	"State": "ND",
+	"latitude": 47.9716,
+	"longitude": -98.9971
+},
+{
+	"City": "Ellendale",
+	"State": "ND",
+	"latitude": 46.0043,
+	"longitude": -98.5254
+},
+{
+	"City": "Mapleton",
+	"State": "ND",
+	"latitude": 46.8915,
+	"longitude": -97.0533
+},
+{
+	"City": "Cavalier",
+	"State": "ND",
+	"latitude": 48.7939,
+	"longitude": -97.6226
+},
+{
+	"City": "Burlington",
+	"State": "ND",
+	"latitude": 48.2573,
+	"longitude": -101.4146
+},
+{
+	"City": "Velva",
+	"State": "ND",
+	"latitude": 48.0582,
+	"longitude": -100.9329
+},
+{
+	"City": "Shell Valley",
+	"State": "ND",
+	"latitude": 48.8108,
+	"longitude": -99.8273
+},
+{
+	"City": "Hettinger",
+	"State": "ND",
+	"latitude": 46.0034,
+	"longitude": -102.635
+},
+{
+	"City": "Killdeer",
+	"State": "ND",
+	"latitude": 47.3673,
+	"longitude": -102.7535
+},
+{
+	"City": "Cando",
+	"State": "ND",
+	"latitude": 48.4872,
+	"longitude": -99.2026
+},
+{
+	"City": "Beach",
+	"State": "ND",
+	"latitude": 46.9192,
+	"longitude": -104.008
+},
+{
+	"City": "Thompson",
+	"State": "ND",
+	"latitude": 47.7753,
+	"longitude": -97.1058
+},
+{
+	"City": "Kenmare",
+	"State": "ND",
+	"latitude": 48.6728,
+	"longitude": -102.0721
+},
+{
+	"City": "Belfield",
+	"State": "ND",
+	"latitude": 46.8859,
+	"longitude": -103.199
+},
+{
+	"City": "New Salem",
+	"State": "ND",
+	"latitude": 46.8432,
+	"longitude": -101.4178
+},
+{
+	"City": "Linton",
+	"State": "ND",
+	"latitude": 46.2685,
+	"longitude": -100.2337
+},
+{
+	"City": "Gwinner",
+	"State": "ND",
+	"latitude": 46.2357,
+	"longitude": -97.6695
+},
+{
+	"City": "Cannon Ball",
+	"State": "ND",
+	"latitude": 46.3173,
+	"longitude": -100.6358
+},
+{
+	"City": "Walhalla",
+	"State": "ND",
+	"latitude": 48.9211,
+	"longitude": -97.9176
+},
+{
+	"City": "Cooperstown",
+	"State": "ND",
+	"latitude": 47.445,
+	"longitude": -98.1257
+},
+{
+	"City": "Ray",
+	"State": "ND",
+	"latitude": 48.3416,
+	"longitude": -103.1635
+},
+{
+	"City": "Northwood",
+	"State": "ND",
+	"latitude": 47.7384,
+	"longitude": -97.5707
+},
+{
+	"City": "Wishek",
+	"State": "ND",
+	"latitude": 46.2554,
+	"longitude": -99.5546
+},
+{
+	"City": "Hankinson",
+	"State": "ND",
+	"latitude": 46.0734,
+	"longitude": -96.8916
+},
+{
+	"City": "LaMoure",
+	"State": "ND",
+	"latitude": 46.3574,
+	"longitude": -98.2966
+},
+{
+	"City": "Enderlin",
+	"State": "ND",
+	"latitude": 46.6215,
+	"longitude": -97.5956
+},
+{
+	"City": "Harwood",
+	"State": "ND",
+	"latitude": 46.9761,
+	"longitude": -96.8802
+},
+{
+	"City": "Kindred",
+	"State": "ND",
+	"latitude": 46.6494,
+	"longitude": -97.017
+},
+{
+	"City": "Dunseith",
+	"State": "ND",
+	"latitude": 48.813,
+	"longitude": -100.0622
+},
+{
+	"City": "Napoleon",
+	"State": "ND",
+	"latitude": 46.5039,
+	"longitude": -99.7683
+},
+{
+	"City": "Drayton",
+	"State": "ND",
+	"latitude": 48.5628,
+	"longitude": -97.1794
+},
+{
+	"City": "Hatton",
+	"State": "ND",
+	"latitude": 47.6369,
+	"longitude": -97.4584
+},
+{
+	"City": "Underwood",
+	"State": "ND",
+	"latitude": 47.4551,
+	"longitude": -101.142
+},
+{
+	"City": "Mott",
+	"State": "ND",
+	"latitude": 46.3744,
+	"longitude": -102.3189
+},
+{
+	"City": "Mohall",
+	"State": "ND",
+	"latitude": 48.7661,
+	"longitude": -101.5169
+},
+{
+	"City": "Glen Ullin",
+	"State": "ND",
+	"latitude": 46.812,
+	"longitude": -101.8333
+},
+{
+	"City": "Wilton",
+	"State": "ND",
+	"latitude": 47.1581,
+	"longitude": -100.7842
+},
+{
+	"City": "Steele",
+	"State": "ND",
+	"latitude": 46.8568,
+	"longitude": -99.9181
+},
+{
+	"City": "Reile's Acres",
+	"State": "ND",
+	"latitude": 46.927,
+	"longitude": -96.8666
+},
+{
+	"City": "Hebron",
+	"State": "ND",
+	"latitude": 46.9023,
+	"longitude": -102.0444
+},
+{
+	"City": "Ashley",
+	"State": "ND",
+	"latitude": 46.0347,
+	"longitude": -99.3736
+},
+{
+	"City": "Milnor",
+	"State": "ND",
+	"latitude": 46.2603,
+	"longitude": -97.4571
+},
+{
+	"City": "Lakota",
+	"State": "ND",
+	"latitude": 48.0429,
+	"longitude": -98.3468
+},
+{
+	"City": "Lidgerwood",
+	"State": "ND",
+	"latitude": 46.0738,
+	"longitude": -97.1451
+},
+{
+	"City": "Elgin",
+	"State": "ND",
+	"latitude": 46.4025,
+	"longitude": -101.843
+},
+{
+	"City": "New England",
+	"State": "ND",
+	"latitude": 46.5408,
+	"longitude": -102.8669
+},
+{
+	"City": "Portland",
+	"State": "ND",
+	"latitude": 47.4995,
+	"longitude": -97.3693
+},
+{
+	"City": "Rolette",
+	"State": "ND",
+	"latitude": 48.6609,
+	"longitude": -99.8417
+},
+{
+	"City": "Minto",
+	"State": "ND",
+	"latitude": 48.2924,
+	"longitude": -97.373
+},
+{
+	"City": "Center",
+	"State": "ND",
+	"latitude": 47.1149,
+	"longitude": -101.2977
+},
+{
+	"City": "Richardton",
+	"State": "ND",
+	"latitude": 46.8841,
+	"longitude": -102.3332
+},
+{
+	"City": "Edgeley",
+	"State": "ND",
+	"latitude": 46.3625,
+	"longitude": -98.7126
+},
+{
+	"City": "Turtle Lake",
+	"State": "ND",
+	"latitude": 47.5216,
+	"longitude": -100.8907
+},
+{
+	"City": "Mandaree",
+	"State": "ND",
+	"latitude": 47.7358,
+	"longitude": -102.6756
+},
+{
+	"City": "Pembina",
+	"State": "ND",
+	"latitude": 48.9669,
+	"longitude": -97.2475
+},
+{
+	"City": "East Dunseith",
+	"State": "ND",
+	"latitude": 48.8546,
+	"longitude": -100.0285
+},
+{
+	"City": "Towner",
+	"State": "ND",
+	"latitude": 48.3471,
+	"longitude": -100.4069
+},
+{
+	"City": "Forman",
+	"State": "ND",
+	"latitude": 46.104,
+	"longitude": -97.6369
+},
+{
+	"City": "Berthold",
+	"State": "ND",
+	"latitude": 48.317,
+	"longitude": -101.7478
+},
+{
+	"City": "Argusville",
+	"State": "ND",
+	"latitude": 47.0501,
+	"longitude": -96.9431
+},
+{
+	"City": "Leeds",
+	"State": "ND",
+	"latitude": 48.2875,
+	"longitude": -99.4344
+},
+{
+	"City": "Emerado",
+	"State": "ND",
+	"latitude": 47.9241,
+	"longitude": -97.3655
+},
+{
+	"City": "Fessenden",
+	"State": "ND",
+	"latitude": 47.6496,
+	"longitude": -99.6267
+},
+{
+	"City": "Green Acres",
+	"State": "ND",
+	"latitude": 48.8381,
+	"longitude": -99.6901
+},
+{
+	"City": "Glenburn",
+	"State": "ND",
+	"latitude": 48.5136,
+	"longitude": -101.2211
+},
+{
+	"City": "South Heart",
+	"State": "ND",
+	"latitude": 46.8679,
+	"longitude": -102.9895
+},
+{
+	"City": "Finley",
+	"State": "ND",
+	"latitude": 47.5125,
+	"longitude": -97.8373
+},
+{
+	"City": "Wyndmere",
+	"State": "ND",
+	"latitude": 46.2641,
+	"longitude": -97.1312
+},
+{
+	"City": "Westhope",
+	"State": "ND",
+	"latitude": 48.9112,
+	"longitude": -101.0178
+},
+{
+	"City": "Logan",
+	"State": "ND",
+	"latitude": 48.1557,
+	"longitude": -101.1664
+},
+{
+	"City": "Maddock",
+	"State": "ND",
+	"latitude": 47.9624,
+	"longitude": -99.5293
+},
+{
+	"City": "Alexander",
+	"State": "ND",
+	"latitude": 47.8393,
+	"longitude": -103.6426
+},
+{
+	"City": "Manvel",
+	"State": "ND",
+	"latitude": 48.0727,
+	"longitude": -97.1779
+},
+{
+	"City": "McClusky",
+	"State": "ND",
+	"latitude": 47.484,
+	"longitude": -100.4426
+},
+{
+	"City": "Strasburg",
+	"State": "ND",
+	"latitude": 46.1336,
+	"longitude": -100.1604
+},
+{
+	"City": "Fairmount",
+	"State": "ND",
+	"latitude": 46.0547,
+	"longitude": -96.6029
+},
+{
+	"City": "St. John",
+	"State": "ND",
+	"latitude": 48.9438,
+	"longitude": -99.7132
+},
+{
+	"City": "Max",
+	"State": "ND",
+	"latitude": 47.8204,
+	"longitude": -101.2911
+},
+{
+	"City": "Gladstone",
+	"State": "ND",
+	"latitude": 46.8595,
+	"longitude": -102.57
+},
+{
+	"City": "Neche",
+	"State": "ND",
+	"latitude": 48.983,
+	"longitude": -97.5517
+},
+{
+	"City": "Stanton",
+	"State": "ND",
+	"latitude": 47.3187,
+	"longitude": -101.3821
+},
+{
+	"City": "Bowbells",
+	"State": "ND",
+	"latitude": 48.8037,
+	"longitude": -102.2471
+},
+{
+	"City": "Kulm",
+	"State": "ND",
+	"latitude": 46.302,
+	"longitude": -98.9466
+},
+{
+	"City": "Grenora",
+	"State": "ND",
+	"latitude": 48.6199,
+	"longitude": -103.9367
+},
+{
+	"City": "Arthur",
+	"State": "ND",
+	"latitude": 47.1043,
+	"longitude": -97.2184
+},
+{
+	"City": "Sawyer",
+	"State": "ND",
+	"latitude": 48.0894,
+	"longitude": -101.0533
+},
+{
+	"City": "McVille",
+	"State": "ND",
+	"latitude": 47.7653,
+	"longitude": -98.1755
+},
+{
+	"City": "Buxton",
+	"State": "ND",
+	"latitude": 47.6021,
+	"longitude": -97.0976
+},
+{
+	"City": "St. Thomas",
+	"State": "ND",
+	"latitude": 48.6192,
+	"longitude": -97.4471
+},
+{
+	"City": "Four Bears Village",
+	"State": "ND",
+	"latitude": 47.9871,
+	"longitude": -102.5939
+},
+{
+	"City": "Oxbow",
+	"State": "ND",
+	"latitude": 46.6687,
+	"longitude": -96.8101
+},
+{
+	"City": "Reynolds",
+	"State": "ND",
+	"latitude": 47.6685,
+	"longitude": -97.106
+},
+{
+	"City": "Medina",
+	"State": "ND",
+	"latitude": 46.8938,
+	"longitude": -99.2999
+},
+{
+	"City": "Powers Lake",
+	"State": "ND",
+	"latitude": 48.5637,
+	"longitude": -102.6452
+},
+{
+	"City": "Gackle",
+	"State": "ND",
+	"latitude": 46.6264,
+	"longitude": -99.1412
+},
+{
+	"City": "Davenport",
+	"State": "ND",
+	"latitude": 46.7148,
+	"longitude": -97.0654
+},
+{
+	"City": "Carson",
+	"State": "ND",
+	"latitude": 46.4223,
+	"longitude": -101.5706
+},
+{
+	"City": "Drake",
+	"State": "ND",
+	"latitude": 47.9226,
+	"longitude": -100.3745
+},
+{
+	"City": "Michigan City",
+	"State": "ND",
+	"latitude": 48.0248,
+	"longitude": -98.1197
+},
+{
+	"City": "Tower City",
+	"State": "ND",
+	"latitude": 46.9263,
+	"longitude": -97.676
+},
+{
+	"City": "Scranton",
+	"State": "ND",
+	"latitude": 46.1498,
+	"longitude": -103.1429
+},
+{
+	"City": "Granville",
+	"State": "ND",
+	"latitude": 48.2663,
+	"longitude": -100.8449
+},
+{
+	"City": "Hunter",
+	"State": "ND",
+	"latitude": 47.1904,
+	"longitude": -97.2131
+},
+{
+	"City": "Hope",
+	"State": "ND",
+	"latitude": 47.3243,
+	"longitude": -97.7192
+},
+{
+	"City": "Walcott",
+	"State": "ND",
+	"latitude": 46.5505,
+	"longitude": -96.9375
+},
+{
+	"City": "Abercrombie",
+	"State": "ND",
+	"latitude": 46.4471,
+	"longitude": -96.7294
+},
+{
+	"City": "Porcupine",
+	"State": "ND",
+	"latitude": 46.2218,
+	"longitude": -101.0999
+},
+{
+	"City": "Anamoose",
+	"State": "ND",
+	"latitude": 47.8827,
+	"longitude": -100.242
+},
+{
+	"City": "Lansford",
+	"State": "ND",
+	"latitude": 48.627,
+	"longitude": -101.3759
+},
+{
+	"City": "Harmon",
+	"State": "ND",
+	"latitude": 46.9443,
+	"longitude": -100.9526
+},
+{
+	"City": "Gilby",
+	"State": "ND",
+	"latitude": 48.0834,
+	"longitude": -97.468
+},
+{
+	"City": "Leonard",
+	"State": "ND",
+	"latitude": 46.6523,
+	"longitude": -97.2499
+},
+{
+	"City": "Page",
+	"State": "ND",
+	"latitude": 47.1592,
+	"longitude": -97.5681
+},
+{
+	"City": "Hoople",
+	"State": "ND",
+	"latitude": 48.5358,
+	"longitude": -97.639
+},
+{
+	"City": "Sherwood",
+	"State": "ND",
+	"latitude": 48.9619,
+	"longitude": -101.6328
+},
+{
+	"City": "Minnewaukan",
+	"State": "ND",
+	"latitude": 48.0761,
+	"longitude": -99.2607
+},
+{
+	"City": "Lignite",
+	"State": "ND",
+	"latitude": 48.8772,
+	"longitude": -102.5645
+},
+{
+	"City": "Riverdale",
+	"State": "ND",
+	"latitude": 47.4976,
+	"longitude": -101.3661
+},
+{
+	"City": "Zap",
+	"State": "ND",
+	"latitude": 47.2847,
+	"longitude": -101.9233
+},
+{
+	"City": "Frontier",
+	"State": "ND",
+	"latitude": 46.8002,
+	"longitude": -96.8332
+},
+{
+	"City": "White Shield",
+	"State": "ND",
+	"latitude": 47.6601,
+	"longitude": -101.8436
+},
+{
+	"City": "Hazelton",
+	"State": "ND",
+	"latitude": 46.4858,
+	"longitude": -100.2811
+},
+{
+	"City": "Aneta",
+	"State": "ND",
+	"latitude": 47.6795,
+	"longitude": -97.9897
+},
+{
+	"City": "Plaza",
+	"State": "ND",
+	"latitude": 48.026,
+	"longitude": -101.9594
+},
+{
+	"City": "New Leipzig",
+	"State": "ND",
+	"latitude": 46.3758,
+	"longitude": -101.9516
+},
+{
+	"City": "Flasher",
+	"State": "ND",
+	"latitude": 46.4521,
+	"longitude": -101.2324
+},
+{
+	"City": "Halliday",
+	"State": "ND",
+	"latitude": 47.3522,
+	"longitude": -102.3388
+},
+{
+	"City": "Fort Yates",
+	"State": "ND",
+	"latitude": 46.0866,
+	"longitude": -100.63
+},
+{
+	"City": "Tappen",
+	"State": "ND",
+	"latitude": 46.8715,
+	"longitude": -99.6269
+},
+{
+	"City": "Des Lacs",
+	"State": "ND",
+	"latitude": 48.2564,
+	"longitude": -101.5636
+},
+{
+	"City": "Fordville",
+	"State": "ND",
+	"latitude": 48.2166,
+	"longitude": -97.7954
+},
+{
+	"City": "Munich",
+	"State": "ND",
+	"latitude": 48.6729,
+	"longitude": -98.8385
+},
+{
+	"City": "Ruthville",
+	"State": "ND",
+	"latitude": 48.3708,
+	"longitude": -101.3003
+},
+{
+	"City": "Sheyenne",
+	"State": "ND",
+	"latitude": 47.8274,
+	"longitude": -99.1168
+},
+{
+	"City": "Dunn Center",
+	"State": "ND",
+	"latitude": 47.3527,
+	"longitude": -102.6233
+},
+{
+	"City": "Wimbledon",
+	"State": "ND",
+	"latitude": 47.1691,
+	"longitude": -98.4586
+},
+{
+	"City": "Mooreton",
+	"State": "ND",
+	"latitude": 46.269,
+	"longitude": -96.8758
+},
+{
+	"City": "Wing",
+	"State": "ND",
+	"latitude": 47.1422,
+	"longitude": -100.2824
+},
+{
+	"City": "Buffalo",
+	"State": "ND",
+	"latitude": 46.9193,
+	"longitude": -97.5507
+},
+{
+	"City": "Edinburg",
+	"State": "ND",
+	"latitude": 48.4955,
+	"longitude": -97.863
+},
+{
+	"City": "Edmore",
+	"State": "ND",
+	"latitude": 48.4124,
+	"longitude": -98.4536
+},
+{
+	"City": "Arnegard",
+	"State": "ND",
+	"latitude": 47.8084,
+	"longitude": -103.4388
+},
+{
+	"City": "Petersburg",
+	"State": "ND",
+	"latitude": 48.0132,
+	"longitude": -98.0004
+},
+{
+	"City": "Christine",
+	"State": "ND",
+	"latitude": 46.5752,
+	"longitude": -96.8067
+},
+{
+	"City": "Sanborn",
+	"State": "ND",
+	"latitude": 46.9428,
+	"longitude": -98.2238
+},
+{
+	"City": "Taylor",
+	"State": "ND",
+	"latitude": 46.9018,
+	"longitude": -102.4222
+},
+{
+	"City": "Grandin",
+	"State": "ND",
+	"latitude": 47.2367,
+	"longitude": -97.0033
+},
+{
+	"City": "Binford",
+	"State": "ND",
+	"latitude": 47.5604,
+	"longitude": -98.3456
+},
+{
+	"City": "Selfridge",
+	"State": "ND",
+	"latitude": 46.0417,
+	"longitude": -100.9244
+},
+{
+	"City": "Rhame",
+	"State": "ND",
+	"latitude": 46.2347,
+	"longitude": -103.655
+},
+{
+	"City": "Golden Valley",
+	"State": "ND",
+	"latitude": 47.2901,
+	"longitude": -102.0652
+},
+{
+	"City": "Streeter",
+	"State": "ND",
+	"latitude": 46.6576,
+	"longitude": -99.3568
+},
+{
+	"City": "Regent",
+	"State": "ND",
+	"latitude": 46.4222,
+	"longitude": -102.5581
+},
+{
+	"City": "Rutland",
+	"State": "ND",
+	"latitude": 46.0543,
+	"longitude": -97.5068
+},
+{
+	"City": "Brooktree Park",
+	"State": "ND",
+	"latitude": 47.0038,
+	"longitude": -96.8961
+},
+{
+	"City": "Kensal",
+	"State": "ND",
+	"latitude": 47.3001,
+	"longitude": -98.7322
+},
+{
+	"City": "Colfax",
+	"State": "ND",
+	"latitude": 46.4709,
+	"longitude": -96.8724
+},
+{
+	"City": "Tolna",
+	"State": "ND",
+	"latitude": 47.8257,
+	"longitude": -98.4382
+},
+{
+	"City": "Litchville",
+	"State": "ND",
+	"latitude": 46.6566,
+	"longitude": -98.1917
+},
+{
+	"City": "Willow City",
+	"State": "ND",
+	"latitude": 48.6046,
+	"longitude": -100.2934
+},
+{
+	"City": "Wildrose",
+	"State": "ND",
+	"latitude": 48.6299,
+	"longitude": -103.1837
+},
+{
+	"City": "Reeder",
+	"State": "ND",
+	"latitude": 46.1059,
+	"longitude": -102.9422
+},
+{
+	"City": "Crary",
+	"State": "ND",
+	"latitude": 48.0716,
+	"longitude": -98.6384
+},
+{
+	"City": "Makoti",
+	"State": "ND",
+	"latitude": 47.9633,
+	"longitude": -101.8029
+},
+{
+	"City": "Portal",
+	"State": "ND",
+	"latitude": 48.9947,
+	"longitude": -102.5479
+},
+{
+	"City": "Carpio",
+	"State": "ND",
+	"latitude": 48.4434,
+	"longitude": -101.7163
+},
+{
+	"City": "Columbus",
+	"State": "ND",
+	"latitude": 48.905,
+	"longitude": -102.7812
+},
+{
+	"City": "Upham",
+	"State": "ND",
+	"latitude": 48.5817,
+	"longitude": -100.7284
+},
+{
+	"City": "Marmarth",
+	"State": "ND",
+	"latitude": 46.296,
+	"longitude": -103.9331
+},
+{
+	"City": "Pick City",
+	"State": "ND",
+	"latitude": 47.5114,
+	"longitude": -101.4573
+},
+{
+	"City": "Epping",
+	"State": "ND",
+	"latitude": 48.2817,
+	"longitude": -103.3579
+},
+{
+	"City": "Marion",
+	"State": "ND",
+	"latitude": 46.6091,
+	"longitude": -98.3375
+},
+{
+	"City": "Medora",
+	"State": "ND",
+	"latitude": 46.9127,
+	"longitude": -103.525
+},
+{
+	"City": "Crystal",
+	"State": "ND",
+	"latitude": 48.5981,
+	"longitude": -97.6685
+},
+{
+	"City": "Bisbee",
+	"State": "ND",
+	"latitude": 48.6272,
+	"longitude": -99.3788
+},
+{
+	"City": "Sheldon",
+	"State": "ND",
+	"latitude": 46.5886,
+	"longitude": -97.4944
+},
+{
+	"City": "Noonan",
+	"State": "ND",
+	"latitude": 48.8899,
+	"longitude": -103.0101
+},
+{
+	"City": "Forest River",
+	"State": "ND",
+	"latitude": 48.2166,
+	"longitude": -97.4703
+},
+{
+	"City": "Bowdon",
+	"State": "ND",
+	"latitude": 47.4685,
+	"longitude": -99.7089
+},
+{
+	"City": "Adams",
+	"State": "ND",
+	"latitude": 48.4202,
+	"longitude": -98.0737
+},
+{
+	"City": "Almont",
+	"State": "ND",
+	"latitude": 46.7283,
+	"longitude": -101.5027
+},
+{
+	"City": "Hannaford",
+	"State": "ND",
+	"latitude": 47.3141,
+	"longitude": -98.1889
+},
+{
+	"City": "Osnabrock",
+	"State": "ND",
+	"latitude": 48.6699,
+	"longitude": -98.1489
+},
+{
+	"City": "Starkweather",
+	"State": "ND",
+	"latitude": 48.4521,
+	"longitude": -98.8784
+},
+{
+	"City": "Deering",
+	"State": "ND",
+	"latitude": 48.3956,
+	"longitude": -101.0503
+},
+{
+	"City": "Ross",
+	"State": "ND",
+	"latitude": 48.3128,
+	"longitude": -102.5433
+},
+{
+	"City": "Oriska",
+	"State": "ND",
+	"latitude": 46.9313,
+	"longitude": -97.7906
+},
+{
+	"City": "Buchanan",
+	"State": "ND",
+	"latitude": 47.0626,
+	"longitude": -98.829
+},
+{
+	"City": "Newburg",
+	"State": "ND",
+	"latitude": 48.7139,
+	"longitude": -100.9127
+},
+{
+	"City": "Pisek",
+	"State": "ND",
+	"latitude": 48.3105,
+	"longitude": -97.7104
+},
+{
+	"City": "Sykeston",
+	"State": "ND",
+	"latitude": 47.466,
+	"longitude": -99.3993
+},
+{
+	"City": "Oberon",
+	"State": "ND",
+	"latitude": 47.9242,
+	"longitude": -99.2059
+},
+{
+	"City": "Galesburg",
+	"State": "ND",
+	"latitude": 47.2701,
+	"longitude": -97.4087
+},
+{
+	"City": "Mercer",
+	"State": "ND",
+	"latitude": 47.4905,
+	"longitude": -100.7104
+},
+{
+	"City": "Dodge",
+	"State": "ND",
+	"latitude": 47.3057,
+	"longitude": -102.2029
+},
+{
+	"City": "Spiritwood Lake",
+	"State": "ND",
+	"latitude": 47.0743,
+	"longitude": -98.5866
+},
+{
+	"City": "Rocklake",
+	"State": "ND",
+	"latitude": 48.7901,
+	"longitude": -99.2458
+},
+{
+	"City": "Palermo",
+	"State": "ND",
+	"latitude": 48.338,
+	"longitude": -102.2298
+},
+{
+	"City": "Esmond",
+	"State": "ND",
+	"latitude": 48.0331,
+	"longitude": -99.7647
+},
+{
+	"City": "Amenia",
+	"State": "ND",
+	"latitude": 47.0065,
+	"longitude": -97.2241
+},
+{
+	"City": "Glenfield",
+	"State": "ND",
+	"latitude": 47.4551,
+	"longitude": -98.5663
+},
+{
+	"City": "Cogswell",
+	"State": "ND",
+	"latitude": 46.107,
+	"longitude": -97.7842
+},
+{
+	"City": "Dazey",
+	"State": "ND",
+	"latitude": 47.1883,
+	"longitude": -98.2007
+},
+{
+	"City": "Goodrich",
+	"State": "ND",
+	"latitude": 47.476,
+	"longitude": -100.1248
+},
+{
+	"City": "White Earth",
+	"State": "ND",
+	"latitude": 48.3799,
+	"longitude": -102.7718
+},
+{
+	"City": "Sharon",
+	"State": "ND",
+	"latitude": 47.5974,
+	"longitude": -97.8994
+},
+{
+	"City": "Lankin",
+	"State": "ND",
+	"latitude": 48.3147,
+	"longitude": -97.9203
+},
+{
+	"City": "Solen",
+	"State": "ND",
+	"latitude": 46.3873,
+	"longitude": -100.7958
+},
+{
+	"City": "Fingal",
+	"State": "ND",
+	"latitude": 46.7625,
+	"longitude": -97.7932
+},
+{
+	"City": "Verona",
+	"State": "ND",
+	"latitude": 46.3626,
+	"longitude": -98.0771
+},
+{
+	"City": "Karlsruhe",
+	"State": "ND",
+	"latitude": 48.091,
+	"longitude": -100.6162
+},
+{
+	"City": "Montpelier",
+	"State": "ND",
+	"latitude": 46.6988,
+	"longitude": -98.5884
+},
+{
+	"City": "Coleharbor",
+	"State": "ND",
+	"latitude": 47.5425,
+	"longitude": -101.2214
+},
+{
+	"City": "Mountain",
+	"State": "ND",
+	"latitude": 48.6843,
+	"longitude": -97.8648
+},
+{
+	"City": "Tuttle",
+	"State": "ND",
+	"latitude": 47.1445,
+	"longitude": -99.9934
+},
+{
+	"City": "Menoken",
+	"State": "ND",
+	"latitude": 46.8148,
+	"longitude": -100.5341
+},
+{
+	"City": "Maxbass",
+	"State": "ND",
+	"latitude": 48.7225,
+	"longitude": -101.1426
+},
+{
+	"City": "Alamo",
+	"State": "ND",
+	"latitude": 48.5825,
+	"longitude": -103.4677
+},
+{
+	"City": "Dwight",
+	"State": "ND",
+	"latitude": 46.3038,
+	"longitude": -96.7399
+},
+{
+	"City": "Ryder",
+	"State": "ND",
+	"latitude": 47.9211,
+	"longitude": -101.6694
+},
+{
+	"City": "Ardoch",
+	"State": "ND",
+	"latitude": 48.2054,
+	"longitude": -97.338
+},
+{
+	"City": "Benedict",
+	"State": "ND",
+	"latitude": 47.8301,
+	"longitude": -101.0843
+},
+{
+	"City": "Cleveland",
+	"State": "ND",
+	"latitude": 46.891,
+	"longitude": -99.1196
+},
+{
+	"City": "Hurdsfield",
+	"State": "ND",
+	"latitude": 47.4468,
+	"longitude": -99.931
+},
+{
+	"City": "Butte",
+	"State": "ND",
+	"latitude": 47.837,
+	"longitude": -100.6658
+},
+{
+	"City": "Fort Ransom",
+	"State": "ND",
+	"latitude": 46.5244,
+	"longitude": -97.9311
+},
+{
+	"City": "Zeeland",
+	"State": "ND",
+	"latitude": 45.9729,
+	"longitude": -99.8325
+},
+{
+	"City": "Gardner",
+	"State": "ND",
+	"latitude": 47.1445,
+	"longitude": -96.9686
+},
+{
+	"City": "Briarwood",
+	"State": "ND",
+	"latitude": 46.787,
+	"longitude": -96.7949
+},
+{
+	"City": "Havana",
+	"State": "ND",
+	"latitude": 45.9517,
+	"longitude": -97.6185
+},
+{
+	"City": "Martin",
+	"State": "ND",
+	"latitude": 47.827,
+	"longitude": -100.115
+},
+{
+	"City": "Jud",
+	"State": "ND",
+	"latitude": 46.5258,
+	"longitude": -98.8976
+},
+{
+	"City": "Manning",
+	"State": "ND",
+	"latitude": 47.231,
+	"longitude": -102.7702
+},
+{
+	"City": "Lehr",
+	"State": "ND",
+	"latitude": 46.2826,
+	"longitude": -99.3528
+},
+{
+	"City": "Englevale",
+	"State": "ND",
+	"latitude": 46.3912,
+	"longitude": -97.9038
+},
+{
+	"City": "Golva",
+	"State": "ND",
+	"latitude": 46.7347,
+	"longitude": -103.9829
+},
+{
+	"City": "Pettibone",
+	"State": "ND",
+	"latitude": 47.1171,
+	"longitude": -99.5209
+},
+{
+	"City": "Warwick",
+	"State": "ND",
+	"latitude": 47.8547,
+	"longitude": -98.7056
+},
+{
+	"City": "Driscoll",
+	"State": "ND",
+	"latitude": 46.8427,
+	"longitude": -100.1439
+},
+{
+	"City": "Dawson",
+	"State": "ND",
+	"latitude": 46.8679,
+	"longitude": -99.7536
+},
+{
+	"City": "Mantador",
+	"State": "ND",
+	"latitude": 46.1656,
+	"longitude": -96.9783
+},
+{
+	"City": "Pekin",
+	"State": "ND",
+	"latitude": 47.7919,
+	"longitude": -98.3278
+},
+{
+	"City": "Flaxton",
+	"State": "ND",
+	"latitude": 48.8974,
+	"longitude": -102.3933
+},
+{
+	"City": "Douglas",
+	"State": "ND",
+	"latitude": 47.8579,
+	"longitude": -101.5018
+},
+{
+	"City": "Hague",
+	"State": "ND",
+	"latitude": 46.0289,
+	"longitude": -99.9991
+},
+{
+	"City": "Sentinel Butte",
+	"State": "ND",
+	"latitude": 46.9195,
+	"longitude": -103.84
+},
+{
+	"City": "Pingree",
+	"State": "ND",
+	"latitude": 47.1638,
+	"longitude": -98.9086
+},
+{
+	"City": "Balta",
+	"State": "ND",
+	"latitude": 48.1666,
+	"longitude": -100.0369
+},
+{
+	"City": "Grace City",
+	"State": "ND",
+	"latitude": 47.5513,
+	"longitude": -98.8039
+},
+{
+	"City": "Milton",
+	"State": "ND",
+	"latitude": 48.626,
+	"longitude": -98.0459
+},
+{
+	"City": "Bathgate",
+	"State": "ND",
+	"latitude": 48.8805,
+	"longitude": -97.4738
+},
+{
+	"City": "Hamilton",
+	"State": "ND",
+	"latitude": 48.808,
+	"longitude": -97.4518
+},
+{
+	"City": "Great Bend",
+	"State": "ND",
+	"latitude": 46.1546,
+	"longitude": -96.801
+},
+{
+	"City": "Nome",
+	"State": "ND",
+	"latitude": 46.6758,
+	"longitude": -97.8162
+},
+{
+	"City": "North River",
+	"State": "ND",
+	"latitude": 46.9503,
+	"longitude": -96.802
+},
+{
+	"City": "Brocket",
+	"State": "ND",
+	"latitude": 48.2107,
+	"longitude": -98.3556
+},
+{
+	"City": "Donnybrook",
+	"State": "ND",
+	"latitude": 48.5077,
+	"longitude": -101.8872
+},
+{
+	"City": "McHenry",
+	"State": "ND",
+	"latitude": 47.5764,
+	"longitude": -98.591
+},
+{
+	"City": "Fullerton",
+	"State": "ND",
+	"latitude": 46.1632,
+	"longitude": -98.4272
+},
+{
+	"City": "Souris",
+	"State": "ND",
+	"latitude": 48.91,
+	"longitude": -100.6826
+},
+{
+	"City": "Barney",
+	"State": "ND",
+	"latitude": 46.2658,
+	"longitude": -96.9988
+},
+{
+	"City": "Niagara",
+	"State": "ND",
+	"latitude": 47.9983,
+	"longitude": -97.8717
+},
+{
+	"City": "Tolley",
+	"State": "ND",
+	"latitude": 48.7309,
+	"longitude": -101.8273
+},
+{
+	"City": "Prairie Rose",
+	"State": "ND",
+	"latitude": 46.8171,
+	"longitude": -96.8353
+},
+{
+	"City": "Nekoma",
+	"State": "ND",
+	"latitude": 48.5763,
+	"longitude": -98.3755
+},
+{
+	"City": "Selz",
+	"State": "ND",
+	"latitude": 47.8594,
+	"longitude": -99.8934
+},
+{
+	"City": "Kathryn",
+	"State": "ND",
+	"latitude": 46.6812,
+	"longitude": -97.9704
+},
+{
+	"City": "Jessie",
+	"State": "ND",
+	"latitude": 47.5402,
+	"longitude": -98.2291
+},
+{
+	"City": "Inkster",
+	"State": "ND",
+	"latitude": 48.1513,
+	"longitude": -97.6442
+},
+{
+	"City": "Woodworth",
+	"State": "ND",
+	"latitude": 47.1421,
+	"longitude": -99.3045
+},
+{
+	"City": "Courtenay",
+	"State": "ND",
+	"latitude": 47.2241,
+	"longitude": -98.5685
+},
+{
+	"City": "Robinson",
+	"State": "ND",
+	"latitude": 47.142,
+	"longitude": -99.7813
+},
+{
+	"City": "Voltaire",
+	"State": "ND",
+	"latitude": 48.0187,
+	"longitude": -100.844
+},
+{
+	"City": "Hampden",
+	"State": "ND",
+	"latitude": 48.5396,
+	"longitude": -98.6544
+},
+{
+	"City": "Forbes",
+	"State": "ND",
+	"latitude": 45.9425,
+	"longitude": -98.782
+},
+{
+	"City": "Clifford",
+	"State": "ND",
+	"latitude": 47.3482,
+	"longitude": -97.4101
+},
+{
+	"City": "Regan",
+	"State": "ND",
+	"latitude": 47.1568,
+	"longitude": -100.5273
+},
+{
+	"City": "Fredonia",
+	"State": "ND",
+	"latitude": 46.3292,
+	"longitude": -99.0957
+},
+{
+	"City": "Rogers",
+	"State": "ND",
+	"latitude": 47.074,
+	"longitude": -98.2031
+},
+{
+	"City": "Alice",
+	"State": "ND",
+	"latitude": 46.76,
+	"longitude": -97.5562
+},
+{
+	"City": "Springbrook",
+	"State": "ND",
+	"latitude": 48.2521,
+	"longitude": -103.4618
+},
+{
+	"City": "Cathay",
+	"State": "ND",
+	"latitude": 47.5542,
+	"longitude": -99.4108
+},
+{
+	"City": "Dickey",
+	"State": "ND",
+	"latitude": 46.5368,
+	"longitude": -98.4681
+},
+{
+	"City": "Monango",
+	"State": "ND",
+	"latitude": 46.1734,
+	"longitude": -98.5952
+},
+{
+	"City": "East Fairview",
+	"State": "ND",
+	"latitude": 47.8554,
+	"longitude": -104.0375
+},
+{
+	"City": "Nash",
+	"State": "ND",
+	"latitude": 48.4778,
+	"longitude": -97.5245
+},
+{
+	"City": "Landa",
+	"State": "ND",
+	"latitude": 48.8959,
+	"longitude": -100.912
+},
+{
+	"City": "Wheatland",
+	"State": "ND",
+	"latitude": 46.9049,
+	"longitude": -97.3455
+},
+{
+	"City": "Berlin",
+	"State": "ND",
+	"latitude": 46.3784,
+	"longitude": -98.4885
+},
+{
+	"City": "Fairdale",
+	"State": "ND",
+	"latitude": 48.49,
+	"longitude": -98.2312
+},
+{
+	"City": "Brinsmade",
+	"State": "ND",
+	"latitude": 48.184,
+	"longitude": -99.3236
+},
+{
+	"City": "Canton City",
+	"State": "ND",
+	"latitude": 48.688,
+	"longitude": -97.6661
+},
+{
+	"City": "Wolford",
+	"State": "ND",
+	"latitude": 48.4976,
+	"longitude": -99.7035
+},
+{
+	"City": "Alsen",
+	"State": "ND",
+	"latitude": 48.6303,
+	"longitude": -98.7048
+},
+{
+	"City": "Lawton",
+	"State": "ND",
+	"latitude": 48.3036,
+	"longitude": -98.3684
+},
+{
+	"City": "Erie",
+	"State": "ND",
+	"latitude": 47.1154,
+	"longitude": -97.3879
+},
+{
+	"City": "Wales",
+	"State": "ND",
+	"latitude": 48.8952,
+	"longitude": -98.6008
+},
+{
+	"City": "Foxholm",
+	"State": "ND",
+	"latitude": 48.3654,
+	"longitude": -101.5721
+},
+{
+	"City": "Embden",
+	"State": "ND",
+	"latitude": 46.805,
+	"longitude": -97.4395
+},
+{
+	"City": "Luverne",
+	"State": "ND",
+	"latitude": 47.2514,
+	"longitude": -97.9348
+},
+{
+	"City": "Kramer",
+	"State": "ND",
+	"latitude": 48.691,
+	"longitude": -100.7078
+},
+{
+	"City": "Sibley",
+	"State": "ND",
+	"latitude": 47.2186,
+	"longitude": -97.9653
+},
+{
+	"City": "De Lamere",
+	"State": "ND",
+	"latitude": 46.2668,
+	"longitude": -97.3332
+},
+{
+	"City": "Gardena",
+	"State": "ND",
+	"latitude": 48.7012,
+	"longitude": -100.4981
+},
+{
+	"City": "Ypsilanti",
+	"State": "ND",
+	"latitude": 46.7834,
+	"longitude": -98.561
+},
+{
+	"City": "Egeland",
+	"State": "ND",
+	"latitude": 48.6281,
+	"longitude": -99.098
+},
+{
+	"City": "Braddock",
+	"State": "ND",
+	"latitude": 46.564,
+	"longitude": -100.0896
+},
+{
+	"City": "Balfour",
+	"State": "ND",
+	"latitude": 47.9509,
+	"longitude": -100.5343
+},
+{
+	"City": "Sarles",
+	"State": "ND",
+	"latitude": 48.945,
+	"longitude": -98.9969
+},
+{
+	"City": "Antler",
+	"State": "ND",
+	"latitude": 48.9713,
+	"longitude": -101.2832
+},
+{
+	"City": "Bucyrus",
+	"State": "ND",
+	"latitude": 46.0648,
+	"longitude": -102.7885
+},
+{
+	"City": "Cayuga",
+	"State": "ND",
+	"latitude": 46.0761,
+	"longitude": -97.3845
+},
+{
+	"City": "Elliott",
+	"State": "ND",
+	"latitude": 46.4023,
+	"longitude": -97.8149
+},
+{
+	"City": "Knox",
+	"State": "ND",
+	"latitude": 48.3439,
+	"longitude": -99.6911
+},
+{
+	"City": "Ludden",
+	"State": "ND",
+	"latitude": 46.0082,
+	"longitude": -98.1254
+},
+{
+	"City": "Ambrose",
+	"State": "ND",
+	"latitude": 48.9559,
+	"longitude": -103.4813
+},
+{
+	"City": "Caledonia",
+	"State": "ND",
+	"latitude": 47.4576,
+	"longitude": -96.8893
+},
+{
+	"City": "Amidon",
+	"State": "ND",
+	"latitude": 46.4823,
+	"longitude": -103.3194
+},
+{
+	"City": "Haynes",
+	"State": "ND",
+	"latitude": 45.9739,
+	"longitude": -102.471
+},
+{
+	"City": "York",
+	"State": "ND",
+	"latitude": 48.3132,
+	"longitude": -99.5733
+},
+{
+	"City": "Conway",
+	"State": "ND",
+	"latitude": 48.2343,
+	"longitude": -97.6751
+},
+{
+	"City": "Denhoff",
+	"State": "ND",
+	"latitude": 47.4786,
+	"longitude": -100.2592
+},
+{
+	"City": "Fortuna",
+	"State": "ND",
+	"latitude": 48.9099,
+	"longitude": -103.7783
+},
+{
+	"City": "Mylo",
+	"State": "ND",
+	"latitude": 48.6358,
+	"longitude": -99.6179
+},
+{
+	"City": "Sutton",
+	"State": "ND",
+	"latitude": 47.4038,
+	"longitude": -98.441
+},
+{
+	"City": "Calio",
+	"State": "ND",
+	"latitude": 48.6238,
+	"longitude": -98.938
+},
+{
+	"City": "Hamberg",
+	"State": "ND",
+	"latitude": 47.7634,
+	"longitude": -99.516
+},
+{
+	"City": "Leal",
+	"State": "ND",
+	"latitude": 47.1049,
+	"longitude": -98.3155
+},
+{
+	"City": "Calvin",
+	"State": "ND",
+	"latitude": 48.8518,
+	"longitude": -98.938
+},
+{
+	"City": "Ayr",
+	"State": "ND",
+	"latitude": 47.0411,
+	"longitude": -97.4909
+},
+{
+	"City": "Overly",
+	"State": "ND",
+	"latitude": 48.6811,
+	"longitude": -100.151
+},
+{
+	"City": "Leith",
+	"State": "ND",
+	"latitude": 46.3626,
+	"longitude": -101.6385
+},
+{
+	"City": "Loma",
+	"State": "ND",
+	"latitude": 48.6417,
+	"longitude": -98.5248
+},
+{
+	"City": "Gascoyne",
+	"State": "ND",
+	"latitude": 46.119,
+	"longitude": -103.0788
+},
+{
+	"City": "Hannah",
+	"State": "ND",
+	"latitude": 48.9728,
+	"longitude": -98.6902
+},
+{
+	"City": "Heil",
+	"State": "ND",
+	"latitude": 46.3892,
+	"longitude": -101.7011
+},
+{
+	"City": "Bantry",
+	"State": "ND",
+	"latitude": 48.4975,
+	"longitude": -100.6099
+},
+{
+	"City": "Kief",
+	"State": "ND",
+	"latitude": 47.86,
+	"longitude": -100.5133
+},
+{
+	"City": "Hansboro",
+	"State": "ND",
+	"latitude": 48.9523,
+	"longitude": -99.3802
+},
+{
+	"City": "Larson",
+	"State": "ND",
+	"latitude": 48.8916,
+	"longitude": -102.8626
+},
+{
+	"City": "Churchs Ferry",
+	"State": "ND",
+	"latitude": 48.2686,
+	"longitude": -99.1944
+},
+{
+	"City": "Pillsbury",
+	"State": "ND",
+	"latitude": 47.2071,
+	"longitude": -97.7957
+},
+{
+	"City": "Venturia",
+	"State": "ND",
+	"latitude": 45.9971,
+	"longitude": -99.5479
+},
+{
+	"City": "Raleigh",
+	"State": "ND",
+	"latitude": 46.3572,
+	"longitude": -101.3053
+},
+{
+	"City": "Dahlen",
+	"State": "ND",
+	"latitude": 48.1587,
+	"longitude": -97.932
+},
+{
+	"City": "Auburn",
+	"State": "ND",
+	"latitude": 48.5066,
+	"longitude": -97.4368
+},
+{
+	"City": "Perth",
+	"State": "ND",
+	"latitude": 48.7148,
+	"longitude": -99.4582
+},
+{
+	"City": "Bergen",
+	"State": "ND",
+	"latitude": 48.0037,
+	"longitude": -100.7199
+},
+{
+	"City": "Loraine",
+	"State": "ND",
+	"latitude": 48.8683,
+	"longitude": -101.5678
+},
+{
+	"City": "Grano",
+	"State": "ND",
+	"latitude": 48.6153,
+	"longitude": -101.5893
+},
+{
+	"City": "Heimdal",
+	"State": "ND",
+	"latitude": 47.7926,
+	"longitude": -99.6528
+},
+{
+	"City": "Blanchard",
+	"State": "ND",
+	"latitude": 47.3432,
+	"longitude": -97.2228
+},
+{
+	"City": "Ruso",
+	"State": "ND",
+	"latitude": 47.8373,
+	"longitude": -100.9343
+}]

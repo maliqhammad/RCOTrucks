@@ -1,0 +1,247 @@
+[
+{
+	"City": "Portland",
+	"State": "ME",
+	"latitude": 43.6773,
+	"longitude": -70.2715
+},
+{
+	"City": "Bangor",
+	"State": "ME",
+	"latitude": 44.8322,
+	"longitude": -68.7906
+},
+{
+	"City": "Lewiston",
+	"State": "ME",
+	"latitude": 44.0915,
+	"longitude": -70.1681
+},
+{
+	"City": "Sanford",
+	"State": "ME",
+	"latitude": 43.4244,
+	"longitude": -70.7573
+},
+{
+	"City": "Waterville",
+	"State": "ME",
+	"latitude": 44.5441,
+	"longitude": -69.6624
+},
+{
+	"City": "South Portland",
+	"State": "ME",
+	"latitude": 43.631,
+	"longitude": -70.2895
+},
+{
+	"City": "Auburn",
+	"State": "ME",
+	"latitude": 44.085,
+	"longitude": -70.2492
+},
+{
+	"City": "Augusta",
+	"State": "ME",
+	"latitude": 44.3341,
+	"longitude": -69.7319
+},
+{
+	"City": "Biddeford",
+	"State": "ME",
+	"latitude": 43.4674,
+	"longitude": -70.4512
+},
+{
+	"City": "Saco",
+	"State": "ME",
+	"latitude": 43.539,
+	"longitude": -70.4624
+},
+{
+	"City": "Westbrook",
+	"State": "ME",
+	"latitude": 43.6954,
+	"longitude": -70.3539
+},
+{
+	"City": "Brewer",
+	"State": "ME",
+	"latitude": 44.7835,
+	"longitude": -68.7352
+},
+{
+	"City": "Presque Isle",
+	"State": "ME",
+	"latitude": 46.6868,
+	"longitude": -67.9874
+},
+{
+	"City": "Rockland",
+	"State": "ME",
+	"latitude": 44.1274,
+	"longitude": -69.1369
+},
+{
+	"City": "Bath",
+	"State": "ME",
+	"latitude": 43.9346,
+	"longitude": -69.8346
+},
+{
+	"City": "Ellsworth",
+	"State": "ME",
+	"latitude": 44.5847,
+	"longitude": -68.4875
+},
+{
+	"City": "Caribou",
+	"State": "ME",
+	"latitude": 46.8662,
+	"longitude": -67.9919
+},
+{
+	"City": "Old Town",
+	"State": "ME",
+	"latitude": 44.9491,
+	"longitude": -68.7249
+},
+{
+	"City": "Belfast",
+	"State": "ME",
+	"latitude": 44.428,
+	"longitude": -69.0325
+},
+{
+	"City": "North Windham",
+	"State": "ME",
+	"latitude": 43.8238,
+	"longitude": -70.4288
+},
+{
+	"City": "Gardiner",
+	"State": "ME",
+	"latitude": 44.191,
+	"longitude": -69.7921
+},
+{
+	"City": "Lisbon Falls",
+	"State": "ME",
+	"latitude": 44.0086,
+	"longitude": -70.057
+},
+{
+	"City": "South Eliot",
+	"State": "ME",
+	"latitude": 43.1287,
+	"longitude": -70.7952
+},
+{
+	"City": "Lake Arrowhead",
+	"State": "ME",
+	"latitude": 43.6634,
+	"longitude": -70.7382
+},
+{
+	"City": "Calais",
+	"State": "ME",
+	"latitude": 45.134,
+	"longitude": -67.224
+},
+{
+	"City": "Cumberland Center",
+	"State": "ME",
+	"latitude": 43.7982,
+	"longitude": -70.2541
+},
+{
+	"City": "York Harbor",
+	"State": "ME",
+	"latitude": 43.1435,
+	"longitude": -70.649
+},
+{
+	"City": "Hallowell",
+	"State": "ME",
+	"latitude": 44.2904,
+	"longitude": -69.8141
+},
+{
+	"City": "South Paris",
+	"State": "ME",
+	"latitude": 44.219,
+	"longitude": -70.5113
+},
+{
+	"City": "Cape Neddick",
+	"State": "ME",
+	"latitude": 43.1706,
+	"longitude": -70.622
+},
+{
+	"City": "Steep Falls",
+	"State": "ME",
+	"latitude": 43.7905,
+	"longitude": -70.6275
+},
+{
+	"City": "Falmouth Foreside",
+	"State": "ME",
+	"latitude": 43.7348,
+	"longitude": -70.2152
+},
+{
+	"City": "Chisholm",
+	"State": "ME",
+	"latitude": 44.4916,
+	"longitude": -70.1923
+},
+{
+	"City": "Eastport",
+	"State": "ME",
+	"latitude": 44.9137,
+	"longitude": -67.0183
+},
+{
+	"City": "South Windham",
+	"State": "ME",
+	"latitude": 43.738,
+	"longitude": -70.4236
+},
+{
+	"City": "West Kennebunk",
+	"State": "ME",
+	"latitude": 43.4142,
+	"longitude": -70.581
+},
+{
+	"City": "Kittery Point",
+	"State": "ME",
+	"latitude": 43.0883,
+	"longitude": -70.6988
+},
+{
+	"City": "Little Falls",
+	"State": "ME",
+	"latitude": 43.7312,
+	"longitude": -70.4301
+},
+{
+	"City": "Passamaquoddy Pleasant Point",
+	"State": "ME",
+	"latitude": 44.9613,
+	"longitude": -67.0547
+},
+{
+	"City": "Cousins Island",
+	"State": "ME",
+	"latitude": 43.7631,
+	"longitude": -70.1409
+},
+{
+	"City": "Littlejohn Island",
+	"State": "ME",
+	"latitude": 43.7599,
+	"longitude": -70.1284
+}]

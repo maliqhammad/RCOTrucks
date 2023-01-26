@@ -1,0 +1,2689 @@
+[
+{
+	"City": "Denver",
+	"State": "CO",
+	"latitude": 39.7621,
+	"longitude": -104.8759
+},
+{
+	"City": "Colorado Springs",
+	"State": "CO",
+	"latitude": 38.8674,
+	"longitude": -104.7606
+},
+{
+	"City": "Aurora",
+	"State": "CO",
+	"latitude": 39.7087,
+	"longitude": -104.7273
+},
+{
+	"City": "Fort Collins",
+	"State": "CO",
+	"latitude": 40.5478,
+	"longitude": -105.0656
+},
+{
+	"City": "Lakewood",
+	"State": "CO",
+	"latitude": 39.6977,
+	"longitude": -105.1168
+},
+{
+	"City": "Pueblo",
+	"State": "CO",
+	"latitude": 38.2705,
+	"longitude": -104.6112
+},
+{
+	"City": "Thornton",
+	"State": "CO",
+	"latitude": 39.9197,
+	"longitude": -104.9438
+},
+{
+	"City": "Grand Junction",
+	"State": "CO",
+	"latitude": 39.0876,
+	"longitude": -108.5673
+},
+{
+	"City": "Greeley",
+	"State": "CO",
+	"latitude": 40.4151,
+	"longitude": -104.7706
+},
+{
+	"City": "Boulder",
+	"State": "CO",
+	"latitude": 40.0249,
+	"longitude": -105.2523
+},
+{
+	"City": "Arvada",
+	"State": "CO",
+	"latitude": 39.8321,
+	"longitude": -105.1511
+},
+{
+	"City": "Westminster",
+	"State": "CO",
+	"latitude": 39.8837,
+	"longitude": -105.0624
+},
+{
+	"City": "Centennial",
+	"State": "CO",
+	"latitude": 39.5926,
+	"longitude": -104.8674
+},
+{
+	"City": "Highlands Ranch",
+	"State": "CO",
+	"latitude": 39.5419,
+	"longitude": -104.9708
+},
+{
+	"City": "Longmont",
+	"State": "CO",
+	"latitude": 40.1686,
+	"longitude": -105.1005
+},
+{
+	"City": "Lafayette",
+	"State": "CO",
+	"latitude": 39.9949,
+	"longitude": -105.0997
+},
+{
+	"City": "Loveland",
+	"State": "CO",
+	"latitude": 40.4166,
+	"longitude": -105.0623
+},
+{
+	"City": "Broomfield",
+	"State": "CO",
+	"latitude": 39.9541,
+	"longitude": -105.0527
+},
+{
+	"City": "Castle Rock",
+	"State": "CO",
+	"latitude": 39.3763,
+	"longitude": -104.8535
+},
+{
+	"City": "Commerce City",
+	"State": "CO",
+	"latitude": 39.8642,
+	"longitude": -104.8434
+},
+{
+	"City": "Parker",
+	"State": "CO",
+	"latitude": 39.5084,
+	"longitude": -104.7753
+},
+{
+	"City": "Littleton",
+	"State": "CO",
+	"latitude": 39.5915,
+	"longitude": -105.0188
+},
+{
+	"City": "Brighton",
+	"State": "CO",
+	"latitude": 39.9716,
+	"longitude": -104.7964
+},
+{
+	"City": "Security-Widefield",
+	"State": "CO",
+	"latitude": 38.7489,
+	"longitude": -104.7142
+},
+{
+	"City": "Northglenn",
+	"State": "CO",
+	"latitude": 39.9108,
+	"longitude": -104.9783
+},
+{
+	"City": "Englewood",
+	"State": "CO",
+	"latitude": 39.6468,
+	"longitude": -104.9942
+},
+{
+	"City": "Dakota Ridge",
+	"State": "CO",
+	"latitude": 39.6192,
+	"longitude": -105.1344
+},
+{
+	"City": "Firestone",
+	"State": "CO",
+	"latitude": 40.1563,
+	"longitude": -104.9494
+},
+{
+	"City": "Ken Caryl",
+	"State": "CO",
+	"latitude": 39.577,
+	"longitude": -105.1144
+},
+{
+	"City": "Pueblo West",
+	"State": "CO",
+	"latitude": 38.3551,
+	"longitude": -104.7266
+},
+{
+	"City": "Wheat Ridge",
+	"State": "CO",
+	"latitude": 39.7728,
+	"longitude": -105.1029
+},
+{
+	"City": "Fountain",
+	"State": "CO",
+	"latitude": 38.6886,
+	"longitude": -104.6829
+},
+{
+	"City": "Windsor",
+	"State": "CO",
+	"latitude": 40.4693,
+	"longitude": -104.9213
+},
+{
+	"City": "CaÃ±on City",
+	"State": "CO",
+	"latitude": 38.443,
+	"longitude": -105.2203
+},
+{
+	"City": "Erie",
+	"State": "CO",
+	"latitude": 40.0403,
+	"longitude": -105.0398
+},
+{
+	"City": "Columbine",
+	"State": "CO",
+	"latitude": 39.5879,
+	"longitude": -105.0694
+},
+{
+	"City": "Montrose",
+	"State": "CO",
+	"latitude": 38.469,
+	"longitude": -107.859
+},
+{
+	"City": "Evans",
+	"State": "CO",
+	"latitude": 40.366,
+	"longitude": -104.7389
+},
+{
+	"City": "Johnstown",
+	"State": "CO",
+	"latitude": 40.3499,
+	"longitude": -104.9481
+},
+{
+	"City": "Louisville",
+	"State": "CO",
+	"latitude": 39.9709,
+	"longitude": -105.1441
+},
+{
+	"City": "Golden",
+	"State": "CO",
+	"latitude": 39.7406,
+	"longitude": -105.2118
+},
+{
+	"City": "Clifton",
+	"State": "CO",
+	"latitude": 39.0763,
+	"longitude": -108.4606
+},
+{
+	"City": "Durango",
+	"State": "CO",
+	"latitude": 37.2659,
+	"longitude": -107.8782
+},
+{
+	"City": "Silverthorne",
+	"State": "CO",
+	"latitude": 39.656,
+	"longitude": -106.0867
+},
+{
+	"City": "Sherrelwood",
+	"State": "CO",
+	"latitude": 39.839,
+	"longitude": -105.0014
+},
+{
+	"City": "Cimarron Hills",
+	"State": "CO",
+	"latitude": 38.8597,
+	"longitude": -104.6995
+},
+{
+	"City": "Welby",
+	"State": "CO",
+	"latitude": 39.8403,
+	"longitude": -104.9655
+},
+{
+	"City": "Sterling",
+	"State": "CO",
+	"latitude": 40.6206,
+	"longitude": -103.1925
+},
+{
+	"City": "Greenwood Village",
+	"State": "CO",
+	"latitude": 39.6152,
+	"longitude": -104.913
+},
+{
+	"City": "Fort Carson",
+	"State": "CO",
+	"latitude": 38.7403,
+	"longitude": -104.784
+},
+{
+	"City": "Steamboat Springs",
+	"State": "CO",
+	"latitude": 40.4777,
+	"longitude": -106.8243
+},
+{
+	"City": "Black Forest",
+	"State": "CO",
+	"latitude": 39.0608,
+	"longitude": -104.6752
+},
+{
+	"City": "Frederick",
+	"State": "CO",
+	"latitude": 40.1089,
+	"longitude": -104.9694
+},
+{
+	"City": "Fruita",
+	"State": "CO",
+	"latitude": 39.1549,
+	"longitude": -108.7307
+},
+{
+	"City": "Fort Morgan",
+	"State": "CO",
+	"latitude": 40.2538,
+	"longitude": -103.7909
+},
+{
+	"City": "Superior",
+	"State": "CO",
+	"latitude": 39.9341,
+	"longitude": -105.1588
+},
+{
+	"City": "Lone Tree",
+	"State": "CO",
+	"latitude": 39.5309,
+	"longitude": -104.871
+},
+{
+	"City": "Federal Heights",
+	"State": "CO",
+	"latitude": 39.8651,
+	"longitude": -105.0154
+},
+{
+	"City": "Cherry Creek",
+	"State": "CO",
+	"latitude": 39.6094,
+	"longitude": -104.8645
+},
+{
+	"City": "Glenwood Springs",
+	"State": "CO",
+	"latitude": 39.5455,
+	"longitude": -107.3346
+},
+{
+	"City": "Berkley",
+	"State": "CO",
+	"latitude": 39.8045,
+	"longitude": -105.0281
+},
+{
+	"City": "Woodland Park",
+	"State": "CO",
+	"latitude": 38.9985,
+	"longitude": -105.0594
+},
+{
+	"City": "Rifle",
+	"State": "CO",
+	"latitude": 39.5362,
+	"longitude": -107.7729
+},
+{
+	"City": "The Pinery",
+	"State": "CO",
+	"latitude": 39.4462,
+	"longitude": -104.7591
+},
+{
+	"City": "Castle Pines",
+	"State": "CO",
+	"latitude": 39.4625,
+	"longitude": -104.8706
+},
+{
+	"City": "Alamosa",
+	"State": "CO",
+	"latitude": 37.4751,
+	"longitude": -105.8769
+},
+{
+	"City": "Wellington",
+	"State": "CO",
+	"latitude": 40.7,
+	"longitude": -105.0054
+},
+{
+	"City": "Fort Lupton",
+	"State": "CO",
+	"latitude": 40.0831,
+	"longitude": -104.8024
+},
+{
+	"City": "Gunbarrel",
+	"State": "CO",
+	"latitude": 40.0634,
+	"longitude": -105.1714
+},
+{
+	"City": "Stonegate",
+	"State": "CO",
+	"latitude": 39.5356,
+	"longitude": -104.8033
+},
+{
+	"City": "Craig",
+	"State": "CO",
+	"latitude": 40.517,
+	"longitude": -107.5555
+},
+{
+	"City": "Roxborough Park",
+	"State": "CO",
+	"latitude": 39.4492,
+	"longitude": -105.0746
+},
+{
+	"City": "Edwards",
+	"State": "CO",
+	"latitude": 39.6215,
+	"longitude": -106.6183
+},
+{
+	"City": "Woodmoor",
+	"State": "CO",
+	"latitude": 39.1063,
+	"longitude": -104.8456
+},
+{
+	"City": "Basalt",
+	"State": "CO",
+	"latitude": 39.3663,
+	"longitude": -107.0414
+},
+{
+	"City": "Berthoud",
+	"State": "CO",
+	"latitude": 40.307,
+	"longitude": -105.0419
+},
+{
+	"City": "Delta",
+	"State": "CO",
+	"latitude": 38.756,
+	"longitude": -108.0772
+},
+{
+	"City": "Derby",
+	"State": "CO",
+	"latitude": 39.8401,
+	"longitude": -104.9171
+},
+{
+	"City": "Evergreen",
+	"State": "CO",
+	"latitude": 39.6349,
+	"longitude": -105.3356
+},
+{
+	"City": "Redlands",
+	"State": "CO",
+	"latitude": 39.0886,
+	"longitude": -108.6583
+},
+{
+	"City": "Cortez",
+	"State": "CO",
+	"latitude": 37.3505,
+	"longitude": -108.5766
+},
+{
+	"City": "Fairmount",
+	"State": "CO",
+	"latitude": 39.7931,
+	"longitude": -105.1712
+},
+{
+	"City": "Aspen",
+	"State": "CO",
+	"latitude": 39.195,
+	"longitude": -106.8369
+},
+{
+	"City": "Trinidad",
+	"State": "CO",
+	"latitude": 37.175,
+	"longitude": -104.4908
+},
+{
+	"City": "Twin Lakes",
+	"State": "CO",
+	"latitude": 39.8229,
+	"longitude": -105.0036
+},
+{
+	"City": "Milliken",
+	"State": "CO",
+	"latitude": 40.3115,
+	"longitude": -104.8561
+},
+{
+	"City": "Monument",
+	"State": "CO",
+	"latitude": 39.0735,
+	"longitude": -104.8467
+},
+{
+	"City": "Applewood",
+	"State": "CO",
+	"latitude": 39.7524,
+	"longitude": -105.1605
+},
+{
+	"City": "La Junta",
+	"State": "CO",
+	"latitude": 37.9792,
+	"longitude": -103.5473
+},
+{
+	"City": "Fruitvale",
+	"State": "CO",
+	"latitude": 39.0933,
+	"longitude": -108.4789
+},
+{
+	"City": "Breckenridge",
+	"State": "CO",
+	"latitude": 39.4995,
+	"longitude": -106.0433
+},
+{
+	"City": "Estes Park",
+	"State": "CO",
+	"latitude": 40.3699,
+	"longitude": -105.5216
+},
+{
+	"City": "Salida",
+	"State": "CO",
+	"latitude": 38.53,
+	"longitude": -105.9981
+},
+{
+	"City": "Carbondale",
+	"State": "CO",
+	"latitude": 39.3949,
+	"longitude": -107.2147
+},
+{
+	"City": "Lamar",
+	"State": "CO",
+	"latitude": 38.0739,
+	"longitude": -102.6153
+},
+{
+	"City": "Florence",
+	"State": "CO",
+	"latitude": 38.3836,
+	"longitude": -105.1114
+},
+{
+	"City": "Gypsum",
+	"State": "CO",
+	"latitude": 39.6285,
+	"longitude": -106.9334
+},
+{
+	"City": "Lochbuie",
+	"State": "CO",
+	"latitude": 40.0119,
+	"longitude": -104.7271
+},
+{
+	"City": "Gunnison",
+	"State": "CO",
+	"latitude": 38.5455,
+	"longitude": -106.9225
+},
+{
+	"City": "Eagle",
+	"State": "CO",
+	"latitude": 39.6368,
+	"longitude": -106.8123
+},
+{
+	"City": "Gleneagle",
+	"State": "CO",
+	"latitude": 39.0453,
+	"longitude": -104.8288
+},
+{
+	"City": "Orchard Mesa",
+	"State": "CO",
+	"latitude": 39.0363,
+	"longitude": -108.5169
+},
+{
+	"City": "Cherry Hills Village",
+	"State": "CO",
+	"latitude": 39.6375,
+	"longitude": -104.9481
+},
+{
+	"City": "Air Force Academy",
+	"State": "CO",
+	"latitude": 38.9942,
+	"longitude": -104.8639
+},
+{
+	"City": "Avon",
+	"State": "CO",
+	"latitude": 39.6445,
+	"longitude": -106.5133
+},
+{
+	"City": "Severance",
+	"State": "CO",
+	"latitude": 40.527,
+	"longitude": -104.8642
+},
+{
+	"City": "Stratmoor",
+	"State": "CO",
+	"latitude": 38.7732,
+	"longitude": -104.7787
+},
+{
+	"City": "New Castle",
+	"State": "CO",
+	"latitude": 39.5776,
+	"longitude": -107.5267
+},
+{
+	"City": "Sheridan",
+	"State": "CO",
+	"latitude": 39.6466,
+	"longitude": -105.0181
+},
+{
+	"City": "Dacono",
+	"State": "CO",
+	"latitude": 40.062,
+	"longitude": -104.9484
+},
+{
+	"City": "Vail",
+	"State": "CO",
+	"latitude": 39.6386,
+	"longitude": -106.3607
+},
+{
+	"City": "Pagosa Springs",
+	"State": "CO",
+	"latitude": 37.2674,
+	"longitude": -107.0307
+},
+{
+	"City": "Eaton",
+	"State": "CO",
+	"latitude": 40.5256,
+	"longitude": -104.713
+},
+{
+	"City": "Brush",
+	"State": "CO",
+	"latitude": 40.2598,
+	"longitude": -103.6323
+},
+{
+	"City": "Dove Valley",
+	"State": "CO",
+	"latitude": 39.5741,
+	"longitude": -104.8289
+},
+{
+	"City": "Leadville",
+	"State": "CO",
+	"latitude": 39.2473,
+	"longitude": -106.2934
+},
+{
+	"City": "Shaw Heights",
+	"State": "CO",
+	"latitude": 39.8566,
+	"longitude": -105.039
+},
+{
+	"City": "Manitou Springs",
+	"State": "CO",
+	"latitude": 38.8576,
+	"longitude": -104.9128
+},
+{
+	"City": "Edgewater",
+	"State": "CO",
+	"latitude": 39.7507,
+	"longitude": -105.0626
+},
+{
+	"City": "West Pleasant View",
+	"State": "CO",
+	"latitude": 39.732,
+	"longitude": -105.1785
+},
+{
+	"City": "Glendale",
+	"State": "CO",
+	"latitude": 39.7036,
+	"longitude": -104.9352
+},
+{
+	"City": "Battlement Mesa",
+	"State": "CO",
+	"latitude": 39.4505,
+	"longitude": -108.0066
+},
+{
+	"City": "Timnath",
+	"State": "CO",
+	"latitude": 40.5343,
+	"longitude": -104.962
+},
+{
+	"City": "Buena Vista",
+	"State": "CO",
+	"latitude": 38.832,
+	"longitude": -106.1386
+},
+{
+	"City": "Mead",
+	"State": "CO",
+	"latitude": 40.2321,
+	"longitude": -104.9928
+},
+{
+	"City": "El Jebel",
+	"State": "CO",
+	"latitude": 39.4051,
+	"longitude": -107.092
+},
+{
+	"City": "Castle Pines Village",
+	"State": "CO",
+	"latitude": 39.4418,
+	"longitude": -104.897
+},
+{
+	"City": "Todd Creek",
+	"State": "CO",
+	"latitude": 39.9795,
+	"longitude": -104.8726
+},
+{
+	"City": "Monte Vista",
+	"State": "CO",
+	"latitude": 37.5789,
+	"longitude": -106.1499
+},
+{
+	"City": "Rocky Ford",
+	"State": "CO",
+	"latitude": 38.05,
+	"longitude": -103.7226
+},
+{
+	"City": "Genesee",
+	"State": "CO",
+	"latitude": 39.6873,
+	"longitude": -105.2719
+},
+{
+	"City": "Niwot",
+	"State": "CO",
+	"latitude": 40.098,
+	"longitude": -105.1552
+},
+{
+	"City": "Meridian",
+	"State": "CO",
+	"latitude": 39.5389,
+	"longitude": -104.8476
+},
+{
+	"City": "Ponderosa Park",
+	"State": "CO",
+	"latitude": 39.3986,
+	"longitude": -104.6355
+},
+{
+	"City": "Las Animas",
+	"State": "CO",
+	"latitude": 38.0695,
+	"longitude": -103.2237
+},
+{
+	"City": "Cedaredge",
+	"State": "CO",
+	"latitude": 38.8941,
+	"longitude": -107.9255
+},
+{
+	"City": "Yuma",
+	"State": "CO",
+	"latitude": 40.124,
+	"longitude": -102.7161
+},
+{
+	"City": "Lincoln Park",
+	"State": "CO",
+	"latitude": 38.4255,
+	"longitude": -105.2132
+},
+{
+	"City": "Silt",
+	"State": "CO",
+	"latitude": 39.5483,
+	"longitude": -107.6532
+},
+{
+	"City": "Orchard City",
+	"State": "CO",
+	"latitude": 38.8144,
+	"longitude": -107.9705
+},
+{
+	"City": "Frisco",
+	"State": "CO",
+	"latitude": 39.5792,
+	"longitude": -106.0916
+},
+{
+	"City": "Burlington",
+	"State": "CO",
+	"latitude": 39.3041,
+	"longitude": -102.2714
+},
+{
+	"City": "Acres Green",
+	"State": "CO",
+	"latitude": 39.5558,
+	"longitude": -104.8958
+},
+{
+	"City": "Penrose",
+	"State": "CO",
+	"latitude": 38.4213,
+	"longitude": -105.0004
+},
+{
+	"City": "Walsenburg",
+	"State": "CO",
+	"latitude": 37.6307,
+	"longitude": -104.7818
+},
+{
+	"City": "Strasburg",
+	"State": "CO",
+	"latitude": 39.7181,
+	"longitude": -104.3195
+},
+{
+	"City": "Palmer Lake",
+	"State": "CO",
+	"latitude": 39.1152,
+	"longitude": -104.9057
+},
+{
+	"City": "Bayfield",
+	"State": "CO",
+	"latitude": 37.234,
+	"longitude": -107.5952
+},
+{
+	"City": "Holly Hills",
+	"State": "CO",
+	"latitude": 39.6678,
+	"longitude": -104.9218
+},
+{
+	"City": "Fraser",
+	"State": "CO",
+	"latitude": 39.9303,
+	"longitude": -105.803
+},
+{
+	"City": "Bennett",
+	"State": "CO",
+	"latitude": 39.7367,
+	"longitude": -104.4287
+},
+{
+	"City": "Hudson",
+	"State": "CO",
+	"latitude": 40.0898,
+	"longitude": -104.6216
+},
+{
+	"City": "Platteville",
+	"State": "CO",
+	"latitude": 40.2221,
+	"longitude": -104.834
+},
+{
+	"City": "Palisade",
+	"State": "CO",
+	"latitude": 39.1083,
+	"longitude": -108.3573
+},
+{
+	"City": "Snowmass Village",
+	"State": "CO",
+	"latitude": 39.2207,
+	"longitude": -106.9386
+},
+{
+	"City": "Telluride",
+	"State": "CO",
+	"latitude": 37.9364,
+	"longitude": -107.8269
+},
+{
+	"City": "Laporte",
+	"State": "CO",
+	"latitude": 40.6385,
+	"longitude": -105.1444
+},
+{
+	"City": "Wray",
+	"State": "CO",
+	"latitude": 40.0802,
+	"longitude": -102.2284
+},
+{
+	"City": "Colorado City",
+	"State": "CO",
+	"latitude": 37.9365,
+	"longitude": -104.8459
+},
+{
+	"City": "La Salle",
+	"State": "CO",
+	"latitude": 40.3484,
+	"longitude": -104.7063
+},
+{
+	"City": "Coal Creek",
+	"State": "CO",
+	"latitude": 39.9071,
+	"longitude": -105.3799
+},
+{
+	"City": "Center",
+	"State": "CO",
+	"latitude": 37.7512,
+	"longitude": -106.1105
+},
+{
+	"City": "Rangely",
+	"State": "CO",
+	"latitude": 40.0861,
+	"longitude": -108.7794
+},
+{
+	"City": "Meeker",
+	"State": "CO",
+	"latitude": 40.05,
+	"longitude": -107.8949
+},
+{
+	"City": "Leadville North",
+	"State": "CO",
+	"latitude": 39.26,
+	"longitude": -106.3112
+},
+{
+	"City": "Holyoke",
+	"State": "CO",
+	"latitude": 40.582,
+	"longitude": -102.2975
+},
+{
+	"City": "Lyons",
+	"State": "CO",
+	"latitude": 40.2231,
+	"longitude": -105.2692
+},
+{
+	"City": "Granby",
+	"State": "CO",
+	"latitude": 40.0648,
+	"longitude": -105.9194
+},
+{
+	"City": "Hayden",
+	"State": "CO",
+	"latitude": 40.4851,
+	"longitude": -107.2391
+},
+{
+	"City": "Perry Park",
+	"State": "CO",
+	"latitude": 39.2597,
+	"longitude": -104.9825
+},
+{
+	"City": "Limon",
+	"State": "CO",
+	"latitude": 39.2653,
+	"longitude": -103.6855
+},
+{
+	"City": "Ault",
+	"State": "CO",
+	"latitude": 40.5893,
+	"longitude": -104.7392
+},
+{
+	"City": "Olathe",
+	"State": "CO",
+	"latitude": 38.6083,
+	"longitude": -107.9833
+},
+{
+	"City": "Idaho Springs",
+	"State": "CO",
+	"latitude": 39.7445,
+	"longitude": -105.5003
+},
+{
+	"City": "Crested Butte",
+	"State": "CO",
+	"latitude": 38.8675,
+	"longitude": -106.9772
+},
+{
+	"City": "Akron",
+	"State": "CO",
+	"latitude": 40.1635,
+	"longitude": -103.2202
+},
+{
+	"City": "Kersey",
+	"State": "CO",
+	"latitude": 40.3895,
+	"longitude": -104.5771
+},
+{
+	"City": "Del Norte",
+	"State": "CO",
+	"latitude": 37.6785,
+	"longitude": -106.354
+},
+{
+	"City": "Inverness",
+	"State": "CO",
+	"latitude": 39.5787,
+	"longitude": -104.8624
+},
+{
+	"City": "Elizabeth",
+	"State": "CO",
+	"latitude": 39.36,
+	"longitude": -104.6071
+},
+{
+	"City": "Nederland",
+	"State": "CO",
+	"latitude": 39.9633,
+	"longitude": -105.5071
+},
+{
+	"City": "Kremmling",
+	"State": "CO",
+	"latitude": 40.0566,
+	"longitude": -106.3782
+},
+{
+	"City": "Columbine Valley",
+	"State": "CO",
+	"latitude": 39.5994,
+	"longitude": -105.0351
+},
+{
+	"City": "Paonia",
+	"State": "CO",
+	"latitude": 38.8697,
+	"longitude": -107.5919
+},
+{
+	"City": "Mancos",
+	"State": "CO",
+	"latitude": 37.3466,
+	"longitude": -108.2939
+},
+{
+	"City": "Mountain Village",
+	"State": "CO",
+	"latitude": 37.9324,
+	"longitude": -107.8577
+},
+{
+	"City": "Aristocrat Ranchettes",
+	"State": "CO",
+	"latitude": 40.1096,
+	"longitude": -104.7549
+},
+{
+	"City": "Aetna Estates",
+	"State": "CO",
+	"latitude": 39.7382,
+	"longitude": -104.6734
+},
+{
+	"City": "Indian Hills",
+	"State": "CO",
+	"latitude": 39.6294,
+	"longitude": -105.2509
+},
+{
+	"City": "Springfield",
+	"State": "CO",
+	"latitude": 37.4049,
+	"longitude": -102.6189
+},
+{
+	"City": "Byers",
+	"State": "CO",
+	"latitude": 39.7101,
+	"longitude": -104.219
+},
+{
+	"City": "Alamosa East",
+	"State": "CO",
+	"latitude": 37.4767,
+	"longitude": -105.8397
+},
+{
+	"City": "Cripple Creek",
+	"State": "CO",
+	"latitude": 38.7466,
+	"longitude": -105.185
+},
+{
+	"City": "Keenesburg",
+	"State": "CO",
+	"latitude": 40.1112,
+	"longitude": -104.504
+},
+{
+	"City": "Cascade-Chipita Park",
+	"State": "CO",
+	"latitude": 38.9433,
+	"longitude": -105.0024
+},
+{
+	"City": "Wiggins",
+	"State": "CO",
+	"latitude": 40.2286,
+	"longitude": -104.0724
+},
+{
+	"City": "Towaoc",
+	"State": "CO",
+	"latitude": 37.2126,
+	"longitude": -108.7265
+},
+{
+	"City": "Julesburg",
+	"State": "CO",
+	"latitude": 40.9849,
+	"longitude": -102.2627
+},
+{
+	"City": "Minturn",
+	"State": "CO",
+	"latitude": 39.5461,
+	"longitude": -106.3873
+},
+{
+	"City": "Fowler",
+	"State": "CO",
+	"latitude": 38.1304,
+	"longitude": -104.0264
+},
+{
+	"City": "Pierce",
+	"State": "CO",
+	"latitude": 40.6335,
+	"longitude": -104.7551
+},
+{
+	"City": "Parachute",
+	"State": "CO",
+	"latitude": 39.4501,
+	"longitude": -108.0549
+},
+{
+	"City": "Georgetown",
+	"State": "CO",
+	"latitude": 39.7181,
+	"longitude": -105.694
+},
+{
+	"City": "Gilcrest",
+	"State": "CO",
+	"latitude": 40.2842,
+	"longitude": -104.782
+},
+{
+	"City": "Floyd Hill",
+	"State": "CO",
+	"latitude": 39.7241,
+	"longitude": -105.4306
+},
+{
+	"City": "Winter Park",
+	"State": "CO",
+	"latitude": 39.8785,
+	"longitude": -105.7828
+},
+{
+	"City": "Ordway",
+	"State": "CO",
+	"latitude": 38.2209,
+	"longitude": -103.7566
+},
+{
+	"City": "Ridgway",
+	"State": "CO",
+	"latitude": 38.1573,
+	"longitude": -107.7545
+},
+{
+	"City": "Ouray",
+	"State": "CO",
+	"latitude": 38.0276,
+	"longitude": -107.6734
+},
+{
+	"City": "Manassa",
+	"State": "CO",
+	"latitude": 37.1738,
+	"longitude": -105.9373
+},
+{
+	"City": "Aspen Park",
+	"State": "CO",
+	"latitude": 39.5423,
+	"longitude": -105.2968
+},
+{
+	"City": "Lazy Acres",
+	"State": "CO",
+	"latitude": 40.0837,
+	"longitude": -105.3313
+},
+{
+	"City": "Dillon",
+	"State": "CO",
+	"latitude": 39.6213,
+	"longitude": -106.0392
+},
+{
+	"City": "Kittredge",
+	"State": "CO",
+	"latitude": 39.6593,
+	"longitude": -105.3045
+},
+{
+	"City": "Oak Creek",
+	"State": "CO",
+	"latitude": 40.2741,
+	"longitude": -106.9575
+},
+{
+	"City": "Poncha Springs",
+	"State": "CO",
+	"latitude": 38.514,
+	"longitude": -106.0944
+},
+{
+	"City": "Dolores",
+	"State": "CO",
+	"latitude": 37.4741,
+	"longitude": -108.4999
+},
+{
+	"City": "Ellicott",
+	"State": "CO",
+	"latitude": 38.8256,
+	"longitude": -104.3829
+},
+{
+	"City": "Bow Mar",
+	"State": "CO",
+	"latitude": 39.6253,
+	"longitude": -105.0511
+},
+{
+	"City": "Loma",
+	"State": "CO",
+	"latitude": 39.2075,
+	"longitude": -108.805
+},
+{
+	"City": "Hotchkiss",
+	"State": "CO",
+	"latitude": 38.799,
+	"longitude": -107.7136
+},
+{
+	"City": "Upper Bear Creek",
+	"State": "CO",
+	"latitude": 39.6318,
+	"longitude": -105.4154
+},
+{
+	"City": "Pine Brook Hill",
+	"State": "CO",
+	"latitude": 40.0471,
+	"longitude": -105.3103
+},
+{
+	"City": "Blue River",
+	"State": "CO",
+	"latitude": 39.4362,
+	"longitude": -106.035
+},
+{
+	"City": "Keystone",
+	"State": "CO",
+	"latitude": 39.5901,
+	"longitude": -105.9383
+},
+{
+	"City": "Ignacio",
+	"State": "CO",
+	"latitude": 37.1181,
+	"longitude": -107.6375
+},
+{
+	"City": "Howard",
+	"State": "CO",
+	"latitude": 38.4098,
+	"longitude": -105.8424
+},
+{
+	"City": "Haxtun",
+	"State": "CO",
+	"latitude": 40.6419,
+	"longitude": -102.6298
+},
+{
+	"City": "Dotsero",
+	"State": "CO",
+	"latitude": 39.6463,
+	"longitude": -107.054
+},
+{
+	"City": "Sanford",
+	"State": "CO",
+	"latitude": 37.2573,
+	"longitude": -105.9007
+},
+{
+	"City": "Blende",
+	"State": "CO",
+	"latitude": 38.2469,
+	"longitude": -104.5692
+},
+{
+	"City": "Mount Crested Butte",
+	"State": "CO",
+	"latitude": 38.9081,
+	"longitude": -106.9606
+},
+{
+	"City": "Log Lane Village",
+	"State": "CO",
+	"latitude": 40.2696,
+	"longitude": -103.8287
+},
+{
+	"City": "Calhan",
+	"State": "CO",
+	"latitude": 39.0345,
+	"longitude": -104.2994
+},
+{
+	"City": "Cheyenne Wells",
+	"State": "CO",
+	"latitude": 38.8192,
+	"longitude": -102.3521
+},
+{
+	"City": "La Jara",
+	"State": "CO",
+	"latitude": 37.2735,
+	"longitude": -105.9598
+},
+{
+	"City": "La Veta",
+	"State": "CO",
+	"latitude": 37.5085,
+	"longitude": -105.0086
+},
+{
+	"City": "Paragon Estates",
+	"State": "CO",
+	"latitude": 39.9802,
+	"longitude": -105.1812
+},
+{
+	"City": "Deer Trail",
+	"State": "CO",
+	"latitude": 39.6157,
+	"longitude": -104.0435
+},
+{
+	"City": "Fairplay",
+	"State": "CO",
+	"latitude": 39.2245,
+	"longitude": -105.9965
+},
+{
+	"City": "Foxfield",
+	"State": "CO",
+	"latitude": 39.5881,
+	"longitude": -104.7857
+},
+{
+	"City": "Beulah Valley",
+	"State": "CO",
+	"latitude": 38.0664,
+	"longitude": -104.9785
+},
+{
+	"City": "Hugo",
+	"State": "CO",
+	"latitude": 39.1362,
+	"longitude": -103.4731
+},
+{
+	"City": "Holly",
+	"State": "CO",
+	"latitude": 38.0554,
+	"longitude": -102.1247
+},
+{
+	"City": "Central City",
+	"State": "CO",
+	"latitude": 39.7943,
+	"longitude": -105.5117
+},
+{
+	"City": "Kiowa",
+	"State": "CO",
+	"latitude": 39.3436,
+	"longitude": -104.458
+},
+{
+	"City": "Antonito",
+	"State": "CO",
+	"latitude": 37.0763,
+	"longitude": -106.0104
+},
+{
+	"City": "Grand View Estates",
+	"State": "CO",
+	"latitude": 39.5439,
+	"longitude": -104.8189
+},
+{
+	"City": "Hot Sulphur Springs",
+	"State": "CO",
+	"latitude": 40.0748,
+	"longitude": -106.1032
+},
+{
+	"City": "Green Mountain Falls",
+	"State": "CO",
+	"latitude": 38.9345,
+	"longitude": -105.0235
+},
+{
+	"City": "Nucla",
+	"State": "CO",
+	"latitude": 38.2668,
+	"longitude": -108.549
+},
+{
+	"City": "Williamsburg",
+	"State": "CO",
+	"latitude": 38.384,
+	"longitude": -105.171
+},
+{
+	"City": "Avondale",
+	"State": "CO",
+	"latitude": 38.2351,
+	"longitude": -104.3434
+},
+{
+	"City": "Collbran",
+	"State": "CO",
+	"latitude": 39.2399,
+	"longitude": -107.9636
+},
+{
+	"City": "Watkins",
+	"State": "CO",
+	"latitude": 39.6971,
+	"longitude": -104.5787
+},
+{
+	"City": "Silver Cliff",
+	"State": "CO",
+	"latitude": 38.1204,
+	"longitude": -105.4104
+},
+{
+	"City": "Silverton",
+	"State": "CO",
+	"latitude": 37.811,
+	"longitude": -107.6648
+},
+{
+	"City": "Loghill Village",
+	"State": "CO",
+	"latitude": 38.1962,
+	"longitude": -107.779
+},
+{
+	"City": "San Luis",
+	"State": "CO",
+	"latitude": 37.2024,
+	"longitude": -105.4225
+},
+{
+	"City": "Eldorado Springs",
+	"State": "CO",
+	"latitude": 39.9367,
+	"longitude": -105.2625
+},
+{
+	"City": "Simla",
+	"State": "CO",
+	"latitude": 39.1408,
+	"longitude": -104.0824
+},
+{
+	"City": "Stratton",
+	"State": "CO",
+	"latitude": 39.3029,
+	"longitude": -102.6035
+},
+{
+	"City": "Dove Creek",
+	"State": "CO",
+	"latitude": 37.7668,
+	"longitude": -108.9071
+},
+{
+	"City": "Westcliffe",
+	"State": "CO",
+	"latitude": 38.134,
+	"longitude": -105.4654
+},
+{
+	"City": "St. Mary's",
+	"State": "CO",
+	"latitude": 39.8162,
+	"longitude": -105.6479
+},
+{
+	"City": "North Washington",
+	"State": "CO",
+	"latitude": 39.8085,
+	"longitude": -104.9792
+},
+{
+	"City": "Cattle Creek",
+	"State": "CO",
+	"latitude": 39.4667,
+	"longitude": -107.2599
+},
+{
+	"City": "Eads",
+	"State": "CO",
+	"latitude": 38.4814,
+	"longitude": -102.7797
+},
+{
+	"City": "Walden",
+	"State": "CO",
+	"latitude": 40.7315,
+	"longitude": -106.2813
+},
+{
+	"City": "Swink",
+	"State": "CO",
+	"latitude": 38.014,
+	"longitude": -103.6284
+},
+{
+	"City": "St. Ann Highlands",
+	"State": "CO",
+	"latitude": 39.9873,
+	"longitude": -105.4557
+},
+{
+	"City": "Norwood",
+	"State": "CO",
+	"latitude": 38.129,
+	"longitude": -108.2917
+},
+{
+	"City": "Salt Creek",
+	"State": "CO",
+	"latitude": 38.2389,
+	"longitude": -104.5881
+},
+{
+	"City": "Copper Mountain",
+	"State": "CO",
+	"latitude": 39.4769,
+	"longitude": -106.2011
+},
+{
+	"City": "Flagler",
+	"State": "CO",
+	"latitude": 39.2955,
+	"longitude": -103.0767
+},
+{
+	"City": "Downieville-Lawson-Dumont",
+	"State": "CO",
+	"latitude": 39.7662,
+	"longitude": -105.6126
+},
+{
+	"City": "Mountain View",
+	"State": "CO",
+	"latitude": 39.7748,
+	"longitude": -105.0567
+},
+{
+	"City": "Naturita",
+	"State": "CO",
+	"latitude": 38.2183,
+	"longitude": -108.5666
+},
+{
+	"City": "Rockvale",
+	"State": "CO",
+	"latitude": 38.3644,
+	"longitude": -105.1646
+},
+{
+	"City": "De Beque",
+	"State": "CO",
+	"latitude": 39.3052,
+	"longitude": -108.208
+},
+{
+	"City": "Walsh",
+	"State": "CO",
+	"latitude": 37.3861,
+	"longitude": -102.2799
+},
+{
+	"City": "Altona",
+	"State": "CO",
+	"latitude": 40.1254,
+	"longitude": -105.2923
+},
+{
+	"City": "Mulford",
+	"State": "CO",
+	"latitude": 39.4064,
+	"longitude": -107.166
+},
+{
+	"City": "Grand Lake",
+	"State": "CO",
+	"latitude": 40.2503,
+	"longitude": -105.8231
+},
+{
+	"City": "Saguache",
+	"State": "CO",
+	"latitude": 38.0863,
+	"longitude": -106.1409
+},
+{
+	"City": "Granada",
+	"State": "CO",
+	"latitude": 38.063,
+	"longitude": -102.3115
+},
+{
+	"City": "Otis",
+	"State": "CO",
+	"latitude": 40.1501,
+	"longitude": -102.9621
+},
+{
+	"City": "Tabernash",
+	"State": "CO",
+	"latitude": 39.9789,
+	"longitude": -105.8444
+},
+{
+	"City": "Fort Garland",
+	"State": "CO",
+	"latitude": 37.4279,
+	"longitude": -105.435
+},
+{
+	"City": "Aguilar",
+	"State": "CO",
+	"latitude": 37.4036,
+	"longitude": -104.655
+},
+{
+	"City": "Nunn",
+	"State": "CO",
+	"latitude": 40.7132,
+	"longitude": -104.7884
+},
+{
+	"City": "Yampa",
+	"State": "CO",
+	"latitude": 40.153,
+	"longitude": -106.9086
+},
+{
+	"City": "Heeney",
+	"State": "CO",
+	"latitude": 39.8711,
+	"longitude": -106.3001
+},
+{
+	"City": "Allenspark",
+	"State": "CO",
+	"latitude": 40.2099,
+	"longitude": -105.5112
+},
+{
+	"City": "Crawford",
+	"State": "CO",
+	"latitude": 38.7049,
+	"longitude": -107.6093
+},
+{
+	"City": "Victor",
+	"State": "CO",
+	"latitude": 38.7087,
+	"longitude": -105.142
+},
+{
+	"City": "South Fork",
+	"State": "CO",
+	"latitude": 37.6691,
+	"longitude": -106.6418
+},
+{
+	"City": "Morrison",
+	"State": "CO",
+	"latitude": 39.643,
+	"longitude": -105.1936
+},
+{
+	"City": "Manzanola",
+	"State": "CO",
+	"latitude": 38.1087,
+	"longitude": -103.8669
+},
+{
+	"City": "Romeo",
+	"State": "CO",
+	"latitude": 37.1718,
+	"longitude": -105.9854
+},
+{
+	"City": "Blanca",
+	"State": "CO",
+	"latitude": 37.4393,
+	"longitude": -105.5135
+},
+{
+	"City": "Fleming",
+	"State": "CO",
+	"latitude": 40.6821,
+	"longitude": -102.8396
+},
+{
+	"City": "Lake City",
+	"State": "CO",
+	"latitude": 38.0302,
+	"longitude": -107.3106
+},
+{
+	"City": "Wiley",
+	"State": "CO",
+	"latitude": 38.1554,
+	"longitude": -102.7193
+},
+{
+	"City": "Johnson Village",
+	"State": "CO",
+	"latitude": 38.812,
+	"longitude": -106.1071
+},
+{
+	"City": "Red Feather Lakes",
+	"State": "CO",
+	"latitude": 40.8071,
+	"longitude": -105.5864
+},
+{
+	"City": "Midland",
+	"State": "CO",
+	"latitude": 38.8469,
+	"longitude": -105.1577
+},
+{
+	"City": "Louviers",
+	"State": "CO",
+	"latitude": 39.4799,
+	"longitude": -105.0033
+},
+{
+	"City": "Chacra",
+	"State": "CO",
+	"latitude": 39.577,
+	"longitude": -107.4509
+},
+{
+	"City": "Boone",
+	"State": "CO",
+	"latitude": 38.2494,
+	"longitude": -104.258
+},
+{
+	"City": "Sugarloaf",
+	"State": "CO",
+	"latitude": 40.0189,
+	"longitude": -105.4078
+},
+{
+	"City": "Coaldale",
+	"State": "CO",
+	"latitude": 38.3563,
+	"longitude": -105.8155
+},
+{
+	"City": "Olney Springs",
+	"State": "CO",
+	"latitude": 38.1663,
+	"longitude": -103.9445
+},
+{
+	"City": "North La Junta",
+	"State": "CO",
+	"latitude": 37.9985,
+	"longitude": -103.5228
+},
+{
+	"City": "Dinosaur",
+	"State": "CO",
+	"latitude": 40.2402,
+	"longitude": -109.0078
+},
+{
+	"City": "Arboles",
+	"State": "CO",
+	"latitude": 37.0201,
+	"longitude": -107.4222
+},
+{
+	"City": "Catherine",
+	"State": "CO",
+	"latitude": 39.4017,
+	"longitude": -107.133
+},
+{
+	"City": "Vineland",
+	"State": "CO",
+	"latitude": 38.2447,
+	"longitude": -104.4599
+},
+{
+	"City": "City of Creede",
+	"State": "CO",
+	"latitude": 37.8486,
+	"longitude": -106.9252
+},
+{
+	"City": "Alma",
+	"State": "CO",
+	"latitude": 39.2861,
+	"longitude": -106.0676
+},
+{
+	"City": "Empire",
+	"State": "CO",
+	"latitude": 39.7595,
+	"longitude": -105.6821
+},
+{
+	"City": "Ovid",
+	"State": "CO",
+	"latitude": 40.9607,
+	"longitude": -102.3883
+},
+{
+	"City": "Jansen",
+	"State": "CO",
+	"latitude": 37.1581,
+	"longitude": -104.5501
+},
+{
+	"City": "Red Cliff",
+	"State": "CO",
+	"latitude": 39.5092,
+	"longitude": -106.3703
+},
+{
+	"City": "Merino",
+	"State": "CO",
+	"latitude": 40.4836,
+	"longitude": -103.3535
+},
+{
+	"City": "Redvale",
+	"State": "CO",
+	"latitude": 38.1761,
+	"longitude": -108.4126
+},
+{
+	"City": "Rollinsville",
+	"State": "CO",
+	"latitude": 39.9232,
+	"longitude": -105.5136
+},
+{
+	"City": "Iliff",
+	"State": "CO",
+	"latitude": 40.7592,
+	"longitude": -103.0661
+},
+{
+	"City": "Garden City",
+	"State": "CO",
+	"latitude": 40.3948,
+	"longitude": -104.6893
+},
+{
+	"City": "Brookside",
+	"State": "CO",
+	"latitude": 38.4135,
+	"longitude": -105.1909
+},
+{
+	"City": "El Moro",
+	"State": "CO",
+	"latitude": 37.2349,
+	"longitude": -104.4491
+},
+{
+	"City": "Hillrose",
+	"State": "CO",
+	"latitude": 40.3245,
+	"longitude": -103.5222
+},
+{
+	"City": "Alpine",
+	"State": "CO",
+	"latitude": 37.6877,
+	"longitude": -106.586
+},
+{
+	"City": "Eckley",
+	"State": "CO",
+	"latitude": 40.1123,
+	"longitude": -102.4883
+},
+{
+	"City": "Sugar City",
+	"State": "CO",
+	"latitude": 38.2328,
+	"longitude": -103.6633
+},
+{
+	"City": "Jamestown",
+	"State": "CO",
+	"latitude": 40.1179,
+	"longitude": -105.3916
+},
+{
+	"City": "Cheraw",
+	"State": "CO",
+	"latitude": 38.1076,
+	"longitude": -103.511
+},
+{
+	"City": "Peoria",
+	"State": "CO",
+	"latitude": 39.6649,
+	"longitude": -104.1456
+},
+{
+	"City": "Bethune",
+	"State": "CO",
+	"latitude": 39.3038,
+	"longitude": -102.4234
+},
+{
+	"City": "Peetz",
+	"State": "CO",
+	"latitude": 40.9617,
+	"longitude": -103.1139
+},
+{
+	"City": "Kit Carson",
+	"State": "CO",
+	"latitude": 38.7628,
+	"longitude": -102.7954
+},
+{
+	"City": "Rico",
+	"State": "CO",
+	"latitude": 37.6891,
+	"longitude": -108.0318
+},
+{
+	"City": "Phippsburg",
+	"State": "CO",
+	"latitude": 40.2301,
+	"longitude": -106.9509
+},
+{
+	"City": "Bonanza Mountain Estates",
+	"State": "CO",
+	"latitude": 39.9768,
+	"longitude": -105.4797
+},
+{
+	"City": "East Pleasant View",
+	"State": "CO",
+	"latitude": 39.7279,
+	"longitude": -105.1572
+},
+{
+	"City": "Mountain Meadows",
+	"State": "CO",
+	"latitude": 40.027,
+	"longitude": -105.3832
+},
+{
+	"City": "Southern Ute",
+	"State": "CO",
+	"latitude": 37.0749,
+	"longitude": -107.5933
+},
+{
+	"City": "Seibert",
+	"State": "CO",
+	"latitude": 39.298,
+	"longitude": -102.8695
+},
+{
+	"City": "Larkspur",
+	"State": "CO",
+	"latitude": 39.2318,
+	"longitude": -104.892
+},
+{
+	"City": "Arriba",
+	"State": "CO",
+	"latitude": 39.2843,
+	"longitude": -103.274
+},
+{
+	"City": "Gold Hill",
+	"State": "CO",
+	"latitude": 40.0597,
+	"longitude": -105.4189
+},
+{
+	"City": "Capulin",
+	"State": "CO",
+	"latitude": 37.2819,
+	"longitude": -106.1051
+},
+{
+	"City": "Elbert",
+	"State": "CO",
+	"latitude": 39.2189,
+	"longitude": -104.5403
+},
+{
+	"City": "Trail Side",
+	"State": "CO",
+	"latitude": 40.2493,
+	"longitude": -103.8432
+},
+{
+	"City": "Westcreek",
+	"State": "CO",
+	"latitude": 39.1498,
+	"longitude": -105.1626
+},
+{
+	"City": "Atwood",
+	"State": "CO",
+	"latitude": 40.5503,
+	"longitude": -103.2746
+},
+{
+	"City": "Woody Creek",
+	"State": "CO",
+	"latitude": 39.2708,
+	"longitude": -106.8883
+},
+{
+	"City": "Franktown",
+	"State": "CO",
+	"latitude": 39.3906,
+	"longitude": -104.7486
+},
+{
+	"City": "Ophir",
+	"State": "CO",
+	"latitude": 37.8568,
+	"longitude": -107.8312
+},
+{
+	"City": "Weldona",
+	"State": "CO",
+	"latitude": 40.3484,
+	"longitude": -103.9693
+},
+{
+	"City": "Comanche Creek",
+	"State": "CO",
+	"latitude": 39.615,
+	"longitude": -104.3268
+},
+{
+	"City": "Gerrard",
+	"State": "CO",
+	"latitude": 37.6783,
+	"longitude": -106.5752
+},
+{
+	"City": "Amherst",
+	"State": "CO",
+	"latitude": 40.6831,
+	"longitude": -102.1727
+},
+{
+	"City": "Silver Plume",
+	"State": "CO",
+	"latitude": 39.6958,
+	"longitude": -105.7266
+},
+{
+	"City": "Crowley",
+	"State": "CO",
+	"latitude": 38.1935,
+	"longitude": -103.8598
+},
+{
+	"City": "Jackson Lake",
+	"State": "CO",
+	"latitude": 40.3756,
+	"longitude": -104.0711
+},
+{
+	"City": "Morgan Heights",
+	"State": "CO",
+	"latitude": 40.2875,
+	"longitude": -103.8275
+},
+{
+	"City": "Sunshine",
+	"State": "CO",
+	"latitude": 40.0636,
+	"longitude": -105.3696
+},
+{
+	"City": "Idledale",
+	"State": "CO",
+	"latitude": 39.6688,
+	"longitude": -105.2432
+},
+{
+	"City": "Florissant",
+	"State": "CO",
+	"latitude": 38.9445,
+	"longitude": -105.2901
+},
+{
+	"City": "Rye",
+	"State": "CO",
+	"latitude": 37.9215,
+	"longitude": -104.9322
+},
+{
+	"City": "Ward",
+	"State": "CO",
+	"latitude": 40.0726,
+	"longitude": -105.5136
+},
+{
+	"City": "Tall Timber",
+	"State": "CO",
+	"latitude": 40.0151,
+	"longitude": -105.3498
+},
+{
+	"City": "Blue Sky",
+	"State": "CO",
+	"latitude": 40.3002,
+	"longitude": -103.8057
+},
+{
+	"City": "Grover",
+	"State": "CO",
+	"latitude": 40.8691,
+	"longitude": -104.226
+},
+{
+	"City": "Lewis",
+	"State": "CO",
+	"latitude": 37.5017,
+	"longitude": -108.66
+},
+{
+	"City": "Genoa",
+	"State": "CO",
+	"latitude": 39.2782,
+	"longitude": -103.4984
+},
+{
+	"City": "Snyder",
+	"State": "CO",
+	"latitude": 40.3309,
+	"longitude": -103.592
+},
+{
+	"City": "Crestone",
+	"State": "CO",
+	"latitude": 37.9946,
+	"longitude": -105.6962
+},
+{
+	"City": "Brick Center",
+	"State": "CO",
+	"latitude": 39.6001,
+	"longitude": -104.4579
+},
+{
+	"City": "Sedgwick",
+	"State": "CO",
+	"latitude": 40.9353,
+	"longitude": -102.5254
+},
+{
+	"City": "Smeltertown",
+	"State": "CO",
+	"latitude": 38.5523,
+	"longitude": -106.0085
+},
+{
+	"City": "Marble",
+	"State": "CO",
+	"latitude": 39.0716,
+	"longitude": -107.191
+},
+{
+	"City": "Sedalia",
+	"State": "CO",
+	"latitude": 39.4396,
+	"longitude": -104.9699
+},
+{
+	"City": "Pritchett",
+	"State": "CO",
+	"latitude": 37.37,
+	"longitude": -102.8587
+},
+{
+	"City": "Ramah",
+	"State": "CO",
+	"latitude": 39.1222,
+	"longitude": -104.1673
+},
+{
+	"City": "Hoehne",
+	"State": "CO",
+	"latitude": 37.2815,
+	"longitude": -104.389
+},
+{
+	"City": "Hasty",
+	"State": "CO",
+	"latitude": 38.1063,
+	"longitude": -102.956
+},
+{
+	"City": "Black Hawk",
+	"State": "CO",
+	"latitude": 39.8043,
+	"longitude": -105.495
+},
+{
+	"City": "Rock Creek Park",
+	"State": "CO",
+	"latitude": 38.7011,
+	"longitude": -104.8347
+},
+{
+	"City": "Maysville",
+	"State": "CO",
+	"latitude": 38.5305,
+	"longitude": -106.2157
+},
+{
+	"City": "Seven Hills",
+	"State": "CO",
+	"latitude": 40.0361,
+	"longitude": -105.3323
+},
+{
+	"City": "Cokedale",
+	"State": "CO",
+	"latitude": 37.1443,
+	"longitude": -104.6215
+},
+{
+	"City": "Moffat",
+	"State": "CO",
+	"latitude": 38.002,
+	"longitude": -105.9048
+},
+{
+	"City": "La Junta Gardens",
+	"State": "CO",
+	"latitude": 38.0014,
+	"longitude": -103.5549
+},
+{
+	"City": "Orchard",
+	"State": "CO",
+	"latitude": 40.3318,
+	"longitude": -104.1183
+},
+{
+	"City": "San Acacio",
+	"State": "CO",
+	"latitude": 37.2086,
+	"longitude": -105.5666
+},
+{
+	"City": "Segundo",
+	"State": "CO",
+	"latitude": 37.1225,
+	"longitude": -104.7396
+},
+{
+	"City": "Raymer",
+	"State": "CO",
+	"latitude": 40.608,
+	"longitude": -103.8434
+},
+{
+	"City": "Crisman",
+	"State": "CO",
+	"latitude": 40.0416,
+	"longitude": -105.3675
+},
+{
+	"City": "Crook",
+	"State": "CO",
+	"latitude": 40.8588,
+	"longitude": -102.8015
+},
+{
+	"City": "Vilas",
+	"State": "CO",
+	"latitude": 37.3737,
+	"longitude": -102.4474
+},
+{
+	"City": "Vona",
+	"State": "CO",
+	"latitude": 39.3023,
+	"longitude": -102.7435
+},
+{
+	"City": "Campo",
+	"State": "CO",
+	"latitude": 37.1047,
+	"longitude": -102.5786
+},
+{
+	"City": "Hooper",
+	"State": "CO",
+	"latitude": 37.746,
+	"longitude": -105.8777
+},
+{
+	"City": "Valmont",
+	"State": "CO",
+	"latitude": 40.0341,
+	"longitude": -105.2058
+},
+{
+	"City": "Portland",
+	"State": "CO",
+	"latitude": 38.0892,
+	"longitude": -107.6952
+},
+{
+	"City": "Sheridan Lake",
+	"State": "CO",
+	"latitude": 38.4667,
+	"longitude": -102.2944
+},
+{
+	"City": "Joes",
+	"State": "CO",
+	"latitude": 39.6559,
+	"longitude": -102.6785
+},
+{
+	"City": "Parshall",
+	"State": "CO",
+	"latitude": 40.0555,
+	"longitude": -106.1758
+},
+{
+	"City": "Kirk",
+	"State": "CO",
+	"latitude": 39.6127,
+	"longitude": -102.592
+},
+{
+	"City": "Saddle Ridge",
+	"State": "CO",
+	"latitude": 40.3134,
+	"longitude": -103.8023
+},
+{
+	"City": "Bark Ranch",
+	"State": "CO",
+	"latitude": 40.1156,
+	"longitude": -105.4416
+},
+{
+	"City": "Hartman",
+	"State": "CO",
+	"latitude": 38.121,
+	"longitude": -102.2215
+},
+{
+	"City": "Montezuma",
+	"State": "CO",
+	"latitude": 39.5815,
+	"longitude": -105.8676
+},
+{
+	"City": "Branson",
+	"State": "CO",
+	"latitude": 37.0156,
+	"longitude": -103.8839
+},
+{
+	"City": "Kim",
+	"State": "CO",
+	"latitude": 37.2472,
+	"longitude": -103.3532
+},
+{
+	"City": "Pitkin",
+	"State": "CO",
+	"latitude": 38.6088,
+	"longitude": -106.5149
+},
+{
+	"City": "Padroni",
+	"State": "CO",
+	"latitude": 40.7818,
+	"longitude": -103.1733
+},
+{
+	"City": "Haswell",
+	"State": "CO",
+	"latitude": 38.4525,
+	"longitude": -103.165
+},
+{
+	"City": "Divide",
+	"State": "CO",
+	"latitude": 38.945,
+	"longitude": -105.1619
+},
+{
+	"City": "Redstone",
+	"State": "CO",
+	"latitude": 39.1838,
+	"longitude": -107.2408
+},
+{
+	"City": "Lynn",
+	"State": "CO",
+	"latitude": 37.4219,
+	"longitude": -104.643
+},
+{
+	"City": "Colona",
+	"State": "CO",
+	"latitude": 38.3274,
+	"longitude": -107.7795
+},
+{
+	"City": "Starkville",
+	"State": "CO",
+	"latitude": 37.1171,
+	"longitude": -104.5233
+},
+{
+	"City": "Laird",
+	"State": "CO",
+	"latitude": 40.0819,
+	"longitude": -102.102
+},
+{
+	"City": "McCoy",
+	"State": "CO",
+	"latitude": 39.9143,
+	"longitude": -106.7258
+},
+{
+	"City": "Stonewall Gap",
+	"State": "CO",
+	"latitude": 37.1604,
+	"longitude": -105.034
+},
+{
+	"City": "Maybell",
+	"State": "CO",
+	"latitude": 40.5191,
+	"longitude": -108.0889
+},
+{
+	"City": "Two Buttes",
+	"State": "CO",
+	"latitude": 37.5607,
+	"longitude": -102.3964
+},
+{
+	"City": "Sawpit",
+	"State": "CO",
+	"latitude": 37.9947,
+	"longitude": -108.0022
+},
+{
+	"City": "Idalia",
+	"State": "CO",
+	"latitude": 39.7029,
+	"longitude": -102.2938
+},
+{
+	"City": "Goldfield",
+	"State": "CO",
+	"latitude": 38.7177,
+	"longitude": -105.1254
+},
+{
+	"City": "Paoli",
+	"State": "CO",
+	"latitude": 40.6128,
+	"longitude": -102.4717
+},
+{
+	"City": "Weston",
+	"State": "CO",
+	"latitude": 37.146,
+	"longitude": -104.8683
+},
+{
+	"City": "No Name",
+	"State": "CO",
+	"latitude": 39.5597,
+	"longitude": -107.293
+},
+{
+	"City": "Conejos",
+	"State": "CO",
+	"latitude": 37.0872,
+	"longitude": -106.0161
+},
+{
+	"City": "Piedra",
+	"State": "CO",
+	"latitude": 37.4418,
+	"longitude": -107.1685
+},
+{
+	"City": "Bonanza",
+	"State": "CO",
+	"latitude": 38.2966,
+	"longitude": -106.1419
+},
+{
+	"City": "Towner",
+	"State": "CO",
+	"latitude": 38.4705,
+	"longitude": -102.0804
+},
+{
+	"City": "Valdez",
+	"State": "CO",
+	"latitude": 37.1239,
+	"longitude": -104.6794
+},
+{
+	"City": "Peyton",
+	"State": "CO",
+	"latitude": 39.033,
+	"longitude": -104.4904
+},
+{
+	"City": "Eldora",
+	"State": "CO",
+	"latitude": 39.9536,
+	"longitude": -105.578
+},
+{
+	"City": "Cathedral",
+	"State": "CO",
+	"latitude": 38.0836,
+	"longitude": -107.0306
+},
+{
+	"City": "Guffey",
+	"State": "CO",
+	"latitude": 38.7591,
+	"longitude": -105.5024
+},
+{
+	"City": "Cotopaxi",
+	"State": "CO",
+	"latitude": 38.3739,
+	"longitude": -105.6911
+},
+{
+	"City": "Lakeside",
+	"State": "CO",
+	"latitude": 39.7802,
+	"longitude": -105.0579
+},
+{
+	"City": "Brandon",
+	"State": "CO",
+	"latitude": 38.4464,
+	"longitude": -102.4412
+}]

@@ -1,0 +1,1957 @@
+[
+{
+	"City": "Anchorage",
+	"State": "AK",
+	"latitude": 61.1508,
+	"longitude": -149.1091
+},
+{
+	"City": "Fairbanks",
+	"State": "AK",
+	"latitude": 64.8353,
+	"longitude": -147.6534
+},
+{
+	"City": "Juneau",
+	"State": "AK",
+	"latitude": 58.4546,
+	"longitude": -134.1739
+},
+{
+	"City": "Badger",
+	"State": "AK",
+	"latitude": 64.8006,
+	"longitude": -147.3877
+},
+{
+	"City": "Knik-Fairview",
+	"State": "AK",
+	"latitude": 61.4964,
+	"longitude": -149.6535
+},
+{
+	"City": "College",
+	"State": "AK",
+	"latitude": 64.8694,
+	"longitude": -147.8217
+},
+{
+	"City": "Wasilla",
+	"State": "AK",
+	"latitude": 61.577,
+	"longitude": -149.466
+},
+{
+	"City": "Ketchikan",
+	"State": "AK",
+	"latitude": 55.3556,
+	"longitude": -131.6698
+},
+{
+	"City": "Tanaina",
+	"State": "AK",
+	"latitude": 61.656,
+	"longitude": -149.4272
+},
+{
+	"City": "Kodiak",
+	"State": "AK",
+	"latitude": 57.7934,
+	"longitude": -152.406
+},
+{
+	"City": "Kalifornsky",
+	"State": "AK",
+	"latitude": 60.4417,
+	"longitude": -151.1972
+},
+{
+	"City": "Sitka",
+	"State": "AK",
+	"latitude": 57.2401,
+	"longitude": -135.3153
+},
+{
+	"City": "Meadow Lakes",
+	"State": "AK",
+	"latitude": 61.638,
+	"longitude": -149.608
+},
+{
+	"City": "Kenai",
+	"State": "AK",
+	"latitude": 60.5619,
+	"longitude": -151.1985
+},
+{
+	"City": "Steele Creek",
+	"State": "AK",
+	"latitude": 64.9295,
+	"longitude": -147.3955
+},
+{
+	"City": "Palmer",
+	"State": "AK",
+	"latitude": 61.5971,
+	"longitude": -149.1147
+},
+{
+	"City": "Soldotna",
+	"State": "AK",
+	"latitude": 60.4862,
+	"longitude": -151.0672
+},
+{
+	"City": "Gateway",
+	"State": "AK",
+	"latitude": 61.5737,
+	"longitude": -149.2389
+},
+{
+	"City": "Fishhook",
+	"State": "AK",
+	"latitude": 61.711,
+	"longitude": -149.2657
+},
+{
+	"City": "Bethel",
+	"State": "AK",
+	"latitude": 60.7928,
+	"longitude": -161.7917
+},
+{
+	"City": "Chena Ridge",
+	"State": "AK",
+	"latitude": 64.7941,
+	"longitude": -148.0357
+},
+{
+	"City": "Homer",
+	"State": "AK",
+	"latitude": 59.653,
+	"longitude": -151.5255
+},
+{
+	"City": "Farmers Loop",
+	"State": "AK",
+	"latitude": 64.9061,
+	"longitude": -147.6957
+},
+{
+	"City": "Sterling",
+	"State": "AK",
+	"latitude": 60.5405,
+	"longitude": -150.8089
+},
+{
+	"City": "Utqiagvik",
+	"State": "AK",
+	"latitude": 71.2728,
+	"longitude": -156.7575
+},
+{
+	"City": "Unalaska",
+	"State": "AK",
+	"latitude": 53.8984,
+	"longitude": -166.568
+},
+{
+	"City": "Nikiski",
+	"State": "AK",
+	"latitude": 60.7152,
+	"longitude": -151.2317
+},
+{
+	"City": "Butte",
+	"State": "AK",
+	"latitude": 61.5539,
+	"longitude": -149.0035
+},
+{
+	"City": "Nome",
+	"State": "AK",
+	"latitude": 64.5213,
+	"longitude": -165.4053
+},
+{
+	"City": "Valdez",
+	"State": "AK",
+	"latitude": 61.0963,
+	"longitude": -146.2596
+},
+{
+	"City": "Goldstream",
+	"State": "AK",
+	"latitude": 64.9339,
+	"longitude": -148.0083
+},
+{
+	"City": "Kotzebue",
+	"State": "AK",
+	"latitude": 66.8766,
+	"longitude": -162.5231
+},
+{
+	"City": "Eielson AFB",
+	"State": "AK",
+	"latitude": 64.6741,
+	"longitude": -147.0605
+},
+{
+	"City": "Petersburg",
+	"State": "AK",
+	"latitude": 56.7566,
+	"longitude": -132.8727
+},
+{
+	"City": "Seward",
+	"State": "AK",
+	"latitude": 60.1124,
+	"longitude": -149.3925
+},
+{
+	"City": "Ridgeway",
+	"State": "AK",
+	"latitude": 60.5305,
+	"longitude": -151.0301
+},
+{
+	"City": "Big Lake",
+	"State": "AK",
+	"latitude": 61.526,
+	"longitude": -149.972
+},
+{
+	"City": "Wrangell",
+	"State": "AK",
+	"latitude": 56.3317,
+	"longitude": -132.0223
+},
+{
+	"City": "Deltana",
+	"State": "AK",
+	"latitude": 63.8724,
+	"longitude": -145.2158
+},
+{
+	"City": "Houston",
+	"State": "AK",
+	"latitude": 61.6159,
+	"longitude": -149.8003
+},
+{
+	"City": "Dillingham",
+	"State": "AK",
+	"latitude": 59.055,
+	"longitude": -158.5379
+},
+{
+	"City": "Cordova",
+	"State": "AK",
+	"latitude": 60.5348,
+	"longitude": -145.6092
+},
+{
+	"City": "Anchor Point",
+	"State": "AK",
+	"latitude": 59.7703,
+	"longitude": -151.7052
+},
+{
+	"City": "North Pole",
+	"State": "AK",
+	"latitude": 64.753,
+	"longitude": -147.36
+},
+{
+	"City": "Fritz Creek",
+	"State": "AK",
+	"latitude": 59.747,
+	"longitude": -151.2884
+},
+{
+	"City": "Willow",
+	"State": "AK",
+	"latitude": 61.8157,
+	"longitude": -149.753
+},
+{
+	"City": "Haines",
+	"State": "AK",
+	"latitude": 59.2417,
+	"longitude": -135.4549
+},
+{
+	"City": "Prudhoe Bay",
+	"State": "AK",
+	"latitude": 70.3128,
+	"longitude": -148.6955
+},
+{
+	"City": "Metlakatla",
+	"State": "AK",
+	"latitude": 55.1182,
+	"longitude": -131.5689
+},
+{
+	"City": "Lazy Mountain",
+	"State": "AK",
+	"latitude": 61.6516,
+	"longitude": -148.902
+},
+{
+	"City": "Ester",
+	"State": "AK",
+	"latitude": 64.8646,
+	"longitude": -148.0916
+},
+{
+	"City": "Kodiak Station",
+	"State": "AK",
+	"latitude": 57.7451,
+	"longitude": -152.5443
+},
+{
+	"City": "Sutton-Alpine",
+	"State": "AK",
+	"latitude": 61.7429,
+	"longitude": -148.8542
+},
+{
+	"City": "Funny River",
+	"State": "AK",
+	"latitude": 60.4873,
+	"longitude": -150.7808
+},
+{
+	"City": "Tok",
+	"State": "AK",
+	"latitude": 63.329,
+	"longitude": -143.0379
+},
+{
+	"City": "Point MacKenzie",
+	"State": "AK",
+	"latitude": 61.3463,
+	"longitude": -150.0787
+},
+{
+	"City": "Craig",
+	"State": "AK",
+	"latitude": 55.4913,
+	"longitude": -133.1165
+},
+{
+	"City": "Diamond Ridge",
+	"State": "AK",
+	"latitude": 59.7024,
+	"longitude": -151.5545
+},
+{
+	"City": "Talkeetna",
+	"State": "AK",
+	"latitude": 62.2753,
+	"longitude": -150.0814
+},
+{
+	"City": "Hooper Bay",
+	"State": "AK",
+	"latitude": 61.5262,
+	"longitude": -166.1146
+},
+{
+	"City": "Cohoe",
+	"State": "AK",
+	"latitude": 60.2681,
+	"longitude": -151.2843
+},
+{
+	"City": "Bear Creek",
+	"State": "AK",
+	"latitude": 60.2071,
+	"longitude": -149.3524
+},
+{
+	"City": "Farm Loop",
+	"State": "AK",
+	"latitude": 61.6394,
+	"longitude": -149.1471
+},
+{
+	"City": "Chevak",
+	"State": "AK",
+	"latitude": 61.5295,
+	"longitude": -165.5943
+},
+{
+	"City": "Susitna North",
+	"State": "AK",
+	"latitude": 62.1281,
+	"longitude": -149.8593
+},
+{
+	"City": "Sand Point",
+	"State": "AK",
+	"latitude": 55.3227,
+	"longitude": -160.4834
+},
+{
+	"City": "Skagway",
+	"State": "AK",
+	"latitude": 59.4566,
+	"longitude": -135.2927
+},
+{
+	"City": "Akutan",
+	"State": "AK",
+	"latitude": 54.1594,
+	"longitude": -165.7328
+},
+{
+	"City": "Salcha",
+	"State": "AK",
+	"latitude": 64.5272,
+	"longitude": -146.904
+},
+{
+	"City": "King Cove",
+	"State": "AK",
+	"latitude": 55.0858,
+	"longitude": -162.2978
+},
+{
+	"City": "Salamatof",
+	"State": "AK",
+	"latitude": 60.6154,
+	"longitude": -151.3159
+},
+{
+	"City": "Buffalo Soapstone",
+	"State": "AK",
+	"latitude": 61.7073,
+	"longitude": -149.1095
+},
+{
+	"City": "Healy",
+	"State": "AK",
+	"latitude": 63.9454,
+	"longitude": -149.0152
+},
+{
+	"City": "Delta Junction",
+	"State": "AK",
+	"latitude": 64.0604,
+	"longitude": -145.7058
+},
+{
+	"City": "Womens Bay",
+	"State": "AK",
+	"latitude": 57.696,
+	"longitude": -152.6276
+},
+{
+	"City": "Mountain Village",
+	"State": "AK",
+	"latitude": 62.0911,
+	"longitude": -163.7209
+},
+{
+	"City": "Denali Park",
+	"State": "AK",
+	"latitude": 63.5909,
+	"longitude": -148.7107
+},
+{
+	"City": "Knik River",
+	"State": "AK",
+	"latitude": 61.4606,
+	"longitude": -148.9155
+},
+{
+	"City": "Togiak",
+	"State": "AK",
+	"latitude": 59.0693,
+	"longitude": -160.4727
+},
+{
+	"City": "Selawik",
+	"State": "AK",
+	"latitude": 66.5988,
+	"longitude": -159.9995
+},
+{
+	"City": "Ninilchik",
+	"State": "AK",
+	"latitude": 60.0745,
+	"longitude": -151.3843
+},
+{
+	"City": "Emmonak",
+	"State": "AK",
+	"latitude": 62.7762,
+	"longitude": -164.5157
+},
+{
+	"City": "Moose Creek",
+	"State": "AK",
+	"latitude": 64.714,
+	"longitude": -147.1639
+},
+{
+	"City": "Hoonah",
+	"State": "AK",
+	"latitude": 58.1118,
+	"longitude": -135.4246
+},
+{
+	"City": "Klawock",
+	"State": "AK",
+	"latitude": 55.5556,
+	"longitude": -133.0868
+},
+{
+	"City": "Alakanuk",
+	"State": "AK",
+	"latitude": 62.6902,
+	"longitude": -164.6305
+},
+{
+	"City": "Kwethluk",
+	"State": "AK",
+	"latitude": 60.7978,
+	"longitude": -161.4147
+},
+{
+	"City": "Kasilof",
+	"State": "AK",
+	"latitude": 60.331,
+	"longitude": -151.2293
+},
+{
+	"City": "Point Hope",
+	"State": "AK",
+	"latitude": 68.3445,
+	"longitude": -166.6738
+},
+{
+	"City": "Quinhagak",
+	"State": "AK",
+	"latitude": 59.7511,
+	"longitude": -161.8993
+},
+{
+	"City": "Savoonga",
+	"State": "AK",
+	"latitude": 63.6797,
+	"longitude": -170.4831
+},
+{
+	"City": "Gambell",
+	"State": "AK",
+	"latitude": 63.7538,
+	"longitude": -171.6881
+},
+{
+	"City": "Unalakleet",
+	"State": "AK",
+	"latitude": 63.8922,
+	"longitude": -160.786
+},
+{
+	"City": "Noorvik",
+	"State": "AK",
+	"latitude": 66.8292,
+	"longitude": -161.0376
+},
+{
+	"City": "Tuntutuliak",
+	"State": "AK",
+	"latitude": 60.3843,
+	"longitude": -162.6838
+},
+{
+	"City": "Toksook Bay",
+	"State": "AK",
+	"latitude": 60.5333,
+	"longitude": -165.1557
+},
+{
+	"City": "Two Rivers",
+	"State": "AK",
+	"latitude": 64.8908,
+	"longitude": -147.0898
+},
+{
+	"City": "Yakutat",
+	"State": "AK",
+	"latitude": 59.567,
+	"longitude": -139.5966
+},
+{
+	"City": "Kotlik",
+	"State": "AK",
+	"latitude": 63.0305,
+	"longitude": -163.553
+},
+{
+	"City": "Pilot Station",
+	"State": "AK",
+	"latitude": 61.9422,
+	"longitude": -162.8828
+},
+{
+	"City": "Pleasant Valley",
+	"State": "AK",
+	"latitude": 64.8855,
+	"longitude": -146.8986
+},
+{
+	"City": "Shishmaref",
+	"State": "AK",
+	"latitude": 66.2372,
+	"longitude": -166.1027
+},
+{
+	"City": "Happy Valley",
+	"State": "AK",
+	"latitude": 59.9137,
+	"longitude": -151.6072
+},
+{
+	"City": "Wainwright",
+	"State": "AK",
+	"latitude": 70.638,
+	"longitude": -159.9713
+},
+{
+	"City": "Stebbins",
+	"State": "AK",
+	"latitude": 63.4706,
+	"longitude": -162.2597
+},
+{
+	"City": "Akiachak",
+	"State": "AK",
+	"latitude": 60.9209,
+	"longitude": -161.402
+},
+{
+	"City": "St. Mary's",
+	"State": "AK",
+	"latitude": 62.0718,
+	"longitude": -163.2805
+},
+{
+	"City": "Big Delta",
+	"State": "AK",
+	"latitude": 64.1486,
+	"longitude": -145.7453
+},
+{
+	"City": "Aniak",
+	"State": "AK",
+	"latitude": 61.5817,
+	"longitude": -159.5451
+},
+{
+	"City": "Kake",
+	"State": "AK",
+	"latitude": 56.9727,
+	"longitude": -133.9145
+},
+{
+	"City": "Kasigluk",
+	"State": "AK",
+	"latitude": 60.8785,
+	"longitude": -162.5272
+},
+{
+	"City": "Scammon Bay",
+	"State": "AK",
+	"latitude": 61.842,
+	"longitude": -165.5833
+},
+{
+	"City": "Fort Yukon",
+	"State": "AK",
+	"latitude": 66.5806,
+	"longitude": -145.2415
+},
+{
+	"City": "Nunapitchuk",
+	"State": "AK",
+	"latitude": 60.8772,
+	"longitude": -162.4615
+},
+{
+	"City": "Fox River",
+	"State": "AK",
+	"latitude": 59.8723,
+	"longitude": -150.9984
+},
+{
+	"City": "Kipnuk",
+	"State": "AK",
+	"latitude": 59.9373,
+	"longitude": -164.0616
+},
+{
+	"City": "New Stuyahok",
+	"State": "AK",
+	"latitude": 59.4762,
+	"longitude": -157.271
+},
+{
+	"City": "South Van Horn",
+	"State": "AK",
+	"latitude": 64.8091,
+	"longitude": -147.7855
+},
+{
+	"City": "Kachemak",
+	"State": "AK",
+	"latitude": 59.6745,
+	"longitude": -151.4364
+},
+{
+	"City": "St. Paul",
+	"State": "AK",
+	"latitude": 57.1815,
+	"longitude": -170.2743
+},
+{
+	"City": "Cooper Landing",
+	"State": "AK",
+	"latitude": 60.4945,
+	"longitude": -149.841
+},
+{
+	"City": "Chefornak",
+	"State": "AK",
+	"latitude": 60.155,
+	"longitude": -164.255
+},
+{
+	"City": "Naknek",
+	"State": "AK",
+	"latitude": 58.7847,
+	"longitude": -156.8967
+},
+{
+	"City": "Thorne Bay",
+	"State": "AK",
+	"latitude": 55.6652,
+	"longitude": -132.5337
+},
+{
+	"City": "Marshall",
+	"State": "AK",
+	"latitude": 61.8753,
+	"longitude": -162.0488
+},
+{
+	"City": "Angoon",
+	"State": "AK",
+	"latitude": 57.455,
+	"longitude": -134.4978
+},
+{
+	"City": "Galena",
+	"State": "AK",
+	"latitude": 64.7381,
+	"longitude": -156.8635
+},
+{
+	"City": "Fox",
+	"State": "AK",
+	"latitude": 64.9749,
+	"longitude": -147.609
+},
+{
+	"City": "Gustavus",
+	"State": "AK",
+	"latitude": 58.4275,
+	"longitude": -135.7492
+},
+{
+	"City": "Manokotak",
+	"State": "AK",
+	"latitude": 58.893,
+	"longitude": -158.9109
+},
+{
+	"City": "Kongiganak",
+	"State": "AK",
+	"latitude": 59.958,
+	"longitude": -162.8831
+},
+{
+	"City": "Nuiqsut",
+	"State": "AK",
+	"latitude": 70.2135,
+	"longitude": -150.9897
+},
+{
+	"City": "Buckland",
+	"State": "AK",
+	"latitude": 65.9784,
+	"longitude": -161.1341
+},
+{
+	"City": "Noatak",
+	"State": "AK",
+	"latitude": 67.5987,
+	"longitude": -163.0309
+},
+{
+	"City": "St. Michael",
+	"State": "AK",
+	"latitude": 63.4664,
+	"longitude": -162.1324
+},
+{
+	"City": "Glennallen",
+	"State": "AK",
+	"latitude": 62.1278,
+	"longitude": -145.7693
+},
+{
+	"City": "Napaskiak",
+	"State": "AK",
+	"latitude": 60.7018,
+	"longitude": -161.7616
+},
+{
+	"City": "Brevig Mission",
+	"State": "AK",
+	"latitude": 65.3413,
+	"longitude": -166.4953
+},
+{
+	"City": "Tununak",
+	"State": "AK",
+	"latitude": 60.579,
+	"longitude": -165.2077
+},
+{
+	"City": "Kwigillingok",
+	"State": "AK",
+	"latitude": 59.8767,
+	"longitude": -163.1717
+},
+{
+	"City": "Tyonek",
+	"State": "AK",
+	"latitude": 61.0734,
+	"longitude": -151.3331
+},
+{
+	"City": "Akiak",
+	"State": "AK",
+	"latitude": 60.9061,
+	"longitude": -161.2122
+},
+{
+	"City": "Saxman",
+	"State": "AK",
+	"latitude": 55.3232,
+	"longitude": -131.589
+},
+{
+	"City": "Hydaburg",
+	"State": "AK",
+	"latitude": 55.2061,
+	"longitude": -132.8208
+},
+{
+	"City": "Kivalina",
+	"State": "AK",
+	"latitude": 67.733,
+	"longitude": -164.5212
+},
+{
+	"City": "Tazlina",
+	"State": "AK",
+	"latitude": 62.0536,
+	"longitude": -145.4362
+},
+{
+	"City": "Napakiak",
+	"State": "AK",
+	"latitude": 60.6923,
+	"longitude": -161.9822
+},
+{
+	"City": "Koyuk",
+	"State": "AK",
+	"latitude": 64.9411,
+	"longitude": -161.1454
+},
+{
+	"City": "King Salmon",
+	"State": "AK",
+	"latitude": 58.753,
+	"longitude": -156.5061
+},
+{
+	"City": "Trapper Creek",
+	"State": "AK",
+	"latitude": 62.3189,
+	"longitude": -150.3965
+},
+{
+	"City": "Nenana",
+	"State": "AK",
+	"latitude": 64.5384,
+	"longitude": -149.0859
+},
+{
+	"City": "Russian Mission",
+	"State": "AK",
+	"latitude": 61.7825,
+	"longitude": -161.3567
+},
+{
+	"City": "Anaktuvuk Pass",
+	"State": "AK",
+	"latitude": 68.15,
+	"longitude": -151.7162
+},
+{
+	"City": "Elim",
+	"State": "AK",
+	"latitude": 64.6184,
+	"longitude": -162.2762
+},
+{
+	"City": "Anderson",
+	"State": "AK",
+	"latitude": 64.3074,
+	"longitude": -149.1562
+},
+{
+	"City": "Kiana",
+	"State": "AK",
+	"latitude": 66.9726,
+	"longitude": -160.4344
+},
+{
+	"City": "Adak",
+	"State": "AK",
+	"latitude": 51.8815,
+	"longitude": -176.6295
+},
+{
+	"City": "Tuluksak",
+	"State": "AK",
+	"latitude": 61.105,
+	"longitude": -160.9493
+},
+{
+	"City": "Nightmute",
+	"State": "AK",
+	"latitude": 60.4874,
+	"longitude": -164.8195
+},
+{
+	"City": "McGrath",
+	"State": "AK",
+	"latitude": 62.9424,
+	"longitude": -155.563
+},
+{
+	"City": "Eek",
+	"State": "AK",
+	"latitude": 60.2164,
+	"longitude": -162.0331
+},
+{
+	"City": "Newtok",
+	"State": "AK",
+	"latitude": 60.9341,
+	"longitude": -164.6385
+},
+{
+	"City": "Moose Pass",
+	"State": "AK",
+	"latitude": 60.4997,
+	"longitude": -149.4464
+},
+{
+	"City": "Lower Kalskag",
+	"State": "AK",
+	"latitude": 61.5163,
+	"longitude": -160.3556
+},
+{
+	"City": "Goodnews Bay",
+	"State": "AK",
+	"latitude": 59.1271,
+	"longitude": -161.5754
+},
+{
+	"City": "Seldovia",
+	"State": "AK",
+	"latitude": 59.4396,
+	"longitude": -151.7111
+},
+{
+	"City": "Mentasta Lake",
+	"State": "AK",
+	"latitude": 62.9867,
+	"longitude": -143.5191
+},
+{
+	"City": "Shungnak",
+	"State": "AK",
+	"latitude": 66.8805,
+	"longitude": -157.1499
+},
+{
+	"City": "Ambler",
+	"State": "AK",
+	"latitude": 67.0897,
+	"longitude": -157.8725
+},
+{
+	"City": "Shaktoolik",
+	"State": "AK",
+	"latitude": 64.3567,
+	"longitude": -161.1972
+},
+{
+	"City": "Huslia",
+	"State": "AK",
+	"latitude": 65.7002,
+	"longitude": -156.3386
+},
+{
+	"City": "Kaktovik",
+	"State": "AK",
+	"latitude": 70.123,
+	"longitude": -143.6262
+},
+{
+	"City": "Tanana",
+	"State": "AK",
+	"latitude": 65.1746,
+	"longitude": -152.0686
+},
+{
+	"City": "Atqasuk",
+	"State": "AK",
+	"latitude": 70.481,
+	"longitude": -157.3835
+},
+{
+	"City": "Nikolaevsk",
+	"State": "AK",
+	"latitude": 59.8295,
+	"longitude": -151.5964
+},
+{
+	"City": "Copper Center",
+	"State": "AK",
+	"latitude": 61.9845,
+	"longitude": -145.3544
+},
+{
+	"City": "Mosquito Lake",
+	"State": "AK",
+	"latitude": 59.471,
+	"longitude": -136.1458
+},
+{
+	"City": "Nulato",
+	"State": "AK",
+	"latitude": 64.7052,
+	"longitude": -158.2383
+},
+{
+	"City": "Teller",
+	"State": "AK",
+	"latitude": 65.2531,
+	"longitude": -166.342
+},
+{
+	"City": "Upper Kalskag",
+	"State": "AK",
+	"latitude": 61.5416,
+	"longitude": -160.3337
+},
+{
+	"City": "Clam Gulch",
+	"State": "AK",
+	"latitude": 60.2001,
+	"longitude": -151.3939
+},
+{
+	"City": "Point Lay",
+	"State": "AK",
+	"latitude": 69.7442,
+	"longitude": -162.8678
+},
+{
+	"City": "Tetlin",
+	"State": "AK",
+	"latitude": 63.1481,
+	"longitude": -142.4947
+},
+{
+	"City": "Glacier View",
+	"State": "AK",
+	"latitude": 61.8511,
+	"longitude": -147.7764
+},
+{
+	"City": "Aleknagik",
+	"State": "AK",
+	"latitude": 59.2946,
+	"longitude": -158.6896
+},
+{
+	"City": "Old Harbor",
+	"State": "AK",
+	"latitude": 57.2169,
+	"longitude": -153.3252
+},
+{
+	"City": "Nanwalek",
+	"State": "AK",
+	"latitude": 59.3302,
+	"longitude": -151.911
+},
+{
+	"City": "Chickaloon",
+	"State": "AK",
+	"latitude": 61.804,
+	"longitude": -148.4103
+},
+{
+	"City": "Nunam Iqua",
+	"State": "AK",
+	"latitude": 62.511,
+	"longitude": -164.8998
+},
+{
+	"City": "Whittier",
+	"State": "AK",
+	"latitude": 60.7852,
+	"longitude": -148.6455
+},
+{
+	"City": "Mekoryuk",
+	"State": "AK",
+	"latitude": 60.3704,
+	"longitude": -166.267
+},
+{
+	"City": "Koliganek",
+	"State": "AK",
+	"latitude": 59.6971,
+	"longitude": -157.2258
+},
+{
+	"City": "White Mountain",
+	"State": "AK",
+	"latitude": 64.6812,
+	"longitude": -163.4228
+},
+{
+	"City": "Grayling",
+	"State": "AK",
+	"latitude": 62.8998,
+	"longitude": -160.1078
+},
+{
+	"City": "Hollis",
+	"State": "AK",
+	"latitude": 55.5113,
+	"longitude": -132.7023
+},
+{
+	"City": "Atmautluak",
+	"State": "AK",
+	"latitude": 60.8622,
+	"longitude": -162.2858
+},
+{
+	"City": "Newhalen",
+	"State": "AK",
+	"latitude": 59.727,
+	"longitude": -154.897
+},
+{
+	"City": "Arctic Village",
+	"State": "AK",
+	"latitude": 68.1421,
+	"longitude": -145.4957
+},
+{
+	"City": "Port Lions",
+	"State": "AK",
+	"latitude": 57.8754,
+	"longitude": -152.8745
+},
+{
+	"City": "Kokhanok",
+	"State": "AK",
+	"latitude": 59.4158,
+	"longitude": -154.7456
+},
+{
+	"City": "Cantwell",
+	"State": "AK",
+	"latitude": 63.379,
+	"longitude": -148.8158
+},
+{
+	"City": "Port Graham",
+	"State": "AK",
+	"latitude": 59.34,
+	"longitude": -151.8464
+},
+{
+	"City": "Lowell Point",
+	"State": "AK",
+	"latitude": 60.0629,
+	"longitude": -149.4898
+},
+{
+	"City": "Minto",
+	"State": "AK",
+	"latitude": 65.1033,
+	"longitude": -149.5565
+},
+{
+	"City": "Coffman Cove",
+	"State": "AK",
+	"latitude": 56.0057,
+	"longitude": -132.8395
+},
+{
+	"City": "Alcan Border",
+	"State": "AK",
+	"latitude": 62.6727,
+	"longitude": -141.1321
+},
+{
+	"City": "Kaltag",
+	"State": "AK",
+	"latitude": 64.3223,
+	"longitude": -158.7436
+},
+{
+	"City": "Holy Cross",
+	"State": "AK",
+	"latitude": 62.1868,
+	"longitude": -159.8198
+},
+{
+	"City": "Golovin",
+	"State": "AK",
+	"latitude": 64.564,
+	"longitude": -162.9989
+},
+{
+	"City": "Allakaket",
+	"State": "AK",
+	"latitude": 66.5506,
+	"longitude": -152.627
+},
+{
+	"City": "Seldovia Village",
+	"State": "AK",
+	"latitude": 59.453,
+	"longitude": -151.5905
+},
+{
+	"City": "Lutak",
+	"State": "AK",
+	"latitude": 59.3997,
+	"longitude": -135.6314
+},
+{
+	"City": "Coldfoot",
+	"State": "AK",
+	"latitude": 67.2475,
+	"longitude": -150.1079
+},
+{
+	"City": "Pitkas Point",
+	"State": "AK",
+	"latitude": 62.0374,
+	"longitude": -163.2681
+},
+{
+	"City": "Ruby",
+	"State": "AK",
+	"latitude": 64.7233,
+	"longitude": -155.5006
+},
+{
+	"City": "Harding-Birch Lakes",
+	"State": "AK",
+	"latitude": 64.3711,
+	"longitude": -146.5999
+},
+{
+	"City": "Gakona",
+	"State": "AK",
+	"latitude": 62.3609,
+	"longitude": -145.2657
+},
+{
+	"City": "Kobuk",
+	"State": "AK",
+	"latitude": 66.931,
+	"longitude": -156.8939
+},
+{
+	"City": "Ouzinkie",
+	"State": "AK",
+	"latitude": 57.9222,
+	"longitude": -152.4674
+},
+{
+	"City": "Tanacross",
+	"State": "AK",
+	"latitude": 63.3523,
+	"longitude": -143.4318
+},
+{
+	"City": "Wales",
+	"State": "AK",
+	"latitude": 65.6119,
+	"longitude": -168.0773
+},
+{
+	"City": "Fort Greely",
+	"State": "AK",
+	"latitude": 63.9678,
+	"longitude": -145.7148
+},
+{
+	"City": "Tenakee Springs",
+	"State": "AK",
+	"latitude": 57.7913,
+	"longitude": -135.1955
+},
+{
+	"City": "Kenny Lake",
+	"State": "AK",
+	"latitude": 61.6644,
+	"longitude": -144.8662
+},
+{
+	"City": "Port Alsworth",
+	"State": "AK",
+	"latitude": 60.1688,
+	"longitude": -154.3233
+},
+{
+	"City": "Nondalton",
+	"State": "AK",
+	"latitude": 59.9711,
+	"longitude": -154.8627
+},
+{
+	"City": "Ekwok",
+	"State": "AK",
+	"latitude": 59.3462,
+	"longitude": -157.4861
+},
+{
+	"City": "Chuathbaluk",
+	"State": "AK",
+	"latitude": 61.5746,
+	"longitude": -159.2489
+},
+{
+	"City": "Naukati Bay",
+	"State": "AK",
+	"latitude": 55.8801,
+	"longitude": -133.1993
+},
+{
+	"City": "Cold Bay",
+	"State": "AK",
+	"latitude": 55.2122,
+	"longitude": -162.7475
+},
+{
+	"City": "Venetie",
+	"State": "AK",
+	"latitude": 67.0206,
+	"longitude": -146.3741
+},
+{
+	"City": "Deering",
+	"State": "AK",
+	"latitude": 66.0723,
+	"longitude": -162.7437
+},
+{
+	"City": "Diomede",
+	"State": "AK",
+	"latitude": 65.7536,
+	"longitude": -168.9219
+},
+{
+	"City": "Dry Creek",
+	"State": "AK",
+	"latitude": 63.6255,
+	"longitude": -144.6364
+},
+{
+	"City": "Nelchina",
+	"State": "AK",
+	"latitude": 61.9989,
+	"longitude": -146.8112
+},
+{
+	"City": "Mud Bay",
+	"State": "AK",
+	"latitude": 59.1517,
+	"longitude": -135.3584
+},
+{
+	"City": "Port Heiden",
+	"State": "AK",
+	"latitude": 56.9426,
+	"longitude": -158.6047
+},
+{
+	"City": "Chalkyitsik",
+	"State": "AK",
+	"latitude": 66.6468,
+	"longitude": -143.7822
+},
+{
+	"City": "Egegik",
+	"State": "AK",
+	"latitude": 58.2181,
+	"longitude": -157.4036
+},
+{
+	"City": "Northway",
+	"State": "AK",
+	"latitude": 62.9479,
+	"longitude": -141.8322
+},
+{
+	"City": "St. George",
+	"State": "AK",
+	"latitude": 56.5791,
+	"longitude": -169.6114
+},
+{
+	"City": "Primrose",
+	"State": "AK",
+	"latitude": 60.3497,
+	"longitude": -149.3199
+},
+{
+	"City": "Perryville",
+	"State": "AK",
+	"latitude": 55.9315,
+	"longitude": -159.1559
+},
+{
+	"City": "Sleetmute",
+	"State": "AK",
+	"latitude": 61.6516,
+	"longitude": -157.1251
+},
+{
+	"City": "Oscarville",
+	"State": "AK",
+	"latitude": 60.7288,
+	"longitude": -161.7728
+},
+{
+	"City": "Koyukuk",
+	"State": "AK",
+	"latitude": 64.9008,
+	"longitude": -157.6946
+},
+{
+	"City": "Halibut Cove",
+	"State": "AK",
+	"latitude": 59.5744,
+	"longitude": -151.2296
+},
+{
+	"City": "Chignik",
+	"State": "AK",
+	"latitude": 56.3003,
+	"longitude": -158.4132
+},
+{
+	"City": "Pelican",
+	"State": "AK",
+	"latitude": 57.9577,
+	"longitude": -136.2177
+},
+{
+	"City": "Nikolai",
+	"State": "AK",
+	"latitude": 63.0095,
+	"longitude": -154.3763
+},
+{
+	"City": "Nelson Lagoon",
+	"State": "AK",
+	"latitude": 55.8451,
+	"longitude": -161.6103
+},
+{
+	"City": "Red Dog Mine",
+	"State": "AK",
+	"latitude": 68.0645,
+	"longitude": -162.8667
+},
+{
+	"City": "Gulkana",
+	"State": "AK",
+	"latitude": 62.2152,
+	"longitude": -145.4449
+},
+{
+	"City": "Larsen Bay",
+	"State": "AK",
+	"latitude": 57.5404,
+	"longitude": -154.0056
+},
+{
+	"City": "Eagle",
+	"State": "AK",
+	"latitude": 64.7813,
+	"longitude": -141.1979
+},
+{
+	"City": "Hughes",
+	"State": "AK",
+	"latitude": 66.0452,
+	"longitude": -154.2376
+},
+{
+	"City": "Anvik",
+	"State": "AK",
+	"latitude": 62.6541,
+	"longitude": -160.214
+},
+{
+	"City": "Atka",
+	"State": "AK",
+	"latitude": 52.2301,
+	"longitude": -174.2133
+},
+{
+	"City": "Chistochina",
+	"State": "AK",
+	"latitude": 62.5921,
+	"longitude": -144.8135
+},
+{
+	"City": "Shageluk",
+	"State": "AK",
+	"latitude": 62.6684,
+	"longitude": -159.563
+},
+{
+	"City": "Crooked Creek",
+	"State": "AK",
+	"latitude": 61.8439,
+	"longitude": -158.1082
+},
+{
+	"City": "Crown Point",
+	"State": "AK",
+	"latitude": 60.4267,
+	"longitude": -149.3529
+},
+{
+	"City": "Silver Springs",
+	"State": "AK",
+	"latitude": 62.0193,
+	"longitude": -145.3584
+},
+{
+	"City": "Tatitlek",
+	"State": "AK",
+	"latitude": 60.8921,
+	"longitude": -146.6727
+},
+{
+	"City": "Takotna",
+	"State": "AK",
+	"latitude": 62.9823,
+	"longitude": -156.0841
+},
+{
+	"City": "Klukwan",
+	"State": "AK",
+	"latitude": 59.3987,
+	"longitude": -135.8886
+},
+{
+	"City": "Igiugig",
+	"State": "AK",
+	"latitude": 59.3056,
+	"longitude": -155.8738
+},
+{
+	"City": "Beaver",
+	"State": "AK",
+	"latitude": 66.383,
+	"longitude": -147.3219
+},
+{
+	"City": "Hope",
+	"State": "AK",
+	"latitude": 60.8925,
+	"longitude": -149.6352
+},
+{
+	"City": "Chignik Lagoon",
+	"State": "AK",
+	"latitude": 56.3041,
+	"longitude": -158.5004
+},
+{
+	"City": "Akhiok",
+	"State": "AK",
+	"latitude": 56.945,
+	"longitude": -154.2151
+},
+{
+	"City": "Chenega",
+	"State": "AK",
+	"latitude": 60.0757,
+	"longitude": -148.0194
+},
+{
+	"City": "Platinum",
+	"State": "AK",
+	"latitude": 58.978,
+	"longitude": -161.7185
+},
+{
+	"City": "Twin Hills",
+	"State": "AK",
+	"latitude": 59.0815,
+	"longitude": -160.2826
+},
+{
+	"City": "Levelock",
+	"State": "AK",
+	"latitude": 59.0683,
+	"longitude": -156.901
+},
+{
+	"City": "Pilot Point",
+	"State": "AK",
+	"latitude": 57.5585,
+	"longitude": -157.6798
+},
+{
+	"City": "Circle",
+	"State": "AK",
+	"latitude": 65.7936,
+	"longitude": -144.1813
+},
+{
+	"City": "Whitestone",
+	"State": "AK",
+	"latitude": 64.1528,
+	"longitude": -145.9061
+},
+{
+	"City": "Clark's Point",
+	"State": "AK",
+	"latitude": 58.8329,
+	"longitude": -158.5276
+},
+{
+	"City": "Chitina",
+	"State": "AK",
+	"latitude": 61.5276,
+	"longitude": -144.2991
+},
+{
+	"City": "Rampart",
+	"State": "AK",
+	"latitude": 65.4087,
+	"longitude": -149.9915
+},
+{
+	"City": "Iliamna",
+	"State": "AK",
+	"latitude": 59.7957,
+	"longitude": -154.8698
+},
+{
+	"City": "Port Alexander",
+	"State": "AK",
+	"latitude": 56.2346,
+	"longitude": -134.6532
+},
+{
+	"City": "Chignik Lake",
+	"State": "AK",
+	"latitude": 56.2631,
+	"longitude": -158.8049
+},
+{
+	"City": "Kasaan",
+	"State": "AK",
+	"latitude": 55.5573,
+	"longitude": -132.4137
+},
+{
+	"City": "Eagle Village",
+	"State": "AK",
+	"latitude": 64.7434,
+	"longitude": -141.1138
+},
+{
+	"City": "South Naknek",
+	"State": "AK",
+	"latitude": 58.6638,
+	"longitude": -156.9908
+},
+{
+	"City": "Port Clarence",
+	"State": "AK",
+	"latitude": 65.1108,
+	"longitude": -166.7683
+},
+{
+	"City": "Manley Hot Springs",
+	"State": "AK",
+	"latitude": 65.0187,
+	"longitude": -150.6453
+},
+{
+	"City": "False Pass",
+	"State": "AK",
+	"latitude": 54.8416,
+	"longitude": -163.348
+},
+{
+	"City": "Tonsina",
+	"State": "AK",
+	"latitude": 61.5617,
+	"longitude": -145.0656
+},
+{
+	"City": "Edna Bay",
+	"State": "AK",
+	"latitude": 55.964,
+	"longitude": -133.6662
+},
+{
+	"City": "Central",
+	"State": "AK",
+	"latitude": 65.5213,
+	"longitude": -144.6409
+},
+{
+	"City": "Stony River",
+	"State": "AK",
+	"latitude": 61.7936,
+	"longitude": -156.586
+},
+{
+	"City": "Covenant Life",
+	"State": "AK",
+	"latitude": 59.3998,
+	"longitude": -136.0948
+},
+{
+	"City": "Dot Lake Village",
+	"State": "AK",
+	"latitude": 63.6622,
+	"longitude": -144.016
+},
+{
+	"City": "Sunrise",
+	"State": "AK",
+	"latitude": 60.8701,
+	"longitude": -149.4678
+},
+{
+	"City": "Excursion Inlet",
+	"State": "AK",
+	"latitude": 58.4355,
+	"longitude": -135.373
+},
+{
+	"City": "Pedro Bay",
+	"State": "AK",
+	"latitude": 59.7822,
+	"longitude": -154.1236
+},
+{
+	"City": "Whale Pass",
+	"State": "AK",
+	"latitude": 56.1053,
+	"longitude": -133.1244
+},
+{
+	"City": "Skwentna",
+	"State": "AK",
+	"latitude": 61.9314,
+	"longitude": -151.2096
+},
+{
+	"City": "Karluk",
+	"State": "AK",
+	"latitude": 57.5845,
+	"longitude": -154.3255
+},
+{
+	"City": "Aleneva",
+	"State": "AK",
+	"latitude": 58.059,
+	"longitude": -152.9091
+},
+{
+	"City": "Kupreanof",
+	"State": "AK",
+	"latitude": 56.8089,
+	"longitude": -132.9889
+},
+{
+	"City": "Mendeltna",
+	"State": "AK",
+	"latitude": 62.1359,
+	"longitude": -146.5388
+},
+{
+	"City": "Nikolski",
+	"State": "AK",
+	"latitude": 53.0133,
+	"longitude": -168.7536
+},
+{
+	"City": "Lake Minchumina",
+	"State": "AK",
+	"latitude": 63.798,
+	"longitude": -152.3448
+},
+{
+	"City": "Ferry",
+	"State": "AK",
+	"latitude": 64.0496,
+	"longitude": -148.9205
+},
+{
+	"City": "Red Devil",
+	"State": "AK",
+	"latitude": 61.7735,
+	"longitude": -157.346
+},
+{
+	"City": "Attu Station",
+	"State": "AK",
+	"latitude": 52.8955,
+	"longitude": 173.123
+},
+{
+	"City": "Stevens Village",
+	"State": "AK",
+	"latitude": 66.025,
+	"longitude": -149.0802
+},
+{
+	"City": "Hyder",
+	"State": "AK",
+	"latitude": 55.9816,
+	"longitude": -130.0383
+},
+{
+	"City": "Lime Village",
+	"State": "AK",
+	"latitude": 61.327,
+	"longitude": -155.3181
+},
+{
+	"City": "Alatna",
+	"State": "AK",
+	"latitude": 66.5638,
+	"longitude": -152.8385
+},
+{
+	"City": "Bettles",
+	"State": "AK",
+	"latitude": 66.9084,
+	"longitude": -151.5369
+},
+{
+	"City": "Chicken",
+	"State": "AK",
+	"latitude": 64.0878,
+	"longitude": -141.8283
+},
+{
+	"City": "Livengood",
+	"State": "AK",
+	"latitude": 65.4817,
+	"longitude": -148.4171
+},
+{
+	"City": "Evansville",
+	"State": "AK",
+	"latitude": 66.9205,
+	"longitude": -151.4203
+},
+{
+	"City": "Wiseman",
+	"State": "AK",
+	"latitude": 67.4371,
+	"longitude": -150.1334
+},
+{
+	"City": "Ugashik",
+	"State": "AK",
+	"latitude": 57.5736,
+	"longitude": -157.1232
+},
+{
+	"City": "Healy Lake",
+	"State": "AK",
+	"latitude": 64.0281,
+	"longitude": -144.633
+},
+{
+	"City": "Beluga",
+	"State": "AK",
+	"latitude": 61.1869,
+	"longitude": -151.1637
+},
+{
+	"City": "Birch Creek",
+	"State": "AK",
+	"latitude": 66.2686,
+	"longitude": -145.8698
+},
+{
+	"City": "Elfin Cove",
+	"State": "AK",
+	"latitude": 58.1912,
+	"longitude": -136.3129
+},
+{
+	"City": "Four Mile Road",
+	"State": "AK",
+	"latitude": 64.6045,
+	"longitude": -149.1222
+},
+{
+	"City": "Portage Creek",
+	"State": "AK",
+	"latitude": 58.9051,
+	"longitude": -157.6695
+}]

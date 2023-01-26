@@ -1,0 +1,665 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>RCO | Forms - Driver Medical</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+        integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
+        integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <link rel="stylesheet" href="file:///android_asset/www/evaluationform/drivermedical/main-medical.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/4.17.47/css/bootstrap-datetimepicker.min.css">
+    <link rel="stylesheet" href="file:///android_asset/www/evaluationform/drivermedical/medical.css">
+</head>
+
+<body style="background-color:gold; margin: 0px !important;">
+    <div class="container-fluid">
+        <!-- <div class="row" style="border-bottom:1px solid white;">
+            <div class="col-sm-12">
+                <div class="row">
+                    <div class="col-sm-3">
+                        <a href="../../products/index.jsp" class="btn btn-primary"><i class="fas fa-home"></i> Home</a>
+                        <a href="../index.html" class="btn btn-primary"><i class="fas fa-backward"></i> Back</a>
+                    </div>
+                    <div class="col-sm-6 text-center">
+                        <h2  style="margin:0px !important">Forms</h2>
+                    </div>
+                    <div class="col-sm-3">
+                        <button class="btn btn-primary" id="save_button"><i class="fas fa-save"></i> Save</button>
+                        <a href="../../products/LogoutServlet.jsp" class="btn btn-primary pull-right">
+                            <i class="fas fa-power-off"></i> Logout
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+        <div class="row">
+            <div class="col-sm-12">
+                <form id="form">
+                    <div id="searchResultSide" style="display: none;">
+                        <div class="side-close">x</div>
+                        <div class="side-match"></div>
+                        <div class="side-body"></div>
+                    </div>
+
+                    <page size="Letter" style="padding: 80px;">
+                        <div class="row">
+                            <div class="col-xs-6 col-xs-offset-3 headerStyle text-center">
+                                <h5><b>YOU MUST CAREFULLY READ THE FOLLOWING INSTRUCTIONS BEFORE CONTINUING</b></h5>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-12 text-left mb-10">
+                                <p>The attached Medical Evaluation Summary must be completed for every Skill Performance Evaluation (SPE) Certificate applicant.</p><br>
+                                <p>There are several important questions in this Summary that <b>must be answered:</b></p><br>
+                                <ol>
+                                    <li style="padding-left: 11px;"><p>As the applicant, you must review and consider every block in Part II and check every box that applies to the type of duties or the environment you will be driving/working in.</p></li>
+                                    <li style="padding-left: 11px;"><p>Only a <u>Board-qualified or Board-certified</u> <b>physiatrist</b> (physician who specializes in physical medicine) OR <b>orthopedic surgeon</b> (specialist in conditions that affect the skeletal system) <u>can complete and sign the summary.</u></p></li>
+                                    <li style="padding-left: 11px;"><p>The signature of a health practitioner that is not a <u>Board-qualified or Board-certified</u> <b>physiatrist</b> OR <b>orthopedic surgeon</b> will not be accepted.</p></li>
+                                    <li style="padding-left: 11px;"><p>If a board-certified or board-qualified orthopedic surgeon or physiatrist does not complete <b>Part-III</b> of the Medical Evaluation Summary further processing of your application will stop</p></li>
+                                </ol>
+                            </div>
+                        </div>         
+                    </page>
+
+                    <page size="Letter" style="padding: 80px;">
+                        <div class="row">
+                            <div class="col-xs-12 text-center mb-20">
+                                <h5 class="m-1"><b><u>SUMMARY</u></b></h5>
+                            </div>
+                            <div class="col-xs-4 text-right"></div>
+                            <div class="col-xs-4 text-center">
+                                <h6 class="m-1"><b><u>PART I of III</u></b></h6>
+                            </div>
+                            <div class="col-xs-4 text-right mb-20">
+                                <span>Date</span>
+                                <input id="dateTime" name='dateTime' style="width:100px; border-bottom: 1px solid black;">
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-12 text-left">
+                                <span class="m-1">FROM: </span>
+                                <input id="carrierName" name='carrierName' style="width:580px; border-bottom: 1px solid black;">
+                            </div>
+                            <div class="col-xs-12 text-left">
+                                <div class="col-xs-12 text-center mb-10" style="font-size: 11px;">Motor Carriers Name</div>
+                            </div>
+                            <div class="col-xs-12 text-left">
+                                <span class="m-1">TO: </span>
+                                <input id="doctorsName" name='doctorsName' style="width:620px; border-bottom: 1px solid black;">
+                            </div>
+                            <div class="col-xs-12 text-left">
+                                <div class="col-xs-12 text-center mb-10" style="font-size: 11px;">(Doctor’s Name) <b>Must be Board-Certified or Board-Qualified or orthopedic surgeon or physiatrist</b></div>
+                            </div>
+                            <div class="col-xs-12 text-left mb-10">
+                                <span class="m-1">SPE Applicant Name:</span>
+                                <input id="sPEApplicantName" name='sPEApplicantName' style="width:480px; border-bottom: 1px solid black;">
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-12 text-left mb-10">
+                                <p>The above driver is being referred to you for a <u>medical evaluation summary</u> as required by Section 391.49 of the Federal Motor Carrier Safety Regulations (FMCSRs). The FMCSR states that the motor carrier shall furnish the examining physiatrist or orthopedic surgeon with a description of the job tasks which are contained herein. The FMCSRs further states that the medical evaluation summary shall be completed, dependent upon the driver's physical disability in accordance with the following objectives:</p>
+                                <br>
+                                <ol>
+                                    <li style="padding-left: 11px;"><p><u>IN CASES INVOLVING AMPUTATION</u>- The summary shall include an assessment of the driver's physical capabilities as they relate to the driver's ability to perform the tasks as specified in the accompanying job task description.</p></li>
+                                    <li style="padding-left: 11px;"><p><u>IN CASES INVOLVING LIMB IMPAIRMENT</u>- The summary shall include an explanation as to how and why the impaired area interferes with the driver's ability to perform the tasks as specified in the accompanying job task description. The summary shall also contain an assessment of whether the condition will likely remain medically stable over the driver applicant's lifetime.</p></li>
+                                    <li style="padding-left: 11px;"><p><u>IN CASES INVOLVING EITHER AN UPPER LIMB AMPUTATION OR UPPER LIMB IMPAIRMENT,</u> the summary shall include a statement by the examiner that the applicant is capable of demonstrating precision prehension (manipulating knobs and switches) and power grasp prehension (holding and maneuvering the steering wheel) with each upper limb separately.</p></li>
+                                </ol>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-12 text-left mb-10">
+                                <p>The physical demands of commercial driving and related tasks vary considerably with type of vehicles and duties involved. To effectively match job demands with an applicant's abilities to meet these demands, the physiatrist or orthopedic surgeon must know the type of vehicle to be driven, the job demands, and environment involved. For their own, as well as the safety of others, <u>drivers minimally must have adequate:</u></p>
+                                <br>
+                                <ol type="A">
+                                    <li style="padding-left: 11px;"><p><u>Strength</u>- of the skeletal muscles to turn large diameter steering wheels (20-24 inches) rapidly and maintain a grip on them when confronted with tire failures and/or striking potholes or obstructions on the roadway.</p></li>
+                                    <li style="padding-left: 11px;"><p><u>Mobility</u>- of the joints to reach various controls that must be pushed, pulled, or twisted; and to climb, bend, crawl, lift, twist, and turn to position for visual inspection; and to perform various related other associated tasks such as coupling and uncoupling trailers and vehicle inspections.</p></li>
+                                    <li style="padding-left: 11px;"><p><u>Stability</u>- of joints and of the torso to maintain alert driving postures to smoothly modulate foot and hand controls, to climb into and out of the vehicle cab and cargo compartments.</p></li>
+                                    <li style="padding-left: 11px;"><p><u>Power Grasp and Prehension</u> - of hands and fingers to control the steering wheel, operate the transmission (gear shift lever), air brake controls, and various other tasks such as operating light switches, directional signals, horns.</p></li>
+                                </ol>
+                            </div>
+                        </div>
+                    </page>
+
+                    <page size="Letter" style="padding: 80px;">
+                        <div class="row">
+                            <div class="col-xs-12 text-center mb-20">
+                                <h5 class="m-20"><b>MEDICAL EVALUATION SUMMARY</b></h5>
+                                <h5 class="m-20"><b>PART II</b></h5>
+                                <h5 class="m-1"><b>PART II TO BE COMPLETED BY MOTOR CARRIER AND/OR DRIVER</b></h5>
+                                <p class="m-20">Modification to the task statements may be made if necessary.</p>
+                                <p class="m-20 text-left">The following is a universal job task description; <b>your attention is directed to those boxes that have been checked as being pertinent to this particular driver.</b></p>
+                            </div>
+                            <div class="col-xs-12 text-center mb-20">
+                                <h5 class="m-1"><b><u>A. VEHICLE</u></b></h5>
+                                <h5 class="m-1"><b><u>TYPE</u></b></h5>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-3 text-left plr-10">
+                                <h6><input id="vehicleTypeStraightTruck" name='vehicleTypeStraightTruck' type='checkbox'><b>Straight Truck</b></h6>
+                                <p>May have up to 5 axles utilizing van, flatbed, tank or dump bodies</p>
+                                <div class="ml-10"><input id="vehicleTypeTruckTrailerover10klbs" name='vehicleTypeTruckTrailerover10klbs' type='checkbox'> A. Over 10,001 lbs.</div>
+                                <div class="ml-10"><input id="vehicleTypeTrucklessthan10klbsandhazardousmaterials" name='vehicleTypeTrucklessthan10klbsandhazardousmaterials' type='checkbox'> B. Combination Straight Trk with Trailer over 10,0011bs.</div>
+                                <div class="ml-10"><input id="vehicleTypeTruckover10klbs" name='vehicleTypeTruckover10klbs' type='checkbox'> C. Less than 10,001 lbs. & Placarded Hazardous Materials</div>
+                            </div>
+                            <div class="col-xs-3 text-left plr-10">
+                                <h6><input id="vehicleTypeMotorHome10klbs" name='vehicleTypeMotorHome10klbs' type='checkbox'><b>Motor Home</b></h6>
+                                <p>Gross Vehicle Weight Rating of 10,001 or more</p>
+                            </div>
+                            <div class="col-xs-3 text-left plr-10">
+                                <h6><input id="vehicleTypeTractorTrailer" name='vehicleTypeTractorTrailer' type='checkbox'><b>Tractor-Trailer </b></h6>
+                                <p>Comprised of a power unit (tractor) and one or more trailers.</p>
+                            </div>
+                            <div class="col-xs-3 text-left plr-10">
+                                <h6 class="mb-0"><input id="vehicleTypePassengerVehicle" name='vehicleTypePassengerVehicle' type='checkbox'><b>Passenger Vhl. </b></h6>
+                                <p class="ml-10">
+                                    List the Seating<br>Capacity
+                                    <input id="vehicleTypePassengerSeatingCapacity" type="text" name="vehicleTypePassengerSeatingCapacity" style="width: 20px; border-bottom: solid 1px black; display: inline-block;  margin-top:20px" class="">
+                                </p>
+                                <h6 class="m0"><b>Type:</b></h6>
+                                <h6 class="m0"><input id="vehicleTypePassengerMotorCoach" name='vehicleTypePassengerMotorCoach' type='checkbox'>Motor Coach</h6>
+                                <h6 class="m0"><input id="vehicleTypePassengerBus" name='vehicleTypePassengerBus' type='checkbox'>Bus</h6>
+                                <h6 class="m0"><input id="vehicleTypePassengerVan" name='vehicleTypePassengerVan' type='checkbox'>Van</h6>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <table style="margin-left: 40px;">
+                                <tr>
+                                    <td><input id="vehicleTypeshortrelaydrives" name='vehicleTypeshortrelaydrives' type='checkbox' style="margin-right: 30px"></td>
+                                    <td style="width: 20px;">i.</td>
+                                    <td>Short-relay drives 4-5 hours to a turnaround point, exchanges trucks and drives back to starting point.</td>
+                                </tr>
+                                <tr style="height: 10px;">
+                                    <td colspan="3"></td>
+                                </tr>
+                                <tr>
+                                    <td><input id="vehicleTypelongrelaydrives" name='vehicleTypelongrelaydrives' type='checkbox' style="margin-right: 30px"></td>
+                                    <td>ii.</td>
+                                    <td>Long-relay drives 8-10 hours, sleeps for 8 hours and returns to starting point.</td>
+                                </tr>
+                                <tr style="height: 10px;">
+                                    <td colspan="3"></td>
+                                </tr>
+                                <tr>
+                                    <td><input id="vehicleTypestraightthrough" name='vehicleTypestraightthrough' type='checkbox' style="margin-right: 30px"></td>
+                                    <td>iii.</td>
+                                    <td>
+                                        Straight-through to destination, including coast to coast operations, and typically is away from home for
+                                        <input id="vehicleTypenightsawayfromhome" type="text" name="vehicleTypenightsawayfromhome" style="width: 20px; border-bottom: solid 1px black; display: inline-block;  margin-top:20px" class="">
+                                        nights at a time.
+                                    </td>
+                                </tr>
+                                <tr style="height: 10px;">
+                                    <td colspan="3"></td>
+                                </tr>
+                                <tr>
+                                    <td><input id="vehicleTypesleeperteamdrives" name='vehicleTypesleeperteamdrives' type='checkbox' style="margin-right: 30px"></td>
+                                    <td>iv.</td>
+                                    <td>
+                                        Sleeper-team drives constantly for 4 hours followed by 4 hours in the bunk while codriver drives and typically is away from home 
+                                        <input id="vehicleTypenumberofnightsawayfromhome" type="text" name="vehicleTypenumberofnightsawayfromhome" style="width: 20px; border-bottom: solid 1px black; display: inline-block;  margin-top:20px" class="">
+                                        nights at a time.
+                                    </td>
+                                </tr>
+                                <tr style="height: 10px;">
+                                    <td colspan="3"></td>
+                                </tr>
+                                <tr>
+                                    <td><input id="vehicleTypeslocaldeliveries" name='vehicleTypeslocaldeliveries' type='checkbox' style="margin-right: 30px"></td>
+                                    <td>v.</td>
+                                    <td>Local deliveries, often with frequent stops</td>
+                                </tr>
+                                <tr style="height: 10px;">
+                                    <td colspan="3"></td>
+                                </tr>
+                                <tr>
+                                    <td><input id="vehicleTypeclimbinginandoutoftruck" name='vehicleTypeclimbinginandoutoftruck' type='checkbox' style="margin-right: 30px"></td>
+                                    <td>vi.</td>
+                                    <td>Driver may spend hours climbing in and out of truck to load and unload cargo.</td>
+                                </tr>
+                            </table>
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-12 text-center mb-20 mt-20">
+                                <h5 class="m-1"><b><u>B. ENVIRONMENTAL FACTORS</u></b></h5>
+                                <p class="m-1 text-left">Drivers may be subject to:</p>
+                            </div>
+                            <div class="col-xs-6 text-left plr-10">
+                                <div class="ml-10"><input id="environmentalFactorsabruptduty" name='environmentalFactorsabruptduty' type='checkbox'> a. Abrupt duty hour changes,</div>
+                                <div class="ml-10"><input id="environmentalFactorssleepdeprivation" name='environmentalFactorssleepdeprivation' type='checkbox'> b. Sleep deprivation</div>
+                                <div class="ml-10"><input id="environmentalFactorsunbalancedwork" name='environmentalFactorsunbalancedwork' type='checkbox'> c. Unbalanced work/rest cycles,</div>
+                                <div class="ml-10"><input id="environmentalFactorstemperature" name='environmentalFactorstemperature' type='checkbox'> d. Temperature and weather extremes,</div>
+                            </div>
+                            <div class="col-xs-6 text-left plr-10">
+                                <div class="ml-10"><input id="environmentalFactorslongtrips" name='environmentalFactorslongtrips' type='checkbox'> e. Long trips without regular meals,</div>
+                                <div class="ml-10"><input id="environmentalFactorsshortnotice" name='environmentalFactorsshortnotice' type='checkbox'> f. Short notice to assignment of run</div>
+                                <div class="ml-10"><input id="environmentalFactorstightdelivery" name='environmentalFactorstightdelivery' type='checkbox'> g. Tight delivery schedule</div>
+                                <div class="ml-10"><input id="environmentalFactorsdelayenroute" name='environmentalFactorsdelayenroute' type='checkbox'> h. Delay en route,</div>
+                                <div class="ml-10"><input id="environmentalFactorsothers" name='environmentalFactorsothers' type='checkbox'> i. Others</div>
+                            </div>
+                        </div>
+                        <div class="row"></div>
+                    </page>
+
+                    <page size="Letter" style="padding: 80px;">
+                        <div class="row">
+                            <div class="col-xs-12 text-center mb-20 mt-20">
+                                <h5 class="mb-20"><b><u>C. PHYSICAL DEMAND</u></b></h5>
+                                <p class="m-1 text-left">Moderate physical activity levels are associated with commercial vehicle driving. Perceptual skills are needed to monitor the driving situation for relevant information. Manipulation skills are needed to turn the steering wheel, applying brakes, shift the gears, etc. The demands imposed on a commercial driver’s sensory organs and musculoskeletal systems are briefly discussed below.</p>
+                            </div>
+
+                            <div class="col-xs-12 text-left mb-20" style="position: relative;">
+                                <div class="text-left" style="position: absolute; top:0; left:0">
+                                    <input id="physicalDemandGearShifting" name='physicalDemandGearShifting' type='checkbox'>
+                                </div>
+                                <div class="text-left" style="position: relative; margin-left: 40px;">
+                                    <div class="ml-10">
+                                        Gear Shifting: The movement of the gear shift lever(s) requires moderate strength, timely coordination, and complex manipulation skills of <u>right upper and left lower extremity.</u> This individual's vehicle will have a 
+                                        <input id="physicalDemandNumberspeedtransmission" type="text" name="physicalDemandNumberspeedtransmission" style="width: 20px; border-bottom: 1px solid black; display: inline-block;  margin-top:20px" class="">
+                                        speed manual transmission
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 text-left mb-20" style="position: relative;">
+                                <div class="text-left" style="position: absolute; top:0; left:0">
+                                    <input id="physicalDemandsemiautomatic" name='physicalDemandsemiautomatic' type='checkbox'>
+                                </div>
+                                <div class="text-left" style="position: relative; margin-left: 40px;">
+                                    <div class="ml-10">Vehicle equipped with semi-automatic transmission (manual shifting but no clutch). </div>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 text-left mb-20" style="position: relative;">
+                                <div class="text-left" style="position: absolute; top:0; left:0">
+                                    <input id="physicalDemandfullyautomatic" name='physicalDemandfullyautomatic' type='checkbox'>
+                                </div>
+                                <div class="text-left" style="position: relative; margin-left: 40px;">
+                                    <div class="ml-10">Vehicle equipped with a fully automatic transmission.</div>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 text-left mb-20" style="position: relative;">
+                                <div class="text-left" style="position: absolute; top:0; left:0">
+                                    <input id="physicalDemandsteeringwheelcontrol" name='physicalDemandsteeringwheelcontrol' type='checkbox'>
+                                </div>
+                                <div class="text-left" style="position: relative; margin-left: 40px;">
+                                    <div class="ml-10">Control of steering wheel requires strength, mobility, and power grip of upper extremities while maintaining stability of trunk.</div>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 text-left mb-20" style="position: relative;">
+                                <div class="text-left" style="position: absolute; top:0; left:0">
+                                    <input id="physicalDemandbrakeacceleratoroperation" name='physicalDemandbrakeacceleratoroperation' type='checkbox'>
+                                </div>
+                                <div class="text-left" style="position: relative; margin-left: 40px;">
+                                    <div class="ml-10">Operation of brake and accelerator pedal requires moderate strength, mobility, and coordinated movement in lower extremities</div>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 text-left mb-20" style="position: relative;">
+                                <div class="text-left" style="position: absolute; top:0; left:0">
+                                    <input id="physicalDemandvarioustasks" name='physicalDemandvarioustasks' type='checkbox'>
+                                </div>
+                                <div class="text-left" style="position: relative; margin-left: 40px;">
+                                    <div class="ml-10">Various tasks during driving, such as: operating light switches, windshield wipers, directional signals, emergency lights, horn, etc.; requiring moderate strength, mobility, and manipulative skills of upper extremities.</div>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 text-left mb-20" style="position: relative;">
+                                <div class="text-left" style="position: absolute; top:0; left:0">
+                                    <input id="physicalDemandbackingandparking" name='physicalDemandbackingandparking' type='checkbox'>
+                                </div>
+                                <div class="text-left" style="position: relative; margin-left: 40px;">
+                                    <div class="ml-10">Backing and parking: requires good depth perception, strength, and coordinated manipulative skills</div>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 text-left mb-20" style="position: relative;">
+                                <div class="text-left" style="position: absolute; top:0; left:0">
+                                    <input id="physicalDemandvehicleinspections" name='physicalDemandvehicleinspections' type='checkbox'>
+                                </div>
+                                <div class="text-left" style="position: relative; margin-left: 40px;">
+                                    <div class="ml-10">Vehicle inspection: driver must evaluate the mechanical condition of the various vehicular systems such as: tires, brakes, suspensions, engines, and cargo. Climbing, bending, kneeling, crawling, reaching, stretching, turning, twisting, are essential for proper vehicle inspection.</div>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 text-left mb-20" style="position: relative;">
+                                <div class="text-left" style="position: absolute; top:0; left:0">
+                                    <input id="physicalDemandcargohandling" name='physicalDemandcargohandling' type='checkbox'>
+                                </div>
+                                <div class="text-left" style="position: relative; margin-left: 40px;">
+                                    <div class="ml-10">Cargo handling and inspection: drivers may be required to handle cargo, climb up and down perpendicular ladders, and enter/leave the cab or cargo body many times a day.</div>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 text-left mb-20" style="position: relative;">
+                                <div class="text-left" style="position: absolute; top:0; left:0">
+                                    <input id="physicalDemandcoupling" name='physicalDemandcoupling' type='checkbox'>
+                                </div>
+                                <div class="text-left" style="position: relative; margin-left: 40px;">
+                                    <div class="ml-10">Coupling and uncoupling: tractor-trailer drivers may hook up one or more trailers, this requires strength and full range of motion to climb, balance turn, grip, and pull.</div>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 text-left mb-20" style="position: relative;">
+                                <div class="text-left" style="position: absolute; top:0; left:0">
+                                    <input id="physicalDemandmountingsnowchains" name='physicalDemandmountingsnowchains' type='checkbox'>
+                                </div>
+                                <div class="text-left" style="position: relative; margin-left: 40px;">
+                                    <div class="ml-10">Mounting snow chains on tires requires pulling/lifting motions in the range of 35-90 pounds.</div>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 text-left mb-20" style="position: relative;">
+                                <div class="text-left" style="position: absolute; top:0; left:0">
+                                    <input id="physicalDemandchangingtires" name='physicalDemandchangingtires' type='checkbox'>
+                                </div>
+                                <div class="text-left" style="position: relative; margin-left: 40px;">
+                                    <div class="ml-10">Changing tires requires a combination of pulling, pushing, and lifting motions in the range of 100 to 175 pounds.</div>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 text-left mb-20" style="position: relative;">
+                                <div class="text-left" style="position: absolute; top:0; left:0">
+                                    <input id="physicalDemandvehiclemodifications" name='physicalDemandvehiclemodifications' type='checkbox'>
+                                </div>
+                                <div class="text-left" style="position: relative; margin-left: 40px;">
+                                    <div class="ml-10">Vehicle modification(s) made for this driver are:</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <textarea id="physicalDemandvehiclemodnotes" name='physicalDemandvehiclemodnotes' style="width: 100%; border: 1px solid #8080803b;"></textarea>
+                        </div>
+                    </page>
+                    
+                    <page size="Letter" style="padding: 80px;">
+                        <div class="col-xs-12 text-center mb-20 mt-20">
+                            <h5 class="mb-20"><b><u>PART IlI (page 1 of 3) </u></b></h5>
+                            <h5 class="mb-20"><b><u>PART III MUST BE COMPLETED BY AN ORTHOPEDIC SURGEON OR PHYSIATRIST</u></b></h5>
+                            <p class="m-1 text-left">Based upon this job task description (as indicated in Part 11-A, B, and C) and your examination of this driver, please answer all questions below.</p>
+                            <p class="m-1 text-left">It is not necessary for the physician to state whether this person is likely to be a safety risk on the highway. The SPE Specialist will conduct the SPE in the intended vehicles to determine whether limb-impaired persons have overcome their impairment(s). We are relying on your medical measurements and judgment for information as requested below:</p>
+                            <p class="m-1 text-left">1. Does this driver have adequate <u>MUSCLE STRENGTH</u> to perform the tasks required?</p>
+                            <div class="text-left">
+                                <div style="margin-left: 40px;"><input id="muscleStrengthyes" name='muscleStrengthyes' type='checkbox'> YES</div>
+                                <div style="margin-left: 40px;"><input id="muscleStrengthno" name='muscleStrengthno' type='checkbox'> NO  <b> If no, please indicate the impaired extremity.</b></div>
+                            </div>
+                        </div>
+                        <div class="col-xs-4 text-right plr-10">
+                            <p>Upper Extremity </p>
+                        </div>
+                        <div class="col-xs-4 text-center plr-10">
+                            <p><input id="muscleStrengthrightupperextremity" name='muscleStrengthrightupperextremity' type='checkbox'>Right</p>
+                        </div>
+                        <div class="col-xs-4 text-left plr-10">
+                            <p><input id="muscleStrengthleftupperextremity" name='muscleStrengthleftupperextremity' type='checkbox'>Left</p>
+                        </div>
+                        <div class="col-xs-4 text-right plr-10">
+                            <p>Lower Extremity</p>
+                        </div>
+                        <div class="col-xs-4 text-center plr-10">
+                            <p><input id="muscleStrengthrightlowerextremity" name='muscleStrengthrightlowerextremity' type='checkbox'>Right</p>
+                        </div>
+                        <div class="col-xs-4 text-left plr-10">
+                            <p><input id="muscleStrengthleftlowerextremity" name='muscleStrengthleftlowerextremity' type='checkbox'>Left</p>
+                        </div>
+
+                        <div class="col-xs-12 text-center mb-20 mt-20">
+                            <p class="m-1 text-left">2. Does this driver have adequate <u>MOBILITY</u> of the extremities and trunk to perform the tasks required?</p>
+                            <div class="text-left">
+                                <div style="margin-left: 40px;"><input id='mobilityyes' name='mobilityyes' type='checkbox'> YES</div>
+                                <div style="margin-left: 40px;"><input id='mobilityno' name='mobilityno' type='checkbox'> NO  <b> If no, please indicate the impaired extremity.</b></div>
+                            </div>
+                        </div>
+                        <div class="col-xs-4 text-right plr-10">
+                            <p>Upper Extremity </p>
+                        </div>
+                        <div class="col-xs-4 text-center plr-10">
+                            <p><input id="mobilityrightupperextremity" name='mobilityrightupperextremity' type='checkbox'>Right</p>
+                        </div>
+                        <div class="col-xs-4 text-left plr-10">
+                            <p><input id="mobilityleftupperextremity" name='mobilityleftupperextremity' type='checkbox'>Left</p>
+                        </div>
+                        <div class="col-xs-4 text-right plr-10">
+                            <p>Lower Extremity</p>
+                        </div>
+                        <div class="col-xs-4 text-center plr-10">
+                            <p><input id="mobilityrightlowerextremity" name='mobilityrightlowerextremity' type='checkbox'>Right</p>
+                        </div>
+                        <div class="col-xs-4 text-left plr-10">
+                            <p><input id="mobilityleftlowerextremity" name='mobilityleftlowerextremity' type='checkbox'>Left</p>
+                        </div>
+                        <div class="col-xs-4 text-right plr-10">
+                            <p>Trunk <input id="mobilitytrunk" name='mobilitytrunk' type='checkbox'></p>
+                        </div>
+                        <div class="col-xs-8 text-center plr-10">
+                        </div>
+
+                        <div class="col-xs-12 text-center mb-20 mt-20">
+                            <p class="m-1 text-left">3.  Does this driver have adequate <u>JOINT</u> and <u>TRUNK STABILITY</u> to perform the tasks required?</p>
+                            <div class="text-left">
+                                <div style="margin-left: 40px;"><input id="stabilityyes" name='stabilityyes' type='checkbox'> YES</div>
+                                <div style="margin-left: 40px;"><input id="stabilityno" name='stabilityno' type='checkbox'> NO  <b> If no, please indicate the impaired extremity.</b></div>
+                            </div>
+                        </div>
+                        <div class="col-xs-4 text-right plr-10">
+                            <p>Upper Extremity </p>
+                        </div>
+                        <div class="col-xs-4 text-center plr-10">
+                            <p><input id="stabilityrightupperextremity" name='stabilityrightupperextremity' type='checkbox'>Right</p>
+                        </div>
+                        <div class="col-xs-4 text-left plr-10">
+                            <p><input id="stabilityleftupperextremity" name='stabilityleftupperextremity' type='checkbox'>Left</p>
+                        </div>
+                        <div class="col-xs-4 text-right plr-10">
+                            <p>Lower Extremity</p>
+                        </div>
+                        <div class="col-xs-4 text-center plr-10">
+                            <p><input id="stabilityrightlowerextremity" name='stabilityrightlowerextremity' type='checkbox'>Right</p>
+                        </div>
+                        <div class="col-xs-4 text-left plr-10">
+                            <p><input id="stabilityleftlowerextremity" name='stabilityleftlowerextremity' type='checkbox'>Left</p>
+                        </div>
+                        <div class="col-xs-4 text-right plr-10">
+                            <p>Trunk <input id="stabilitytrunk" name='stabilitytrunk' type='checkbox'></p>
+                        </div>
+                        <div class="col-xs-8 text-center plr-10">
+                        </div>
+                    </page>
+                    
+                    <page size="Letter" style="padding: 80px;">
+                        <div class="col-xs-12 text-center mb-20">
+                            <h5 class="mb-20"><b><u>PART IlI (page 2 of 3) </u></b></h5>
+                            <p class="m-1 text-left">
+                                4. This driver has an impairment of: 
+                                <span style="display: inline-block; width: 50px;"></span> 
+                                <input id="impairmenthand" name='impairmenthand' type="checkbox"> <b>hand or</b>
+                                <input id="impairmentupperlimb" name='impairmentupperlimb' type="checkbox"> <b>upper limb</b>
+                            </p>
+                            <p class="m-1 text-left">Has an <b>amputation</b> of:  
+                                <input id="amputationhand" name='amputationhand' type="checkbox"> <b>hand</b>
+                                (<input id="amputationpartial" name='amputationpartial' type="checkbox"> partial <input id="amputation_full" name='amputationfull' type="checkbox"> full)
+                                <input id="amputationupperlimb" name='amputationupperlimb' type="checkbox"> <b>upper limb</b>
+                            </p>
+                        </div>
+                        <div class="col-xs-12 text-left mb-20">
+                            <div class="col-xs-12 text-left mb-10">
+                                <p>Does the driver have <u>POWER GRIP</u> and <u>PREHENSION FUNCTION</u> of the hand and fingers?</p>
+                                <p>Power Grip and precision prehension further defined: the capability of holding, clutching, clasping, or seizing firmly the steering wheel and/or other vehicle equipment to effectively control the vehicle and perform normal and emergency vehicle operations: steering (potholes, tire failure (blowouts), etc., and operate gear shift levers, air brake controls, light switches, directional signals, and horns.</p>
+                            </div>
+                            <div class="col-xs-1 text-left">Right</div>
+                            <div class="col-xs-1 text-left"><input id='powergriprightyes' name='powergriprightyes' type="checkbox"> Yes</div>
+                            <div class="col-xs-10 text-left"><input id='powergriprightno' name='powergriprightno' type="checkbox"> No</div>
+                            <div class="col-xs-1 text-left">Left</div>
+                            <div class="col-xs-1 text-left"><input id='powergripleftyes' name='powergripleftyes' type="checkbox"> Yes</div>
+                            <div class="col-xs-10 text-left mb-10"><input id='powergripleftno' name='powergripleftno' type="checkbox"> No</div>
+                            <div class="col-xs-12 text-left mb-10">
+                                <p>If no, do you recommend a surgical reconstruction to produce power grip and/or prehension?</p>
+                                <p>
+                                    <span style="display: inline-block; width: 100px;"></span>
+                                    <input id="surgicalreconstructionyes" name='surgicalreconstructionyes' type="checkbox"> Yes
+                                    <span style="display: inline-block; width: 50px;"></span> 
+                                    <input id="surgicalreconstructionno" name='surgicalreconstructionno' type="checkbox"> No
+                                </p>
+                            </div>
+                            <div class="col-xs-12 text-left">
+                                <p class="m-1 text-left">
+                                    5. If this driver has an  
+                                    <span style="display: inline-block; width: 20px;"></span> 
+                                    <b><input id="hasupperimpairment" name='hasupperimpairment' type="checkbox"> UPPER </b>
+                                    <b><input id="haslowerlimbimpairment" name='haslowerlimbimpairment' type="checkbox"> LOWER LIMB </b>
+                                    <span style="display: inline-block; width: 40px;"></span> 
+                                    <b><u>IMPAIRMENT</u></b>
+                                    <span style="display: inline-block; width: 20px;"></span> 
+                                    <input id="hasrightimpairment" name='hasrightimpairment' type="checkbox"> Right
+                                    <input id="hasleftimpairment" name='hasleftimpairment' type="checkbox"> Left
+                                </p>
+                                <p class="mb-10 text-left">
+                                    <span style="display: inline-block; width: 80px;"></span> 
+                                    Has an  
+                                    <span style="display: inline-block; width: 20px;"></span> 
+                                    <b><input id="hasupperamputation" name='hasupperamputation' type="checkbox"> UPPER </b>
+                                    <b><input id="haslowerlimbamputation" name='haslowerlimbamputation' type="checkbox"> LOWER LIMB </b>
+                                    <span style="display: inline-block; width: 40px;"></span> 
+                                    <b><u>IMPAIRMENT</u></b>
+                                    <span style="display: inline-block; width: 20px;"></span> 
+                                    <input id="hasrightamputation" name='hasrightamputation' type="checkbox"> Right
+                                    <input id="hasleftamputation" name='hasleftamputation' type="checkbox"> Left
+                                </p>
+
+                                <p><span style="display: inline-block; width: 20px;"></span> Does the driver have?</p>
+
+                                <p><span style="display: inline-block; width: 80px;"></span>a. The APPROPRIATE TYPE OF PROSTHESIS OR ORTHOTIC DEVICE 7</p>
+                                <span style="display: inline-block; width: 120px;"></span>
+                                <input id="appropriateprosthesisyes" name='appropriateprosthesisyes' type="checkbox"> Yes
+                                <span style="display: inline-block; width: 40px;"></span>
+                                <input id="appropriateprosthesisno" name='appropriateprosthesisno' type="checkbox"> No
+
+                                <p class='mt-20'><span style="display: inline-block; width: 80px;"></span>b. The appropriate type of <u>TERMINAL DEVICE?</u></p>
+                                <span style="display: inline-block; width: 120px;"></span>
+                                <input id="appropriateterminaldeviceyes" name='appropriateterminaldeviceyes' type="checkbox"> Yes
+                                <span style="display: inline-block; width: 40px;"></span>
+                                <input id="appropriateterminaldeviceno" name='appropriateterminaldeviceno' type="checkbox"> No
+
+                                <p class='mt-20'><span style="display: inline-block; width: 80px;"></span>c. If yes, does the prosthesis\orthotic fit satisfactorily, and is it in good</p>
+                                <span style="display: inline-block; width: 120px;"></span>
+                                <input id="prosthesisfitsyes" name='prosthesisfitsyes' type="checkbox"> Yes
+                                <span style="display: inline-block; width: 40px;"></span>
+                                <input id="prosthesisfitsno" name='prosthesisfitsno' type="checkbox"> No
+
+                                <p class='mt-20'><span style="display: inline-block; width: 80px;"></span>d. Is the applicant able to use the prosthetic/orthotic device proficiently?</p>
+                                <span style="display: inline-block; width: 120px;"></span>
+                                <input id="useprostheticproficientlyyes" name='useprostheticproficientlyyes' type="checkbox"> Yes
+                                <span style="display: inline-block; width: 40px;"></span>
+                                <input id="useprostheticproficientlyno" name='useprostheticproficientlyno' type="checkbox"> No
+
+                                <p class='mt-20'><span style="display: inline-block; width: 80px;"></span>e. In the case of a hand or upper limb amputation or impairment does the prosthetic/orthotic device aid the driver in the ability to demonstrate power grasp and precision prehension?</p>
+                                <span style="display: inline-block; width: 120px;"></span>
+                                <input id="abilitytopowergraspyes" name='abilitytopowergraspyes' type="checkbox"> Yes
+                                <span style="display: inline-block; width: 40px;"></span>
+                                <input id="abilitytopowergraspno" name='abilitytopowergraspno' type="checkbox"> No
+                            </div>
+                        </div>
+                        <div class="col-xs-12 text-left mb-20">
+                            <p><b>If no to any of above, what is your recommendation?</b></p>
+                            <textarea id="prostheticrecommendations" name="prostheticrecommendations" style="width: 100%; border: 1px solid #8080803b;"></textarea>
+                        </div>
+
+                    </page>
+                    
+                    <page size="Letter" style="padding: 80px;">
+                        <h5 class="mb-20"><b><u>PART IlI (page 3 of 3) </u></b></h5>
+                        <p class="m-1 text-left">6. Please describe clinically the prosthetic or orthotic device, power source, etc.</p>
+                        <textarea id="prostheticclinicaldescription" name="prostheticclinicaldescription" style="width: 100%; border: 1px solid #8080803b;"></textarea>
+                        <p class="m-1 text-left">7. Does this Driver have any other medical conditions, other than the physical disability indicated in Part Ill that will interfere with his/her ability to adequately perform the required tasks?</p>
+                        <div class="col-xs-4 text-left mb-10"></div>
+                        <div class="col-xs-8 text-left mb-10">
+                            <input id="medicalconditionsinterferewithtasksno" name='medicalconditionsinterferewithtasksno' type="checkbox">
+                            <span style="display: inline-block; width: 20px;"></span>
+                            No
+                        </div>
+
+                        <div class="col-xs-4 text-left mb-10"></div>
+                        <div class="col-xs-8 text-left mb-10">
+                            <input id="medicalconditionsinterferewithtasksyes" name='medicalconditionsinterferewithtasksyes' type="checkbox">
+                            <span style="display: inline-block; width: 20px;"></span>
+                            Yes - Explain: <span style="display: inline-block; width: 320px; border-bottom: 1px solid #000;"></span>
+                            <textarea id="medicalconditionsinterferewithtasksexplanation" name="medicalconditionsinterferewithtasksexplanation" style="width: 100%; border: 1px solid #8080803b;"></textarea>
+                        </div>
+
+                        <p class="m-1 text-left">8. Please summarize your findings and evaluation, include assessment and medical opinion of whether the condition, at the time of this evaluation, will likely remain medically stable over the lifetime of the driver applicant:</p>
+                        <textarea id="medicalfindingsandevaluation" name="medicalfindingsandevaluation" style="width: 100%; border: 1px solid #8080803b;"></textarea>
+
+                        <p class="m0">
+                            Physician's Name (print): 
+                            <input id="physicianlastname" name='physicianlastname' style="display: inline-block; width: 165px; border-bottom: 1px solid #000;">
+                            <input id="physicianfirstname" name='physicianfirstname' style="display: inline-block; width: 165px; border-bottom: 1px solid #000;">
+                            <input id="physicianmiddlename" name='physicianmiddlename' style="display: inline-block; width: 165px; border-bottom: 1px solid #000;">
+                        </p>
+                        <div class="col-xs-3 text-center mb-10"></div>
+                        <div class="col-xs-3 text-center mb-10" style="font-size: 10px; margin-top: 0px;">(LAST NAME) </div>
+                        <div class="col-xs-3 text-center mb-10" style="font-size: 10px; margin-top: 0px;">(FIRST NAME) </div>
+                        <div class="col-xs-3 text-center mb-10" style="font-size: 10px; margin-top: 0px;">(MI) </div>
+
+                        <p class="m0">Address:
+                            <input id="physicianaddress" name='physicianaddress' style="display: inline-block; width: 200px; border-bottom: 1px solid #000;">
+                            <input id="physiciancity" name='physiciancity' style="display: inline-block; width: 190px; border-bottom: 1px solid #000;">
+                            <input id="physicianstate" name='physicianstate' style="display: inline-block; width: 80px; border-bottom: 1px solid #000;">
+                            <input id="physicianzipcode" name='physicianzipcode' style="display: inline-block; width: 80px; border-bottom: 1px solid #000;">
+                        </p>
+                        <div class="col-xs-3 text-center mb-10"></div>
+                        <div class="col-xs-3 text-left mb-10" style="font-size: 10px; margin-top: 0px;">(Street) </div>
+                        <div class="col-xs-3 text-left mb-10" style="font-size: 10px; margin-top: 0px;">(City) </div>
+                        <div class="col-xs-3 text-left mb-10" style="font-size: 10px; margin-top: 0px;">(State & Zip code) </div>
+                        <br>
+                        <p class="m0">
+                            Telephone Number: 
+                            <input id="physiciantelephonenumber" name='physiciantelephonenumber' style="display: inline-block; width: 200px; border-bottom: 1px solid #000;">
+                            Alternate Number:
+                            <input id="physicianalternatenumber" name='physicianalternatenumber' style="display: inline-block; width: 200px; border-bottom: 1px solid #000;">
+                        </p>
+                        <br>
+                        <div class="col-xs-12 text-left mt-20 mb-20">
+                            Please Check: 
+                            <span style="display: inline-block; width: 40px;"></span> 
+                            <input id="physiatrist" name='physiatrist' type="checkbox">
+                            Physiatrist
+                            <input id="orthopedicsurgeon" name='orthopedicsurgeon' type="checkbox">
+                            Orthopedic Surgeon
+                        </div>
+                        
+                        <div class="col-xs-2 text-left"></div>
+                        <div class="col-xs-2 text-left">Board Certified:</div>
+                        <div class="col-xs-8 text-left">
+                            <input id="boardCertifiedyes" name='boardCertifiedyes' type="checkbox"> Yes
+                            <input id="boardCertifiedno" name='boardCertifiedno' type="checkbox"> No
+                        </div>
+                        <div class="col-xs-2 text-left"></div>
+                        <div class="col-xs-2 text-left">Board Eligible:</div>
+                        <div class="col-xs-8 text-left">
+                            <input id="boardEligibleyes" name='boardEligibleyes' type="checkbox"> Yes
+                            <input id="boardEligibleno" name='boardEligibleno' type="checkbox"> No
+                        </div>
+                        <br><br>
+                        <p style="display: inline-block; margin-top: 30px;">
+                            Physician's Signature:
+                            <span style="display: inline-block; width:200px;"></span>
+                            <img id="signature_of_physician" height = "20" style="display: block;margin-left: auto;margin-right: auto;"/>
+                            Date:
+                            <input id="physiciandate" name='physiciandate' style="display: inline-block; width: 150px; border-bottom: 1px solid #000;">
+                        </p>
+                    </page>
+                </form>
+                </form>
+                
+            </div>
+        </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" 
+        integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/4.17.47/js/bootstrap-datetimepicker.min.js"></script>
+    <script src="../../components/app.js"></script>
+    <script src="../../components/apiHelper.js"></script>
+    <script src="../../components/helper.js"></script>
+    <script src="../../components/promisifyHelper.js"></script>
+    <script src="../../components/spinner.min.js"></script>
+    <script src="../scripts/singles/driverMedical.js"></script>
+</body>
+
+</html>

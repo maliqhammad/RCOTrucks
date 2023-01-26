@@ -1,0 +1,4015 @@
+[
+{
+	"City": "Wichita",
+	"State": "KS",
+	"latitude": 37.6896,
+	"longitude": -97.3442
+},
+{
+	"City": "Overland Park",
+	"State": "KS",
+	"latitude": 38.887,
+	"longitude": -94.687
+},
+{
+	"City": "Kansas City",
+	"State": "KS",
+	"latitude": 39.1234,
+	"longitude": -94.7443
+},
+{
+	"City": "Topeka",
+	"State": "KS",
+	"latitude": 39.0346,
+	"longitude": -95.6955
+},
+{
+	"City": "Olathe",
+	"State": "KS",
+	"latitude": 38.8832,
+	"longitude": -94.8198
+},
+{
+	"City": "Lawrence",
+	"State": "KS",
+	"latitude": 38.9597,
+	"longitude": -95.2641
+},
+{
+	"City": "Shawnee",
+	"State": "KS",
+	"latitude": 39.0158,
+	"longitude": -94.8076
+},
+{
+	"City": "Manhattan",
+	"State": "KS",
+	"latitude": 39.1886,
+	"longitude": -96.6046
+},
+{
+	"City": "Lenexa",
+	"State": "KS",
+	"latitude": 38.9609,
+	"longitude": -94.8018
+},
+{
+	"City": "Salina",
+	"State": "KS",
+	"latitude": 38.8137,
+	"longitude": -97.6143
+},
+{
+	"City": "Leavenworth",
+	"State": "KS",
+	"latitude": 39.3239,
+	"longitude": -94.924
+},
+{
+	"City": "Hutchinson",
+	"State": "KS",
+	"latitude": 38.0671,
+	"longitude": -97.9081
+},
+{
+	"City": "Junction City",
+	"State": "KS",
+	"latitude": 39.0271,
+	"longitude": -96.8496
+},
+{
+	"City": "Leawood",
+	"State": "KS",
+	"latitude": 38.9076,
+	"longitude": -94.6258
+},
+{
+	"City": "Garden City",
+	"State": "KS",
+	"latitude": 37.9754,
+	"longitude": -100.8529
+},
+{
+	"City": "Dodge City",
+	"State": "KS",
+	"latitude": 37.761,
+	"longitude": -100.0183
+},
+{
+	"City": "Derby",
+	"State": "KS",
+	"latitude": 37.5571,
+	"longitude": -97.2552
+},
+{
+	"City": "Emporia",
+	"State": "KS",
+	"latitude": 38.4028,
+	"longitude": -96.1924
+},
+{
+	"City": "Pittsburg",
+	"State": "KS",
+	"latitude": 37.4129,
+	"longitude": -94.6984
+},
+{
+	"City": "Prairie Village",
+	"State": "KS",
+	"latitude": 38.9874,
+	"longitude": -94.6361
+},
+{
+	"City": "Gardner",
+	"State": "KS",
+	"latitude": 38.8158,
+	"longitude": -94.93
+},
+{
+	"City": "Hays",
+	"State": "KS",
+	"latitude": 38.8815,
+	"longitude": -99.3218
+},
+{
+	"City": "Newton",
+	"State": "KS",
+	"latitude": 38.0368,
+	"longitude": -97.3451
+},
+{
+	"City": "Liberal",
+	"State": "KS",
+	"latitude": 37.0466,
+	"longitude": -100.9295
+},
+{
+	"City": "Great Bend",
+	"State": "KS",
+	"latitude": 38.3593,
+	"longitude": -98.8016
+},
+{
+	"City": "El Dorado",
+	"State": "KS",
+	"latitude": 37.8209,
+	"longitude": -96.8614
+},
+{
+	"City": "Andover",
+	"State": "KS",
+	"latitude": 37.6869,
+	"longitude": -97.1354
+},
+{
+	"City": "McPherson",
+	"State": "KS",
+	"latitude": 38.3714,
+	"longitude": -97.6605
+},
+{
+	"City": "Ottawa",
+	"State": "KS",
+	"latitude": 38.6,
+	"longitude": -95.2642
+},
+{
+	"City": "Arkansas City",
+	"State": "KS",
+	"latitude": 37.0726,
+	"longitude": -97.0385
+},
+{
+	"City": "Lansing",
+	"State": "KS",
+	"latitude": 39.2428,
+	"longitude": -94.8971
+},
+{
+	"City": "Winfield",
+	"State": "KS",
+	"latitude": 37.274,
+	"longitude": -96.9499
+},
+{
+	"City": "Haysville",
+	"State": "KS",
+	"latitude": 37.5649,
+	"longitude": -97.3527
+},
+{
+	"City": "Merriam",
+	"State": "KS",
+	"latitude": 39.0186,
+	"longitude": -94.6933
+},
+{
+	"City": "Atchison",
+	"State": "KS",
+	"latitude": 39.5625,
+	"longitude": -95.1367
+},
+{
+	"City": "Mission",
+	"State": "KS",
+	"latitude": 39.027,
+	"longitude": -94.6568
+},
+{
+	"City": "Coffeyville",
+	"State": "KS",
+	"latitude": 37.0518,
+	"longitude": -95.618
+},
+{
+	"City": "Parsons",
+	"State": "KS",
+	"latitude": 37.3405,
+	"longitude": -95.2959
+},
+{
+	"City": "Augusta",
+	"State": "KS",
+	"latitude": 37.6955,
+	"longitude": -96.9921
+},
+{
+	"City": "Chanute",
+	"State": "KS",
+	"latitude": 37.6695,
+	"longitude": -95.4621
+},
+{
+	"City": "Independence",
+	"State": "KS",
+	"latitude": 37.2118,
+	"longitude": -95.7328
+},
+{
+	"City": "Bel Aire",
+	"State": "KS",
+	"latitude": 37.7749,
+	"longitude": -97.2457
+},
+{
+	"City": "Bonner Springs",
+	"State": "KS",
+	"latitude": 39.0817,
+	"longitude": -94.8776
+},
+{
+	"City": "Park City",
+	"State": "KS",
+	"latitude": 37.8103,
+	"longitude": -97.3255
+},
+{
+	"City": "Fort Scott",
+	"State": "KS",
+	"latitude": 37.8283,
+	"longitude": -94.7038
+},
+{
+	"City": "Wellington",
+	"State": "KS",
+	"latitude": 37.2622,
+	"longitude": -97.4282
+},
+{
+	"City": "Spring Hill",
+	"State": "KS",
+	"latitude": 38.7565,
+	"longitude": -94.82
+},
+{
+	"City": "Valley Center",
+	"State": "KS",
+	"latitude": 37.8333,
+	"longitude": -97.3645
+},
+{
+	"City": "Roeland Park",
+	"State": "KS",
+	"latitude": 39.0358,
+	"longitude": -94.6374
+},
+{
+	"City": "De Soto",
+	"State": "KS",
+	"latitude": 38.9686,
+	"longitude": -94.9548
+},
+{
+	"City": "Pratt",
+	"State": "KS",
+	"latitude": 37.6764,
+	"longitude": -98.7451
+},
+{
+	"City": "Basehor",
+	"State": "KS",
+	"latitude": 39.1332,
+	"longitude": -94.9333
+},
+{
+	"City": "Mulvane",
+	"State": "KS",
+	"latitude": 37.4788,
+	"longitude": -97.2724
+},
+{
+	"City": "Eudora",
+	"State": "KS",
+	"latitude": 38.9345,
+	"longitude": -95.0957
+},
+{
+	"City": "Abilene",
+	"State": "KS",
+	"latitude": 38.9229,
+	"longitude": -97.2251
+},
+{
+	"City": "Fort Riley",
+	"State": "KS",
+	"latitude": 39.1111,
+	"longitude": -96.8138
+},
+{
+	"City": "Paola",
+	"State": "KS",
+	"latitude": 38.5784,
+	"longitude": -94.862
+},
+{
+	"City": "Ulysses",
+	"State": "KS",
+	"latitude": 37.5774,
+	"longitude": -101.3549
+},
+{
+	"City": "Tonganoxie",
+	"State": "KS",
+	"latitude": 39.1083,
+	"longitude": -95.0829
+},
+{
+	"City": "Colby",
+	"State": "KS",
+	"latitude": 39.3843,
+	"longitude": -101.0459
+},
+{
+	"City": "Iola",
+	"State": "KS",
+	"latitude": 37.9274,
+	"longitude": -95.4006
+},
+{
+	"City": "Concordia",
+	"State": "KS",
+	"latitude": 39.5669,
+	"longitude": -97.6466
+},
+{
+	"City": "Maize",
+	"State": "KS",
+	"latitude": 37.7748,
+	"longitude": -97.462
+},
+{
+	"City": "Goddard",
+	"State": "KS",
+	"latitude": 37.6658,
+	"longitude": -97.5621
+},
+{
+	"City": "Wamego",
+	"State": "KS",
+	"latitude": 39.2054,
+	"longitude": -96.31
+},
+{
+	"City": "Baxter Springs",
+	"State": "KS",
+	"latitude": 37.0196,
+	"longitude": -94.7351
+},
+{
+	"City": "Baldwin City",
+	"State": "KS",
+	"latitude": 38.7782,
+	"longitude": -95.1879
+},
+{
+	"City": "Louisburg",
+	"State": "KS",
+	"latitude": 38.6203,
+	"longitude": -94.677
+},
+{
+	"City": "Edwardsville",
+	"State": "KS",
+	"latitude": 39.0765,
+	"longitude": -94.8166
+},
+{
+	"City": "Goodland",
+	"State": "KS",
+	"latitude": 39.3489,
+	"longitude": -101.7142
+},
+{
+	"City": "Russell",
+	"State": "KS",
+	"latitude": 38.8878,
+	"longitude": -98.8513
+},
+{
+	"City": "Larned",
+	"State": "KS",
+	"latitude": 38.1834,
+	"longitude": -99.1014
+},
+{
+	"City": "Osawatomie",
+	"State": "KS",
+	"latitude": 38.5064,
+	"longitude": -94.9483
+},
+{
+	"City": "Clay Center",
+	"State": "KS",
+	"latitude": 39.3812,
+	"longitude": -97.1278
+},
+{
+	"City": "Rose Hill",
+	"State": "KS",
+	"latitude": 37.5702,
+	"longitude": -97.1361
+},
+{
+	"City": "Fairway",
+	"State": "KS",
+	"latitude": 39.0245,
+	"longitude": -94.6287
+},
+{
+	"City": "Hugoton",
+	"State": "KS",
+	"latitude": 37.1745,
+	"longitude": -101.3447
+},
+{
+	"City": "Scott City",
+	"State": "KS",
+	"latitude": 38.479,
+	"longitude": -100.9032
+},
+{
+	"City": "Hesston",
+	"State": "KS",
+	"latitude": 38.1403,
+	"longitude": -97.4272
+},
+{
+	"City": "Beloit",
+	"State": "KS",
+	"latitude": 39.4645,
+	"longitude": -98.1083
+},
+{
+	"City": "Mission Hills",
+	"State": "KS",
+	"latitude": 39.0141,
+	"longitude": -94.6172
+},
+{
+	"City": "Lyons",
+	"State": "KS",
+	"latitude": 38.3462,
+	"longitude": -98.2045
+},
+{
+	"City": "Oaklawn-Sunview",
+	"State": "KS",
+	"latitude": 37.6084,
+	"longitude": -97.2984
+},
+{
+	"City": "Frontenac",
+	"State": "KS",
+	"latitude": 37.4583,
+	"longitude": -94.7018
+},
+{
+	"City": "Lindsborg",
+	"State": "KS",
+	"latitude": 38.5773,
+	"longitude": -97.6738
+},
+{
+	"City": "Marysville",
+	"State": "KS",
+	"latitude": 39.8431,
+	"longitude": -96.6386
+},
+{
+	"City": "Garnett",
+	"State": "KS",
+	"latitude": 38.2845,
+	"longitude": -95.2408
+},
+{
+	"City": "Holton",
+	"State": "KS",
+	"latitude": 39.4699,
+	"longitude": -95.7319
+},
+{
+	"City": "Hiawatha",
+	"State": "KS",
+	"latitude": 39.8517,
+	"longitude": -95.5381
+},
+{
+	"City": "Columbus",
+	"State": "KS",
+	"latitude": 37.1714,
+	"longitude": -94.8442
+},
+{
+	"City": "Ellsworth",
+	"State": "KS",
+	"latitude": 38.7326,
+	"longitude": -98.2286
+},
+{
+	"City": "Galena",
+	"State": "KS",
+	"latitude": 37.0751,
+	"longitude": -94.6353
+},
+{
+	"City": "Kingman",
+	"State": "KS",
+	"latitude": 37.6476,
+	"longitude": -98.1161
+},
+{
+	"City": "Hillsboro",
+	"State": "KS",
+	"latitude": 38.3527,
+	"longitude": -97.1992
+},
+{
+	"City": "Osage City",
+	"State": "KS",
+	"latitude": 38.6337,
+	"longitude": -95.8218
+},
+{
+	"City": "Norton",
+	"State": "KS",
+	"latitude": 39.8362,
+	"longitude": -99.8916
+},
+{
+	"City": "St. Marys",
+	"State": "KS",
+	"latitude": 39.1942,
+	"longitude": -96.0643
+},
+{
+	"City": "Girard",
+	"State": "KS",
+	"latitude": 37.5094,
+	"longitude": -94.8456
+},
+{
+	"City": "Sabetha",
+	"State": "KS",
+	"latitude": 39.9136,
+	"longitude": -95.7916
+},
+{
+	"City": "Clearwater",
+	"State": "KS",
+	"latitude": 37.5096,
+	"longitude": -97.4975
+},
+{
+	"City": "Burlington",
+	"State": "KS",
+	"latitude": 38.1932,
+	"longitude": -95.7452
+},
+{
+	"City": "South Hutchinson",
+	"State": "KS",
+	"latitude": 38.0278,
+	"longitude": -97.9428
+},
+{
+	"City": "Hoisington",
+	"State": "KS",
+	"latitude": 38.518,
+	"longitude": -98.7773
+},
+{
+	"City": "Phillipsburg",
+	"State": "KS",
+	"latitude": 39.7512,
+	"longitude": -99.321
+},
+{
+	"City": "Eureka",
+	"State": "KS",
+	"latitude": 37.8261,
+	"longitude": -96.2889
+},
+{
+	"City": "Neodesha",
+	"State": "KS",
+	"latitude": 37.4242,
+	"longitude": -95.6849
+},
+{
+	"City": "Herington",
+	"State": "KS",
+	"latitude": 38.6863,
+	"longitude": -96.8667
+},
+{
+	"City": "Fredonia",
+	"State": "KS",
+	"latitude": 37.5328,
+	"longitude": -95.8223
+},
+{
+	"City": "Sterling",
+	"State": "KS",
+	"latitude": 38.2094,
+	"longitude": -98.2063
+},
+{
+	"City": "Cimarron",
+	"State": "KS",
+	"latitude": 37.8097,
+	"longitude": -100.3454
+},
+{
+	"City": "Cheney",
+	"State": "KS",
+	"latitude": 37.6353,
+	"longitude": -97.7797
+},
+{
+	"City": "Lakin",
+	"State": "KS",
+	"latitude": 37.94,
+	"longitude": -101.2585
+},
+{
+	"City": "Cherryvale",
+	"State": "KS",
+	"latitude": 37.2694,
+	"longitude": -95.554
+},
+{
+	"City": "Council Grove",
+	"State": "KS",
+	"latitude": 38.6623,
+	"longitude": -96.4917
+},
+{
+	"City": "Seneca",
+	"State": "KS",
+	"latitude": 39.8376,
+	"longitude": -96.0689
+},
+{
+	"City": "Oakley",
+	"State": "KS",
+	"latitude": 39.1234,
+	"longitude": -100.8451
+},
+{
+	"City": "Holcomb",
+	"State": "KS",
+	"latitude": 37.9864,
+	"longitude": -100.9937
+},
+{
+	"City": "Anthony",
+	"State": "KS",
+	"latitude": 37.1573,
+	"longitude": -98.0408
+},
+{
+	"City": "Halstead",
+	"State": "KS",
+	"latitude": 37.9999,
+	"longitude": -97.5102
+},
+{
+	"City": "Ellis",
+	"State": "KS",
+	"latitude": 38.9346,
+	"longitude": -99.5568
+},
+{
+	"City": "Kechi",
+	"State": "KS",
+	"latitude": 37.8234,
+	"longitude": -97.289
+},
+{
+	"City": "Caney",
+	"State": "KS",
+	"latitude": 37.014,
+	"longitude": -95.9316
+},
+{
+	"City": "Ogden",
+	"State": "KS",
+	"latitude": 39.1127,
+	"longitude": -96.7028
+},
+{
+	"City": "Ellinwood",
+	"State": "KS",
+	"latitude": 38.3574,
+	"longitude": -98.5837
+},
+{
+	"City": "Minneapolis",
+	"State": "KS",
+	"latitude": 39.1243,
+	"longitude": -97.6997
+},
+{
+	"City": "Belleville",
+	"State": "KS",
+	"latitude": 39.8245,
+	"longitude": -97.6337
+},
+{
+	"City": "Moundridge",
+	"State": "KS",
+	"latitude": 38.2028,
+	"longitude": -97.515
+},
+{
+	"City": "Medicine Lodge",
+	"State": "KS",
+	"latitude": 37.2851,
+	"longitude": -98.5812
+},
+{
+	"City": "Plainville",
+	"State": "KS",
+	"latitude": 39.2341,
+	"longitude": -99.3009
+},
+{
+	"City": "Edgerton",
+	"State": "KS",
+	"latitude": 38.7717,
+	"longitude": -94.9705
+},
+{
+	"City": "Wellsville",
+	"State": "KS",
+	"latitude": 38.7166,
+	"longitude": -95.0806
+},
+{
+	"City": "Marion",
+	"State": "KS",
+	"latitude": 38.355,
+	"longitude": -97.0087
+},
+{
+	"City": "Humboldt",
+	"State": "KS",
+	"latitude": 37.8119,
+	"longitude": -95.437
+},
+{
+	"City": "WaKeeney",
+	"State": "KS",
+	"latitude": 39.0234,
+	"longitude": -99.8814
+},
+{
+	"City": "North Newton",
+	"State": "KS",
+	"latitude": 38.0767,
+	"longitude": -97.3475
+},
+{
+	"City": "Elkhart",
+	"State": "KS",
+	"latitude": 37.0038,
+	"longitude": -101.8944
+},
+{
+	"City": "Syracuse",
+	"State": "KS",
+	"latitude": 37.9619,
+	"longitude": -101.7782
+},
+{
+	"City": "Oberlin",
+	"State": "KS",
+	"latitude": 39.823,
+	"longitude": -100.5308
+},
+{
+	"City": "Horton",
+	"State": "KS",
+	"latitude": 39.6627,
+	"longitude": -95.5327
+},
+{
+	"City": "Oswego",
+	"State": "KS",
+	"latitude": 37.1673,
+	"longitude": -95.1122
+},
+{
+	"City": "Sedgwick",
+	"State": "KS",
+	"latitude": 37.9157,
+	"longitude": -97.4215
+},
+{
+	"City": "Douglass",
+	"State": "KS",
+	"latitude": 37.5169,
+	"longitude": -97.0105
+},
+{
+	"City": "Westwood",
+	"State": "KS",
+	"latitude": 39.0394,
+	"longitude": -94.6156
+},
+{
+	"City": "Smith Center",
+	"State": "KS",
+	"latitude": 39.7748,
+	"longitude": -98.783
+},
+{
+	"City": "Belle Plaine",
+	"State": "KS",
+	"latitude": 37.3934,
+	"longitude": -97.2796
+},
+{
+	"City": "McConnell AFB",
+	"State": "KS",
+	"latitude": 37.6249,
+	"longitude": -97.26
+},
+{
+	"City": "Grandview Plaza",
+	"State": "KS",
+	"latitude": 39.0327,
+	"longitude": -96.793
+},
+{
+	"City": "Meade",
+	"State": "KS",
+	"latitude": 37.2836,
+	"longitude": -100.343
+},
+{
+	"City": "Colwich",
+	"State": "KS",
+	"latitude": 37.7818,
+	"longitude": -97.5362
+},
+{
+	"City": "Towanda",
+	"State": "KS",
+	"latitude": 37.7954,
+	"longitude": -96.9963
+},
+{
+	"City": "Leoti",
+	"State": "KS",
+	"latitude": 38.4834,
+	"longitude": -101.3579
+},
+{
+	"City": "Arma",
+	"State": "KS",
+	"latitude": 37.543,
+	"longitude": -94.7024
+},
+{
+	"City": "Hill City",
+	"State": "KS",
+	"latitude": 39.3671,
+	"longitude": -99.8461
+},
+{
+	"City": "Silver Lake",
+	"State": "KS",
+	"latitude": 39.0993,
+	"longitude": -95.8564
+},
+{
+	"City": "Carbondale",
+	"State": "KS",
+	"latitude": 38.8192,
+	"longitude": -95.6932
+},
+{
+	"City": "Kinsley",
+	"State": "KS",
+	"latitude": 37.9224,
+	"longitude": -99.4114
+},
+{
+	"City": "Johnson City",
+	"State": "KS",
+	"latitude": 37.5703,
+	"longitude": -101.7447
+},
+{
+	"City": "Chapman",
+	"State": "KS",
+	"latitude": 38.9746,
+	"longitude": -97.0236
+},
+{
+	"City": "Sublette",
+	"State": "KS",
+	"latitude": 37.4822,
+	"longitude": -100.8465
+},
+{
+	"City": "Inman",
+	"State": "KS",
+	"latitude": 38.2323,
+	"longitude": -97.7714
+},
+{
+	"City": "Yates Center",
+	"State": "KS",
+	"latitude": 37.868,
+	"longitude": -95.7535
+},
+{
+	"City": "Harper",
+	"State": "KS",
+	"latitude": 37.285,
+	"longitude": -98.0277
+},
+{
+	"City": "Ness City",
+	"State": "KS",
+	"latitude": 38.454,
+	"longitude": -99.9047
+},
+{
+	"City": "Wathena",
+	"State": "KS",
+	"latitude": 39.7602,
+	"longitude": -94.9396
+},
+{
+	"City": "St. Francis",
+	"State": "KS",
+	"latitude": 39.7714,
+	"longitude": -101.8015
+},
+{
+	"City": "Buhler",
+	"State": "KS",
+	"latitude": 38.1383,
+	"longitude": -97.7704
+},
+{
+	"City": "Osborne",
+	"State": "KS",
+	"latitude": 39.4405,
+	"longitude": -98.6994
+},
+{
+	"City": "Stockton",
+	"State": "KS",
+	"latitude": 39.4251,
+	"longitude": -99.2764
+},
+{
+	"City": "La Crosse",
+	"State": "KS",
+	"latitude": 38.5318,
+	"longitude": -99.3095
+},
+{
+	"City": "Conway Springs",
+	"State": "KS",
+	"latitude": 37.3899,
+	"longitude": -97.643
+},
+{
+	"City": "Atwood",
+	"State": "KS",
+	"latitude": 39.8103,
+	"longitude": -101.0418
+},
+{
+	"City": "Victoria",
+	"State": "KS",
+	"latitude": 38.8538,
+	"longitude": -99.1473
+},
+{
+	"City": "Auburn",
+	"State": "KS",
+	"latitude": 38.9077,
+	"longitude": -95.8158
+},
+{
+	"City": "Hoxie",
+	"State": "KS",
+	"latitude": 39.3558,
+	"longitude": -100.4397
+},
+{
+	"City": "Elwood",
+	"State": "KS",
+	"latitude": 39.7518,
+	"longitude": -94.8889
+},
+{
+	"City": "Haven",
+	"State": "KS",
+	"latitude": 37.9016,
+	"longitude": -97.7831
+},
+{
+	"City": "Lincoln Center",
+	"State": "KS",
+	"latitude": 39.0429,
+	"longitude": -98.1468
+},
+{
+	"City": "St. John",
+	"State": "KS",
+	"latitude": 38,
+	"longitude": -98.7611
+},
+{
+	"City": "Pleasanton",
+	"State": "KS",
+	"latitude": 38.179,
+	"longitude": -94.7053
+},
+{
+	"City": "Valley Falls",
+	"State": "KS",
+	"latitude": 39.3408,
+	"longitude": -95.4612
+},
+{
+	"City": "Satanta",
+	"State": "KS",
+	"latitude": 37.4378,
+	"longitude": -100.988
+},
+{
+	"City": "Rossville",
+	"State": "KS",
+	"latitude": 39.1358,
+	"longitude": -95.9496
+},
+{
+	"City": "La Cygne",
+	"State": "KS",
+	"latitude": 38.3479,
+	"longitude": -94.7613
+},
+{
+	"City": "Peabody",
+	"State": "KS",
+	"latitude": 38.1683,
+	"longitude": -97.1043
+},
+{
+	"City": "Erie",
+	"State": "KS",
+	"latitude": 37.5717,
+	"longitude": -95.2418
+},
+{
+	"City": "Washington",
+	"State": "KS",
+	"latitude": 39.816,
+	"longitude": -97.0486
+},
+{
+	"City": "Quinter",
+	"State": "KS",
+	"latitude": 39.0666,
+	"longitude": -100.2347
+},
+{
+	"City": "Oskaloosa",
+	"State": "KS",
+	"latitude": 39.2158,
+	"longitude": -95.3145
+},
+{
+	"City": "Overbrook",
+	"State": "KS",
+	"latitude": 38.7794,
+	"longitude": -95.557
+},
+{
+	"City": "Lyndon",
+	"State": "KS",
+	"latitude": 38.6118,
+	"longitude": -95.6844
+},
+{
+	"City": "Plains",
+	"State": "KS",
+	"latitude": 37.2642,
+	"longitude": -100.5898
+},
+{
+	"City": "Altamont",
+	"State": "KS",
+	"latitude": 37.1876,
+	"longitude": -95.2897
+},
+{
+	"City": "Chetopa",
+	"State": "KS",
+	"latitude": 37.0376,
+	"longitude": -95.0926
+},
+{
+	"City": "Solomon",
+	"State": "KS",
+	"latitude": 38.9215,
+	"longitude": -97.3692
+},
+{
+	"City": "Oxford",
+	"State": "KS",
+	"latitude": 37.2741,
+	"longitude": -97.1695
+},
+{
+	"City": "Nickerson",
+	"State": "KS",
+	"latitude": 38.1489,
+	"longitude": -98.0883
+},
+{
+	"City": "Sedan",
+	"State": "KS",
+	"latitude": 37.1284,
+	"longitude": -96.1849
+},
+{
+	"City": "St. George",
+	"State": "KS",
+	"latitude": 39.1916,
+	"longitude": -96.4186
+},
+{
+	"City": "Highland",
+	"State": "KS",
+	"latitude": 39.8603,
+	"longitude": -95.2649
+},
+{
+	"City": "Andale",
+	"State": "KS",
+	"latitude": 37.7914,
+	"longitude": -97.6273
+},
+{
+	"City": "Caldwell",
+	"State": "KS",
+	"latitude": 37.0349,
+	"longitude": -97.6089
+},
+{
+	"City": "Montezuma",
+	"State": "KS",
+	"latitude": 37.5923,
+	"longitude": -100.4502
+},
+{
+	"City": "Blue Rapids",
+	"State": "KS",
+	"latitude": 39.6791,
+	"longitude": -96.6593
+},
+{
+	"City": "Troy",
+	"State": "KS",
+	"latitude": 39.7846,
+	"longitude": -95.0936
+},
+{
+	"City": "Riley",
+	"State": "KS",
+	"latitude": 39.299,
+	"longitude": -96.8276
+},
+{
+	"City": "Stafford",
+	"State": "KS",
+	"latitude": 37.9624,
+	"longitude": -98.5995
+},
+{
+	"City": "Lake Quivira",
+	"State": "KS",
+	"latitude": 39.0388,
+	"longitude": -94.7688
+},
+{
+	"City": "Kiowa",
+	"State": "KS",
+	"latitude": 37.0174,
+	"longitude": -98.4848
+},
+{
+	"City": "Wakefield",
+	"State": "KS",
+	"latitude": 39.2163,
+	"longitude": -97.0187
+},
+{
+	"City": "Perry",
+	"State": "KS",
+	"latitude": 39.0731,
+	"longitude": -95.3866
+},
+{
+	"City": "Garden Plain",
+	"State": "KS",
+	"latitude": 37.663,
+	"longitude": -97.6789
+},
+{
+	"City": "Dighton",
+	"State": "KS",
+	"latitude": 38.481,
+	"longitude": -100.4664
+},
+{
+	"City": "Burlingame",
+	"State": "KS",
+	"latitude": 38.7518,
+	"longitude": -95.8349
+},
+{
+	"City": "Lebo",
+	"State": "KS",
+	"latitude": 38.4157,
+	"longitude": -95.8623
+},
+{
+	"City": "Americus",
+	"State": "KS",
+	"latitude": 38.5066,
+	"longitude": -96.2616
+},
+{
+	"City": "Galva",
+	"State": "KS",
+	"latitude": 38.3836,
+	"longitude": -97.538
+},
+{
+	"City": "Benton",
+	"State": "KS",
+	"latitude": 37.7881,
+	"longitude": -97.1077
+},
+{
+	"City": "Linn Valley",
+	"State": "KS",
+	"latitude": 38.3758,
+	"longitude": -94.712
+},
+{
+	"City": "Cottonwood Falls",
+	"State": "KS",
+	"latitude": 38.3684,
+	"longitude": -96.5426
+},
+{
+	"City": "Burrton",
+	"State": "KS",
+	"latitude": 38.0237,
+	"longitude": -97.6715
+},
+{
+	"City": "McLouth",
+	"State": "KS",
+	"latitude": 39.1961,
+	"longitude": -95.2083
+},
+{
+	"City": "Pomona",
+	"State": "KS",
+	"latitude": 38.6099,
+	"longitude": -95.4523
+},
+{
+	"City": "Mankato",
+	"State": "KS",
+	"latitude": 39.7871,
+	"longitude": -98.2083
+},
+{
+	"City": "Downs",
+	"State": "KS",
+	"latitude": 39.5045,
+	"longitude": -98.5472
+},
+{
+	"City": "Jetmore",
+	"State": "KS",
+	"latitude": 38.0304,
+	"longitude": -99.9101
+},
+{
+	"City": "Mount Hope",
+	"State": "KS",
+	"latitude": 37.8735,
+	"longitude": -97.6619
+},
+{
+	"City": "Vassar",
+	"State": "KS",
+	"latitude": 38.6495,
+	"longitude": -95.6114
+},
+{
+	"City": "Enterprise",
+	"State": "KS",
+	"latitude": 38.9029,
+	"longitude": -97.1162
+},
+{
+	"City": "Spearville",
+	"State": "KS",
+	"latitude": 37.8481,
+	"longitude": -99.7548
+},
+{
+	"City": "Meriden",
+	"State": "KS",
+	"latitude": 39.1897,
+	"longitude": -95.5679
+},
+{
+	"City": "Alma",
+	"State": "KS",
+	"latitude": 39.0151,
+	"longitude": -96.2873
+},
+{
+	"City": "Greensburg",
+	"State": "KS",
+	"latitude": 37.6049,
+	"longitude": -99.2896
+},
+{
+	"City": "Ashland",
+	"State": "KS",
+	"latitude": 37.1866,
+	"longitude": -99.7697
+},
+{
+	"City": "Bucklin",
+	"State": "KS",
+	"latitude": 37.5488,
+	"longitude": -99.6344
+},
+{
+	"City": "Sharon Springs",
+	"State": "KS",
+	"latitude": 38.8943,
+	"longitude": -101.7512
+},
+{
+	"City": "Tribune",
+	"State": "KS",
+	"latitude": 38.472,
+	"longitude": -101.7545
+},
+{
+	"City": "Westmoreland",
+	"State": "KS",
+	"latitude": 39.3941,
+	"longitude": -96.4137
+},
+{
+	"City": "Riverton",
+	"State": "KS",
+	"latitude": 37.0733,
+	"longitude": -94.706
+},
+{
+	"City": "Coldwater",
+	"State": "KS",
+	"latitude": 37.2582,
+	"longitude": -99.3378
+},
+{
+	"City": "Leon",
+	"State": "KS",
+	"latitude": 37.6898,
+	"longitude": -96.7836
+},
+{
+	"City": "Eastborough",
+	"State": "KS",
+	"latitude": 37.6856,
+	"longitude": -97.2592
+},
+{
+	"City": "Wilson",
+	"State": "KS",
+	"latitude": 38.8255,
+	"longitude": -98.4749
+},
+{
+	"City": "Whitewater",
+	"State": "KS",
+	"latitude": 37.9636,
+	"longitude": -97.146
+},
+{
+	"City": "Cherokee",
+	"State": "KS",
+	"latitude": 37.3451,
+	"longitude": -94.8215
+},
+{
+	"City": "Udall",
+	"State": "KS",
+	"latitude": 37.3889,
+	"longitude": -97.1177
+},
+{
+	"City": "Frankfort",
+	"State": "KS",
+	"latitude": 39.704,
+	"longitude": -96.417
+},
+{
+	"City": "Canton",
+	"State": "KS",
+	"latitude": 38.3859,
+	"longitude": -97.43
+},
+{
+	"City": "Deerfield",
+	"State": "KS",
+	"latitude": 37.9818,
+	"longitude": -101.1331
+},
+{
+	"City": "Scranton",
+	"State": "KS",
+	"latitude": 38.7778,
+	"longitude": -95.7402
+},
+{
+	"City": "Onaga",
+	"State": "KS",
+	"latitude": 39.4892,
+	"longitude": -96.1703
+},
+{
+	"City": "Minneola",
+	"State": "KS",
+	"latitude": 37.4421,
+	"longitude": -100.0131
+},
+{
+	"City": "Mound City",
+	"State": "KS",
+	"latitude": 38.1328,
+	"longitude": -94.8494
+},
+{
+	"City": "Haviland",
+	"State": "KS",
+	"latitude": 37.6174,
+	"longitude": -99.1059
+},
+{
+	"City": "Clyde",
+	"State": "KS",
+	"latitude": 39.5918,
+	"longitude": -97.4001
+},
+{
+	"City": "Lecompton",
+	"State": "KS",
+	"latitude": 39.0358,
+	"longitude": -95.3929
+},
+{
+	"City": "Pretty Prairie",
+	"State": "KS",
+	"latitude": 37.78,
+	"longitude": -98.0224
+},
+{
+	"City": "Hanover",
+	"State": "KS",
+	"latitude": 39.8935,
+	"longitude": -96.8753
+},
+{
+	"City": "Waterville",
+	"State": "KS",
+	"latitude": 39.6919,
+	"longitude": -96.7469
+},
+{
+	"City": "Weir",
+	"State": "KS",
+	"latitude": 37.3083,
+	"longitude": -94.7747
+},
+{
+	"City": "Hoyt",
+	"State": "KS",
+	"latitude": 39.2493,
+	"longitude": -95.7081
+},
+{
+	"City": "Ozawkie",
+	"State": "KS",
+	"latitude": 39.2354,
+	"longitude": -95.4659
+},
+{
+	"City": "Madison",
+	"State": "KS",
+	"latitude": 38.1335,
+	"longitude": -96.1372
+},
+{
+	"City": "Bennington",
+	"State": "KS",
+	"latitude": 39.0332,
+	"longitude": -97.5933
+},
+{
+	"City": "Nortonville",
+	"State": "KS",
+	"latitude": 39.4158,
+	"longitude": -95.3304
+},
+{
+	"City": "Howard",
+	"State": "KS",
+	"latitude": 37.4696,
+	"longitude": -96.2632
+},
+{
+	"City": "Maple Hill",
+	"State": "KS",
+	"latitude": 39.0856,
+	"longitude": -96.0281
+},
+{
+	"City": "Claflin",
+	"State": "KS",
+	"latitude": 38.5245,
+	"longitude": -98.5369
+},
+{
+	"City": "Marquette",
+	"State": "KS",
+	"latitude": 38.5555,
+	"longitude": -97.8344
+},
+{
+	"City": "St. Paul",
+	"State": "KS",
+	"latitude": 37.5186,
+	"longitude": -95.1742
+},
+{
+	"City": "Franklin",
+	"State": "KS",
+	"latitude": 37.523,
+	"longitude": -94.6994
+},
+{
+	"City": "White City",
+	"State": "KS",
+	"latitude": 38.7938,
+	"longitude": -96.7349
+},
+{
+	"City": "Chicopee",
+	"State": "KS",
+	"latitude": 37.3834,
+	"longitude": -94.7443
+},
+{
+	"City": "Attica",
+	"State": "KS",
+	"latitude": 37.2426,
+	"longitude": -98.2276
+},
+{
+	"City": "Waverly",
+	"State": "KS",
+	"latitude": 38.3964,
+	"longitude": -95.6048
+},
+{
+	"City": "LeRoy",
+	"State": "KS",
+	"latitude": 38.0863,
+	"longitude": -95.6331
+},
+{
+	"City": "Olpe",
+	"State": "KS",
+	"latitude": 38.2569,
+	"longitude": -96.1726
+},
+{
+	"City": "Logan",
+	"State": "KS",
+	"latitude": 39.6617,
+	"longitude": -99.5673
+},
+{
+	"City": "La Harpe",
+	"State": "KS",
+	"latitude": 37.9165,
+	"longitude": -95.3023
+},
+{
+	"City": "Macksville",
+	"State": "KS",
+	"latitude": 37.9572,
+	"longitude": -98.9688
+},
+{
+	"City": "Winchester",
+	"State": "KS",
+	"latitude": 39.3226,
+	"longitude": -95.2687
+},
+{
+	"City": "Burden",
+	"State": "KS",
+	"latitude": 37.315,
+	"longitude": -96.7554
+},
+{
+	"City": "Centralia",
+	"State": "KS",
+	"latitude": 39.7242,
+	"longitude": -96.1304
+},
+{
+	"City": "Little River",
+	"State": "KS",
+	"latitude": 38.3983,
+	"longitude": -98.0148
+},
+{
+	"City": "Effingham",
+	"State": "KS",
+	"latitude": 39.5226,
+	"longitude": -95.397
+},
+{
+	"City": "Mulberry",
+	"State": "KS",
+	"latitude": 37.5562,
+	"longitude": -94.6236
+},
+{
+	"City": "Fowler",
+	"State": "KS",
+	"latitude": 37.3827,
+	"longitude": -100.1956
+},
+{
+	"City": "Bentley",
+	"State": "KS",
+	"latitude": 37.8867,
+	"longitude": -97.5147
+},
+{
+	"City": "Milford",
+	"State": "KS",
+	"latitude": 39.1731,
+	"longitude": -96.9103
+},
+{
+	"City": "Moran",
+	"State": "KS",
+	"latitude": 37.9165,
+	"longitude": -95.1715
+},
+{
+	"City": "Cedar Vale",
+	"State": "KS",
+	"latitude": 37.1061,
+	"longitude": -96.5018
+},
+{
+	"City": "Clifton",
+	"State": "KS",
+	"latitude": 39.5681,
+	"longitude": -97.2807
+},
+{
+	"City": "Eskridge",
+	"State": "KS",
+	"latitude": 38.8595,
+	"longitude": -96.1049
+},
+{
+	"City": "Goessel",
+	"State": "KS",
+	"latitude": 38.2473,
+	"longitude": -97.3456
+},
+{
+	"City": "Gas",
+	"State": "KS",
+	"latitude": 37.9229,
+	"longitude": -95.3453
+},
+{
+	"City": "Miltonvale",
+	"State": "KS",
+	"latitude": 39.3497,
+	"longitude": -97.4524
+},
+{
+	"City": "Argonia",
+	"State": "KS",
+	"latitude": 37.2679,
+	"longitude": -97.7629
+},
+{
+	"City": "Thayer",
+	"State": "KS",
+	"latitude": 37.4851,
+	"longitude": -95.4845
+},
+{
+	"City": "Protection",
+	"State": "KS",
+	"latitude": 37.2004,
+	"longitude": -99.4808
+},
+{
+	"City": "Richmond",
+	"State": "KS",
+	"latitude": 38.4004,
+	"longitude": -95.2519
+},
+{
+	"City": "Strong City",
+	"State": "KS",
+	"latitude": 38.3956,
+	"longitude": -96.537
+},
+{
+	"City": "Glasco",
+	"State": "KS",
+	"latitude": 39.3609,
+	"longitude": -97.8371
+},
+{
+	"City": "Kanopolis",
+	"State": "KS",
+	"latitude": 38.7081,
+	"longitude": -98.1581
+},
+{
+	"City": "Arlington",
+	"State": "KS",
+	"latitude": 37.8963,
+	"longitude": -98.1781
+},
+{
+	"City": "Wilroads Gardens",
+	"State": "KS",
+	"latitude": 37.7153,
+	"longitude": -99.9269
+},
+{
+	"City": "Scammon",
+	"State": "KS",
+	"latitude": 37.278,
+	"longitude": -94.823
+},
+{
+	"City": "Norwich",
+	"State": "KS",
+	"latitude": 37.4573,
+	"longitude": -97.8478
+},
+{
+	"City": "Chase",
+	"State": "KS",
+	"latitude": 38.3553,
+	"longitude": -98.3489
+},
+{
+	"City": "Cunningham",
+	"State": "KS",
+	"latitude": 37.6447,
+	"longitude": -98.4311
+},
+{
+	"City": "Potwin",
+	"State": "KS",
+	"latitude": 37.9388,
+	"longitude": -97.0183
+},
+{
+	"City": "Kensington",
+	"State": "KS",
+	"latitude": 39.7667,
+	"longitude": -99.0329
+},
+{
+	"City": "Kismet",
+	"State": "KS",
+	"latitude": 37.2045,
+	"longitude": -100.7015
+},
+{
+	"City": "Florence",
+	"State": "KS",
+	"latitude": 38.2431,
+	"longitude": -96.9293
+},
+{
+	"City": "Cawker City",
+	"State": "KS",
+	"latitude": 39.5095,
+	"longitude": -98.4331
+},
+{
+	"City": "Bird City",
+	"State": "KS",
+	"latitude": 39.7495,
+	"longitude": -101.5328
+},
+{
+	"City": "Leonardville",
+	"State": "KS",
+	"latitude": 39.3641,
+	"longitude": -96.8596
+},
+{
+	"City": "Alta Vista",
+	"State": "KS",
+	"latitude": 38.8628,
+	"longitude": -96.4889
+},
+{
+	"City": "Glen Elder",
+	"State": "KS",
+	"latitude": 39.5002,
+	"longitude": -98.3067
+},
+{
+	"City": "Linwood",
+	"State": "KS",
+	"latitude": 39.0019,
+	"longitude": -95.0363
+},
+{
+	"City": "Lewis",
+	"State": "KS",
+	"latitude": 37.937,
+	"longitude": -99.2547
+},
+{
+	"City": "Parkerfield",
+	"State": "KS",
+	"latitude": 37.0678,
+	"longitude": -96.9957
+},
+{
+	"City": "Holyrood",
+	"State": "KS",
+	"latitude": 38.5876,
+	"longitude": -98.412
+},
+{
+	"City": "Colony",
+	"State": "KS",
+	"latitude": 38.0712,
+	"longitude": -95.3629
+},
+{
+	"City": "McCune",
+	"State": "KS",
+	"latitude": 37.3539,
+	"longitude": -95.019
+},
+{
+	"City": "Assaria",
+	"State": "KS",
+	"latitude": 38.6802,
+	"longitude": -97.604
+},
+{
+	"City": "Axtell",
+	"State": "KS",
+	"latitude": 39.8711,
+	"longitude": -96.2567
+},
+{
+	"City": "Jewell",
+	"State": "KS",
+	"latitude": 39.6716,
+	"longitude": -98.1524
+},
+{
+	"City": "Edna",
+	"State": "KS",
+	"latitude": 37.0587,
+	"longitude": -95.3592
+},
+{
+	"City": "Williamsburg",
+	"State": "KS",
+	"latitude": 38.4829,
+	"longitude": -95.4716
+},
+{
+	"City": "Westwood Hills",
+	"State": "KS",
+	"latitude": 39.0389,
+	"longitude": -94.6097
+},
+{
+	"City": "Lucas",
+	"State": "KS",
+	"latitude": 39.0585,
+	"longitude": -98.5379
+},
+{
+	"City": "Gypsum",
+	"State": "KS",
+	"latitude": 38.7058,
+	"longitude": -97.4266
+},
+{
+	"City": "Linn",
+	"State": "KS",
+	"latitude": 39.6794,
+	"longitude": -97.0867
+},
+{
+	"City": "New Strawn",
+	"State": "KS",
+	"latitude": 38.2622,
+	"longitude": -95.7423
+},
+{
+	"City": "Altoona",
+	"State": "KS",
+	"latitude": 37.525,
+	"longitude": -95.6614
+},
+{
+	"City": "Dearing",
+	"State": "KS",
+	"latitude": 37.0533,
+	"longitude": -95.6953
+},
+{
+	"City": "Almena",
+	"State": "KS",
+	"latitude": 39.8912,
+	"longitude": -99.7097
+},
+{
+	"City": "Quenemo",
+	"State": "KS",
+	"latitude": 38.5802,
+	"longitude": -95.5267
+},
+{
+	"City": "Melvern",
+	"State": "KS",
+	"latitude": 38.5073,
+	"longitude": -95.6378
+},
+{
+	"City": "Mound Valley",
+	"State": "KS",
+	"latitude": 37.2071,
+	"longitude": -95.4048
+},
+{
+	"City": "Turon",
+	"State": "KS",
+	"latitude": 37.8075,
+	"longitude": -98.4277
+},
+{
+	"City": "Hartford",
+	"State": "KS",
+	"latitude": 38.3084,
+	"longitude": -95.9566
+},
+{
+	"City": "Wetmore",
+	"State": "KS",
+	"latitude": 39.6357,
+	"longitude": -95.8112
+},
+{
+	"City": "Rolla",
+	"State": "KS",
+	"latitude": 37.1179,
+	"longitude": -101.6317
+},
+{
+	"City": "Lowell",
+	"State": "KS",
+	"latitude": 37.0509,
+	"longitude": -94.7032
+},
+{
+	"City": "South Haven",
+	"State": "KS",
+	"latitude": 37.0495,
+	"longitude": -97.4013
+},
+{
+	"City": "Mayetta",
+	"State": "KS",
+	"latitude": 39.3386,
+	"longitude": -95.7216
+},
+{
+	"City": "Scandia",
+	"State": "KS",
+	"latitude": 39.7969,
+	"longitude": -97.784
+},
+{
+	"City": "Gorham",
+	"State": "KS",
+	"latitude": 38.8806,
+	"longitude": -99.0237
+},
+{
+	"City": "Delphos",
+	"State": "KS",
+	"latitude": 39.2744,
+	"longitude": -97.7654
+},
+{
+	"City": "Hope",
+	"State": "KS",
+	"latitude": 38.6912,
+	"longitude": -97.0765
+},
+{
+	"City": "Gridley",
+	"State": "KS",
+	"latitude": 38.1006,
+	"longitude": -95.8827
+},
+{
+	"City": "Moline",
+	"State": "KS",
+	"latitude": 37.3637,
+	"longitude": -96.3025
+},
+{
+	"City": "Bucyrus",
+	"State": "KS",
+	"latitude": 38.7237,
+	"longitude": -94.714
+},
+{
+	"City": "The Highlands",
+	"State": "KS",
+	"latitude": 38.1659,
+	"longitude": -97.9497
+},
+{
+	"City": "Hillsdale",
+	"State": "KS",
+	"latitude": 38.6597,
+	"longitude": -94.8569
+},
+{
+	"City": "Arcadia",
+	"State": "KS",
+	"latitude": 37.6409,
+	"longitude": -94.6239
+},
+{
+	"City": "Longton",
+	"State": "KS",
+	"latitude": 37.3779,
+	"longitude": -96.0821
+},
+{
+	"City": "Bronson",
+	"State": "KS",
+	"latitude": 37.8958,
+	"longitude": -95.0732
+},
+{
+	"City": "Greenleaf",
+	"State": "KS",
+	"latitude": 39.7272,
+	"longitude": -96.9801
+},
+{
+	"City": "Moscow",
+	"State": "KS",
+	"latitude": 37.3251,
+	"longitude": -101.2069
+},
+{
+	"City": "Copeland",
+	"State": "KS",
+	"latitude": 37.5404,
+	"longitude": -100.6288
+},
+{
+	"City": "Greeley",
+	"State": "KS",
+	"latitude": 38.3676,
+	"longitude": -95.1271
+},
+{
+	"City": "Natoma",
+	"State": "KS",
+	"latitude": 39.1884,
+	"longitude": -99.0242
+},
+{
+	"City": "Elk City",
+	"State": "KS",
+	"latitude": 37.2896,
+	"longitude": -95.9099
+},
+{
+	"City": "Bazine",
+	"State": "KS",
+	"latitude": 38.4462,
+	"longitude": -99.693
+},
+{
+	"City": "Brewster",
+	"State": "KS",
+	"latitude": 39.3631,
+	"longitude": -101.3771
+},
+{
+	"City": "Tescott",
+	"State": "KS",
+	"latitude": 39.013,
+	"longitude": -97.8781
+},
+{
+	"City": "Ingalls",
+	"State": "KS",
+	"latitude": 37.8286,
+	"longitude": -100.4534
+},
+{
+	"City": "Lancaster",
+	"State": "KS",
+	"latitude": 39.571,
+	"longitude": -95.3037
+},
+{
+	"City": "Dexter",
+	"State": "KS",
+	"latitude": 37.1795,
+	"longitude": -96.7161
+},
+{
+	"City": "Everest",
+	"State": "KS",
+	"latitude": 39.6766,
+	"longitude": -95.4254
+},
+{
+	"City": "Blue Mound",
+	"State": "KS",
+	"latitude": 38.089,
+	"longitude": -95.01
+},
+{
+	"City": "Princeton",
+	"State": "KS",
+	"latitude": 38.4876,
+	"longitude": -95.2703
+},
+{
+	"City": "Prescott",
+	"State": "KS",
+	"latitude": 38.0632,
+	"longitude": -94.6928
+},
+{
+	"City": "Palco",
+	"State": "KS",
+	"latitude": 39.2532,
+	"longitude": -99.5634
+},
+{
+	"City": "Parker",
+	"State": "KS",
+	"latitude": 38.3285,
+	"longitude": -94.9899
+},
+{
+	"City": "Sylvan Grove",
+	"State": "KS",
+	"latitude": 39.0122,
+	"longitude": -98.3943
+},
+{
+	"City": "Uniontown",
+	"State": "KS",
+	"latitude": 37.8472,
+	"longitude": -94.9756
+},
+{
+	"City": "Courtland",
+	"State": "KS",
+	"latitude": 39.7832,
+	"longitude": -97.8963
+},
+{
+	"City": "Toronto",
+	"State": "KS",
+	"latitude": 37.7985,
+	"longitude": -95.9498
+},
+{
+	"City": "Jamestown",
+	"State": "KS",
+	"latitude": 39.5996,
+	"longitude": -97.8613
+},
+{
+	"City": "Neosho Rapids",
+	"State": "KS",
+	"latitude": 38.3684,
+	"longitude": -95.9915
+},
+{
+	"City": "Ransom",
+	"State": "KS",
+	"latitude": 38.6366,
+	"longitude": -99.9328
+},
+{
+	"City": "Otis",
+	"State": "KS",
+	"latitude": 38.5348,
+	"longitude": -99.0534
+},
+{
+	"City": "Dwight",
+	"State": "KS",
+	"latitude": 38.8449,
+	"longitude": -96.5921
+},
+{
+	"City": "Easton",
+	"State": "KS",
+	"latitude": 39.345,
+	"longitude": -95.1171
+},
+{
+	"City": "Geneseo",
+	"State": "KS",
+	"latitude": 38.517,
+	"longitude": -98.1545
+},
+{
+	"City": "Bushton",
+	"State": "KS",
+	"latitude": 38.5124,
+	"longitude": -98.3959
+},
+{
+	"City": "Brookville",
+	"State": "KS",
+	"latitude": 38.7736,
+	"longitude": -97.8645
+},
+{
+	"City": "Fairview",
+	"State": "KS",
+	"latitude": 39.8394,
+	"longitude": -95.7283
+},
+{
+	"City": "Harveyville",
+	"State": "KS",
+	"latitude": 38.7894,
+	"longitude": -95.9626
+},
+{
+	"City": "McFarland",
+	"State": "KS",
+	"latitude": 39.0545,
+	"longitude": -96.2381
+},
+{
+	"City": "Grainfield",
+	"State": "KS",
+	"latitude": 39.1143,
+	"longitude": -100.4684
+},
+{
+	"City": "Hamilton",
+	"State": "KS",
+	"latitude": 37.9806,
+	"longitude": -96.1639
+},
+{
+	"City": "Mullinville",
+	"State": "KS",
+	"latitude": 37.5886,
+	"longitude": -99.4756
+},
+{
+	"City": "Agra",
+	"State": "KS",
+	"latitude": 39.7613,
+	"longitude": -99.1194
+},
+{
+	"City": "Partridge",
+	"State": "KS",
+	"latitude": 37.9668,
+	"longitude": -98.0922
+},
+{
+	"City": "Fontana",
+	"State": "KS",
+	"latitude": 38.4239,
+	"longitude": -94.8442
+},
+{
+	"City": "Walton",
+	"State": "KS",
+	"latitude": 38.1193,
+	"longitude": -97.2582
+},
+{
+	"City": "Bison",
+	"State": "KS",
+	"latitude": 38.5199,
+	"longitude": -99.1979
+},
+{
+	"City": "Severy",
+	"State": "KS",
+	"latitude": 37.6219,
+	"longitude": -96.2275
+},
+{
+	"City": "Pawnee Rock",
+	"State": "KS",
+	"latitude": 38.2649,
+	"longitude": -98.9823
+},
+{
+	"City": "Lenora",
+	"State": "KS",
+	"latitude": 39.6109,
+	"longitude": -100.0015
+},
+{
+	"City": "Grinnell",
+	"State": "KS",
+	"latitude": 39.1266,
+	"longitude": -100.6311
+},
+{
+	"City": "Walnut",
+	"State": "KS",
+	"latitude": 37.6018,
+	"longitude": -95.0742
+},
+{
+	"City": "Morrill",
+	"State": "KS",
+	"latitude": 39.9293,
+	"longitude": -95.6944
+},
+{
+	"City": "Reading",
+	"State": "KS",
+	"latitude": 38.5191,
+	"longitude": -95.9572
+},
+{
+	"City": "Elbing",
+	"State": "KS",
+	"latitude": 38.0534,
+	"longitude": -97.1283
+},
+{
+	"City": "Wakarusa",
+	"State": "KS",
+	"latitude": 38.8911,
+	"longitude": -95.6999
+},
+{
+	"City": "Louisville",
+	"State": "KS",
+	"latitude": 39.2499,
+	"longitude": -96.3145
+},
+{
+	"City": "Rexford",
+	"State": "KS",
+	"latitude": 39.4705,
+	"longitude": -100.744
+},
+{
+	"City": "Robinson",
+	"State": "KS",
+	"latitude": 39.8153,
+	"longitude": -95.4114
+},
+{
+	"City": "Lane",
+	"State": "KS",
+	"latitude": 38.4397,
+	"longitude": -95.0818
+},
+{
+	"City": "Healy",
+	"State": "KS",
+	"latitude": 38.603,
+	"longitude": -100.6176
+},
+{
+	"City": "Burdett",
+	"State": "KS",
+	"latitude": 38.1935,
+	"longitude": -99.5264
+},
+{
+	"City": "Olsburg",
+	"State": "KS",
+	"latitude": 39.4319,
+	"longitude": -96.6148
+},
+{
+	"City": "Ford",
+	"State": "KS",
+	"latitude": 37.6366,
+	"longitude": -99.7538
+},
+{
+	"City": "Paxico",
+	"State": "KS",
+	"latitude": 39.0689,
+	"longitude": -96.167
+},
+{
+	"City": "Selden",
+	"State": "KS",
+	"latitude": 39.5417,
+	"longitude": -100.5669
+},
+{
+	"City": "Burns",
+	"State": "KS",
+	"latitude": 38.0897,
+	"longitude": -96.8877
+},
+{
+	"City": "Buffalo",
+	"State": "KS",
+	"latitude": 37.7091,
+	"longitude": -95.6969
+},
+{
+	"City": "Schoenchen",
+	"State": "KS",
+	"latitude": 38.713,
+	"longitude": -99.3324
+},
+{
+	"City": "Sylvia",
+	"State": "KS",
+	"latitude": 37.9589,
+	"longitude": -98.4085
+},
+{
+	"City": "Smolan",
+	"State": "KS",
+	"latitude": 38.7383,
+	"longitude": -97.6845
+},
+{
+	"City": "Hanston",
+	"State": "KS",
+	"latitude": 38.1231,
+	"longitude": -99.7127
+},
+{
+	"City": "Grantville",
+	"State": "KS",
+	"latitude": 39.0807,
+	"longitude": -95.5569
+},
+{
+	"City": "Baileyville",
+	"State": "KS",
+	"latitude": 39.8419,
+	"longitude": -96.1828
+},
+{
+	"City": "Belvue",
+	"State": "KS",
+	"latitude": 39.2165,
+	"longitude": -96.179
+},
+{
+	"City": "Lebanon",
+	"State": "KS",
+	"latitude": 39.8102,
+	"longitude": -98.5573
+},
+{
+	"City": "Tyro",
+	"State": "KS",
+	"latitude": 37.0375,
+	"longitude": -95.8212
+},
+{
+	"City": "Munjor",
+	"State": "KS",
+	"latitude": 38.8089,
+	"longitude": -99.2674
+},
+{
+	"City": "Mission Woods",
+	"State": "KS",
+	"latitude": 39.0342,
+	"longitude": -94.6107
+},
+{
+	"City": "Lincolnville",
+	"State": "KS",
+	"latitude": 38.4943,
+	"longitude": -96.9614
+},
+{
+	"City": "Tipton",
+	"State": "KS",
+	"latitude": 39.3395,
+	"longitude": -98.4709
+},
+{
+	"City": "Morganville",
+	"State": "KS",
+	"latitude": 39.4666,
+	"longitude": -97.2038
+},
+{
+	"City": "Beattie",
+	"State": "KS",
+	"latitude": 39.8624,
+	"longitude": -96.4178
+},
+{
+	"City": "Grenola",
+	"State": "KS",
+	"latitude": 37.3505,
+	"longitude": -96.4494
+},
+{
+	"City": "Emmett",
+	"State": "KS",
+	"latitude": 39.3073,
+	"longitude": -96.0576
+},
+{
+	"City": "Rantoul",
+	"State": "KS",
+	"latitude": 38.5483,
+	"longitude": -95.1012
+},
+{
+	"City": "Milton",
+	"State": "KS",
+	"latitude": 37.4432,
+	"longitude": -97.7694
+},
+{
+	"City": "Luray",
+	"State": "KS",
+	"latitude": 39.1151,
+	"longitude": -98.6922
+},
+{
+	"City": "Offerle",
+	"State": "KS",
+	"latitude": 37.8907,
+	"longitude": -99.5604
+},
+{
+	"City": "Ensign",
+	"State": "KS",
+	"latitude": 37.6531,
+	"longitude": -100.2329
+},
+{
+	"City": "Whiting",
+	"State": "KS",
+	"latitude": 39.5879,
+	"longitude": -95.6112
+},
+{
+	"City": "Atlanta",
+	"State": "KS",
+	"latitude": 37.4358,
+	"longitude": -96.767
+},
+{
+	"City": "Dorrance",
+	"State": "KS",
+	"latitude": 38.8469,
+	"longitude": -98.59
+},
+{
+	"City": "Yoder",
+	"State": "KS",
+	"latitude": 37.9454,
+	"longitude": -97.8681
+},
+{
+	"City": "Detroit",
+	"State": "KS",
+	"latitude": 38.9358,
+	"longitude": -97.1247
+},
+{
+	"City": "Ramona",
+	"State": "KS",
+	"latitude": 38.5979,
+	"longitude": -97.0638
+},
+{
+	"City": "Denison",
+	"State": "KS",
+	"latitude": 39.3938,
+	"longitude": -95.6285
+},
+{
+	"City": "Geuda Springs",
+	"State": "KS",
+	"latitude": 37.1116,
+	"longitude": -97.1504
+},
+{
+	"City": "McCracken",
+	"State": "KS",
+	"latitude": 38.5821,
+	"longitude": -99.5684
+},
+{
+	"City": "Delia",
+	"State": "KS",
+	"latitude": 39.2394,
+	"longitude": -95.965
+},
+{
+	"City": "Allen",
+	"State": "KS",
+	"latitude": 38.6552,
+	"longitude": -96.1696
+},
+{
+	"City": "West Mineral",
+	"State": "KS",
+	"latitude": 37.2839,
+	"longitude": -94.9266
+},
+{
+	"City": "Garfield",
+	"State": "KS",
+	"latitude": 38.077,
+	"longitude": -99.2445
+},
+{
+	"City": "Lehigh",
+	"State": "KS",
+	"latitude": 38.3745,
+	"longitude": -97.3022
+},
+{
+	"City": "White Cloud",
+	"State": "KS",
+	"latitude": 39.9743,
+	"longitude": -95.2989
+},
+{
+	"City": "Fort Dodge",
+	"State": "KS",
+	"latitude": 37.7304,
+	"longitude": -99.937
+},
+{
+	"City": "Muscotah",
+	"State": "KS",
+	"latitude": 39.5535,
+	"longitude": -95.5204
+},
+{
+	"City": "Woodbine",
+	"State": "KS",
+	"latitude": 38.7956,
+	"longitude": -96.9594
+},
+{
+	"City": "Albert",
+	"State": "KS",
+	"latitude": 38.454,
+	"longitude": -99.0112
+},
+{
+	"City": "Bern",
+	"State": "KS",
+	"latitude": 39.9612,
+	"longitude": -95.9713
+},
+{
+	"City": "Corning",
+	"State": "KS",
+	"latitude": 39.6566,
+	"longitude": -96.0289
+},
+{
+	"City": "Westphalia",
+	"State": "KS",
+	"latitude": 38.1818,
+	"longitude": -95.4908
+},
+{
+	"City": "Burr Oak",
+	"State": "KS",
+	"latitude": 39.87,
+	"longitude": -98.3055
+},
+{
+	"City": "Circleville",
+	"State": "KS",
+	"latitude": 39.5095,
+	"longitude": -95.8555
+},
+{
+	"City": "Ada",
+	"State": "KS",
+	"latitude": 39.1622,
+	"longitude": -97.886
+},
+{
+	"City": "Winona",
+	"State": "KS",
+	"latitude": 39.0617,
+	"longitude": -101.2448
+},
+{
+	"City": "Hardtner",
+	"State": "KS",
+	"latitude": 37.0143,
+	"longitude": -98.6492
+},
+{
+	"City": "Kickapoo Tribal Center",
+	"State": "KS",
+	"latitude": 39.6723,
+	"longitude": -95.6452
+},
+{
+	"City": "McDonald",
+	"State": "KS",
+	"latitude": 39.7847,
+	"longitude": -101.3703
+},
+{
+	"City": "Rush Center",
+	"State": "KS",
+	"latitude": 38.4649,
+	"longitude": -99.3109
+},
+{
+	"City": "Randolph",
+	"State": "KS",
+	"latitude": 39.4289,
+	"longitude": -96.7598
+},
+{
+	"City": "Iuka",
+	"State": "KS",
+	"latitude": 37.729,
+	"longitude": -98.7327
+},
+{
+	"City": "Kirwin",
+	"State": "KS",
+	"latitude": 39.6698,
+	"longitude": -99.1217
+},
+{
+	"City": "Fulton",
+	"State": "KS",
+	"latitude": 38.0098,
+	"longitude": -94.7196
+},
+{
+	"City": "Havensville",
+	"State": "KS",
+	"latitude": 39.5114,
+	"longitude": -96.0763
+},
+{
+	"City": "Manter",
+	"State": "KS",
+	"latitude": 37.5243,
+	"longitude": -101.8839
+},
+{
+	"City": "Kanorado",
+	"State": "KS",
+	"latitude": 39.3365,
+	"longitude": -102.0372
+},
+{
+	"City": "Barnes",
+	"State": "KS",
+	"latitude": 39.7116,
+	"longitude": -96.8733
+},
+{
+	"City": "Admire",
+	"State": "KS",
+	"latitude": 38.641,
+	"longitude": -96.102
+},
+{
+	"City": "Beverly",
+	"State": "KS",
+	"latitude": 39.0138,
+	"longitude": -97.9755
+},
+{
+	"City": "Morrowville",
+	"State": "KS",
+	"latitude": 39.8453,
+	"longitude": -97.1727
+},
+{
+	"City": "Summerfield",
+	"State": "KS",
+	"latitude": 39.9968,
+	"longitude": -96.3493
+},
+{
+	"City": "Morland",
+	"State": "KS",
+	"latitude": 39.349,
+	"longitude": -100.0743
+},
+{
+	"City": "Preston",
+	"State": "KS",
+	"latitude": 37.7584,
+	"longitude": -98.5578
+},
+{
+	"City": "Fall River",
+	"State": "KS",
+	"latitude": 37.6078,
+	"longitude": -96.0285
+},
+{
+	"City": "Sharon",
+	"State": "KS",
+	"latitude": 37.2498,
+	"longitude": -98.4177
+},
+{
+	"City": "Cuba",
+	"State": "KS",
+	"latitude": 39.8023,
+	"longitude": -97.4576
+},
+{
+	"City": "Norcatur",
+	"State": "KS",
+	"latitude": 39.8347,
+	"longitude": -100.1888
+},
+{
+	"City": "Redfield",
+	"State": "KS",
+	"latitude": 37.8365,
+	"longitude": -94.882
+},
+{
+	"City": "Wilsey",
+	"State": "KS",
+	"latitude": 38.6357,
+	"longitude": -96.6765
+},
+{
+	"City": "Alden",
+	"State": "KS",
+	"latitude": 38.2438,
+	"longitude": -98.3117
+},
+{
+	"City": "Denton",
+	"State": "KS",
+	"latitude": 39.7319,
+	"longitude": -95.2696
+},
+{
+	"City": "Utica",
+	"State": "KS",
+	"latitude": 38.6427,
+	"longitude": -100.1698
+},
+{
+	"City": "Rozel",
+	"State": "KS",
+	"latitude": 38.1954,
+	"longitude": -99.4032
+},
+{
+	"City": "Latham",
+	"State": "KS",
+	"latitude": 37.5356,
+	"longitude": -96.6427
+},
+{
+	"City": "Weskan",
+	"State": "KS",
+	"latitude": 38.8652,
+	"longitude": -101.9681
+},
+{
+	"City": "Netawaka",
+	"State": "KS",
+	"latitude": 39.603,
+	"longitude": -95.7189
+},
+{
+	"City": "Neosho Falls",
+	"State": "KS",
+	"latitude": 38.0058,
+	"longitude": -95.5556
+},
+{
+	"City": "Bogue",
+	"State": "KS",
+	"latitude": 39.3595,
+	"longitude": -99.6874
+},
+{
+	"City": "Bendena",
+	"State": "KS",
+	"latitude": 39.7436,
+	"longitude": -95.1811
+},
+{
+	"City": "Soldier",
+	"State": "KS",
+	"latitude": 39.5371,
+	"longitude": -95.9656
+},
+{
+	"City": "Hepler",
+	"State": "KS",
+	"latitude": 37.6637,
+	"longitude": -94.9697
+},
+{
+	"City": "Sawyer",
+	"State": "KS",
+	"latitude": 37.4984,
+	"longitude": -98.6829
+},
+{
+	"City": "Herndon",
+	"State": "KS",
+	"latitude": 39.9092,
+	"longitude": -100.7865
+},
+{
+	"City": "Catharine",
+	"State": "KS",
+	"latitude": 38.9302,
+	"longitude": -99.2144
+},
+{
+	"City": "Woodston",
+	"State": "KS",
+	"latitude": 39.4539,
+	"longitude": -99.0983
+},
+{
+	"City": "Home",
+	"State": "KS",
+	"latitude": 39.8415,
+	"longitude": -96.5199
+},
+{
+	"City": "Viola",
+	"State": "KS",
+	"latitude": 37.4829,
+	"longitude": -97.6445
+},
+{
+	"City": "Lorraine",
+	"State": "KS",
+	"latitude": 38.569,
+	"longitude": -98.3173
+},
+{
+	"City": "New Cambria",
+	"State": "KS",
+	"latitude": 38.879,
+	"longitude": -97.5066
+},
+{
+	"City": "Damar",
+	"State": "KS",
+	"latitude": 39.3192,
+	"longitude": -99.5844
+},
+{
+	"City": "Hudson",
+	"State": "KS",
+	"latitude": 38.1047,
+	"longitude": -98.6605
+},
+{
+	"City": "Peru",
+	"State": "KS",
+	"latitude": 37.0803,
+	"longitude": -96.0962
+},
+{
+	"City": "Odin",
+	"State": "KS",
+	"latitude": 38.5654,
+	"longitude": -98.6087
+},
+{
+	"City": "Windom",
+	"State": "KS",
+	"latitude": 38.3842,
+	"longitude": -97.9102
+},
+{
+	"City": "Cassoday",
+	"State": "KS",
+	"latitude": 38.0386,
+	"longitude": -96.6386
+},
+{
+	"City": "Long Island",
+	"State": "KS",
+	"latitude": 39.9462,
+	"longitude": -99.534
+},
+{
+	"City": "Green",
+	"State": "KS",
+	"latitude": 39.43,
+	"longitude": -96.9998
+},
+{
+	"City": "Galesburg",
+	"State": "KS",
+	"latitude": 37.4721,
+	"longitude": -95.3563
+},
+{
+	"City": "Prairie View",
+	"State": "KS",
+	"latitude": 39.832,
+	"longitude": -99.5733
+},
+{
+	"City": "Goff",
+	"State": "KS",
+	"latitude": 39.6643,
+	"longitude": -95.9319
+},
+{
+	"City": "Kincaid",
+	"State": "KS",
+	"latitude": 38.0812,
+	"longitude": -95.1554
+},
+{
+	"City": "Culver",
+	"State": "KS",
+	"latitude": 38.9692,
+	"longitude": -97.7591
+},
+{
+	"City": "Park",
+	"State": "KS",
+	"latitude": 39.1117,
+	"longitude": -100.3616
+},
+{
+	"City": "Wheaton",
+	"State": "KS",
+	"latitude": 39.502,
+	"longitude": -96.3189
+},
+{
+	"City": "Talmage",
+	"State": "KS",
+	"latitude": 39.0269,
+	"longitude": -97.2598
+},
+{
+	"City": "Liberty",
+	"State": "KS",
+	"latitude": 37.1564,
+	"longitude": -95.5977
+},
+{
+	"City": "Durham",
+	"State": "KS",
+	"latitude": 38.4845,
+	"longitude": -97.2269
+},
+{
+	"City": "Rosalia",
+	"State": "KS",
+	"latitude": 37.8158,
+	"longitude": -96.625
+},
+{
+	"City": "Mayfield",
+	"State": "KS",
+	"latitude": 37.263,
+	"longitude": -97.5403
+},
+{
+	"City": "Republic",
+	"State": "KS",
+	"latitude": 39.9239,
+	"longitude": -97.8245
+},
+{
+	"City": "Gaylord",
+	"State": "KS",
+	"latitude": 39.6463,
+	"longitude": -98.8473
+},
+{
+	"City": "Havana",
+	"State": "KS",
+	"latitude": 37.0921,
+	"longitude": -95.9419
+},
+{
+	"City": "Olmitz",
+	"State": "KS",
+	"latitude": 38.5164,
+	"longitude": -98.9367
+},
+{
+	"City": "Palmer",
+	"State": "KS",
+	"latitude": 39.6333,
+	"longitude": -97.1399
+},
+{
+	"City": "Savonburg",
+	"State": "KS",
+	"latitude": 37.7489,
+	"longitude": -95.1429
+},
+{
+	"City": "Vermillion",
+	"State": "KS",
+	"latitude": 39.7181,
+	"longitude": -96.2656
+},
+{
+	"City": "Tampa",
+	"State": "KS",
+	"latitude": 38.5481,
+	"longitude": -97.1543
+},
+{
+	"City": "Collyer",
+	"State": "KS",
+	"latitude": 39.0375,
+	"longitude": -100.1183
+},
+{
+	"City": "Plevna",
+	"State": "KS",
+	"latitude": 37.9717,
+	"longitude": -98.3095
+},
+{
+	"City": "Cullison",
+	"State": "KS",
+	"latitude": 37.6303,
+	"longitude": -98.9054
+},
+{
+	"City": "Wright",
+	"State": "KS",
+	"latitude": 37.7753,
+	"longitude": -99.8905
+},
+{
+	"City": "Manchester",
+	"State": "KS",
+	"latitude": 39.0933,
+	"longitude": -97.3201
+},
+{
+	"City": "Haddam",
+	"State": "KS",
+	"latitude": 39.8554,
+	"longitude": -97.3044
+},
+{
+	"City": "Bunker Hill",
+	"State": "KS",
+	"latitude": 38.8753,
+	"longitude": -98.6989
+},
+{
+	"City": "Liebenthal",
+	"State": "KS",
+	"latitude": 38.6545,
+	"longitude": -99.32
+},
+{
+	"City": "Zurich",
+	"State": "KS",
+	"latitude": 39.2322,
+	"longitude": -99.4347
+},
+{
+	"City": "Elk Falls",
+	"State": "KS",
+	"latitude": 37.3733,
+	"longitude": -96.1934
+},
+{
+	"City": "Munden",
+	"State": "KS",
+	"latitude": 39.9126,
+	"longitude": -97.5385
+},
+{
+	"City": "Jennings",
+	"State": "KS",
+	"latitude": 39.6806,
+	"longitude": -100.2933
+},
+{
+	"City": "Esbon",
+	"State": "KS",
+	"latitude": 39.8218,
+	"longitude": -98.4337
+},
+{
+	"City": "Alton",
+	"State": "KS",
+	"latitude": 39.4678,
+	"longitude": -98.9486
+},
+{
+	"City": "Chautauqua",
+	"State": "KS",
+	"latitude": 37.0241,
+	"longitude": -96.1776
+},
+{
+	"City": "Portis",
+	"State": "KS",
+	"latitude": 39.5638,
+	"longitude": -98.6916
+},
+{
+	"City": "Willard",
+	"State": "KS",
+	"latitude": 39.094,
+	"longitude": -95.9427
+},
+{
+	"City": "Severance",
+	"State": "KS",
+	"latitude": 39.7668,
+	"longitude": -95.2492
+},
+{
+	"City": "Glade",
+	"State": "KS",
+	"latitude": 39.6837,
+	"longitude": -99.3116
+},
+{
+	"City": "Coolidge",
+	"State": "KS",
+	"latitude": 38.0415,
+	"longitude": -102.0079
+},
+{
+	"City": "Hazelton",
+	"State": "KS",
+	"latitude": 37.0894,
+	"longitude": -98.4015
+},
+{
+	"City": "Narka",
+	"State": "KS",
+	"latitude": 39.9598,
+	"longitude": -97.4266
+},
+{
+	"City": "Formoso",
+	"State": "KS",
+	"latitude": 39.7784,
+	"longitude": -97.9927
+},
+{
+	"City": "Gem",
+	"State": "KS",
+	"latitude": 39.426,
+	"longitude": -100.8973
+},
+{
+	"City": "Abbyville",
+	"State": "KS",
+	"latitude": 37.9704,
+	"longitude": -98.2028
+},
+{
+	"City": "Willowbrook",
+	"State": "KS",
+	"latitude": 38.1011,
+	"longitude": -97.992
+},
+{
+	"City": "Falun",
+	"State": "KS",
+	"latitude": 38.6747,
+	"longitude": -97.751
+},
+{
+	"City": "Cambridge",
+	"State": "KS",
+	"latitude": 37.3178,
+	"longitude": -96.6676
+},
+{
+	"City": "Belpre",
+	"State": "KS",
+	"latitude": 37.9507,
+	"longitude": -99.0998
+},
+{
+	"City": "Piqua",
+	"State": "KS",
+	"latitude": 37.922,
+	"longitude": -95.5375
+},
+{
+	"City": "Mapleton",
+	"State": "KS",
+	"latitude": 38.0155,
+	"longitude": -94.8834
+},
+{
+	"City": "Reserve",
+	"State": "KS",
+	"latitude": 39.977,
+	"longitude": -95.5654
+},
+{
+	"City": "Isabel",
+	"State": "KS",
+	"latitude": 37.4672,
+	"longitude": -98.5515
+},
+{
+	"City": "Elgin",
+	"State": "KS",
+	"latitude": 37.0019,
+	"longitude": -96.2806
+},
+{
+	"City": "Simpson",
+	"State": "KS",
+	"latitude": 39.386,
+	"longitude": -97.934
+},
+{
+	"City": "Zenda",
+	"State": "KS",
+	"latitude": 37.4441,
+	"longitude": -98.282
+},
+{
+	"City": "Spivey",
+	"State": "KS",
+	"latitude": 37.4484,
+	"longitude": -98.1658
+},
+{
+	"City": "Milan",
+	"State": "KS",
+	"latitude": 37.2576,
+	"longitude": -97.6741
+},
+{
+	"City": "Coats",
+	"State": "KS",
+	"latitude": 37.5108,
+	"longitude": -98.8253
+},
+{
+	"City": "Raymond",
+	"State": "KS",
+	"latitude": 38.2779,
+	"longitude": -98.414
+},
+{
+	"City": "Mahaska",
+	"State": "KS",
+	"latitude": 39.9874,
+	"longitude": -97.3538
+},
+{
+	"City": "Niotaze",
+	"State": "KS",
+	"latitude": 37.0678,
+	"longitude": -96.0147
+},
+{
+	"City": "Huron",
+	"State": "KS",
+	"latitude": 39.6383,
+	"longitude": -95.3513
+},
+{
+	"City": "Bartlett",
+	"State": "KS",
+	"latitude": 37.055,
+	"longitude": -95.2112
+},
+{
+	"City": "Longford",
+	"State": "KS",
+	"latitude": 39.1722,
+	"longitude": -97.3288
+},
+{
+	"City": "Powhattan",
+	"State": "KS",
+	"latitude": 39.7618,
+	"longitude": -95.6341
+},
+{
+	"City": "Oneida",
+	"State": "KS",
+	"latitude": 39.8668,
+	"longitude": -95.9398
+},
+{
+	"City": "Gove City",
+	"State": "KS",
+	"latitude": 38.9595,
+	"longitude": -100.4871
+},
+{
+	"City": "Kickapoo Site 2",
+	"State": "KS",
+	"latitude": 39.7029,
+	"longitude": -95.6495
+},
+{
+	"City": "Englewood",
+	"State": "KS",
+	"latitude": 37.0405,
+	"longitude": -99.9876
+},
+{
+	"City": "Kickapoo Site 1",
+	"State": "KS",
+	"latitude": 39.7145,
+	"longitude": -95.6484
+},
+{
+	"City": "Stark",
+	"State": "KS",
+	"latitude": 37.6897,
+	"longitude": -95.144
+},
+{
+	"City": "Roseland",
+	"State": "KS",
+	"latitude": 37.2805,
+	"longitude": -94.8438
+},
+{
+	"City": "Olivet",
+	"State": "KS",
+	"latitude": 38.4813,
+	"longitude": -95.7519
+},
+{
+	"City": "Lost Springs",
+	"State": "KS",
+	"latitude": 38.5665,
+	"longitude": -96.9658
+},
+{
+	"City": "Elsmore",
+	"State": "KS",
+	"latitude": 37.7941,
+	"longitude": -95.15
+},
+{
+	"City": "Horace",
+	"State": "KS",
+	"latitude": 38.4768,
+	"longitude": -101.7904
+},
+{
+	"City": "Labette",
+	"State": "KS",
+	"latitude": 37.23,
+	"longitude": -95.1835
+},
+{
+	"City": "Benedict",
+	"State": "KS",
+	"latitude": 37.6269,
+	"longitude": -95.7436
+},
+{
+	"City": "Agenda",
+	"State": "KS",
+	"latitude": 39.7066,
+	"longitude": -97.4322
+},
+{
+	"City": "Timken",
+	"State": "KS",
+	"latitude": 38.4731,
+	"longitude": -99.1781
+},
+{
+	"City": "Climax",
+	"State": "KS",
+	"latitude": 37.7191,
+	"longitude": -96.224
+},
+{
+	"City": "Hunnewell",
+	"State": "KS",
+	"latitude": 37.0041,
+	"longitude": -97.4077
+},
+{
+	"City": "Virgil",
+	"State": "KS",
+	"latitude": 37.9807,
+	"longitude": -96.0116
+},
+{
+	"City": "Barnard",
+	"State": "KS",
+	"latitude": 39.1892,
+	"longitude": -98.0443
+},
+{
+	"City": "Oketo",
+	"State": "KS",
+	"latitude": 39.9632,
+	"longitude": -96.5988
+},
+{
+	"City": "Randall",
+	"State": "KS",
+	"latitude": 39.6418,
+	"longitude": -98.0457
+},
+{
+	"City": "Seward",
+	"State": "KS",
+	"latitude": 38.1778,
+	"longitude": -98.7943
+},
+{
+	"City": "Parkerville",
+	"State": "KS",
+	"latitude": 38.7638,
+	"longitude": -96.6614
+},
+{
+	"City": "Welda",
+	"State": "KS",
+	"latitude": 38.1746,
+	"longitude": -95.2914
+},
+{
+	"City": "Wallace",
+	"State": "KS",
+	"latitude": 38.9127,
+	"longitude": -101.593
+},
+{
+	"City": "Menlo",
+	"State": "KS",
+	"latitude": 39.3561,
+	"longitude": -100.7242
+},
+{
+	"City": "Bluff City",
+	"State": "KS",
+	"latitude": 37.0761,
+	"longitude": -97.8747
+},
+{
+	"City": "Alexander",
+	"State": "KS",
+	"latitude": 38.4694,
+	"longitude": -99.5529
+},
+{
+	"City": "Nashville",
+	"State": "KS",
+	"latitude": 37.4384,
+	"longitude": -98.4228
+},
+{
+	"City": "Aurora",
+	"State": "KS",
+	"latitude": 39.4519,
+	"longitude": -97.5299
+},
+{
+	"City": "Clayton",
+	"State": "KS",
+	"latitude": 39.7369,
+	"longitude": -100.1765
+},
+{
+	"City": "Hunter",
+	"State": "KS",
+	"latitude": 39.2349,
+	"longitude": -98.396
+},
+{
+	"City": "Earlton",
+	"State": "KS",
+	"latitude": 37.5873,
+	"longitude": -95.4696
+},
+{
+	"City": "Elmdale",
+	"State": "KS",
+	"latitude": 38.3732,
+	"longitude": -96.6457
+},
+{
+	"City": "Marienthal",
+	"State": "KS",
+	"latitude": 38.4891,
+	"longitude": -101.22
+},
+{
+	"City": "New Albany",
+	"State": "KS",
+	"latitude": 37.5678,
+	"longitude": -95.9363
+},
+{
+	"City": "Leona",
+	"State": "KS",
+	"latitude": 39.7861,
+	"longitude": -95.3214
+},
+{
+	"City": "Paradise",
+	"State": "KS",
+	"latitude": 39.1145,
+	"longitude": -98.9184
+},
+{
+	"City": "Wilmore",
+	"State": "KS",
+	"latitude": 37.3352,
+	"longitude": -99.2103
+},
+{
+	"City": "Sun City",
+	"State": "KS",
+	"latitude": 37.3785,
+	"longitude": -98.9165
+},
+{
+	"City": "Edmond",
+	"State": "KS",
+	"latitude": 39.6271,
+	"longitude": -99.8197
+},
+{
+	"City": "Kickapoo Site 5",
+	"State": "KS",
+	"latitude": 39.6735,
+	"longitude": -95.6842
+},
+{
+	"City": "Matfield Green",
+	"State": "KS",
+	"latitude": 38.1596,
+	"longitude": -96.5626
+},
+{
+	"City": "Kickapoo Site 7",
+	"State": "KS",
+	"latitude": 39.6894,
+	"longitude": -95.6713
+},
+{
+	"City": "Vining",
+	"State": "KS",
+	"latitude": 39.5674,
+	"longitude": -97.2937
+},
+{
+	"City": "Coyville",
+	"State": "KS",
+	"latitude": 37.6873,
+	"longitude": -95.8959
+},
+{
+	"City": "Langdon",
+	"State": "KS",
+	"latitude": 37.8532,
+	"longitude": -98.3241
+},
+{
+	"City": "Athol",
+	"State": "KS",
+	"latitude": 39.7661,
+	"longitude": -98.9199
+},
+{
+	"City": "Dresden",
+	"State": "KS",
+	"latitude": 39.6228,
+	"longitude": -100.4191
+},
+{
+	"City": "Carlton",
+	"State": "KS",
+	"latitude": 38.6867,
+	"longitude": -97.2931
+},
+{
+	"City": "Willis",
+	"State": "KS",
+	"latitude": 39.7227,
+	"longitude": -95.5057
+},
+{
+	"City": "Richfield",
+	"State": "KS",
+	"latitude": 37.2653,
+	"longitude": -101.7828
+},
+{
+	"City": "Galatia",
+	"State": "KS",
+	"latitude": 38.6411,
+	"longitude": -98.9578
+},
+{
+	"City": "Hamlin",
+	"State": "KS",
+	"latitude": 39.9155,
+	"longitude": -95.6276
+},
+{
+	"City": "Kickapoo Site 6",
+	"State": "KS",
+	"latitude": 39.6917,
+	"longitude": -95.6905
+},
+{
+	"City": "Speed",
+	"State": "KS",
+	"latitude": 39.6764,
+	"longitude": -99.4209
+},
+{
+	"City": "Danville",
+	"State": "KS",
+	"latitude": 37.286,
+	"longitude": -97.8921
+},
+{
+	"City": "Byers",
+	"State": "KS",
+	"latitude": 37.7879,
+	"longitude": -98.867
+},
+{
+	"City": "Bushong",
+	"State": "KS",
+	"latitude": 38.6428,
+	"longitude": -96.2567
+},
+{
+	"City": "Susank",
+	"State": "KS",
+	"latitude": 38.6407,
+	"longitude": -98.7745
+},
+{
+	"City": "Waldo",
+	"State": "KS",
+	"latitude": 39.12,
+	"longitude": -98.7983
+},
+{
+	"City": "Dunlap",
+	"State": "KS",
+	"latitude": 38.5763,
+	"longitude": -96.3676
+},
+{
+	"City": "Cedar Point",
+	"State": "KS",
+	"latitude": 38.2601,
+	"longitude": -96.8218
+},
+{
+	"City": "Brownell",
+	"State": "KS",
+	"latitude": 38.6406,
+	"longitude": -99.7442
+},
+{
+	"City": "Webber",
+	"State": "KS",
+	"latitude": 39.9344,
+	"longitude": -98.0351
+},
+{
+	"City": "Radium",
+	"State": "KS",
+	"latitude": 38.1738,
+	"longitude": -98.8944
+},
+{
+	"City": "Russell Springs",
+	"State": "KS",
+	"latitude": 38.9128,
+	"longitude": -101.1757
+},
+{
+	"City": "Lone Elm",
+	"State": "KS",
+	"latitude": 38.0796,
+	"longitude": -95.243
+},
+{
+	"City": "Scottsville",
+	"State": "KS",
+	"latitude": 39.5426,
+	"longitude": -97.9523
+},
+{
+	"City": "Mildred",
+	"State": "KS",
+	"latitude": 38.0248,
+	"longitude": -95.174
+},
+{
+	"City": "Oak Hill",
+	"State": "KS",
+	"latitude": 39.2466,
+	"longitude": -97.3428
+},
+{
+	"City": "Bassett",
+	"State": "KS",
+	"latitude": 37.9062,
+	"longitude": -95.4077
+},
+{
+	"City": "Hollenberg",
+	"State": "KS",
+	"latitude": 39.981,
+	"longitude": -96.9917
+},
+{
+	"City": "Frederick",
+	"State": "KS",
+	"latitude": 38.5127,
+	"longitude": -98.2673
+},
+{
+	"City": "Latimer",
+	"State": "KS",
+	"latitude": 38.7386,
+	"longitude": -96.8459
+},
+{
+	"City": "Penalosa",
+	"State": "KS",
+	"latitude": 37.7156,
+	"longitude": -98.3202
+},
+{
+	"City": "Roxbury",
+	"State": "KS",
+	"latitude": 38.5511,
+	"longitude": -97.4274
+},
+{
+	"City": "Cedar",
+	"State": "KS",
+	"latitude": 39.6571,
+	"longitude": -98.9402
+},
+{
+	"City": "Levant",
+	"State": "KS",
+	"latitude": 39.3881,
+	"longitude": -101.1948
+},
+{
+	"City": "Waldron",
+	"State": "KS",
+	"latitude": 37.0018,
+	"longitude": -98.1826
+},
+{
+	"City": "Harris",
+	"State": "KS",
+	"latitude": 38.3206,
+	"longitude": -95.445
+},
+{
+	"City": "Freeport",
+	"State": "KS",
+	"latitude": 37.1989,
+	"longitude": -97.8542
+}]

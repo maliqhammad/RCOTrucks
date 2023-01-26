@@ -1,0 +1,4399 @@
+[
+{
+	"City": "Charlotte",
+	"State": "NC",
+	"latitude": 35.208,
+	"longitude": -80.8304
+},
+{
+	"City": "Raleigh",
+	"State": "NC",
+	"latitude": 35.8325,
+	"longitude": -78.6435
+},
+{
+	"City": "Durham",
+	"State": "NC",
+	"latitude": 35.9794,
+	"longitude": -78.9031
+},
+{
+	"City": "Winston-Salem",
+	"State": "NC",
+	"latitude": 36.1029,
+	"longitude": -80.2611
+},
+{
+	"City": "Greensboro",
+	"State": "NC",
+	"latitude": 36.0956,
+	"longitude": -79.8269
+},
+{
+	"City": "Fayetteville",
+	"State": "NC",
+	"latitude": 35.0846,
+	"longitude": -78.9776
+},
+{
+	"City": "Asheville",
+	"State": "NC",
+	"latitude": 35.5704,
+	"longitude": -82.5536
+},
+{
+	"City": "Concord",
+	"State": "NC",
+	"latitude": 35.3933,
+	"longitude": -80.6366
+},
+{
+	"City": "Wilmington",
+	"State": "NC",
+	"latitude": 34.21,
+	"longitude": -77.8866
+},
+{
+	"City": "Hickory",
+	"State": "NC",
+	"latitude": 35.7425,
+	"longitude": -81.323
+},
+{
+	"City": "Gastonia",
+	"State": "NC",
+	"latitude": 35.2494,
+	"longitude": -81.1853
+},
+{
+	"City": "High Point",
+	"State": "NC",
+	"latitude": 35.9907,
+	"longitude": -79.9938
+},
+{
+	"City": "Cary",
+	"State": "NC",
+	"latitude": 35.782,
+	"longitude": -78.8191
+},
+{
+	"City": "Burlington",
+	"State": "NC",
+	"latitude": 36.0758,
+	"longitude": -79.4686
+},
+{
+	"City": "Greenville",
+	"State": "NC",
+	"latitude": 35.5956,
+	"longitude": -77.3768
+},
+{
+	"City": "Jacksonville",
+	"State": "NC",
+	"latitude": 34.7288,
+	"longitude": -77.3941
+},
+{
+	"City": "Chapel Hill",
+	"State": "NC",
+	"latitude": 35.927,
+	"longitude": -79.0391
+},
+{
+	"City": "Rocky Mount",
+	"State": "NC",
+	"latitude": 35.9676,
+	"longitude": -77.8048
+},
+{
+	"City": "Apex",
+	"State": "NC",
+	"latitude": 35.7239,
+	"longitude": -78.8728
+},
+{
+	"City": "Huntersville",
+	"State": "NC",
+	"latitude": 35.4058,
+	"longitude": -80.8727
+},
+{
+	"City": "Goldsboro",
+	"State": "NC",
+	"latitude": 35.3778,
+	"longitude": -77.972
+},
+{
+	"City": "New Bern",
+	"State": "NC",
+	"latitude": 35.0955,
+	"longitude": -77.0723
+},
+{
+	"City": "Kannapolis",
+	"State": "NC",
+	"latitude": 35.4764,
+	"longitude": -80.6403
+},
+{
+	"City": "Morehead City",
+	"State": "NC",
+	"latitude": 34.7308,
+	"longitude": -76.7387
+},
+{
+	"City": "Wilson",
+	"State": "NC",
+	"latitude": 35.7312,
+	"longitude": -77.9284
+},
+{
+	"City": "Pinehurst",
+	"State": "NC",
+	"latitude": 35.1922,
+	"longitude": -79.4684
+},
+{
+	"City": "Wake Forest",
+	"State": "NC",
+	"latitude": 35.9629,
+	"longitude": -78.5141
+},
+{
+	"City": "Indian Trail",
+	"State": "NC",
+	"latitude": 35.0698,
+	"longitude": -80.6457
+},
+{
+	"City": "Asheboro",
+	"State": "NC",
+	"latitude": 35.7158,
+	"longitude": -79.8129
+},
+{
+	"City": "Mooresville",
+	"State": "NC",
+	"latitude": 35.5849,
+	"longitude": -80.8265
+},
+{
+	"City": "Holly Springs",
+	"State": "NC",
+	"latitude": 35.653,
+	"longitude": -78.8397
+},
+{
+	"City": "Monroe",
+	"State": "NC",
+	"latitude": 35.0061,
+	"longitude": -80.5595
+},
+{
+	"City": "Sanford",
+	"State": "NC",
+	"latitude": 35.4874,
+	"longitude": -79.1772
+},
+{
+	"City": "Salisbury",
+	"State": "NC",
+	"latitude": 35.6656,
+	"longitude": -80.4909
+},
+{
+	"City": "Matthews",
+	"State": "NC",
+	"latitude": 35.1195,
+	"longitude": -80.7101
+},
+{
+	"City": "Smithfield",
+	"State": "NC",
+	"latitude": 35.5131,
+	"longitude": -78.3497
+},
+{
+	"City": "Garner",
+	"State": "NC",
+	"latitude": 35.6934,
+	"longitude": -78.6196
+},
+{
+	"City": "Fuquay-Varina",
+	"State": "NC",
+	"latitude": 35.5958,
+	"longitude": -78.7794
+},
+{
+	"City": "Cornelius",
+	"State": "NC",
+	"latitude": 35.4725,
+	"longitude": -80.8801
+},
+{
+	"City": "Morrisville",
+	"State": "NC",
+	"latitude": 35.8367,
+	"longitude": -78.8348
+},
+{
+	"City": "Lumberton",
+	"State": "NC",
+	"latitude": 34.6312,
+	"longitude": -79.0186
+},
+{
+	"City": "Mint Hill",
+	"State": "NC",
+	"latitude": 35.1782,
+	"longitude": -80.6533
+},
+{
+	"City": "Statesville",
+	"State": "NC",
+	"latitude": 35.7842,
+	"longitude": -80.8714
+},
+{
+	"City": "Shelby",
+	"State": "NC",
+	"latitude": 35.2904,
+	"longitude": -81.5451
+},
+{
+	"City": "Kinston",
+	"State": "NC",
+	"latitude": 35.2748,
+	"longitude": -77.5936
+},
+{
+	"City": "Thomasville",
+	"State": "NC",
+	"latitude": 35.8813,
+	"longitude": -80.0807
+},
+{
+	"City": "Boone",
+	"State": "NC",
+	"latitude": 36.2111,
+	"longitude": -81.6668
+},
+{
+	"City": "Forest City",
+	"State": "NC",
+	"latitude": 35.3338,
+	"longitude": -81.8702
+},
+{
+	"City": "Clayton",
+	"State": "NC",
+	"latitude": 35.6591,
+	"longitude": -78.4499
+},
+{
+	"City": "Kernersville",
+	"State": "NC",
+	"latitude": 36.1066,
+	"longitude": -80.0844
+},
+{
+	"City": "Lincolnton",
+	"State": "NC",
+	"latitude": 35.4747,
+	"longitude": -81.2385
+},
+{
+	"City": "Leland",
+	"State": "NC",
+	"latitude": 34.2044,
+	"longitude": -78.0277
+},
+{
+	"City": "Rockingham",
+	"State": "NC",
+	"latitude": 34.9386,
+	"longitude": -79.7608
+},
+{
+	"City": "Elizabeth City",
+	"State": "NC",
+	"latitude": 36.2943,
+	"longitude": -76.2361
+},
+{
+	"City": "Roanoke Rapids",
+	"State": "NC",
+	"latitude": 36.4452,
+	"longitude": -77.6491
+},
+{
+	"City": "Carrboro",
+	"State": "NC",
+	"latitude": 35.926,
+	"longitude": -79.0878
+},
+{
+	"City": "Kill Devil Hills",
+	"State": "NC",
+	"latitude": 36.0167,
+	"longitude": -75.6699
+},
+{
+	"City": "Clemmons",
+	"State": "NC",
+	"latitude": 36.0319,
+	"longitude": -80.3861
+},
+{
+	"City": "Havelock",
+	"State": "NC",
+	"latitude": 34.9078,
+	"longitude": -76.8987
+},
+{
+	"City": "Swansboro",
+	"State": "NC",
+	"latitude": 34.6958,
+	"longitude": -77.1368
+},
+{
+	"City": "Henderson",
+	"State": "NC",
+	"latitude": 36.3259,
+	"longitude": -78.4155
+},
+{
+	"City": "Laurinburg",
+	"State": "NC",
+	"latitude": 34.7597,
+	"longitude": -79.4781
+},
+{
+	"City": "Wendell",
+	"State": "NC",
+	"latitude": 35.7823,
+	"longitude": -78.3962
+},
+{
+	"City": "Mount Airy",
+	"State": "NC",
+	"latitude": 36.5083,
+	"longitude": -80.6154
+},
+{
+	"City": "Lexington",
+	"State": "NC",
+	"latitude": 35.8017,
+	"longitude": -80.2682
+},
+{
+	"City": "North Wilkesboro",
+	"State": "NC",
+	"latitude": 36.1728,
+	"longitude": -81.139
+},
+{
+	"City": "Lenoir",
+	"State": "NC",
+	"latitude": 35.9096,
+	"longitude": -81.5247
+},
+{
+	"City": "Knightdale",
+	"State": "NC",
+	"latitude": 35.7918,
+	"longitude": -78.4955
+},
+{
+	"City": "Butner",
+	"State": "NC",
+	"latitude": 36.1285,
+	"longitude": -78.7502
+},
+{
+	"City": "Albemarle",
+	"State": "NC",
+	"latitude": 35.3594,
+	"longitude": -80.1915
+},
+{
+	"City": "Waxhaw",
+	"State": "NC",
+	"latitude": 34.9364,
+	"longitude": -80.7438
+},
+{
+	"City": "Morganton",
+	"State": "NC",
+	"latitude": 35.7408,
+	"longitude": -81.7003
+},
+{
+	"City": "Harrisburg",
+	"State": "NC",
+	"latitude": 35.3124,
+	"longitude": -80.6486
+},
+{
+	"City": "Murraysville",
+	"State": "NC",
+	"latitude": 34.2919,
+	"longitude": -77.8429
+},
+{
+	"City": "Eden",
+	"State": "NC",
+	"latitude": 36.5028,
+	"longitude": -79.7412
+},
+{
+	"City": "Mebane",
+	"State": "NC",
+	"latitude": 36.0857,
+	"longitude": -79.2763
+},
+{
+	"City": "Mount Holly",
+	"State": "NC",
+	"latitude": 35.3136,
+	"longitude": -81.0072
+},
+{
+	"City": "Stallings",
+	"State": "NC",
+	"latitude": 35.1088,
+	"longitude": -80.6597
+},
+{
+	"City": "Washington",
+	"State": "NC",
+	"latitude": 35.5587,
+	"longitude": -77.0545
+},
+{
+	"City": "Archer Lodge",
+	"State": "NC",
+	"latitude": 35.6907,
+	"longitude": -78.3749
+},
+{
+	"City": "Hope Mills",
+	"State": "NC",
+	"latitude": 34.969,
+	"longitude": -78.9559
+},
+{
+	"City": "Graham",
+	"State": "NC",
+	"latitude": 36.0596,
+	"longitude": -79.3892
+},
+{
+	"City": "Dunn",
+	"State": "NC",
+	"latitude": 35.3113,
+	"longitude": -78.6129
+},
+{
+	"City": "Southern Pines",
+	"State": "NC",
+	"latitude": 35.1927,
+	"longitude": -79.404
+},
+{
+	"City": "Lewisville",
+	"State": "NC",
+	"latitude": 36.103,
+	"longitude": -80.4164
+},
+{
+	"City": "Hendersonville",
+	"State": "NC",
+	"latitude": 35.3242,
+	"longitude": -82.4576
+},
+{
+	"City": "Reidsville",
+	"State": "NC",
+	"latitude": 36.3377,
+	"longitude": -79.6727
+},
+{
+	"City": "Oak Island",
+	"State": "NC",
+	"latitude": 33.9434,
+	"longitude": -78.1366
+},
+{
+	"City": "Piney Green",
+	"State": "NC",
+	"latitude": 34.7498,
+	"longitude": -77.3208
+},
+{
+	"City": "Brevard",
+	"State": "NC",
+	"latitude": 35.2439,
+	"longitude": -82.7264
+},
+{
+	"City": "Marion",
+	"State": "NC",
+	"latitude": 35.6774,
+	"longitude": -82.0013
+},
+{
+	"City": "Newton",
+	"State": "NC",
+	"latitude": 35.663,
+	"longitude": -81.2333
+},
+{
+	"City": "Davidson",
+	"State": "NC",
+	"latitude": 35.4846,
+	"longitude": -80.8252
+},
+{
+	"City": "Tarboro",
+	"State": "NC",
+	"latitude": 35.9046,
+	"longitude": -77.5563
+},
+{
+	"City": "Belmont",
+	"State": "NC",
+	"latitude": 35.2211,
+	"longitude": -81.0402
+},
+{
+	"City": "Elon",
+	"State": "NC",
+	"latitude": 36.1014,
+	"longitude": -79.5085
+},
+{
+	"City": "Spring Lake",
+	"State": "NC",
+	"latitude": 35.1842,
+	"longitude": -78.9959
+},
+{
+	"City": "Archdale",
+	"State": "NC",
+	"latitude": 35.9033,
+	"longitude": -79.9592
+},
+{
+	"City": "Summerfield",
+	"State": "NC",
+	"latitude": 36.1973,
+	"longitude": -79.8997
+},
+{
+	"City": "Weddington",
+	"State": "NC",
+	"latitude": 35.0228,
+	"longitude": -80.7383
+},
+{
+	"City": "Kings Mountain",
+	"State": "NC",
+	"latitude": 35.2348,
+	"longitude": -81.3501
+},
+{
+	"City": "Myrtle Grove",
+	"State": "NC",
+	"latitude": 34.123,
+	"longitude": -77.8834
+},
+{
+	"City": "Waynesville",
+	"State": "NC",
+	"latitude": 35.4854,
+	"longitude": -82.9995
+},
+{
+	"City": "Winterville",
+	"State": "NC",
+	"latitude": 35.5287,
+	"longitude": -77.3994
+},
+{
+	"City": "Oxford",
+	"State": "NC",
+	"latitude": 36.3155,
+	"longitude": -78.5848
+},
+{
+	"City": "Roxboro",
+	"State": "NC",
+	"latitude": 36.3879,
+	"longitude": -78.9812
+},
+{
+	"City": "Siler City",
+	"State": "NC",
+	"latitude": 35.7252,
+	"longitude": -79.4561
+},
+{
+	"City": "St. Stephens",
+	"State": "NC",
+	"latitude": 35.7641,
+	"longitude": -81.2746
+},
+{
+	"City": "Clinton",
+	"State": "NC",
+	"latitude": 35.0005,
+	"longitude": -78.3311
+},
+{
+	"City": "Wesley Chapel",
+	"State": "NC",
+	"latitude": 34.9985,
+	"longitude": -80.6905
+},
+{
+	"City": "Pineville",
+	"State": "NC",
+	"latitude": 35.0864,
+	"longitude": -80.8915
+},
+{
+	"City": "Kings Grant",
+	"State": "NC",
+	"latitude": 34.2665,
+	"longitude": -77.8659
+},
+{
+	"City": "Conover",
+	"State": "NC",
+	"latitude": 35.7155,
+	"longitude": -81.217
+},
+{
+	"City": "Rolesville",
+	"State": "NC",
+	"latitude": 35.9224,
+	"longitude": -78.4656
+},
+{
+	"City": "Ogden",
+	"State": "NC",
+	"latitude": 34.2656,
+	"longitude": -77.7965
+},
+{
+	"City": "Fletcher",
+	"State": "NC",
+	"latitude": 35.4316,
+	"longitude": -82.5038
+},
+{
+	"City": "Half Moon",
+	"State": "NC",
+	"latitude": 34.8298,
+	"longitude": -77.4591
+},
+{
+	"City": "Lake Norman of Catawba",
+	"State": "NC",
+	"latitude": 35.5995,
+	"longitude": -80.984
+},
+{
+	"City": "Black Mountain",
+	"State": "NC",
+	"latitude": 35.6142,
+	"longitude": -82.3275
+},
+{
+	"City": "Aberdeen",
+	"State": "NC",
+	"latitude": 35.135,
+	"longitude": -79.4326
+},
+{
+	"City": "Etowah",
+	"State": "NC",
+	"latitude": 35.3061,
+	"longitude": -82.5902
+},
+{
+	"City": "Porters Neck",
+	"State": "NC",
+	"latitude": 34.2942,
+	"longitude": -77.7695
+},
+{
+	"City": "Mills River",
+	"State": "NC",
+	"latitude": 35.3853,
+	"longitude": -82.5854
+},
+{
+	"City": "Pembroke",
+	"State": "NC",
+	"latitude": 34.6766,
+	"longitude": -79.1934
+},
+{
+	"City": "Gibsonville",
+	"State": "NC",
+	"latitude": 36.0991,
+	"longitude": -79.5417
+},
+{
+	"City": "Whiteville",
+	"State": "NC",
+	"latitude": 34.3306,
+	"longitude": -78.7013
+},
+{
+	"City": "Franklin",
+	"State": "NC",
+	"latitude": 35.1798,
+	"longitude": -83.3808
+},
+{
+	"City": "Unionville",
+	"State": "NC",
+	"latitude": 35.0716,
+	"longitude": -80.5173
+},
+{
+	"City": "Hillsborough",
+	"State": "NC",
+	"latitude": 36.0681,
+	"longitude": -79.0994
+},
+{
+	"City": "Selma",
+	"State": "NC",
+	"latitude": 35.5436,
+	"longitude": -78.2954
+},
+{
+	"City": "Oak Ridge",
+	"State": "NC",
+	"latitude": 36.174,
+	"longitude": -79.9916
+},
+{
+	"City": "King",
+	"State": "NC",
+	"latitude": 36.2766,
+	"longitude": -80.3564
+},
+{
+	"City": "Marvin",
+	"State": "NC",
+	"latitude": 34.989,
+	"longitude": -80.8032
+},
+{
+	"City": "Woodfin",
+	"State": "NC",
+	"latitude": 35.6458,
+	"longitude": -82.5914
+},
+{
+	"City": "Cherryville",
+	"State": "NC",
+	"latitude": 35.3844,
+	"longitude": -81.3781
+},
+{
+	"City": "Trinity",
+	"State": "NC",
+	"latitude": 35.8756,
+	"longitude": -80.0093
+},
+{
+	"City": "Elkin",
+	"State": "NC",
+	"latitude": 36.2621,
+	"longitude": -80.8441
+},
+{
+	"City": "Silver Lake",
+	"State": "NC",
+	"latitude": 34.1408,
+	"longitude": -77.909
+},
+{
+	"City": "Carolina Beach",
+	"State": "NC",
+	"latitude": 34.0396,
+	"longitude": -77.8966
+},
+{
+	"City": "Cullowhee",
+	"State": "NC",
+	"latitude": 35.3107,
+	"longitude": -83.1815
+},
+{
+	"City": "Tabor City",
+	"State": "NC",
+	"latitude": 34.1538,
+	"longitude": -78.8737
+},
+{
+	"City": "Hamlet",
+	"State": "NC",
+	"latitude": 34.8891,
+	"longitude": -79.7099
+},
+{
+	"City": "Boiling Spring Lakes",
+	"State": "NC",
+	"latitude": 34.0322,
+	"longitude": -78.068
+},
+{
+	"City": "St. James",
+	"State": "NC",
+	"latitude": 33.9467,
+	"longitude": -78.1132
+},
+{
+	"City": "Zebulon",
+	"State": "NC",
+	"latitude": 35.8318,
+	"longitude": -78.3162
+},
+{
+	"City": "Hampstead",
+	"State": "NC",
+	"latitude": 34.3627,
+	"longitude": -77.7318
+},
+{
+	"City": "East Flat Rock",
+	"State": "NC",
+	"latitude": 35.2802,
+	"longitude": -82.4171
+},
+{
+	"City": "Bessemer City",
+	"State": "NC",
+	"latitude": 35.2841,
+	"longitude": -81.283
+},
+{
+	"City": "Nashville",
+	"State": "NC",
+	"latitude": 35.9692,
+	"longitude": -77.9555
+},
+{
+	"City": "Taylorsville",
+	"State": "NC",
+	"latitude": 35.9175,
+	"longitude": -81.1754
+},
+{
+	"City": "Stokesdale",
+	"State": "NC",
+	"latitude": 36.2318,
+	"longitude": -79.9834
+},
+{
+	"City": "Manteo",
+	"State": "NC",
+	"latitude": 35.9013,
+	"longitude": -75.661
+},
+{
+	"City": "Angier",
+	"State": "NC",
+	"latitude": 35.512,
+	"longitude": -78.7405
+},
+{
+	"City": "Mocksville",
+	"State": "NC",
+	"latitude": 35.9006,
+	"longitude": -80.5631
+},
+{
+	"City": "James City",
+	"State": "NC",
+	"latitude": 35.0592,
+	"longitude": -77.02
+},
+{
+	"City": "Wadesboro",
+	"State": "NC",
+	"latitude": 34.9645,
+	"longitude": -80.0746
+},
+{
+	"City": "Walkertown",
+	"State": "NC",
+	"latitude": 36.1578,
+	"longitude": -80.1642
+},
+{
+	"City": "Williamston",
+	"State": "NC",
+	"latitude": 35.8468,
+	"longitude": -77.0655
+},
+{
+	"City": "Sawmills",
+	"State": "NC",
+	"latitude": 35.8162,
+	"longitude": -81.4779
+},
+{
+	"City": "Mount Olive",
+	"State": "NC",
+	"latitude": 35.1997,
+	"longitude": -78.0662
+},
+{
+	"City": "Erwin",
+	"State": "NC",
+	"latitude": 35.3226,
+	"longitude": -78.6734
+},
+{
+	"City": "Ayden",
+	"State": "NC",
+	"latitude": 35.4694,
+	"longitude": -77.4167
+},
+{
+	"City": "Raeford",
+	"State": "NC",
+	"latitude": 34.981,
+	"longitude": -79.2291
+},
+{
+	"City": "Pleasant Garden",
+	"State": "NC",
+	"latitude": 35.9595,
+	"longitude": -79.7599
+},
+{
+	"City": "Long View",
+	"State": "NC",
+	"latitude": 35.7217,
+	"longitude": -81.3858
+},
+{
+	"City": "Farmville",
+	"State": "NC",
+	"latitude": 35.5955,
+	"longitude": -77.5913
+},
+{
+	"City": "Midway",
+	"State": "NC",
+	"latitude": 35.9751,
+	"longitude": -80.2204
+},
+{
+	"City": "Seven Lakes",
+	"State": "NC",
+	"latitude": 35.2647,
+	"longitude": -79.5865
+},
+{
+	"City": "Dallas",
+	"State": "NC",
+	"latitude": 35.3167,
+	"longitude": -81.1827
+},
+{
+	"City": "Ahoskie",
+	"State": "NC",
+	"latitude": 36.2843,
+	"longitude": -76.9898
+},
+{
+	"City": "Royal Pines",
+	"State": "NC",
+	"latitude": 35.4783,
+	"longitude": -82.5038
+},
+{
+	"City": "Carolina Shores",
+	"State": "NC",
+	"latitude": 33.9076,
+	"longitude": -78.5738
+},
+{
+	"City": "Granite Falls",
+	"State": "NC",
+	"latitude": 35.7966,
+	"longitude": -81.4233
+},
+{
+	"City": "Spruce Pine",
+	"State": "NC",
+	"latitude": 35.9104,
+	"longitude": -82.0731
+},
+{
+	"City": "Edenton",
+	"State": "NC",
+	"latitude": 36.058,
+	"longitude": -76.6008
+},
+{
+	"City": "Creedmoor",
+	"State": "NC",
+	"latitude": 36.1223,
+	"longitude": -78.6758
+},
+{
+	"City": "Wingate",
+	"State": "NC",
+	"latitude": 34.9852,
+	"longitude": -80.4497
+},
+{
+	"City": "Newport",
+	"State": "NC",
+	"latitude": 34.772,
+	"longitude": -76.8771
+},
+{
+	"City": "Boiling Springs",
+	"State": "NC",
+	"latitude": 35.2521,
+	"longitude": -81.6636
+},
+{
+	"City": "Wrightsboro",
+	"State": "NC",
+	"latitude": 34.2895,
+	"longitude": -77.9217
+},
+{
+	"City": "Bayshore",
+	"State": "NC",
+	"latitude": 34.2893,
+	"longitude": -77.8025
+},
+{
+	"City": "Jamestown",
+	"State": "NC",
+	"latitude": 35.9985,
+	"longitude": -79.9347
+},
+{
+	"City": "Cramerton",
+	"State": "NC",
+	"latitude": 35.2344,
+	"longitude": -81.0734
+},
+{
+	"City": "Beaufort",
+	"State": "NC",
+	"latitude": 34.7308,
+	"longitude": -76.6487
+},
+{
+	"City": "Valdese",
+	"State": "NC",
+	"latitude": 35.7566,
+	"longitude": -81.5634
+},
+{
+	"City": "Pittsboro",
+	"State": "NC",
+	"latitude": 35.7256,
+	"longitude": -79.1714
+},
+{
+	"City": "Shallotte",
+	"State": "NC",
+	"latitude": 33.9759,
+	"longitude": -78.3807
+},
+{
+	"City": "Canton",
+	"State": "NC",
+	"latitude": 35.5515,
+	"longitude": -82.8406
+},
+{
+	"City": "Brices Creek",
+	"State": "NC",
+	"latitude": 35.0505,
+	"longitude": -77.0844
+},
+{
+	"City": "Wallace",
+	"State": "NC",
+	"latitude": 34.7379,
+	"longitude": -77.9909
+},
+{
+	"City": "Bethlehem",
+	"State": "NC",
+	"latitude": 35.8162,
+	"longitude": -81.2962
+},
+{
+	"City": "China Grove",
+	"State": "NC",
+	"latitude": 35.5718,
+	"longitude": -80.5788
+},
+{
+	"City": "Mayodan",
+	"State": "NC",
+	"latitude": 36.421,
+	"longitude": -79.9676
+},
+{
+	"City": "Moyock",
+	"State": "NC",
+	"latitude": 36.5166,
+	"longitude": -76.1728
+},
+{
+	"City": "Spindale",
+	"State": "NC",
+	"latitude": 35.3599,
+	"longitude": -81.9232
+},
+{
+	"City": "Mountain Home",
+	"State": "NC",
+	"latitude": 35.3708,
+	"longitude": -82.5021
+},
+{
+	"City": "Burgaw",
+	"State": "NC",
+	"latitude": 34.5507,
+	"longitude": -77.9224
+},
+{
+	"City": "Swannanoa",
+	"State": "NC",
+	"latitude": 35.6008,
+	"longitude": -82.3917
+},
+{
+	"City": "Westport",
+	"State": "NC",
+	"latitude": 35.5103,
+	"longitude": -80.9783
+},
+{
+	"City": "Randleman",
+	"State": "NC",
+	"latitude": 35.8165,
+	"longitude": -79.8066
+},
+{
+	"City": "Forest Oaks",
+	"State": "NC",
+	"latitude": 35.9889,
+	"longitude": -79.7079
+},
+{
+	"City": "Rutherfordton",
+	"State": "NC",
+	"latitude": 35.3642,
+	"longitude": -81.9613
+},
+{
+	"City": "Whispering Pines",
+	"State": "NC",
+	"latitude": 35.2536,
+	"longitude": -79.3755
+},
+{
+	"City": "Sunset Beach",
+	"State": "NC",
+	"latitude": 33.892,
+	"longitude": -78.5104
+},
+{
+	"City": "Red Springs",
+	"State": "NC",
+	"latitude": 34.8046,
+	"longitude": -79.1822
+},
+{
+	"City": "Weaverville",
+	"State": "NC",
+	"latitude": 35.6963,
+	"longitude": -82.5584
+},
+{
+	"City": "Trent Woods",
+	"State": "NC",
+	"latitude": 35.081,
+	"longitude": -77.0945
+},
+{
+	"City": "Gamewell",
+	"State": "NC",
+	"latitude": 35.8637,
+	"longitude": -81.5979
+},
+{
+	"City": "Louisburg",
+	"State": "NC",
+	"latitude": 36.0979,
+	"longitude": -78.301
+},
+{
+	"City": "Southport",
+	"State": "NC",
+	"latitude": 33.9412,
+	"longitude": -78.0205
+},
+{
+	"City": "Tyro",
+	"State": "NC",
+	"latitude": 35.7997,
+	"longitude": -80.3765
+},
+{
+	"City": "Elroy",
+	"State": "NC",
+	"latitude": 35.3308,
+	"longitude": -77.9226
+},
+{
+	"City": "Jefferson",
+	"State": "NC",
+	"latitude": 36.4209,
+	"longitude": -81.4686
+},
+{
+	"City": "Benson",
+	"State": "NC",
+	"latitude": 35.386,
+	"longitude": -78.5436
+},
+{
+	"City": "Dana",
+	"State": "NC",
+	"latitude": 35.3239,
+	"longitude": -82.3722
+},
+{
+	"City": "Lake Park",
+	"State": "NC",
+	"latitude": 35.0848,
+	"longitude": -80.6348
+},
+{
+	"City": "Fairview",
+	"State": "NC",
+	"latitude": 35.1545,
+	"longitude": -80.5345
+},
+{
+	"City": "River Road",
+	"State": "NC",
+	"latitude": 35.5107,
+	"longitude": -76.9898
+},
+{
+	"City": "Midland",
+	"State": "NC",
+	"latitude": 35.245,
+	"longitude": -80.5212
+},
+{
+	"City": "Welcome",
+	"State": "NC",
+	"latitude": 35.9066,
+	"longitude": -80.2548
+},
+{
+	"City": "Lillington",
+	"State": "NC",
+	"latitude": 35.4001,
+	"longitude": -78.8139
+},
+{
+	"City": "Grifton",
+	"State": "NC",
+	"latitude": 35.3804,
+	"longitude": -77.4333
+},
+{
+	"City": "Stanley",
+	"State": "NC",
+	"latitude": 35.3552,
+	"longitude": -81.0937
+},
+{
+	"City": "Eastover",
+	"State": "NC",
+	"latitude": 35.0958,
+	"longitude": -78.7862
+},
+{
+	"City": "Lowell",
+	"State": "NC",
+	"latitude": 35.2689,
+	"longitude": -81.1013
+},
+{
+	"City": "Maiden",
+	"State": "NC",
+	"latitude": 35.5853,
+	"longitude": -81.2201
+},
+{
+	"City": "St. Pauls",
+	"State": "NC",
+	"latitude": 34.8085,
+	"longitude": -78.9747
+},
+{
+	"City": "Hudson",
+	"State": "NC",
+	"latitude": 35.8474,
+	"longitude": -81.4864
+},
+{
+	"City": "Mountain View",
+	"State": "NC",
+	"latitude": 35.6828,
+	"longitude": -81.3683
+},
+{
+	"City": "Plymouth",
+	"State": "NC",
+	"latitude": 35.8588,
+	"longitude": -76.7487
+},
+{
+	"City": "Emerald Isle",
+	"State": "NC",
+	"latitude": 34.6649,
+	"longitude": -77.0291
+},
+{
+	"City": "Ranlo",
+	"State": "NC",
+	"latitude": 35.2889,
+	"longitude": -81.1292
+},
+{
+	"City": "Troy",
+	"State": "NC",
+	"latitude": 35.3648,
+	"longitude": -79.8919
+},
+{
+	"City": "Northchase",
+	"State": "NC",
+	"latitude": 34.3049,
+	"longitude": -77.8754
+},
+{
+	"City": "Kitty Hawk",
+	"State": "NC",
+	"latitude": 36.0717,
+	"longitude": -75.7184
+},
+{
+	"City": "Rockfish",
+	"State": "NC",
+	"latitude": 34.9902,
+	"longitude": -79.0694
+},
+{
+	"City": "Glen Raven",
+	"State": "NC",
+	"latitude": 36.1247,
+	"longitude": -79.4649
+},
+{
+	"City": "Lake Royale",
+	"State": "NC",
+	"latitude": 35.9666,
+	"longitude": -78.196
+},
+{
+	"City": "Red Oak",
+	"State": "NC",
+	"latitude": 36.0415,
+	"longitude": -77.9065
+},
+{
+	"City": "Wilkesboro",
+	"State": "NC",
+	"latitude": 36.142,
+	"longitude": -81.173
+},
+{
+	"City": "Yadkinville",
+	"State": "NC",
+	"latitude": 36.131,
+	"longitude": -80.6588
+},
+{
+	"City": "Flat Rock",
+	"State": "NC",
+	"latitude": 35.2677,
+	"longitude": -82.4526
+},
+{
+	"City": "Elizabethtown",
+	"State": "NC",
+	"latitude": 34.6238,
+	"longitude": -78.6097
+},
+{
+	"City": "Windsor",
+	"State": "NC",
+	"latitude": 35.9927,
+	"longitude": -76.9399
+},
+{
+	"City": "Mar-Mac",
+	"State": "NC",
+	"latitude": 35.3345,
+	"longitude": -78.0545
+},
+{
+	"City": "Lake Junaluska",
+	"State": "NC",
+	"latitude": 35.5305,
+	"longitude": -82.9749
+},
+{
+	"City": "Rural Hall",
+	"State": "NC",
+	"latitude": 36.2251,
+	"longitude": -80.2973
+},
+{
+	"City": "Denver",
+	"State": "NC",
+	"latitude": 35.5344,
+	"longitude": -81.034
+},
+{
+	"City": "Spencer",
+	"State": "NC",
+	"latitude": 35.6989,
+	"longitude": -80.4248
+},
+{
+	"City": "Locust",
+	"State": "NC",
+	"latitude": 35.2687,
+	"longitude": -80.4368
+},
+{
+	"City": "Enochville",
+	"State": "NC",
+	"latitude": 35.5205,
+	"longitude": -80.6646
+},
+{
+	"City": "Lowesville",
+	"State": "NC",
+	"latitude": 35.4193,
+	"longitude": -80.9999
+},
+{
+	"City": "Landis",
+	"State": "NC",
+	"latitude": 35.5484,
+	"longitude": -80.6116
+},
+{
+	"City": "Mineral Springs",
+	"State": "NC",
+	"latitude": 34.9411,
+	"longitude": -80.6846
+},
+{
+	"City": "Wallburg",
+	"State": "NC",
+	"latitude": 36.0088,
+	"longitude": -80.1453
+},
+{
+	"City": "Warsaw",
+	"State": "NC",
+	"latitude": 34.9987,
+	"longitude": -78.0926
+},
+{
+	"City": "East Rockingham",
+	"State": "NC",
+	"latitude": 34.9116,
+	"longitude": -79.766
+},
+{
+	"City": "River Bend",
+	"State": "NC",
+	"latitude": 35.0717,
+	"longitude": -77.1504
+},
+{
+	"City": "Granite Quarry",
+	"State": "NC",
+	"latitude": 35.6126,
+	"longitude": -80.4484
+},
+{
+	"City": "Nags Head",
+	"State": "NC",
+	"latitude": 35.9474,
+	"longitude": -75.6274
+},
+{
+	"City": "Murfreesboro",
+	"State": "NC",
+	"latitude": 36.4421,
+	"longitude": -77.0964
+},
+{
+	"City": "Southern Shores",
+	"State": "NC",
+	"latitude": 36.1205,
+	"longitude": -75.7327
+},
+{
+	"City": "Ramseur",
+	"State": "NC",
+	"latitude": 35.7372,
+	"longitude": -79.6543
+},
+{
+	"City": "Fearrington Village",
+	"State": "NC",
+	"latitude": 35.7996,
+	"longitude": -79.0818
+},
+{
+	"City": "Biscoe",
+	"State": "NC",
+	"latitude": 35.3585,
+	"longitude": -79.7816
+},
+{
+	"City": "Holly Ridge",
+	"State": "NC",
+	"latitude": 34.4953,
+	"longitude": -77.527
+},
+{
+	"City": "Marshville",
+	"State": "NC",
+	"latitude": 34.9867,
+	"longitude": -80.3685
+},
+{
+	"City": "Sneads Ferry",
+	"State": "NC",
+	"latitude": 34.5564,
+	"longitude": -77.3824
+},
+{
+	"City": "Fairfield Harbour",
+	"State": "NC",
+	"latitude": 35.0706,
+	"longitude": -76.9571
+},
+{
+	"City": "Troutman",
+	"State": "NC",
+	"latitude": 35.6875,
+	"longitude": -80.883
+},
+{
+	"City": "Wilson's Mills",
+	"State": "NC",
+	"latitude": 35.5863,
+	"longitude": -78.3644
+},
+{
+	"City": "South Rosemary",
+	"State": "NC",
+	"latitude": 36.4463,
+	"longitude": -77.7065
+},
+{
+	"City": "Sylva",
+	"State": "NC",
+	"latitude": 35.3754,
+	"longitude": -83.2185
+},
+{
+	"City": "Cajah's Mountain",
+	"State": "NC",
+	"latitude": 35.8507,
+	"longitude": -81.5361
+},
+{
+	"City": "Wentworth",
+	"State": "NC",
+	"latitude": 36.3914,
+	"longitude": -79.751
+},
+{
+	"City": "Tobaccoville",
+	"State": "NC",
+	"latitude": 36.2256,
+	"longitude": -80.3591
+},
+{
+	"City": "Skippers Corner",
+	"State": "NC",
+	"latitude": 34.3292,
+	"longitude": -77.9141
+},
+{
+	"City": "Bermuda Run",
+	"State": "NC",
+	"latitude": 36.0033,
+	"longitude": -80.4311
+},
+{
+	"City": "Avery Creek",
+	"State": "NC",
+	"latitude": 35.4651,
+	"longitude": -82.5719
+},
+{
+	"City": "Liberty",
+	"State": "NC",
+	"latitude": 35.8555,
+	"longitude": -79.5682
+},
+{
+	"City": "La Grange",
+	"State": "NC",
+	"latitude": 35.3064,
+	"longitude": -77.789
+},
+{
+	"City": "Fairmont",
+	"State": "NC",
+	"latitude": 34.4947,
+	"longitude": -79.1136
+},
+{
+	"City": "Buies Creek",
+	"State": "NC",
+	"latitude": 35.4127,
+	"longitude": -78.7363
+},
+{
+	"City": "Polkton",
+	"State": "NC",
+	"latitude": 35.0031,
+	"longitude": -80.1963
+},
+{
+	"City": "Wrightsville Beach",
+	"State": "NC",
+	"latitude": 34.213,
+	"longitude": -77.798
+},
+{
+	"City": "Carthage",
+	"State": "NC",
+	"latitude": 35.3225,
+	"longitude": -79.4115
+},
+{
+	"City": "Edneyville",
+	"State": "NC",
+	"latitude": 35.4025,
+	"longitude": -82.3371
+},
+{
+	"City": "Broad Creek",
+	"State": "NC",
+	"latitude": 34.7304,
+	"longitude": -76.9241
+},
+{
+	"City": "Haw River",
+	"State": "NC",
+	"latitude": 36.0925,
+	"longitude": -79.3616
+},
+{
+	"City": "Coats",
+	"State": "NC",
+	"latitude": 35.407,
+	"longitude": -78.6685
+},
+{
+	"City": "Surf City",
+	"State": "NC",
+	"latitude": 34.4346,
+	"longitude": -77.5644
+},
+{
+	"City": "Norwood",
+	"State": "NC",
+	"latitude": 35.2336,
+	"longitude": -80.1146
+},
+{
+	"City": "Enfield",
+	"State": "NC",
+	"latitude": 36.1802,
+	"longitude": -77.6678
+},
+{
+	"City": "Icard",
+	"State": "NC",
+	"latitude": 35.7253,
+	"longitude": -81.4582
+},
+{
+	"City": "Fruitland",
+	"State": "NC",
+	"latitude": 35.3928,
+	"longitude": -82.412
+},
+{
+	"City": "Horse Shoe",
+	"State": "NC",
+	"latitude": 35.3423,
+	"longitude": -82.5568
+},
+{
+	"City": "Maxton",
+	"State": "NC",
+	"latitude": 34.7364,
+	"longitude": -79.3527
+},
+{
+	"City": "Laurel Park",
+	"State": "NC",
+	"latitude": 35.3118,
+	"longitude": -82.5039
+},
+{
+	"City": "Green Level",
+	"State": "NC",
+	"latitude": 36.1233,
+	"longitude": -79.3461
+},
+{
+	"City": "Navassa",
+	"State": "NC",
+	"latitude": 34.2831,
+	"longitude": -78.029
+},
+{
+	"City": "Brogden",
+	"State": "NC",
+	"latitude": 35.2961,
+	"longitude": -78.025
+},
+{
+	"City": "Calabash",
+	"State": "NC",
+	"latitude": 33.8945,
+	"longitude": -78.5571
+},
+{
+	"City": "Four Oaks",
+	"State": "NC",
+	"latitude": 35.4454,
+	"longitude": -78.4164
+},
+{
+	"City": "Franklinton",
+	"State": "NC",
+	"latitude": 36.1011,
+	"longitude": -78.4523
+},
+{
+	"City": "Mulberry",
+	"State": "NC",
+	"latitude": 36.2257,
+	"longitude": -81.1653
+},
+{
+	"City": "Mount Pleasant",
+	"State": "NC",
+	"latitude": 35.3771,
+	"longitude": -80.4497
+},
+{
+	"City": "Jonesville",
+	"State": "NC",
+	"latitude": 36.2336,
+	"longitude": -80.8351
+},
+{
+	"City": "Rockwell",
+	"State": "NC",
+	"latitude": 35.5538,
+	"longitude": -80.4072
+},
+{
+	"City": "Madison",
+	"State": "NC",
+	"latitude": 36.3868,
+	"longitude": -79.975
+},
+{
+	"City": "Hertford",
+	"State": "NC",
+	"latitude": 36.1813,
+	"longitude": -76.4673
+},
+{
+	"City": "Belville",
+	"State": "NC",
+	"latitude": 34.2194,
+	"longitude": -77.9984
+},
+{
+	"City": "Kure Beach",
+	"State": "NC",
+	"latitude": 34.0003,
+	"longitude": -77.9077
+},
+{
+	"City": "Fairplains",
+	"State": "NC",
+	"latitude": 36.1954,
+	"longitude": -81.1559
+},
+{
+	"City": "Cape Carteret",
+	"State": "NC",
+	"latitude": 34.6973,
+	"longitude": -77.0572
+},
+{
+	"City": "Cherokee",
+	"State": "NC",
+	"latitude": 35.486,
+	"longitude": -83.3011
+},
+{
+	"City": "Pine Level",
+	"State": "NC",
+	"latitude": 35.503,
+	"longitude": -78.2494
+},
+{
+	"City": "Sharpsburg",
+	"State": "NC",
+	"latitude": 35.8663,
+	"longitude": -77.8306
+},
+{
+	"City": "Hildebran",
+	"State": "NC",
+	"latitude": 35.7181,
+	"longitude": -81.4211
+},
+{
+	"City": "Badin",
+	"State": "NC",
+	"latitude": 35.4072,
+	"longitude": -80.1184
+},
+{
+	"City": "Yanceyville",
+	"State": "NC",
+	"latitude": 36.4111,
+	"longitude": -79.3401
+},
+{
+	"City": "Cricket",
+	"State": "NC",
+	"latitude": 36.1688,
+	"longitude": -81.1933
+},
+{
+	"City": "Mars Hill",
+	"State": "NC",
+	"latitude": 35.8281,
+	"longitude": -82.5484
+},
+{
+	"City": "Valley Hill",
+	"State": "NC",
+	"latitude": 35.2958,
+	"longitude": -82.4913
+},
+{
+	"City": "Princeville",
+	"State": "NC",
+	"latitude": 35.8861,
+	"longitude": -77.5194
+},
+{
+	"City": "Oakboro",
+	"State": "NC",
+	"latitude": 35.2283,
+	"longitude": -80.3339
+},
+{
+	"City": "Drexel",
+	"State": "NC",
+	"latitude": 35.7569,
+	"longitude": -81.6089
+},
+{
+	"City": "Plain View",
+	"State": "NC",
+	"latitude": 35.2457,
+	"longitude": -78.5634
+},
+{
+	"City": "Andrews",
+	"State": "NC",
+	"latitude": 35.1994,
+	"longitude": -83.8258
+},
+{
+	"City": "Scotland Neck",
+	"State": "NC",
+	"latitude": 36.1309,
+	"longitude": -77.4214
+},
+{
+	"City": "Hemby Bridge",
+	"State": "NC",
+	"latitude": 35.1055,
+	"longitude": -80.6258
+},
+{
+	"City": "Moravian Falls",
+	"State": "NC",
+	"latitude": 36.1068,
+	"longitude": -81.1808
+},
+{
+	"City": "Sea Breeze",
+	"State": "NC",
+	"latitude": 34.0698,
+	"longitude": -77.8965
+},
+{
+	"City": "Salem",
+	"State": "NC",
+	"latitude": 35.6997,
+	"longitude": -81.7004
+},
+{
+	"City": "Wanchese",
+	"State": "NC",
+	"latitude": 35.8396,
+	"longitude": -75.6379
+},
+{
+	"City": "Sparta",
+	"State": "NC",
+	"latitude": 36.5034,
+	"longitude": -81.1217
+},
+{
+	"City": "Chadbourn",
+	"State": "NC",
+	"latitude": 34.3251,
+	"longitude": -78.825
+},
+{
+	"City": "Richlands",
+	"State": "NC",
+	"latitude": 34.9003,
+	"longitude": -77.5427
+},
+{
+	"City": "Pumpkin Center",
+	"State": "NC",
+	"latitude": 34.786,
+	"longitude": -77.3642
+},
+{
+	"City": "Rocky Point",
+	"State": "NC",
+	"latitude": 34.4441,
+	"longitude": -77.8909
+},
+{
+	"City": "Denton",
+	"State": "NC",
+	"latitude": 35.6375,
+	"longitude": -80.1106
+},
+{
+	"City": "Bent Creek",
+	"State": "NC",
+	"latitude": 35.5081,
+	"longitude": -82.6176
+},
+{
+	"City": "Murphy",
+	"State": "NC",
+	"latitude": 35.0932,
+	"longitude": -84.0279
+},
+{
+	"City": "Burnsville",
+	"State": "NC",
+	"latitude": 35.9164,
+	"longitude": -82.2974
+},
+{
+	"City": "Connelly Springs",
+	"State": "NC",
+	"latitude": 35.755,
+	"longitude": -81.4971
+},
+{
+	"City": "Pinebluff",
+	"State": "NC",
+	"latitude": 35.1088,
+	"longitude": -79.4713
+},
+{
+	"City": "Rose Hill",
+	"State": "NC",
+	"latitude": 34.8263,
+	"longitude": -78.0259
+},
+{
+	"City": "Tryon",
+	"State": "NC",
+	"latitude": 35.2086,
+	"longitude": -82.2379
+},
+{
+	"City": "Bladenboro",
+	"State": "NC",
+	"latitude": 34.5406,
+	"longitude": -78.7949
+},
+{
+	"City": "Bethel",
+	"State": "NC",
+	"latitude": 35.8072,
+	"longitude": -77.3762
+},
+{
+	"City": "Saxapahaw",
+	"State": "NC",
+	"latitude": 35.9489,
+	"longitude": -79.321
+},
+{
+	"City": "Kenly",
+	"State": "NC",
+	"latitude": 35.5887,
+	"longitude": -78.1368
+},
+{
+	"City": "Belhaven",
+	"State": "NC",
+	"latitude": 35.5428,
+	"longitude": -76.6232
+},
+{
+	"City": "Foscoe",
+	"State": "NC",
+	"latitude": 36.1535,
+	"longitude": -81.7736
+},
+{
+	"City": "Toast",
+	"State": "NC",
+	"latitude": 36.4966,
+	"longitude": -80.6346
+},
+{
+	"City": "East Spencer",
+	"State": "NC",
+	"latitude": 35.6821,
+	"longitude": -80.4274
+},
+{
+	"City": "Stanfield",
+	"State": "NC",
+	"latitude": 35.2336,
+	"longitude": -80.4303
+},
+{
+	"City": "Dobson",
+	"State": "NC",
+	"latitude": 36.3927,
+	"longitude": -80.7239
+},
+{
+	"City": "Neuse Forest",
+	"State": "NC",
+	"latitude": 34.966,
+	"longitude": -76.94
+},
+{
+	"City": "Walnut Cove",
+	"State": "NC",
+	"latitude": 36.2941,
+	"longitude": -80.1403
+},
+{
+	"City": "Stony Point",
+	"State": "NC",
+	"latitude": 35.8669,
+	"longitude": -81.047
+},
+{
+	"City": "Atlantic Beach",
+	"State": "NC",
+	"latitude": 34.7011,
+	"longitude": -76.7403
+},
+{
+	"City": "Snow Hill",
+	"State": "NC",
+	"latitude": 35.4506,
+	"longitude": -77.6769
+},
+{
+	"City": "Northlakes",
+	"State": "NC",
+	"latitude": 35.7755,
+	"longitude": -81.3669
+},
+{
+	"City": "Buxton",
+	"State": "NC",
+	"latitude": 35.2608,
+	"longitude": -75.5392
+},
+{
+	"City": "Glen Alpine",
+	"State": "NC",
+	"latitude": 35.7307,
+	"longitude": -81.7826
+},
+{
+	"City": "Cordova",
+	"State": "NC",
+	"latitude": 34.9103,
+	"longitude": -79.8119
+},
+{
+	"City": "Weldon",
+	"State": "NC",
+	"latitude": 36.421,
+	"longitude": -77.6135
+},
+{
+	"City": "Bryson City",
+	"State": "NC",
+	"latitude": 35.4262,
+	"longitude": -83.4474
+},
+{
+	"City": "Biltmore Forest",
+	"State": "NC",
+	"latitude": 35.5348,
+	"longitude": -82.5403
+},
+{
+	"City": "Pilot Mountain",
+	"State": "NC",
+	"latitude": 36.3854,
+	"longitude": -80.4735
+},
+{
+	"City": "Millers Creek",
+	"State": "NC",
+	"latitude": 36.1909,
+	"longitude": -81.2356
+},
+{
+	"City": "Claremont",
+	"State": "NC",
+	"latitude": 35.7101,
+	"longitude": -81.1533
+},
+{
+	"City": "Lake Waccamaw",
+	"State": "NC",
+	"latitude": 34.3141,
+	"longitude": -78.5117
+},
+{
+	"City": "Princeton",
+	"State": "NC",
+	"latitude": 35.4671,
+	"longitude": -78.1613
+},
+{
+	"City": "West Marion",
+	"State": "NC",
+	"latitude": 35.6525,
+	"longitude": -82.0191
+},
+{
+	"City": "Swepsonville",
+	"State": "NC",
+	"latitude": 36.0285,
+	"longitude": -79.355
+},
+{
+	"City": "Maury",
+	"State": "NC",
+	"latitude": 35.4792,
+	"longitude": -77.5902
+},
+{
+	"City": "Youngsville",
+	"State": "NC",
+	"latitude": 36.0245,
+	"longitude": -78.481
+},
+{
+	"City": "Barker Heights",
+	"State": "NC",
+	"latitude": 35.3104,
+	"longitude": -82.4412
+},
+{
+	"City": "Robersonville",
+	"State": "NC",
+	"latitude": 35.8248,
+	"longitude": -77.2529
+},
+{
+	"City": "Pine Knoll Shores",
+	"State": "NC",
+	"latitude": 34.6974,
+	"longitude": -76.8205
+},
+{
+	"City": "Blowing Rock",
+	"State": "NC",
+	"latitude": 36.1291,
+	"longitude": -81.6713
+},
+{
+	"City": "West Jefferson",
+	"State": "NC",
+	"latitude": 36.3943,
+	"longitude": -81.4896
+},
+{
+	"City": "Spring Hope",
+	"State": "NC",
+	"latitude": 35.9441,
+	"longitude": -78.109
+},
+{
+	"City": "Clyde",
+	"State": "NC",
+	"latitude": 35.533,
+	"longitude": -82.9107
+},
+{
+	"City": "Rutherford College",
+	"State": "NC",
+	"latitude": 35.7515,
+	"longitude": -81.527
+},
+{
+	"City": "Cedar Point",
+	"State": "NC",
+	"latitude": 34.6862,
+	"longitude": -77.0833
+},
+{
+	"City": "Beulaville",
+	"State": "NC",
+	"latitude": 34.9228,
+	"longitude": -77.7725
+},
+{
+	"City": "Elm City",
+	"State": "NC",
+	"latitude": 35.8087,
+	"longitude": -77.8622
+},
+{
+	"City": "Broadway",
+	"State": "NC",
+	"latitude": 35.4579,
+	"longitude": -79.0547
+},
+{
+	"City": "Hays",
+	"State": "NC",
+	"latitude": 36.2469,
+	"longitude": -81.1142
+},
+{
+	"City": "Fremont",
+	"State": "NC",
+	"latitude": 35.5436,
+	"longitude": -77.9751
+},
+{
+	"City": "Harkers Island",
+	"State": "NC",
+	"latitude": 34.7002,
+	"longitude": -76.5612
+},
+{
+	"City": "Stoneville",
+	"State": "NC",
+	"latitude": 36.4653,
+	"longitude": -79.9064
+},
+{
+	"City": "West Canton",
+	"State": "NC",
+	"latitude": 35.5384,
+	"longitude": -82.8671
+},
+{
+	"City": "Bayboro",
+	"State": "NC",
+	"latitude": 35.1474,
+	"longitude": -76.7692
+},
+{
+	"City": "Maggie Valley",
+	"State": "NC",
+	"latitude": 35.5239,
+	"longitude": -83.0643
+},
+{
+	"City": "Pinetops",
+	"State": "NC",
+	"latitude": 35.7912,
+	"longitude": -77.6378
+},
+{
+	"City": "Robbins",
+	"State": "NC",
+	"latitude": 35.4279,
+	"longitude": -79.5829
+},
+{
+	"City": "Balfour",
+	"State": "NC",
+	"latitude": 35.3494,
+	"longitude": -82.4824
+},
+{
+	"City": "Laurel Hill",
+	"State": "NC",
+	"latitude": 34.8102,
+	"longitude": -79.546
+},
+{
+	"City": "Franklinville",
+	"State": "NC",
+	"latitude": 35.7421,
+	"longitude": -79.6893
+},
+{
+	"City": "Roseboro",
+	"State": "NC",
+	"latitude": 34.9536,
+	"longitude": -78.5121
+},
+{
+	"City": "Advance",
+	"State": "NC",
+	"latitude": 35.9468,
+	"longitude": -80.4045
+},
+{
+	"City": "Lake Lure",
+	"State": "NC",
+	"latitude": 35.4404,
+	"longitude": -82.2064
+},
+{
+	"City": "Lucama",
+	"State": "NC",
+	"latitude": 35.6447,
+	"longitude": -78.0072
+},
+{
+	"City": "Southmont",
+	"State": "NC",
+	"latitude": 35.6536,
+	"longitude": -80.2702
+},
+{
+	"City": "Banner Elk",
+	"State": "NC",
+	"latitude": 36.1588,
+	"longitude": -81.8677
+},
+{
+	"City": "Gorman",
+	"State": "NC",
+	"latitude": 36.0418,
+	"longitude": -78.8091
+},
+{
+	"City": "Boonville",
+	"State": "NC",
+	"latitude": 36.234,
+	"longitude": -80.7093
+},
+{
+	"City": "Mount Gilead",
+	"State": "NC",
+	"latitude": 35.2163,
+	"longitude": -80.0047
+},
+{
+	"City": "Light Oak",
+	"State": "NC",
+	"latitude": 35.2867,
+	"longitude": -81.4775
+},
+{
+	"City": "South Henderson",
+	"State": "NC",
+	"latitude": 36.3035,
+	"longitude": -78.4054
+},
+{
+	"City": "White Plains",
+	"State": "NC",
+	"latitude": 36.4451,
+	"longitude": -80.6351
+},
+{
+	"City": "Hoopers Creek",
+	"State": "NC",
+	"latitude": 35.4481,
+	"longitude": -82.4294
+},
+{
+	"City": "Stedman",
+	"State": "NC",
+	"latitude": 35.0129,
+	"longitude": -78.7027
+},
+{
+	"City": "Norlina",
+	"State": "NC",
+	"latitude": 36.4451,
+	"longitude": -78.1952
+},
+{
+	"City": "McLeansville",
+	"State": "NC",
+	"latitude": 36.1045,
+	"longitude": -79.6554
+},
+{
+	"City": "Alamance",
+	"State": "NC",
+	"latitude": 36.0285,
+	"longitude": -79.4891
+},
+{
+	"City": "Foxfire",
+	"State": "NC",
+	"latitude": 35.179,
+	"longitude": -79.564
+},
+{
+	"City": "Castle Hayne",
+	"State": "NC",
+	"latitude": 34.3583,
+	"longitude": -77.9114
+},
+{
+	"City": "Rhodhiss",
+	"State": "NC",
+	"latitude": 35.7684,
+	"longitude": -81.4312
+},
+{
+	"City": "Gaston",
+	"State": "NC",
+	"latitude": 36.4965,
+	"longitude": -77.6449
+},
+{
+	"City": "Vander",
+	"State": "NC",
+	"latitude": 35.0347,
+	"longitude": -78.7888
+},
+{
+	"City": "Cove Creek",
+	"State": "NC",
+	"latitude": 36.2763,
+	"longitude": -81.783
+},
+{
+	"City": "Columbus",
+	"State": "NC",
+	"latitude": 35.266,
+	"longitude": -82.1985
+},
+{
+	"City": "Rowland",
+	"State": "NC",
+	"latitude": 34.5362,
+	"longitude": -79.2928
+},
+{
+	"City": "Cooleemee",
+	"State": "NC",
+	"latitude": 35.8124,
+	"longitude": -80.5563
+},
+{
+	"City": "Highlands",
+	"State": "NC",
+	"latitude": 35.0539,
+	"longitude": -83.1976
+},
+{
+	"City": "Ellerbe",
+	"State": "NC",
+	"latitude": 35.0718,
+	"longitude": -79.7595
+},
+{
+	"City": "Hightsville",
+	"State": "NC",
+	"latitude": 34.2667,
+	"longitude": -77.9344
+},
+{
+	"City": "Vanceboro",
+	"State": "NC",
+	"latitude": 35.303,
+	"longitude": -77.1567
+},
+{
+	"City": "Dortches",
+	"State": "NC",
+	"latitude": 36.0114,
+	"longitude": -77.8572
+},
+{
+	"City": "Five Points",
+	"State": "NC",
+	"latitude": 35.0154,
+	"longitude": -79.3513
+},
+{
+	"City": "Faison",
+	"State": "NC",
+	"latitude": 35.1164,
+	"longitude": -78.1368
+},
+{
+	"City": "Germanton",
+	"State": "NC",
+	"latitude": 36.2587,
+	"longitude": -80.236
+},
+{
+	"City": "Belwood",
+	"State": "NC",
+	"latitude": 35.4794,
+	"longitude": -81.5227
+},
+{
+	"City": "Magnolia",
+	"State": "NC",
+	"latitude": 34.8963,
+	"longitude": -78.054
+},
+{
+	"City": "Silver City",
+	"State": "NC",
+	"latitude": 34.9972,
+	"longitude": -79.2291
+},
+{
+	"City": "Maysville",
+	"State": "NC",
+	"latitude": 34.907,
+	"longitude": -77.2323
+},
+{
+	"City": "Brunswick",
+	"State": "NC",
+	"latitude": 34.2879,
+	"longitude": -78.7084
+},
+{
+	"City": "Old Fort",
+	"State": "NC",
+	"latitude": 35.6305,
+	"longitude": -82.1777
+},
+{
+	"City": "Garysburg",
+	"State": "NC",
+	"latitude": 36.4479,
+	"longitude": -77.5603
+},
+{
+	"City": "Barker Ten Mile",
+	"State": "NC",
+	"latitude": 34.6825,
+	"longitude": -78.9889
+},
+{
+	"City": "Pinnacle",
+	"State": "NC",
+	"latitude": 36.323,
+	"longitude": -80.4241
+},
+{
+	"City": "Marshall",
+	"State": "NC",
+	"latitude": 35.7974,
+	"longitude": -82.6819
+},
+{
+	"City": "Fair Bluff",
+	"State": "NC",
+	"latitude": 34.3126,
+	"longitude": -79.0333
+},
+{
+	"City": "Cleveland",
+	"State": "NC",
+	"latitude": 35.7327,
+	"longitude": -80.6814
+},
+{
+	"City": "Montreat",
+	"State": "NC",
+	"latitude": 35.6478,
+	"longitude": -82.3001
+},
+{
+	"City": "Walnut Creek",
+	"State": "NC",
+	"latitude": 35.305,
+	"longitude": -77.8714
+},
+{
+	"City": "Oriental",
+	"State": "NC",
+	"latitude": 35.0359,
+	"longitude": -76.6816
+},
+{
+	"City": "Taylortown",
+	"State": "NC",
+	"latitude": 35.2146,
+	"longitude": -79.4915
+},
+{
+	"City": "Star",
+	"State": "NC",
+	"latitude": 35.3992,
+	"longitude": -79.7832
+},
+{
+	"City": "Rich Square",
+	"State": "NC",
+	"latitude": 36.2739,
+	"longitude": -77.2839
+},
+{
+	"City": "Kenansville",
+	"State": "NC",
+	"latitude": 34.9596,
+	"longitude": -77.9661
+},
+{
+	"City": "Riegelwood",
+	"State": "NC",
+	"latitude": 34.3444,
+	"longitude": -78.2198
+},
+{
+	"City": "South Weldon",
+	"State": "NC",
+	"latitude": 36.4135,
+	"longitude": -77.6024
+},
+{
+	"City": "Dobbins Heights",
+	"State": "NC",
+	"latitude": 34.9069,
+	"longitude": -79.6933
+},
+{
+	"City": "Warrenton",
+	"State": "NC",
+	"latitude": 36.3995,
+	"longitude": -78.1575
+},
+{
+	"City": "Ellenboro",
+	"State": "NC",
+	"latitude": 35.3309,
+	"longitude": -81.7611
+},
+{
+	"City": "Middlesex",
+	"State": "NC",
+	"latitude": 35.7893,
+	"longitude": -78.2047
+},
+{
+	"City": "Elrod",
+	"State": "NC",
+	"latitude": 34.6072,
+	"longitude": -79.2307
+},
+{
+	"City": "Candor",
+	"State": "NC",
+	"latitude": 35.2964,
+	"longitude": -79.7324
+},
+{
+	"City": "Camden",
+	"State": "NC",
+	"latitude": 36.325,
+	"longitude": -76.17
+},
+{
+	"City": "Faith",
+	"State": "NC",
+	"latitude": 35.59,
+	"longitude": -80.4581
+},
+{
+	"City": "Prospect",
+	"State": "NC",
+	"latitude": 34.7358,
+	"longitude": -79.2251
+},
+{
+	"City": "Vass",
+	"State": "NC",
+	"latitude": 35.2534,
+	"longitude": -79.2845
+},
+{
+	"City": "Chocowinity",
+	"State": "NC",
+	"latitude": 35.5148,
+	"longitude": -77.1017
+},
+{
+	"City": "Northwest",
+	"State": "NC",
+	"latitude": 34.3149,
+	"longitude": -78.1453
+},
+{
+	"City": "Aulander",
+	"State": "NC",
+	"latitude": 36.228,
+	"longitude": -77.1136
+},
+{
+	"City": "Manns Harbor",
+	"State": "NC",
+	"latitude": 35.8934,
+	"longitude": -75.7733
+},
+{
+	"City": "Stantonsburg",
+	"State": "NC",
+	"latitude": 35.6056,
+	"longitude": -77.8198
+},
+{
+	"City": "Stokes",
+	"State": "NC",
+	"latitude": 35.7105,
+	"longitude": -77.2676
+},
+{
+	"City": "Wagram",
+	"State": "NC",
+	"latitude": 34.8891,
+	"longitude": -79.3652
+},
+{
+	"City": "Black Creek",
+	"State": "NC",
+	"latitude": 35.6366,
+	"longitude": -77.9331
+},
+{
+	"City": "Pleasant Hill",
+	"State": "NC",
+	"latitude": 36.258,
+	"longitude": -80.8904
+},
+{
+	"City": "White Lake",
+	"State": "NC",
+	"latitude": 34.6417,
+	"longitude": -78.4969
+},
+{
+	"City": "Mamers",
+	"State": "NC",
+	"latitude": 35.416,
+	"longitude": -78.939
+},
+{
+	"City": "Red Cross",
+	"State": "NC",
+	"latitude": 35.2659,
+	"longitude": -80.3622
+},
+{
+	"City": "Columbia",
+	"State": "NC",
+	"latitude": 35.9201,
+	"longitude": -76.242
+},
+{
+	"City": "Alliance",
+	"State": "NC",
+	"latitude": 35.1435,
+	"longitude": -76.8084
+},
+{
+	"City": "Misenheimer",
+	"State": "NC",
+	"latitude": 35.4824,
+	"longitude": -80.2855
+},
+{
+	"City": "High Shoals",
+	"State": "NC",
+	"latitude": 35.3957,
+	"longitude": -81.2047
+},
+{
+	"City": "North Topsail Beach",
+	"State": "NC",
+	"latitude": 34.4931,
+	"longitude": -77.4338
+},
+{
+	"City": "Clarkton",
+	"State": "NC",
+	"latitude": 34.4889,
+	"longitude": -78.6559
+},
+{
+	"City": "Conway",
+	"State": "NC",
+	"latitude": 36.4371,
+	"longitude": -77.2288
+},
+{
+	"City": "Rougemont",
+	"State": "NC",
+	"latitude": 36.2209,
+	"longitude": -78.9206
+},
+{
+	"City": "New London",
+	"State": "NC",
+	"latitude": 35.4348,
+	"longitude": -80.2198
+},
+{
+	"City": "Winton",
+	"State": "NC",
+	"latitude": 36.3899,
+	"longitude": -76.9349
+},
+{
+	"City": "Peletier",
+	"State": "NC",
+	"latitude": 34.727,
+	"longitude": -77.0759
+},
+{
+	"City": "Moncure",
+	"State": "NC",
+	"latitude": 35.6239,
+	"longitude": -79.0768
+},
+{
+	"City": "Ocracoke",
+	"State": "NC",
+	"latitude": 35.1264,
+	"longitude": -75.9212
+},
+{
+	"City": "Grover",
+	"State": "NC",
+	"latitude": 35.1735,
+	"longitude": -81.452
+},
+{
+	"City": "Bogue",
+	"State": "NC",
+	"latitude": 34.698,
+	"longitude": -77.0311
+},
+{
+	"City": "Woodland",
+	"State": "NC",
+	"latitude": 36.3306,
+	"longitude": -77.2149
+},
+{
+	"City": "Whitakers",
+	"State": "NC",
+	"latitude": 36.1057,
+	"longitude": -77.713
+},
+{
+	"City": "Saluda",
+	"State": "NC",
+	"latitude": 35.2375,
+	"longitude": -82.3469
+},
+{
+	"City": "Jackson Heights",
+	"State": "NC",
+	"latitude": 35.2236,
+	"longitude": -77.6333
+},
+{
+	"City": "Hollister",
+	"State": "NC",
+	"latitude": 36.2593,
+	"longitude": -77.9363
+},
+{
+	"City": "Newland",
+	"State": "NC",
+	"latitude": 36.088,
+	"longitude": -81.9274
+},
+{
+	"City": "Sedalia",
+	"State": "NC",
+	"latitude": 36.076,
+	"longitude": -79.6208
+},
+{
+	"City": "Kingstown",
+	"State": "NC",
+	"latitude": 35.3621,
+	"longitude": -81.62
+},
+{
+	"City": "Ingold",
+	"State": "NC",
+	"latitude": 34.8312,
+	"longitude": -78.3497
+},
+{
+	"City": "Pikeville",
+	"State": "NC",
+	"latitude": 35.4971,
+	"longitude": -77.9879
+},
+{
+	"City": "McAdenville",
+	"State": "NC",
+	"latitude": 35.2652,
+	"longitude": -81.0805
+},
+{
+	"City": "Caroleen",
+	"State": "NC",
+	"latitude": 35.2811,
+	"longitude": -81.7914
+},
+{
+	"City": "Efland",
+	"State": "NC",
+	"latitude": 36.0806,
+	"longitude": -79.1718
+},
+{
+	"City": "Ocean Isle Beach",
+	"State": "NC",
+	"latitude": 33.9011,
+	"longitude": -78.4394
+},
+{
+	"City": "Cliffside",
+	"State": "NC",
+	"latitude": 35.248,
+	"longitude": -81.7653
+},
+{
+	"City": "Holden Beach",
+	"State": "NC",
+	"latitude": 33.912,
+	"longitude": -78.3182
+},
+{
+	"City": "Potters Hill",
+	"State": "NC",
+	"latitude": 34.9645,
+	"longitude": -77.6983
+},
+{
+	"City": "Grantsboro",
+	"State": "NC",
+	"latitude": 35.1448,
+	"longitude": -76.8447
+},
+{
+	"City": "Greenevers",
+	"State": "NC",
+	"latitude": 34.8271,
+	"longitude": -77.9247
+},
+{
+	"City": "Woodlawn",
+	"State": "NC",
+	"latitude": 36.1158,
+	"longitude": -79.2898
+},
+{
+	"City": "Bolton",
+	"State": "NC",
+	"latitude": 34.3174,
+	"longitude": -78.3977
+},
+{
+	"City": "Whitsett",
+	"State": "NC",
+	"latitude": 36.0783,
+	"longitude": -79.572
+},
+{
+	"City": "Aquadale",
+	"State": "NC",
+	"latitude": 35.2244,
+	"longitude": -80.2236
+},
+{
+	"City": "Robbinsville",
+	"State": "NC",
+	"latitude": 35.3217,
+	"longitude": -83.8094
+},
+{
+	"City": "Catawba",
+	"State": "NC",
+	"latitude": 35.7066,
+	"longitude": -81.0659
+},
+{
+	"City": "Richfield",
+	"State": "NC",
+	"latitude": 35.4703,
+	"longitude": -80.2575
+},
+{
+	"City": "Patterson Springs",
+	"State": "NC",
+	"latitude": 35.233,
+	"longitude": -81.5162
+},
+{
+	"City": "Garland",
+	"State": "NC",
+	"latitude": 34.7859,
+	"longitude": -78.3947
+},
+{
+	"City": "Rosman",
+	"State": "NC",
+	"latitude": 35.1458,
+	"longitude": -82.8201
+},
+{
+	"City": "Bunnlevel",
+	"State": "NC",
+	"latitude": 35.31,
+	"longitude": -78.7725
+},
+{
+	"City": "Winfall",
+	"State": "NC",
+	"latitude": 36.2104,
+	"longitude": -76.455
+},
+{
+	"City": "Fallston",
+	"State": "NC",
+	"latitude": 35.4289,
+	"longitude": -81.5023
+},
+{
+	"City": "Henrietta",
+	"State": "NC",
+	"latitude": 35.2569,
+	"longitude": -81.8012
+},
+{
+	"City": "East Bend",
+	"State": "NC",
+	"latitude": 36.2178,
+	"longitude": -80.5085
+},
+{
+	"City": "Bayview",
+	"State": "NC",
+	"latitude": 35.4414,
+	"longitude": -76.7928
+},
+{
+	"City": "Varnamtown",
+	"State": "NC",
+	"latitude": 33.9432,
+	"longitude": -78.236
+},
+{
+	"City": "Harmony",
+	"State": "NC",
+	"latitude": 35.959,
+	"longitude": -80.7735
+},
+{
+	"City": "Lawndale",
+	"State": "NC",
+	"latitude": 35.4142,
+	"longitude": -81.5631
+},
+{
+	"City": "Ossipee",
+	"State": "NC",
+	"latitude": 36.1678,
+	"longitude": -79.5135
+},
+{
+	"City": "Ansonville",
+	"State": "NC",
+	"latitude": 35.1041,
+	"longitude": -80.1097
+},
+{
+	"City": "Littleton",
+	"State": "NC",
+	"latitude": 36.4343,
+	"longitude": -77.911
+},
+{
+	"City": "Wade",
+	"State": "NC",
+	"latitude": 35.1639,
+	"longitude": -78.7371
+},
+{
+	"City": "Iron Station",
+	"State": "NC",
+	"latitude": 35.4515,
+	"longitude": -81.1568
+},
+{
+	"City": "Hot Springs",
+	"State": "NC",
+	"latitude": 35.892,
+	"longitude": -82.8291
+},
+{
+	"City": "Hoffman",
+	"State": "NC",
+	"latitude": 35.0313,
+	"longitude": -79.5491
+},
+{
+	"City": "Stem",
+	"State": "NC",
+	"latitude": 36.1963,
+	"longitude": -78.7201
+},
+{
+	"City": "Newton Grove",
+	"State": "NC",
+	"latitude": 35.2522,
+	"longitude": -78.3552
+},
+{
+	"City": "Belvoir",
+	"State": "NC",
+	"latitude": 35.7111,
+	"longitude": -77.47
+},
+{
+	"City": "Bailey",
+	"State": "NC",
+	"latitude": 35.7807,
+	"longitude": -78.1128
+},
+{
+	"City": "Polkville",
+	"State": "NC",
+	"latitude": 35.4163,
+	"longitude": -81.644
+},
+{
+	"City": "Seaboard",
+	"State": "NC",
+	"latitude": 36.4907,
+	"longitude": -77.442
+},
+{
+	"City": "Roper",
+	"State": "NC",
+	"latitude": 35.8786,
+	"longitude": -76.617
+},
+{
+	"City": "Micro",
+	"State": "NC",
+	"latitude": 35.5623,
+	"longitude": -78.2037
+},
+{
+	"City": "Arapahoe",
+	"State": "NC",
+	"latitude": 35.0216,
+	"longitude": -76.826
+},
+{
+	"City": "Calypso",
+	"State": "NC",
+	"latitude": 35.1548,
+	"longitude": -78.1044
+},
+{
+	"City": "Gloucester",
+	"State": "NC",
+	"latitude": 34.7292,
+	"longitude": -76.5391
+},
+{
+	"City": "Atlantic",
+	"State": "NC",
+	"latitude": 34.8823,
+	"longitude": -76.344
+},
+{
+	"City": "Coinjock",
+	"State": "NC",
+	"latitude": 36.3513,
+	"longitude": -75.9527
+},
+{
+	"City": "Aurora",
+	"State": "NC",
+	"latitude": 35.303,
+	"longitude": -76.7889
+},
+{
+	"City": "Pink Hill",
+	"State": "NC",
+	"latitude": 35.0563,
+	"longitude": -77.7436
+},
+{
+	"City": "Bonnetsville",
+	"State": "NC",
+	"latitude": 34.9993,
+	"longitude": -78.3962
+},
+{
+	"City": "Gibson",
+	"State": "NC",
+	"latitude": 34.7595,
+	"longitude": -79.6069
+},
+{
+	"City": "Lilesville",
+	"State": "NC",
+	"latitude": 34.9675,
+	"longitude": -79.9845
+},
+{
+	"City": "Hayesville",
+	"State": "NC",
+	"latitude": 35.045,
+	"longitude": -83.8179
+},
+{
+	"City": "Lewiston Woodville",
+	"State": "NC",
+	"latitude": 36.1141,
+	"longitude": -77.1811
+},
+{
+	"City": "Deercroft",
+	"State": "NC",
+	"latitude": 34.9592,
+	"longitude": -79.4351
+},
+{
+	"City": "Simpson",
+	"State": "NC",
+	"latitude": 35.5752,
+	"longitude": -77.2789
+},
+{
+	"City": "Scotch Meadows",
+	"State": "NC",
+	"latitude": 34.689,
+	"longitude": -79.5177
+},
+{
+	"City": "Old Hundred",
+	"State": "NC",
+	"latitude": 34.8246,
+	"longitude": -79.5922
+},
+{
+	"City": "Bennett",
+	"State": "NC",
+	"latitude": 35.5664,
+	"longitude": -79.54
+},
+{
+	"City": "East Arcadia",
+	"State": "NC",
+	"latitude": 34.3816,
+	"longitude": -78.3232
+},
+{
+	"City": "Millingport",
+	"State": "NC",
+	"latitude": 35.3763,
+	"longitude": -80.3113
+},
+{
+	"City": "Morven",
+	"State": "NC",
+	"latitude": 34.8643,
+	"longitude": -80
+},
+{
+	"City": "Hatteras",
+	"State": "NC",
+	"latitude": 35.2173,
+	"longitude": -75.6873
+},
+{
+	"City": "South Mills",
+	"State": "NC",
+	"latitude": 36.4379,
+	"longitude": -76.3308
+},
+{
+	"City": "Jackson",
+	"State": "NC",
+	"latitude": 36.3901,
+	"longitude": -77.4193
+},
+{
+	"City": "Ashley Heights",
+	"State": "NC",
+	"latitude": 35.09,
+	"longitude": -79.3739
+},
+{
+	"City": "Hallsboro",
+	"State": "NC",
+	"latitude": 34.3189,
+	"longitude": -78.5934
+},
+{
+	"City": "Lattimore",
+	"State": "NC",
+	"latitude": 35.3154,
+	"longitude": -81.6602
+},
+{
+	"City": "Jamesville",
+	"State": "NC",
+	"latitude": 35.8121,
+	"longitude": -76.9002
+},
+{
+	"City": "Bakersville",
+	"State": "NC",
+	"latitude": 36.0153,
+	"longitude": -82.1582
+},
+{
+	"City": "Elk Park",
+	"State": "NC",
+	"latitude": 36.1582,
+	"longitude": -81.9808
+},
+{
+	"City": "JAARS",
+	"State": "NC",
+	"latitude": 34.8622,
+	"longitude": -80.7489
+},
+{
+	"City": "Grimesland",
+	"State": "NC",
+	"latitude": 35.5686,
+	"longitude": -77.2025
+},
+{
+	"City": "Bridgeton",
+	"State": "NC",
+	"latitude": 35.1347,
+	"longitude": -77.0159
+},
+{
+	"City": "Parkton",
+	"State": "NC",
+	"latitude": 34.9028,
+	"longitude": -79.0098
+},
+{
+	"City": "Fountain",
+	"State": "NC",
+	"latitude": 35.672,
+	"longitude": -77.6308
+},
+{
+	"City": "Caswell Beach",
+	"State": "NC",
+	"latitude": 33.9074,
+	"longitude": -78.0473
+},
+{
+	"City": "Washington Park",
+	"State": "NC",
+	"latitude": 35.5328,
+	"longitude": -77.0316
+},
+{
+	"City": "Topsail Beach",
+	"State": "NC",
+	"latitude": 34.3744,
+	"longitude": -77.6322
+},
+{
+	"City": "Macclesfield",
+	"State": "NC",
+	"latitude": 35.7523,
+	"longitude": -77.6703
+},
+{
+	"City": "Lowgap",
+	"State": "NC",
+	"latitude": 36.5232,
+	"longitude": -80.8671
+},
+{
+	"City": "St. Helena",
+	"State": "NC",
+	"latitude": 34.5166,
+	"longitude": -77.9174
+},
+{
+	"City": "Minnesott Beach",
+	"State": "NC",
+	"latitude": 34.9858,
+	"longitude": -76.8239
+},
+{
+	"City": "Teachey",
+	"State": "NC",
+	"latitude": 34.769,
+	"longitude": -78.0093
+},
+{
+	"City": "Avon",
+	"State": "NC",
+	"latitude": 35.3467,
+	"longitude": -75.5069
+},
+{
+	"City": "Stovall",
+	"State": "NC",
+	"latitude": 36.4475,
+	"longitude": -78.5689
+},
+{
+	"City": "Sandyfield",
+	"State": "NC",
+	"latitude": 34.3738,
+	"longitude": -78.3
+},
+{
+	"City": "Salemburg",
+	"State": "NC",
+	"latitude": 35.0152,
+	"longitude": -78.5029
+},
+{
+	"City": "Ruth",
+	"State": "NC",
+	"latitude": 35.3824,
+	"longitude": -81.9448
+},
+{
+	"City": "Engelhard",
+	"State": "NC",
+	"latitude": 35.5092,
+	"longitude": -76.0095
+},
+{
+	"City": "Ronda",
+	"State": "NC",
+	"latitude": 36.2217,
+	"longitude": -80.9432
+},
+{
+	"City": "Kelly",
+	"State": "NC",
+	"latitude": 34.4639,
+	"longitude": -78.3109
+},
+{
+	"City": "Saratoga",
+	"State": "NC",
+	"latitude": 35.6537,
+	"longitude": -77.7753
+},
+{
+	"City": "Marshallberg",
+	"State": "NC",
+	"latitude": 34.7266,
+	"longitude": -76.5149
+},
+{
+	"City": "Peachland",
+	"State": "NC",
+	"latitude": 34.9931,
+	"longitude": -80.266
+},
+{
+	"City": "Swan Quarter",
+	"State": "NC",
+	"latitude": 35.4109,
+	"longitude": -76.3251
+},
+{
+	"City": "Staley",
+	"State": "NC",
+	"latitude": 35.7979,
+	"longitude": -79.5518
+},
+{
+	"City": "Duck",
+	"State": "NC",
+	"latitude": 36.1836,
+	"longitude": -75.7559
+},
+{
+	"City": "Vann Crossroads",
+	"State": "NC",
+	"latitude": 35.1697,
+	"longitude": -78.4026
+},
+{
+	"City": "Marble",
+	"State": "NC",
+	"latitude": 35.1771,
+	"longitude": -83.9265
+},
+{
+	"City": "Cove City",
+	"State": "NC",
+	"latitude": 35.189,
+	"longitude": -77.3206
+},
+{
+	"City": "Hookerton",
+	"State": "NC",
+	"latitude": 35.423,
+	"longitude": -77.5895
+},
+{
+	"City": "Webster",
+	"State": "NC",
+	"latitude": 35.35,
+	"longitude": -83.2188
+},
+{
+	"City": "Dover",
+	"State": "NC",
+	"latitude": 35.2155,
+	"longitude": -77.4337
+},
+{
+	"City": "Bunn",
+	"State": "NC",
+	"latitude": 35.9591,
+	"longitude": -78.252
+},
+{
+	"City": "Brookford",
+	"State": "NC",
+	"latitude": 35.703,
+	"longitude": -81.3454
+},
+{
+	"City": "Shannon",
+	"State": "NC",
+	"latitude": 34.8477,
+	"longitude": -79.1395
+},
+{
+	"City": "Bostic",
+	"State": "NC",
+	"latitude": 35.3624,
+	"longitude": -81.836
+},
+{
+	"City": "Forest Hills",
+	"State": "NC",
+	"latitude": 35.2958,
+	"longitude": -83.1954
+},
+{
+	"City": "Rennert",
+	"State": "NC",
+	"latitude": 34.8141,
+	"longitude": -79.0791
+},
+{
+	"City": "Hamilton",
+	"State": "NC",
+	"latitude": 35.9443,
+	"longitude": -77.2067
+},
+{
+	"City": "Cofield",
+	"State": "NC",
+	"latitude": 36.3567,
+	"longitude": -76.9105
+},
+{
+	"City": "Bell Arthur",
+	"State": "NC",
+	"latitude": 35.5912,
+	"longitude": -77.5127
+},
+{
+	"City": "Bethania",
+	"State": "NC",
+	"latitude": 36.1808,
+	"longitude": -80.3376
+},
+{
+	"City": "Centerville",
+	"State": "NC",
+	"latitude": 36.1865,
+	"longitude": -78.1113
+},
+{
+	"City": "Atkinson",
+	"State": "NC",
+	"latitude": 34.5275,
+	"longitude": -78.1697
+},
+{
+	"City": "White Oak",
+	"State": "NC",
+	"latitude": 34.7396,
+	"longitude": -78.7186
+},
+{
+	"City": "Cameron",
+	"State": "NC",
+	"latitude": 35.3259,
+	"longitude": -79.254
+},
+{
+	"City": "Ruffin",
+	"State": "NC",
+	"latitude": 36.4428,
+	"longitude": -79.5433
+},
+{
+	"City": "Ivanhoe",
+	"State": "NC",
+	"latitude": 34.587,
+	"longitude": -78.2447
+},
+{
+	"City": "Beech Mountain",
+	"State": "NC",
+	"latitude": 36.2105,
+	"longitude": -81.8875
+},
+{
+	"City": "Altamahaw",
+	"State": "NC",
+	"latitude": 36.1868,
+	"longitude": -79.5051
+},
+{
+	"City": "Hobgood",
+	"State": "NC",
+	"latitude": 36.0267,
+	"longitude": -77.394
+},
+{
+	"City": "Dublin",
+	"State": "NC",
+	"latitude": 34.6562,
+	"longitude": -78.7231
+},
+{
+	"City": "Waco",
+	"State": "NC",
+	"latitude": 35.3617,
+	"longitude": -81.4286
+},
+{
+	"City": "Mooresboro",
+	"State": "NC",
+	"latitude": 35.2992,
+	"longitude": -81.6986
+},
+{
+	"City": "Sandy Creek",
+	"State": "NC",
+	"latitude": 34.2812,
+	"longitude": -78.1529
+},
+{
+	"City": "Gerton",
+	"State": "NC",
+	"latitude": 35.4758,
+	"longitude": -82.3504
+},
+{
+	"City": "Goldston",
+	"State": "NC",
+	"latitude": 35.5929,
+	"longitude": -79.3286
+},
+{
+	"City": "Cedar Rock",
+	"State": "NC",
+	"latitude": 35.9436,
+	"longitude": -81.458
+},
+{
+	"City": "Sunbury",
+	"State": "NC",
+	"latitude": 36.4469,
+	"longitude": -76.6127
+},
+{
+	"City": "Gatesville",
+	"State": "NC",
+	"latitude": 36.4072,
+	"longitude": -76.7566
+},
+{
+	"City": "Casar",
+	"State": "NC",
+	"latitude": 35.5127,
+	"longitude": -81.6168
+},
+{
+	"City": "Turkey",
+	"State": "NC",
+	"latitude": 34.995,
+	"longitude": -78.1841
+},
+{
+	"City": "Oak City",
+	"State": "NC",
+	"latitude": 35.9617,
+	"longitude": -77.304
+},
+{
+	"City": "Sims",
+	"State": "NC",
+	"latitude": 35.7598,
+	"longitude": -78.058
+},
+{
+	"City": "Davis",
+	"State": "NC",
+	"latitude": 34.7996,
+	"longitude": -76.4641
+},
+{
+	"City": "Pollocksville",
+	"State": "NC",
+	"latitude": 35.0056,
+	"longitude": -77.2214
+},
+{
+	"City": "Trenton",
+	"State": "NC",
+	"latitude": 35.064,
+	"longitude": -77.3553
+},
+{
+	"City": "East Laurinburg",
+	"State": "NC",
+	"latitude": 34.7691,
+	"longitude": -79.445
+},
+{
+	"City": "Stonewall",
+	"State": "NC",
+	"latitude": 35.1371,
+	"longitude": -76.7405
+},
+{
+	"City": "Castalia",
+	"State": "NC",
+	"latitude": 36.0823,
+	"longitude": -78.0576
+},
+{
+	"City": "Falcon",
+	"State": "NC",
+	"latitude": 35.1937,
+	"longitude": -78.6489
+},
+{
+	"City": "Conetoe",
+	"State": "NC",
+	"latitude": 35.8176,
+	"longitude": -77.4569
+},
+{
+	"City": "Hiddenite",
+	"State": "NC",
+	"latitude": 35.9053,
+	"longitude": -81.086
+},
+{
+	"City": "Fairfield",
+	"State": "NC",
+	"latitude": 35.5471,
+	"longitude": -76.2261
+},
+{
+	"City": "Earl",
+	"State": "NC",
+	"latitude": 35.1954,
+	"longitude": -81.534
+},
+{
+	"City": "Parmele",
+	"State": "NC",
+	"latitude": 35.819,
+	"longitude": -77.3146
+},
+{
+	"City": "Delco",
+	"State": "NC",
+	"latitude": 34.3188,
+	"longitude": -78.2267
+},
+{
+	"City": "Dillsboro",
+	"State": "NC",
+	"latitude": 35.3706,
+	"longitude": -83.2526
+},
+{
+	"City": "Powellsville",
+	"State": "NC",
+	"latitude": 36.2253,
+	"longitude": -76.9316
+},
+{
+	"City": "Vandemere",
+	"State": "NC",
+	"latitude": 35.1886,
+	"longitude": -76.6651
+},
+{
+	"City": "Bath",
+	"State": "NC",
+	"latitude": 35.4702,
+	"longitude": -76.8119
+},
+{
+	"City": "Watha",
+	"State": "NC",
+	"latitude": 34.6512,
+	"longitude": -77.9576
+},
+{
+	"City": "Crossnore",
+	"State": "NC",
+	"latitude": 36.0222,
+	"longitude": -81.9307
+},
+{
+	"City": "Severn",
+	"State": "NC",
+	"latitude": 36.5142,
+	"longitude": -77.1893
+},
+{
+	"City": "Creswell",
+	"State": "NC",
+	"latitude": 35.8743,
+	"longitude": -76.4032
+},
+{
+	"City": "Seagrove",
+	"State": "NC",
+	"latitude": 35.5399,
+	"longitude": -79.7788
+},
+{
+	"City": "Momeyer",
+	"State": "NC",
+	"latitude": 35.9592,
+	"longitude": -78.0511
+},
+{
+	"City": "Valle Crucis",
+	"State": "NC",
+	"latitude": 36.2074,
+	"longitude": -81.786
+},
+{
+	"City": "Kelford",
+	"State": "NC",
+	"latitude": 36.1813,
+	"longitude": -77.2243
+},
+{
+	"City": "Askewville",
+	"State": "NC",
+	"latitude": 36.1116,
+	"longitude": -76.9412
+},
+{
+	"City": "Seven Devils",
+	"State": "NC",
+	"latitude": 36.1493,
+	"longitude": -81.8114
+},
+{
+	"City": "Roxobel",
+	"State": "NC",
+	"latitude": 36.2015,
+	"longitude": -77.2398
+},
+{
+	"City": "Mesic",
+	"State": "NC",
+	"latitude": 35.2034,
+	"longitude": -76.645
+},
+{
+	"City": "Walstonburg",
+	"State": "NC",
+	"latitude": 35.596,
+	"longitude": -77.6981
+},
+{
+	"City": "Halifax",
+	"State": "NC",
+	"latitude": 36.3255,
+	"longitude": -77.5901
+},
+{
+	"City": "Wakulla",
+	"State": "NC",
+	"latitude": 34.797,
+	"longitude": -79.256
+},
+{
+	"City": "Autryville",
+	"State": "NC",
+	"latitude": 34.9965,
+	"longitude": -78.6412
+},
+{
+	"City": "Butters",
+	"State": "NC",
+	"latitude": 34.5603,
+	"longitude": -78.8489
+},
+{
+	"City": "Harrells",
+	"State": "NC",
+	"latitude": 34.7279,
+	"longitude": -78.2015
+},
+{
+	"City": "Sugar Mountain",
+	"State": "NC",
+	"latitude": 36.127,
+	"longitude": -81.8649
+},
+{
+	"City": "Raemon",
+	"State": "NC",
+	"latitude": 34.6229,
+	"longitude": -79.3491
+},
+{
+	"City": "Eureka",
+	"State": "NC",
+	"latitude": 35.5413,
+	"longitude": -77.8762
+},
+{
+	"City": "Cerro Gordo",
+	"State": "NC",
+	"latitude": 34.3226,
+	"longitude": -78.9286
+},
+{
+	"City": "Danbury",
+	"State": "NC",
+	"latitude": 36.4113,
+	"longitude": -80.2122
+},
+{
+	"City": "Bald Head Island",
+	"State": "NC",
+	"latitude": 33.866,
+	"longitude": -77.9864
+},
+{
+	"City": "Colerain",
+	"State": "NC",
+	"latitude": 36.2015,
+	"longitude": -76.7664
+},
+{
+	"City": "Pantego",
+	"State": "NC",
+	"latitude": 35.5874,
+	"longitude": -76.6593
+},
+{
+	"City": "Marietta",
+	"State": "NC",
+	"latitude": 34.3681,
+	"longitude": -79.1249
+},
+{
+	"City": "Evergreen",
+	"State": "NC",
+	"latitude": 34.4149,
+	"longitude": -78.9114
+},
+{
+	"City": "Kittrell",
+	"State": "NC",
+	"latitude": 36.2218,
+	"longitude": -78.4413
+},
+{
+	"City": "Gulf",
+	"State": "NC",
+	"latitude": 35.5597,
+	"longitude": -79.2807
+},
+{
+	"City": "Bolivia",
+	"State": "NC",
+	"latitude": 34.0699,
+	"longitude": -78.1472
+},
+{
+	"City": "Lansing",
+	"State": "NC",
+	"latitude": 36.4989,
+	"longitude": -81.5098
+},
+{
+	"City": "Boardman",
+	"State": "NC",
+	"latitude": 34.4365,
+	"longitude": -78.9468
+},
+{
+	"City": "Milton",
+	"State": "NC",
+	"latitude": 36.5372,
+	"longitude": -79.2081
+},
+{
+	"City": "Keener",
+	"State": "NC",
+	"latitude": 35.1131,
+	"longitude": -78.3094
+},
+{
+	"City": "Godwin",
+	"State": "NC",
+	"latitude": 35.2134,
+	"longitude": -78.6771
+},
+{
+	"City": "Everetts",
+	"State": "NC",
+	"latitude": 35.8347,
+	"longitude": -77.1723
+},
+{
+	"City": "Rodanthe",
+	"State": "NC",
+	"latitude": 35.5897,
+	"longitude": -75.466
+},
+{
+	"City": "Middleburg",
+	"State": "NC",
+	"latitude": 36.399,
+	"longitude": -78.3235
+},
+{
+	"City": "Cashiers",
+	"State": "NC",
+	"latitude": 35.1116,
+	"longitude": -83.0975
+},
+{
+	"City": "Linden",
+	"State": "NC",
+	"latitude": 35.2546,
+	"longitude": -78.7483
+},
+{
+	"City": "Norman",
+	"State": "NC",
+	"latitude": 35.1698,
+	"longitude": -79.7231
+},
+{
+	"City": "Indian Beach",
+	"State": "NC",
+	"latitude": 34.6882,
+	"longitude": -76.8876
+},
+{
+	"City": "Chimney Rock Village",
+	"State": "NC",
+	"latitude": 35.4503,
+	"longitude": -82.255
+},
+{
+	"City": "Tar Heel",
+	"State": "NC",
+	"latitude": 34.7339,
+	"longitude": -78.791
+},
+{
+	"City": "Proctorville",
+	"State": "NC",
+	"latitude": 34.4751,
+	"longitude": -79.037
+},
+{
+	"City": "Love Valley",
+	"State": "NC",
+	"latitude": 35.9872,
+	"longitude": -80.9836
+},
+{
+	"City": "Seven Springs",
+	"State": "NC",
+	"latitude": 35.2248,
+	"longitude": -77.8452
+},
+{
+	"City": "Macon",
+	"State": "NC",
+	"latitude": 36.4396,
+	"longitude": -78.0839
+},
+{
+	"City": "McDonald",
+	"State": "NC",
+	"latitude": 34.5537,
+	"longitude": -79.1764
+},
+{
+	"City": "McFarlan",
+	"State": "NC",
+	"latitude": 34.8148,
+	"longitude": -79.9766
+},
+{
+	"City": "Lasker",
+	"State": "NC",
+	"latitude": 36.3502,
+	"longitude": -77.3058
+},
+{
+	"City": "Frisco",
+	"State": "NC",
+	"latitude": 35.2331,
+	"longitude": -75.6289
+},
+{
+	"City": "Pinetown",
+	"State": "NC",
+	"latitude": 35.6111,
+	"longitude": -76.8558
+},
+{
+	"City": "Harrellsville",
+	"State": "NC",
+	"latitude": 36.3016,
+	"longitude": -76.7919
+},
+{
+	"City": "Falkland",
+	"State": "NC",
+	"latitude": 35.6985,
+	"longitude": -77.5132
+},
+{
+	"City": "Salvo",
+	"State": "NC",
+	"latitude": 35.549,
+	"longitude": -75.4689
+},
+{
+	"City": "Lumber Bridge",
+	"State": "NC",
+	"latitude": 34.8898,
+	"longitude": -79.0724
+},
+{
+	"City": "Orrum",
+	"State": "NC",
+	"latitude": 34.4667,
+	"longitude": -79.0089
+},
+{
+	"City": "Como",
+	"State": "NC",
+	"latitude": 36.5011,
+	"longitude": -77.0073
+},
+{
+	"City": "Hassell",
+	"State": "NC",
+	"latitude": 35.9083,
+	"longitude": -77.2763
+},
+{
+	"City": "Dundarrach",
+	"State": "NC",
+	"latitude": 34.9246,
+	"longitude": -79.1574
+},
+{
+	"City": "Speed",
+	"State": "NC",
+	"latitude": 35.9684,
+	"longitude": -77.4444
+},
+{
+	"City": "Raynham",
+	"State": "NC",
+	"latitude": 34.5759,
+	"longitude": -79.1911
+},
+{
+	"City": "Bowmore",
+	"State": "NC",
+	"latitude": 34.9358,
+	"longitude": -79.2999
+},
+{
+	"City": "Bear Grass",
+	"State": "NC",
+	"latitude": 35.766,
+	"longitude": -77.1291
+},
+{
+	"City": "Waves",
+	"State": "NC",
+	"latitude": 35.5672,
+	"longitude": -75.467
+},
+{
+	"City": "Leggett",
+	"State": "NC",
+	"latitude": 35.9896,
+	"longitude": -77.58
+},
+{
+	"City": "Glenville",
+	"State": "NC",
+	"latitude": 35.1718,
+	"longitude": -83.1273
+},
+{
+	"City": "Lake Santeetlah",
+	"State": "NC",
+	"latitude": 35.3636,
+	"longitude": -83.8664
+},
+{
+	"City": "Delway",
+	"State": "NC",
+	"latitude": 34.8102,
+	"longitude": -78.2169
+},
+{
+	"City": "Hobucken",
+	"State": "NC",
+	"latitude": 35.2544,
+	"longitude": -76.5712
+},
+{
+	"City": "Grandfather",
+	"State": "NC",
+	"latitude": 36.0987,
+	"longitude": -81.8482
+},
+{
+	"City": "Fontana Dam",
+	"State": "NC",
+	"latitude": 35.4328,
+	"longitude": -83.8248
+},
+{
+	"City": "Blue Clay Farms",
+	"State": "NC",
+	"latitude": 34.3005,
+	"longitude": -77.8917
+}]

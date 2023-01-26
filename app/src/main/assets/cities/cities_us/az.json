@@ -1,0 +1,2563 @@
+[
+{
+	"City": "Phoenix",
+	"State": "AZ",
+	"latitude": 33.5722,
+	"longitude": -112.0891
+},
+{
+	"City": "Tucson",
+	"State": "AZ",
+	"latitude": 32.1545,
+	"longitude": -110.8782
+},
+{
+	"City": "Mesa",
+	"State": "AZ",
+	"latitude": 33.4017,
+	"longitude": -111.718
+},
+{
+	"City": "Chandler",
+	"State": "AZ",
+	"latitude": 33.2826,
+	"longitude": -111.8516
+},
+{
+	"City": "Scottsdale",
+	"State": "AZ",
+	"latitude": 33.6872,
+	"longitude": -111.8651
+},
+{
+	"City": "Gilbert",
+	"State": "AZ",
+	"latitude": 33.3101,
+	"longitude": -111.7463
+},
+{
+	"City": "Glendale",
+	"State": "AZ",
+	"latitude": 33.5791,
+	"longitude": -112.2311
+},
+{
+	"City": "Avondale",
+	"State": "AZ",
+	"latitude": 33.3858,
+	"longitude": -112.3236
+},
+{
+	"City": "Tempe",
+	"State": "AZ",
+	"latitude": 33.3881,
+	"longitude": -111.9318
+},
+{
+	"City": "Peoria",
+	"State": "AZ",
+	"latitude": 33.7844,
+	"longitude": -112.2989
+},
+{
+	"City": "Yuma",
+	"State": "AZ",
+	"latitude": 32.5992,
+	"longitude": -114.5488
+},
+{
+	"City": "Surprise",
+	"State": "AZ",
+	"latitude": 33.68,
+	"longitude": -112.4524
+},
+{
+	"City": "Prescott Valley",
+	"State": "AZ",
+	"latitude": 34.5983,
+	"longitude": -112.3176
+},
+{
+	"City": "San Tan Valley",
+	"State": "AZ",
+	"latitude": 33.1879,
+	"longitude": -111.5472
+},
+{
+	"City": "Goodyear",
+	"State": "AZ",
+	"latitude": 33.2613,
+	"longitude": -112.3622
+},
+{
+	"City": "Flagstaff",
+	"State": "AZ",
+	"latitude": 35.1872,
+	"longitude": -111.6195
+},
+{
+	"City": "Buckeye",
+	"State": "AZ",
+	"latitude": 33.4314,
+	"longitude": -112.6429
+},
+{
+	"City": "Casas Adobes",
+	"State": "AZ",
+	"latitude": 32.3423,
+	"longitude": -111.0114
+},
+{
+	"City": "Casa Grande",
+	"State": "AZ",
+	"latitude": 32.9068,
+	"longitude": -111.7624
+},
+{
+	"City": "Lake Havasu City",
+	"State": "AZ",
+	"latitude": 34.5006,
+	"longitude": -114.3113
+},
+{
+	"City": "Maricopa",
+	"State": "AZ",
+	"latitude": 33.0404,
+	"longitude": -112.0006
+},
+{
+	"City": "Sierra Vista",
+	"State": "AZ",
+	"latitude": 31.563,
+	"longitude": -110.3153
+},
+{
+	"City": "Queen Creek",
+	"State": "AZ",
+	"latitude": 33.2386,
+	"longitude": -111.6343
+},
+{
+	"City": "Sahuarita",
+	"State": "AZ",
+	"latitude": 31.9323,
+	"longitude": -110.9654
+},
+{
+	"City": "Catalina Foothills",
+	"State": "AZ",
+	"latitude": 32.3041,
+	"longitude": -110.8835
+},
+{
+	"City": "Bullhead City",
+	"State": "AZ",
+	"latitude": 35.1205,
+	"longitude": -114.546
+},
+{
+	"City": "Marana",
+	"State": "AZ",
+	"latitude": 32.4355,
+	"longitude": -111.1558
+},
+{
+	"City": "Kingman",
+	"State": "AZ",
+	"latitude": 35.217,
+	"longitude": -114.0105
+},
+{
+	"City": "Oro Valley",
+	"State": "AZ",
+	"latitude": 32.4208,
+	"longitude": -110.9768
+},
+{
+	"City": "Prescott",
+	"State": "AZ",
+	"latitude": 34.585,
+	"longitude": -112.4475
+},
+{
+	"City": "Apache Junction",
+	"State": "AZ",
+	"latitude": 33.3985,
+	"longitude": -111.5351
+},
+{
+	"City": "Sun City",
+	"State": "AZ",
+	"latitude": 33.6165,
+	"longitude": -112.2819
+},
+{
+	"City": "El Mirage",
+	"State": "AZ",
+	"latitude": 33.5905,
+	"longitude": -112.3271
+},
+{
+	"City": "San Luis",
+	"State": "AZ",
+	"latitude": 32.4911,
+	"longitude": -114.7089
+},
+{
+	"City": "Nogales",
+	"State": "AZ",
+	"latitude": 31.3624,
+	"longitude": -110.9336
+},
+{
+	"City": "Fortuna Foothills",
+	"State": "AZ",
+	"latitude": 32.6616,
+	"longitude": -114.3973
+},
+{
+	"City": "Drexel Heights",
+	"State": "AZ",
+	"latitude": 32.1457,
+	"longitude": -111.0478
+},
+{
+	"City": "Florence",
+	"State": "AZ",
+	"latitude": 33.059,
+	"longitude": -111.4208
+},
+{
+	"City": "Sun City West",
+	"State": "AZ",
+	"latitude": 33.6693,
+	"longitude": -112.3575
+},
+{
+	"City": "Fountain Hills",
+	"State": "AZ",
+	"latitude": 33.6073,
+	"longitude": -111.7398
+},
+{
+	"City": "Anthem",
+	"State": "AZ",
+	"latitude": 33.856,
+	"longitude": -112.1168
+},
+{
+	"City": "Green Valley",
+	"State": "AZ",
+	"latitude": 31.8436,
+	"longitude": -111.0174
+},
+{
+	"City": "Safford",
+	"State": "AZ",
+	"latitude": 32.8317,
+	"longitude": -109.7005
+},
+{
+	"City": "Somerton",
+	"State": "AZ",
+	"latitude": 32.6009,
+	"longitude": -114.699
+},
+{
+	"City": "Eloy",
+	"State": "AZ",
+	"latitude": 32.747,
+	"longitude": -111.5991
+},
+{
+	"City": "Rio Rico",
+	"State": "AZ",
+	"latitude": 31.4957,
+	"longitude": -110.9886
+},
+{
+	"City": "Douglas",
+	"State": "AZ",
+	"latitude": 31.3602,
+	"longitude": -109.5394
+},
+{
+	"City": "New River",
+	"State": "AZ",
+	"latitude": 33.8835,
+	"longitude": -112.0858
+},
+{
+	"City": "Sierra Vista Southeast",
+	"State": "AZ",
+	"latitude": 31.4525,
+	"longitude": -110.216
+},
+{
+	"City": "Payson",
+	"State": "AZ",
+	"latitude": 34.2434,
+	"longitude": -111.3195
+},
+{
+	"City": "Flowing Wells",
+	"State": "AZ",
+	"latitude": 32.2937,
+	"longitude": -111.011
+},
+{
+	"City": "Tanque Verde",
+	"State": "AZ",
+	"latitude": 32.2687,
+	"longitude": -110.7437
+},
+{
+	"City": "Fort Mohave",
+	"State": "AZ",
+	"latitude": 35.0004,
+	"longitude": -114.5748
+},
+{
+	"City": "Paradise Valley",
+	"State": "AZ",
+	"latitude": 33.5434,
+	"longitude": -111.9595
+},
+{
+	"City": "Sun Lakes",
+	"State": "AZ",
+	"latitude": 33.2172,
+	"longitude": -111.8695
+},
+{
+	"City": "New Kingman-Butler",
+	"State": "AZ",
+	"latitude": 35.2645,
+	"longitude": -114.0091
+},
+{
+	"City": "Globe",
+	"State": "AZ",
+	"latitude": 33.3869,
+	"longitude": -110.7515
+},
+{
+	"City": "Coolidge",
+	"State": "AZ",
+	"latitude": 32.9395,
+	"longitude": -111.5261
+},
+{
+	"City": "Vail",
+	"State": "AZ",
+	"latitude": 32.0217,
+	"longitude": -110.6937
+},
+{
+	"City": "Verde Village",
+	"State": "AZ",
+	"latitude": 34.7122,
+	"longitude": -111.9943
+},
+{
+	"City": "Chino Valley",
+	"State": "AZ",
+	"latitude": 34.7593,
+	"longitude": -112.4107
+},
+{
+	"City": "Cottonwood",
+	"State": "AZ",
+	"latitude": 34.7192,
+	"longitude": -112.0014
+},
+{
+	"City": "Tucson Estates",
+	"State": "AZ",
+	"latitude": 32.1792,
+	"longitude": -111.1254
+},
+{
+	"City": "Valencia West",
+	"State": "AZ",
+	"latitude": 32.1355,
+	"longitude": -111.1123
+},
+{
+	"City": "Gold Canyon",
+	"State": "AZ",
+	"latitude": 33.3715,
+	"longitude": -111.4369
+},
+{
+	"City": "Show Low",
+	"State": "AZ",
+	"latitude": 34.2671,
+	"longitude": -110.0384
+},
+{
+	"City": "Arizona City",
+	"State": "AZ",
+	"latitude": 32.7506,
+	"longitude": -111.6707
+},
+{
+	"City": "Camp Verde",
+	"State": "AZ",
+	"latitude": 34.5699,
+	"longitude": -111.8573
+},
+{
+	"City": "Saddlebrooke",
+	"State": "AZ",
+	"latitude": 32.5385,
+	"longitude": -110.8582
+},
+{
+	"City": "Sedona",
+	"State": "AZ",
+	"latitude": 34.8574,
+	"longitude": -111.7951
+},
+{
+	"City": "Picture Rocks",
+	"State": "AZ",
+	"latitude": 32.3274,
+	"longitude": -111.2557
+},
+{
+	"City": "Winslow",
+	"State": "AZ",
+	"latitude": 35.0253,
+	"longitude": -110.7098
+},
+{
+	"City": "Golden Valley",
+	"State": "AZ",
+	"latitude": 35.206,
+	"longitude": -114.2327
+},
+{
+	"City": "Tuba City",
+	"State": "AZ",
+	"latitude": 36.125,
+	"longitude": -111.2468
+},
+{
+	"City": "Corona de Tucson",
+	"State": "AZ",
+	"latitude": 31.9495,
+	"longitude": -110.7836
+},
+{
+	"City": "Colorado City",
+	"State": "AZ",
+	"latitude": 36.9774,
+	"longitude": -112.983
+},
+{
+	"City": "Wickenburg",
+	"State": "AZ",
+	"latitude": 33.9837,
+	"longitude": -112.7668
+},
+{
+	"City": "Catalina",
+	"State": "AZ",
+	"latitude": 32.4848,
+	"longitude": -110.8998
+},
+{
+	"City": "Page",
+	"State": "AZ",
+	"latitude": 36.9426,
+	"longitude": -111.5071
+},
+{
+	"City": "Tolleson",
+	"State": "AZ",
+	"latitude": 33.4484,
+	"longitude": -112.2561
+},
+{
+	"City": "Youngtown",
+	"State": "AZ",
+	"latitude": 33.5846,
+	"longitude": -112.3047
+},
+{
+	"City": "Snowflake",
+	"State": "AZ",
+	"latitude": 34.5225,
+	"longitude": -110.0913
+},
+{
+	"City": "Guadalupe",
+	"State": "AZ",
+	"latitude": 33.3664,
+	"longitude": -111.9633
+},
+{
+	"City": "Litchfield Park",
+	"State": "AZ",
+	"latitude": 33.5024,
+	"longitude": -112.3586
+},
+{
+	"City": "Village of Oak Creek",
+	"State": "AZ",
+	"latitude": 34.7813,
+	"longitude": -111.7606
+},
+{
+	"City": "Avra Valley",
+	"State": "AZ",
+	"latitude": 32.4195,
+	"longitude": -111.3393
+},
+{
+	"City": "Eagar",
+	"State": "AZ",
+	"latitude": 34.1058,
+	"longitude": -109.2956
+},
+{
+	"City": "Cave Creek",
+	"State": "AZ",
+	"latitude": 33.8513,
+	"longitude": -111.9801
+},
+{
+	"City": "South Tucson",
+	"State": "AZ",
+	"latitude": 32.1955,
+	"longitude": -110.9692
+},
+{
+	"City": "Kayenta",
+	"State": "AZ",
+	"latitude": 36.7144,
+	"longitude": -110.2589
+},
+{
+	"City": "Citrus Park",
+	"State": "AZ",
+	"latitude": 33.5304,
+	"longitude": -112.444
+},
+{
+	"City": "Williamson",
+	"State": "AZ",
+	"latitude": 34.7082,
+	"longitude": -112.5342
+},
+{
+	"City": "Rincon Valley",
+	"State": "AZ",
+	"latitude": 32.1101,
+	"longitude": -110.6889
+},
+{
+	"City": "Bisbee",
+	"State": "AZ",
+	"latitude": 31.4126,
+	"longitude": -109.9179
+},
+{
+	"City": "Thatcher",
+	"State": "AZ",
+	"latitude": 32.832,
+	"longitude": -109.7595
+},
+{
+	"City": "Paulden",
+	"State": "AZ",
+	"latitude": 34.8899,
+	"longitude": -112.4938
+},
+{
+	"City": "Holbrook",
+	"State": "AZ",
+	"latitude": 34.9044,
+	"longitude": -110.1672
+},
+{
+	"City": "Clifton",
+	"State": "AZ",
+	"latitude": 33.0249,
+	"longitude": -109.2883
+},
+{
+	"City": "Doney Park",
+	"State": "AZ",
+	"latitude": 35.2687,
+	"longitude": -111.5053
+},
+{
+	"City": "Parker",
+	"State": "AZ",
+	"latitude": 34.0286,
+	"longitude": -114.2224
+},
+{
+	"City": "Benson",
+	"State": "AZ",
+	"latitude": 31.9157,
+	"longitude": -110.3257
+},
+{
+	"City": "Chinle",
+	"State": "AZ",
+	"latitude": 36.1504,
+	"longitude": -109.5794
+},
+{
+	"City": "Three Points",
+	"State": "AZ",
+	"latitude": 32.0596,
+	"longitude": -111.2866
+},
+{
+	"City": "Summit",
+	"State": "AZ",
+	"latitude": 32.0619,
+	"longitude": -110.9483
+},
+{
+	"City": "Fort Defiance",
+	"State": "AZ",
+	"latitude": 35.7469,
+	"longitude": -109.0685
+},
+{
+	"City": "Pinetop-Lakeside",
+	"State": "AZ",
+	"latitude": 34.1486,
+	"longitude": -109.9658
+},
+{
+	"City": "San Carlos",
+	"State": "AZ",
+	"latitude": 33.35,
+	"longitude": -110.4654
+},
+{
+	"City": "Clarkdale",
+	"State": "AZ",
+	"latitude": 34.7503,
+	"longitude": -112.055
+},
+{
+	"City": "Lake Montezuma",
+	"State": "AZ",
+	"latitude": 34.6414,
+	"longitude": -111.796
+},
+{
+	"City": "Taylor",
+	"State": "AZ",
+	"latitude": 34.4393,
+	"longitude": -110.1018
+},
+{
+	"City": "Whiteriver",
+	"State": "AZ",
+	"latitude": 33.8358,
+	"longitude": -109.9616
+},
+{
+	"City": "Red Rock",
+	"State": "AZ",
+	"latitude": 32.561,
+	"longitude": -111.3745
+},
+{
+	"City": "Dewey-Humboldt",
+	"State": "AZ",
+	"latitude": 34.5175,
+	"longitude": -112.2498
+},
+{
+	"City": "Carefree",
+	"State": "AZ",
+	"latitude": 33.8234,
+	"longitude": -111.9161
+},
+{
+	"City": "Avenue B and C",
+	"State": "AZ",
+	"latitude": 32.7192,
+	"longitude": -114.6599
+},
+{
+	"City": "Quartzsite",
+	"State": "AZ",
+	"latitude": 33.6675,
+	"longitude": -114.217
+},
+{
+	"City": "San Manuel",
+	"State": "AZ",
+	"latitude": 32.6091,
+	"longitude": -110.6415
+},
+{
+	"City": "Lake of the Woods",
+	"State": "AZ",
+	"latitude": 34.1547,
+	"longitude": -109.9936
+},
+{
+	"City": "Oracle",
+	"State": "AZ",
+	"latitude": 32.6085,
+	"longitude": -110.7826
+},
+{
+	"City": "Willcox",
+	"State": "AZ",
+	"latitude": 32.2514,
+	"longitude": -109.8359
+},
+{
+	"City": "St. Johns",
+	"State": "AZ",
+	"latitude": 34.5018,
+	"longitude": -109.3784
+},
+{
+	"City": "Cornville",
+	"State": "AZ",
+	"latitude": 34.7389,
+	"longitude": -111.9086
+},
+{
+	"City": "Williams",
+	"State": "AZ",
+	"latitude": 35.2476,
+	"longitude": -112.1833
+},
+{
+	"City": "Superior",
+	"State": "AZ",
+	"latitude": 33.2851,
+	"longitude": -111.1109
+},
+{
+	"City": "Wellton",
+	"State": "AZ",
+	"latitude": 32.64,
+	"longitude": -114.214
+},
+{
+	"City": "Kachina Village",
+	"State": "AZ",
+	"latitude": 35.0949,
+	"longitude": -111.6927
+},
+{
+	"City": "Swift Trail Junction",
+	"State": "AZ",
+	"latitude": 32.7305,
+	"longitude": -109.7147
+},
+{
+	"City": "Ajo",
+	"State": "AZ",
+	"latitude": 32.3923,
+	"longitude": -112.8839
+},
+{
+	"City": "Black Canyon City",
+	"State": "AZ",
+	"latitude": 34.0709,
+	"longitude": -112.122
+},
+{
+	"City": "Linden",
+	"State": "AZ",
+	"latitude": 34.2625,
+	"longitude": -110.1424
+},
+{
+	"City": "Central Heights-Midland City",
+	"State": "AZ",
+	"latitude": 33.4,
+	"longitude": -110.8153
+},
+{
+	"City": "White Mountain Lake",
+	"State": "AZ",
+	"latitude": 34.3441,
+	"longitude": -109.9879
+},
+{
+	"City": "Heber-Overgaard",
+	"State": "AZ",
+	"latitude": 34.4141,
+	"longitude": -110.5696
+},
+{
+	"City": "Mohave Valley",
+	"State": "AZ",
+	"latitude": 34.9008,
+	"longitude": -114.5732
+},
+{
+	"City": "Desert Hills",
+	"State": "AZ",
+	"latitude": 34.5506,
+	"longitude": -114.3754
+},
+{
+	"City": "Sells",
+	"State": "AZ",
+	"latitude": 31.9202,
+	"longitude": -111.8775
+},
+{
+	"City": "Cordes Lakes",
+	"State": "AZ",
+	"latitude": 34.3103,
+	"longitude": -112.1073
+},
+{
+	"City": "Pima",
+	"State": "AZ",
+	"latitude": 32.8886,
+	"longitude": -109.8437
+},
+{
+	"City": "Window Rock",
+	"State": "AZ",
+	"latitude": 35.6705,
+	"longitude": -109.0639
+},
+{
+	"City": "Star Valley",
+	"State": "AZ",
+	"latitude": 34.2611,
+	"longitude": -111.2197
+},
+{
+	"City": "Whetstone",
+	"State": "AZ",
+	"latitude": 31.7011,
+	"longitude": -110.3398
+},
+{
+	"City": "Grand Canyon Village",
+	"State": "AZ",
+	"latitude": 36.0492,
+	"longitude": -112.1566
+},
+{
+	"City": "Dolan Springs",
+	"State": "AZ",
+	"latitude": 35.5905,
+	"longitude": -114.2852
+},
+{
+	"City": "Valle Vista",
+	"State": "AZ",
+	"latitude": 35.4109,
+	"longitude": -113.8627
+},
+{
+	"City": "Rio Verde",
+	"State": "AZ",
+	"latitude": 33.7278,
+	"longitude": -111.674
+},
+{
+	"City": "Cibecue",
+	"State": "AZ",
+	"latitude": 34.0333,
+	"longitude": -110.4854
+},
+{
+	"City": "Kearny",
+	"State": "AZ",
+	"latitude": 33.0564,
+	"longitude": -110.9074
+},
+{
+	"City": "Gila Bend",
+	"State": "AZ",
+	"latitude": 32.9662,
+	"longitude": -112.7155
+},
+{
+	"City": "Springerville",
+	"State": "AZ",
+	"latitude": 34.156,
+	"longitude": -109.2989
+},
+{
+	"City": "First Mesa",
+	"State": "AZ",
+	"latitude": 35.8389,
+	"longitude": -110.3665
+},
+{
+	"City": "Mayer",
+	"State": "AZ",
+	"latitude": 34.4233,
+	"longitude": -112.2408
+},
+{
+	"City": "Cienega Springs",
+	"State": "AZ",
+	"latitude": 34.2008,
+	"longitude": -114.2089
+},
+{
+	"City": "Sacaton",
+	"State": "AZ",
+	"latitude": 33.0793,
+	"longitude": -111.7683
+},
+{
+	"City": "Second Mesa",
+	"State": "AZ",
+	"latitude": 35.8222,
+	"longitude": -110.4884
+},
+{
+	"City": "Pine",
+	"State": "AZ",
+	"latitude": 34.3788,
+	"longitude": -111.4574
+},
+{
+	"City": "Miami",
+	"State": "AZ",
+	"latitude": 33.3951,
+	"longitude": -110.8721
+},
+{
+	"City": "Bagdad",
+	"State": "AZ",
+	"latitude": 34.5771,
+	"longitude": -113.1771
+},
+{
+	"City": "Huachuca City",
+	"State": "AZ",
+	"latitude": 31.6308,
+	"longitude": -110.3422
+},
+{
+	"City": "Scenic",
+	"State": "AZ",
+	"latitude": 36.7931,
+	"longitude": -114.0151
+},
+{
+	"City": "Mammoth",
+	"State": "AZ",
+	"latitude": 32.6853,
+	"longitude": -110.7292
+},
+{
+	"City": "Bylas",
+	"State": "AZ",
+	"latitude": 33.1292,
+	"longitude": -110.1163
+},
+{
+	"City": "Tonto Basin",
+	"State": "AZ",
+	"latitude": 33.8361,
+	"longitude": -111.3003
+},
+{
+	"City": "Peridot",
+	"State": "AZ",
+	"latitude": 33.3015,
+	"longitude": -110.4554
+},
+{
+	"City": "North Fork",
+	"State": "AZ",
+	"latitude": 33.9965,
+	"longitude": -109.9593
+},
+{
+	"City": "Joseph City",
+	"State": "AZ",
+	"latitude": 34.9614,
+	"longitude": -110.3274
+},
+{
+	"City": "Blackwater",
+	"State": "AZ",
+	"latitude": 33.0396,
+	"longitude": -111.5798
+},
+{
+	"City": "Kaibito",
+	"State": "AZ",
+	"latitude": 36.592,
+	"longitude": -111.1071
+},
+{
+	"City": "Congress",
+	"State": "AZ",
+	"latitude": 34.1526,
+	"longitude": -112.8642
+},
+{
+	"City": "Canyon Day",
+	"State": "AZ",
+	"latitude": 33.7826,
+	"longitude": -110.0328
+},
+{
+	"City": "Spring Valley",
+	"State": "AZ",
+	"latitude": 34.3531,
+	"longitude": -112.1513
+},
+{
+	"City": "Morenci",
+	"State": "AZ",
+	"latitude": 33.0531,
+	"longitude": -109.3307
+},
+{
+	"City": "Pirtleville",
+	"State": "AZ",
+	"latitude": 31.3613,
+	"longitude": -109.5661
+},
+{
+	"City": "LeChee",
+	"State": "AZ",
+	"latitude": 36.871,
+	"longitude": -111.4328
+},
+{
+	"City": "Mescal",
+	"State": "AZ",
+	"latitude": 31.9675,
+	"longitude": -110.4368
+},
+{
+	"City": "Lukachukai",
+	"State": "AZ",
+	"latitude": 36.4112,
+	"longitude": -109.2267
+},
+{
+	"City": "Parks",
+	"State": "AZ",
+	"latitude": 35.2939,
+	"longitude": -111.9771
+},
+{
+	"City": "Wagon Wheel",
+	"State": "AZ",
+	"latitude": 34.1976,
+	"longitude": -110.0273
+},
+{
+	"City": "Pinetop Country Club",
+	"State": "AZ",
+	"latitude": 34.1163,
+	"longitude": -109.8909
+},
+{
+	"City": "Donovan Estates",
+	"State": "AZ",
+	"latitude": 32.7094,
+	"longitude": -114.6782
+},
+{
+	"City": "Salome",
+	"State": "AZ",
+	"latitude": 33.7778,
+	"longitude": -113.6061
+},
+{
+	"City": "Tubac",
+	"State": "AZ",
+	"latitude": 31.6111,
+	"longitude": -111.0585
+},
+{
+	"City": "Cactus Flats",
+	"State": "AZ",
+	"latitude": 32.7642,
+	"longitude": -109.7205
+},
+{
+	"City": "Centennial Park",
+	"State": "AZ",
+	"latitude": 36.9538,
+	"longitude": -112.9813
+},
+{
+	"City": "Tsaile",
+	"State": "AZ",
+	"latitude": 36.3033,
+	"longitude": -109.2157
+},
+{
+	"City": "Leupp",
+	"State": "AZ",
+	"latitude": 35.2966,
+	"longitude": -111.0027
+},
+{
+	"City": "Beaver Dam",
+	"State": "AZ",
+	"latitude": 36.9071,
+	"longitude": -113.9363
+},
+{
+	"City": "Tombstone",
+	"State": "AZ",
+	"latitude": 31.7234,
+	"longitude": -110.0798
+},
+{
+	"City": "Peach Springs",
+	"State": "AZ",
+	"latitude": 35.5315,
+	"longitude": -113.4319
+},
+{
+	"City": "Fredonia",
+	"State": "AZ",
+	"latitude": 36.9617,
+	"longitude": -112.5195
+},
+{
+	"City": "Fort Valley",
+	"State": "AZ",
+	"latitude": 35.2554,
+	"longitude": -111.7253
+},
+{
+	"City": "Moenkopi",
+	"State": "AZ",
+	"latitude": 36.1124,
+	"longitude": -111.2212
+},
+{
+	"City": "Arivaca Junction",
+	"State": "AZ",
+	"latitude": 31.739,
+	"longitude": -111.0738
+},
+{
+	"City": "Six Shooter Canyon",
+	"State": "AZ",
+	"latitude": 33.3568,
+	"longitude": -110.772
+},
+{
+	"City": "St. David",
+	"State": "AZ",
+	"latitude": 31.8992,
+	"longitude": -110.2251
+},
+{
+	"City": "Ak-Chin Village",
+	"State": "AZ",
+	"latitude": 33.0197,
+	"longitude": -112.0808
+},
+{
+	"City": "Meadview",
+	"State": "AZ",
+	"latitude": 35.9531,
+	"longitude": -114.0789
+},
+{
+	"City": "Many Farms",
+	"State": "AZ",
+	"latitude": 36.3532,
+	"longitude": -109.6271
+},
+{
+	"City": "Dilkon",
+	"State": "AZ",
+	"latitude": 35.3606,
+	"longitude": -110.3155
+},
+{
+	"City": "Claypool",
+	"State": "AZ",
+	"latitude": 33.406,
+	"longitude": -110.8421
+},
+{
+	"City": "Ehrenberg",
+	"State": "AZ",
+	"latitude": 33.6174,
+	"longitude": -114.4883
+},
+{
+	"City": "St. Michaels",
+	"State": "AZ",
+	"latitude": 35.6606,
+	"longitude": -109.0962
+},
+{
+	"City": "Arizona Village",
+	"State": "AZ",
+	"latitude": 34.8548,
+	"longitude": -114.5893
+},
+{
+	"City": "Bouse",
+	"State": "AZ",
+	"latitude": 33.8984,
+	"longitude": -113.9962
+},
+{
+	"City": "Hotevilla-Bacavi",
+	"State": "AZ",
+	"latitude": 35.9225,
+	"longitude": -110.6569
+},
+{
+	"City": "Dudleyville",
+	"State": "AZ",
+	"latitude": 32.9128,
+	"longitude": -110.7345
+},
+{
+	"City": "Rainbow City",
+	"State": "AZ",
+	"latitude": 33.8731,
+	"longitude": -109.9763
+},
+{
+	"City": "Shongopovi",
+	"State": "AZ",
+	"latitude": 35.8195,
+	"longitude": -110.5331
+},
+{
+	"City": "Wilhoit",
+	"State": "AZ",
+	"latitude": 34.4083,
+	"longitude": -112.6156
+},
+{
+	"City": "Casa Blanca",
+	"State": "AZ",
+	"latitude": 33.1154,
+	"longitude": -111.9081
+},
+{
+	"City": "Ganado",
+	"State": "AZ",
+	"latitude": 35.7016,
+	"longitude": -109.5504
+},
+{
+	"City": "Bluewater",
+	"State": "AZ",
+	"latitude": 34.1681,
+	"longitude": -114.2667
+},
+{
+	"City": "Mesa del Caballo",
+	"State": "AZ",
+	"latitude": 34.286,
+	"longitude": -111.2952
+},
+{
+	"City": "Seven Mile",
+	"State": "AZ",
+	"latitude": 33.7882,
+	"longitude": -109.9576
+},
+{
+	"City": "Strawberry",
+	"State": "AZ",
+	"latitude": 34.4018,
+	"longitude": -111.5002
+},
+{
+	"City": "Golden Shores",
+	"State": "AZ",
+	"latitude": 34.7819,
+	"longitude": -114.4777
+},
+{
+	"City": "Hondah",
+	"State": "AZ",
+	"latitude": 34.086,
+	"longitude": -109.915
+},
+{
+	"City": "Naco",
+	"State": "AZ",
+	"latitude": 31.3431,
+	"longitude": -109.9336
+},
+{
+	"City": "Cameron",
+	"State": "AZ",
+	"latitude": 35.8537,
+	"longitude": -111.4269
+},
+{
+	"City": "Chilchinbito",
+	"State": "AZ",
+	"latitude": 36.5027,
+	"longitude": -110.0512
+},
+{
+	"City": "Komatke",
+	"State": "AZ",
+	"latitude": 33.2953,
+	"longitude": -112.1615
+},
+{
+	"City": "Pimaco Two",
+	"State": "AZ",
+	"latitude": 31.9666,
+	"longitude": -110.4664
+},
+{
+	"City": "Dennehotso",
+	"State": "AZ",
+	"latitude": 36.8209,
+	"longitude": -109.879
+},
+{
+	"City": "Pinon",
+	"State": "AZ",
+	"latitude": 36.0992,
+	"longitude": -110.2209
+},
+{
+	"City": "Aguila",
+	"State": "AZ",
+	"latitude": 33.9376,
+	"longitude": -113.1665
+},
+{
+	"City": "Parker Strip",
+	"State": "AZ",
+	"latitude": 34.2803,
+	"longitude": -114.1269
+},
+{
+	"City": "Kykotsmovi Village",
+	"State": "AZ",
+	"latitude": 35.8576,
+	"longitude": -110.6338
+},
+{
+	"City": "Munds Park",
+	"State": "AZ",
+	"latitude": 34.9382,
+	"longitude": -111.6318
+},
+{
+	"City": "Cactus Forest",
+	"State": "AZ",
+	"latitude": 32.9578,
+	"longitude": -111.317
+},
+{
+	"City": "Patagonia",
+	"State": "AZ",
+	"latitude": 31.5436,
+	"longitude": -110.7477
+},
+{
+	"City": "Houck",
+	"State": "AZ",
+	"latitude": 35.2714,
+	"longitude": -109.2236
+},
+{
+	"City": "Whitecone",
+	"State": "AZ",
+	"latitude": 35.6037,
+	"longitude": -110.0791
+},
+{
+	"City": "Elephant Head",
+	"State": "AZ",
+	"latitude": 31.7659,
+	"longitude": -110.9921
+},
+{
+	"City": "Teec Nos Pos",
+	"State": "AZ",
+	"latitude": 36.9221,
+	"longitude": -109.0753
+},
+{
+	"City": "Mountainaire",
+	"State": "AZ",
+	"latitude": 35.0921,
+	"longitude": -111.6493
+},
+{
+	"City": "Sonoita",
+	"State": "AZ",
+	"latitude": 31.6645,
+	"longitude": -110.6426
+},
+{
+	"City": "Duncan",
+	"State": "AZ",
+	"latitude": 32.7344,
+	"longitude": -109.0972
+},
+{
+	"City": "Willow Valley",
+	"State": "AZ",
+	"latitude": 34.9296,
+	"longitude": -114.6159
+},
+{
+	"City": "Gila Crossing",
+	"State": "AZ",
+	"latitude": 33.273,
+	"longitude": -112.1627
+},
+{
+	"City": "Seligman",
+	"State": "AZ",
+	"latitude": 35.3256,
+	"longitude": -112.8573
+},
+{
+	"City": "Sawmill",
+	"State": "AZ",
+	"latitude": 35.8924,
+	"longitude": -109.1538
+},
+{
+	"City": "Miracle Valley",
+	"State": "AZ",
+	"latitude": 31.3829,
+	"longitude": -110.1484
+},
+{
+	"City": "Round Valley",
+	"State": "AZ",
+	"latitude": 34.1877,
+	"longitude": -111.3018
+},
+{
+	"City": "Yarnell",
+	"State": "AZ",
+	"latitude": 34.2283,
+	"longitude": -112.7631
+},
+{
+	"City": "Burnside",
+	"State": "AZ",
+	"latitude": 35.7534,
+	"longitude": -109.6247
+},
+{
+	"City": "Low Mountain",
+	"State": "AZ",
+	"latitude": 35.9481,
+	"longitude": -110.0981
+},
+{
+	"City": "Arivaca",
+	"State": "AZ",
+	"latitude": 31.575,
+	"longitude": -111.2926
+},
+{
+	"City": "San Jose",
+	"State": "AZ",
+	"latitude": 32.8169,
+	"longitude": -109.5957
+},
+{
+	"City": "East Fork",
+	"State": "AZ",
+	"latitude": 33.8081,
+	"longitude": -109.9227
+},
+{
+	"City": "Ash Fork",
+	"State": "AZ",
+	"latitude": 35.2172,
+	"longitude": -112.4912
+},
+{
+	"City": "Wittmann",
+	"State": "AZ",
+	"latitude": 33.7749,
+	"longitude": -112.5251
+},
+{
+	"City": "York",
+	"State": "AZ",
+	"latitude": 32.9175,
+	"longitude": -109.196
+},
+{
+	"City": "McNary",
+	"State": "AZ",
+	"latitude": 34.0923,
+	"longitude": -109.8541
+},
+{
+	"City": "Walnut Creek",
+	"State": "AZ",
+	"latitude": 35.1312,
+	"longitude": -114.1267
+},
+{
+	"City": "Round Rock",
+	"State": "AZ",
+	"latitude": 36.5044,
+	"longitude": -109.4616
+},
+{
+	"City": "Vicksburg",
+	"State": "AZ",
+	"latitude": 33.7293,
+	"longitude": -113.8254
+},
+{
+	"City": "Winslow West",
+	"State": "AZ",
+	"latitude": 34.9923,
+	"longitude": -110.7069
+},
+{
+	"City": "Tacna",
+	"State": "AZ",
+	"latitude": 32.7004,
+	"longitude": -113.9618
+},
+{
+	"City": "Tees Toh",
+	"State": "AZ",
+	"latitude": 35.4849,
+	"longitude": -110.3989
+},
+{
+	"City": "Hayden",
+	"State": "AZ",
+	"latitude": 32.9995,
+	"longitude": -110.7814
+},
+{
+	"City": "Sanders",
+	"State": "AZ",
+	"latitude": 35.2095,
+	"longitude": -109.3224
+},
+{
+	"City": "Maricopa Colony",
+	"State": "AZ",
+	"latitude": 33.3626,
+	"longitude": -112.2268
+},
+{
+	"City": "Stotonic Village",
+	"State": "AZ",
+	"latitude": 33.1528,
+	"longitude": -111.8167
+},
+{
+	"City": "Upper Santan Village",
+	"State": "AZ",
+	"latitude": 33.1152,
+	"longitude": -111.7418
+},
+{
+	"City": "Rock Point",
+	"State": "AZ",
+	"latitude": 36.7173,
+	"longitude": -109.6287
+},
+{
+	"City": "Nelson",
+	"State": "AZ",
+	"latitude": 32.4298,
+	"longitude": -111.2649
+},
+{
+	"City": "Tusayan",
+	"State": "AZ",
+	"latitude": 35.955,
+	"longitude": -112.1202
+},
+{
+	"City": "Rancho Mesa Verde",
+	"State": "AZ",
+	"latitude": 32.5944,
+	"longitude": -114.6551
+},
+{
+	"City": "Wellton Hills",
+	"State": "AZ",
+	"latitude": 32.6232,
+	"longitude": -114.1453
+},
+{
+	"City": "Queen Valley",
+	"State": "AZ",
+	"latitude": 33.283,
+	"longitude": -111.305
+},
+{
+	"City": "Santa Rosa",
+	"State": "AZ",
+	"latitude": 32.3326,
+	"longitude": -112.0464
+},
+{
+	"City": "El Prado Estates",
+	"State": "AZ",
+	"latitude": 32.7062,
+	"longitude": -114.5215
+},
+{
+	"City": "Clay Springs",
+	"State": "AZ",
+	"latitude": 34.3592,
+	"longitude": -110.3043
+},
+{
+	"City": "Solomon",
+	"State": "AZ",
+	"latitude": 32.8137,
+	"longitude": -109.6289
+},
+{
+	"City": "Nazlini",
+	"State": "AZ",
+	"latitude": 35.9155,
+	"longitude": -109.4726
+},
+{
+	"City": "Peeples Valley",
+	"State": "AZ",
+	"latitude": 34.2773,
+	"longitude": -112.7654
+},
+{
+	"City": "La Paz Valley",
+	"State": "AZ",
+	"latitude": 33.5582,
+	"longitude": -114.2434
+},
+{
+	"City": "Cedar Creek",
+	"State": "AZ",
+	"latitude": 33.903,
+	"longitude": -110.1929
+},
+{
+	"City": "Stanfield",
+	"State": "AZ",
+	"latitude": 32.8794,
+	"longitude": -111.9636
+},
+{
+	"City": "Shonto",
+	"State": "AZ",
+	"latitude": 36.5893,
+	"longitude": -110.6607
+},
+{
+	"City": "Gadsden",
+	"State": "AZ",
+	"latitude": 32.5564,
+	"longitude": -114.781
+},
+{
+	"City": "Red Mesa",
+	"State": "AZ",
+	"latitude": 36.9664,
+	"longitude": -109.3828
+},
+{
+	"City": "Brenda",
+	"State": "AZ",
+	"latitude": 33.6721,
+	"longitude": -113.9379
+},
+{
+	"City": "Young",
+	"State": "AZ",
+	"latitude": 34.1189,
+	"longitude": -110.9559
+},
+{
+	"City": "Icehouse Canyon",
+	"State": "AZ",
+	"latitude": 33.3553,
+	"longitude": -110.7965
+},
+{
+	"City": "Pinal",
+	"State": "AZ",
+	"latitude": 33.3799,
+	"longitude": -110.7571
+},
+{
+	"City": "Mesquite Creek",
+	"State": "AZ",
+	"latitude": 34.9606,
+	"longitude": -114.5714
+},
+{
+	"City": "Gisela",
+	"State": "AZ",
+	"latitude": 34.1015,
+	"longitude": -111.2895
+},
+{
+	"City": "Jerome",
+	"State": "AZ",
+	"latitude": 34.7466,
+	"longitude": -112.1072
+},
+{
+	"City": "Greasewood",
+	"State": "AZ",
+	"latitude": 35.5279,
+	"longitude": -109.8614
+},
+{
+	"City": "Fort Thomas",
+	"State": "AZ",
+	"latitude": 33.0222,
+	"longitude": -109.9665
+},
+{
+	"City": "Bitter Springs",
+	"State": "AZ",
+	"latitude": 36.6118,
+	"longitude": -111.6475
+},
+{
+	"City": "Drysdale",
+	"State": "AZ",
+	"latitude": 32.6452,
+	"longitude": -114.7067
+},
+{
+	"City": "Dateland",
+	"State": "AZ",
+	"latitude": 32.8212,
+	"longitude": -113.5417
+},
+{
+	"City": "Picacho",
+	"State": "AZ",
+	"latitude": 32.709,
+	"longitude": -111.4908
+},
+{
+	"City": "Rough Rock",
+	"State": "AZ",
+	"latitude": 36.4106,
+	"longitude": -109.8691
+},
+{
+	"City": "Turkey Creek",
+	"State": "AZ",
+	"latitude": 33.8011,
+	"longitude": -109.9461
+},
+{
+	"City": "Sacaton Flats Village",
+	"State": "AZ",
+	"latitude": 33.0559,
+	"longitude": -111.659
+},
+{
+	"City": "Wheatfields",
+	"State": "AZ",
+	"latitude": 33.4805,
+	"longitude": -110.8366
+},
+{
+	"City": "Elfrida",
+	"State": "AZ",
+	"latitude": 31.6858,
+	"longitude": -109.6896
+},
+{
+	"City": "Topawa",
+	"State": "AZ",
+	"latitude": 31.8078,
+	"longitude": -111.8305
+},
+{
+	"City": "Littlefield",
+	"State": "AZ",
+	"latitude": 36.8663,
+	"longitude": -113.9358
+},
+{
+	"City": "Chloride",
+	"State": "AZ",
+	"latitude": 35.4097,
+	"longitude": -114.1973
+},
+{
+	"City": "Wenden",
+	"State": "AZ",
+	"latitude": 33.8324,
+	"longitude": -113.5433
+},
+{
+	"City": "Cibola",
+	"State": "AZ",
+	"latitude": 33.3733,
+	"longitude": -114.6792
+},
+{
+	"City": "Winkelman",
+	"State": "AZ",
+	"latitude": 32.9853,
+	"longitude": -110.7651
+},
+{
+	"City": "Del Muerto",
+	"State": "AZ",
+	"latitude": 36.187,
+	"longitude": -109.4348
+},
+{
+	"City": "Clacks Canyon",
+	"State": "AZ",
+	"latitude": 35.2203,
+	"longitude": -114.0723
+},
+{
+	"City": "Chuichu",
+	"State": "AZ",
+	"latitude": 32.7403,
+	"longitude": -111.7821
+},
+{
+	"City": "So-Hi",
+	"State": "AZ",
+	"latitude": 35.2527,
+	"longitude": -114.1416
+},
+{
+	"City": "Tolani Lake",
+	"State": "AZ",
+	"latitude": 35.4309,
+	"longitude": -110.8431
+},
+{
+	"City": "Cane Beds",
+	"State": "AZ",
+	"latitude": 36.9342,
+	"longitude": -112.9118
+},
+{
+	"City": "Central",
+	"State": "AZ",
+	"latitude": 32.8692,
+	"longitude": -109.7908
+},
+{
+	"City": "Kino Springs",
+	"State": "AZ",
+	"latitude": 31.3642,
+	"longitude": -110.8096
+},
+{
+	"City": "Lazy Y U",
+	"State": "AZ",
+	"latitude": 35.1369,
+	"longitude": -113.9684
+},
+{
+	"City": "Tonalea",
+	"State": "AZ",
+	"latitude": 36.3218,
+	"longitude": -110.9667
+},
+{
+	"City": "Steamboat",
+	"State": "AZ",
+	"latitude": 35.7535,
+	"longitude": -109.8504
+},
+{
+	"City": "Top-of-the-World",
+	"State": "AZ",
+	"latitude": 33.3477,
+	"longitude": -110.9997
+},
+{
+	"City": "Bowie",
+	"State": "AZ",
+	"latitude": 32.3247,
+	"longitude": -109.4843
+},
+{
+	"City": "Keams Canyon",
+	"State": "AZ",
+	"latitude": 35.8229,
+	"longitude": -110.2011
+},
+{
+	"City": "Pisinemo",
+	"State": "AZ",
+	"latitude": 32.0349,
+	"longitude": -112.3192
+},
+{
+	"City": "Indian Wells",
+	"State": "AZ",
+	"latitude": 35.4089,
+	"longitude": -110.1061
+},
+{
+	"City": "South Komelik",
+	"State": "AZ",
+	"latitude": 31.7144,
+	"longitude": -111.7744
+},
+{
+	"City": "San Miguel",
+	"State": "AZ",
+	"latitude": 31.6295,
+	"longitude": -111.7801
+},
+{
+	"City": "Goodyear Village",
+	"State": "AZ",
+	"latitude": 33.1973,
+	"longitude": -111.8724
+},
+{
+	"City": "Cornfields",
+	"State": "AZ",
+	"latitude": 35.6515,
+	"longitude": -109.6756
+},
+{
+	"City": "Dripping Springs",
+	"State": "AZ",
+	"latitude": 33.105,
+	"longitude": -110.7551
+},
+{
+	"City": "Klagetoh",
+	"State": "AZ",
+	"latitude": 35.5011,
+	"longitude": -109.5283
+},
+{
+	"City": "Valle",
+	"State": "AZ",
+	"latitude": 35.6245,
+	"longitude": -112.135
+},
+{
+	"City": "Freedom Acres",
+	"State": "AZ",
+	"latitude": 34.3199,
+	"longitude": -111.3051
+},
+{
+	"City": "White Hills",
+	"State": "AZ",
+	"latitude": 35.7242,
+	"longitude": -114.4004
+},
+{
+	"City": "Pinedale",
+	"State": "AZ",
+	"latitude": 34.3208,
+	"longitude": -110.2599
+},
+{
+	"City": "Wall Lane",
+	"State": "AZ",
+	"latitude": 32.6573,
+	"longitude": -114.7105
+},
+{
+	"City": "Poston",
+	"State": "AZ",
+	"latitude": 33.9921,
+	"longitude": -114.4046
+},
+{
+	"City": "Jeddito",
+	"State": "AZ",
+	"latitude": 35.7697,
+	"longitude": -110.1305
+},
+{
+	"City": "Lower Santan Village",
+	"State": "AZ",
+	"latitude": 33.1427,
+	"longitude": -111.7853
+},
+{
+	"City": "Oxbow Estates",
+	"State": "AZ",
+	"latitude": 34.1824,
+	"longitude": -111.343
+},
+{
+	"City": "Sunizona",
+	"State": "AZ",
+	"latitude": 31.8841,
+	"longitude": -109.6328
+},
+{
+	"City": "Morristown",
+	"State": "AZ",
+	"latitude": 33.8548,
+	"longitude": -112.6135
+},
+{
+	"City": "Tonto Village",
+	"State": "AZ",
+	"latitude": 34.3198,
+	"longitude": -111.1394
+},
+{
+	"City": "Fort Apache",
+	"State": "AZ",
+	"latitude": 33.7907,
+	"longitude": -109.9873
+},
+{
+	"City": "Oljato-Monument Valley",
+	"State": "AZ",
+	"latitude": 36.9867,
+	"longitude": -110.191
+},
+{
+	"City": "San Simon",
+	"State": "AZ",
+	"latitude": 32.268,
+	"longitude": -109.2308
+},
+{
+	"City": "Deer Creek",
+	"State": "AZ",
+	"latitude": 34.0644,
+	"longitude": -111.3505
+},
+{
+	"City": "Ali Chuk",
+	"State": "AZ",
+	"latitude": 31.8169,
+	"longitude": -112.5584
+},
+{
+	"City": "Palominas",
+	"State": "AZ",
+	"latitude": 31.3838,
+	"longitude": -110.1212
+},
+{
+	"City": "Jakes Corner",
+	"State": "AZ",
+	"latitude": 34.0083,
+	"longitude": -111.3202
+},
+{
+	"City": "Sacate Village",
+	"State": "AZ",
+	"latitude": 33.1416,
+	"longitude": -111.9811
+},
+{
+	"City": "East Globe",
+	"State": "AZ",
+	"latitude": 33.3511,
+	"longitude": -110.7061
+},
+{
+	"City": "Antares",
+	"State": "AZ",
+	"latitude": 35.4229,
+	"longitude": -113.8083
+},
+{
+	"City": "Vernon",
+	"State": "AZ",
+	"latitude": 34.2509,
+	"longitude": -109.6926
+},
+{
+	"City": "Pinion Pines",
+	"State": "AZ",
+	"latitude": 35.1466,
+	"longitude": -113.9058
+},
+{
+	"City": "Arlington",
+	"State": "AZ",
+	"latitude": 33.3346,
+	"longitude": -112.7747
+},
+{
+	"City": "McNeal",
+	"State": "AZ",
+	"latitude": 31.6079,
+	"longitude": -109.6699
+},
+{
+	"City": "Kohls Ranch",
+	"State": "AZ",
+	"latitude": 34.321,
+	"longitude": -111.0838
+},
+{
+	"City": "Alpine",
+	"State": "AZ",
+	"latitude": 33.846,
+	"longitude": -109.1431
+},
+{
+	"City": "Beaver Valley",
+	"State": "AZ",
+	"latitude": 34.3409,
+	"longitude": -111.2987
+},
+{
+	"City": "Why",
+	"State": "AZ",
+	"latitude": 32.259,
+	"longitude": -112.7307
+},
+{
+	"City": "Sehili",
+	"State": "AZ",
+	"latitude": 36.2807,
+	"longitude": -109.1814
+},
+{
+	"City": "Gu Oidak",
+	"State": "AZ",
+	"latitude": 31.9206,
+	"longitude": -112.0233
+},
+{
+	"City": "Wahak Hotrontk",
+	"State": "AZ",
+	"latitude": 32.1748,
+	"longitude": -112.3663
+},
+{
+	"City": "Haivana Nakya",
+	"State": "AZ",
+	"latitude": 32.0051,
+	"longitude": -111.7124
+},
+{
+	"City": "Maish Vaya",
+	"State": "AZ",
+	"latitude": 32.1703,
+	"longitude": -112.1342
+},
+{
+	"City": "Crystal Beach",
+	"State": "AZ",
+	"latitude": 34.5714,
+	"longitude": -114.3926
+},
+{
+	"City": "Pine Lake",
+	"State": "AZ",
+	"latitude": 35.0887,
+	"longitude": -113.8739
+},
+{
+	"City": "Hackberry",
+	"State": "AZ",
+	"latitude": 35.3401,
+	"longitude": -113.7256
+},
+{
+	"City": "Tumacacori-Carmen",
+	"State": "AZ",
+	"latitude": 31.5771,
+	"longitude": -111.0469
+},
+{
+	"City": "Kaibab",
+	"State": "AZ",
+	"latitude": 36.8815,
+	"longitude": -112.7237
+},
+{
+	"City": "Washington Park",
+	"State": "AZ",
+	"latitude": 34.3978,
+	"longitude": -111.2731
+},
+{
+	"City": "Utting",
+	"State": "AZ",
+	"latitude": 33.8544,
+	"longitude": -113.9129
+},
+{
+	"City": "Christopher Creek",
+	"State": "AZ",
+	"latitude": 34.3206,
+	"longitude": -111.0072
+},
+{
+	"City": "Kaka",
+	"State": "AZ",
+	"latitude": 32.5113,
+	"longitude": -112.3167
+},
+{
+	"City": "East Verde Estates",
+	"State": "AZ",
+	"latitude": 34.2983,
+	"longitude": -111.3645
+},
+{
+	"City": "Woodruff",
+	"State": "AZ",
+	"latitude": 34.7843,
+	"longitude": -110.0366
+},
+{
+	"City": "Ventana",
+	"State": "AZ",
+	"latitude": 32.4681,
+	"longitude": -112.2434
+},
+{
+	"City": "Cowlic",
+	"State": "AZ",
+	"latitude": 31.8048,
+	"longitude": -111.9877
+},
+{
+	"City": "Campo Bonito",
+	"State": "AZ",
+	"latitude": 32.5629,
+	"longitude": -110.6984
+},
+{
+	"City": "Bryce",
+	"State": "AZ",
+	"latitude": 32.9258,
+	"longitude": -109.8229
+},
+{
+	"City": "Wikieup",
+	"State": "AZ",
+	"latitude": 34.6931,
+	"longitude": -113.5995
+},
+{
+	"City": "Moccasin",
+	"State": "AZ",
+	"latitude": 36.9099,
+	"longitude": -112.7546
+},
+{
+	"City": "Seba Dalkai",
+	"State": "AZ",
+	"latitude": 35.4816,
+	"longitude": -110.4562
+},
+{
+	"City": "Nolic",
+	"State": "AZ",
+	"latitude": 32.0341,
+	"longitude": -111.955
+},
+{
+	"City": "Elgin",
+	"State": "AZ",
+	"latitude": 31.668,
+	"longitude": -110.5347
+},
+{
+	"City": "Theba",
+	"State": "AZ",
+	"latitude": 32.9182,
+	"longitude": -112.8899
+},
+{
+	"City": "Franklin",
+	"State": "AZ",
+	"latitude": 32.677,
+	"longitude": -109.072
+},
+{
+	"City": "Rock House",
+	"State": "AZ",
+	"latitude": 33.6318,
+	"longitude": -110.9456
+},
+{
+	"City": "Carrizo",
+	"State": "AZ",
+	"latitude": 33.9867,
+	"longitude": -110.3314
+},
+{
+	"City": "Wet Camp Village",
+	"State": "AZ",
+	"latitude": 33.1413,
+	"longitude": -111.9004
+},
+{
+	"City": "Oak Springs",
+	"State": "AZ",
+	"latitude": 35.476,
+	"longitude": -109.1318
+},
+{
+	"City": "Anegam",
+	"State": "AZ",
+	"latitude": 32.3742,
+	"longitude": -112.035
+},
+{
+	"City": "Sun Valley",
+	"State": "AZ",
+	"latitude": 34.9835,
+	"longitude": -110.0374
+},
+{
+	"City": "Whispering Pines",
+	"State": "AZ",
+	"latitude": 34.3728,
+	"longitude": -111.2813
+},
+{
+	"City": "Valentine",
+	"State": "AZ",
+	"latitude": 35.3886,
+	"longitude": -113.6591
+},
+{
+	"City": "Katherine",
+	"State": "AZ",
+	"latitude": 35.2206,
+	"longitude": -114.5615
+},
+{
+	"City": "Yucca",
+	"State": "AZ",
+	"latitude": 34.863,
+	"longitude": -114.1461
+},
+{
+	"City": "Flowing Springs",
+	"State": "AZ",
+	"latitude": 34.3131,
+	"longitude": -111.3379
+},
+{
+	"City": "Ali Molina",
+	"State": "AZ",
+	"latitude": 31.9025,
+	"longitude": -111.7805
+},
+{
+	"City": "Santa Cruz",
+	"State": "AZ",
+	"latitude": 33.2326,
+	"longitude": -112.1593
+},
+{
+	"City": "Tonopah",
+	"State": "AZ",
+	"latitude": 33.488,
+	"longitude": -112.9308
+},
+{
+	"City": "Martinez Lake",
+	"State": "AZ",
+	"latitude": 32.9843,
+	"longitude": -114.4722
+},
+{
+	"City": "Rye",
+	"State": "AZ",
+	"latitude": 34.0978,
+	"longitude": -111.3543
+},
+{
+	"City": "Ali Chukson",
+	"State": "AZ",
+	"latitude": 31.9115,
+	"longitude": -111.8016
+},
+{
+	"City": "Haigler Creek",
+	"State": "AZ",
+	"latitude": 34.2163,
+	"longitude": -110.9719
+},
+{
+	"City": "Hard Rock",
+	"State": "AZ",
+	"latitude": 36.0309,
+	"longitude": -110.5048
+},
+{
+	"City": "Crozier",
+	"State": "AZ",
+	"latitude": 35.4227,
+	"longitude": -113.6486
+},
+{
+	"City": "Padre Ranchitos",
+	"State": "AZ",
+	"latitude": 32.6497,
+	"longitude": -114.6416
+},
+{
+	"City": "Cutter",
+	"State": "AZ",
+	"latitude": 33.3584,
+	"longitude": -110.6593
+},
+{
+	"City": "Tat Momoli",
+	"State": "AZ",
+	"latitude": 32.6013,
+	"longitude": -111.8862
+},
+{
+	"City": "Oatman",
+	"State": "AZ",
+	"latitude": 35.0275,
+	"longitude": -114.384
+},
+{
+	"City": "Summerhaven",
+	"State": "AZ",
+	"latitude": 32.4416,
+	"longitude": -110.7766
+},
+{
+	"City": "Truxton",
+	"State": "AZ",
+	"latitude": 35.487,
+	"longitude": -113.5607
+},
+{
+	"City": "Sunwest",
+	"State": "AZ",
+	"latitude": 33.651,
+	"longitude": -113.4091
+},
+{
+	"City": "Greer",
+	"State": "AZ",
+	"latitude": 34.0054,
+	"longitude": -109.4611
+},
+{
+	"City": "Wide Ruins",
+	"State": "AZ",
+	"latitude": 35.4175,
+	"longitude": -109.4995
+},
+{
+	"City": "El Capitan",
+	"State": "AZ",
+	"latitude": 33.2383,
+	"longitude": -110.7833
+},
+{
+	"City": "Beyerville",
+	"State": "AZ",
+	"latitude": 31.3921,
+	"longitude": -110.8748
+},
+{
+	"City": "Amado",
+	"State": "AZ",
+	"latitude": 31.6968,
+	"longitude": -111.0583
+},
+{
+	"City": "Wintersburg",
+	"State": "AZ",
+	"latitude": 33.4187,
+	"longitude": -112.8666
+},
+{
+	"City": "Alamo Lake",
+	"State": "AZ",
+	"latitude": 34.2588,
+	"longitude": -113.5079
+},
+{
+	"City": "Charco",
+	"State": "AZ",
+	"latitude": 32.2474,
+	"longitude": -112.6001
+},
+{
+	"City": "Buckshot",
+	"State": "AZ",
+	"latitude": 32.7404,
+	"longitude": -114.4829
+},
+{
+	"City": "Lupton",
+	"State": "AZ",
+	"latitude": 35.3548,
+	"longitude": -109.0528
+},
+{
+	"City": "Hunter Creek",
+	"State": "AZ",
+	"latitude": 34.3054,
+	"longitude": -111.0159
+},
+{
+	"City": "Dragoon",
+	"State": "AZ",
+	"latitude": 32.0263,
+	"longitude": -110.0365
+},
+{
+	"City": "Roosevelt",
+	"State": "AZ",
+	"latitude": 33.6618,
+	"longitude": -111.1295
+},
+{
+	"City": "Ko Vaya",
+	"State": "AZ",
+	"latitude": 32.0815,
+	"longitude": -111.8959
+},
+{
+	"City": "Sweet Water Village",
+	"State": "AZ",
+	"latitude": 33.1274,
+	"longitude": -111.8424
+},
+{
+	"City": "Mojave Ranch Estates",
+	"State": "AZ",
+	"latitude": 34.9449,
+	"longitude": -114.5907
+}]

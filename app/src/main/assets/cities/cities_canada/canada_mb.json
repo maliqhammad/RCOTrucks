@@ -1,0 +1,763 @@
+[
+{
+	"City": "Winnipeg",
+	"State": "MB",
+	"latitude": 49.8844,
+	"longitude": -97.1464
+},
+{
+	"City": "Brandon",
+	"State": "MB",
+	"latitude": 49.8483,
+	"longitude": -99.95
+},
+{
+	"City": "Steinbach",
+	"State": "MB",
+	"latitude": 49.5258,
+	"longitude": -96.6839
+},
+{
+	"City": "Hanover",
+	"State": "MB",
+	"latitude": 49.4433,
+	"longitude": -96.8492
+},
+{
+	"City": "Springfield",
+	"State": "MB",
+	"latitude": 49.9292,
+	"longitude": -96.6939
+},
+{
+	"City": "Thompson",
+	"State": "MB",
+	"latitude": 55.7433,
+	"longitude": -97.8553
+},
+{
+	"City": "Portage La Prairie",
+	"State": "MB",
+	"latitude": 49.9728,
+	"longitude": -98.2919
+},
+{
+	"City": "Winkler",
+	"State": "MB",
+	"latitude": 49.1817,
+	"longitude": -97.9397
+},
+{
+	"City": "St. Andrews",
+	"State": "MB",
+	"latitude": 50.27,
+	"longitude": -96.9747
+},
+{
+	"City": "TachÃ©",
+	"State": "MB",
+	"latitude": 49.7081,
+	"longitude": -96.6736
+},
+{
+	"City": "St. Clements",
+	"State": "MB",
+	"latitude": 50.2689,
+	"longitude": -96.6742
+},
+{
+	"City": "Selkirk",
+	"State": "MB",
+	"latitude": 50.1436,
+	"longitude": -96.8839
+},
+{
+	"City": "East St. Paul",
+	"State": "MB",
+	"latitude": 49.9772,
+	"longitude": -97.0103
+},
+{
+	"City": "Stanley",
+	"State": "MB",
+	"latitude": 49.1331,
+	"longitude": -98.0656
+},
+{
+	"City": "Morden",
+	"State": "MB",
+	"latitude": 49.1919,
+	"longitude": -98.1006
+},
+{
+	"City": "Dauphin",
+	"State": "MB",
+	"latitude": 51.1992,
+	"longitude": -100.0633
+},
+{
+	"City": "Rockwood",
+	"State": "MB",
+	"latitude": 50.2856,
+	"longitude": -97.2869
+},
+{
+	"City": "Macdonald",
+	"State": "MB",
+	"latitude": 49.6725,
+	"longitude": -97.4472
+},
+{
+	"City": "Ritchot",
+	"State": "MB",
+	"latitude": 49.6647,
+	"longitude": -97.1167
+},
+{
+	"City": "Gimli",
+	"State": "MB",
+	"latitude": 50.6619,
+	"longitude": -97.0297
+},
+{
+	"City": "La Broquerie",
+	"State": "MB",
+	"latitude": 49.3994,
+	"longitude": -96.5103
+},
+{
+	"City": "The Pas",
+	"State": "MB",
+	"latitude": 53.825,
+	"longitude": -101.2533
+},
+{
+	"City": "West St. Paul",
+	"State": "MB",
+	"latitude": 50.0119,
+	"longitude": -97.115
+},
+{
+	"City": "Brokenhead",
+	"State": "MB",
+	"latitude": 50.1428,
+	"longitude": -96.5319
+},
+{
+	"City": "Ste. Anne",
+	"State": "MB",
+	"latitude": 49.6186,
+	"longitude": -96.5708
+},
+{
+	"City": "Flin Flon (Part)",
+	"State": "MB",
+	"latitude": 54.7712,
+	"longitude": -101.8419
+},
+{
+	"City": "Stonewall",
+	"State": "MB",
+	"latitude": 50.1344,
+	"longitude": -97.3261
+},
+{
+	"City": "Neepawa",
+	"State": "MB",
+	"latitude": 50.2289,
+	"longitude": -99.4656
+},
+{
+	"City": "Cornwallis",
+	"State": "MB",
+	"latitude": 49.7981,
+	"longitude": -99.8481
+},
+{
+	"City": "Altona",
+	"State": "MB",
+	"latitude": 49.1044,
+	"longitude": -97.5625
+},
+{
+	"City": "Niverville",
+	"State": "MB",
+	"latitude": 49.6056,
+	"longitude": -97.0417
+},
+{
+	"City": "Swan River",
+	"State": "MB",
+	"latitude": 52.1058,
+	"longitude": -101.2667
+},
+{
+	"City": "De Salaberry",
+	"State": "MB",
+	"latitude": 49.4403,
+	"longitude": -96.9844
+},
+{
+	"City": "Headingley",
+	"State": "MB",
+	"latitude": 49.8681,
+	"longitude": -97.3908
+},
+{
+	"City": "Killarney - Turtle Mountain",
+	"State": "MB",
+	"latitude": 49.1775,
+	"longitude": -99.6906
+},
+{
+	"City": "Woodlands",
+	"State": "MB",
+	"latitude": 50.2408,
+	"longitude": -97.7358
+},
+{
+	"City": "Bifrost-Riverton",
+	"State": "MB",
+	"latitude": 51.0603,
+	"longitude": -97.1436
+},
+{
+	"City": "Cartier",
+	"State": "MB",
+	"latitude": 49.9161,
+	"longitude": -97.7
+},
+{
+	"City": "Alexander",
+	"State": "MB",
+	"latitude": 50.4222,
+	"longitude": -96.075
+},
+{
+	"City": "Hillsburg-Roblin-Shell River",
+	"State": "MB",
+	"latitude": 51.3343,
+	"longitude": -101.2929
+},
+{
+	"City": "Lorette",
+	"State": "MB",
+	"latitude": 49.7414,
+	"longitude": -96.8761
+},
+{
+	"City": "WestLake-Gladstone",
+	"State": "MB",
+	"latitude": 50.2862,
+	"longitude": -98.8415
+},
+{
+	"City": "BeausÃ©jour",
+	"State": "MB",
+	"latitude": 50.0622,
+	"longitude": -96.5161
+},
+{
+	"City": "Lac du Bonnet",
+	"State": "MB",
+	"latitude": 50.2577,
+	"longitude": -96.1209
+},
+{
+	"City": "Virden",
+	"State": "MB",
+	"latitude": 49.8508,
+	"longitude": -100.9317
+},
+{
+	"City": "Morris",
+	"State": "MB",
+	"latitude": 49.3986,
+	"longitude": -97.4592
+},
+{
+	"City": "Carman",
+	"State": "MB",
+	"latitude": 49.4992,
+	"longitude": -98.0008
+},
+{
+	"City": "North Cypress-Langford",
+	"State": "MB",
+	"latitude": 49.9969,
+	"longitude": -99.3982
+},
+{
+	"City": "Minnedosa",
+	"State": "MB",
+	"latitude": 50.2453,
+	"longitude": -99.8428
+},
+{
+	"City": "Dufferin",
+	"State": "MB",
+	"latitude": 49.5319,
+	"longitude": -98.07
+},
+{
+	"City": "Kelsey",
+	"State": "MB",
+	"latitude": 53.7356,
+	"longitude": -101.395
+},
+{
+	"City": "Boissevain",
+	"State": "MB",
+	"latitude": 49.1779,
+	"longitude": -100.0955
+},
+{
+	"City": "Mitchell",
+	"State": "MB",
+	"latitude": 49.5363,
+	"longitude": -96.7634
+},
+{
+	"City": "West Interlake",
+	"State": "MB",
+	"latitude": 50.9837,
+	"longitude": -98.3572
+},
+{
+	"City": "Prairie View",
+	"State": "MB",
+	"latitude": 50.3304,
+	"longitude": -100.9803
+},
+{
+	"City": "McCreary",
+	"State": "MB",
+	"latitude": 50.7494,
+	"longitude": -99.485
+},
+{
+	"City": "Deloraine-Winchester",
+	"State": "MB",
+	"latitude": 49.1775,
+	"longitude": -100.4322
+},
+{
+	"City": "Oakland-Wawanesa",
+	"State": "MB",
+	"latitude": 49.6208,
+	"longitude": -99.8481
+},
+{
+	"City": "Brenda-Waskada",
+	"State": "MB",
+	"latitude": 49.1775,
+	"longitude": -100.7019
+},
+{
+	"City": "Russell-Binscarth",
+	"State": "MB",
+	"latitude": 50.7272,
+	"longitude": -101.3689
+},
+{
+	"City": "Ellice-Archie",
+	"State": "MB",
+	"latitude": 50.3239,
+	"longitude": -101.2729
+},
+{
+	"City": "Souris-Glenwood",
+	"State": "MB",
+	"latitude": 49.6208,
+	"longitude": -100.2581
+},
+{
+	"City": "Riverdale",
+	"State": "MB",
+	"latitude": 49.975,
+	"longitude": -100.2789
+},
+{
+	"City": "Pembina",
+	"State": "MB",
+	"latitude": 49.1775,
+	"longitude": -98.5408
+},
+{
+	"City": "Wallace-Woodworth",
+	"State": "MB",
+	"latitude": 49.9156,
+	"longitude": -100.9389
+},
+{
+	"City": "Lorne",
+	"State": "MB",
+	"latitude": 49.4436,
+	"longitude": -98.7494
+},
+{
+	"City": "Ethelbert",
+	"State": "MB",
+	"latitude": 51.5364,
+	"longitude": -100.4981
+},
+{
+	"City": "Yellowhead",
+	"State": "MB",
+	"latitude": 50.4847,
+	"longitude": -100.4828
+},
+{
+	"City": "Swan Valley West",
+	"State": "MB",
+	"latitude": 51.9978,
+	"longitude": -101.3944
+},
+{
+	"City": "Grey",
+	"State": "MB",
+	"latitude": 49.7094,
+	"longitude": -98.0736
+},
+{
+	"City": "Gilbert Plains",
+	"State": "MB",
+	"latitude": 51.1547,
+	"longitude": -100.4381
+},
+{
+	"City": "Norfolk-Treherne",
+	"State": "MB",
+	"latitude": 49.6653,
+	"longitude": -98.5967
+},
+{
+	"City": "Hamiota",
+	"State": "MB",
+	"latitude": 50.1964,
+	"longitude": -100.6342
+},
+{
+	"City": "Emerson-Franklin",
+	"State": "MB",
+	"latitude": 49.1333,
+	"longitude": -97.0331
+},
+{
+	"City": "Sifton",
+	"State": "MB",
+	"latitude": 49.6653,
+	"longitude": -100.6678
+},
+{
+	"City": "Rossburn",
+	"State": "MB",
+	"latitude": 50.7272,
+	"longitude": -100.7408
+},
+{
+	"City": "Grand View",
+	"State": "MB",
+	"latitude": 51.155,
+	"longitude": -100.7892
+},
+{
+	"City": "Grassland",
+	"State": "MB",
+	"latitude": 49.4306,
+	"longitude": -100.3103
+},
+{
+	"City": "Louise",
+	"State": "MB",
+	"latitude": 49.1772,
+	"longitude": -98.8794
+},
+{
+	"City": "Ste. Rose",
+	"State": "MB",
+	"latitude": 51.0222,
+	"longitude": -99.4306
+},
+{
+	"City": "Cartwright-Roblin",
+	"State": "MB",
+	"latitude": 49.1331,
+	"longitude": -99.2797
+},
+{
+	"City": "Mossey River",
+	"State": "MB",
+	"latitude": 51.755,
+	"longitude": -99.9664
+},
+{
+	"City": "Lakeshore",
+	"State": "MB",
+	"latitude": 51.244,
+	"longitude": -99.6562
+},
+{
+	"City": "Riding Mountain West",
+	"State": "MB",
+	"latitude": 50.8347,
+	"longitude": -101.0961
+},
+{
+	"City": "Clanwilliam-Erickson",
+	"State": "MB",
+	"latitude": 50.5061,
+	"longitude": -99.8156
+},
+{
+	"City": "Glenboro-South Cypress",
+	"State": "MB",
+	"latitude": 49.665,
+	"longitude": -99.3708
+},
+{
+	"City": "North Norfolk",
+	"State": "MB",
+	"latitude": 49.9308,
+	"longitude": -98.8356
+},
+{
+	"City": "Reinland",
+	"State": "MB",
+	"latitude": 49.1331,
+	"longitude": -97.5942
+},
+{
+	"City": "Minitonas-Bowsman",
+	"State": "MB",
+	"latitude": 52.1433,
+	"longitude": -100.9772
+},
+{
+	"City": "Armstrong",
+	"State": "MB",
+	"latitude": 50.64,
+	"longitude": -97.495
+},
+{
+	"City": "Piney",
+	"State": "MB",
+	"latitude": 49.2069,
+	"longitude": -95.8333
+},
+{
+	"City": "Carberry",
+	"State": "MB",
+	"latitude": 49.8689,
+	"longitude": -99.3594
+},
+{
+	"City": "Fisher",
+	"State": "MB",
+	"latitude": 51.0825,
+	"longitude": -97.6611
+},
+{
+	"City": "Grunthal",
+	"State": "MB",
+	"latitude": 49.4065,
+	"longitude": -96.8603
+},
+{
+	"City": "Blumenort",
+	"State": "MB",
+	"latitude": 49.6033,
+	"longitude": -96.7006
+},
+{
+	"City": "Rosedale",
+	"State": "MB",
+	"latitude": 50.4397,
+	"longitude": -99.5389
+},
+{
+	"City": "Whitehead",
+	"State": "MB",
+	"latitude": 49.7981,
+	"longitude": -100.2575
+},
+{
+	"City": "Stuartburn",
+	"State": "MB",
+	"latitude": 49.1331,
+	"longitude": -96.5158
+},
+{
+	"City": "Oakview",
+	"State": "MB",
+	"latitude": 50.1964,
+	"longitude": -100.2167
+},
+{
+	"City": "Harrison Park",
+	"State": "MB",
+	"latitude": 50.5563,
+	"longitude": -100.1674
+},
+{
+	"City": "Victoria",
+	"State": "MB",
+	"latitude": 49.6644,
+	"longitude": -98.9153
+},
+{
+	"City": "Pinawa",
+	"State": "MB",
+	"latitude": 50.1707,
+	"longitude": -95.9547
+},
+{
+	"City": "Pipestone",
+	"State": "MB",
+	"latitude": 49.6653,
+	"longitude": -101.1444
+},
+{
+	"City": "Prairie Lakes",
+	"State": "MB",
+	"latitude": 49.4034,
+	"longitude": -99.6298
+},
+{
+	"City": "St. FranÃ§ois Xavier",
+	"State": "MB",
+	"latitude": 49.9903,
+	"longitude": -97.6722
+},
+{
+	"City": "Wasagamack",
+	"State": "MB",
+	"latitude": 53.9056,
+	"longitude": -94.9412
+},
+{
+	"City": "Rosser",
+	"State": "MB",
+	"latitude": 49.99,
+	"longitude": -97.4592
+},
+{
+	"City": "Grahamdale",
+	"State": "MB",
+	"latitude": 51.42,
+	"longitude": -98.3733
+},
+{
+	"City": "Reynolds",
+	"State": "MB",
+	"latitude": 49.7678,
+	"longitude": -95.8842
+},
+{
+	"City": "St. Laurent",
+	"State": "MB",
+	"latitude": 50.43,
+	"longitude": -97.7933
+},
+{
+	"City": "Powerview-Pine Falls",
+	"State": "MB",
+	"latitude": 50.5661,
+	"longitude": -96.1981
+},
+{
+	"City": "Landmark",
+	"State": "MB",
+	"latitude": 49.6711,
+	"longitude": -96.8179
+},
+{
+	"City": "Elton",
+	"State": "MB",
+	"latitude": 49.975,
+	"longitude": -99.8658
+},
+{
+	"City": "Gillam",
+	"State": "MB",
+	"latitude": 56.3472,
+	"longitude": -94.7078
+},
+{
+	"City": "Montcalm",
+	"State": "MB",
+	"latitude": 49.1775,
+	"longitude": -97.3247
+},
+{
+	"City": "Coldwell",
+	"State": "MB",
+	"latitude": 50.6389,
+	"longitude": -98.0417
+},
+{
+	"City": "Alonsa",
+	"State": "MB",
+	"latitude": 50.9794,
+	"longitude": -99.0796
+},
+{
+	"City": "Arborg",
+	"State": "MB",
+	"latitude": 50.9075,
+	"longitude": -97.2182
+},
+{
+	"City": "Teulon",
+	"State": "MB",
+	"latitude": 50.3858,
+	"longitude": -97.2611
+},
+{
+	"City": "Minto-Odanah",
+	"State": "MB",
+	"latitude": 50.2406,
+	"longitude": -99.8056
+},
+{
+	"City": "Glenella-Lansdowne",
+	"State": "MB",
+	"latitude": 50.4163,
+	"longitude": -99.2097
+},
+{
+	"City": "Two Borders",
+	"State": "MB",
+	"latitude": 49.2668,
+	"longitude": -101.1124
+},
+{
+	"City": "St-Pierre-Jolys",
+	"State": "MB",
+	"latitude": 49.4403,
+	"longitude": -96.9844
+},
+{
+	"City": "Winnipeg Beach",
+	"State": "MB",
+	"latitude": 50.5058,
+	"longitude": -96.9742
+},
+{
+	"City": "Roland",
+	"State": "MB",
+	"latitude": 49.3547,
+	"longitude": -97.8997
+},
+{
+	"City": "Melita",
+	"State": "MB",
+	"latitude": 49.2681,
+	"longitude": -100.9958
+},
+{
+	"City": "Argyle",
+	"State": "MB",
+	"latitude": 49.3697,
+	"longitude": -99.1506
+}]

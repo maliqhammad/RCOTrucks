@@ -1,0 +1,4501 @@
+[
+{
+	"City": "Mexico City",
+	"State": "Ciudad de MÃ©xico",
+	"latitude": 19.4333,
+	"longitude": -99.1333
+},
+{
+	"City": "Guadalajara",
+	"State": "Jalisco",
+	"latitude": 20.6767,
+	"longitude": -103.3475
+},
+{
+	"City": "Monterrey",
+	"State": "Nuevo LeÃ³n",
+	"latitude": 25.6667,
+	"longitude": -100.3
+},
+{
+	"City": "Tijuana",
+	"State": "Baja California",
+	"latitude": 32.525,
+	"longitude": -117.0333
+},
+{
+	"City": "Ecatepec",
+	"State": "MÃ©xico",
+	"latitude": 19.6097,
+	"longitude": -99.06
+},
+{
+	"City": "Puebla",
+	"State": "Puebla",
+	"latitude": 19.0333,
+	"longitude": -98.1833
+},
+{
+	"City": "Leon de los Aldama",
+	"State": "Guanajuato",
+	"latitude": 21.1167,
+	"longitude": -101.6833
+},
+{
+	"City": "Juarez",
+	"State": "Chihuahua",
+	"latitude": 31.7386,
+	"longitude": -106.487
+},
+{
+	"City": "Zapopan",
+	"State": "Jalisco",
+	"latitude": 20.7167,
+	"longitude": -103.4
+},
+{
+	"City": "Ciudad Nezahualcoyotl",
+	"State": "MÃ©xico",
+	"latitude": 19.41,
+	"longitude": -99.03
+},
+{
+	"City": "Nezahualcoyotl",
+	"State": "MÃ©xico",
+	"latitude": 19.4,
+	"longitude": -98.9889
+},
+{
+	"City": "Mexicali",
+	"State": "Baja California",
+	"latitude": 32.6633,
+	"longitude": -115.4678
+},
+{
+	"City": "Aguascalientes",
+	"State": "Aguascalientes",
+	"latitude": 21.876,
+	"longitude": -102.296
+},
+{
+	"City": "Merida",
+	"State": "YucatÃ¡n",
+	"latitude": 20.97,
+	"longitude": -89.62
+},
+{
+	"City": "Chihuahua",
+	"State": "Chihuahua",
+	"latitude": 28.6353,
+	"longitude": -106.0889
+},
+{
+	"City": "Naucalpan de Juarez",
+	"State": "MÃ©xico",
+	"latitude": 19.4753,
+	"longitude": -99.2378
+},
+{
+	"City": "San Luis Potosi",
+	"State": "San Luis PotosÃ­",
+	"latitude": 22.1511,
+	"longitude": -100.9761
+},
+{
+	"City": "Toluca",
+	"State": "MÃ©xico",
+	"latitude": 19.2925,
+	"longitude": -99.6569
+},
+{
+	"City": "Queretaro",
+	"State": "QuerÃ©taro",
+	"latitude": 20.5875,
+	"longitude": -100.3928
+},
+{
+	"City": "Hermosillo",
+	"State": "Sonora",
+	"latitude": 29.0989,
+	"longitude": -110.9542
+},
+{
+	"City": "Saltillo",
+	"State": "Coahuila de Zaragoza",
+	"latitude": 25.4333,
+	"longitude": -101
+},
+{
+	"City": "Morelia",
+	"State": "MichoacÃ¡n de Ocampo",
+	"latitude": 19.7683,
+	"longitude": -101.1894
+},
+{
+	"City": "Culiacan",
+	"State": "Sinaloa",
+	"latitude": 24.8069,
+	"longitude": -107.3939
+},
+{
+	"City": "Tlalnepantla",
+	"State": "MÃ©xico",
+	"latitude": 19.5367,
+	"longitude": -99.1947
+},
+{
+	"City": "Cancun",
+	"State": "Quintana Roo",
+	"latitude": 21.1606,
+	"longitude": -86.8475
+},
+{
+	"City": "Reynosa",
+	"State": "Tamaulipas",
+	"latitude": 26.0922,
+	"longitude": -98.2778
+},
+{
+	"City": "Guadalupe",
+	"State": "Nuevo LeÃ³n",
+	"latitude": 25.6775,
+	"longitude": -100.2597
+},
+{
+	"City": "Acapulco de Juarez",
+	"State": "Guerrero",
+	"latitude": 16.8636,
+	"longitude": -99.8825
+},
+{
+	"City": "Torreon",
+	"State": "Coahuila de Zaragoza",
+	"latitude": 25.5394,
+	"longitude": -103.4486
+},
+{
+	"City": "Durango",
+	"State": "Durango",
+	"latitude": 24.0167,
+	"longitude": -104.6667
+},
+{
+	"City": "Villahermosa",
+	"State": "Tabasco",
+	"latitude": 17.9892,
+	"longitude": -92.9281
+},
+{
+	"City": "Chimalhuacan",
+	"State": "MÃ©xico",
+	"latitude": 19.4167,
+	"longitude": -98.9
+},
+{
+	"City": "Tuxtla",
+	"State": "Chiapas",
+	"latitude": 16.7528,
+	"longitude": -93.1167
+},
+{
+	"City": "Tlaquepaque",
+	"State": "Jalisco",
+	"latitude": 20.6167,
+	"longitude": -103.3167
+},
+{
+	"City": "Tlajomulco de Zuniga",
+	"State": "Jalisco",
+	"latitude": 20.4736,
+	"longitude": -103.4431
+},
+{
+	"City": "Veracruz",
+	"State": "Veracruz",
+	"latitude": 19.1903,
+	"longitude": -96.1533
+},
+{
+	"City": "Xalapa",
+	"State": "Veracruz",
+	"latitude": 19.54,
+	"longitude": -96.9275
+},
+{
+	"City": "Ensenada",
+	"State": "Baja California",
+	"latitude": 31.8578,
+	"longitude": -116.6058
+},
+{
+	"City": "Ciudad Apodaca",
+	"State": "Nuevo LeÃ³n",
+	"latitude": 25.7833,
+	"longitude": -100.1833
+},
+{
+	"City": "Heroica Matamoros",
+	"State": "Tamaulipas",
+	"latitude": 25.8797,
+	"longitude": -97.5042
+},
+{
+	"City": "Cuautitlan Izcalli",
+	"State": "MÃ©xico",
+	"latitude": 19.65,
+	"longitude": -99.25
+},
+{
+	"City": "Mazatlan",
+	"State": "Sinaloa",
+	"latitude": 23.22,
+	"longitude": -106.42
+},
+{
+	"City": "Mazatan",
+	"State": "Sonora",
+	"latitude": 29.0167,
+	"longitude": -110.1333
+},
+{
+	"City": "Ixtapaluca",
+	"State": "MÃ©xico",
+	"latitude": 19.3186,
+	"longitude": -98.8822
+},
+{
+	"City": "Ciudad Lopez Mateos",
+	"State": "MÃ©xico",
+	"latitude": 19.55,
+	"longitude": -99.2833
+},
+{
+	"City": "Tultitlan de Mariano Escobedo",
+	"State": "MÃ©xico",
+	"latitude": 19.645,
+	"longitude": -99.1694
+},
+{
+	"City": "San Nicolas de los Garza",
+	"State": "Nuevo LeÃ³n",
+	"latitude": 25.75,
+	"longitude": -100.2833
+},
+{
+	"City": "Celaya",
+	"State": "Guanajuato",
+	"latitude": 20.5222,
+	"longitude": -100.8122
+},
+{
+	"City": "Ciudad Obregon",
+	"State": "Sonora",
+	"latitude": 27.4939,
+	"longitude": -109.9389
+},
+{
+	"City": "Tonala",
+	"State": "Jalisco",
+	"latitude": 20.6167,
+	"longitude": -103.2333
+},
+{
+	"City": "Irapuato",
+	"State": "Guanajuato",
+	"latitude": 20.6667,
+	"longitude": -101.35
+},
+{
+	"City": "Nuevo Laredo",
+	"State": "Tamaulipas",
+	"latitude": 27.4861,
+	"longitude": -99.5069
+},
+{
+	"City": "Cuernavaca",
+	"State": "Morelos",
+	"latitude": 18.9186,
+	"longitude": -99.2342
+},
+{
+	"City": "Nicolas Romero",
+	"State": "MÃ©xico",
+	"latitude": 19.5833,
+	"longitude": -99.3667
+},
+{
+	"City": "Tecamac",
+	"State": "MÃ©xico",
+	"latitude": 19.7131,
+	"longitude": -98.9683
+},
+{
+	"City": "Ciudad General Escobedo",
+	"State": "Nuevo LeÃ³n",
+	"latitude": 25.7933,
+	"longitude": -100.1583
+},
+{
+	"City": "Minatitlan",
+	"State": "Veracruz",
+	"latitude": 17.9833,
+	"longitude": -94.55
+},
+{
+	"City": "Tepic",
+	"State": "Nayarit",
+	"latitude": 21.5083,
+	"longitude": -104.8931
+},
+{
+	"City": "Gomez Palacio",
+	"State": "Durango",
+	"latitude": 25.5611,
+	"longitude": -103.4983
+},
+{
+	"City": "Uruapan",
+	"State": "MichoacÃ¡n de Ocampo",
+	"latitude": 19.4208,
+	"longitude": -102.0628
+},
+{
+	"City": "Tapachula",
+	"State": "Chiapas",
+	"latitude": 14.9,
+	"longitude": -92.2667
+},
+{
+	"City": "Coatzacoalcos",
+	"State": "Veracruz",
+	"latitude": 18.15,
+	"longitude": -94.4333
+},
+{
+	"City": "Tampico",
+	"State": "Tamaulipas",
+	"latitude": 22.2553,
+	"longitude": -97.8686
+},
+{
+	"City": "Chalco",
+	"State": "MÃ©xico",
+	"latitude": 19.2647,
+	"longitude": -98.8975
+},
+{
+	"City": "Ciudad Victoria",
+	"State": "Tamaulipas",
+	"latitude": 23.7333,
+	"longitude": -99.1333
+},
+{
+	"City": "Oaxaca",
+	"State": "Oaxaca",
+	"latitude": 17.0833,
+	"longitude": -96.75
+},
+{
+	"City": "Coacalco",
+	"State": "MÃ©xico",
+	"latitude": 19.6333,
+	"longitude": -99.0931
+},
+{
+	"City": "Pachuca",
+	"State": "Hidalgo",
+	"latitude": 20.1,
+	"longitude": -98.75
+},
+{
+	"City": "Tehuacan",
+	"State": "Puebla",
+	"latitude": 18.4617,
+	"longitude": -97.3928
+},
+{
+	"City": "Salamanca",
+	"State": "Guanajuato",
+	"latitude": 20.5703,
+	"longitude": -101.1972
+},
+{
+	"City": "Ciudad Benito Juarez",
+	"State": "Nuevo LeÃ³n",
+	"latitude": 25.65,
+	"longitude": -100.0833
+},
+{
+	"City": "Ciudad Santa Catarina",
+	"State": "Nuevo LeÃ³n",
+	"latitude": 25.6833,
+	"longitude": -100.45
+},
+{
+	"City": "Los Mochis",
+	"State": "Sinaloa",
+	"latitude": 25.7835,
+	"longitude": -108.9937
+},
+{
+	"City": "Texcoco",
+	"State": "MÃ©xico",
+	"latitude": 19.52,
+	"longitude": -98.88
+},
+{
+	"City": "Playa del Carmen",
+	"State": "Quintana Roo",
+	"latitude": 20.6275,
+	"longitude": -87.0811
+},
+{
+	"City": "La Paz",
+	"State": "Baja California Sur",
+	"latitude": 24.1422,
+	"longitude": -110.3108
+},
+{
+	"City": "San Juan del Rio",
+	"State": "QuerÃ©taro",
+	"latitude": 20.3833,
+	"longitude": -99.9833
+},
+{
+	"City": "Monclova",
+	"State": "Coahuila de Zaragoza",
+	"latitude": 26.9103,
+	"longitude": -101.4222
+},
+{
+	"City": "Guadalupe",
+	"State": "Zacatecas",
+	"latitude": 22.7528,
+	"longitude": -102.5078
+},
+{
+	"City": "Huixquilucan",
+	"State": "MÃ©xico",
+	"latitude": 19.3611,
+	"longitude": -99.3508
+},
+{
+	"City": "Puerto Vallarta",
+	"State": "Jalisco",
+	"latitude": 20.6667,
+	"longitude": -105.2667
+},
+{
+	"City": "Buenavista",
+	"State": "MÃ©xico",
+	"latitude": 19.6083,
+	"longitude": -99.1694
+},
+{
+	"City": "Heroica Nogales",
+	"State": "Sonora",
+	"latitude": 31.3186,
+	"longitude": -110.9458
+},
+{
+	"City": "Campeche",
+	"State": "Campeche",
+	"latitude": 19.85,
+	"longitude": -90.5306
+},
+{
+	"City": "Soledad de Graciano Sanchez",
+	"State": "San Luis PotosÃ­",
+	"latitude": 22.1833,
+	"longitude": -100.9333
+},
+{
+	"City": "Cordoba",
+	"State": "Veracruz",
+	"latitude": 18.8942,
+	"longitude": -96.9347
+},
+{
+	"City": "Ciudad Acuna",
+	"State": "Coahuila de Zaragoza",
+	"latitude": 29.3242,
+	"longitude": -100.9317
+},
+{
+	"City": "Ciudad Madero",
+	"State": "Tamaulipas",
+	"latitude": 22.25,
+	"longitude": -97.8333
+},
+{
+	"City": "Metepec",
+	"State": "Morelos",
+	"latitude": 19.2511,
+	"longitude": -99.6047
+},
+{
+	"City": "Poza Rica de Hidalgo",
+	"State": "Veracruz",
+	"latitude": 20.5333,
+	"longitude": -97.45
+},
+{
+	"City": "San Pablo de las Salinas",
+	"State": "MÃ©xico",
+	"latitude": 19.6656,
+	"longitude": -99.0917
+},
+{
+	"City": "Chilpancingo",
+	"State": "Guerrero",
+	"latitude": 17.55,
+	"longitude": -99.5
+},
+{
+	"City": "San Luis Rio Colorado",
+	"State": "Sonora",
+	"latitude": 32.4767,
+	"longitude": -114.7625
+},
+{
+	"City": "Cholula de Rivadabia",
+	"State": "Puebla",
+	"latitude": 19.0633,
+	"longitude": -98.3064
+},
+{
+	"City": "Manzanillo",
+	"State": "Colima",
+	"latitude": 19.0522,
+	"longitude": -104.3158
+},
+{
+	"City": "Chicoloapan",
+	"State": "MÃ©xico",
+	"latitude": 19.4167,
+	"longitude": -98.9
+},
+{
+	"City": "Ciudad Valles",
+	"State": "San Luis PotosÃ­",
+	"latitude": 21.9833,
+	"longitude": -99.0167
+},
+{
+	"City": "Cuautla",
+	"State": "Morelos",
+	"latitude": 18.8167,
+	"longitude": -98.95
+},
+{
+	"City": "Ciudad del Carmen",
+	"State": "Campeche",
+	"latitude": 18.6333,
+	"longitude": -91.8333
+},
+{
+	"City": "Comitan",
+	"State": "Chiapas",
+	"latitude": 16.2511,
+	"longitude": -92.1342
+},
+{
+	"City": "Lagos de Moreno",
+	"State": "Jalisco",
+	"latitude": 21.3564,
+	"longitude": -101.9292
+},
+{
+	"City": "Guanajuato",
+	"State": "Guanajuato",
+	"latitude": 21.0178,
+	"longitude": -101.2567
+},
+{
+	"City": "Cuauhtemoc",
+	"State": "Chihuahua",
+	"latitude": 28.405,
+	"longitude": -106.8667
+},
+{
+	"City": "Piedras Negras",
+	"State": "Coahuila de Zaragoza",
+	"latitude": 28.7,
+	"longitude": -100.5231
+},
+{
+	"City": "San Cristobal",
+	"State": "Chiapas",
+	"latitude": 16.7367,
+	"longitude": -92.6383
+},
+{
+	"City": "Navojoa",
+	"State": "Sonora",
+	"latitude": 27.0813,
+	"longitude": -109.4461
+},
+{
+	"City": "Jiutepec",
+	"State": "Morelos",
+	"latitude": 18.8833,
+	"longitude": -99.1667
+},
+{
+	"City": "Chetumal",
+	"State": "Quintana Roo",
+	"latitude": 18.5036,
+	"longitude": -88.3053
+},
+{
+	"City": "Silao",
+	"State": "Guanajuato",
+	"latitude": 20.9478,
+	"longitude": -101.4281
+},
+{
+	"City": "Papantla de Olarte",
+	"State": "Veracruz",
+	"latitude": 20.4478,
+	"longitude": -97.32
+},
+{
+	"City": "Tulancingo",
+	"State": "Hidalgo",
+	"latitude": 20.0833,
+	"longitude": -98.3667
+},
+{
+	"City": "Zamora",
+	"State": "MichoacÃ¡n de Ocampo",
+	"latitude": 19.9833,
+	"longitude": -102.2833
+},
+{
+	"City": "Delicias",
+	"State": "Chihuahua",
+	"latitude": 28.1931,
+	"longitude": -105.4717
+},
+{
+	"City": "Dolores Hidalgo Cuna de la Independencia Nacional",
+	"State": "Guanajuato",
+	"latitude": 21.1516,
+	"longitude": -100.9369
+},
+{
+	"City": "San Miguel de Allende",
+	"State": "Guanajuato",
+	"latitude": 20.9142,
+	"longitude": -100.7436
+},
+{
+	"City": "Garcia",
+	"State": "Nuevo LeÃ³n",
+	"latitude": 25.8167,
+	"longitude": -100.5833
+},
+{
+	"City": "Tuxtepec",
+	"State": "Oaxaca",
+	"latitude": 18.1,
+	"longitude": -96.1167
+},
+{
+	"City": "Tuxpam de Rodriguez Cano",
+	"State": "Veracruz",
+	"latitude": 20.95,
+	"longitude": -97.4
+},
+{
+	"City": "Colima",
+	"State": "Colima",
+	"latitude": 19.2433,
+	"longitude": -103.7247
+},
+{
+	"City": "Tepatitlan de Morelos",
+	"State": "Jalisco",
+	"latitude": 20.817,
+	"longitude": -102.733
+},
+{
+	"City": "Zacatecas",
+	"State": "Zacatecas",
+	"latitude": 22.7736,
+	"longitude": -102.5736
+},
+{
+	"City": "Boca del Rio",
+	"State": "Veracruz",
+	"latitude": 19.1056,
+	"longitude": -96.1078
+},
+{
+	"City": "Santa Maria Texmelucan",
+	"State": "Puebla",
+	"latitude": 19.2833,
+	"longitude": -98.4333
+},
+{
+	"City": "Zinacantepec",
+	"State": "MÃ©xico",
+	"latitude": 19.2833,
+	"longitude": -99.7333
+},
+{
+	"City": "Heroica Guaymas",
+	"State": "Sonora",
+	"latitude": 27.9183,
+	"longitude": -110.8989
+},
+{
+	"City": "Apatzingan de la Constitucion",
+	"State": "MichoacÃ¡n de Ocampo",
+	"latitude": 19.0886,
+	"longitude": -102.3508
+},
+{
+	"City": "Ixtlahuaca",
+	"State": "MÃ©xico",
+	"latitude": 19.5689,
+	"longitude": -99.7669
+},
+{
+	"City": "Chilapa de Alvarez",
+	"State": "Guerrero",
+	"latitude": 17.5944,
+	"longitude": -99.1778
+},
+{
+	"City": "Miramar",
+	"State": "Tamaulipas",
+	"latitude": 22.3375,
+	"longitude": -97.8694
+},
+{
+	"City": "Orizaba",
+	"State": "Veracruz",
+	"latitude": 18.85,
+	"longitude": -97.1
+},
+{
+	"City": "Ciudad de Atlixco",
+	"State": "Puebla",
+	"latitude": 18.9,
+	"longitude": -98.45
+},
+{
+	"City": "San Pedro Garza Garcia",
+	"State": "Nuevo LeÃ³n",
+	"latitude": 25.6667,
+	"longitude": -100.3
+},
+{
+	"City": "Villa de Alvarez",
+	"State": "Colima",
+	"latitude": 19.25,
+	"longitude": -103.7333
+},
+{
+	"City": "Ciudad Hidalgo",
+	"State": "MichoacÃ¡n de Ocampo",
+	"latitude": 19.6923,
+	"longitude": -100.5574
+},
+{
+	"City": "Iguala de la Independencia",
+	"State": "Guerrero",
+	"latitude": 18.35,
+	"longitude": -99.5333
+},
+{
+	"City": "Cuautitlan",
+	"State": "MÃ©xico",
+	"latitude": 19.6833,
+	"longitude": -99.1833
+},
+{
+	"City": "Tecoman",
+	"State": "Colima",
+	"latitude": 18.9089,
+	"longitude": -103.8747
+},
+{
+	"City": "Temixco",
+	"State": "Morelos",
+	"latitude": 18.85,
+	"longitude": -99.2333
+},
+{
+	"City": "Parral",
+	"State": "Chihuahua",
+	"latitude": 26.9333,
+	"longitude": -105.6667
+},
+{
+	"City": "Huejutla de Reyes",
+	"State": "Hidalgo",
+	"latitude": 21.1333,
+	"longitude": -98.4167
+},
+{
+	"City": "Las Delicias",
+	"State": "Chihuahua",
+	"latitude": 28.2,
+	"longitude": -105.5
+},
+{
+	"City": "San Francisco del Rincon",
+	"State": "Guanajuato",
+	"latitude": 21.0228,
+	"longitude": -101.86
+},
+{
+	"City": "Ciudad Mante",
+	"State": "Tamaulipas",
+	"latitude": 22.7333,
+	"longitude": -98.95
+},
+{
+	"City": "Escuintla",
+	"State": "Chiapas",
+	"latitude": 15.3194,
+	"longitude": -92.6583
+},
+{
+	"City": "Fresnillo",
+	"State": "Zacatecas",
+	"latitude": 23.175,
+	"longitude": -102.8675
+},
+{
+	"City": "Huauchinango",
+	"State": "Puebla",
+	"latitude": 20.1767,
+	"longitude": -98.0528
+},
+{
+	"City": "La Piedad",
+	"State": "MichoacÃ¡n de Ocampo",
+	"latitude": 20.3333,
+	"longitude": -102.0167
+},
+{
+	"City": "San Felipe",
+	"State": "Guanajuato",
+	"latitude": 21.4833,
+	"longitude": -101.2167
+},
+{
+	"City": "Lerma",
+	"State": "MÃ©xico",
+	"latitude": 19.2847,
+	"longitude": -99.5119
+},
+{
+	"City": "Ciudad Rio Bravo",
+	"State": "Tamaulipas",
+	"latitude": 25.9861,
+	"longitude": -98.0889
+},
+{
+	"City": "Zihuatanejo",
+	"State": "Guerrero",
+	"latitude": 17.6444,
+	"longitude": -101.5511
+},
+{
+	"City": "Tula de Allende",
+	"State": "Hidalgo",
+	"latitude": 20.05,
+	"longitude": -99.35
+},
+{
+	"City": "San Felipe del Progreso",
+	"State": "MÃ©xico",
+	"latitude": 19.7125,
+	"longitude": -99.9511
+},
+{
+	"City": "Coatepec",
+	"State": "Veracruz",
+	"latitude": 19.4553,
+	"longitude": -96.9586
+},
+{
+	"City": "Tizayuca",
+	"State": "Morelos",
+	"latitude": 19.8333,
+	"longitude": -98.9833
+},
+{
+	"City": "San Luis de la Paz",
+	"State": "Guanajuato",
+	"latitude": 21.3,
+	"longitude": -100.5167
+},
+{
+	"City": "Jilotepec",
+	"State": "MÃ©xico",
+	"latitude": 19.9519,
+	"longitude": -99.5328
+},
+{
+	"City": "Tultepec",
+	"State": "MÃ©xico",
+	"latitude": 19.685,
+	"longitude": -99.1281
+},
+{
+	"City": "Tenancingo",
+	"State": "MÃ©xico",
+	"latitude": 18.9608,
+	"longitude": -99.5906
+},
+{
+	"City": "Ciudad Lazaro Cardenas",
+	"State": "MichoacÃ¡n de Ocampo",
+	"latitude": 17.9561,
+	"longitude": -102.1922
+},
+{
+	"City": "Cadereyta Jimenez",
+	"State": "Nuevo LeÃ³n",
+	"latitude": 25.6,
+	"longitude": -100
+},
+{
+	"City": "Acayucan",
+	"State": "Veracruz",
+	"latitude": 17.9422,
+	"longitude": -94.9103
+},
+{
+	"City": "Apizaco",
+	"State": "Tlaxcala",
+	"latitude": 19.4167,
+	"longitude": -98.1333
+},
+{
+	"City": "Fuentes del Valle",
+	"State": "MÃ©xico",
+	"latitude": 19.6325,
+	"longitude": -99.1386
+},
+{
+	"City": "Salina Cruz",
+	"State": "Oaxaca",
+	"latitude": 16.1671,
+	"longitude": -95.2
+},
+{
+	"City": "Jalpa de Mendez",
+	"State": "Tabasco",
+	"latitude": 18.1764,
+	"longitude": -93.0631
+},
+{
+	"City": "Nacajuca",
+	"State": "Tabasco",
+	"latitude": 18.1692,
+	"longitude": -93.0197
+},
+{
+	"City": "Cardenas",
+	"State": "Tabasco",
+	"latitude": 17.983,
+	"longitude": -93.367
+},
+{
+	"City": "Kanasin",
+	"State": "YucatÃ¡n",
+	"latitude": 20.9344,
+	"longitude": -89.5578
+},
+{
+	"City": "Ciudad Lerdo",
+	"State": "Durango",
+	"latitude": 25.55,
+	"longitude": -103.5167
+},
+{
+	"City": "Cunduacan",
+	"State": "Tabasco",
+	"latitude": 18.0667,
+	"longitude": -93.1667
+},
+{
+	"City": "Cozumel",
+	"State": "Quintana Roo",
+	"latitude": 20.5104,
+	"longitude": -86.9493
+},
+{
+	"City": "Cabo San Lucas",
+	"State": "Baja California Sur",
+	"latitude": 22.8897,
+	"longitude": -109.9156
+},
+{
+	"City": "Zacatlan",
+	"State": "Puebla",
+	"latitude": 19.9319,
+	"longitude": -97.96
+},
+{
+	"City": "Juchitan de Zaragoza",
+	"State": "Oaxaca",
+	"latitude": 16.4333,
+	"longitude": -95.0194
+},
+{
+	"City": "Temoaya",
+	"State": "Morelos",
+	"latitude": 19.4686,
+	"longitude": -99.5933
+},
+{
+	"City": "Tejupilco",
+	"State": "MÃ©xico",
+	"latitude": 18.9058,
+	"longitude": -100.1528
+},
+{
+	"City": "Juventino Rosas",
+	"State": "Guanajuato",
+	"latitude": 20.65,
+	"longitude": -101
+},
+{
+	"City": "Tamazunchale",
+	"State": "San Luis PotosÃ­",
+	"latitude": 21.2667,
+	"longitude": -98.7833
+},
+{
+	"City": "Guamuchil",
+	"State": "Sinaloa",
+	"latitude": 25.4639,
+	"longitude": -108.0794
+},
+{
+	"City": "Guasave",
+	"State": "Sinaloa",
+	"latitude": 25.5744,
+	"longitude": -108.4706
+},
+{
+	"City": "Rioverde",
+	"State": "San Luis PotosÃ­",
+	"latitude": 21.93,
+	"longitude": -99.98
+},
+{
+	"City": "Matehuala",
+	"State": "San Luis PotosÃ­",
+	"latitude": 23.6528,
+	"longitude": -100.6444
+},
+{
+	"City": "Frontera",
+	"State": "Coahuila de Zaragoza",
+	"latitude": 26.926,
+	"longitude": -101.449
+},
+{
+	"City": "Comonfort",
+	"State": "Guanajuato",
+	"latitude": 20.7167,
+	"longitude": -100.7667
+},
+{
+	"City": "Misantla",
+	"State": "Veracruz",
+	"latitude": 19.9333,
+	"longitude": -96.85
+},
+{
+	"City": "Valle Hermoso",
+	"State": "Tamaulipas",
+	"latitude": 25.6736,
+	"longitude": -97.8144
+},
+{
+	"City": "Colonia del Sol",
+	"State": "Baja California Sur",
+	"latitude": 22.9125,
+	"longitude": -109.9208
+},
+{
+	"City": "Playas de Rosarito",
+	"State": "Baja California",
+	"latitude": 32.3422,
+	"longitude": -117.0561
+},
+{
+	"City": "Tecate",
+	"State": "Baja California",
+	"latitude": 32.5667,
+	"longitude": -116.6331
+},
+{
+	"City": "Valle de Bravo",
+	"State": "MÃ©xico",
+	"latitude": 19.1925,
+	"longitude": -100.1306
+},
+{
+	"City": "Amozoc",
+	"State": "Puebla",
+	"latitude": 19.0333,
+	"longitude": -98.05
+},
+{
+	"City": "Linares",
+	"State": "Nuevo LeÃ³n",
+	"latitude": 24.8597,
+	"longitude": -99.5679
+},
+{
+	"City": "Sabinas",
+	"State": "Coahuila de Zaragoza",
+	"latitude": 27.86,
+	"longitude": -101.12
+},
+{
+	"City": "Acambaro",
+	"State": "Guanajuato",
+	"latitude": 20.0361,
+	"longitude": -100.7314
+},
+{
+	"City": "Altamira",
+	"State": "Tamaulipas",
+	"latitude": 22.3375,
+	"longitude": -97.8694
+},
+{
+	"City": "Cortazar",
+	"State": "Guanajuato",
+	"latitude": 20.483,
+	"longitude": -100.933
+},
+{
+	"City": "Sombrerete",
+	"State": "Zacatecas",
+	"latitude": 23.6333,
+	"longitude": -103.6397
+},
+{
+	"City": "San Pedro",
+	"State": "Coahuila de Zaragoza",
+	"latitude": 25.7589,
+	"longitude": -102.9844
+},
+{
+	"City": "Temascalcingo",
+	"State": "MÃ©xico",
+	"latitude": 19.9147,
+	"longitude": -100.0036
+},
+{
+	"City": "Etchojoa",
+	"State": "Sonora",
+	"latitude": 26.8667,
+	"longitude": -109.65
+},
+{
+	"City": "Romita",
+	"State": "Guanajuato",
+	"latitude": 20.8708,
+	"longitude": -101.5169
+},
+{
+	"City": "San Jose Iturbide",
+	"State": "Guanajuato",
+	"latitude": 21,
+	"longitude": -100.3833
+},
+{
+	"City": "San Buenaventura",
+	"State": "MÃ©xico",
+	"latitude": 19.2641,
+	"longitude": -99.6746
+},
+{
+	"City": "Actopan",
+	"State": "Hidalgo",
+	"latitude": 20.267,
+	"longitude": -98.933
+},
+{
+	"City": "Huamantla",
+	"State": "Tlaxcala",
+	"latitude": 19.3133,
+	"longitude": -97.9228
+},
+{
+	"City": "Jocotitlan",
+	"State": "MÃ©xico",
+	"latitude": 19.7072,
+	"longitude": -99.7867
+},
+{
+	"City": "Nuevo Casas Grandes",
+	"State": "Chihuahua",
+	"latitude": 30.4167,
+	"longitude": -107.9167
+},
+{
+	"City": "Zumpango",
+	"State": "MÃ©xico",
+	"latitude": 19.7969,
+	"longitude": -99.0992
+},
+{
+	"City": "Acatzingo",
+	"State": "Puebla",
+	"latitude": 18.9817,
+	"longitude": -97.7822
+},
+{
+	"City": "Matamoros",
+	"State": "Coahuila de Zaragoza",
+	"latitude": 25.533,
+	"longitude": -103.25
+},
+{
+	"City": "Francisco I. Madero",
+	"State": "Coahuila de Zaragoza",
+	"latitude": 25.7753,
+	"longitude": -103.2731
+},
+{
+	"City": "Villagran",
+	"State": "Guanajuato",
+	"latitude": 20.517,
+	"longitude": -100.983
+},
+{
+	"City": "Chiapa de Corzo",
+	"State": "Chiapas",
+	"latitude": 16.7083,
+	"longitude": -93.0169
+},
+{
+	"City": "Santiago Teyahualco",
+	"State": "MÃ©xico",
+	"latitude": 19.6667,
+	"longitude": -99.1333
+},
+{
+	"City": "Valladolid",
+	"State": "YucatÃ¡n",
+	"latitude": 20.6894,
+	"longitude": -88.2017
+},
+{
+	"City": "Ocosingo",
+	"State": "Chiapas",
+	"latitude": 16.9072,
+	"longitude": -92.0961
+},
+{
+	"City": "Ramos Arizpe",
+	"State": "Coahuila de Zaragoza",
+	"latitude": 25.55,
+	"longitude": -100.9667
+},
+{
+	"City": "Tizimin",
+	"State": "YucatÃ¡n",
+	"latitude": 21.1425,
+	"longitude": -88.1647
+},
+{
+	"City": "Loreto",
+	"State": "Zacatecas",
+	"latitude": 22.2667,
+	"longitude": -101.9833
+},
+{
+	"City": "Tlalmanalco",
+	"State": "MÃ©xico",
+	"latitude": 19.2044,
+	"longitude": -98.8025
+},
+{
+	"City": "Moroleon",
+	"State": "Guanajuato",
+	"latitude": 20.1333,
+	"longitude": -101.2
+},
+{
+	"City": "Tlapa de Comonfort",
+	"State": "Guerrero",
+	"latitude": 17.5461,
+	"longitude": -98.5764
+},
+{
+	"City": "Puerto Escondido",
+	"State": "Oaxaca",
+	"latitude": 15.8619,
+	"longitude": -97.0672
+},
+{
+	"City": "Parras de la Fuente",
+	"State": "Coahuila de Zaragoza",
+	"latitude": 25.4403,
+	"longitude": -102.1792
+},
+{
+	"City": "Emiliano Zapata",
+	"State": "Morelos",
+	"latitude": 18.8667,
+	"longitude": -99.15
+},
+{
+	"City": "Empalme",
+	"State": "Sonora",
+	"latitude": 27.9617,
+	"longitude": -110.8125
+},
+{
+	"City": "Tepalcatepec",
+	"State": "MichoacÃ¡n de Ocampo",
+	"latitude": 19.1833,
+	"longitude": -102.85
+},
+{
+	"City": "Izucar de Matamoros",
+	"State": "Puebla",
+	"latitude": 18.6,
+	"longitude": -98.4667
+},
+{
+	"City": "Jaltipan de Morelos",
+	"State": "Veracruz",
+	"latitude": 17.9703,
+	"longitude": -94.7144
+},
+{
+	"City": "Penjamo",
+	"State": "Guanajuato",
+	"latitude": 20.4311,
+	"longitude": -101.7222
+},
+{
+	"City": "Paracho de Verduzco",
+	"State": "MichoacÃ¡n de Ocampo",
+	"latitude": 19.65,
+	"longitude": -102.0667
+},
+{
+	"City": "Uman",
+	"State": "YucatÃ¡n",
+	"latitude": 20.8833,
+	"longitude": -89.75
+},
+{
+	"City": "San Diego de la Union",
+	"State": "Guanajuato",
+	"latitude": 21.4656,
+	"longitude": -100.8736
+},
+{
+	"City": "Perote",
+	"State": "Veracruz",
+	"latitude": 19.562,
+	"longitude": -97.242
+},
+{
+	"City": "Ciudad Manuel Doblado",
+	"State": "Guanajuato",
+	"latitude": 20.7303,
+	"longitude": -101.9533
+},
+{
+	"City": "La Barca",
+	"State": "Jalisco",
+	"latitude": 20.2903,
+	"longitude": -102.5456
+},
+{
+	"City": "Tonala",
+	"State": "Chiapas",
+	"latitude": 16.0894,
+	"longitude": -93.7514
+},
+{
+	"City": "Xico",
+	"State": "Veracruz",
+	"latitude": 19.417,
+	"longitude": -97
+},
+{
+	"City": "Nueva Rosita",
+	"State": "Coahuila de Zaragoza",
+	"latitude": 27.939,
+	"longitude": -101.218
+},
+{
+	"City": "Salvatierra",
+	"State": "Guanajuato",
+	"latitude": 20.2156,
+	"longitude": -100.8961
+},
+{
+	"City": "Panuco",
+	"State": "Veracruz",
+	"latitude": 22.05,
+	"longitude": -98.1833
+},
+{
+	"City": "Nueva Italia de Ruiz",
+	"State": "MichoacÃ¡n de Ocampo",
+	"latitude": 19.0194,
+	"longitude": -102.1089
+},
+{
+	"City": "Zinacantan",
+	"State": "Chiapas",
+	"latitude": 16.7597,
+	"longitude": -92.7222
+},
+{
+	"City": "Jimenez",
+	"State": "Chihuahua",
+	"latitude": 27.13,
+	"longitude": -104.9067
+},
+{
+	"City": "Tuxpan",
+	"State": "Nayarit",
+	"latitude": 21.8667,
+	"longitude": -105.45
+},
+{
+	"City": "Macuspana",
+	"State": "Tabasco",
+	"latitude": 17.7667,
+	"longitude": -92.6
+},
+{
+	"City": "Escuinapa",
+	"State": "Sinaloa",
+	"latitude": 22.9822,
+	"longitude": -105.7031
+},
+{
+	"City": "Ojuelos de Jalisco",
+	"State": "Jalisco",
+	"latitude": 21.8642,
+	"longitude": -101.5933
+},
+{
+	"City": "Tenosique",
+	"State": "Tabasco",
+	"latitude": 17.4756,
+	"longitude": -91.4225
+},
+{
+	"City": "Santa Isabel",
+	"State": "Baja California",
+	"latitude": 32.6314,
+	"longitude": -115.5756
+},
+{
+	"City": "Ticul",
+	"State": "YucatÃ¡n",
+	"latitude": 20.3953,
+	"longitude": -89.5339
+},
+{
+	"City": "Calpulalpan",
+	"State": "Hidalgo",
+	"latitude": 19.5869,
+	"longitude": -98.5683
+},
+{
+	"City": "Paso de Ovejas",
+	"State": "Veracruz",
+	"latitude": 19.285,
+	"longitude": -96.44
+},
+{
+	"City": "Abasolo",
+	"State": "Guanajuato",
+	"latitude": 20.4511,
+	"longitude": -101.5289
+},
+{
+	"City": "Amecameca de Juarez",
+	"State": "MÃ©xico",
+	"latitude": 19.1238,
+	"longitude": -98.7665
+},
+{
+	"City": "Ometepec",
+	"State": "Guerrero",
+	"latitude": 16.6833,
+	"longitude": -98.4167
+},
+{
+	"City": "Ixtapan de la Sal",
+	"State": "MÃ©xico",
+	"latitude": 18.8333,
+	"longitude": -99.6833
+},
+{
+	"City": "Villanueva",
+	"State": "Zacatecas",
+	"latitude": 22.3536,
+	"longitude": -102.8831
+},
+{
+	"City": "Champoton",
+	"State": "Campeche",
+	"latitude": 19.35,
+	"longitude": -90.7167
+},
+{
+	"City": "Coatepec Harinas",
+	"State": "MÃ©xico",
+	"latitude": 18.9,
+	"longitude": -99.7167
+},
+{
+	"City": "Catemaco",
+	"State": "Veracruz",
+	"latitude": 18.4167,
+	"longitude": -95.1167
+},
+{
+	"City": "Pabellon de Arteaga",
+	"State": "Aguascalientes",
+	"latitude": 22.15,
+	"longitude": -102.2667
+},
+{
+	"City": "Ciudad Sabinas Hidalgo",
+	"State": "Nuevo LeÃ³n",
+	"latitude": 26.5,
+	"longitude": -100.1833
+},
+{
+	"City": "Huatabampo",
+	"State": "Sonora",
+	"latitude": 26.8304,
+	"longitude": -109.63
+},
+{
+	"City": "Escarcega",
+	"State": "Campeche",
+	"latitude": 18.6067,
+	"longitude": -90.7344
+},
+{
+	"City": "Ozumba",
+	"State": "MÃ©xico",
+	"latitude": 19.0392,
+	"longitude": -98.7936
+},
+{
+	"City": "Cananea",
+	"State": "Sonora",
+	"latitude": 30.9819,
+	"longitude": -110.3006
+},
+{
+	"City": "Ciudad Sahagun",
+	"State": "Hidalgo",
+	"latitude": 19.7714,
+	"longitude": -98.5803
+},
+{
+	"City": "Rincon de Romos",
+	"State": "Aguascalientes",
+	"latitude": 22.2333,
+	"longitude": -102.3167
+},
+{
+	"City": "Zumpango del Rio",
+	"State": "Guerrero",
+	"latitude": 17.65,
+	"longitude": -99.5
+},
+{
+	"City": "Soledad de Doblado",
+	"State": "Veracruz",
+	"latitude": 19.0447,
+	"longitude": -96.4233
+},
+{
+	"City": "Otumba",
+	"State": "MÃ©xico",
+	"latitude": 19.6969,
+	"longitude": -98.7547
+},
+{
+	"City": "Alamo",
+	"State": "Veracruz",
+	"latitude": 20.9167,
+	"longitude": -97.675
+},
+{
+	"City": "Cuitzeo del Porvenir",
+	"State": "MichoacÃ¡n de Ocampo",
+	"latitude": 19.9686,
+	"longitude": -101.1394
+},
+{
+	"City": "Navolato",
+	"State": "Sinaloa",
+	"latitude": 24.7656,
+	"longitude": -107.7019
+},
+{
+	"City": "El Salto",
+	"State": "Durango",
+	"latitude": 23.7823,
+	"longitude": -105.3585
+},
+{
+	"City": "San Fernando",
+	"State": "Tamaulipas",
+	"latitude": 24.8504,
+	"longitude": -98.16
+},
+{
+	"City": "Contla",
+	"State": "Tlaxcala",
+	"latitude": 19.3333,
+	"longitude": -98.1667
+},
+{
+	"City": "Xalisco",
+	"State": "Nayarit",
+	"latitude": 21.4481,
+	"longitude": -104.9
+},
+{
+	"City": "Jamay",
+	"State": "Jalisco",
+	"latitude": 20.2944,
+	"longitude": -102.7097
+},
+{
+	"City": "Felipe Carrillo Puerto",
+	"State": "Quintana Roo",
+	"latitude": 19.5786,
+	"longitude": -88.0453
+},
+{
+	"City": "Ojinaga",
+	"State": "Chihuahua",
+	"latitude": 29.5644,
+	"longitude": -104.4164
+},
+{
+	"City": "Frontera",
+	"State": "Tabasco",
+	"latitude": 18.5336,
+	"longitude": -92.6469
+},
+{
+	"City": "Nogales",
+	"State": "Veracruz",
+	"latitude": 18.8167,
+	"longitude": -97.1667
+},
+{
+	"City": "Tulum",
+	"State": "Quintana Roo",
+	"latitude": 20.2119,
+	"longitude": -87.4658
+},
+{
+	"City": "Cueramaro",
+	"State": "Guanajuato",
+	"latitude": 20.6258,
+	"longitude": -101.6739
+},
+{
+	"City": "Hunucma",
+	"State": "YucatÃ¡n",
+	"latitude": 21.0153,
+	"longitude": -89.8744
+},
+{
+	"City": "Tixtla de Guerrero",
+	"State": "Guerrero",
+	"latitude": 17.5667,
+	"longitude": -99.4
+},
+{
+	"City": "Aldama",
+	"State": "Chihuahua",
+	"latitude": 28.8386,
+	"longitude": -105.9111
+},
+{
+	"City": "Ocatlan",
+	"State": "Tlaxcala",
+	"latitude": 19.3167,
+	"longitude": -98.2283
+},
+{
+	"City": "Tantoyuca",
+	"State": "Veracruz",
+	"latitude": 21.35,
+	"longitude": -98.2333
+},
+{
+	"City": "Tepetlaoxtoc",
+	"State": "MÃ©xico",
+	"latitude": 19.5731,
+	"longitude": -98.8203
+},
+{
+	"City": "Ciudad Altamirano",
+	"State": "Guerrero",
+	"latitude": 18.3583,
+	"longitude": -100.6667
+},
+{
+	"City": "Magdalena de Kino",
+	"State": "Sonora",
+	"latitude": 30.6167,
+	"longitude": -111.05
+},
+{
+	"City": "Cerro Azul",
+	"State": "Veracruz",
+	"latitude": 21.2,
+	"longitude": -97.7331
+},
+{
+	"City": "Xoxocotla",
+	"State": "Morelos",
+	"latitude": 18.685,
+	"longitude": -99.2439
+},
+{
+	"City": "Chapala",
+	"State": "Jalisco",
+	"latitude": 20.2933,
+	"longitude": -103.1897
+},
+{
+	"City": "Atlatlahucan",
+	"State": "Morelos",
+	"latitude": 18.935,
+	"longitude": -98.9
+},
+{
+	"City": "Meoqui",
+	"State": "Chihuahua",
+	"latitude": 28.2722,
+	"longitude": -105.4819
+},
+{
+	"City": "Ocampo",
+	"State": "Guanajuato",
+	"latitude": 21.65,
+	"longitude": -101.5
+},
+{
+	"City": "Oxkutzkab",
+	"State": "YucatÃ¡n",
+	"latitude": 20.3028,
+	"longitude": -89.4183
+},
+{
+	"City": "Malinalco",
+	"State": "MÃ©xico",
+	"latitude": 18.9483,
+	"longitude": -99.4947
+},
+{
+	"City": "Heroica Ciudad de Tlaxiaco",
+	"State": "Oaxaca",
+	"latitude": 17.2704,
+	"longitude": -97.68
+},
+{
+	"City": "Castanos",
+	"State": "Coahuila de Zaragoza",
+	"latitude": 26.7833,
+	"longitude": -101.4167
+},
+{
+	"City": "Atoyac de Alvarez",
+	"State": "Guerrero",
+	"latitude": 17.2,
+	"longitude": -100.4333
+},
+{
+	"City": "San Juan Zitlaltepec",
+	"State": "Morelos",
+	"latitude": 19.7167,
+	"longitude": -99.05
+},
+{
+	"City": "Santiago Ixcuintla",
+	"State": "Nayarit",
+	"latitude": 21.811,
+	"longitude": -105.2079
+},
+{
+	"City": "Tequixquiac",
+	"State": "Morelos",
+	"latitude": 19.9097,
+	"longitude": -99.1417
+},
+{
+	"City": "Reyes Acozac",
+	"State": "Morelos",
+	"latitude": 19.7667,
+	"longitude": -98.9833
+},
+{
+	"City": "Chiconcuac",
+	"State": "MÃ©xico",
+	"latitude": 19.55,
+	"longitude": -98.9
+},
+{
+	"City": "Cotija de la Paz",
+	"State": "MÃ©xico",
+	"latitude": 19.81,
+	"longitude": -102.7047
+},
+{
+	"City": "Motul",
+	"State": "YucatÃ¡n",
+	"latitude": 21.1667,
+	"longitude": -89.4667
+},
+{
+	"City": "Peto",
+	"State": "YucatÃ¡n",
+	"latitude": 20.1256,
+	"longitude": -88.9214
+},
+{
+	"City": "Loreto",
+	"State": "Baja California Sur",
+	"latitude": 26.0128,
+	"longitude": -111.3433
+},
+{
+	"City": "Ciudad Miguel Aleman",
+	"State": "Tamaulipas",
+	"latitude": 26.4003,
+	"longitude": -99.0253
+},
+{
+	"City": "Hidalgotitlan",
+	"State": "Veracruz",
+	"latitude": 17.7833,
+	"longitude": -94.6333
+},
+{
+	"City": "Huanimaro",
+	"State": "Guanajuato",
+	"latitude": 20.3675,
+	"longitude": -101.4969
+},
+{
+	"City": "Fortin de las Flores",
+	"State": "Veracruz",
+	"latitude": 18.9,
+	"longitude": -97
+},
+{
+	"City": "Acatlan de Osorio",
+	"State": "Puebla",
+	"latitude": 18.2086,
+	"longitude": -98.0575
+},
+{
+	"City": "Ayutla de los Libres",
+	"State": "Guerrero",
+	"latitude": 16.9,
+	"longitude": -99.2167
+},
+{
+	"City": "Tecpan de Galeana",
+	"State": "Guerrero",
+	"latitude": 17.25,
+	"longitude": -100.6833
+},
+{
+	"City": "Chemax",
+	"State": "YucatÃ¡n",
+	"latitude": 20.655,
+	"longitude": -87.9372
+},
+{
+	"City": "El Rosario",
+	"State": "Sinaloa",
+	"latitude": 22.9922,
+	"longitude": -105.8572
+},
+{
+	"City": "Miahuatlan de Porfirio Diaz",
+	"State": "Oaxaca",
+	"latitude": 16.33,
+	"longitude": -96.6
+},
+{
+	"City": "El Dorado",
+	"State": "Sinaloa",
+	"latitude": 24.3228,
+	"longitude": -107.363
+},
+{
+	"City": "Palau",
+	"State": "Coahuila de Zaragoza",
+	"latitude": 27.9167,
+	"longitude": -101.4167
+},
+{
+	"City": "Santiago Tuxtla",
+	"State": "Veracruz",
+	"latitude": 18.4704,
+	"longitude": -95.3
+},
+{
+	"City": "Acala",
+	"State": "Chiapas",
+	"latitude": 16.5533,
+	"longitude": -92.8069
+},
+{
+	"City": "Ciudad de Huitzuco",
+	"State": "Guerrero",
+	"latitude": 18.3,
+	"longitude": -99.35
+},
+{
+	"City": "La Cruz",
+	"State": "Sinaloa",
+	"latitude": 23.9214,
+	"longitude": -106.8919
+},
+{
+	"City": "Tlaxcala",
+	"State": "Tlaxcala",
+	"latitude": 19.3191,
+	"longitude": -98.1998
+},
+{
+	"City": "Tecuala",
+	"State": "Nayarit",
+	"latitude": 22.4004,
+	"longitude": -105.46
+},
+{
+	"City": "Ciudad Guadalupe Victoria",
+	"State": "Durango",
+	"latitude": 24.4497,
+	"longitude": -104.1225
+},
+{
+	"City": "Santa Catarina Juquila",
+	"State": "Oaxaca",
+	"latitude": 16.2364,
+	"longitude": -97.2919
+},
+{
+	"City": "Santiago Tulantepec",
+	"State": "Hidalgo",
+	"latitude": 20.0397,
+	"longitude": -98.3575
+},
+{
+	"City": "Rodolfo Sanchez Taboada",
+	"State": "Baja California",
+	"latitude": 31.7958,
+	"longitude": -116.5911
+},
+{
+	"City": "Ciudad Hidalgo",
+	"State": "Chiapas",
+	"latitude": 14.6792,
+	"longitude": -92.1497
+},
+{
+	"City": "Cardenas",
+	"State": "San Luis PotosÃ­",
+	"latitude": 22.0103,
+	"longitude": -99.6522
+},
+{
+	"City": "Tepoztlan",
+	"State": "Morelos",
+	"latitude": 18.9853,
+	"longitude": -99.0997
+},
+{
+	"City": "Apaxco de Ocampo",
+	"State": "Hidalgo",
+	"latitude": 19.9733,
+	"longitude": -99.17
+},
+{
+	"City": "Pureparo de Echaiz",
+	"State": "MichoacÃ¡n de Ocampo",
+	"latitude": 19.9,
+	"longitude": -102
+},
+{
+	"City": "La Crucecita",
+	"State": "Oaxaca",
+	"latitude": 15.7753,
+	"longitude": -96.1425
+},
+{
+	"City": "Vicente Guerrero",
+	"State": "Durango",
+	"latitude": 23.75,
+	"longitude": -103.9833
+},
+{
+	"City": "Cerritos",
+	"State": "San Luis PotosÃ­",
+	"latitude": 22.4275,
+	"longitude": -100.2783
+},
+{
+	"City": "Izamal",
+	"State": "YucatÃ¡n",
+	"latitude": 20.9314,
+	"longitude": -89.0178
+},
+{
+	"City": "Coquimatlan",
+	"State": "Colima",
+	"latitude": 19.2038,
+	"longitude": -103.8086
+},
+{
+	"City": "Madera",
+	"State": "Chihuahua",
+	"latitude": 29.19,
+	"longitude": -108.1414
+},
+{
+	"City": "Guerrero Negro",
+	"State": "Baja California",
+	"latitude": 27.9589,
+	"longitude": -114.0561
+},
+{
+	"City": "Santa Rosalia",
+	"State": "Baja California Sur",
+	"latitude": 27.3389,
+	"longitude": -112.2669
+},
+{
+	"City": "Valparaiso",
+	"State": "Zacatecas",
+	"latitude": 22.7667,
+	"longitude": -103.5667
+},
+{
+	"City": "Villa Union",
+	"State": "Sinaloa",
+	"latitude": 23.1883,
+	"longitude": -106.2158
+},
+{
+	"City": "Guachochi",
+	"State": "Chihuahua",
+	"latitude": 26.8194,
+	"longitude": -107.07
+},
+{
+	"City": "Juan Aldama",
+	"State": "Zacatecas",
+	"latitude": 24.291,
+	"longitude": -103.394
+},
+{
+	"City": "Balancan",
+	"State": "Tabasco",
+	"latitude": 17.8,
+	"longitude": -91.53
+},
+{
+	"City": "Calkini",
+	"State": "Campeche",
+	"latitude": 20.3667,
+	"longitude": -90.05
+},
+{
+	"City": "Tempoal de Sanchez",
+	"State": "Veracruz",
+	"latitude": 21.5167,
+	"longitude": -98.3833
+},
+{
+	"City": "Vicente Guerrero",
+	"State": "Baja California",
+	"latitude": 30.7264,
+	"longitude": -115.9903
+},
+{
+	"City": "Aldama",
+	"State": "Tamaulipas",
+	"latitude": 22.9194,
+	"longitude": -98.0736
+},
+{
+	"City": "Mexicaltzingo",
+	"State": "MÃ©xico",
+	"latitude": 19.2092,
+	"longitude": -99.5858
+},
+{
+	"City": "Angel R. Cabada",
+	"State": "Veracruz",
+	"latitude": 18.5969,
+	"longitude": -95.4453
+},
+{
+	"City": "Ascension",
+	"State": "Chihuahua",
+	"latitude": 31.0928,
+	"longitude": -107.9964
+},
+{
+	"City": "Sonoita",
+	"State": "Sonora",
+	"latitude": 31.8614,
+	"longitude": -112.8544
+},
+{
+	"City": "Anenecuilco",
+	"State": "Morelos",
+	"latitude": 18.7781,
+	"longitude": -98.9861
+},
+{
+	"City": "El Fuerte",
+	"State": "Sinaloa",
+	"latitude": 26.4214,
+	"longitude": -108.62
+},
+{
+	"City": "Isla Mujeres",
+	"State": "Quintana Roo",
+	"latitude": 21.2084,
+	"longitude": -86.7115
+},
+{
+	"City": "La Magdalena Chichicaspa",
+	"State": "MÃ©xico",
+	"latitude": 19.4181,
+	"longitude": -99.3228
+},
+{
+	"City": "Santa Maria Huazolotitlan",
+	"State": "Oaxaca",
+	"latitude": 16.3014,
+	"longitude": -97.9125
+},
+{
+	"City": "Cuencame de Ceniceros",
+	"State": "Durango",
+	"latitude": 24.8667,
+	"longitude": -103.7
+},
+{
+	"City": "San Isidro Buen Suceso",
+	"State": "Tlaxcala",
+	"latitude": 19.1528,
+	"longitude": -98.1069
+},
+{
+	"City": "Saucillo",
+	"State": "Chihuahua",
+	"latitude": 28.0333,
+	"longitude": -105.2833
+},
+{
+	"City": "Jose Maria Morelos",
+	"State": "Quintana Roo",
+	"latitude": 19.75,
+	"longitude": -88.7
+},
+{
+	"City": "Dzitbalche",
+	"State": "Campeche",
+	"latitude": 20.3167,
+	"longitude": -90.05
+},
+{
+	"City": "Jaltenango",
+	"State": "Chiapas",
+	"latitude": 15.8725,
+	"longitude": -92.725
+},
+{
+	"City": "Tierra Colorada",
+	"State": "Guerrero",
+	"latitude": 17.1656,
+	"longitude": -99.5264
+},
+{
+	"City": "Villa Union",
+	"State": "Durango",
+	"latitude": 23.9667,
+	"longitude": -104.0333
+},
+{
+	"City": "Rayon",
+	"State": "MÃ©xico",
+	"latitude": 19.1481,
+	"longitude": -99.58
+},
+{
+	"City": "Bacalar",
+	"State": "Quintana Roo",
+	"latitude": 18.6769,
+	"longitude": -88.3953
+},
+{
+	"City": "Muna",
+	"State": "YucatÃ¡n",
+	"latitude": 20.48,
+	"longitude": -89.72
+},
+{
+	"City": "Coalcoman de Vazquez Pallares",
+	"State": "MichoacÃ¡n de Ocampo",
+	"latitude": 18.7771,
+	"longitude": -103.1596
+},
+{
+	"City": "Nuevo Progreso",
+	"State": "Tamaulipas",
+	"latitude": 26.0561,
+	"longitude": -97.9522
+},
+{
+	"City": "Chichihualco",
+	"State": "Guerrero",
+	"latitude": 17.655,
+	"longitude": -99.674
+},
+{
+	"City": "Altamirano",
+	"State": "Chiapas",
+	"latitude": 16.7361,
+	"longitude": -92.0389
+},
+{
+	"City": "Lerma",
+	"State": "Campeche",
+	"latitude": 19.8,
+	"longitude": -90.6
+},
+{
+	"City": "Canatlan",
+	"State": "Durango",
+	"latitude": 24.52,
+	"longitude": -104.78
+},
+{
+	"City": "San Patricio",
+	"State": "Jalisco",
+	"latitude": 19.2,
+	"longitude": -104.6833
+},
+{
+	"City": "Las Veredas",
+	"State": "Baja California Sur",
+	"latitude": 23.15,
+	"longitude": -109.7
+},
+{
+	"City": "Gonzalez",
+	"State": "Tamaulipas",
+	"latitude": 22.8281,
+	"longitude": -98.4306
+},
+{
+	"City": "San Luis de La Loma",
+	"State": "Guerrero",
+	"latitude": 17.2714,
+	"longitude": -100.8911
+},
+{
+	"City": "Akil",
+	"State": "YucatÃ¡n",
+	"latitude": 20.2656,
+	"longitude": -89.3478
+},
+{
+	"City": "Ciudad Cuauhtemoc",
+	"State": "Veracruz",
+	"latitude": 22.1842,
+	"longitude": -97.8325
+},
+{
+	"City": "Nuevo Ideal",
+	"State": "Durango",
+	"latitude": 24.8875,
+	"longitude": -105.0728
+},
+{
+	"City": "Platon Sanchez",
+	"State": "Veracruz",
+	"latitude": 21.2833,
+	"longitude": -98.3667
+},
+{
+	"City": "Santa Barbara",
+	"State": "Chihuahua",
+	"latitude": 26.8133,
+	"longitude": -105.8203
+},
+{
+	"City": "Villa de Etla",
+	"State": "Oaxaca",
+	"latitude": 17.2062,
+	"longitude": -96.7989
+},
+{
+	"City": "Tlacotalpan",
+	"State": "Veracruz",
+	"latitude": 18.6167,
+	"longitude": -95.6667
+},
+{
+	"City": "Tixkokob",
+	"State": "YucatÃ¡n",
+	"latitude": 21.0022,
+	"longitude": -89.3936
+},
+{
+	"City": "Santa Ana",
+	"State": "Sonora",
+	"latitude": 30.5406,
+	"longitude": -111.1205
+},
+{
+	"City": "Acanceh",
+	"State": "YucatÃ¡n",
+	"latitude": 20.8133,
+	"longitude": -89.4524
+},
+{
+	"City": "Tetela del Volcan",
+	"State": "Morelos",
+	"latitude": 18.8931,
+	"longitude": -98.7297
+},
+{
+	"City": "Pajacuaran",
+	"State": "MichoacÃ¡n de Ocampo",
+	"latitude": 20.1178,
+	"longitude": -102.5667
+},
+{
+	"City": "La Huacana",
+	"State": "MichoacÃ¡n de Ocampo",
+	"latitude": 18.9625,
+	"longitude": -101.8069
+},
+{
+	"City": "San Ignacio Cohuirimpo",
+	"State": "Sonora",
+	"latitude": 27.05,
+	"longitude": -109.4167
+},
+{
+	"City": "Cuatro Cienegas de Carranza",
+	"State": "Coahuila de Zaragoza",
+	"latitude": 26.9861,
+	"longitude": -102.0664
+},
+{
+	"City": "Tacotalpa",
+	"State": "Tabasco",
+	"latitude": 17.5931,
+	"longitude": -92.8258
+},
+{
+	"City": "Candelaria",
+	"State": "Campeche",
+	"latitude": 18.1844,
+	"longitude": -91.0461
+},
+{
+	"City": "Tlahualilo de Zaragoza",
+	"State": "Durango",
+	"latitude": 26.1167,
+	"longitude": -103.45
+},
+{
+	"City": "Ahuacatlan",
+	"State": "Nayarit",
+	"latitude": 21.0536,
+	"longitude": -104.4869
+},
+{
+	"City": "Ciudad Tula",
+	"State": "Tamaulipas",
+	"latitude": 23,
+	"longitude": -99.72
+},
+{
+	"City": "Ayapango",
+	"State": "MÃ©xico",
+	"latitude": 19.1264,
+	"longitude": -98.8028
+},
+{
+	"City": "Xicotencatl",
+	"State": "Tamaulipas",
+	"latitude": 22.9958,
+	"longitude": -98.9447
+},
+{
+	"City": "Choix",
+	"State": "Sinaloa",
+	"latitude": 26.7061,
+	"longitude": -108.3219
+},
+{
+	"City": "Tzucacab",
+	"State": "YucatÃ¡n",
+	"latitude": 20.0708,
+	"longitude": -89.0506
+},
+{
+	"City": "Anahuac",
+	"State": "Chihuahua",
+	"latitude": 28.48,
+	"longitude": -106.7442
+},
+{
+	"City": "Tekit",
+	"State": "YucatÃ¡n",
+	"latitude": 20.5322,
+	"longitude": -89.3314
+},
+{
+	"City": "Amatlan de los Reyes",
+	"State": "Veracruz",
+	"latitude": 18.8457,
+	"longitude": -96.9149
+},
+{
+	"City": "San Jose el Viejo",
+	"State": "Baja California Sur",
+	"latitude": 23.1226,
+	"longitude": -109.712
+},
+{
+	"City": "Higuera de Zaragoza",
+	"State": "Sinaloa",
+	"latitude": 25.95,
+	"longitude": -109.2833
+},
+{
+	"City": "Tlatlauquitepec",
+	"State": "Puebla",
+	"latitude": 19.8528,
+	"longitude": -97.4953
+},
+{
+	"City": "La Junta",
+	"State": "Chihuahua",
+	"latitude": 28.4778,
+	"longitude": -107.3317
+},
+{
+	"City": "Cuauhtemoc",
+	"State": "Colima",
+	"latitude": 19.3281,
+	"longitude": -103.6028
+},
+{
+	"City": "Halacho",
+	"State": "YucatÃ¡n",
+	"latitude": 20.4764,
+	"longitude": -90.0819
+},
+{
+	"City": "Concordia",
+	"State": "Sinaloa",
+	"latitude": 23.2883,
+	"longitude": -106.0675
+},
+{
+	"City": "Zacapoaxtla",
+	"State": "Puebla",
+	"latitude": 19.8833,
+	"longitude": -97.5833
+},
+{
+	"City": "Cocorit",
+	"State": "Sonora",
+	"latitude": 27.5833,
+	"longitude": -109.9667
+},
+{
+	"City": "Ahumada",
+	"State": "Chihuahua",
+	"latitude": 30.6186,
+	"longitude": -106.5122
+},
+{
+	"City": "El Higo",
+	"State": "Veracruz",
+	"latitude": 21.7667,
+	"longitude": -98.45
+},
+{
+	"City": "Guadalupe Yancuictlalpan",
+	"State": "Morelos",
+	"latitude": 19.1831,
+	"longitude": -99.4583
+},
+{
+	"City": "Kantunilkin",
+	"State": "Quintana Roo",
+	"latitude": 21.1,
+	"longitude": -87.4833
+},
+{
+	"City": "Santa Maria Huatulco",
+	"State": "Oaxaca",
+	"latitude": 15.85,
+	"longitude": -96.3333
+},
+{
+	"City": "Buctzotz",
+	"State": "YucatÃ¡n",
+	"latitude": 21.2017,
+	"longitude": -88.7928
+},
+{
+	"City": "San Francisco del Mar",
+	"State": "Oaxaca",
+	"latitude": 16.3394,
+	"longitude": -94.515
+},
+{
+	"City": "Altar",
+	"State": "Sonora",
+	"latitude": 30.7136,
+	"longitude": -111.8353
+},
+{
+	"City": "Celestun",
+	"State": "YucatÃ¡n",
+	"latitude": 20.8583,
+	"longitude": -90.4
+},
+{
+	"City": "Hopelchen",
+	"State": "Campeche",
+	"latitude": 19.7444,
+	"longitude": -89.8453
+},
+{
+	"City": "Ojo Caliente",
+	"State": "Aguascalientes",
+	"latitude": 21.8606,
+	"longitude": -102.684
+},
+{
+	"City": "Temascal",
+	"State": "Oaxaca",
+	"latitude": 18.2394,
+	"longitude": -96.4031
+},
+{
+	"City": "Temozon",
+	"State": "YucatÃ¡n",
+	"latitude": 20.8042,
+	"longitude": -88.2028
+},
+{
+	"City": "Leona Vicario",
+	"State": "Quintana Roo",
+	"latitude": 20.9922,
+	"longitude": -87.2028
+},
+{
+	"City": "Becal",
+	"State": "Campeche",
+	"latitude": 20.4414,
+	"longitude": -90.0275
+},
+{
+	"City": "San Antonino Castillo Velasco",
+	"State": "Oaxaca",
+	"latitude": 16.8031,
+	"longitude": -96.6839
+},
+{
+	"City": "Puerto San Carlos",
+	"State": "Baja California Sur",
+	"latitude": 24.7894,
+	"longitude": -112.1083
+},
+{
+	"City": "Tayoltita",
+	"State": "Durango",
+	"latitude": 24.0833,
+	"longitude": -105.9333
+},
+{
+	"City": "Teabo",
+	"State": "YucatÃ¡n",
+	"latitude": 20.3997,
+	"longitude": -89.2844
+},
+{
+	"City": "Piste",
+	"State": "YucatÃ¡n",
+	"latitude": 20.6981,
+	"longitude": -88.5886
+},
+{
+	"City": "Algodones",
+	"State": "Baja California",
+	"latitude": 32.7153,
+	"longitude": -114.7289
+},
+{
+	"City": "Guadalupe y Calvo",
+	"State": "Chihuahua",
+	"latitude": 26.095,
+	"longitude": -106.9644
+},
+{
+	"City": "Calderitas",
+	"State": "Quintana Roo",
+	"latitude": 18.5544,
+	"longitude": -88.2583
+},
+{
+	"City": "Panindicuaro",
+	"State": "MichoacÃ¡n de Ocampo",
+	"latitude": 19.9828,
+	"longitude": -101.7606
+},
+{
+	"City": "Panaba",
+	"State": "YucatÃ¡n",
+	"latitude": 21.2964,
+	"longitude": -88.2706
+},
+{
+	"City": "Palo Alto",
+	"State": "Aguascalientes",
+	"latitude": 21.9167,
+	"longitude": -101.9667
+},
+{
+	"City": "Angostura",
+	"State": "Sinaloa",
+	"latitude": 25.3653,
+	"longitude": -108.1622
+},
+{
+	"City": "Nombre de Dios",
+	"State": "Durango",
+	"latitude": 23.85,
+	"longitude": -104.2333
+},
+{
+	"City": "Esperanza",
+	"State": "Sonora",
+	"latitude": 27.58,
+	"longitude": -109.9298
+},
+{
+	"City": "Frontera Corozal",
+	"State": "Chiapas",
+	"latitude": 16.8211,
+	"longitude": -90.8903
+},
+{
+	"City": "X-Can",
+	"State": "YucatÃ¡n",
+	"latitude": 20.8583,
+	"longitude": -87.6681
+},
+{
+	"City": "Chicxulub Puerto",
+	"State": "YucatÃ¡n",
+	"latitude": 21.2939,
+	"longitude": -89.6083
+},
+{
+	"City": "Ciudad Guzman",
+	"State": "Jalisco",
+	"latitude": 19.7,
+	"longitude": -103.4667
+},
+{
+	"City": "Tecax",
+	"State": "YucatÃ¡n",
+	"latitude": 20.2019,
+	"longitude": -89.2881
+},
+{
+	"City": "Taxco de Alarcon",
+	"State": "Guerrero",
+	"latitude": 18.5564,
+	"longitude": -99.605
+},
+{
+	"City": "San Jose del Cabo",
+	"State": "Baja California Sur",
+	"latitude": 23.0614,
+	"longitude": -109.7081
+},
+{
+	"City": "Santa Cruz Xoxocotlan",
+	"State": "Oaxaca",
+	"latitude": 17.0264,
+	"longitude": -96.7333
+},
+{
+	"City": "Teziutlan",
+	"State": "Puebla",
+	"latitude": 19.8178,
+	"longitude": -97.3667
+},
+{
+	"City": "Paraiso",
+	"State": "Tabasco",
+	"latitude": 18.3961,
+	"longitude": -93.2128
+},
+{
+	"City": "Santa Rosa Jauregui",
+	"State": "QuerÃ©taro",
+	"latitude": 20.7418,
+	"longitude": -100.4473
+},
+{
+	"City": "Tepeji del Rio de Ocampo",
+	"State": "Hidalgo",
+	"latitude": 19.9039,
+	"longitude": -99.3414
+},
+{
+	"City": "Patzcuaro",
+	"State": "MichoacÃ¡n de Ocampo",
+	"latitude": 19.5164,
+	"longitude": -101.6097
+},
+{
+	"City": "Agua Prieta",
+	"State": "Sonora",
+	"latitude": 31.3258,
+	"longitude": -109.5489
+},
+{
+	"City": "Villa Victoria",
+	"State": "MÃ©xico",
+	"latitude": 19.4333,
+	"longitude": -100
+},
+{
+	"City": "Ciudad de Huajuapam de Leon",
+	"State": "Oaxaca",
+	"latitude": 17.8039,
+	"longitude": -97.7758
+},
+{
+	"City": "Valle Alto",
+	"State": "Nuevo LeÃ³n",
+	"latitude": 25.5667,
+	"longitude": -100.25
+},
+{
+	"City": "Ixmiquilpan",
+	"State": "Hidalgo",
+	"latitude": 20.4861,
+	"longitude": -99.2589
+},
+{
+	"City": "Guasavito",
+	"State": "Sinaloa",
+	"latitude": 25.5744,
+	"longitude": -108.4706
+},
+{
+	"City": "Tepotzotlan",
+	"State": "MÃ©xico",
+	"latitude": 19.7161,
+	"longitude": -99.2236
+},
+{
+	"City": "Santa Catarina Otzolotepec",
+	"State": "Puebla",
+	"latitude": 18.5667,
+	"longitude": -97.25
+},
+{
+	"City": "Teoloyucan",
+	"State": "MÃ©xico",
+	"latitude": 19.7442,
+	"longitude": -99.1811
+},
+{
+	"City": "Santo Domingo Tehuantepec",
+	"State": "Oaxaca",
+	"latitude": 16.3184,
+	"longitude": -95.2478
+},
+{
+	"City": "Apaseo el Alto",
+	"State": "Guanajuato",
+	"latitude": 20.45,
+	"longitude": -100.6167
+},
+{
+	"City": "Santiago Tianguistenco",
+	"State": "MÃ©xico",
+	"latitude": 19.1797,
+	"longitude": -99.4706
+},
+{
+	"City": "San Juan de Sabinas",
+	"State": "Coahuila de Zaragoza",
+	"latitude": 27.9167,
+	"longitude": -101.3
+},
+{
+	"City": "Puerto Penasco",
+	"State": "Sonora",
+	"latitude": 31.3167,
+	"longitude": -113.5369
+},
+{
+	"City": "Ocoyoacac",
+	"State": "Morelos",
+	"latitude": 19.2739,
+	"longitude": -99.4606
+},
+{
+	"City": "Heroica Caborca",
+	"State": "Sonora",
+	"latitude": 30.7167,
+	"longitude": -112.15
+},
+{
+	"City": "Montemorelos",
+	"State": "Nuevo LeÃ³n",
+	"latitude": 25.1872,
+	"longitude": -99.8267
+},
+{
+	"City": "Autlan de Navarro",
+	"State": "Jalisco",
+	"latitude": 19.7667,
+	"longitude": -104.3667
+},
+{
+	"City": "Uriangato",
+	"State": "Guanajuato",
+	"latitude": 20.1333,
+	"longitude": -101.1667
+},
+{
+	"City": "Huehuetoca",
+	"State": "MÃ©xico",
+	"latitude": 19.8342,
+	"longitude": -99.2033
+},
+{
+	"City": "Tlaltenango de Sanchez Roman",
+	"State": "Zacatecas",
+	"latitude": 21.7815,
+	"longitude": -103.3059
+},
+{
+	"City": "Jerez de Garcia Salinas",
+	"State": "Zacatecas",
+	"latitude": 22.6481,
+	"longitude": -102.9903
+},
+{
+	"City": "Acambay",
+	"State": "MÃ©xico",
+	"latitude": 19.9539,
+	"longitude": -99.8431
+},
+{
+	"City": "Amealco",
+	"State": "QuerÃ©taro",
+	"latitude": 20.1881,
+	"longitude": -100.1439
+},
+{
+	"City": "Tequisquiapan",
+	"State": "QuerÃ©taro",
+	"latitude": 20.5206,
+	"longitude": -99.8958
+},
+{
+	"City": "Progreso",
+	"State": "YucatÃ¡n",
+	"latitude": 21.28,
+	"longitude": -89.67
+},
+{
+	"City": "Pijijiapan",
+	"State": "Chiapas",
+	"latitude": 15.6867,
+	"longitude": -93.2092
+},
+{
+	"City": "San Jose Villa de Allende",
+	"State": "MÃ©xico",
+	"latitude": 19.3747,
+	"longitude": -100.1475
+},
+{
+	"City": "Berriozabal",
+	"State": "Chiapas",
+	"latitude": 16.7993,
+	"longitude": -93.2725
+},
+{
+	"City": "Tepeapulco",
+	"State": "Hidalgo",
+	"latitude": 19.7856,
+	"longitude": -98.5517
+},
+{
+	"City": "Santa Ana Chiautempan",
+	"State": "Tlaxcala",
+	"latitude": 19.3167,
+	"longitude": -98.1833
+},
+{
+	"City": "Calimaya",
+	"State": "MÃ©xico",
+	"latitude": 19.1608,
+	"longitude": -99.6172
+},
+{
+	"City": "San Francisco de los Romo",
+	"State": "Aguascalientes",
+	"latitude": 22.0833,
+	"longitude": -102.2667
+},
+{
+	"City": "Ciudad Constitucion",
+	"State": "Baja California Sur",
+	"latitude": 25.0322,
+	"longitude": -111.6703
+},
+{
+	"City": "Cuautepec de Hinojosa",
+	"State": "Hidalgo",
+	"latitude": 20.15,
+	"longitude": -98.4333
+},
+{
+	"City": "Actopan",
+	"State": "Veracruz",
+	"latitude": 19.5036,
+	"longitude": -96.6192
+},
+{
+	"City": "Petatlan",
+	"State": "Guerrero",
+	"latitude": 17.5383,
+	"longitude": -101.2739
+},
+{
+	"City": "Zongolica",
+	"State": "Veracruz",
+	"latitude": 18.6642,
+	"longitude": -97.0011
+},
+{
+	"City": "Nuevo Mexico",
+	"State": "Jalisco",
+	"latitude": 20.75,
+	"longitude": -103.433
+},
+{
+	"City": "Pedro Celestino Negrete",
+	"State": "Durango",
+	"latitude": 24.726,
+	"longitude": -102.984
+},
+{
+	"City": "Jesus Maria",
+	"State": "Aguascalientes",
+	"latitude": 21.9667,
+	"longitude": -102.35
+},
+{
+	"City": "Atenco",
+	"State": "MÃ©xico",
+	"latitude": 19.5167,
+	"longitude": -98.9167
+},
+{
+	"City": "Tequila",
+	"State": "Jalisco",
+	"latitude": 20.8794,
+	"longitude": -103.8356
+},
+{
+	"City": "Camargo",
+	"State": "Chihuahua",
+	"latitude": 27.667,
+	"longitude": -105.167
+},
+{
+	"City": "Yecapixtla",
+	"State": "Morelos",
+	"latitude": 18.8833,
+	"longitude": -98.865
+},
+{
+	"City": "Matias Romero",
+	"State": "Oaxaca",
+	"latitude": 16.8798,
+	"longitude": -95.0391
+},
+{
+	"City": "Zacatelco",
+	"State": "Tlaxcala",
+	"latitude": 19.2167,
+	"longitude": -98.2333
+},
+{
+	"City": "Villa del Carbon",
+	"State": "MÃ©xico",
+	"latitude": 19.7272,
+	"longitude": -99.5417
+},
+{
+	"City": "Apan",
+	"State": "Hidalgo",
+	"latitude": 19.7,
+	"longitude": -98.4333
+},
+{
+	"City": "Galeana",
+	"State": "Nuevo LeÃ³n",
+	"latitude": 24.8333,
+	"longitude": -100.0667
+},
+{
+	"City": "Melchor Ocampo",
+	"State": "MÃ©xico",
+	"latitude": 19.7083,
+	"longitude": -99.1444
+},
+{
+	"City": "San Felipe Orizatlan",
+	"State": "Hidalgo",
+	"latitude": 21.1719,
+	"longitude": -98.6064
+},
+{
+	"City": "Mixquiahuala de Juarez",
+	"State": "Hidalgo",
+	"latitude": 20.2311,
+	"longitude": -99.2131
+},
+{
+	"City": "Santiago",
+	"State": "Nuevo LeÃ³n",
+	"latitude": 25.4333,
+	"longitude": -100.1333
+},
+{
+	"City": "San Blas",
+	"State": "Nayarit",
+	"latitude": 21.5397,
+	"longitude": -105.2856
+},
+{
+	"City": "Compostela",
+	"State": "Nayarit",
+	"latitude": 21.2389,
+	"longitude": -104.9
+},
+{
+	"City": "Zacatepec",
+	"State": "Morelos",
+	"latitude": 18.6833,
+	"longitude": -99.1833
+},
+{
+	"City": "Tamuin",
+	"State": "San Luis PotosÃ­",
+	"latitude": 22,
+	"longitude": -98.7833
+},
+{
+	"City": "Acaxochitlan",
+	"State": "Hidalgo",
+	"latitude": 20.1667,
+	"longitude": -98.2
+},
+{
+	"City": "Zimapan",
+	"State": "Hidalgo",
+	"latitude": 20.7333,
+	"longitude": -99.3833
+},
+{
+	"City": "Temascalapa",
+	"State": "Hidalgo",
+	"latitude": 19.8,
+	"longitude": -98.9
+},
+{
+	"City": "Capulhuac",
+	"State": "MÃ©xico",
+	"latitude": 19.2,
+	"longitude": -99.4667
+},
+{
+	"City": "Atotonilco de Tula",
+	"State": "Hidalgo",
+	"latitude": 20.05,
+	"longitude": -99.1833
+},
+{
+	"City": "Jaral del Progreso",
+	"State": "Guanajuato",
+	"latitude": 20.3667,
+	"longitude": -101.0667
+},
+{
+	"City": "Turicato",
+	"State": "MichoacÃ¡n de Ocampo",
+	"latitude": 19.05,
+	"longitude": -101.4167
+},
+{
+	"City": "El Oro de Hidalgo",
+	"State": "Morelos",
+	"latitude": 19.8008,
+	"longitude": -100.1314
+},
+{
+	"City": "Temascaltepec de Gonzalez",
+	"State": "MÃ©xico",
+	"latitude": 19.0433,
+	"longitude": -100.0414
+},
+{
+	"City": "Tecozautla",
+	"State": "Hidalgo",
+	"latitude": 20.5333,
+	"longitude": -99.6333
+},
+{
+	"City": "Villa Donato Guerra",
+	"State": "MÃ©xico",
+	"latitude": 19.3083,
+	"longitude": -100.1422
+},
+{
+	"City": "Cihuatlan",
+	"State": "Jalisco",
+	"latitude": 19.25,
+	"longitude": -104.5667
+},
+{
+	"City": "San Salvador",
+	"State": "Hidalgo",
+	"latitude": 20.2833,
+	"longitude": -99.0153
+},
+{
+	"City": "Villa Luvianos",
+	"State": "MÃ©xico",
+	"latitude": 18.92,
+	"longitude": -100.2983
+},
+{
+	"City": "Xochistlahuaca",
+	"State": "Guerrero",
+	"latitude": 16.7914,
+	"longitude": -98.2419
+},
+{
+	"City": "Nochistlan de Mejia",
+	"State": "Zacatecas",
+	"latitude": 21.3642,
+	"longitude": -102.8464
+},
+{
+	"City": "Tlalpujahua de Rayon",
+	"State": "MÃ©xico",
+	"latitude": 19.805,
+	"longitude": -100.1744
+},
+{
+	"City": "Salinas Victoria",
+	"State": "Nuevo LeÃ³n",
+	"latitude": 25.9667,
+	"longitude": -100.3
+},
+{
+	"City": "Atlautla",
+	"State": "MÃ©xico",
+	"latitude": 19,
+	"longitude": -98.7167
+},
+{
+	"City": "San Martin Hidalgo",
+	"State": "Jalisco",
+	"latitude": 20.435,
+	"longitude": -103.9286
+},
+{
+	"City": "Zempoala",
+	"State": "Hidalgo",
+	"latitude": 19.9167,
+	"longitude": -98.6667
+},
+{
+	"City": "Huaquechula",
+	"State": "Puebla",
+	"latitude": 18.7667,
+	"longitude": -98.55
+},
+{
+	"City": "Atitalaquia",
+	"State": "Hidalgo",
+	"latitude": 20.0583,
+	"longitude": -99.2208
+},
+{
+	"City": "Tepehuacan de Guerrero",
+	"State": "Hidalgo",
+	"latitude": 21.0131,
+	"longitude": -98.8442
+},
+{
+	"City": "San Agustin Tlaxiaca",
+	"State": "Hidalgo",
+	"latitude": 20.1144,
+	"longitude": -98.8867
+},
+{
+	"City": "Tlaxcoapan",
+	"State": "Hidalgo",
+	"latitude": 20.0953,
+	"longitude": -99.22
+},
+{
+	"City": "Amatepec",
+	"State": "MÃ©xico",
+	"latitude": 18.65,
+	"longitude": -100.15
+},
+{
+	"City": "Xalatlaco",
+	"State": "MÃ©xico",
+	"latitude": 19.1811,
+	"longitude": -99.4164
+},
+{
+	"City": "Jaltenco",
+	"State": "MÃ©xico",
+	"latitude": 19.7511,
+	"longitude": -99.0931
+},
+{
+	"City": "Doctor Mora",
+	"State": "Guanajuato",
+	"latitude": 21.1425,
+	"longitude": -100.3192
+},
+{
+	"City": "Ocuilan de Arteaga",
+	"State": "MÃ©xico",
+	"latitude": 19,
+	"longitude": -99.4
+},
+{
+	"City": "Santiago Papasquiaro",
+	"State": "Durango",
+	"latitude": 25.0439,
+	"longitude": -105.4192
+},
+{
+	"City": "Zacualtipan",
+	"State": "Hidalgo",
+	"latitude": 20.65,
+	"longitude": -98.65
+},
+{
+	"City": "Alamos",
+	"State": "Sonora",
+	"latitude": 27.0275,
+	"longitude": -108.94
+},
+{
+	"City": "Cuajinicuilapa",
+	"State": "Guerrero",
+	"latitude": 16.4717,
+	"longitude": -98.4153
+},
+{
+	"City": "Huejotzingo",
+	"State": "Puebla",
+	"latitude": 19.1594,
+	"longitude": -98.4073
+},
+{
+	"City": "Pinal de Amoles",
+	"State": "QuerÃ©taro",
+	"latitude": 21.1342,
+	"longitude": -99.4586
+},
+{
+	"City": "Santa Maria Tonameca",
+	"State": "Oaxaca",
+	"latitude": 15.7458,
+	"longitude": -96.5472
+},
+{
+	"City": "Sultepec",
+	"State": "MÃ©xico",
+	"latitude": 18.8667,
+	"longitude": -99.95
+},
+{
+	"City": "Tecolutla",
+	"State": "Veracruz",
+	"latitude": 20.4797,
+	"longitude": -97.01
+},
+{
+	"City": "Nava",
+	"State": "Coahuila de Zaragoza",
+	"latitude": 28.4214,
+	"longitude": -100.7675
+},
+{
+	"City": "Tlacolula",
+	"State": "Veracruz",
+	"latitude": 20,
+	"longitude": -97
+},
+{
+	"City": "Ciudad Serdan",
+	"State": "Puebla",
+	"latitude": 18.9833,
+	"longitude": -97.45
+},
+{
+	"City": "Soledad Atzompa",
+	"State": "Veracruz",
+	"latitude": 18.755,
+	"longitude": -97.1522
+},
+{
+	"City": "Juchitepec",
+	"State": "MÃ©xico",
+	"latitude": 19.0997,
+	"longitude": -98.8792
+},
+{
+	"City": "Santa Ana Nextlalpan",
+	"State": "MÃ©xico",
+	"latitude": 19.7167,
+	"longitude": -99.0667
+},
+{
+	"City": "San Miguel de Papasquiaro",
+	"State": "Durango",
+	"latitude": 24.8304,
+	"longitude": -105.34
+},
+{
+	"City": "Huautla",
+	"State": "Hidalgo",
+	"latitude": 21.0308,
+	"longitude": -98.285
+},
+{
+	"City": "Puente Nacional",
+	"State": "Veracruz",
+	"latitude": 19.3333,
+	"longitude": -96.4833
+},
+{
+	"City": "Yahualica",
+	"State": "Hidalgo",
+	"latitude": 20.9531,
+	"longitude": -98.38
+},
+{
+	"City": "Alvarado",
+	"State": "Veracruz",
+	"latitude": 18.7811,
+	"longitude": -95.7572
+},
+{
+	"City": "Chapa de Mota",
+	"State": "MÃ©xico",
+	"latitude": 19.8144,
+	"longitude": -99.5269
+},
+{
+	"City": "Jalpan",
+	"State": "QuerÃ©taro",
+	"latitude": 21.2167,
+	"longitude": -99.4725
+},
+{
+	"City": "Axapusco",
+	"State": "MÃ©xico",
+	"latitude": 19.7194,
+	"longitude": -98.7972
+},
+{
+	"City": "San Martin de las Piramides",
+	"State": "MÃ©xico",
+	"latitude": 19.7333,
+	"longitude": -98.8167
+},
+{
+	"City": "Tepezala",
+	"State": "Aguascalientes",
+	"latitude": 22.2167,
+	"longitude": -102.1667
+},
+{
+	"City": "Comala",
+	"State": "Colima",
+	"latitude": 19.3208,
+	"longitude": -103.7603
+},
+{
+	"City": "Viesca",
+	"State": "Coahuila de Zaragoza",
+	"latitude": 25.35,
+	"longitude": -102.8
+},
+{
+	"City": "Allende",
+	"State": "Coahuila de Zaragoza",
+	"latitude": 28.3333,
+	"longitude": -100.8333
+},
+{
+	"City": "Chachahuantla",
+	"State": "Hidalgo",
+	"latitude": 20.2756,
+	"longitude": -98.1503
+},
+{
+	"City": "Chapulhuacan",
+	"State": "Hidalgo",
+	"latitude": 21.1547,
+	"longitude": -98.9039
+},
+{
+	"City": "San Felipe",
+	"State": "Baja California",
+	"latitude": 31.0275,
+	"longitude": -114.8353
+},
+{
+	"City": "Metztitlan",
+	"State": "Hidalgo",
+	"latitude": 20.6,
+	"longitude": -98.7667
+},
+{
+	"City": "Naranjos",
+	"State": "Veracruz",
+	"latitude": 21.3472,
+	"longitude": -97.6833
+},
+{
+	"City": "Lerdo de Tejada",
+	"State": "Veracruz",
+	"latitude": 18.638,
+	"longitude": -95.5085
+},
+{
+	"City": "Calvillo",
+	"State": "Aguascalientes",
+	"latitude": 21.85,
+	"longitude": -102.7167
+},
+{
+	"City": "Tapalpa",
+	"State": "Jalisco",
+	"latitude": 19.9445,
+	"longitude": -103.7585
+},
+{
+	"City": "Atlapexco",
+	"State": "Hidalgo",
+	"latitude": 21.0042,
+	"longitude": -98.5056
+},
+{
+	"City": "Landa de Matamoros",
+	"State": "QuerÃ©taro",
+	"latitude": 21.1819,
+	"longitude": -99.3203
+},
+{
+	"City": "Victoria",
+	"State": "Guanajuato",
+	"latitude": 21.2122,
+	"longitude": -100.2144
+},
+{
+	"City": "Tepetlixpa",
+	"State": "MÃ©xico",
+	"latitude": 19.0006,
+	"longitude": -98.8178
+},
+{
+	"City": "Santa Cruz Zenzontepec",
+	"State": "Oaxaca",
+	"latitude": 16.5333,
+	"longitude": -97.5
+},
+{
+	"City": "Asuncion Nochixtlan",
+	"State": "Oaxaca",
+	"latitude": 17.4592,
+	"longitude": -97.2261
+},
+{
+	"City": "San Blas Atempa",
+	"State": "Oaxaca",
+	"latitude": 16.3167,
+	"longitude": -95.2167
+},
+{
+	"City": "Acatlan",
+	"State": "Hidalgo",
+	"latitude": 20.1444,
+	"longitude": -98.4383
+},
+{
+	"City": "Xochiatipan de Castillo",
+	"State": "Hidalgo",
+	"latitude": 20.8333,
+	"longitude": -98.285
+},
+{
+	"City": "San Bartolo Tutotepec",
+	"State": "Hidalgo",
+	"latitude": 20.4,
+	"longitude": -98.2
+},
+{
+	"City": "Tlahuelilpan",
+	"State": "Hidalgo",
+	"latitude": 20.1297,
+	"longitude": -99.2286
+},
+{
+	"City": "Pisaflores",
+	"State": "Hidalgo",
+	"latitude": 21.1933,
+	"longitude": -99.005
+},
+{
+	"City": "Calnali",
+	"State": "Hidalgo",
+	"latitude": 20.9,
+	"longitude": -98.5833
+},
+{
+	"City": "Ajacuba",
+	"State": "Hidalgo",
+	"latitude": 20.0833,
+	"longitude": -99.1167
+},
+{
+	"City": "Penamiller",
+	"State": "QuerÃ©taro",
+	"latitude": 21.0519,
+	"longitude": -99.815
+},
+{
+	"City": "Alfajayucan",
+	"State": "Hidalgo",
+	"latitude": 20.4,
+	"longitude": -99.35
+},
+{
+	"City": "Zapotlan de Juarez",
+	"State": "Hidalgo",
+	"latitude": 19.9667,
+	"longitude": -98.85
+},
+{
+	"City": "Cardonal",
+	"State": "Hidalgo",
+	"latitude": 20.6167,
+	"longitude": -99.1167
+},
+{
+	"City": "Tenango de Doria",
+	"State": "Hidalgo",
+	"latitude": 20.3356,
+	"longitude": -98.2267
+},
+{
+	"City": "Huasca de Ocampo",
+	"State": "Hidalgo",
+	"latitude": 20.2028,
+	"longitude": -98.5758
+},
+{
+	"City": "Tasquillo",
+	"State": "Hidalgo",
+	"latitude": 20.6167,
+	"longitude": -99.25
+},
+{
+	"City": "Amatitan",
+	"State": "Jalisco",
+	"latitude": 20.8333,
+	"longitude": -103.7167
+},
+{
+	"City": "Chilcuautla",
+	"State": "Hidalgo",
+	"latitude": 20.3333,
+	"longitude": -99.2333
+},
+{
+	"City": "Cadereyta",
+	"State": "QuerÃ©taro",
+	"latitude": 20.7,
+	"longitude": -99.8167
+},
+{
+	"City": "El Arenal",
+	"State": "Hidalgo",
+	"latitude": 20.2167,
+	"longitude": -98.9167
+},
+{
+	"City": "Nopala de Villagran",
+	"State": "Hidalgo",
+	"latitude": 20.2528,
+	"longitude": -99.6433
+},
+{
+	"City": "Tierra Blanca",
+	"State": "Guanajuato",
+	"latitude": 21.1011,
+	"longitude": -100.1578
+},
+{
+	"City": "Tlayacapan",
+	"State": "Morelos",
+	"latitude": 18.9556,
+	"longitude": -98.9811
+},
+{
+	"City": "Maxcanu",
+	"State": "YucatÃ¡n",
+	"latitude": 20.5833,
+	"longitude": -89.9833
+},
+{
+	"City": "Progreso",
+	"State": "Baja California",
+	"latitude": 32.5842,
+	"longitude": -115.5842
+},
+{
+	"City": "San Andres Timilpan",
+	"State": "MÃ©xico",
+	"latitude": 19.8667,
+	"longitude": -99.7333
+},
+{
+	"City": "Cienega de Flores",
+	"State": "Nuevo LeÃ³n",
+	"latitude": 25.95,
+	"longitude": -100.1833
+},
+{
+	"City": "Almoloya de Alquisiras",
+	"State": "MÃ©xico",
+	"latitude": 18.85,
+	"longitude": -99.85
+},
+{
+	"City": "Santiago Ixtayutla",
+	"State": "Oaxaca",
+	"latitude": 16.5667,
+	"longitude": -97.65
+},
+{
+	"City": "Santiago de Anaya",
+	"State": "Hidalgo",
+	"latitude": 20.3844,
+	"longitude": -98.9647
+},
+{
+	"City": "Zacualpan",
+	"State": "MÃ©xico",
+	"latitude": 18.7197,
+	"longitude": -99.78
+},
+{
+	"City": "San Pedro Pochutla",
+	"State": "Oaxaca",
+	"latitude": 15.7463,
+	"longitude": -96.4652
+},
+{
+	"City": "Tianguistengo",
+	"State": "Hidalgo",
+	"latitude": 20.7278,
+	"longitude": -98.6289
+},
+{
+	"City": "Espita",
+	"State": "YucatÃ¡n",
+	"latitude": 21.0128,
+	"longitude": -88.3047
+},
+{
+	"City": "Cocotitlan",
+	"State": "MÃ©xico",
+	"latitude": 19.2167,
+	"longitude": -98.85
+},
+{
+	"City": "Singuilucan",
+	"State": "Hidalgo",
+	"latitude": 19.9675,
+	"longitude": -98.5178
+},
+{
+	"City": "Ciudad Insurgentes",
+	"State": "Baja California Sur",
+	"latitude": 25.2617,
+	"longitude": -111.7744
+},
+{
+	"City": "Santiago Amoltepec",
+	"State": "Oaxaca",
+	"latitude": 16.6167,
+	"longitude": -97.5
+},
+{
+	"City": "Emiliano Zapata",
+	"State": "Hidalgo",
+	"latitude": 19.65,
+	"longitude": -98.55
+},
+{
+	"City": "Arroyo Seco",
+	"State": "QuerÃ©taro",
+	"latitude": 21.5472,
+	"longitude": -99.6883
+},
+{
+	"City": "Tzintzuntzan",
+	"State": "MichoacÃ¡n de Ocampo",
+	"latitude": 19.6283,
+	"longitude": -101.5789
+},
+{
+	"City": "Xichu",
+	"State": "Guanajuato",
+	"latitude": 21.2997,
+	"longitude": -100.0553
+},
+{
+	"City": "Mineral del Monte",
+	"State": "Hidalgo",
+	"latitude": 20.1333,
+	"longitude": -98.6667
+},
+{
+	"City": "Jacala",
+	"State": "Hidalgo",
+	"latitude": 21.0053,
+	"longitude": -99.1719
+},
+{
+	"City": "Nacozari Viejo",
+	"State": "Sonora",
+	"latitude": 30.42,
+	"longitude": -109.65
+},
+{
+	"City": "Abasolo",
+	"State": "Tamaulipas",
+	"latitude": 24.0559,
+	"longitude": -98.3733
+},
+{
+	"City": "Tolcayuca",
+	"State": "Morelos",
+	"latitude": 19.95,
+	"longitude": -98.9167
+},
+{
+	"City": "Huandacareo",
+	"State": "MichoacÃ¡n de Ocampo",
+	"latitude": 19.9906,
+	"longitude": -101.275
+},
+{
+	"City": "Temamatla",
+	"State": "MÃ©xico",
+	"latitude": 19.2028,
+	"longitude": -98.87
+},
+{
+	"City": "Epazoyucan",
+	"State": "Hidalgo",
+	"latitude": 20.0177,
+	"longitude": -98.6361
+},
+{
+	"City": "Chapantongo",
+	"State": "Hidalgo",
+	"latitude": 20.2833,
+	"longitude": -99.4
+},
+{
+	"City": "Imuris",
+	"State": "Sonora",
+	"latitude": 30.7667,
+	"longitude": -110.8333
+},
+{
+	"City": "Joquicingo",
+	"State": "MÃ©xico",
+	"latitude": 19.0556,
+	"longitude": -99.5467
+},
+{
+	"City": "Jamapa",
+	"State": "Veracruz",
+	"latitude": 19.04,
+	"longitude": -96.24
+},
+{
+	"City": "Tenango del Aire",
+	"State": "MÃ©xico",
+	"latitude": 19.1575,
+	"longitude": -98.8581
+},
+{
+	"City": "Tecoh",
+	"State": "YucatÃ¡n",
+	"latitude": 20.7419,
+	"longitude": -89.4744
+},
+{
+	"City": "Tezontepec",
+	"State": "Hidalgo",
+	"latitude": 19.8833,
+	"longitude": -98.8167
+},
+{
+	"City": "Soyaniquilpan",
+	"State": "MÃ©xico",
+	"latitude": 19.9892,
+	"longitude": -99.4361
+},
+{
+	"City": "Totolapan",
+	"State": "Morelos",
+	"latitude": 18.9869,
+	"longitude": -98.9197
+},
+{
+	"City": "Tlachichilco",
+	"State": "Veracruz",
+	"latitude": 20.6217,
+	"longitude": -98.1994
+},
+{
+	"City": "Santa Catarina Ayotzingo",
+	"State": "MÃ©xico",
+	"latitude": 19.2647,
+	"longitude": -98.8975
+},
+{
+	"City": "Almoloya",
+	"State": "Hidalgo",
+	"latitude": 19.7,
+	"longitude": -98.4
+},
+{
+	"City": "Lazaro Cardenas",
+	"State": "Chihuahua",
+	"latitude": 28.3897,
+	"longitude": -105.6236
+},
+{
+	"City": "Jaltocan",
+	"State": "Hidalgo",
+	"latitude": 21.1333,
+	"longitude": -98.5383
+},
+{
+	"City": "Coroneo",
+	"State": "Guanajuato",
+	"latitude": 20.1333,
+	"longitude": -100.3333
+},
+{
+	"City": "Molango",
+	"State": "Hidalgo",
+	"latitude": 20.7844,
+	"longitude": -98.7175
+},
+{
+	"City": "Chavinda",
+	"State": "MichoacÃ¡n de Ocampo",
+	"latitude": 20.0167,
+	"longitude": -102.45
+},
+{
+	"City": "Hecelchakan",
+	"State": "Campeche",
+	"latitude": 20.1667,
+	"longitude": -90.1333
+},
+{
+	"City": "Almoloya del Rio",
+	"State": "Morelos",
+	"latitude": 19.1586,
+	"longitude": -99.4886
+},
+{
+	"City": "Seye",
+	"State": "YucatÃ¡n",
+	"latitude": 20.8372,
+	"longitude": -89.3719
+},
+{
+	"City": "La Mision",
+	"State": "Hidalgo",
+	"latitude": 21.1,
+	"longitude": -99.1333
+},
+{
+	"City": "Santa Maria Ajoloapan",
+	"State": "Morelos",
+	"latitude": 19.9692,
+	"longitude": -99.0353
+},
+{
+	"City": "Santa Cruz Atizapan",
+	"State": "MÃ©xico",
+	"latitude": 19.1756,
+	"longitude": -99.4886
+},
+{
+	"City": "Monte Escobedo",
+	"State": "Zacatecas",
+	"latitude": 22.3,
+	"longitude": -103.5667
+},
+{
+	"City": "Jilotlan de los Dolores",
+	"State": "Jalisco",
+	"latitude": 19.3708,
+	"longitude": -103.0197
+},
+{
+	"City": "Nopaltepec",
+	"State": "Morelos",
+	"latitude": 19.7819,
+	"longitude": -98.7125
+},
+{
+	"City": "Santo Tomas de los Platanos",
+	"State": "MÃ©xico",
+	"latitude": 19.1817,
+	"longitude": -100.2589
+},
+{
+	"City": "Ecatzingo",
+	"State": "MÃ©xico",
+	"latitude": 18.95,
+	"longitude": -98.75
+},
+{
+	"City": "Zacualpan de Amilpas",
+	"State": "Morelos",
+	"latitude": 18.7836,
+	"longitude": -98.7594
+},
+{
+	"City": "Puerto Morelos",
+	"State": "Quintana Roo",
+	"latitude": 20.8536,
+	"longitude": -86.8753
+},
+{
+	"City": "Tenabo",
+	"State": "Campeche",
+	"latitude": 20.0333,
+	"longitude": -90.2167
+},
+{
+	"City": "Santa Maria del Tule",
+	"State": "Oaxaca",
+	"latitude": 17.0465,
+	"longitude": -96.6363
+},
+{
+	"City": "Villa Morelos",
+	"State": "MÃ©xico",
+	"latitude": 20.0033,
+	"longitude": -101.4144
+},
+{
+	"City": "Guerrero",
+	"State": "Chihuahua",
+	"latitude": 28.5478,
+	"longitude": -107.4856
+},
+{
+	"City": "Tepechitlan",
+	"State": "Zacatecas",
+	"latitude": 21.6667,
+	"longitude": -103.3333
+},
+{
+	"City": "San Pablo Villa de Mitla",
+	"State": "Oaxaca",
+	"latitude": 16.917,
+	"longitude": -96.4
+},
+{
+	"City": "San Jose de Gracia",
+	"State": "Aguascalientes",
+	"latitude": 22.15,
+	"longitude": -102.4167
+},
+{
+	"City": "San Joaquin",
+	"State": "QuerÃ©taro",
+	"latitude": 20.9833,
+	"longitude": -99.5
+},
+{
+	"City": "Ciudad Cerralvo",
+	"State": "Nuevo LeÃ³n",
+	"latitude": 26.0899,
+	"longitude": -99.6147
+},
+{
+	"City": "Tlanalapa",
+	"State": "Hidalgo",
+	"latitude": 19.8167,
+	"longitude": -98.6
+},
+{
+	"City": "Santa Eulalia",
+	"State": "Chihuahua",
+	"latitude": 28.5939,
+	"longitude": -105.8878
+},
+{
+	"City": "Conkal",
+	"State": "YucatÃ¡n",
+	"latitude": 21.0733,
+	"longitude": -89.5208
+},
+{
+	"City": "Cacalchen",
+	"State": "YucatÃ¡n",
+	"latitude": 20.9822,
+	"longitude": -89.2278
+},
+{
+	"City": "Dzidzantun",
+	"State": "YucatÃ¡n",
+	"latitude": 21.2472,
+	"longitude": -89.0417
+},
+{
+	"City": "Todos Santos",
+	"State": "Baja California Sur",
+	"latitude": 23.4486,
+	"longitude": -110.2233
+},
+{
+	"City": "Cosala",
+	"State": "Sinaloa",
+	"latitude": 24.4125,
+	"longitude": -106.6917
+},
+{
+	"City": "Topolobampo",
+	"State": "Sinaloa",
+	"latitude": 25.6056,
+	"longitude": -109.05
+},
+{
+	"City": "San Felipe Tejalapan",
+	"State": "Oaxaca",
+	"latitude": 17.1111,
+	"longitude": -96.8542
+},
+{
+	"City": "Kinchil",
+	"State": "YucatÃ¡n",
+	"latitude": 20.9161,
+	"longitude": -89.9469
+},
+{
+	"City": "Temax",
+	"State": "YucatÃ¡n",
+	"latitude": 21.1511,
+	"longitude": -88.9403
+},
+{
+	"City": "Santa Maria del Oro",
+	"State": "Durango",
+	"latitude": 25.9333,
+	"longitude": -105.3667
+},
+{
+	"City": "Villa Diaz Ordaz",
+	"State": "Oaxaca",
+	"latitude": 16.9981,
+	"longitude": -96.4314
+},
+{
+	"City": "Sahuaripa",
+	"State": "Sonora",
+	"latitude": 29.05,
+	"longitude": -109.2333
+},
+{
+	"City": "Dzilam Gonzalez",
+	"State": "YucatÃ¡n",
+	"latitude": 21.28,
+	"longitude": -88.9292
+},
+{
+	"City": "Omitlan de Juarez",
+	"State": "Hidalgo",
+	"latitude": 20.1697,
+	"longitude": -98.6478
+},
+{
+	"City": "El Centenario",
+	"State": "Baja California Sur",
+	"latitude": 24.1025,
+	"longitude": -110.4144
+},
+{
+	"City": "Homun",
+	"State": "YucatÃ¡n",
+	"latitude": 20.7386,
+	"longitude": -89.285
+},
+{
+	"City": "Mapimi",
+	"State": "Durango",
+	"latitude": 25.8331,
+	"longitude": -103.8478
+},
+{
+	"City": "Rosales",
+	"State": "Chihuahua",
+	"latitude": 28.2,
+	"longitude": -105.55
+},
+{
+	"City": "Tlalnepantla",
+	"State": "Morelos",
+	"latitude": 19.01,
+	"longitude": -99
+},
+{
+	"City": "Chichimila",
+	"State": "YucatÃ¡n",
+	"latitude": 20.6308,
+	"longitude": -88.2172
+},
+{
+	"City": "Ixtapan del Oro",
+	"State": "MÃ©xico",
+	"latitude": 19.2614,
+	"longitude": -100.2628
+},
+{
+	"City": "Colonia Venustiano Carranza",
+	"State": "Baja California",
+	"latitude": 32.2275,
+	"longitude": -115.1703
+},
+{
+	"City": "Tlapanaloya",
+	"State": "Morelos",
+	"latitude": 19.9358,
+	"longitude": -99.1019
+},
+{
+	"City": "Sotuta",
+	"State": "YucatÃ¡n",
+	"latitude": 20.5968,
+	"longitude": -89.0082
+},
+{
+	"City": "San Buenaventura",
+	"State": "Chihuahua",
+	"latitude": 29.8333,
+	"longitude": -107.4667
+},
+{
+	"City": "Ixtenco",
+	"State": "Tlaxcala",
+	"latitude": 19.2514,
+	"longitude": -97.8942
+},
+{
+	"City": "Ocampo",
+	"State": "Tamaulipas",
+	"latitude": 22.8444,
+	"longitude": -99.3358
+},
+{
+	"City": "Puerto Aventuras",
+	"State": "Quintana Roo",
+	"latitude": 20.5117,
+	"longitude": -87.2342
+},
+{
+	"City": "Santa Lucia Monte Verde",
+	"State": "Oaxaca",
+	"latitude": 16.95,
+	"longitude": -97.6667
+},
+{
+	"City": "La Moncada",
+	"State": "Guanajuato",
+	"latitude": 20.2667,
+	"longitude": -100.8
+},
+{
+	"City": "Creel",
+	"State": "Chihuahua",
+	"latitude": 27.7522,
+	"longitude": -107.6347
+},
+{
+	"City": "Tetecala",
+	"State": "Morelos",
+	"latitude": 18.7167,
+	"longitude": -99.3833
+},
+{
+	"City": "Gomez Farias",
+	"State": "Chihuahua",
+	"latitude": 29.3583,
+	"longitude": -107.7361
+},
+{
+	"City": "Naco",
+	"State": "Sonora",
+	"latitude": 31.3269,
+	"longitude": -109.9478
+},
+{
+	"City": "Penon Blanco",
+	"State": "Durango",
+	"latitude": 24.7833,
+	"longitude": -104.0333
+},
+{
+	"City": "Ixcateopan de Cuauhtemoc",
+	"State": "Guerrero",
+	"latitude": 18.5,
+	"longitude": -99.7933
+},
+{
+	"City": "Santa Catarina",
+	"State": "Guanajuato",
+	"latitude": 21.1406,
+	"longitude": -100.0619
+},
+{
+	"City": "San Miguel Panixtlahuaca",
+	"State": "Oaxaca",
+	"latitude": 16.2597,
+	"longitude": -97.3781
+},
+{
+	"City": "San Nicolas Tolentino",
+	"State": "San Luis PotosÃ­",
+	"latitude": 22.2489,
+	"longitude": -100.5525
+},
+{
+	"City": "San Simon de Guerrero",
+	"State": "MÃ©xico",
+	"latitude": 19.0225,
+	"longitude": -100.0067
+},
+{
+	"City": "General Bravo",
+	"State": "Nuevo LeÃ³n",
+	"latitude": 25.8,
+	"longitude": -99.1667
+},
+{
+	"City": "Totontepec Villa de Morelos",
+	"State": "Oaxaca",
+	"latitude": 17.2567,
+	"longitude": -96.0269
+},
+{
+	"City": "Lampazos de Naranjo",
+	"State": "Nuevo LeÃ³n",
+	"latitude": 27.025,
+	"longitude": -100.5056
+},
+{
+	"City": "Benjamin Hill",
+	"State": "Sonora",
+	"latitude": 30.1667,
+	"longitude": -111.1
+},
+{
+	"City": "San Dionisio del Mar",
+	"State": "Oaxaca",
+	"latitude": 16.3217,
+	"longitude": -94.7569
+},
+{
+	"City": "Nautla",
+	"State": "Veracruz",
+	"latitude": 20.2167,
+	"longitude": -96.7833
+},
+{
+	"City": "Punta Prieta",
+	"State": "Baja California",
+	"latitude": 28.9289,
+	"longitude": -114.1556
+},
+{
+	"City": "Lototla",
+	"State": "Hidalgo",
+	"latitude": 20.8392,
+	"longitude": -98.7178
+},
+{
+	"City": "Tlahuiltepa",
+	"State": "Hidalgo",
+	"latitude": 20.9233,
+	"longitude": -98.9497
+},
+{
+	"City": "Coatetelco",
+	"State": "Morelos",
+	"latitude": 18.7294,
+	"longitude": -99.3256
+},
+{
+	"City": "Ixtapa Zihuatanejo",
+	"State": "Guerrero",
+	"latitude": 17.6367,
+	"longitude": -101.5514
+},
+{
+	"City": "Tepetitlan",
+	"State": "Hidalgo",
+	"latitude": 20.1842,
+	"longitude": -99.3808
+},
+{
+	"City": "Vicam Pueblo",
+	"State": "Sonora",
+	"latitude": 27.6422,
+	"longitude": -110.2897
+},
+{
+	"City": "Agua Blanca Iturbide",
+	"State": "Hidalgo",
+	"latitude": 20.35,
+	"longitude": -98.35
+},
+{
+	"City": "Mineral del Chico",
+	"State": "Hidalgo",
+	"latitude": 20.2031,
+	"longitude": -98.7478
+},
+{
+	"City": "Xochicoatlan",
+	"State": "Hidalgo",
+	"latitude": 20.7767,
+	"longitude": -98.68
+},
+{
+	"City": "Tamchen",
+	"State": "YucatÃ¡n",
+	"latitude": 20.8753,
+	"longitude": -89.9319
+},
+{
+	"City": "Nicolas Flores",
+	"State": "Hidalgo",
+	"latitude": 20.7669,
+	"longitude": -99.1514
+},
+{
+	"City": "General Zaragoza",
+	"State": "Tamaulipas",
+	"latitude": 23.8667,
+	"longitude": -97.8833
+},
+{
+	"City": "San Quintin",
+	"State": "Baja California",
+	"latitude": 30.4837,
+	"longitude": -115.95
+},
+{
+	"City": "San Francisco",
+	"State": "Jalisco",
+	"latitude": 20.5333,
+	"longitude": -102.5
+},
+{
+	"City": "Altata",
+	"State": "Sinaloa",
+	"latitude": 24.6333,
+	"longitude": -107.9167
+}]

@@ -1,0 +1,15 @@
+{
+	"Road": "road",
+	"Section": "",
+	"Direction": "direction",
+	"Restrooms": "restrooms",
+	"Water": "water",
+	"Picnic Area": "picnic_area",
+	"Handicap Access": "handicap_access",
+	"RV Dump": "rv_dump",
+	"Food Vending": "food_vending",
+	"Pet Area": "pet_area",
+	"Cigarette Ash Dump": "cigarette_ash_dump",
+	"Mile Marker 1": "",
+	"Mile Marker 2": ""
+}

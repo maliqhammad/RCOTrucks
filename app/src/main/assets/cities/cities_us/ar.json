@@ -1,0 +1,3217 @@
+[
+{
+	"City": "Little Rock",
+	"State": "AR",
+	"latitude": 34.7256,
+	"longitude": -92.3576
+},
+{
+	"City": "Fayetteville",
+	"State": "AR",
+	"latitude": 36.0713,
+	"longitude": -94.166
+},
+{
+	"City": "Fort Smith",
+	"State": "AR",
+	"latitude": 35.3493,
+	"longitude": -94.3695
+},
+{
+	"City": "Springdale",
+	"State": "AR",
+	"latitude": 36.1899,
+	"longitude": -94.1574
+},
+{
+	"City": "Jonesboro",
+	"State": "AR",
+	"latitude": 35.8212,
+	"longitude": -90.6791
+},
+{
+	"City": "Conway",
+	"State": "AR",
+	"latitude": 35.0754,
+	"longitude": -92.4694
+},
+{
+	"City": "Rogers",
+	"State": "AR",
+	"latitude": 36.3172,
+	"longitude": -94.1526
+},
+{
+	"City": "North Little Rock",
+	"State": "AR",
+	"latitude": 34.7808,
+	"longitude": -92.2371
+},
+{
+	"City": "Hot Springs",
+	"State": "AR",
+	"latitude": 34.4892,
+	"longitude": -93.0501
+},
+{
+	"City": "Bentonville",
+	"State": "AR",
+	"latitude": 36.3546,
+	"longitude": -94.2306
+},
+{
+	"City": "Pine Bluff",
+	"State": "AR",
+	"latitude": 34.2116,
+	"longitude": -92.0178
+},
+{
+	"City": "Benton",
+	"State": "AR",
+	"latitude": 34.5775,
+	"longitude": -92.5712
+},
+{
+	"City": "Russellville",
+	"State": "AR",
+	"latitude": 35.2763,
+	"longitude": -93.1383
+},
+{
+	"City": "Sherwood",
+	"State": "AR",
+	"latitude": 34.8508,
+	"longitude": -92.2028
+},
+{
+	"City": "Texarkana",
+	"State": "AR",
+	"latitude": 33.4361,
+	"longitude": -93.996
+},
+{
+	"City": "Paragould",
+	"State": "AR",
+	"latitude": 36.0555,
+	"longitude": -90.5149
+},
+{
+	"City": "Bella Vista",
+	"State": "AR",
+	"latitude": 36.4667,
+	"longitude": -94.2707
+},
+{
+	"City": "Jacksonville",
+	"State": "AR",
+	"latitude": 34.8807,
+	"longitude": -92.1302
+},
+{
+	"City": "Searcy",
+	"State": "AR",
+	"latitude": 35.2418,
+	"longitude": -91.7351
+},
+{
+	"City": "Cabot",
+	"State": "AR",
+	"latitude": 34.9768,
+	"longitude": -92.0274
+},
+{
+	"City": "West Memphis",
+	"State": "AR",
+	"latitude": 35.1531,
+	"longitude": -90.1995
+},
+{
+	"City": "Van Buren",
+	"State": "AR",
+	"latitude": 35.448,
+	"longitude": -94.3528
+},
+{
+	"City": "Siloam Springs",
+	"State": "AR",
+	"latitude": 36.1844,
+	"longitude": -94.5318
+},
+{
+	"City": "Bryant",
+	"State": "AR",
+	"latitude": 34.6152,
+	"longitude": -92.4914
+},
+{
+	"City": "Maumelle",
+	"State": "AR",
+	"latitude": 34.8522,
+	"longitude": -92.4
+},
+{
+	"City": "El Dorado",
+	"State": "AR",
+	"latitude": 33.2184,
+	"longitude": -92.664
+},
+{
+	"City": "Centerton",
+	"State": "AR",
+	"latitude": 36.3567,
+	"longitude": -94.2971
+},
+{
+	"City": "Blytheville",
+	"State": "AR",
+	"latitude": 35.9321,
+	"longitude": -89.9051
+},
+{
+	"City": "Hot Springs Village",
+	"State": "AR",
+	"latitude": 34.6568,
+	"longitude": -92.9644
+},
+{
+	"City": "Mountain Home",
+	"State": "AR",
+	"latitude": 36.3348,
+	"longitude": -92.3846
+},
+{
+	"City": "Harrison",
+	"State": "AR",
+	"latitude": 36.2438,
+	"longitude": -93.1198
+},
+{
+	"City": "Forrest City",
+	"State": "AR",
+	"latitude": 35.0135,
+	"longitude": -90.7931
+},
+{
+	"City": "Marion",
+	"State": "AR",
+	"latitude": 35.2041,
+	"longitude": -90.2061
+},
+{
+	"City": "Batesville",
+	"State": "AR",
+	"latitude": 35.7687,
+	"longitude": -91.6226
+},
+{
+	"City": "Malvern",
+	"State": "AR",
+	"latitude": 34.3734,
+	"longitude": -92.8205
+},
+{
+	"City": "Magnolia",
+	"State": "AR",
+	"latitude": 33.2774,
+	"longitude": -93.2261
+},
+{
+	"City": "Camden",
+	"State": "AR",
+	"latitude": 33.5672,
+	"longitude": -92.8467
+},
+{
+	"City": "Arkadelphia",
+	"State": "AR",
+	"latitude": 34.1255,
+	"longitude": -93.0725
+},
+{
+	"City": "Helena-West Helena",
+	"State": "AR",
+	"latitude": 34.5314,
+	"longitude": -90.6201
+},
+{
+	"City": "Clarksville",
+	"State": "AR",
+	"latitude": 35.457,
+	"longitude": -93.4803
+},
+{
+	"City": "Hope",
+	"State": "AR",
+	"latitude": 33.6682,
+	"longitude": -93.5895
+},
+{
+	"City": "Lowell",
+	"State": "AR",
+	"latitude": 36.2561,
+	"longitude": -94.1532
+},
+{
+	"City": "Greenwood",
+	"State": "AR",
+	"latitude": 35.2134,
+	"longitude": -94.2408
+},
+{
+	"City": "Monticello",
+	"State": "AR",
+	"latitude": 33.6258,
+	"longitude": -91.7934
+},
+{
+	"City": "Stuttgart",
+	"State": "AR",
+	"latitude": 34.495,
+	"longitude": -91.5485
+},
+{
+	"City": "Beebe",
+	"State": "AR",
+	"latitude": 35.0712,
+	"longitude": -91.8996
+},
+{
+	"City": "Wynne",
+	"State": "AR",
+	"latitude": 35.2322,
+	"longitude": -90.7894
+},
+{
+	"City": "Newport",
+	"State": "AR",
+	"latitude": 35.6234,
+	"longitude": -91.2322
+},
+{
+	"City": "Farmington",
+	"State": "AR",
+	"latitude": 36.037,
+	"longitude": -94.2537
+},
+{
+	"City": "Osceola",
+	"State": "AR",
+	"latitude": 35.6942,
+	"longitude": -89.9934
+},
+{
+	"City": "Trumann",
+	"State": "AR",
+	"latitude": 35.6771,
+	"longitude": -90.5261
+},
+{
+	"City": "Heber Springs",
+	"State": "AR",
+	"latitude": 35.5003,
+	"longitude": -92.0332
+},
+{
+	"City": "Crossett",
+	"State": "AR",
+	"latitude": 33.128,
+	"longitude": -91.9631
+},
+{
+	"City": "Prairie Grove",
+	"State": "AR",
+	"latitude": 35.9858,
+	"longitude": -94.3048
+},
+{
+	"City": "Pocahontas",
+	"State": "AR",
+	"latitude": 36.2637,
+	"longitude": -90.9706
+},
+{
+	"City": "Morrilton",
+	"State": "AR",
+	"latitude": 35.1558,
+	"longitude": -92.7387
+},
+{
+	"City": "Walnut Ridge",
+	"State": "AR",
+	"latitude": 36.0851,
+	"longitude": -90.9463
+},
+{
+	"City": "De Queen",
+	"State": "AR",
+	"latitude": 34.0426,
+	"longitude": -94.342
+},
+{
+	"City": "East End",
+	"State": "AR",
+	"latitude": 34.5554,
+	"longitude": -92.3261
+},
+{
+	"City": "Pea Ridge",
+	"State": "AR",
+	"latitude": 36.449,
+	"longitude": -94.1211
+},
+{
+	"City": "Alma",
+	"State": "AR",
+	"latitude": 35.4919,
+	"longitude": -94.2165
+},
+{
+	"City": "Greenbrier",
+	"State": "AR",
+	"latitude": 35.2289,
+	"longitude": -92.3836
+},
+{
+	"City": "Warren",
+	"State": "AR",
+	"latitude": 33.6113,
+	"longitude": -92.0677
+},
+{
+	"City": "Berryville",
+	"State": "AR",
+	"latitude": 36.3713,
+	"longitude": -93.5704
+},
+{
+	"City": "Mena",
+	"State": "AR",
+	"latitude": 34.5812,
+	"longitude": -94.2369
+},
+{
+	"City": "Ward",
+	"State": "AR",
+	"latitude": 35.0117,
+	"longitude": -91.9577
+},
+{
+	"City": "Cave Springs",
+	"State": "AR",
+	"latitude": 36.2701,
+	"longitude": -94.2225
+},
+{
+	"City": "Barling",
+	"State": "AR",
+	"latitude": 35.3284,
+	"longitude": -94.2792
+},
+{
+	"City": "Gibson",
+	"State": "AR",
+	"latitude": 34.8923,
+	"longitude": -92.2341
+},
+{
+	"City": "White Hall",
+	"State": "AR",
+	"latitude": 34.2737,
+	"longitude": -92.1005
+},
+{
+	"City": "Sheridan",
+	"State": "AR",
+	"latitude": 34.2995,
+	"longitude": -92.4226
+},
+{
+	"City": "Rockwell",
+	"State": "AR",
+	"latitude": 34.4641,
+	"longitude": -93.1341
+},
+{
+	"City": "Cherokee Village",
+	"State": "AR",
+	"latitude": 36.2959,
+	"longitude": -91.5696
+},
+{
+	"City": "Vilonia",
+	"State": "AR",
+	"latitude": 35.0807,
+	"longitude": -92.2088
+},
+{
+	"City": "Haskell",
+	"State": "AR",
+	"latitude": 34.5095,
+	"longitude": -92.6406
+},
+{
+	"City": "Dardanelle",
+	"State": "AR",
+	"latitude": 35.2263,
+	"longitude": -93.1649
+},
+{
+	"City": "Piney",
+	"State": "AR",
+	"latitude": 34.5024,
+	"longitude": -93.142
+},
+{
+	"City": "Ashdown",
+	"State": "AR",
+	"latitude": 33.6746,
+	"longitude": -94.1264
+},
+{
+	"City": "Nashville",
+	"State": "AR",
+	"latitude": 33.9418,
+	"longitude": -93.8516
+},
+{
+	"City": "Tontitown",
+	"State": "AR",
+	"latitude": 36.1642,
+	"longitude": -94.2457
+},
+{
+	"City": "Dumas",
+	"State": "AR",
+	"latitude": 33.8849,
+	"longitude": -91.4861
+},
+{
+	"City": "Lonoke",
+	"State": "AR",
+	"latitude": 34.7908,
+	"longitude": -91.9069
+},
+{
+	"City": "Austin",
+	"State": "AR",
+	"latitude": 35.0061,
+	"longitude": -91.9895
+},
+{
+	"City": "Gentry",
+	"State": "AR",
+	"latitude": 36.257,
+	"longitude": -94.4907
+},
+{
+	"City": "Shannon Hills",
+	"State": "AR",
+	"latitude": 34.6157,
+	"longitude": -92.4217
+},
+{
+	"City": "Southside",
+	"State": "AR",
+	"latitude": 35.7149,
+	"longitude": -91.6329
+},
+{
+	"City": "Booneville",
+	"State": "AR",
+	"latitude": 35.1393,
+	"longitude": -93.9179
+},
+{
+	"City": "Johnson",
+	"State": "AR",
+	"latitude": 36.1328,
+	"longitude": -94.1757
+},
+{
+	"City": "Fordyce",
+	"State": "AR",
+	"latitude": 33.8181,
+	"longitude": -92.4174
+},
+{
+	"City": "McGehee",
+	"State": "AR",
+	"latitude": 33.628,
+	"longitude": -91.3953
+},
+{
+	"City": "Brookland",
+	"State": "AR",
+	"latitude": 35.8991,
+	"longitude": -90.5767
+},
+{
+	"City": "Ozark",
+	"State": "AR",
+	"latitude": 35.4995,
+	"longitude": -93.8431
+},
+{
+	"City": "Piggott",
+	"State": "AR",
+	"latitude": 36.3858,
+	"longitude": -90.2017
+},
+{
+	"City": "Gravette",
+	"State": "AR",
+	"latitude": 36.4291,
+	"longitude": -94.3714
+},
+{
+	"City": "Elkins",
+	"State": "AR",
+	"latitude": 36.0163,
+	"longitude": -94.025
+},
+{
+	"City": "Alexander",
+	"State": "AR",
+	"latitude": 34.6185,
+	"longitude": -92.4512
+},
+{
+	"City": "Landmark",
+	"State": "AR",
+	"latitude": 34.607,
+	"longitude": -92.3206
+},
+{
+	"City": "Marianna",
+	"State": "AR",
+	"latitude": 34.7736,
+	"longitude": -90.7674
+},
+{
+	"City": "Waldron",
+	"State": "AR",
+	"latitude": 34.902,
+	"longitude": -94.0953
+},
+{
+	"City": "Paris",
+	"State": "AR",
+	"latitude": 35.2894,
+	"longitude": -93.7253
+},
+{
+	"City": "Manila",
+	"State": "AR",
+	"latitude": 35.8848,
+	"longitude": -90.1653
+},
+{
+	"City": "Pottsville",
+	"State": "AR",
+	"latitude": 35.2314,
+	"longitude": -93.0652
+},
+{
+	"City": "Gosnell",
+	"State": "AR",
+	"latitude": 35.9645,
+	"longitude": -89.9721
+},
+{
+	"City": "Corning",
+	"State": "AR",
+	"latitude": 36.4111,
+	"longitude": -90.5861
+},
+{
+	"City": "Atkins",
+	"State": "AR",
+	"latitude": 35.2414,
+	"longitude": -92.9465
+},
+{
+	"City": "Dermott",
+	"State": "AR",
+	"latitude": 33.5271,
+	"longitude": -91.4324
+},
+{
+	"City": "DeWitt",
+	"State": "AR",
+	"latitude": 34.2873,
+	"longitude": -91.3383
+},
+{
+	"City": "Prescott",
+	"State": "AR",
+	"latitude": 33.8056,
+	"longitude": -93.3909
+},
+{
+	"City": "Bald Knob",
+	"State": "AR",
+	"latitude": 35.3123,
+	"longitude": -91.5709
+},
+{
+	"City": "Mountain View",
+	"State": "AR",
+	"latitude": 35.8635,
+	"longitude": -92.1041
+},
+{
+	"City": "North Crossett",
+	"State": "AR",
+	"latitude": 33.171,
+	"longitude": -91.9367
+},
+{
+	"City": "Little Flock",
+	"State": "AR",
+	"latitude": 36.3854,
+	"longitude": -94.1364
+},
+{
+	"City": "Bethel Heights",
+	"State": "AR",
+	"latitude": 36.2262,
+	"longitude": -94.1282
+},
+{
+	"City": "Green Forest",
+	"State": "AR",
+	"latitude": 36.3344,
+	"longitude": -93.4286
+},
+{
+	"City": "England",
+	"State": "AR",
+	"latitude": 34.546,
+	"longitude": -91.969
+},
+{
+	"City": "West Fork",
+	"State": "AR",
+	"latitude": 35.9357,
+	"longitude": -94.1799
+},
+{
+	"City": "Lake City",
+	"State": "AR",
+	"latitude": 35.8202,
+	"longitude": -90.4546
+},
+{
+	"City": "Hamburg",
+	"State": "AR",
+	"latitude": 33.2248,
+	"longitude": -91.7972
+},
+{
+	"City": "Hoxie",
+	"State": "AR",
+	"latitude": 36.036,
+	"longitude": -90.9736
+},
+{
+	"City": "Brinkley",
+	"State": "AR",
+	"latitude": 34.89,
+	"longitude": -91.1902
+},
+{
+	"City": "Huntsville",
+	"State": "AR",
+	"latitude": 36.0985,
+	"longitude": -93.7363
+},
+{
+	"City": "Clinton",
+	"State": "AR",
+	"latitude": 35.5796,
+	"longitude": -92.4543
+},
+{
+	"City": "Bono",
+	"State": "AR",
+	"latitude": 35.9112,
+	"longitude": -90.8009
+},
+{
+	"City": "Lincoln",
+	"State": "AR",
+	"latitude": 35.949,
+	"longitude": -94.4174
+},
+{
+	"City": "Elm Springs",
+	"State": "AR",
+	"latitude": 36.2069,
+	"longitude": -94.2366
+},
+{
+	"City": "Charleston",
+	"State": "AR",
+	"latitude": 35.2954,
+	"longitude": -94.0461
+},
+{
+	"City": "Lavaca",
+	"State": "AR",
+	"latitude": 35.3341,
+	"longitude": -94.1799
+},
+{
+	"City": "Prairie Creek",
+	"State": "AR",
+	"latitude": 36.34,
+	"longitude": -94.0613
+},
+{
+	"City": "Marked Tree",
+	"State": "AR",
+	"latitude": 35.5251,
+	"longitude": -90.4251
+},
+{
+	"City": "Danville",
+	"State": "AR",
+	"latitude": 35.053,
+	"longitude": -93.3902
+},
+{
+	"City": "Mayflower",
+	"State": "AR",
+	"latitude": 34.9686,
+	"longitude": -92.4225
+},
+{
+	"City": "Holiday Island",
+	"State": "AR",
+	"latitude": 36.4762,
+	"longitude": -93.7342
+},
+{
+	"City": "Harrisburg",
+	"State": "AR",
+	"latitude": 35.5637,
+	"longitude": -90.7216
+},
+{
+	"City": "Lake Hamilton",
+	"State": "AR",
+	"latitude": 34.4269,
+	"longitude": -93.0887
+},
+{
+	"City": "Lake Village",
+	"State": "AR",
+	"latitude": 33.3299,
+	"longitude": -91.2847
+},
+{
+	"City": "Fairfield Bay",
+	"State": "AR",
+	"latitude": 35.605,
+	"longitude": -92.2658
+},
+{
+	"City": "Earle",
+	"State": "AR",
+	"latitude": 35.2734,
+	"longitude": -90.4642
+},
+{
+	"City": "Gassville",
+	"State": "AR",
+	"latitude": 36.285,
+	"longitude": -92.4868
+},
+{
+	"City": "Carlisle",
+	"State": "AR",
+	"latitude": 34.7947,
+	"longitude": -91.7361
+},
+{
+	"City": "Wrightsville",
+	"State": "AR",
+	"latitude": 34.6109,
+	"longitude": -92.2136
+},
+{
+	"City": "Glenwood",
+	"State": "AR",
+	"latitude": 34.3279,
+	"longitude": -93.5309
+},
+{
+	"City": "Horseshoe Bend",
+	"State": "AR",
+	"latitude": 36.2217,
+	"longitude": -91.7396
+},
+{
+	"City": "Eureka Springs",
+	"State": "AR",
+	"latitude": 36.4105,
+	"longitude": -93.745
+},
+{
+	"City": "Gurdon",
+	"State": "AR",
+	"latitude": 33.9155,
+	"longitude": -93.1544
+},
+{
+	"City": "Star City",
+	"State": "AR",
+	"latitude": 33.9408,
+	"longitude": -91.84
+},
+{
+	"City": "Judsonia",
+	"State": "AR",
+	"latitude": 35.277,
+	"longitude": -91.6411
+},
+{
+	"City": "Salem",
+	"State": "AR",
+	"latitude": 34.631,
+	"longitude": -92.5608
+},
+{
+	"City": "Augusta",
+	"State": "AR",
+	"latitude": 35.2866,
+	"longitude": -91.3614
+},
+{
+	"City": "Bull Shoals",
+	"State": "AR",
+	"latitude": 36.3747,
+	"longitude": -92.5903
+},
+{
+	"City": "Goshen",
+	"State": "AR",
+	"latitude": 36.1043,
+	"longitude": -94.0035
+},
+{
+	"City": "Cave City",
+	"State": "AR",
+	"latitude": 35.9481,
+	"longitude": -91.5468
+},
+{
+	"City": "Eudora",
+	"State": "AR",
+	"latitude": 33.119,
+	"longitude": -91.264
+},
+{
+	"City": "McAlmont",
+	"State": "AR",
+	"latitude": 34.7926,
+	"longitude": -92.1959
+},
+{
+	"City": "Melbourne",
+	"State": "AR",
+	"latitude": 36.0638,
+	"longitude": -91.8819
+},
+{
+	"City": "Leachville",
+	"State": "AR",
+	"latitude": 35.9042,
+	"longitude": -90.2622
+},
+{
+	"City": "Bay",
+	"State": "AR",
+	"latitude": 35.7456,
+	"longitude": -90.5547
+},
+{
+	"City": "Lepanto",
+	"State": "AR",
+	"latitude": 35.6085,
+	"longitude": -90.333
+},
+{
+	"City": "Decatur",
+	"State": "AR",
+	"latitude": 36.3402,
+	"longitude": -94.4578
+},
+{
+	"City": "Calico Rock",
+	"State": "AR",
+	"latitude": 36.1399,
+	"longitude": -92.1337
+},
+{
+	"City": "Rector",
+	"State": "AR",
+	"latitude": 36.2642,
+	"longitude": -90.2935
+},
+{
+	"City": "Lamar",
+	"State": "AR",
+	"latitude": 35.4436,
+	"longitude": -93.3951
+},
+{
+	"City": "Mulberry",
+	"State": "AR",
+	"latitude": 35.5102,
+	"longitude": -94.0734
+},
+{
+	"City": "Smackover",
+	"State": "AR",
+	"latitude": 33.3636,
+	"longitude": -92.7314
+},
+{
+	"City": "Tuckerman",
+	"State": "AR",
+	"latitude": 35.724,
+	"longitude": -91.2025
+},
+{
+	"City": "Kensett",
+	"State": "AR",
+	"latitude": 35.2354,
+	"longitude": -91.6706
+},
+{
+	"City": "Monette",
+	"State": "AR",
+	"latitude": 35.8931,
+	"longitude": -90.3442
+},
+{
+	"City": "Murfreesboro",
+	"State": "AR",
+	"latitude": 34.0546,
+	"longitude": -93.6834
+},
+{
+	"City": "Des Arc",
+	"State": "AR",
+	"latitude": 34.9777,
+	"longitude": -91.5068
+},
+{
+	"City": "Redfield",
+	"State": "AR",
+	"latitude": 34.4429,
+	"longitude": -92.1843
+},
+{
+	"City": "McCrory",
+	"State": "AR",
+	"latitude": 35.2572,
+	"longitude": -91.1974
+},
+{
+	"City": "Stamps",
+	"State": "AR",
+	"latitude": 33.3567,
+	"longitude": -93.4956
+},
+{
+	"City": "Perryville",
+	"State": "AR",
+	"latitude": 35.012,
+	"longitude": -92.803
+},
+{
+	"City": "Dover",
+	"State": "AR",
+	"latitude": 35.391,
+	"longitude": -93.1143
+},
+{
+	"City": "Cedarville",
+	"State": "AR",
+	"latitude": 35.583,
+	"longitude": -94.3615
+},
+{
+	"City": "Greenland",
+	"State": "AR",
+	"latitude": 35.9965,
+	"longitude": -94.1903
+},
+{
+	"City": "Clarendon",
+	"State": "AR",
+	"latitude": 34.6935,
+	"longitude": -91.3062
+},
+{
+	"City": "Hazen",
+	"State": "AR",
+	"latitude": 34.7966,
+	"longitude": -91.5725
+},
+{
+	"City": "Marshall",
+	"State": "AR",
+	"latitude": 35.9083,
+	"longitude": -92.6459
+},
+{
+	"City": "Flippin",
+	"State": "AR",
+	"latitude": 36.2774,
+	"longitude": -92.5935
+},
+{
+	"City": "Caraway",
+	"State": "AR",
+	"latitude": 35.7598,
+	"longitude": -90.3224
+},
+{
+	"City": "Waldo",
+	"State": "AR",
+	"latitude": 33.3528,
+	"longitude": -93.2949
+},
+{
+	"City": "Hampton",
+	"State": "AR",
+	"latitude": 33.5363,
+	"longitude": -92.4661
+},
+{
+	"City": "Marmaduke",
+	"State": "AR",
+	"latitude": 36.1901,
+	"longitude": -90.3851
+},
+{
+	"City": "Hughes",
+	"State": "AR",
+	"latitude": 34.9483,
+	"longitude": -90.4707
+},
+{
+	"City": "Rison",
+	"State": "AR",
+	"latitude": 33.96,
+	"longitude": -92.1937
+},
+{
+	"City": "Ola",
+	"State": "AR",
+	"latitude": 35.031,
+	"longitude": -93.2244
+},
+{
+	"City": "Diaz",
+	"State": "AR",
+	"latitude": 35.6478,
+	"longitude": -91.262
+},
+{
+	"City": "Avilla",
+	"State": "AR",
+	"latitude": 34.6988,
+	"longitude": -92.5813
+},
+{
+	"City": "Newark",
+	"State": "AR",
+	"latitude": 35.7083,
+	"longitude": -91.4432
+},
+{
+	"City": "Sulphur Springs",
+	"State": "AR",
+	"latitude": 34.1708,
+	"longitude": -92.1299
+},
+{
+	"City": "West Crossett",
+	"State": "AR",
+	"latitude": 33.1488,
+	"longitude": -92.0221
+},
+{
+	"City": "Yellville",
+	"State": "AR",
+	"latitude": 36.2289,
+	"longitude": -92.686
+},
+{
+	"City": "Mineral Springs",
+	"State": "AR",
+	"latitude": 33.8767,
+	"longitude": -93.9218
+},
+{
+	"City": "Midway",
+	"State": "AR",
+	"latitude": 36.3916,
+	"longitude": -92.4724
+},
+{
+	"City": "Lewisville",
+	"State": "AR",
+	"latitude": 33.3643,
+	"longitude": -93.5751
+},
+{
+	"City": "Wooster",
+	"State": "AR",
+	"latitude": 35.1998,
+	"longitude": -92.4503
+},
+{
+	"City": "Highland",
+	"State": "AR",
+	"latitude": 36.2657,
+	"longitude": -91.5186
+},
+{
+	"City": "Ash Flat",
+	"State": "AR",
+	"latitude": 36.2365,
+	"longitude": -91.6067
+},
+{
+	"City": "Mansfield",
+	"State": "AR",
+	"latitude": 35.0634,
+	"longitude": -94.2375
+},
+{
+	"City": "Dierks",
+	"State": "AR",
+	"latitude": 34.12,
+	"longitude": -94.0173
+},
+{
+	"City": "Oak Grove Heights",
+	"State": "AR",
+	"latitude": 36.1271,
+	"longitude": -90.5085
+},
+{
+	"City": "London",
+	"State": "AR",
+	"latitude": 35.328,
+	"longitude": -93.2417
+},
+{
+	"City": "Sweet Home",
+	"State": "AR",
+	"latitude": 34.6707,
+	"longitude": -92.2465
+},
+{
+	"City": "Horatio",
+	"State": "AR",
+	"latitude": 33.941,
+	"longitude": -94.3554
+},
+{
+	"City": "Kibler",
+	"State": "AR",
+	"latitude": 35.4265,
+	"longitude": -94.2368
+},
+{
+	"City": "Luxora",
+	"State": "AR",
+	"latitude": 35.7576,
+	"longitude": -89.9298
+},
+{
+	"City": "Coal Hill",
+	"State": "AR",
+	"latitude": 35.4375,
+	"longitude": -93.6647
+},
+{
+	"City": "Mount Ida",
+	"State": "AR",
+	"latitude": 34.5509,
+	"longitude": -93.6309
+},
+{
+	"City": "Parkin",
+	"State": "AR",
+	"latitude": 35.2629,
+	"longitude": -90.553
+},
+{
+	"City": "Tumbling Shoals",
+	"State": "AR",
+	"latitude": 35.5479,
+	"longitude": -91.9688
+},
+{
+	"City": "Mammoth Spring",
+	"State": "AR",
+	"latitude": 36.4924,
+	"longitude": -91.5413
+},
+{
+	"City": "Cotter",
+	"State": "AR",
+	"latitude": 36.2819,
+	"longitude": -92.5212
+},
+{
+	"City": "Foreman",
+	"State": "AR",
+	"latitude": 33.7198,
+	"longitude": -94.3979
+},
+{
+	"City": "Marvell",
+	"State": "AR",
+	"latitude": 34.5563,
+	"longitude": -90.9153
+},
+{
+	"City": "Dyer",
+	"State": "AR",
+	"latitude": 35.4944,
+	"longitude": -94.1388
+},
+{
+	"City": "Fouke",
+	"State": "AR",
+	"latitude": 33.2622,
+	"longitude": -93.8852
+},
+{
+	"City": "Kirby",
+	"State": "AR",
+	"latitude": 34.2556,
+	"longitude": -93.6522
+},
+{
+	"City": "Bearden",
+	"State": "AR",
+	"latitude": 33.7276,
+	"longitude": -92.6187
+},
+{
+	"City": "Greers Ferry",
+	"State": "AR",
+	"latitude": 35.5674,
+	"longitude": -92.1688
+},
+{
+	"City": "Hackett",
+	"State": "AR",
+	"latitude": 35.1878,
+	"longitude": -94.4106
+},
+{
+	"City": "Magazine",
+	"State": "AR",
+	"latitude": 35.1534,
+	"longitude": -93.8078
+},
+{
+	"City": "East Camden",
+	"State": "AR",
+	"latitude": 33.6082,
+	"longitude": -92.7436
+},
+{
+	"City": "Wilson",
+	"State": "AR",
+	"latitude": 35.5661,
+	"longitude": -90.043
+},
+{
+	"City": "Altheimer",
+	"State": "AR",
+	"latitude": 34.3242,
+	"longitude": -91.8481
+},
+{
+	"City": "Diamond City",
+	"State": "AR",
+	"latitude": 36.4575,
+	"longitude": -92.9129
+},
+{
+	"City": "Guy",
+	"State": "AR",
+	"latitude": 35.3272,
+	"longitude": -92.3366
+},
+{
+	"City": "Stephens",
+	"State": "AR",
+	"latitude": 33.4221,
+	"longitude": -93.067
+},
+{
+	"City": "Mountain Pine",
+	"State": "AR",
+	"latitude": 34.5693,
+	"longitude": -93.1726
+},
+{
+	"City": "Norphlet",
+	"State": "AR",
+	"latitude": 33.3199,
+	"longitude": -92.662
+},
+{
+	"City": "Plumerville",
+	"State": "AR",
+	"latitude": 35.16,
+	"longitude": -92.6424
+},
+{
+	"City": "Hermitage",
+	"State": "AR",
+	"latitude": 33.4471,
+	"longitude": -92.1712
+},
+{
+	"City": "Hardy",
+	"State": "AR",
+	"latitude": 36.3187,
+	"longitude": -91.4791
+},
+{
+	"City": "Knoxville",
+	"State": "AR",
+	"latitude": 35.378,
+	"longitude": -93.3632
+},
+{
+	"City": "Wickes",
+	"State": "AR",
+	"latitude": 34.2988,
+	"longitude": -94.3331
+},
+{
+	"City": "Oppelo",
+	"State": "AR",
+	"latitude": 35.1003,
+	"longitude": -92.7733
+},
+{
+	"City": "Bradford",
+	"State": "AR",
+	"latitude": 35.422,
+	"longitude": -91.4552
+},
+{
+	"City": "Swifton",
+	"State": "AR",
+	"latitude": 35.8245,
+	"longitude": -91.1294
+},
+{
+	"City": "Higginson",
+	"State": "AR",
+	"latitude": 35.1968,
+	"longitude": -91.7152
+},
+{
+	"City": "Altus",
+	"State": "AR",
+	"latitude": 35.4465,
+	"longitude": -93.7643
+},
+{
+	"City": "Gould",
+	"State": "AR",
+	"latitude": 33.9872,
+	"longitude": -91.564
+},
+{
+	"City": "Lockesburg",
+	"State": "AR",
+	"latitude": 33.9716,
+	"longitude": -94.1761
+},
+{
+	"City": "Tyronza",
+	"State": "AR",
+	"latitude": 35.4868,
+	"longitude": -90.3559
+},
+{
+	"City": "Cammack Village",
+	"State": "AR",
+	"latitude": 34.7808,
+	"longitude": -92.3449
+},
+{
+	"City": "Lakeview",
+	"State": "AR",
+	"latitude": 36.3739,
+	"longitude": -92.5387
+},
+{
+	"City": "Quitman",
+	"State": "AR",
+	"latitude": 35.382,
+	"longitude": -92.2142
+},
+{
+	"City": "Rockport",
+	"State": "AR",
+	"latitude": 34.4069,
+	"longitude": -92.8078
+},
+{
+	"City": "Natural Steps",
+	"State": "AR",
+	"latitude": 34.8669,
+	"longitude": -92.4881
+},
+{
+	"City": "Madison",
+	"State": "AR",
+	"latitude": 35.0188,
+	"longitude": -90.7299
+},
+{
+	"City": "Amity",
+	"State": "AR",
+	"latitude": 34.2662,
+	"longitude": -93.4634
+},
+{
+	"City": "Gillett",
+	"State": "AR",
+	"latitude": 34.1193,
+	"longitude": -91.3789
+},
+{
+	"City": "Oxford",
+	"State": "AR",
+	"latitude": 36.2092,
+	"longitude": -91.919
+},
+{
+	"City": "Keiser",
+	"State": "AR",
+	"latitude": 35.674,
+	"longitude": -90.0958
+},
+{
+	"City": "Weiner",
+	"State": "AR",
+	"latitude": 35.6197,
+	"longitude": -90.9054
+},
+{
+	"City": "McRae",
+	"State": "AR",
+	"latitude": 35.1119,
+	"longitude": -91.8253
+},
+{
+	"City": "Caddo Valley",
+	"State": "AR",
+	"latitude": 34.1897,
+	"longitude": -93.0679
+},
+{
+	"City": "Highfill",
+	"State": "AR",
+	"latitude": 36.2767,
+	"longitude": -94.3237
+},
+{
+	"City": "Hartford",
+	"State": "AR",
+	"latitude": 35.0236,
+	"longitude": -94.3799
+},
+{
+	"City": "Huntington",
+	"State": "AR",
+	"latitude": 35.0813,
+	"longitude": -94.2665
+},
+{
+	"City": "Imboden",
+	"State": "AR",
+	"latitude": 36.2021,
+	"longitude": -91.1823
+},
+{
+	"City": "Mountainburg",
+	"State": "AR",
+	"latitude": 35.6361,
+	"longitude": -94.1679
+},
+{
+	"City": "Black Rock",
+	"State": "AR",
+	"latitude": 36.107,
+	"longitude": -91.1074
+},
+{
+	"City": "Summit",
+	"State": "AR",
+	"latitude": 36.2522,
+	"longitude": -92.6883
+},
+{
+	"City": "Roland",
+	"State": "AR",
+	"latitude": 34.9005,
+	"longitude": -92.5186
+},
+{
+	"City": "Cherry Valley",
+	"State": "AR",
+	"latitude": 35.4021,
+	"longitude": -90.7545
+},
+{
+	"City": "Pangburn",
+	"State": "AR",
+	"latitude": 35.4261,
+	"longitude": -91.8394
+},
+{
+	"City": "Plainview",
+	"State": "AR",
+	"latitude": 34.9899,
+	"longitude": -93.2979
+},
+{
+	"City": "Garfield",
+	"State": "AR",
+	"latitude": 36.4554,
+	"longitude": -93.9757
+},
+{
+	"City": "Holland",
+	"State": "AR",
+	"latitude": 35.166,
+	"longitude": -92.277
+},
+{
+	"City": "Palestine",
+	"State": "AR",
+	"latitude": 34.9689,
+	"longitude": -90.9062
+},
+{
+	"City": "Cotton Plant",
+	"State": "AR",
+	"latitude": 35.0059,
+	"longitude": -91.252
+},
+{
+	"City": "Grannis",
+	"State": "AR",
+	"latitude": 34.2398,
+	"longitude": -94.322
+},
+{
+	"City": "Fountain Lake",
+	"State": "AR",
+	"latitude": 34.6121,
+	"longitude": -92.9233
+},
+{
+	"City": "Taylor",
+	"State": "AR",
+	"latitude": 33.0998,
+	"longitude": -93.4618
+},
+{
+	"City": "Bonanza",
+	"State": "AR",
+	"latitude": 35.2335,
+	"longitude": -94.4168
+},
+{
+	"City": "Subiaco",
+	"State": "AR",
+	"latitude": 35.2982,
+	"longitude": -93.6385
+},
+{
+	"City": "Hartman",
+	"State": "AR",
+	"latitude": 35.4353,
+	"longitude": -93.6235
+},
+{
+	"City": "De Valls Bluff",
+	"State": "AR",
+	"latitude": 34.7859,
+	"longitude": -91.4602
+},
+{
+	"City": "Turrell",
+	"State": "AR",
+	"latitude": 35.3763,
+	"longitude": -90.2704
+},
+{
+	"City": "Bauxite",
+	"State": "AR",
+	"latitude": 34.5602,
+	"longitude": -92.4988
+},
+{
+	"City": "Traskwood",
+	"State": "AR",
+	"latitude": 34.4533,
+	"longitude": -92.6642
+},
+{
+	"City": "Magnet Cove",
+	"State": "AR",
+	"latitude": 34.4492,
+	"longitude": -92.8379
+},
+{
+	"City": "Norfork",
+	"State": "AR",
+	"latitude": 36.2099,
+	"longitude": -92.2801
+},
+{
+	"City": "Holly Grove",
+	"State": "AR",
+	"latitude": 34.6003,
+	"longitude": -91.1963
+},
+{
+	"City": "Huttig",
+	"State": "AR",
+	"latitude": 33.0418,
+	"longitude": -92.1818
+},
+{
+	"City": "Bradley",
+	"State": "AR",
+	"latitude": 33.0993,
+	"longitude": -93.6569
+},
+{
+	"City": "Junction City",
+	"State": "AR",
+	"latitude": 33.022,
+	"longitude": -92.7236
+},
+{
+	"City": "Avoca",
+	"State": "AR",
+	"latitude": 36.398,
+	"longitude": -94.071
+},
+{
+	"City": "Bergman",
+	"State": "AR",
+	"latitude": 36.3128,
+	"longitude": -93.0115
+},
+{
+	"City": "Strong",
+	"State": "AR",
+	"latitude": 33.1079,
+	"longitude": -92.3598
+},
+{
+	"City": "Central City",
+	"State": "AR",
+	"latitude": 35.33,
+	"longitude": -94.2347
+},
+{
+	"City": "Leola",
+	"State": "AR",
+	"latitude": 34.1701,
+	"longitude": -92.5914
+},
+{
+	"City": "Joiner",
+	"State": "AR",
+	"latitude": 35.5056,
+	"longitude": -90.15
+},
+{
+	"City": "Elaine",
+	"State": "AR",
+	"latitude": 34.3086,
+	"longitude": -90.8535
+},
+{
+	"City": "Wilmot",
+	"State": "AR",
+	"latitude": 33.0588,
+	"longitude": -91.5749
+},
+{
+	"City": "Rose Bud",
+	"State": "AR",
+	"latitude": 35.3249,
+	"longitude": -92.0811
+},
+{
+	"City": "Jasper",
+	"State": "AR",
+	"latitude": 36.0125,
+	"longitude": -93.1874
+},
+{
+	"City": "Wilmar",
+	"State": "AR",
+	"latitude": 33.6264,
+	"longitude": -91.9294
+},
+{
+	"City": "College Station",
+	"State": "AR",
+	"latitude": 34.705,
+	"longitude": -92.2296
+},
+{
+	"City": "Humphrey",
+	"State": "AR",
+	"latitude": 34.4224,
+	"longitude": -91.7025
+},
+{
+	"City": "Bellefonte",
+	"State": "AR",
+	"latitude": 36.1998,
+	"longitude": -93.047
+},
+{
+	"City": "Gateway",
+	"State": "AR",
+	"latitude": 36.4854,
+	"longitude": -93.9365
+},
+{
+	"City": "McNeil",
+	"State": "AR",
+	"latitude": 33.3479,
+	"longitude": -93.2083
+},
+{
+	"City": "Sulphur Rock",
+	"State": "AR",
+	"latitude": 35.7516,
+	"longitude": -91.5003
+},
+{
+	"City": "Maysville",
+	"State": "AR",
+	"latitude": 36.4019,
+	"longitude": -94.5889
+},
+{
+	"City": "Hector",
+	"State": "AR",
+	"latitude": 35.4644,
+	"longitude": -92.976
+},
+{
+	"City": "Tull",
+	"State": "AR",
+	"latitude": 34.441,
+	"longitude": -92.5779
+},
+{
+	"City": "Emmet",
+	"State": "AR",
+	"latitude": 33.7227,
+	"longitude": -93.4657
+},
+{
+	"City": "Lafe",
+	"State": "AR",
+	"latitude": 36.2092,
+	"longitude": -90.5043
+},
+{
+	"City": "Salesville",
+	"State": "AR",
+	"latitude": 36.241,
+	"longitude": -92.2769
+},
+{
+	"City": "Cushman",
+	"State": "AR",
+	"latitude": 35.8658,
+	"longitude": -91.7781
+},
+{
+	"City": "Caldwell",
+	"State": "AR",
+	"latitude": 35.0788,
+	"longitude": -90.8136
+},
+{
+	"City": "Crawfordsville",
+	"State": "AR",
+	"latitude": 35.2267,
+	"longitude": -90.3241
+},
+{
+	"City": "Ravenden",
+	"State": "AR",
+	"latitude": 36.2417,
+	"longitude": -91.2511
+},
+{
+	"City": "Reyno",
+	"State": "AR",
+	"latitude": 36.3609,
+	"longitude": -90.759
+},
+{
+	"City": "Calion",
+	"State": "AR",
+	"latitude": 33.3285,
+	"longitude": -92.5402
+},
+{
+	"City": "Evening Shade",
+	"State": "AR",
+	"latitude": 36.0701,
+	"longitude": -91.6218
+},
+{
+	"City": "Winslow",
+	"State": "AR",
+	"latitude": 35.8008,
+	"longitude": -94.1305
+},
+{
+	"City": "Belleville",
+	"State": "AR",
+	"latitude": 35.0915,
+	"longitude": -93.4458
+},
+{
+	"City": "Maynard",
+	"State": "AR",
+	"latitude": 36.4214,
+	"longitude": -90.9018
+},
+{
+	"City": "Mount Pleasant",
+	"State": "AR",
+	"latitude": 35.9818,
+	"longitude": -91.7771
+},
+{
+	"City": "Leslie",
+	"State": "AR",
+	"latitude": 35.8294,
+	"longitude": -92.5563
+},
+{
+	"City": "Portia",
+	"State": "AR",
+	"latitude": 36.0849,
+	"longitude": -91.0711
+},
+{
+	"City": "Yarborough Landing",
+	"State": "AR",
+	"latitude": 33.7126,
+	"longitude": -94.0108
+},
+{
+	"City": "Kingsland",
+	"State": "AR",
+	"latitude": 33.8658,
+	"longitude": -92.2911
+},
+{
+	"City": "Alpena",
+	"State": "AR",
+	"latitude": 36.2896,
+	"longitude": -93.3037
+},
+{
+	"City": "Oak Grove",
+	"State": "AR",
+	"latitude": 36.4642,
+	"longitude": -93.4302
+},
+{
+	"City": "Edmondson",
+	"State": "AR",
+	"latitude": 35.1041,
+	"longitude": -90.3052
+},
+{
+	"City": "Grady",
+	"State": "AR",
+	"latitude": 34.079,
+	"longitude": -91.6981
+},
+{
+	"City": "Patterson",
+	"State": "AR",
+	"latitude": 35.259,
+	"longitude": -91.2349
+},
+{
+	"City": "Hatfield",
+	"State": "AR",
+	"latitude": 34.4859,
+	"longitude": -94.3793
+},
+{
+	"City": "Portland",
+	"State": "AR",
+	"latitude": 33.2379,
+	"longitude": -91.511
+},
+{
+	"City": "Thornton",
+	"State": "AR",
+	"latitude": 33.7756,
+	"longitude": -92.4889
+},
+{
+	"City": "Damascus",
+	"State": "AR",
+	"latitude": 35.3671,
+	"longitude": -92.4108
+},
+{
+	"City": "Sparkman",
+	"State": "AR",
+	"latitude": 33.9171,
+	"longitude": -92.85
+},
+{
+	"City": "Cove",
+	"State": "AR",
+	"latitude": 34.4366,
+	"longitude": -94.416
+},
+{
+	"City": "Woodson",
+	"State": "AR",
+	"latitude": 34.538,
+	"longitude": -92.2212
+},
+{
+	"City": "Center Ridge",
+	"State": "AR",
+	"latitude": 35.3806,
+	"longitude": -92.5702
+},
+{
+	"City": "Pleasant Plains",
+	"State": "AR",
+	"latitude": 35.5545,
+	"longitude": -91.6274
+},
+{
+	"City": "Havana",
+	"State": "AR",
+	"latitude": 35.1098,
+	"longitude": -93.526
+},
+{
+	"City": "Dyess",
+	"State": "AR",
+	"latitude": 35.5894,
+	"longitude": -90.2133
+},
+{
+	"City": "Norman",
+	"State": "AR",
+	"latitude": 34.4584,
+	"longitude": -93.6791
+},
+{
+	"City": "Western Grove",
+	"State": "AR",
+	"latitude": 36.1011,
+	"longitude": -92.9546
+},
+{
+	"City": "Clarkedale",
+	"State": "AR",
+	"latitude": 35.297,
+	"longitude": -90.2103
+},
+{
+	"City": "Cash",
+	"State": "AR",
+	"latitude": 35.8013,
+	"longitude": -90.9315
+},
+{
+	"City": "Viola",
+	"State": "AR",
+	"latitude": 36.3968,
+	"longitude": -91.9863
+},
+{
+	"City": "Enola",
+	"State": "AR",
+	"latitude": 35.1958,
+	"longitude": -92.2068
+},
+{
+	"City": "Grubbs",
+	"State": "AR",
+	"latitude": 35.654,
+	"longitude": -91.0755
+},
+{
+	"City": "Fredonia",
+	"State": "AR",
+	"latitude": 34.8197,
+	"longitude": -91.4102
+},
+{
+	"City": "Wilton",
+	"State": "AR",
+	"latitude": 33.7388,
+	"longitude": -94.148
+},
+{
+	"City": "Bigelow",
+	"State": "AR",
+	"latitude": 34.9975,
+	"longitude": -92.6315
+},
+{
+	"City": "Emerson",
+	"State": "AR",
+	"latitude": 33.0973,
+	"longitude": -93.196
+},
+{
+	"City": "Branch",
+	"State": "AR",
+	"latitude": 35.3075,
+	"longitude": -93.9556
+},
+{
+	"City": "Biggers",
+	"State": "AR",
+	"latitude": 36.3319,
+	"longitude": -90.8052
+},
+{
+	"City": "Mitchellville",
+	"State": "AR",
+	"latitude": 33.9053,
+	"longitude": -91.4983
+},
+{
+	"City": "Twin Groves",
+	"State": "AR",
+	"latitude": 35.3187,
+	"longitude": -92.4253
+},
+{
+	"City": "Colt",
+	"State": "AR",
+	"latitude": 35.1329,
+	"longitude": -90.813
+},
+{
+	"City": "Dennard",
+	"State": "AR",
+	"latitude": 35.7498,
+	"longitude": -92.5394
+},
+{
+	"City": "Midland",
+	"State": "AR",
+	"latitude": 35.0927,
+	"longitude": -94.3531
+},
+{
+	"City": "Etowah",
+	"State": "AR",
+	"latitude": 35.7225,
+	"longitude": -90.232
+},
+{
+	"City": "Menifee",
+	"State": "AR",
+	"latitude": 35.1493,
+	"longitude": -92.5544
+},
+{
+	"City": "Arkansas City",
+	"State": "AR",
+	"latitude": 33.609,
+	"longitude": -91.2048
+},
+{
+	"City": "Prattsville",
+	"State": "AR",
+	"latitude": 34.3172,
+	"longitude": -92.5429
+},
+{
+	"City": "Montrose",
+	"State": "AR",
+	"latitude": 33.2989,
+	"longitude": -91.4965
+},
+{
+	"City": "Blevins",
+	"State": "AR",
+	"latitude": 33.8716,
+	"longitude": -93.5778
+},
+{
+	"City": "Donaldson",
+	"State": "AR",
+	"latitude": 34.235,
+	"longitude": -92.9195
+},
+{
+	"City": "Wheatley",
+	"State": "AR",
+	"latitude": 34.9211,
+	"longitude": -91.1063
+},
+{
+	"City": "Carthage",
+	"State": "AR",
+	"latitude": 34.0726,
+	"longitude": -92.5553
+},
+{
+	"City": "Lost Bridge Village",
+	"State": "AR",
+	"latitude": 36.3898,
+	"longitude": -93.9156
+},
+{
+	"City": "Garner",
+	"State": "AR",
+	"latitude": 35.1418,
+	"longitude": -91.781
+},
+{
+	"City": "Poyen",
+	"State": "AR",
+	"latitude": 34.3243,
+	"longitude": -92.642
+},
+{
+	"City": "Perry",
+	"State": "AR",
+	"latitude": 35.0458,
+	"longitude": -92.7948
+},
+{
+	"City": "Strawberry",
+	"State": "AR",
+	"latitude": 35.9665,
+	"longitude": -91.3211
+},
+{
+	"City": "Shirley",
+	"State": "AR",
+	"latitude": 35.6442,
+	"longitude": -92.3137
+},
+{
+	"City": "Humnoke",
+	"State": "AR",
+	"latitude": 34.5422,
+	"longitude": -91.7596
+},
+{
+	"City": "Oil Trough",
+	"State": "AR",
+	"latitude": 35.6292,
+	"longitude": -91.4612
+},
+{
+	"City": "Horseshoe Lake",
+	"State": "AR",
+	"latitude": 34.9136,
+	"longitude": -90.3079
+},
+{
+	"City": "Delight",
+	"State": "AR",
+	"latitude": 34.0299,
+	"longitude": -93.5057
+},
+{
+	"City": "Lead Hill",
+	"State": "AR",
+	"latitude": 36.4128,
+	"longitude": -92.9068
+},
+{
+	"City": "Lynn",
+	"State": "AR",
+	"latitude": 36.0042,
+	"longitude": -91.252
+},
+{
+	"City": "Black Oak",
+	"State": "AR",
+	"latitude": 35.8365,
+	"longitude": -90.3677
+},
+{
+	"City": "Almyra",
+	"State": "AR",
+	"latitude": 34.4057,
+	"longitude": -91.4108
+},
+{
+	"City": "Knobel",
+	"State": "AR",
+	"latitude": 36.32,
+	"longitude": -90.6022
+},
+{
+	"City": "Chidester",
+	"State": "AR",
+	"latitude": 33.702,
+	"longitude": -93.0238
+},
+{
+	"City": "Perrytown",
+	"State": "AR",
+	"latitude": 33.6973,
+	"longitude": -93.5342
+},
+{
+	"City": "Parkdale",
+	"State": "AR",
+	"latitude": 33.1212,
+	"longitude": -91.5464
+},
+{
+	"City": "Keo",
+	"State": "AR",
+	"latitude": 34.6088,
+	"longitude": -92.0104
+},
+{
+	"City": "Tollette",
+	"State": "AR",
+	"latitude": 33.8182,
+	"longitude": -93.8969
+},
+{
+	"City": "Denning",
+	"State": "AR",
+	"latitude": 35.4252,
+	"longitude": -93.7568
+},
+{
+	"City": "Harrell",
+	"State": "AR",
+	"latitude": 33.5102,
+	"longitude": -92.4011
+},
+{
+	"City": "Perla",
+	"State": "AR",
+	"latitude": 34.3647,
+	"longitude": -92.7762
+},
+{
+	"City": "Gilmore",
+	"State": "AR",
+	"latitude": 35.4131,
+	"longitude": -90.2973
+},
+{
+	"City": "Widener",
+	"State": "AR",
+	"latitude": 35.0233,
+	"longitude": -90.6817
+},
+{
+	"City": "Letona",
+	"State": "AR",
+	"latitude": 35.3635,
+	"longitude": -91.8296
+},
+{
+	"City": "Hickory Ridge",
+	"State": "AR",
+	"latitude": 35.403,
+	"longitude": -90.9946
+},
+{
+	"City": "Briarcliff",
+	"State": "AR",
+	"latitude": 36.2721,
+	"longitude": -92.2824
+},
+{
+	"City": "Lexa",
+	"State": "AR",
+	"latitude": 34.5982,
+	"longitude": -90.7519
+},
+{
+	"City": "Rosston",
+	"State": "AR",
+	"latitude": 33.5877,
+	"longitude": -93.2798
+},
+{
+	"City": "Garland",
+	"State": "AR",
+	"latitude": 33.3609,
+	"longitude": -93.7142
+},
+{
+	"City": "Concord",
+	"State": "AR",
+	"latitude": 35.6625,
+	"longitude": -91.849
+},
+{
+	"City": "Pyatt",
+	"State": "AR",
+	"latitude": 36.2509,
+	"longitude": -92.8443
+},
+{
+	"City": "Scranton",
+	"State": "AR",
+	"latitude": 35.3606,
+	"longitude": -93.5394
+},
+{
+	"City": "Buckner",
+	"State": "AR",
+	"latitude": 33.3572,
+	"longitude": -93.4358
+},
+{
+	"City": "Campbell Station",
+	"State": "AR",
+	"latitude": 35.6678,
+	"longitude": -91.2538
+},
+{
+	"City": "St. Francis",
+	"State": "AR",
+	"latitude": 36.4556,
+	"longitude": -90.1428
+},
+{
+	"City": "Griffithville",
+	"State": "AR",
+	"latitude": 35.1233,
+	"longitude": -91.6447
+},
+{
+	"City": "Pineville",
+	"State": "AR",
+	"latitude": 36.1612,
+	"longitude": -92.1065
+},
+{
+	"City": "Wabbaseka",
+	"State": "AR",
+	"latitude": 34.3591,
+	"longitude": -91.7926
+},
+{
+	"City": "Russell",
+	"State": "AR",
+	"latitude": 35.3621,
+	"longitude": -91.5101
+},
+{
+	"City": "Oden",
+	"State": "AR",
+	"latitude": 34.6215,
+	"longitude": -93.7862
+},
+{
+	"City": "Fisher",
+	"State": "AR",
+	"latitude": 35.4915,
+	"longitude": -90.9725
+},
+{
+	"City": "Tillar",
+	"State": "AR",
+	"latitude": 33.7109,
+	"longitude": -91.4517
+},
+{
+	"City": "St. Charles",
+	"State": "AR",
+	"latitude": 34.3732,
+	"longitude": -91.1373
+},
+{
+	"City": "Magness",
+	"State": "AR",
+	"latitude": 35.703,
+	"longitude": -91.4821
+},
+{
+	"City": "Caulksville",
+	"State": "AR",
+	"latitude": 35.3017,
+	"longitude": -93.868
+},
+{
+	"City": "Adona",
+	"State": "AR",
+	"latitude": 35.0399,
+	"longitude": -92.8991
+},
+{
+	"City": "Pollard",
+	"State": "AR",
+	"latitude": 36.4296,
+	"longitude": -90.267
+},
+{
+	"City": "Jacksonport",
+	"State": "AR",
+	"latitude": 35.6422,
+	"longitude": -91.3079
+},
+{
+	"City": "New Edinburg",
+	"State": "AR",
+	"latitude": 33.7565,
+	"longitude": -92.2401
+},
+{
+	"City": "O'Kean",
+	"State": "AR",
+	"latitude": 36.1715,
+	"longitude": -90.8183
+},
+{
+	"City": "Fulton",
+	"State": "AR",
+	"latitude": 33.6126,
+	"longitude": -93.8137
+},
+{
+	"City": "Reader",
+	"State": "AR",
+	"latitude": 33.7518,
+	"longitude": -93.1009
+},
+{
+	"City": "Franklin",
+	"State": "AR",
+	"latitude": 36.1727,
+	"longitude": -91.7697
+},
+{
+	"City": "Friendship",
+	"State": "AR",
+	"latitude": 34.2243,
+	"longitude": -93.0037
+},
+{
+	"City": "Sunset",
+	"State": "AR",
+	"latitude": 35.224,
+	"longitude": -90.2057
+},
+{
+	"City": "Greenway",
+	"State": "AR",
+	"latitude": 36.3406,
+	"longitude": -90.2223
+},
+{
+	"City": "Sidney",
+	"State": "AR",
+	"latitude": 36.0044,
+	"longitude": -91.6583
+},
+{
+	"City": "Dell",
+	"State": "AR",
+	"latitude": 35.8592,
+	"longitude": -90.026
+},
+{
+	"City": "Ratcliff",
+	"State": "AR",
+	"latitude": 35.3066,
+	"longitude": -93.8887
+},
+{
+	"City": "Watson",
+	"State": "AR",
+	"latitude": 33.8939,
+	"longitude": -91.2572
+},
+{
+	"City": "Winthrop",
+	"State": "AR",
+	"latitude": 33.8308,
+	"longitude": -94.3542
+},
+{
+	"City": "Moro",
+	"State": "AR",
+	"latitude": 34.7919,
+	"longitude": -90.988
+},
+{
+	"City": "West Point",
+	"State": "AR",
+	"latitude": 35.2034,
+	"longitude": -91.6099
+},
+{
+	"City": "Houston",
+	"State": "AR",
+	"latitude": 35.0349,
+	"longitude": -92.6945
+},
+{
+	"City": "Fifty-Six",
+	"State": "AR",
+	"latitude": 35.962,
+	"longitude": -92.2301
+},
+{
+	"City": "Omaha",
+	"State": "AR",
+	"latitude": 36.4583,
+	"longitude": -93.191
+},
+{
+	"City": "Valley Springs",
+	"State": "AR",
+	"latitude": 36.1537,
+	"longitude": -92.9896
+},
+{
+	"City": "Tupelo",
+	"State": "AR",
+	"latitude": 35.391,
+	"longitude": -91.2298
+},
+{
+	"City": "Washington",
+	"State": "AR",
+	"latitude": 33.773,
+	"longitude": -93.6833
+},
+{
+	"City": "Casa",
+	"State": "AR",
+	"latitude": 35.0253,
+	"longitude": -93.0448
+},
+{
+	"City": "McDougal",
+	"State": "AR",
+	"latitude": 36.4365,
+	"longitude": -90.3907
+},
+{
+	"City": "Burdette",
+	"State": "AR",
+	"latitude": 35.8153,
+	"longitude": -89.9457
+},
+{
+	"City": "Sedgwick",
+	"State": "AR",
+	"latitude": 35.9753,
+	"longitude": -90.8678
+},
+{
+	"City": "Rondo",
+	"State": "AR",
+	"latitude": 34.6575,
+	"longitude": -90.8208
+},
+{
+	"City": "Winchester",
+	"State": "AR",
+	"latitude": 33.7741,
+	"longitude": -91.4737
+},
+{
+	"City": "Bassett",
+	"State": "AR",
+	"latitude": 35.5356,
+	"longitude": -90.1294
+},
+{
+	"City": "Fountain Hill",
+	"State": "AR",
+	"latitude": 33.3576,
+	"longitude": -91.8511
+},
+{
+	"City": "Chester",
+	"State": "AR",
+	"latitude": 35.6778,
+	"longitude": -94.1778
+},
+{
+	"City": "Gillham",
+	"State": "AR",
+	"latitude": 34.1686,
+	"longitude": -94.3145
+},
+{
+	"City": "Ogden",
+	"State": "AR",
+	"latitude": 33.5859,
+	"longitude": -94.0469
+},
+{
+	"City": "Ulm",
+	"State": "AR",
+	"latitude": 34.5762,
+	"longitude": -91.4617
+},
+{
+	"City": "Louann",
+	"State": "AR",
+	"latitude": 33.3915,
+	"longitude": -92.7923
+},
+{
+	"City": "Rudy",
+	"State": "AR",
+	"latitude": 35.5285,
+	"longitude": -94.241
+},
+{
+	"City": "Mount Vernon",
+	"State": "AR",
+	"latitude": 35.2236,
+	"longitude": -92.124
+},
+{
+	"City": "Anthonyville",
+	"State": "AR",
+	"latitude": 35.0398,
+	"longitude": -90.3403
+},
+{
+	"City": "Reed",
+	"State": "AR",
+	"latitude": 33.7017,
+	"longitude": -91.4458
+},
+{
+	"City": "Staves",
+	"State": "AR",
+	"latitude": 34.031,
+	"longitude": -92.278
+},
+{
+	"City": "Ben Lomond",
+	"State": "AR",
+	"latitude": 33.8335,
+	"longitude": -94.1177
+},
+{
+	"City": "Willisville",
+	"State": "AR",
+	"latitude": 33.5194,
+	"longitude": -93.2949
+},
+{
+	"City": "Felsenthal",
+	"State": "AR",
+	"latitude": 33.0588,
+	"longitude": -92.1533
+},
+{
+	"City": "Woodlawn",
+	"State": "AR",
+	"latitude": 33.9668,
+	"longitude": -92.0452
+},
+{
+	"City": "Aubrey",
+	"State": "AR",
+	"latitude": 34.7193,
+	"longitude": -90.8976
+},
+{
+	"City": "Okolona",
+	"State": "AR",
+	"latitude": 34.0005,
+	"longitude": -93.3376
+},
+{
+	"City": "Everton",
+	"State": "AR",
+	"latitude": 36.1541,
+	"longitude": -92.9095
+},
+{
+	"City": "Moorefield",
+	"State": "AR",
+	"latitude": 35.7672,
+	"longitude": -91.5708
+},
+{
+	"City": "Success",
+	"State": "AR",
+	"latitude": 36.4545,
+	"longitude": -90.7226
+},
+{
+	"City": "Georgetown",
+	"State": "AR",
+	"latitude": 35.1267,
+	"longitude": -91.4539
+},
+{
+	"City": "Alicia",
+	"State": "AR",
+	"latitude": 35.8929,
+	"longitude": -91.0835
+},
+{
+	"City": "Bodcaw",
+	"State": "AR",
+	"latitude": 33.5607,
+	"longitude": -93.4013
+},
+{
+	"City": "St. Joe",
+	"State": "AR",
+	"latitude": 36.029,
+	"longitude": -92.8078
+},
+{
+	"City": "Haynes",
+	"State": "AR",
+	"latitude": 34.8909,
+	"longitude": -90.7927
+},
+{
+	"City": "Peach Orchard",
+	"State": "AR",
+	"latitude": 36.2812,
+	"longitude": -90.6608
+},
+{
+	"City": "Higden",
+	"State": "AR",
+	"latitude": 35.5666,
+	"longitude": -92.2047
+},
+{
+	"City": "Ravenden Springs",
+	"State": "AR",
+	"latitude": 36.3127,
+	"longitude": -91.2233
+},
+{
+	"City": "Blue Mountain",
+	"State": "AR",
+	"latitude": 35.1311,
+	"longitude": -93.7162
+},
+{
+	"City": "Allport",
+	"State": "AR",
+	"latitude": 34.5399,
+	"longitude": -91.784
+},
+{
+	"City": "Jennette",
+	"State": "AR",
+	"latitude": 35.1639,
+	"longitude": -90.4092
+},
+{
+	"City": "Bluff City",
+	"State": "AR",
+	"latitude": 33.7224,
+	"longitude": -93.1316
+},
+{
+	"City": "Banks",
+	"State": "AR",
+	"latitude": 33.5758,
+	"longitude": -92.2671
+},
+{
+	"City": "Delaplaine",
+	"State": "AR",
+	"latitude": 36.2304,
+	"longitude": -90.7256
+},
+{
+	"City": "Gum Springs",
+	"State": "AR",
+	"latitude": 34.0639,
+	"longitude": -93.0957
+},
+{
+	"City": "St. Paul",
+	"State": "AR",
+	"latitude": 35.8245,
+	"longitude": -93.7642
+},
+{
+	"City": "Rye",
+	"State": "AR",
+	"latitude": 33.7505,
+	"longitude": -91.9985
+},
+{
+	"City": "Daisy",
+	"State": "AR",
+	"latitude": 34.2349,
+	"longitude": -93.7406
+},
+{
+	"City": "Egypt",
+	"State": "AR",
+	"latitude": 35.8676,
+	"longitude": -90.9457
+},
+{
+	"City": "Antoine",
+	"State": "AR",
+	"latitude": 34.0343,
+	"longitude": -93.4226
+},
+{
+	"City": "Minturn",
+	"State": "AR",
+	"latitude": 35.9766,
+	"longitude": -91.0272
+},
+{
+	"City": "Pindall",
+	"State": "AR",
+	"latitude": 36.0637,
+	"longitude": -92.8622
+},
+{
+	"City": "Big Flat",
+	"State": "AR",
+	"latitude": 36.0056,
+	"longitude": -92.4066
+},
+{
+	"City": "Jericho",
+	"State": "AR",
+	"latitude": 35.2856,
+	"longitude": -90.2293
+},
+{
+	"City": "Zinc",
+	"State": "AR",
+	"latitude": 36.2836,
+	"longitude": -92.9147
+},
+{
+	"City": "Lonsdale",
+	"State": "AR",
+	"latitude": 34.545,
+	"longitude": -92.8106
+},
+{
+	"City": "South Lead Hill",
+	"State": "AR",
+	"latitude": 36.3948,
+	"longitude": -92.9057
+},
+{
+	"City": "Springtown",
+	"State": "AR",
+	"latitude": 36.2605,
+	"longitude": -94.4241
+},
+{
+	"City": "McCaskill",
+	"State": "AR",
+	"latitude": 33.9187,
+	"longitude": -93.6416
+},
+{
+	"City": "Beedeville",
+	"State": "AR",
+	"latitude": 35.4292,
+	"longitude": -91.1107
+},
+{
+	"City": "Roe",
+	"State": "AR",
+	"latitude": 34.6311,
+	"longitude": -91.386
+},
+{
+	"City": "Beaver",
+	"State": "AR",
+	"latitude": 36.4752,
+	"longitude": -93.7727
+},
+{
+	"City": "Hunter",
+	"State": "AR",
+	"latitude": 35.0546,
+	"longitude": -91.1227
+},
+{
+	"City": "Datto",
+	"State": "AR",
+	"latitude": 36.3925,
+	"longitude": -90.7285
+},
+{
+	"City": "Coy",
+	"State": "AR",
+	"latitude": 34.5405,
+	"longitude": -91.8713
+},
+{
+	"City": "Black Springs",
+	"State": "AR",
+	"latitude": 34.4607,
+	"longitude": -93.7123
+},
+{
+	"City": "Amagon",
+	"State": "AR",
+	"latitude": 35.5632,
+	"longitude": -91.1094
+},
+{
+	"City": "Vandervoort",
+	"State": "AR",
+	"latitude": 34.38,
+	"longitude": -94.3641
+},
+{
+	"City": "Whelen Springs",
+	"State": "AR",
+	"latitude": 33.8331,
+	"longitude": -93.1259
+},
+{
+	"City": "Guion",
+	"State": "AR",
+	"latitude": 35.9269,
+	"longitude": -91.939
+},
+{
+	"City": "Ozan",
+	"State": "AR",
+	"latitude": 33.848,
+	"longitude": -93.7203
+},
+{
+	"City": "Williford",
+	"State": "AR",
+	"latitude": 36.2517,
+	"longitude": -91.3604
+},
+{
+	"City": "Fargo",
+	"State": "AR",
+	"latitude": 34.9537,
+	"longitude": -91.1764
+},
+{
+	"City": "Morrison Bluff",
+	"State": "AR",
+	"latitude": 35.3828,
+	"longitude": -93.5228
+},
+{
+	"City": "Sherrill",
+	"State": "AR",
+	"latitude": 34.385,
+	"longitude": -91.9517
+},
+{
+	"City": "Marie",
+	"State": "AR",
+	"latitude": 35.613,
+	"longitude": -90.0829
+},
+{
+	"City": "LaGrange",
+	"State": "AR",
+	"latitude": 34.6554,
+	"longitude": -90.735
+},
+{
+	"City": "Cale",
+	"State": "AR",
+	"latitude": 33.6279,
+	"longitude": -93.2348
+},
+{
+	"City": "Smithville",
+	"State": "AR",
+	"latitude": 36.0799,
+	"longitude": -91.3027
+},
+{
+	"City": "Weldon",
+	"State": "AR",
+	"latitude": 35.4481,
+	"longitude": -91.2315
+},
+{
+	"City": "Corinth",
+	"State": "AR",
+	"latitude": 35.0693,
+	"longitude": -93.4235
+},
+{
+	"City": "McNab",
+	"State": "AR",
+	"latitude": 33.6609,
+	"longitude": -93.8323
+},
+{
+	"City": "Hindsville",
+	"State": "AR",
+	"latitude": 36.1458,
+	"longitude": -93.8627
+},
+{
+	"City": "Nimmons",
+	"State": "AR",
+	"latitude": 36.3062,
+	"longitude": -90.0951
+},
+{
+	"City": "Fourche",
+	"State": "AR",
+	"latitude": 34.9933,
+	"longitude": -92.6189
+},
+{
+	"City": "Powhatan",
+	"State": "AR",
+	"latitude": 36.0841,
+	"longitude": -91.1202
+},
+{
+	"City": "New Blaine",
+	"State": "AR",
+	"latitude": 35.2929,
+	"longitude": -93.4202
+},
+{
+	"City": "Patmos",
+	"State": "AR",
+	"latitude": 33.5112,
+	"longitude": -93.5679
+},
+{
+	"City": "Oakhaven",
+	"State": "AR",
+	"latitude": 33.7294,
+	"longitude": -93.6209
+},
+{
+	"City": "Waldenburg",
+	"State": "AR",
+	"latitude": 35.5653,
+	"longitude": -90.9346
+},
+{
+	"City": "Hensley",
+	"State": "AR",
+	"latitude": 34.5068,
+	"longitude": -92.2069
+},
+{
+	"City": "Cherokee City",
+	"State": "AR",
+	"latitude": 36.2947,
+	"longitude": -94.5769
+},
+{
+	"City": "Wiederkehr Village",
+	"State": "AR",
+	"latitude": 35.4813,
+	"longitude": -93.7578
+},
+{
+	"City": "Tinsman",
+	"State": "AR",
+	"latitude": 33.6291,
+	"longitude": -92.3533
+},
+{
+	"City": "Birdsong",
+	"State": "AR",
+	"latitude": 35.4612,
+	"longitude": -90.2597
+},
+{
+	"City": "Hagarville",
+	"State": "AR",
+	"latitude": 35.5151,
+	"longitude": -93.3335
+},
+{
+	"City": "Blue Eye",
+	"State": "AR",
+	"latitude": 36.4966,
+	"longitude": -93.3977
+},
+{
+	"City": "Jerome",
+	"State": "AR",
+	"latitude": 33.3988,
+	"longitude": -91.4697
+},
+{
+	"City": "Victoria",
+	"State": "AR",
+	"latitude": 35.7574,
+	"longitude": -90.0602
+},
+{
+	"City": "Gilbert",
+	"State": "AR",
+	"latitude": 35.9905,
+	"longitude": -92.7166
+},
+{
+	"City": "Scott",
+	"State": "AR",
+	"latitude": 34.6966,
+	"longitude": -92.0938
+}]

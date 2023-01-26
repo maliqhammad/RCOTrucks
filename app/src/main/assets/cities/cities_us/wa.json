@@ -1,0 +1,3655 @@
+[
+{
+	"City": "Seattle",
+	"State": "WA",
+	"latitude": 47.6211,
+	"longitude": -122.3244
+},
+{
+	"City": "Spokane",
+	"State": "WA",
+	"latitude": 47.6671,
+	"longitude": -117.433
+},
+{
+	"City": "Kennewick",
+	"State": "WA",
+	"latitude": 46.1978,
+	"longitude": -119.1732
+},
+{
+	"City": "Bremerton",
+	"State": "WA",
+	"latitude": 47.5436,
+	"longitude": -122.7122
+},
+{
+	"City": "Tacoma",
+	"State": "WA",
+	"latitude": 47.2431,
+	"longitude": -122.4531
+},
+{
+	"City": "Olympia",
+	"State": "WA",
+	"latitude": 47.0417,
+	"longitude": -122.8959
+},
+{
+	"City": "Vancouver",
+	"State": "WA",
+	"latitude": 45.6366,
+	"longitude": -122.5967
+},
+{
+	"City": "Marysville",
+	"State": "WA",
+	"latitude": 48.0809,
+	"longitude": -122.1561
+},
+{
+	"City": "Bellevue",
+	"State": "WA",
+	"latitude": 47.5951,
+	"longitude": -122.1535
+},
+{
+	"City": "Yakima",
+	"State": "WA",
+	"latitude": 46.5923,
+	"longitude": -120.5496
+},
+{
+	"City": "Kent",
+	"State": "WA",
+	"latitude": 47.3887,
+	"longitude": -122.2129
+},
+{
+	"City": "Bellingham",
+	"State": "WA",
+	"latitude": 48.7543,
+	"longitude": -122.4687
+},
+{
+	"City": "Everett",
+	"State": "WA",
+	"latitude": 47.9525,
+	"longitude": -122.1669
+},
+{
+	"City": "Renton",
+	"State": "WA",
+	"latitude": 47.4784,
+	"longitude": -122.1919
+},
+{
+	"City": "Spokane Valley",
+	"State": "WA",
+	"latitude": 47.6626,
+	"longitude": -117.2346
+},
+{
+	"City": "Federal Way",
+	"State": "WA",
+	"latitude": 47.3091,
+	"longitude": -122.3358
+},
+{
+	"City": "Kirkland",
+	"State": "WA",
+	"latitude": 47.6974,
+	"longitude": -122.2054
+},
+{
+	"City": "Auburn",
+	"State": "WA",
+	"latitude": 47.3039,
+	"longitude": -122.2108
+},
+{
+	"City": "Pasco",
+	"State": "WA",
+	"latitude": 46.2506,
+	"longitude": -119.1304
+},
+{
+	"City": "Wenatchee",
+	"State": "WA",
+	"latitude": 47.4356,
+	"longitude": -120.3283
+},
+{
+	"City": "Redmond",
+	"State": "WA",
+	"latitude": 47.6762,
+	"longitude": -122.1169
+},
+{
+	"City": "Mount Vernon",
+	"State": "WA",
+	"latitude": 48.4202,
+	"longitude": -122.3115
+},
+{
+	"City": "Longview",
+	"State": "WA",
+	"latitude": 46.1461,
+	"longitude": -122.9629
+},
+{
+	"City": "Sammamish",
+	"State": "WA",
+	"latitude": 47.6017,
+	"longitude": -122.0416
+},
+{
+	"City": "Lakewood",
+	"State": "WA",
+	"latitude": 47.1628,
+	"longitude": -122.5299
+},
+{
+	"City": "South Hill",
+	"State": "WA",
+	"latitude": 47.1203,
+	"longitude": -122.2848
+},
+{
+	"City": "Richland",
+	"State": "WA",
+	"latitude": 46.2824,
+	"longitude": -119.2938
+},
+{
+	"City": "Walla Walla",
+	"State": "WA",
+	"latitude": 46.067,
+	"longitude": -118.3366
+},
+{
+	"City": "Shoreline",
+	"State": "WA",
+	"latitude": 47.7564,
+	"longitude": -122.3426
+},
+{
+	"City": "Lacey",
+	"State": "WA",
+	"latitude": 47.046,
+	"longitude": -122.7934
+},
+{
+	"City": "Burien",
+	"State": "WA",
+	"latitude": 47.4762,
+	"longitude": -122.3394
+},
+{
+	"City": "Bothell",
+	"State": "WA",
+	"latitude": 47.7735,
+	"longitude": -122.2044
+},
+{
+	"City": "Centralia",
+	"State": "WA",
+	"latitude": 46.7226,
+	"longitude": -122.9696
+},
+{
+	"City": "Edmonds",
+	"State": "WA",
+	"latitude": 47.8115,
+	"longitude": -122.3533
+},
+{
+	"City": "Puyallup",
+	"State": "WA",
+	"latitude": 47.1794,
+	"longitude": -122.2902
+},
+{
+	"City": "Issaquah",
+	"State": "WA",
+	"latitude": 47.544,
+	"longitude": -122.0471
+},
+{
+	"City": "Lynnwood",
+	"State": "WA",
+	"latitude": 47.8284,
+	"longitude": -122.3033
+},
+{
+	"City": "Moses Lake",
+	"State": "WA",
+	"latitude": 47.128,
+	"longitude": -119.2761
+},
+{
+	"City": "Parkland",
+	"State": "WA",
+	"latitude": 47.1417,
+	"longitude": -122.4376
+},
+{
+	"City": "Oak Harbor",
+	"State": "WA",
+	"latitude": 48.2965,
+	"longitude": -122.6333
+},
+{
+	"City": "Pullman",
+	"State": "WA",
+	"latitude": 46.734,
+	"longitude": -117.1669
+},
+{
+	"City": "University Place",
+	"State": "WA",
+	"latitude": 47.2147,
+	"longitude": -122.5461
+},
+{
+	"City": "Lake Stevens",
+	"State": "WA",
+	"latitude": 48.0028,
+	"longitude": -122.096
+},
+{
+	"City": "Spanaway",
+	"State": "WA",
+	"latitude": 47.0979,
+	"longitude": -122.4233
+},
+{
+	"City": "Des Moines",
+	"State": "WA",
+	"latitude": 47.3915,
+	"longitude": -122.3157
+},
+{
+	"City": "Aberdeen",
+	"State": "WA",
+	"latitude": 46.9757,
+	"longitude": -123.8094
+},
+{
+	"City": "SeaTac",
+	"State": "WA",
+	"latitude": 47.4444,
+	"longitude": -122.2986
+},
+{
+	"City": "Graham",
+	"State": "WA",
+	"latitude": 47.0407,
+	"longitude": -122.2756
+},
+{
+	"City": "Maple Valley",
+	"State": "WA",
+	"latitude": 47.3659,
+	"longitude": -122.0368
+},
+{
+	"City": "Snoqualmie",
+	"State": "WA",
+	"latitude": 47.5293,
+	"longitude": -121.8412
+},
+{
+	"City": "Mercer Island",
+	"State": "WA",
+	"latitude": 47.5661,
+	"longitude": -122.232
+},
+{
+	"City": "Bainbridge Island",
+	"State": "WA",
+	"latitude": 47.6439,
+	"longitude": -122.5434
+},
+{
+	"City": "Camas",
+	"State": "WA",
+	"latitude": 45.6005,
+	"longitude": -122.4305
+},
+{
+	"City": "Ellensburg",
+	"State": "WA",
+	"latitude": 46.9994,
+	"longitude": -120.5477
+},
+{
+	"City": "Orchards",
+	"State": "WA",
+	"latitude": 45.689,
+	"longitude": -122.5306
+},
+{
+	"City": "Port Angeles",
+	"State": "WA",
+	"latitude": 48.1142,
+	"longitude": -123.4565
+},
+{
+	"City": "Mill Creek East",
+	"State": "WA",
+	"latitude": 47.836,
+	"longitude": -122.1877
+},
+{
+	"City": "Tumwater",
+	"State": "WA",
+	"latitude": 46.989,
+	"longitude": -122.9173
+},
+{
+	"City": "North Lynnwood",
+	"State": "WA",
+	"latitude": 47.8533,
+	"longitude": -122.2762
+},
+{
+	"City": "Kenmore",
+	"State": "WA",
+	"latitude": 47.7516,
+	"longitude": -122.2489
+},
+{
+	"City": "Frederickson",
+	"State": "WA",
+	"latitude": 47.0914,
+	"longitude": -122.3594
+},
+{
+	"City": "Cottage Lake",
+	"State": "WA",
+	"latitude": 47.7466,
+	"longitude": -122.0755
+},
+{
+	"City": "Silver Firs",
+	"State": "WA",
+	"latitude": 47.8635,
+	"longitude": -122.1497
+},
+{
+	"City": "Sequim",
+	"State": "WA",
+	"latitude": 48.0746,
+	"longitude": -123.0944
+},
+{
+	"City": "Union Hill-Novelty Hill",
+	"State": "WA",
+	"latitude": 47.6788,
+	"longitude": -122.0284
+},
+{
+	"City": "Eastmont",
+	"State": "WA",
+	"latitude": 47.8968,
+	"longitude": -122.1817
+},
+{
+	"City": "Silverdale",
+	"State": "WA",
+	"latitude": 47.6663,
+	"longitude": -122.6828
+},
+{
+	"City": "Mukilteo",
+	"State": "WA",
+	"latitude": 47.9096,
+	"longitude": -122.3035
+},
+{
+	"City": "Mountlake Terrace",
+	"State": "WA",
+	"latitude": 47.7921,
+	"longitude": -122.3076
+},
+{
+	"City": "Battle Ground",
+	"State": "WA",
+	"latitude": 45.7765,
+	"longitude": -122.5413
+},
+{
+	"City": "Hazel Dell",
+	"State": "WA",
+	"latitude": 45.6797,
+	"longitude": -122.6553
+},
+{
+	"City": "Covington",
+	"State": "WA",
+	"latitude": 47.3668,
+	"longitude": -122.1044
+},
+{
+	"City": "Bonney Lake",
+	"State": "WA",
+	"latitude": 47.1791,
+	"longitude": -122.17
+},
+{
+	"City": "Martha Lake",
+	"State": "WA",
+	"latitude": 47.8479,
+	"longitude": -122.2327
+},
+{
+	"City": "Bothell West",
+	"State": "WA",
+	"latitude": 47.8056,
+	"longitude": -122.2401
+},
+{
+	"City": "Salmon Creek",
+	"State": "WA",
+	"latitude": 45.7099,
+	"longitude": -122.6632
+},
+{
+	"City": "Mill Creek",
+	"State": "WA",
+	"latitude": 47.8631,
+	"longitude": -122.2037
+},
+{
+	"City": "Arlington",
+	"State": "WA",
+	"latitude": 48.1698,
+	"longitude": -122.1443
+},
+{
+	"City": "Tukwila",
+	"State": "WA",
+	"latitude": 47.4749,
+	"longitude": -122.2727
+},
+{
+	"City": "Shelton",
+	"State": "WA",
+	"latitude": 47.2186,
+	"longitude": -123.112
+},
+{
+	"City": "Fairwood",
+	"State": "WA",
+	"latitude": 47.4467,
+	"longitude": -122.143
+},
+{
+	"City": "Monroe",
+	"State": "WA",
+	"latitude": 47.8595,
+	"longitude": -121.9852
+},
+{
+	"City": "Five Corners",
+	"State": "WA",
+	"latitude": 45.6883,
+	"longitude": -122.5738
+},
+{
+	"City": "Grandview",
+	"State": "WA",
+	"latitude": 46.2444,
+	"longitude": -119.9091
+},
+{
+	"City": "Anacortes",
+	"State": "WA",
+	"latitude": 48.4878,
+	"longitude": -122.6292
+},
+{
+	"City": "Lynden",
+	"State": "WA",
+	"latitude": 48.9502,
+	"longitude": -122.4545
+},
+{
+	"City": "Bryn Mawr-Skyway",
+	"State": "WA",
+	"latitude": 47.4949,
+	"longitude": -122.2411
+},
+{
+	"City": "Sunnyside",
+	"State": "WA",
+	"latitude": 46.3158,
+	"longitude": -120.0059
+},
+{
+	"City": "Yelm",
+	"State": "WA",
+	"latitude": 46.9398,
+	"longitude": -122.6261
+},
+{
+	"City": "Camano",
+	"State": "WA",
+	"latitude": 48.1865,
+	"longitude": -122.4708
+},
+{
+	"City": "Washougal",
+	"State": "WA",
+	"latitude": 45.5822,
+	"longitude": -122.3448
+},
+{
+	"City": "White Center",
+	"State": "WA",
+	"latitude": 47.5086,
+	"longitude": -122.348
+},
+{
+	"City": "Elk Plain",
+	"State": "WA",
+	"latitude": 47.0448,
+	"longitude": -122.3671
+},
+{
+	"City": "West Richland",
+	"State": "WA",
+	"latitude": 46.3115,
+	"longitude": -119.3998
+},
+{
+	"City": "Ferndale",
+	"State": "WA",
+	"latitude": 48.8525,
+	"longitude": -122.5893
+},
+{
+	"City": "Port Orchard",
+	"State": "WA",
+	"latitude": 47.5163,
+	"longitude": -122.661
+},
+{
+	"City": "Toppenish",
+	"State": "WA",
+	"latitude": 46.3806,
+	"longitude": -120.3123
+},
+{
+	"City": "East Wenatchee",
+	"State": "WA",
+	"latitude": 47.4174,
+	"longitude": -120.2822
+},
+{
+	"City": "Lake Forest Park",
+	"State": "WA",
+	"latitude": 47.7574,
+	"longitude": -122.2865
+},
+{
+	"City": "Lakeland South",
+	"State": "WA",
+	"latitude": 47.2784,
+	"longitude": -122.283
+},
+{
+	"City": "Artondale",
+	"State": "WA",
+	"latitude": 47.3024,
+	"longitude": -122.6391
+},
+{
+	"City": "Woodinville",
+	"State": "WA",
+	"latitude": 47.7569,
+	"longitude": -122.1478
+},
+{
+	"City": "Fort Lewis",
+	"State": "WA",
+	"latitude": 47.0955,
+	"longitude": -122.5672
+},
+{
+	"City": "Edgewood",
+	"State": "WA",
+	"latitude": 47.2309,
+	"longitude": -122.2832
+},
+{
+	"City": "Lakeland North",
+	"State": "WA",
+	"latitude": 47.3374,
+	"longitude": -122.2812
+},
+{
+	"City": "Lake Tapps",
+	"State": "WA",
+	"latitude": 47.2307,
+	"longitude": -122.1694
+},
+{
+	"City": "Othello",
+	"State": "WA",
+	"latitude": 46.8221,
+	"longitude": -119.1652
+},
+{
+	"City": "Cheney",
+	"State": "WA",
+	"latitude": 47.4901,
+	"longitude": -117.579
+},
+{
+	"City": "Kelso",
+	"State": "WA",
+	"latitude": 46.1236,
+	"longitude": -122.891
+},
+{
+	"City": "Minnehaha",
+	"State": "WA",
+	"latitude": 45.6577,
+	"longitude": -122.6204
+},
+{
+	"City": "Newcastle",
+	"State": "WA",
+	"latitude": 47.5303,
+	"longitude": -122.1633
+},
+{
+	"City": "Enumclaw",
+	"State": "WA",
+	"latitude": 47.2017,
+	"longitude": -121.9897
+},
+{
+	"City": "Sedro-Woolley",
+	"State": "WA",
+	"latitude": 48.5112,
+	"longitude": -122.2321
+},
+{
+	"City": "Prairie Ridge",
+	"State": "WA",
+	"latitude": 47.1443,
+	"longitude": -122.1408
+},
+{
+	"City": "Maltby",
+	"State": "WA",
+	"latitude": 47.8027,
+	"longitude": -122.1044
+},
+{
+	"City": "East Renton Highlands",
+	"State": "WA",
+	"latitude": 47.4718,
+	"longitude": -122.0854
+},
+{
+	"City": "Bothell East",
+	"State": "WA",
+	"latitude": 47.8064,
+	"longitude": -122.1845
+},
+{
+	"City": "Poulsbo",
+	"State": "WA",
+	"latitude": 47.7417,
+	"longitude": -122.6407
+},
+{
+	"City": "Lake Morton-Berrydale",
+	"State": "WA",
+	"latitude": 47.3325,
+	"longitude": -122.1032
+},
+{
+	"City": "Liberty Lake",
+	"State": "WA",
+	"latitude": 47.6687,
+	"longitude": -117.1032
+},
+{
+	"City": "Gig Harbor",
+	"State": "WA",
+	"latitude": 47.3353,
+	"longitude": -122.5964
+},
+{
+	"City": "Sumner",
+	"State": "WA",
+	"latitude": 47.2189,
+	"longitude": -122.2338
+},
+{
+	"City": "Vashon",
+	"State": "WA",
+	"latitude": 47.4122,
+	"longitude": -122.4726
+},
+{
+	"City": "Lake Stickney",
+	"State": "WA",
+	"latitude": 47.8709,
+	"longitude": -122.2596
+},
+{
+	"City": "Fife",
+	"State": "WA",
+	"latitude": 47.2328,
+	"longitude": -122.3518
+},
+{
+	"City": "Snohomish",
+	"State": "WA",
+	"latitude": 47.9276,
+	"longitude": -122.0968
+},
+{
+	"City": "Midland",
+	"State": "WA",
+	"latitude": 47.1734,
+	"longitude": -122.412
+},
+{
+	"City": "Port Townsend",
+	"State": "WA",
+	"latitude": 48.122,
+	"longitude": -122.7872
+},
+{
+	"City": "Alderwood Manor",
+	"State": "WA",
+	"latitude": 47.8147,
+	"longitude": -122.2672
+},
+{
+	"City": "Mount Vista",
+	"State": "WA",
+	"latitude": 45.7373,
+	"longitude": -122.6315
+},
+{
+	"City": "DuPont",
+	"State": "WA",
+	"latitude": 47.1079,
+	"longitude": -122.6496
+},
+{
+	"City": "Airway Heights",
+	"State": "WA",
+	"latitude": 47.646,
+	"longitude": -117.5792
+},
+{
+	"City": "Birch Bay",
+	"State": "WA",
+	"latitude": 48.923,
+	"longitude": -122.7543
+},
+{
+	"City": "College Place",
+	"State": "WA",
+	"latitude": 46.0419,
+	"longitude": -118.3879
+},
+{
+	"City": "Sultan",
+	"State": "WA",
+	"latitude": 47.871,
+	"longitude": -121.8043
+},
+{
+	"City": "Burlington",
+	"State": "WA",
+	"latitude": 48.4676,
+	"longitude": -122.3298
+},
+{
+	"City": "Ridgefield",
+	"State": "WA",
+	"latitude": 45.8114,
+	"longitude": -122.705
+},
+{
+	"City": "Picnic Point",
+	"State": "WA",
+	"latitude": 47.8744,
+	"longitude": -122.3078
+},
+{
+	"City": "Felida",
+	"State": "WA",
+	"latitude": 45.7138,
+	"longitude": -122.7104
+},
+{
+	"City": "Summit",
+	"State": "WA",
+	"latitude": 47.1694,
+	"longitude": -122.3628
+},
+{
+	"City": "Montesano",
+	"State": "WA",
+	"latitude": 47.0102,
+	"longitude": -123.5857
+},
+{
+	"City": "Hoquiam",
+	"State": "WA",
+	"latitude": 46.9863,
+	"longitude": -123.9022
+},
+{
+	"City": "Orting",
+	"State": "WA",
+	"latitude": 47.0966,
+	"longitude": -122.2111
+},
+{
+	"City": "Terrace Heights",
+	"State": "WA",
+	"latitude": 46.6024,
+	"longitude": -120.4482
+},
+{
+	"City": "Summit View",
+	"State": "WA",
+	"latitude": 47.1343,
+	"longitude": -122.3468
+},
+{
+	"City": "Quincy",
+	"State": "WA",
+	"latitude": 47.2344,
+	"longitude": -119.8531
+},
+{
+	"City": "Milton",
+	"State": "WA",
+	"latitude": 47.2522,
+	"longitude": -122.3156
+},
+{
+	"City": "Ephrata",
+	"State": "WA",
+	"latitude": 47.3122,
+	"longitude": -119.534
+},
+{
+	"City": "Omak",
+	"State": "WA",
+	"latitude": 48.4228,
+	"longitude": -119.5159
+},
+{
+	"City": "Duvall",
+	"State": "WA",
+	"latitude": 47.7354,
+	"longitude": -121.9726
+},
+{
+	"City": "Selah",
+	"State": "WA",
+	"latitude": 46.6482,
+	"longitude": -120.539
+},
+{
+	"City": "Sudden Valley",
+	"State": "WA",
+	"latitude": 48.7199,
+	"longitude": -122.3468
+},
+{
+	"City": "Granite Falls",
+	"State": "WA",
+	"latitude": 48.0874,
+	"longitude": -121.9706
+},
+{
+	"City": "Chehalis",
+	"State": "WA",
+	"latitude": 46.6638,
+	"longitude": -122.965
+},
+{
+	"City": "Waller",
+	"State": "WA",
+	"latitude": 47.2035,
+	"longitude": -122.3699
+},
+{
+	"City": "Wapato",
+	"State": "WA",
+	"latitude": 46.4435,
+	"longitude": -120.4215
+},
+{
+	"City": "Lake Shore",
+	"State": "WA",
+	"latitude": 45.6911,
+	"longitude": -122.6911
+},
+{
+	"City": "North Bend",
+	"State": "WA",
+	"latitude": 47.49,
+	"longitude": -121.7742
+},
+{
+	"City": "Clarkston",
+	"State": "WA",
+	"latitude": 46.4161,
+	"longitude": -117.0505
+},
+{
+	"City": "Stanwood",
+	"State": "WA",
+	"latitude": 48.2449,
+	"longitude": -122.3425
+},
+{
+	"City": "Tanglewilde",
+	"State": "WA",
+	"latitude": 47.0512,
+	"longitude": -122.781
+},
+{
+	"City": "Hobart",
+	"State": "WA",
+	"latitude": 47.412,
+	"longitude": -121.996
+},
+{
+	"City": "Pacific",
+	"State": "WA",
+	"latitude": 47.261,
+	"longitude": -122.2507
+},
+{
+	"City": "Mead",
+	"State": "WA",
+	"latitude": 47.7795,
+	"longitude": -117.35
+},
+{
+	"City": "Parkwood",
+	"State": "WA",
+	"latitude": 47.5266,
+	"longitude": -122.5986
+},
+{
+	"City": "Barberton",
+	"State": "WA",
+	"latitude": 45.7136,
+	"longitude": -122.6115
+},
+{
+	"City": "Brier",
+	"State": "WA",
+	"latitude": 47.7924,
+	"longitude": -122.2734
+},
+{
+	"City": "Woodland",
+	"State": "WA",
+	"latitude": 45.9145,
+	"longitude": -122.7506
+},
+{
+	"City": "Fircrest",
+	"State": "WA",
+	"latitude": 47.2307,
+	"longitude": -122.5157
+},
+{
+	"City": "Clover Creek",
+	"State": "WA",
+	"latitude": 47.1404,
+	"longitude": -122.3827
+},
+{
+	"City": "Normandy Park",
+	"State": "WA",
+	"latitude": 47.4343,
+	"longitude": -122.3436
+},
+{
+	"City": "Bangor Base",
+	"State": "WA",
+	"latitude": 47.7227,
+	"longitude": -122.7146
+},
+{
+	"City": "Ocean Shores",
+	"State": "WA",
+	"latitude": 46.9685,
+	"longitude": -124.1521
+},
+{
+	"City": "Otis Orchards-East Farms",
+	"State": "WA",
+	"latitude": 47.703,
+	"longitude": -117.0854
+},
+{
+	"City": "Steilacoom",
+	"State": "WA",
+	"latitude": 47.1703,
+	"longitude": -122.5934
+},
+{
+	"City": "Prosser",
+	"State": "WA",
+	"latitude": 46.2068,
+	"longitude": -119.7662
+},
+{
+	"City": "Wollochet",
+	"State": "WA",
+	"latitude": 47.2828,
+	"longitude": -122.5769
+},
+{
+	"City": "North Fort Lewis",
+	"State": "WA",
+	"latitude": 47.122,
+	"longitude": -122.5966
+},
+{
+	"City": "Clarkston Heights-Vineland",
+	"State": "WA",
+	"latitude": 46.3876,
+	"longitude": -117.0831
+},
+{
+	"City": "Chelan",
+	"State": "WA",
+	"latitude": 47.8414,
+	"longitude": -120.0263
+},
+{
+	"City": "Union Gap",
+	"State": "WA",
+	"latitude": 46.5566,
+	"longitude": -120.4977
+},
+{
+	"City": "Country Homes",
+	"State": "WA",
+	"latitude": 47.7478,
+	"longitude": -117.4196
+},
+{
+	"City": "Finley",
+	"State": "WA",
+	"latitude": 46.1697,
+	"longitude": -119.0446
+},
+{
+	"City": "West Clarkston-Highland",
+	"State": "WA",
+	"latitude": 46.4022,
+	"longitude": -117.0628
+},
+{
+	"City": "Woods Creek",
+	"State": "WA",
+	"latitude": 47.8821,
+	"longitude": -121.8982
+},
+{
+	"City": "Manchester",
+	"State": "WA",
+	"latitude": 47.5519,
+	"longitude": -122.5517
+},
+{
+	"City": "Blaine",
+	"State": "WA",
+	"latitude": 48.9839,
+	"longitude": -122.7414
+},
+{
+	"City": "Tracyton",
+	"State": "WA",
+	"latitude": 47.6095,
+	"longitude": -122.6533
+},
+{
+	"City": "Connell",
+	"State": "WA",
+	"latitude": 46.6622,
+	"longitude": -118.8404
+},
+{
+	"City": "East Port Orchard",
+	"State": "WA",
+	"latitude": 47.5193,
+	"longitude": -122.6183
+},
+{
+	"City": "Cavalero",
+	"State": "WA",
+	"latitude": 47.9846,
+	"longitude": -122.0743
+},
+{
+	"City": "Hockinson",
+	"State": "WA",
+	"latitude": 45.7302,
+	"longitude": -122.4833
+},
+{
+	"City": "Mattawa",
+	"State": "WA",
+	"latitude": 46.737,
+	"longitude": -119.904
+},
+{
+	"City": "Colville",
+	"State": "WA",
+	"latitude": 48.5454,
+	"longitude": -117.8986
+},
+{
+	"City": "Town and Country",
+	"State": "WA",
+	"latitude": 47.7259,
+	"longitude": -117.422
+},
+{
+	"City": "Maplewood",
+	"State": "WA",
+	"latitude": 47.3716,
+	"longitude": -122.5689
+},
+{
+	"City": "Buckley",
+	"State": "WA",
+	"latitude": 47.1615,
+	"longitude": -122.02
+},
+{
+	"City": "Medical Lake",
+	"State": "WA",
+	"latitude": 47.5712,
+	"longitude": -117.6893
+},
+{
+	"City": "Everson",
+	"State": "WA",
+	"latitude": 48.9123,
+	"longitude": -122.351
+},
+{
+	"City": "Cashmere",
+	"State": "WA",
+	"latitude": 47.5177,
+	"longitude": -120.4673
+},
+{
+	"City": "Black Diamond",
+	"State": "WA",
+	"latitude": 47.313,
+	"longitude": -122.0181
+},
+{
+	"City": "Benton City",
+	"State": "WA",
+	"latitude": 46.2623,
+	"longitude": -119.4812
+},
+{
+	"City": "Belfair",
+	"State": "WA",
+	"latitude": 47.4495,
+	"longitude": -122.8487
+},
+{
+	"City": "Moses Lake North",
+	"State": "WA",
+	"latitude": 47.195,
+	"longitude": -119.3185
+},
+{
+	"City": "Chain Lake",
+	"State": "WA",
+	"latitude": 47.9038,
+	"longitude": -121.9861
+},
+{
+	"City": "Rosedale",
+	"State": "WA",
+	"latitude": 47.3453,
+	"longitude": -122.6368
+},
+{
+	"City": "Suquamish",
+	"State": "WA",
+	"latitude": 47.7237,
+	"longitude": -122.583
+},
+{
+	"City": "Deer Park",
+	"State": "WA",
+	"latitude": 47.9642,
+	"longitude": -117.4398
+},
+{
+	"City": "Forks",
+	"State": "WA",
+	"latitude": 47.9528,
+	"longitude": -124.3904
+},
+{
+	"City": "Wauna",
+	"State": "WA",
+	"latitude": 47.386,
+	"longitude": -122.6694
+},
+{
+	"City": "Raymond",
+	"State": "WA",
+	"latitude": 46.6839,
+	"longitude": -123.738
+},
+{
+	"City": "Venersborg",
+	"State": "WA",
+	"latitude": 45.786,
+	"longitude": -122.4721
+},
+{
+	"City": "Esperance",
+	"State": "WA",
+	"latitude": 47.7937,
+	"longitude": -122.3469
+},
+{
+	"City": "Prairie Heights",
+	"State": "WA",
+	"latitude": 47.1529,
+	"longitude": -122.1048
+},
+{
+	"City": "Peaceful Valley",
+	"State": "WA",
+	"latitude": 48.9477,
+	"longitude": -122.1406
+},
+{
+	"City": "Moxee",
+	"State": "WA",
+	"latitude": 46.564,
+	"longitude": -120.3966
+},
+{
+	"City": "Marietta-Alderwood",
+	"State": "WA",
+	"latitude": 48.7932,
+	"longitude": -122.5566
+},
+{
+	"City": "Longbranch",
+	"State": "WA",
+	"latitude": 47.2257,
+	"longitude": -122.7739
+},
+{
+	"City": "Kalama",
+	"State": "WA",
+	"latitude": 46.0164,
+	"longitude": -122.8402
+},
+{
+	"City": "Bunk Foss",
+	"State": "WA",
+	"latitude": 47.9617,
+	"longitude": -122.0944
+},
+{
+	"City": "Fox Island",
+	"State": "WA",
+	"latitude": 47.2475,
+	"longitude": -122.6255
+},
+{
+	"City": "Cle Elum",
+	"State": "WA",
+	"latitude": 47.1943,
+	"longitude": -120.9539
+},
+{
+	"City": "Bethel",
+	"State": "WA",
+	"latitude": 47.4874,
+	"longitude": -122.6175
+},
+{
+	"City": "Larch Way",
+	"State": "WA",
+	"latitude": 47.8429,
+	"longitude": -122.2528
+},
+{
+	"City": "Granger",
+	"State": "WA",
+	"latitude": 46.3455,
+	"longitude": -120.1926
+},
+{
+	"City": "Key Center",
+	"State": "WA",
+	"latitude": 47.3376,
+	"longitude": -122.7505
+},
+{
+	"City": "Longview Heights",
+	"State": "WA",
+	"latitude": 46.1797,
+	"longitude": -122.9578
+},
+{
+	"City": "Mirrormont",
+	"State": "WA",
+	"latitude": 47.4616,
+	"longitude": -121.9936
+},
+{
+	"City": "Lake Goodwin",
+	"State": "WA",
+	"latitude": 48.1387,
+	"longitude": -122.2804
+},
+{
+	"City": "Boulevard Park",
+	"State": "WA",
+	"latitude": 47.5136,
+	"longitude": -122.316
+},
+{
+	"City": "Sunnyslope",
+	"State": "WA",
+	"latitude": 47.4913,
+	"longitude": -120.3492
+},
+{
+	"City": "Maple Heights-Lake Desire",
+	"State": "WA",
+	"latitude": 47.4441,
+	"longitude": -122.0973
+},
+{
+	"City": "Clearview",
+	"State": "WA",
+	"latitude": 47.8292,
+	"longitude": -122.1452
+},
+{
+	"City": "Lake Cassidy",
+	"State": "WA",
+	"latitude": 48.0639,
+	"longitude": -122.092
+},
+{
+	"City": "Indianola",
+	"State": "WA",
+	"latitude": 47.7566,
+	"longitude": -122.5142
+},
+{
+	"City": "La Conner",
+	"State": "WA",
+	"latitude": 48.3927,
+	"longitude": -122.4944
+},
+{
+	"City": "Goldendale",
+	"State": "WA",
+	"latitude": 45.8191,
+	"longitude": -120.8233
+},
+{
+	"City": "Three Lakes",
+	"State": "WA",
+	"latitude": 47.942,
+	"longitude": -121.9924
+},
+{
+	"City": "Canyon Creek",
+	"State": "WA",
+	"latitude": 48.1157,
+	"longitude": -121.9831
+},
+{
+	"City": "Hansville",
+	"State": "WA",
+	"latitude": 47.8978,
+	"longitude": -122.5579
+},
+{
+	"City": "La Center",
+	"State": "WA",
+	"latitude": 45.8595,
+	"longitude": -122.6757
+},
+{
+	"City": "Leavenworth",
+	"State": "WA",
+	"latitude": 47.5948,
+	"longitude": -120.6628
+},
+{
+	"City": "Clyde Hill",
+	"State": "WA",
+	"latitude": 47.6303,
+	"longitude": -122.218
+},
+{
+	"City": "McChord AFB",
+	"State": "WA",
+	"latitude": 47.1328,
+	"longitude": -122.4924
+},
+{
+	"City": "Grand Mound",
+	"State": "WA",
+	"latitude": 46.8053,
+	"longitude": -123.0119
+},
+{
+	"City": "North Yelm",
+	"State": "WA",
+	"latitude": 46.9648,
+	"longitude": -122.603
+},
+{
+	"City": "Burbank",
+	"State": "WA",
+	"latitude": 46.1991,
+	"longitude": -118.9728
+},
+{
+	"City": "Ahtanum",
+	"State": "WA",
+	"latitude": 46.5583,
+	"longitude": -120.611
+},
+{
+	"City": "Elma",
+	"State": "WA",
+	"latitude": 47.0055,
+	"longitude": -123.4112
+},
+{
+	"City": "Fairchild AFB",
+	"State": "WA",
+	"latitude": 47.6186,
+	"longitude": -117.6484
+},
+{
+	"City": "Lake Holm",
+	"State": "WA",
+	"latitude": 47.2986,
+	"longitude": -122.1335
+},
+{
+	"City": "Medina",
+	"State": "WA",
+	"latitude": 47.6273,
+	"longitude": -122.2427
+},
+{
+	"City": "Port Angeles East",
+	"State": "WA",
+	"latitude": 48.1041,
+	"longitude": -123.3695
+},
+{
+	"City": "Port Hadlock-Irondale",
+	"State": "WA",
+	"latitude": 48.0316,
+	"longitude": -122.789
+},
+{
+	"City": "Canterwood",
+	"State": "WA",
+	"latitude": 47.3766,
+	"longitude": -122.6022
+},
+{
+	"City": "Algona",
+	"State": "WA",
+	"latitude": 47.2819,
+	"longitude": -122.2504
+},
+{
+	"City": "Central Park",
+	"State": "WA",
+	"latitude": 46.9705,
+	"longitude": -123.7018
+},
+{
+	"City": "Meadowdale",
+	"State": "WA",
+	"latitude": 47.8583,
+	"longitude": -122.3159
+},
+{
+	"City": "High Bridge",
+	"State": "WA",
+	"latitude": 47.7968,
+	"longitude": -122.0281
+},
+{
+	"City": "Zillah",
+	"State": "WA",
+	"latitude": 46.4084,
+	"longitude": -120.2725
+},
+{
+	"City": "Rochester",
+	"State": "WA",
+	"latitude": 46.8288,
+	"longitude": -123.0722
+},
+{
+	"City": "Eatonville",
+	"State": "WA",
+	"latitude": 46.8681,
+	"longitude": -122.2697
+},
+{
+	"City": "Navy Yard City",
+	"State": "WA",
+	"latitude": 47.5508,
+	"longitude": -122.6655
+},
+{
+	"City": "Fobes Hill",
+	"State": "WA",
+	"latitude": 47.9392,
+	"longitude": -122.1341
+},
+{
+	"City": "Lochsloy",
+	"State": "WA",
+	"latitude": 48.0597,
+	"longitude": -122.0411
+},
+{
+	"City": "Castle Rock",
+	"State": "WA",
+	"latitude": 46.2709,
+	"longitude": -122.9051
+},
+{
+	"City": "Alderton",
+	"State": "WA",
+	"latitude": 47.1718,
+	"longitude": -122.2192
+},
+{
+	"City": "Colfax",
+	"State": "WA",
+	"latitude": 46.903,
+	"longitude": -117.3399
+},
+{
+	"City": "Meadow Glade",
+	"State": "WA",
+	"latitude": 45.7523,
+	"longitude": -122.5616
+},
+{
+	"City": "Chico",
+	"State": "WA",
+	"latitude": 47.6234,
+	"longitude": -122.7198
+},
+{
+	"City": "Carson",
+	"State": "WA",
+	"latitude": 45.7353,
+	"longitude": -121.8219
+},
+{
+	"City": "Port Ludlow",
+	"State": "WA",
+	"latitude": 47.9101,
+	"longitude": -122.7006
+},
+{
+	"City": "Warden",
+	"State": "WA",
+	"latitude": 46.9672,
+	"longitude": -119.0523
+},
+{
+	"City": "Gleed",
+	"State": "WA",
+	"latitude": 46.6594,
+	"longitude": -120.6025
+},
+{
+	"City": "Sisco Heights",
+	"State": "WA",
+	"latitude": 48.1187,
+	"longitude": -122.1076
+},
+{
+	"City": "Desert Aire",
+	"State": "WA",
+	"latitude": 46.6873,
+	"longitude": -119.9311
+},
+{
+	"City": "Newport",
+	"State": "WA",
+	"latitude": 48.1788,
+	"longitude": -117.0543
+},
+{
+	"City": "White Salmon",
+	"State": "WA",
+	"latitude": 45.7283,
+	"longitude": -121.4856
+},
+{
+	"City": "Chewelah",
+	"State": "WA",
+	"latitude": 48.293,
+	"longitude": -117.7336
+},
+{
+	"City": "Fords Prairie",
+	"State": "WA",
+	"latitude": 46.7461,
+	"longitude": -123.0029
+},
+{
+	"City": "Brush Prairie",
+	"State": "WA",
+	"latitude": 45.7251,
+	"longitude": -122.5483
+},
+{
+	"City": "South Creek",
+	"State": "WA",
+	"latitude": 46.9994,
+	"longitude": -122.3921
+},
+{
+	"City": "Stansberry Lake",
+	"State": "WA",
+	"latitude": 47.3814,
+	"longitude": -122.7154
+},
+{
+	"City": "Bridgeport",
+	"State": "WA",
+	"latitude": 48.0066,
+	"longitude": -119.6722
+},
+{
+	"City": "Warm Beach",
+	"State": "WA",
+	"latitude": 48.1649,
+	"longitude": -122.3442
+},
+{
+	"City": "Dayton",
+	"State": "WA",
+	"latitude": 46.3169,
+	"longitude": -117.9768
+},
+{
+	"City": "Okanogan",
+	"State": "WA",
+	"latitude": 48.3673,
+	"longitude": -119.5781
+},
+{
+	"City": "Riverbend",
+	"State": "WA",
+	"latitude": 47.4652,
+	"longitude": -121.7492
+},
+{
+	"City": "Friday Harbor",
+	"State": "WA",
+	"latitude": 48.5324,
+	"longitude": -123.0655
+},
+{
+	"City": "Mabton",
+	"State": "WA",
+	"latitude": 46.2114,
+	"longitude": -119.9938
+},
+{
+	"City": "Geneva",
+	"State": "WA",
+	"latitude": 48.7461,
+	"longitude": -122.4064
+},
+{
+	"City": "Shadow Lake",
+	"State": "WA",
+	"latitude": 47.4017,
+	"longitude": -122.0764
+},
+{
+	"City": "Cathcart",
+	"State": "WA",
+	"latitude": 47.8525,
+	"longitude": -122.1058
+},
+{
+	"City": "Fall City",
+	"State": "WA",
+	"latitude": 47.5717,
+	"longitude": -121.9134
+},
+{
+	"City": "Allyn",
+	"State": "WA",
+	"latitude": 47.3863,
+	"longitude": -122.8386
+},
+{
+	"City": "Arlington Heights",
+	"State": "WA",
+	"latitude": 48.2119,
+	"longitude": -122.063
+},
+{
+	"City": "Whidbey Island Station",
+	"State": "WA",
+	"latitude": 48.3387,
+	"longitude": -122.6616
+},
+{
+	"City": "Fife Heights",
+	"State": "WA",
+	"latitude": 47.2593,
+	"longitude": -122.3459
+},
+{
+	"City": "Brewster",
+	"State": "WA",
+	"latitude": 48.1015,
+	"longitude": -119.776
+},
+{
+	"City": "Gold Bar",
+	"State": "WA",
+	"latitude": 47.8563,
+	"longitude": -121.692
+},
+{
+	"City": "Burley",
+	"State": "WA",
+	"latitude": 47.4166,
+	"longitude": -122.6377
+},
+{
+	"City": "Rainier",
+	"State": "WA",
+	"latitude": 46.8917,
+	"longitude": -122.6867
+},
+{
+	"City": "Carnation",
+	"State": "WA",
+	"latitude": 47.6442,
+	"longitude": -121.9041
+},
+{
+	"City": "Royal City",
+	"State": "WA",
+	"latitude": 46.9019,
+	"longitude": -119.6208
+},
+{
+	"City": "Southworth",
+	"State": "WA",
+	"latitude": 47.5126,
+	"longitude": -122.5298
+},
+{
+	"City": "Kingston",
+	"State": "WA",
+	"latitude": 47.8014,
+	"longitude": -122.4989
+},
+{
+	"City": "Freeland",
+	"State": "WA",
+	"latitude": 48.0185,
+	"longitude": -122.5358
+},
+{
+	"City": "Westport",
+	"State": "WA",
+	"latitude": 46.8917,
+	"longitude": -124.1118
+},
+{
+	"City": "Walla Walla East",
+	"State": "WA",
+	"latitude": 46.0517,
+	"longitude": -118.3024
+},
+{
+	"City": "Napavine",
+	"State": "WA",
+	"latitude": 46.5842,
+	"longitude": -122.9006
+},
+{
+	"City": "Lofall",
+	"State": "WA",
+	"latitude": 47.8113,
+	"longitude": -122.6564
+},
+{
+	"City": "Coupeville",
+	"State": "WA",
+	"latitude": 48.2172,
+	"longitude": -122.6775
+},
+{
+	"City": "Fern Prairie",
+	"State": "WA",
+	"latitude": 45.637,
+	"longitude": -122.3963
+},
+{
+	"City": "North Puyallup",
+	"State": "WA",
+	"latitude": 47.2015,
+	"longitude": -122.2743
+},
+{
+	"City": "Enetai",
+	"State": "WA",
+	"latitude": 47.5885,
+	"longitude": -122.6058
+},
+{
+	"City": "Amboy",
+	"State": "WA",
+	"latitude": 45.9122,
+	"longitude": -122.4796
+},
+{
+	"City": "Tenino",
+	"State": "WA",
+	"latitude": 46.8537,
+	"longitude": -122.8607
+},
+{
+	"City": "South Wenatchee",
+	"State": "WA",
+	"latitude": 47.3885,
+	"longitude": -120.2828
+},
+{
+	"City": "Bryant",
+	"State": "WA",
+	"latitude": 48.24,
+	"longitude": -122.1638
+},
+{
+	"City": "Millwood",
+	"State": "WA",
+	"latitude": 47.6856,
+	"longitude": -117.2806
+},
+{
+	"City": "Yacolt",
+	"State": "WA",
+	"latitude": 45.8653,
+	"longitude": -122.4062
+},
+{
+	"City": "Big Lake",
+	"State": "WA",
+	"latitude": 48.3933,
+	"longitude": -122.2422
+},
+{
+	"City": "Ravensdale",
+	"State": "WA",
+	"latitude": 47.3563,
+	"longitude": -121.9692
+},
+{
+	"City": "McCleary",
+	"State": "WA",
+	"latitude": 47.0584,
+	"longitude": -123.2722
+},
+{
+	"City": "Ocean Park",
+	"State": "WA",
+	"latitude": 46.4961,
+	"longitude": -124.0443
+},
+{
+	"City": "Davenport",
+	"State": "WA",
+	"latitude": 47.655,
+	"longitude": -118.1519
+},
+{
+	"City": "Monroe North",
+	"State": "WA",
+	"latitude": 47.8828,
+	"longitude": -121.9885
+},
+{
+	"City": "West Pasco",
+	"State": "WA",
+	"latitude": 46.2497,
+	"longitude": -119.1683
+},
+{
+	"City": "Lewisville",
+	"State": "WA",
+	"latitude": 45.8128,
+	"longitude": -122.5143
+},
+{
+	"City": "Kayak Point",
+	"State": "WA",
+	"latitude": 48.1387,
+	"longitude": -122.3342
+},
+{
+	"City": "South Bend",
+	"State": "WA",
+	"latitude": 46.6678,
+	"longitude": -123.8006
+},
+{
+	"City": "Oroville",
+	"State": "WA",
+	"latitude": 48.9419,
+	"longitude": -119.4305
+},
+{
+	"City": "Cascade Valley",
+	"State": "WA",
+	"latitude": 47.1412,
+	"longitude": -119.3291
+},
+{
+	"City": "Cosmopolis",
+	"State": "WA",
+	"latitude": 46.954,
+	"longitude": -123.7726
+},
+{
+	"City": "Ritzville",
+	"State": "WA",
+	"latitude": 47.1253,
+	"longitude": -118.3809
+},
+{
+	"City": "Kettle Falls",
+	"State": "WA",
+	"latitude": 48.6055,
+	"longitude": -118.062
+},
+{
+	"City": "Wilderness Rim",
+	"State": "WA",
+	"latitude": 47.4463,
+	"longitude": -121.7691
+},
+{
+	"City": "Nooksack",
+	"State": "WA",
+	"latitude": 48.9276,
+	"longitude": -122.3211
+},
+{
+	"City": "Soap Lake",
+	"State": "WA",
+	"latitude": 47.3914,
+	"longitude": -119.4892
+},
+{
+	"City": "Stevenson",
+	"State": "WA",
+	"latitude": 45.6944,
+	"longitude": -121.8931
+},
+{
+	"City": "Rocky Point",
+	"State": "WA",
+	"latitude": 47.5881,
+	"longitude": -122.6668
+},
+{
+	"City": "Ames Lake",
+	"State": "WA",
+	"latitude": 47.6346,
+	"longitude": -121.9664
+},
+{
+	"City": "McMillin",
+	"State": "WA",
+	"latitude": 47.1286,
+	"longitude": -122.2374
+},
+{
+	"City": "Sumas",
+	"State": "WA",
+	"latitude": 48.9956,
+	"longitude": -122.2695
+},
+{
+	"City": "Dallesport",
+	"State": "WA",
+	"latitude": 45.6316,
+	"longitude": -121.1749
+},
+{
+	"City": "Kittitas",
+	"State": "WA",
+	"latitude": 46.9837,
+	"longitude": -120.419
+},
+{
+	"City": "Long Beach",
+	"State": "WA",
+	"latitude": 46.3559,
+	"longitude": -124.0557
+},
+{
+	"City": "Home",
+	"State": "WA",
+	"latitude": 47.279,
+	"longitude": -122.7744
+},
+{
+	"City": "Purdy",
+	"State": "WA",
+	"latitude": 47.3938,
+	"longitude": -122.6114
+},
+{
+	"City": "Winlock",
+	"State": "WA",
+	"latitude": 46.4907,
+	"longitude": -122.9342
+},
+{
+	"City": "Darrington",
+	"State": "WA",
+	"latitude": 48.2546,
+	"longitude": -121.6031
+},
+{
+	"City": "Pomeroy",
+	"State": "WA",
+	"latitude": 46.4737,
+	"longitude": -117.5965
+},
+{
+	"City": "Woodway",
+	"State": "WA",
+	"latitude": 47.7904,
+	"longitude": -122.3851
+},
+{
+	"City": "Lake Marcel-Stillwater",
+	"State": "WA",
+	"latitude": 47.6926,
+	"longitude": -121.9152
+},
+{
+	"City": "Manson",
+	"State": "WA",
+	"latitude": 47.8858,
+	"longitude": -120.1563
+},
+{
+	"City": "Duluth",
+	"State": "WA",
+	"latitude": 45.7838,
+	"longitude": -122.647
+},
+{
+	"City": "Tieton",
+	"State": "WA",
+	"latitude": 46.7026,
+	"longitude": -120.756
+},
+{
+	"City": "Swede Heaven",
+	"State": "WA",
+	"latitude": 48.2829,
+	"longitude": -121.7136
+},
+{
+	"City": "Asotin",
+	"State": "WA",
+	"latitude": 46.3366,
+	"longitude": -117.0414
+},
+{
+	"City": "Entiat",
+	"State": "WA",
+	"latitude": 47.678,
+	"longitude": -120.2176
+},
+{
+	"City": "Garrett",
+	"State": "WA",
+	"latitude": 46.063,
+	"longitude": -118.3885
+},
+{
+	"City": "Waitsburg",
+	"State": "WA",
+	"latitude": 46.2696,
+	"longitude": -118.151
+},
+{
+	"City": "Waterville",
+	"State": "WA",
+	"latitude": 47.648,
+	"longitude": -120.0707
+},
+{
+	"City": "Basin City",
+	"State": "WA",
+	"latitude": 46.5891,
+	"longitude": -119.1567
+},
+{
+	"City": "Morton",
+	"State": "WA",
+	"latitude": 46.5575,
+	"longitude": -122.2815
+},
+{
+	"City": "Crocker",
+	"State": "WA",
+	"latitude": 47.0843,
+	"longitude": -122.1225
+},
+{
+	"City": "Anderson Island",
+	"State": "WA",
+	"latitude": 47.1579,
+	"longitude": -122.7041
+},
+{
+	"City": "Yarrow Point",
+	"State": "WA",
+	"latitude": 47.6488,
+	"longitude": -122.2188
+},
+{
+	"City": "Langley",
+	"State": "WA",
+	"latitude": 48.0337,
+	"longitude": -122.4084
+},
+{
+	"City": "Clear Lake",
+	"State": "WA",
+	"latitude": 46.9312,
+	"longitude": -122.2843
+},
+{
+	"City": "Rock Island",
+	"State": "WA",
+	"latitude": 47.3739,
+	"longitude": -120.1382
+},
+{
+	"City": "Tonasket",
+	"State": "WA",
+	"latitude": 48.7077,
+	"longitude": -119.4413
+},
+{
+	"City": "Puget Island",
+	"State": "WA",
+	"latitude": 46.1742,
+	"longitude": -123.383
+},
+{
+	"City": "Point Roberts",
+	"State": "WA",
+	"latitude": 48.9883,
+	"longitude": -123.0576
+},
+{
+	"City": "Dash Point",
+	"State": "WA",
+	"latitude": 47.313,
+	"longitude": -122.4154
+},
+{
+	"City": "Browns Point",
+	"State": "WA",
+	"latitude": 47.3035,
+	"longitude": -122.437
+},
+{
+	"City": "Buena",
+	"State": "WA",
+	"latitude": 46.4299,
+	"longitude": -120.3176
+},
+{
+	"City": "Coulee Dam",
+	"State": "WA",
+	"latitude": 47.9689,
+	"longitude": -118.976
+},
+{
+	"City": "Palouse",
+	"State": "WA",
+	"latitude": 46.9103,
+	"longitude": -117.0751
+},
+{
+	"City": "Republic",
+	"State": "WA",
+	"latitude": 48.6483,
+	"longitude": -118.7334
+},
+{
+	"City": "Neah Bay",
+	"State": "WA",
+	"latitude": 48.3612,
+	"longitude": -124.6115
+},
+{
+	"City": "Grand Coulee",
+	"State": "WA",
+	"latitude": 47.9392,
+	"longitude": -119.0028
+},
+{
+	"City": "Lakeview",
+	"State": "WA",
+	"latitude": 47.3755,
+	"longitude": -119.5044
+},
+{
+	"City": "North Bonneville",
+	"State": "WA",
+	"latitude": 45.6425,
+	"longitude": -121.9692
+},
+{
+	"City": "Electric City",
+	"State": "WA",
+	"latitude": 47.9218,
+	"longitude": -119.0475
+},
+{
+	"City": "Ilwaco",
+	"State": "WA",
+	"latitude": 46.3101,
+	"longitude": -124.0416
+},
+{
+	"City": "Machias",
+	"State": "WA",
+	"latitude": 47.9917,
+	"longitude": -122.0515
+},
+{
+	"City": "Twisp",
+	"State": "WA",
+	"latitude": 48.362,
+	"longitude": -120.1172
+},
+{
+	"City": "Roslyn",
+	"State": "WA",
+	"latitude": 47.2511,
+	"longitude": -121.099
+},
+{
+	"City": "Lake Bosworth",
+	"State": "WA",
+	"latitude": 48.0532,
+	"longitude": -121.9812
+},
+{
+	"City": "Port Gamble Tribal Community",
+	"State": "WA",
+	"latitude": 47.8487,
+	"longitude": -122.5571
+},
+{
+	"City": "Brady",
+	"State": "WA",
+	"latitude": 47.0064,
+	"longitude": -123.5321
+},
+{
+	"City": "Odessa",
+	"State": "WA",
+	"latitude": 47.3326,
+	"longitude": -118.6894
+},
+{
+	"City": "McKenna",
+	"State": "WA",
+	"latitude": 46.9365,
+	"longitude": -122.55
+},
+{
+	"City": "Clinton",
+	"State": "WA",
+	"latitude": 47.9731,
+	"longitude": -122.3577
+},
+{
+	"City": "Lake Ketchum",
+	"State": "WA",
+	"latitude": 48.282,
+	"longitude": -122.348
+},
+{
+	"City": "Seabeck",
+	"State": "WA",
+	"latitude": 47.6437,
+	"longitude": -122.8219
+},
+{
+	"City": "Wilbur",
+	"State": "WA",
+	"latitude": 47.7581,
+	"longitude": -118.7118
+},
+{
+	"City": "White Swan",
+	"State": "WA",
+	"latitude": 46.3769,
+	"longitude": -120.7382
+},
+{
+	"City": "Naches",
+	"State": "WA",
+	"latitude": 46.726,
+	"longitude": -120.6911
+},
+{
+	"City": "Ruston",
+	"State": "WA",
+	"latitude": 47.2981,
+	"longitude": -122.5105
+},
+{
+	"City": "Malott",
+	"State": "WA",
+	"latitude": 48.2919,
+	"longitude": -119.6954
+},
+{
+	"City": "Marrowstone",
+	"State": "WA",
+	"latitude": 48.0568,
+	"longitude": -122.6933
+},
+{
+	"City": "Roy",
+	"State": "WA",
+	"latitude": 46.997,
+	"longitude": -122.5423
+},
+{
+	"City": "Cowiche",
+	"State": "WA",
+	"latitude": 46.6729,
+	"longitude": -120.7154
+},
+{
+	"City": "Mossyrock",
+	"State": "WA",
+	"latitude": 46.5305,
+	"longitude": -122.4887
+},
+{
+	"City": "Tekoa",
+	"State": "WA",
+	"latitude": 47.2247,
+	"longitude": -117.0732
+},
+{
+	"City": "Brinnon",
+	"State": "WA",
+	"latitude": 47.6689,
+	"longitude": -122.9249
+},
+{
+	"City": "Grapeview",
+	"State": "WA",
+	"latitude": 47.3316,
+	"longitude": -122.8413
+},
+{
+	"City": "Loon Lake",
+	"State": "WA",
+	"latitude": 48.0685,
+	"longitude": -117.6297
+},
+{
+	"City": "Toledo",
+	"State": "WA",
+	"latitude": 46.4415,
+	"longitude": -122.8497
+},
+{
+	"City": "May Creek",
+	"State": "WA",
+	"latitude": 47.8556,
+	"longitude": -121.6744
+},
+{
+	"City": "Carlsborg",
+	"State": "WA",
+	"latitude": 48.0842,
+	"longitude": -123.1697
+},
+{
+	"City": "Bingen",
+	"State": "WA",
+	"latitude": 45.714,
+	"longitude": -121.4703
+},
+{
+	"City": "Concrete",
+	"State": "WA",
+	"latitude": 48.5371,
+	"longitude": -121.7509
+},
+{
+	"City": "Cherry Grove",
+	"State": "WA",
+	"latitude": 45.8021,
+	"longitude": -122.5763
+},
+{
+	"City": "Carbonado",
+	"State": "WA",
+	"latitude": 47.0805,
+	"longitude": -122.0536
+},
+{
+	"City": "Grayland",
+	"State": "WA",
+	"latitude": 46.8304,
+	"longitude": -124.0898
+},
+{
+	"City": "Pateros",
+	"State": "WA",
+	"latitude": 48.0536,
+	"longitude": -119.8994
+},
+{
+	"City": "Vaughn",
+	"State": "WA",
+	"latitude": 47.355,
+	"longitude": -122.7773
+},
+{
+	"City": "Quilcene",
+	"State": "WA",
+	"latitude": 47.8369,
+	"longitude": -122.9058
+},
+{
+	"City": "River Road",
+	"State": "WA",
+	"latitude": 48.0677,
+	"longitude": -123.1276
+},
+{
+	"City": "Oakville",
+	"State": "WA",
+	"latitude": 46.8403,
+	"longitude": -123.2337
+},
+{
+	"City": "Cohassett Beach",
+	"State": "WA",
+	"latitude": 46.8656,
+	"longitude": -124.1054
+},
+{
+	"City": "Pe Ell",
+	"State": "WA",
+	"latitude": 46.5712,
+	"longitude": -123.2982
+},
+{
+	"City": "Vader",
+	"State": "WA",
+	"latitude": 46.4045,
+	"longitude": -122.9569
+},
+{
+	"City": "Taholah",
+	"State": "WA",
+	"latitude": 47.3283,
+	"longitude": -124.2728
+},
+{
+	"City": "Bay View",
+	"State": "WA",
+	"latitude": 48.487,
+	"longitude": -122.4628
+},
+{
+	"City": "Verlot",
+	"State": "WA",
+	"latitude": 48.1003,
+	"longitude": -121.7679
+},
+{
+	"City": "Lake Roesiger",
+	"State": "WA",
+	"latitude": 47.9839,
+	"longitude": -121.9129
+},
+{
+	"City": "Satsop",
+	"State": "WA",
+	"latitude": 47.0223,
+	"longitude": -123.4737
+},
+{
+	"City": "Harrah",
+	"State": "WA",
+	"latitude": 46.4071,
+	"longitude": -120.5421
+},
+{
+	"City": "Nisqually Indian Community",
+	"State": "WA",
+	"latitude": 47.0178,
+	"longitude": -122.6728
+},
+{
+	"City": "Fairfield",
+	"State": "WA",
+	"latitude": 47.3848,
+	"longitude": -117.1748
+},
+{
+	"City": "Trout Lake",
+	"State": "WA",
+	"latitude": 45.9975,
+	"longitude": -121.529
+},
+{
+	"City": "Sunday Lake",
+	"State": "WA",
+	"latitude": 48.2306,
+	"longitude": -122.2684
+},
+{
+	"City": "Reardan",
+	"State": "WA",
+	"latitude": 47.6697,
+	"longitude": -117.8779
+},
+{
+	"City": "Curlew Lake",
+	"State": "WA",
+	"latitude": 48.7311,
+	"longitude": -118.6663
+},
+{
+	"City": "Garfield",
+	"State": "WA",
+	"latitude": 47.0103,
+	"longitude": -117.1395
+},
+{
+	"City": "Skokomish",
+	"State": "WA",
+	"latitude": 47.3298,
+	"longitude": -123.1579
+},
+{
+	"City": "Bell Hill",
+	"State": "WA",
+	"latitude": 48.055,
+	"longitude": -123.087
+},
+{
+	"City": "Albion",
+	"State": "WA",
+	"latitude": 46.7916,
+	"longitude": -117.2511
+},
+{
+	"City": "Bucoda",
+	"State": "WA",
+	"latitude": 46.7968,
+	"longitude": -122.868
+},
+{
+	"City": "Copalis Beach",
+	"State": "WA",
+	"latitude": 47.1205,
+	"longitude": -124.1722
+},
+{
+	"City": "Startup",
+	"State": "WA",
+	"latitude": 47.867,
+	"longitude": -121.7492
+},
+{
+	"City": "Cathlamet",
+	"State": "WA",
+	"latitude": 46.2055,
+	"longitude": -123.3835
+},
+{
+	"City": "Coulee City",
+	"State": "WA",
+	"latitude": 47.6122,
+	"longitude": -119.2895
+},
+{
+	"City": "Lind",
+	"State": "WA",
+	"latitude": 46.9703,
+	"longitude": -118.6164
+},
+{
+	"City": "St. John",
+	"State": "WA",
+	"latitude": 47.0915,
+	"longitude": -117.5887
+},
+{
+	"City": "South Cle Elum",
+	"State": "WA",
+	"latitude": 47.1862,
+	"longitude": -120.9526
+},
+{
+	"City": "Rosalia",
+	"State": "WA",
+	"latitude": 47.2363,
+	"longitude": -117.3764
+},
+{
+	"City": "Clayton",
+	"State": "WA",
+	"latitude": 48.0013,
+	"longitude": -117.5613
+},
+{
+	"City": "Onalaska",
+	"State": "WA",
+	"latitude": 46.5783,
+	"longitude": -122.7112
+},
+{
+	"City": "Ashford",
+	"State": "WA",
+	"latitude": 46.7537,
+	"longitude": -122.0113
+},
+{
+	"City": "Wishram",
+	"State": "WA",
+	"latitude": 45.6599,
+	"longitude": -120.9698
+},
+{
+	"City": "Malone",
+	"State": "WA",
+	"latitude": 46.9779,
+	"longitude": -123.3035
+},
+{
+	"City": "George",
+	"State": "WA",
+	"latitude": 47.0846,
+	"longitude": -119.86
+},
+{
+	"City": "Wilkeson",
+	"State": "WA",
+	"latitude": 47.1034,
+	"longitude": -122.0495
+},
+{
+	"City": "East Cathlamet",
+	"State": "WA",
+	"latitude": 46.1968,
+	"longitude": -123.358
+},
+{
+	"City": "Mesa",
+	"State": "WA",
+	"latitude": 46.5735,
+	"longitude": -119.0013
+},
+{
+	"City": "Ryderwood",
+	"State": "WA",
+	"latitude": 46.375,
+	"longitude": -123.0441
+},
+{
+	"City": "Clallam Bay",
+	"State": "WA",
+	"latitude": 48.2536,
+	"longitude": -124.2579
+},
+{
+	"City": "Four Lakes",
+	"State": "WA",
+	"latitude": 47.5582,
+	"longitude": -117.5891
+},
+{
+	"City": "Rockford",
+	"State": "WA",
+	"latitude": 47.4515,
+	"longitude": -117.1307
+},
+{
+	"City": "Lyman",
+	"State": "WA",
+	"latitude": 48.523,
+	"longitude": -122.0634
+},
+{
+	"City": "Winthrop",
+	"State": "WA",
+	"latitude": 48.4717,
+	"longitude": -120.179
+},
+{
+	"City": "Ione",
+	"State": "WA",
+	"latitude": 48.7401,
+	"longitude": -117.4215
+},
+{
+	"City": "Lyle",
+	"State": "WA",
+	"latitude": 45.6955,
+	"longitude": -121.2805
+},
+{
+	"City": "Sprague",
+	"State": "WA",
+	"latitude": 47.3049,
+	"longitude": -117.9714
+},
+{
+	"City": "Colton",
+	"State": "WA",
+	"latitude": 46.5675,
+	"longitude": -117.1285
+},
+{
+	"City": "Touchet",
+	"State": "WA",
+	"latitude": 46.0412,
+	"longitude": -118.6724
+},
+{
+	"City": "South Prairie",
+	"State": "WA",
+	"latitude": 47.1374,
+	"longitude": -122.0939
+},
+{
+	"City": "Oakesdale",
+	"State": "WA",
+	"latitude": 47.1305,
+	"longitude": -117.2465
+},
+{
+	"City": "North Omak",
+	"State": "WA",
+	"latitude": 48.444,
+	"longitude": -119.4459
+},
+{
+	"City": "Hunts Point",
+	"State": "WA",
+	"latitude": 47.6444,
+	"longitude": -122.2293
+},
+{
+	"City": "Raft Island",
+	"State": "WA",
+	"latitude": 47.3293,
+	"longitude": -122.6686
+},
+{
+	"City": "Keyport",
+	"State": "WA",
+	"latitude": 47.6993,
+	"longitude": -122.6232
+},
+{
+	"City": "Union",
+	"State": "WA",
+	"latitude": 47.3475,
+	"longitude": -123.0952
+},
+{
+	"City": "Naselle",
+	"State": "WA",
+	"latitude": 46.365,
+	"longitude": -123.8013
+},
+{
+	"City": "Harrington",
+	"State": "WA",
+	"latitude": 47.4802,
+	"longitude": -118.2554
+},
+{
+	"City": "Rosburg",
+	"State": "WA",
+	"latitude": 46.3076,
+	"longitude": -123.6344
+},
+{
+	"City": "Green Bluff",
+	"State": "WA",
+	"latitude": 47.819,
+	"longitude": -117.277
+},
+{
+	"City": "Jamestown",
+	"State": "WA",
+	"latitude": 48.1229,
+	"longitude": -123.0911
+},
+{
+	"City": "Nespelem",
+	"State": "WA",
+	"latitude": 48.167,
+	"longitude": -118.9722
+},
+{
+	"City": "Easton",
+	"State": "WA",
+	"latitude": 47.2405,
+	"longitude": -121.1733
+},
+{
+	"City": "Eschbach",
+	"State": "WA",
+	"latitude": 46.667,
+	"longitude": -120.6337
+},
+{
+	"City": "Uniontown",
+	"State": "WA",
+	"latitude": 46.5391,
+	"longitude": -117.0861
+},
+{
+	"City": "Mansfield",
+	"State": "WA",
+	"latitude": 47.8119,
+	"longitude": -119.6379
+},
+{
+	"City": "Wallula",
+	"State": "WA",
+	"latitude": 46.0847,
+	"longitude": -118.9056
+},
+{
+	"City": "Aberdeen Gardens",
+	"State": "WA",
+	"latitude": 47.0587,
+	"longitude": -123.7791
+},
+{
+	"City": "Snoqualmie Pass",
+	"State": "WA",
+	"latitude": 47.4014,
+	"longitude": -121.4109
+},
+{
+	"City": "Oso",
+	"State": "WA",
+	"latitude": 48.2836,
+	"longitude": -121.9237
+},
+{
+	"City": "Inchelium",
+	"State": "WA",
+	"latitude": 48.3379,
+	"longitude": -118.2372
+},
+{
+	"City": "Skamokawa Valley",
+	"State": "WA",
+	"latitude": 46.3004,
+	"longitude": -123.4242
+},
+{
+	"City": "Beaux Arts Village",
+	"State": "WA",
+	"latitude": 47.5853,
+	"longitude": -122.2049
+},
+{
+	"City": "Spangle",
+	"State": "WA",
+	"latitude": 47.4299,
+	"longitude": -117.3812
+},
+{
+	"City": "LaCrosse",
+	"State": "WA",
+	"latitude": 46.8014,
+	"longitude": -117.9023
+},
+{
+	"City": "Packwood",
+	"State": "WA",
+	"latitude": 46.6085,
+	"longitude": -121.6702
+},
+{
+	"City": "Hamilton",
+	"State": "WA",
+	"latitude": 48.5281,
+	"longitude": -121.9836
+},
+{
+	"City": "Endicott",
+	"State": "WA",
+	"latitude": 46.9282,
+	"longitude": -117.6867
+},
+{
+	"City": "Prescott",
+	"State": "WA",
+	"latitude": 46.2988,
+	"longitude": -118.3126
+},
+{
+	"City": "Northport",
+	"State": "WA",
+	"latitude": 48.9159,
+	"longitude": -117.7796
+},
+{
+	"City": "Springdale",
+	"State": "WA",
+	"latitude": 48.0572,
+	"longitude": -117.7466
+},
+{
+	"City": "Lower Elochoman",
+	"State": "WA",
+	"latitude": 46.2185,
+	"longitude": -123.3698
+},
+{
+	"City": "Neilton",
+	"State": "WA",
+	"latitude": 47.4031,
+	"longitude": -123.8782
+},
+{
+	"City": "Almira",
+	"State": "WA",
+	"latitude": 47.7107,
+	"longitude": -118.9368
+},
+{
+	"City": "Pacific Beach",
+	"State": "WA",
+	"latitude": 47.215,
+	"longitude": -124.1967
+},
+{
+	"City": "Riverside",
+	"State": "WA",
+	"latitude": 48.5049,
+	"longitude": -119.51
+},
+{
+	"City": "Grays River",
+	"State": "WA",
+	"latitude": 46.3608,
+	"longitude": -123.589
+},
+{
+	"City": "Glenwood",
+	"State": "WA",
+	"latitude": 46.0228,
+	"longitude": -121.2925
+},
+{
+	"City": "Metaline Falls",
+	"State": "WA",
+	"latitude": 48.8615,
+	"longitude": -117.3718
+},
+{
+	"City": "Elmer City",
+	"State": "WA",
+	"latitude": 47.9999,
+	"longitude": -118.9542
+},
+{
+	"City": "Humptulips",
+	"State": "WA",
+	"latitude": 47.2491,
+	"longitude": -123.9348
+},
+{
+	"City": "Klickitat",
+	"State": "WA",
+	"latitude": 45.818,
+	"longitude": -121.1626
+},
+{
+	"City": "Thorp",
+	"State": "WA",
+	"latitude": 47.0656,
+	"longitude": -120.6709
+},
+{
+	"City": "North Sultan",
+	"State": "WA",
+	"latitude": 47.8829,
+	"longitude": -121.8253
+},
+{
+	"City": "Gorst",
+	"State": "WA",
+	"latitude": 47.5237,
+	"longitude": -122.7057
+},
+{
+	"City": "Creston",
+	"State": "WA",
+	"latitude": 47.7594,
+	"longitude": -118.5201
+},
+{
+	"City": "Skykomish",
+	"State": "WA",
+	"latitude": 47.7104,
+	"longitude": -121.3584
+},
+{
+	"City": "Cusick",
+	"State": "WA",
+	"latitude": 48.3333,
+	"longitude": -117.2944
+},
+{
+	"City": "Wilson Creek",
+	"State": "WA",
+	"latitude": 47.4231,
+	"longitude": -119.1176
+},
+{
+	"City": "Ocean City",
+	"State": "WA",
+	"latitude": 47.0762,
+	"longitude": -124.1619
+},
+{
+	"City": "Index",
+	"State": "WA",
+	"latitude": 47.8212,
+	"longitude": -121.5562
+},
+{
+	"City": "Keller",
+	"State": "WA",
+	"latitude": 48.0852,
+	"longitude": -118.7164
+},
+{
+	"City": "Washtucna",
+	"State": "WA",
+	"latitude": 46.7539,
+	"longitude": -118.3106
+},
+{
+	"City": "Conconully",
+	"State": "WA",
+	"latitude": 48.5585,
+	"longitude": -119.7522
+},
+{
+	"City": "Malden",
+	"State": "WA",
+	"latitude": 47.2296,
+	"longitude": -117.4731
+},
+{
+	"City": "Mineral",
+	"State": "WA",
+	"latitude": 46.7193,
+	"longitude": -122.1859
+},
+{
+	"City": "Tokeland",
+	"State": "WA",
+	"latitude": 46.709,
+	"longitude": -123.9839
+},
+{
+	"City": "Bay Center",
+	"State": "WA",
+	"latitude": 46.6211,
+	"longitude": -123.9533
+},
+{
+	"City": "Kahlotus",
+	"State": "WA",
+	"latitude": 46.6433,
+	"longitude": -118.556
+},
+{
+	"City": "Queets",
+	"State": "WA",
+	"latitude": 47.5314,
+	"longitude": -124.3385
+},
+{
+	"City": "Steptoe",
+	"State": "WA",
+	"latitude": 47.0075,
+	"longitude": -117.3502
+},
+{
+	"City": "Dixie",
+	"State": "WA",
+	"latitude": 46.1392,
+	"longitude": -118.148
+},
+{
+	"City": "Latah",
+	"State": "WA",
+	"latitude": 47.2822,
+	"longitude": -117.1557
+},
+{
+	"City": "Deep River",
+	"State": "WA",
+	"latitude": 46.3521,
+	"longitude": -123.6984
+},
+{
+	"City": "Alger",
+	"State": "WA",
+	"latitude": 48.6176,
+	"longitude": -122.3369
+},
+{
+	"City": "Metaline",
+	"State": "WA",
+	"latitude": 48.8533,
+	"longitude": -117.3892
+},
+{
+	"City": "Nespelem Community",
+	"State": "WA",
+	"latitude": 48.1715,
+	"longitude": -119.0244
+},
+{
+	"City": "Lake Cavanaugh",
+	"State": "WA",
+	"latitude": 48.3225,
+	"longitude": -122.0122
+},
+{
+	"City": "Marcus",
+	"State": "WA",
+	"latitude": 48.6643,
+	"longitude": -118.06
+},
+{
+	"City": "Deming",
+	"State": "WA",
+	"latitude": 48.8381,
+	"longitude": -122.2313
+},
+{
+	"City": "Baring",
+	"State": "WA",
+	"latitude": 47.7661,
+	"longitude": -121.4803
+},
+{
+	"City": "Alder",
+	"State": "WA",
+	"latitude": 46.7872,
+	"longitude": -122.2666
+},
+{
+	"City": "Willapa",
+	"State": "WA",
+	"latitude": 46.6755,
+	"longitude": -123.6648
+},
+{
+	"City": "Pine Grove",
+	"State": "WA",
+	"latitude": 48.6502,
+	"longitude": -118.684
+},
+{
+	"City": "Hartline",
+	"State": "WA",
+	"latitude": 47.6895,
+	"longitude": -119.1081
+},
+{
+	"City": "Lake McMurray",
+	"State": "WA",
+	"latitude": 48.313,
+	"longitude": -122.2317
+},
+{
+	"City": "Chinook",
+	"State": "WA",
+	"latitude": 46.2755,
+	"longitude": -123.9425
+},
+{
+	"City": "Glacier",
+	"State": "WA",
+	"latitude": 48.8902,
+	"longitude": -121.9323
+},
+{
+	"City": "Farmington",
+	"State": "WA",
+	"latitude": 47.0887,
+	"longitude": -117.0464
+},
+{
+	"City": "Edison",
+	"State": "WA",
+	"latitude": 48.5602,
+	"longitude": -122.4311
+},
+{
+	"City": "Maple Falls",
+	"State": "WA",
+	"latitude": 48.9135,
+	"longitude": -122.1048
+},
+{
+	"City": "Banks Lake South",
+	"State": "WA",
+	"latitude": 47.6315,
+	"longitude": -119.276
+},
+{
+	"City": "Markham",
+	"State": "WA",
+	"latitude": 46.9155,
+	"longitude": -123.9814
+},
+{
+	"City": "Hoodsport",
+	"State": "WA",
+	"latitude": 47.402,
+	"longitude": -123.1542
+},
+{
+	"City": "Custer",
+	"State": "WA",
+	"latitude": 48.9143,
+	"longitude": -122.6397
+},
+{
+	"City": "Cliffdell",
+	"State": "WA",
+	"latitude": 46.9213,
+	"longitude": -121.042
+},
+{
+	"City": "Addy",
+	"State": "WA",
+	"latitude": 48.3588,
+	"longitude": -117.8372
+},
+{
+	"City": "Kapowsin",
+	"State": "WA",
+	"latitude": 46.9727,
+	"longitude": -122.2272
+},
+{
+	"City": "Starbuck",
+	"State": "WA",
+	"latitude": 46.5187,
+	"longitude": -118.1258
+},
+{
+	"City": "Northwest Stanwood",
+	"State": "WA",
+	"latitude": 48.2623,
+	"longitude": -122.3501
+},
+{
+	"City": "Methow",
+	"State": "WA",
+	"latitude": 48.1288,
+	"longitude": -120.0055
+},
+{
+	"City": "Porter",
+	"State": "WA",
+	"latitude": 46.9489,
+	"longitude": -123.2736
+},
+{
+	"City": "Roosevelt",
+	"State": "WA",
+	"latitude": 45.7476,
+	"longitude": -120.2161
+},
+{
+	"City": "Waverly",
+	"State": "WA",
+	"latitude": 47.3381,
+	"longitude": -117.2312
+},
+{
+	"City": "Acme",
+	"State": "WA",
+	"latitude": 48.7145,
+	"longitude": -122.2293
+},
+{
+	"City": "Loomis",
+	"State": "WA",
+	"latitude": 48.8235,
+	"longitude": -119.6398
+},
+{
+	"City": "Torboy",
+	"State": "WA",
+	"latitude": 48.6772,
+	"longitude": -118.6689
+},
+{
+	"City": "Barstow",
+	"State": "WA",
+	"latitude": 48.7783,
+	"longitude": -118.1329
+},
+{
+	"City": "Hatton",
+	"State": "WA",
+	"latitude": 46.7735,
+	"longitude": -118.8277
+},
+{
+	"City": "Valley",
+	"State": "WA",
+	"latitude": 48.173,
+	"longitude": -117.7244
+},
+{
+	"City": "Ronald",
+	"State": "WA",
+	"latitude": 47.2338,
+	"longitude": -121.0335
+},
+{
+	"City": "Centerville",
+	"State": "WA",
+	"latitude": 45.754,
+	"longitude": -120.908
+},
+{
+	"City": "Bickleton",
+	"State": "WA",
+	"latitude": 46.0056,
+	"longitude": -120.308
+},
+{
+	"City": "Curlew",
+	"State": "WA",
+	"latitude": 48.8777,
+	"longitude": -118.6045
+},
+{
+	"City": "Amanda Park",
+	"State": "WA",
+	"latitude": 47.4532,
+	"longitude": -123.9194
+},
+{
+	"City": "Chelan Falls",
+	"State": "WA",
+	"latitude": 47.7994,
+	"longitude": -119.9884
+},
+{
+	"City": "Lebam",
+	"State": "WA",
+	"latitude": 46.5641,
+	"longitude": -123.551
+},
+{
+	"City": "Upper Elochoman",
+	"State": "WA",
+	"latitude": 46.2403,
+	"longitude": -123.3247
+},
+{
+	"City": "Tampico",
+	"State": "WA",
+	"latitude": 46.5325,
+	"longitude": -120.8727
+},
+{
+	"City": "Orient",
+	"State": "WA",
+	"latitude": 48.8637,
+	"longitude": -118.2059
+},
+{
+	"City": "Danville",
+	"State": "WA",
+	"latitude": 48.9938,
+	"longitude": -118.5068
+},
+{
+	"City": "Lamont",
+	"State": "WA",
+	"latitude": 47.2007,
+	"longitude": -117.9049
+},
+{
+	"City": "Parker",
+	"State": "WA",
+	"latitude": 46.5022,
+	"longitude": -120.4668
+},
+{
+	"City": "Nile",
+	"State": "WA",
+	"latitude": 46.8368,
+	"longitude": -120.9455
+},
+{
+	"City": "Twin Lakes",
+	"State": "WA",
+	"latitude": 48.2622,
+	"longitude": -118.3591
+},
+{
+	"City": "Marblemount",
+	"State": "WA",
+	"latitude": 48.5379,
+	"longitude": -121.4346
+},
+{
+	"City": "Hat Island",
+	"State": "WA",
+	"latitude": 48.013,
+	"longitude": -122.3201
+},
+{
+	"City": "Sekiu",
+	"State": "WA",
+	"latitude": 48.2637,
+	"longitude": -124.3012
+},
+{
+	"City": "Maryhill",
+	"State": "WA",
+	"latitude": 45.6928,
+	"longitude": -120.8071
+},
+{
+	"City": "Blyn",
+	"State": "WA",
+	"latitude": 48.013,
+	"longitude": -122.9897
+},
+{
+	"City": "Greenwater",
+	"State": "WA",
+	"latitude": 47.1465,
+	"longitude": -121.632
+},
+{
+	"City": "Elbe",
+	"State": "WA",
+	"latitude": 46.7653,
+	"longitude": -122.1946
+},
+{
+	"City": "Krupp",
+	"State": "WA",
+	"latitude": 47.4105,
+	"longitude": -118.9887
+},
+{
+	"City": "Qui-nai-elt Village",
+	"State": "WA",
+	"latitude": 47.2502,
+	"longitude": -124.1903
+},
+{
+	"City": "Malo",
+	"State": "WA",
+	"latitude": 48.7997,
+	"longitude": -118.6119
+},
+{
+	"City": "Altoona",
+	"State": "WA",
+	"latitude": 46.2699,
+	"longitude": -123.6144
+},
+{
+	"City": "Outlook",
+	"State": "WA",
+	"latitude": 46.3311,
+	"longitude": -120.0927
+},
+{
+	"City": "Moclips",
+	"State": "WA",
+	"latitude": 47.2348,
+	"longitude": -124.2025
+},
+{
+	"City": "Boyds",
+	"State": "WA",
+	"latitude": 48.7244,
+	"longitude": -118.1322
+},
+{
+	"City": "Rockport",
+	"State": "WA",
+	"latitude": 48.4854,
+	"longitude": -121.6065
+},
+{
+	"City": "La Grande",
+	"State": "WA",
+	"latitude": 46.8199,
+	"longitude": -122.2962
+},
+{
+	"City": "Herron Island",
+	"State": "WA",
+	"latitude": 47.2645,
+	"longitude": -122.8348
+},
+{
+	"City": "Santiago",
+	"State": "WA",
+	"latitude": 47.2975,
+	"longitude": -124.2327
+},
+{
+	"City": "Disautel",
+	"State": "WA",
+	"latitude": 48.345,
+	"longitude": -119.2299
+},
+{
+	"City": "Vantage",
+	"State": "WA",
+	"latitude": 46.9452,
+	"longitude": -119.9921
+},
+{
+	"City": "Kendall",
+	"State": "WA",
+	"latitude": 48.9167,
+	"longitude": -122.1381
+},
+{
+	"City": "Silvana",
+	"State": "WA",
+	"latitude": 48.2018,
+	"longitude": -122.2459
+}]

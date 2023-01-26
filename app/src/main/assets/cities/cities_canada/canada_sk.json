@@ -1,0 +1,667 @@
+[
+{
+	"City": "Saskatoon",
+	"State": "SK",
+	"latitude": 52.1333,
+	"longitude": -106.6833
+},
+{
+	"City": "Regina",
+	"State": "SK",
+	"latitude": 50.4547,
+	"longitude": -104.6067
+},
+{
+	"City": "Prince Albert",
+	"State": "SK",
+	"latitude": 53.2,
+	"longitude": -105.75
+},
+{
+	"City": "Moose Jaw",
+	"State": "SK",
+	"latitude": 50.3933,
+	"longitude": -105.5519
+},
+{
+	"City": "Lloydminster",
+	"State": "SK",
+	"latitude": 53.2783,
+	"longitude": -110.005
+},
+{
+	"City": "Swift Current",
+	"State": "SK",
+	"latitude": 50.2881,
+	"longitude": -107.7939
+},
+{
+	"City": "Yorkton",
+	"State": "SK",
+	"latitude": 51.2139,
+	"longitude": -102.4628
+},
+{
+	"City": "North Battleford",
+	"State": "SK",
+	"latitude": 52.7575,
+	"longitude": -108.2861
+},
+{
+	"City": "Estevan",
+	"State": "SK",
+	"latitude": 49.1392,
+	"longitude": -102.9861
+},
+{
+	"City": "Warman",
+	"State": "SK",
+	"latitude": 52.3219,
+	"longitude": -106.5842
+},
+{
+	"City": "Weyburn",
+	"State": "SK",
+	"latitude": 49.6611,
+	"longitude": -103.8525
+},
+{
+	"City": "Martensville",
+	"State": "SK",
+	"latitude": 52.2897,
+	"longitude": -106.6667
+},
+{
+	"City": "Corman Park No. 344",
+	"State": "SK",
+	"latitude": 52.2291,
+	"longitude": -106.8002
+},
+{
+	"City": "Melfort",
+	"State": "SK",
+	"latitude": 52.8564,
+	"longitude": -104.61
+},
+{
+	"City": "Humboldt",
+	"State": "SK",
+	"latitude": 52.2019,
+	"longitude": -105.1231
+},
+{
+	"City": "La Ronge",
+	"State": "SK",
+	"latitude": 55.1,
+	"longitude": -105.3
+},
+{
+	"City": "Meadow Lake",
+	"State": "SK",
+	"latitude": 54.1242,
+	"longitude": -108.4358
+},
+{
+	"City": "Flin Flon",
+	"State": "SK",
+	"latitude": 54.7667,
+	"longitude": -101.8778
+},
+{
+	"City": "Kindersley",
+	"State": "SK",
+	"latitude": 51.4678,
+	"longitude": -109.1567
+},
+{
+	"City": "Melville",
+	"State": "SK",
+	"latitude": 50.9306,
+	"longitude": -102.8078
+},
+{
+	"City": "Edenwold No. 158",
+	"State": "SK",
+	"latitude": 50.5166,
+	"longitude": -104.3451
+},
+{
+	"City": "Nipawin",
+	"State": "SK",
+	"latitude": 53.3572,
+	"longitude": -104.0192
+},
+{
+	"City": "Battleford",
+	"State": "SK",
+	"latitude": 52.7383,
+	"longitude": -108.3153
+},
+{
+	"City": "Prince Albert No. 461",
+	"State": "SK",
+	"latitude": 53.1089,
+	"longitude": -105.6574
+},
+{
+	"City": "Buckland No. 491",
+	"State": "SK",
+	"latitude": 53.3276,
+	"longitude": -105.7804
+},
+{
+	"City": "Tisdale",
+	"State": "SK",
+	"latitude": 52.85,
+	"longitude": -104.05
+},
+{
+	"City": "White City",
+	"State": "SK",
+	"latitude": 50.4353,
+	"longitude": -104.3572
+},
+{
+	"City": "Vanscoy No. 345",
+	"State": "SK",
+	"latitude": 52.0073,
+	"longitude": -107.0552
+},
+{
+	"City": "La Loche",
+	"State": "SK",
+	"latitude": 56.4833,
+	"longitude": -109.4333
+},
+{
+	"City": "Pelican Narrows",
+	"State": "SK",
+	"latitude": 55.1883,
+	"longitude": -102.9342
+},
+{
+	"City": "Unity",
+	"State": "SK",
+	"latitude": 52.4333,
+	"longitude": -109.1667
+},
+{
+	"City": "Meadow Lake No. 588",
+	"State": "SK",
+	"latitude": 54.1213,
+	"longitude": -108.2837
+},
+{
+	"City": "Moosomin",
+	"State": "SK",
+	"latitude": 50.142,
+	"longitude": -101.67
+},
+{
+	"City": "Esterhazy",
+	"State": "SK",
+	"latitude": 50.65,
+	"longitude": -102.0667
+},
+{
+	"City": "Rosetown",
+	"State": "SK",
+	"latitude": 51.55,
+	"longitude": -107.9833
+},
+{
+	"City": "Dundurn No. 314",
+	"State": "SK",
+	"latitude": 51.8261,
+	"longitude": -106.5416
+},
+{
+	"City": "Assiniboia",
+	"State": "SK",
+	"latitude": 49.6167,
+	"longitude": -105.9833
+},
+{
+	"City": "Rosthern No. 403",
+	"State": "SK",
+	"latitude": 52.6206,
+	"longitude": -106.3967
+},
+{
+	"City": "Outlook",
+	"State": "SK",
+	"latitude": 51.5,
+	"longitude": -107.05
+},
+{
+	"City": "Canora",
+	"State": "SK",
+	"latitude": 51.6339,
+	"longitude": -102.4369
+},
+{
+	"City": "Pilot Butte",
+	"State": "SK",
+	"latitude": 50.4667,
+	"longitude": -104.4167
+},
+{
+	"City": "Biggar",
+	"State": "SK",
+	"latitude": 52.059,
+	"longitude": -107.979
+},
+{
+	"City": "Britannia No. 502",
+	"State": "SK",
+	"latitude": 53.4236,
+	"longitude": -109.7772
+},
+{
+	"City": "Maple Creek",
+	"State": "SK",
+	"latitude": 49.9167,
+	"longitude": -109.4667
+},
+{
+	"City": "Rama",
+	"State": "SK",
+	"latitude": 51.7578,
+	"longitude": -103.0008
+},
+{
+	"City": "Blucher",
+	"State": "SK",
+	"latitude": 52.0134,
+	"longitude": -106.2176
+},
+{
+	"City": "Lumsden No. 189",
+	"State": "SK",
+	"latitude": 50.6734,
+	"longitude": -104.7686
+},
+{
+	"City": "Swift Current No. 137",
+	"State": "SK",
+	"latitude": 50.2211,
+	"longitude": -107.8559
+},
+{
+	"City": "Fort QuâAppelle",
+	"State": "SK",
+	"latitude": 50.7667,
+	"longitude": -103.7833
+},
+{
+	"City": "Indian Head",
+	"State": "SK",
+	"latitude": 50.5333,
+	"longitude": -103.6667
+},
+{
+	"City": "Watrous",
+	"State": "SK",
+	"latitude": 51.6841,
+	"longitude": -105.4661
+},
+{
+	"City": "Orkney No. 244",
+	"State": "SK",
+	"latitude": 51.2557,
+	"longitude": -102.6469
+},
+{
+	"City": "Dalmeny",
+	"State": "SK",
+	"latitude": 52.3411,
+	"longitude": -106.7733
+},
+{
+	"City": "Kamsack",
+	"State": "SK",
+	"latitude": 51.565,
+	"longitude": -101.8947
+},
+{
+	"City": "Lumsden",
+	"State": "SK",
+	"latitude": 50.6463,
+	"longitude": -104.8676
+},
+{
+	"City": "Wynyard",
+	"State": "SK",
+	"latitude": 51.7667,
+	"longitude": -104.1833
+},
+{
+	"City": "Shaunavon",
+	"State": "SK",
+	"latitude": 49.651,
+	"longitude": -108.412
+},
+{
+	"City": "Rosthern",
+	"State": "SK",
+	"latitude": 52.65,
+	"longitude": -106.3333
+},
+{
+	"City": "Wilton No. 472",
+	"State": "SK",
+	"latitude": 53.124,
+	"longitude": -109.7885
+},
+{
+	"City": "Balgonie",
+	"State": "SK",
+	"latitude": 50.488,
+	"longitude": -104.269
+},
+{
+	"City": "Shellbrook No. 493",
+	"State": "SK",
+	"latitude": 53.3545,
+	"longitude": -106.2553
+},
+{
+	"City": "Hudson Bay",
+	"State": "SK",
+	"latitude": 52.851,
+	"longitude": -102.392
+},
+{
+	"City": "Carlyle",
+	"State": "SK",
+	"latitude": 49.6333,
+	"longitude": -102.2667
+},
+{
+	"City": "Langham",
+	"State": "SK",
+	"latitude": 52.3667,
+	"longitude": -106.9667
+},
+{
+	"City": "Frenchman Butte",
+	"State": "SK",
+	"latitude": 53.6052,
+	"longitude": -109.4298
+},
+{
+	"City": "Torch River No. 488",
+	"State": "SK",
+	"latitude": 53.5445,
+	"longitude": -104.4619
+},
+{
+	"City": "Shellbrook",
+	"State": "SK",
+	"latitude": 53.2167,
+	"longitude": -106.4
+},
+{
+	"City": "Macklin",
+	"State": "SK",
+	"latitude": 52.33,
+	"longitude": -109.94
+},
+{
+	"City": "Creighton",
+	"State": "SK",
+	"latitude": 54.7561,
+	"longitude": -101.8973
+},
+{
+	"City": "Laird No. 404",
+	"State": "SK",
+	"latitude": 52.5696,
+	"longitude": -106.7312
+},
+{
+	"City": "Canwood No. 494",
+	"State": "SK",
+	"latitude": 53.4574,
+	"longitude": -106.7768
+},
+{
+	"City": "Estevan No. 5",
+	"State": "SK",
+	"latitude": 49.1308,
+	"longitude": -103.0126
+},
+{
+	"City": "Spiritwood No. 496",
+	"State": "SK",
+	"latitude": 53.4435,
+	"longitude": -107.4495
+},
+{
+	"City": "Oxbow",
+	"State": "SK",
+	"latitude": 49.2333,
+	"longitude": -102.1667
+},
+{
+	"City": "Wadena",
+	"State": "SK",
+	"latitude": 51.9458,
+	"longitude": -103.8014
+},
+{
+	"City": "Wilkie",
+	"State": "SK",
+	"latitude": 52.4167,
+	"longitude": -108.7
+},
+{
+	"City": "Ile-Ã -la-Crosse",
+	"State": "SK",
+	"latitude": 55.45,
+	"longitude": -107.8833
+},
+{
+	"City": "South Qu'Appelle No. 157",
+	"State": "SK",
+	"latitude": 50.5389,
+	"longitude": -104.0141
+},
+{
+	"City": "Mervin No. 499",
+	"State": "SK",
+	"latitude": 53.5455,
+	"longitude": -108.8762
+},
+{
+	"City": "Osler",
+	"State": "SK",
+	"latitude": 52.37,
+	"longitude": -106.54
+},
+{
+	"City": "Lanigan",
+	"State": "SK",
+	"latitude": 51.85,
+	"longitude": -105.0333
+},
+{
+	"City": "Lajord No. 128",
+	"State": "SK",
+	"latitude": 50.1965,
+	"longitude": -104.2507
+},
+{
+	"City": "Beaver River",
+	"State": "SK",
+	"latitude": 54.3531,
+	"longitude": -109.5575
+},
+{
+	"City": "Langenburg",
+	"State": "SK",
+	"latitude": 50.8333,
+	"longitude": -101.7
+},
+{
+	"City": "Moose Jaw No. 161",
+	"State": "SK",
+	"latitude": 50.4433,
+	"longitude": -105.5091
+},
+{
+	"City": "Maidstone",
+	"State": "SK",
+	"latitude": 53.092,
+	"longitude": -109.294
+},
+{
+	"City": "Battle River No. 438",
+	"State": "SK",
+	"latitude": 52.7343,
+	"longitude": -108.4452
+},
+{
+	"City": "Kipling",
+	"State": "SK",
+	"latitude": 50.1015,
+	"longitude": -102.6324
+},
+{
+	"City": "Carnduff",
+	"State": "SK",
+	"latitude": 49.167,
+	"longitude": -101.783
+},
+{
+	"City": "Foam Lake",
+	"State": "SK",
+	"latitude": 51.65,
+	"longitude": -103.5333
+},
+{
+	"City": "Gravelbourg",
+	"State": "SK",
+	"latitude": 49.874,
+	"longitude": -106.555
+},
+{
+	"City": "Hudson Bay No. 394",
+	"State": "SK",
+	"latitude": 53.0295,
+	"longitude": -102.3122
+},
+{
+	"City": "Buffalo Narrows",
+	"State": "SK",
+	"latitude": 55.8769,
+	"longitude": -108.5244
+},
+{
+	"City": "Air Ronge",
+	"State": "SK",
+	"latitude": 55.0872,
+	"longitude": -105.3318
+},
+{
+	"City": "Grenfell",
+	"State": "SK",
+	"latitude": 50.4167,
+	"longitude": -102.9167
+},
+{
+	"City": "St. Louis No. 431",
+	"State": "SK",
+	"latitude": 52.8277,
+	"longitude": -105.7873
+},
+{
+	"City": "Regina Beach",
+	"State": "SK",
+	"latitude": 50.79,
+	"longitude": -104.99
+},
+{
+	"City": "Pinehouse",
+	"State": "SK",
+	"latitude": 55.5136,
+	"longitude": -106.5986
+},
+{
+	"City": "Preeceville",
+	"State": "SK",
+	"latitude": 51.958,
+	"longitude": -102.6673
+},
+{
+	"City": "Maple Creek No. 111",
+	"State": "SK",
+	"latitude": 49.8044,
+	"longitude": -109.6508
+},
+{
+	"City": "Weyburn No. 67",
+	"State": "SK",
+	"latitude": 49.6535,
+	"longitude": -103.8348
+},
+{
+	"City": "Birch Hills",
+	"State": "SK",
+	"latitude": 52.9833,
+	"longitude": -105.4333
+},
+{
+	"City": "Kerrobert",
+	"State": "SK",
+	"latitude": 51.92,
+	"longitude": -109.1272
+},
+{
+	"City": "Eston",
+	"State": "SK",
+	"latitude": 51.15,
+	"longitude": -108.75
+},
+{
+	"City": "Kindersley No. 290",
+	"State": "SK",
+	"latitude": 51.4894,
+	"longitude": -109.0979
+},
+{
+	"City": "Delisle",
+	"State": "SK",
+	"latitude": 51.9254,
+	"longitude": -107.1333
+},
+{
+	"City": "Waldheim",
+	"State": "SK",
+	"latitude": 52.65,
+	"longitude": -106.6167
+},
+{
+	"City": "Davidson",
+	"State": "SK",
+	"latitude": 51.2667,
+	"longitude": -105.9667
+},
+{
+	"City": "Longlaketon No. 219",
+	"State": "SK",
+	"latitude": 50.9386,
+	"longitude": -104.6913
+},
+{
+	"City": "Nipawin No. 487",
+	"State": "SK",
+	"latitude": 53.2881,
+	"longitude": -104.0544
+},
+{
+	"City": "Duck Lake No. 463",
+	"State": "SK",
+	"latitude": 52.9596,
+	"longitude": -106.2089
+}]

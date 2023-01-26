@@ -1,0 +1,871 @@
+[
+{
+	"City": "Vancouver",
+	"State": "BC",
+	"latitude": 49.25,
+	"longitude": -123.1
+},
+{
+	"City": "Surrey",
+	"State": "BC",
+	"latitude": 49.19,
+	"longitude": -122.8489
+},
+{
+	"City": "Victoria",
+	"State": "BC",
+	"latitude": 48.4283,
+	"longitude": -123.3647
+},
+{
+	"City": "Burnaby",
+	"State": "BC",
+	"latitude": 49.2667,
+	"longitude": -122.9667
+},
+{
+	"City": "Richmond",
+	"State": "BC",
+	"latitude": 49.1667,
+	"longitude": -123.1333
+},
+{
+	"City": "Kelowna",
+	"State": "BC",
+	"latitude": 49.8881,
+	"longitude": -119.4956
+},
+{
+	"City": "Abbotsford",
+	"State": "BC",
+	"latitude": 49.05,
+	"longitude": -122.3167
+},
+{
+	"City": "Coquitlam",
+	"State": "BC",
+	"latitude": 49.2839,
+	"longitude": -122.7919
+},
+{
+	"City": "Langley",
+	"State": "BC",
+	"latitude": 49.1044,
+	"longitude": -122.5827
+},
+{
+	"City": "Saanich",
+	"State": "BC",
+	"latitude": 48.484,
+	"longitude": -123.381
+},
+{
+	"City": "Delta",
+	"State": "BC",
+	"latitude": 49.0847,
+	"longitude": -123.0586
+},
+{
+	"City": "Kamloops",
+	"State": "BC",
+	"latitude": 50.6761,
+	"longitude": -120.3408
+},
+{
+	"City": "Nanaimo",
+	"State": "BC",
+	"latitude": 49.1642,
+	"longitude": -123.9364
+},
+{
+	"City": "North Vancouver",
+	"State": "BC",
+	"latitude": 49.3641,
+	"longitude": -123.0066
+},
+{
+	"City": "Chilliwack",
+	"State": "BC",
+	"latitude": 49.1577,
+	"longitude": -121.9509
+},
+{
+	"City": "White Rock",
+	"State": "BC",
+	"latitude": 49.025,
+	"longitude": -122.8028
+},
+{
+	"City": "Maple Ridge",
+	"State": "BC",
+	"latitude": 49.2167,
+	"longitude": -122.6
+},
+{
+	"City": "Prince George",
+	"State": "BC",
+	"latitude": 53.9169,
+	"longitude": -122.7494
+},
+{
+	"City": "New Westminster",
+	"State": "BC",
+	"latitude": 49.2069,
+	"longitude": -122.9111
+},
+{
+	"City": "Port Coquitlam",
+	"State": "BC",
+	"latitude": 49.2625,
+	"longitude": -122.7811
+},
+{
+	"City": "Vernon",
+	"State": "BC",
+	"latitude": 50.267,
+	"longitude": -119.272
+},
+{
+	"City": "Duncan",
+	"State": "BC",
+	"latitude": 48.7787,
+	"longitude": -123.7079
+},
+{
+	"City": "West Vancouver",
+	"State": "BC",
+	"latitude": 49.3667,
+	"longitude": -123.1667
+},
+{
+	"City": "Mission",
+	"State": "BC",
+	"latitude": 49.1337,
+	"longitude": -122.3112
+},
+{
+	"City": "Langford Station",
+	"State": "BC",
+	"latitude": 48.4506,
+	"longitude": -123.5058
+},
+{
+	"City": "Campbell River",
+	"State": "BC",
+	"latitude": 50.0244,
+	"longitude": -125.2475
+},
+{
+	"City": "Penticton",
+	"State": "BC",
+	"latitude": 49.4911,
+	"longitude": -119.5886
+},
+{
+	"City": "Port Moody",
+	"State": "BC",
+	"latitude": 49.2831,
+	"longitude": -122.8317
+},
+{
+	"City": "East Kelowna",
+	"State": "BC",
+	"latitude": 49.8625,
+	"longitude": -119.5833
+},
+{
+	"City": "North Cowichan",
+	"State": "BC",
+	"latitude": 48.8236,
+	"longitude": -123.7192
+},
+{
+	"City": "Courtenay",
+	"State": "BC",
+	"latitude": 49.6878,
+	"longitude": -124.9944
+},
+{
+	"City": "Fort St. John",
+	"State": "BC",
+	"latitude": 56.2465,
+	"longitude": -120.8476
+},
+{
+	"City": "Squamish",
+	"State": "BC",
+	"latitude": 49.7017,
+	"longitude": -123.1589
+},
+{
+	"City": "Cranbrook",
+	"State": "BC",
+	"latitude": 49.5097,
+	"longitude": -115.7667
+},
+{
+	"City": "Pitt Meadows",
+	"State": "BC",
+	"latitude": 49.2333,
+	"longitude": -122.6833
+},
+{
+	"City": "Oak Bay",
+	"State": "BC",
+	"latitude": 48.4264,
+	"longitude": -123.3228
+},
+{
+	"City": "Salmon Arm",
+	"State": "BC",
+	"latitude": 50.7022,
+	"longitude": -119.2722
+},
+{
+	"City": "Port Alberni",
+	"State": "BC",
+	"latitude": 49.2339,
+	"longitude": -124.805
+},
+{
+	"City": "Esquimalt",
+	"State": "BC",
+	"latitude": 48.4306,
+	"longitude": -123.4147
+},
+{
+	"City": "Colwood",
+	"State": "BC",
+	"latitude": 48.4236,
+	"longitude": -123.4958
+},
+{
+	"City": "Central Saanich",
+	"State": "BC",
+	"latitude": 48.5142,
+	"longitude": -123.3839
+},
+{
+	"City": "Terrace",
+	"State": "BC",
+	"latitude": 54.5164,
+	"longitude": -128.5997
+},
+{
+	"City": "Comox",
+	"State": "BC",
+	"latitude": 49.6733,
+	"longitude": -124.9022
+},
+{
+	"City": "Powell River",
+	"State": "BC",
+	"latitude": 49.8353,
+	"longitude": -124.5247
+},
+{
+	"City": "Sooke",
+	"State": "BC",
+	"latitude": 48.3761,
+	"longitude": -123.7378
+},
+{
+	"City": "Dawson Creek",
+	"State": "BC",
+	"latitude": 55.7606,
+	"longitude": -120.2356
+},
+{
+	"City": "Lake Country",
+	"State": "BC",
+	"latitude": 50.0833,
+	"longitude": -119.4142
+},
+{
+	"City": "Parksville",
+	"State": "BC",
+	"latitude": 49.315,
+	"longitude": -124.312
+},
+{
+	"City": "Prince Rupert",
+	"State": "BC",
+	"latitude": 54.3122,
+	"longitude": -130.3271
+},
+{
+	"City": "Whistler",
+	"State": "BC",
+	"latitude": 50.1208,
+	"longitude": -122.9544
+},
+{
+	"City": "Sidney",
+	"State": "BC",
+	"latitude": 48.6506,
+	"longitude": -123.3986
+},
+{
+	"City": "Summerland",
+	"State": "BC",
+	"latitude": 49.6006,
+	"longitude": -119.6778
+},
+{
+	"City": "North Saanich",
+	"State": "BC",
+	"latitude": 48.6142,
+	"longitude": -123.42
+},
+{
+	"City": "Williams Lake",
+	"State": "BC",
+	"latitude": 52.1294,
+	"longitude": -122.1383
+},
+{
+	"City": "Nelson",
+	"State": "BC",
+	"latitude": 49.5,
+	"longitude": -117.2833
+},
+{
+	"City": "View Royal",
+	"State": "BC",
+	"latitude": 48.4517,
+	"longitude": -123.4339
+},
+{
+	"City": "Coldstream",
+	"State": "BC",
+	"latitude": 50.22,
+	"longitude": -119.2481
+},
+{
+	"City": "Sechelt",
+	"State": "BC",
+	"latitude": 49.4742,
+	"longitude": -123.7542
+},
+{
+	"City": "Quesnel",
+	"State": "BC",
+	"latitude": 52.9784,
+	"longitude": -122.4927
+},
+{
+	"City": "Qualicum Beach",
+	"State": "BC",
+	"latitude": 49.35,
+	"longitude": -124.4333
+},
+{
+	"City": "Ladysmith",
+	"State": "BC",
+	"latitude": 48.9975,
+	"longitude": -123.8203
+},
+{
+	"City": "Kitimat",
+	"State": "BC",
+	"latitude": 54,
+	"longitude": -128.7
+},
+{
+	"City": "Castlegar",
+	"State": "BC",
+	"latitude": 49.3256,
+	"longitude": -117.6661
+},
+{
+	"City": "Trail",
+	"State": "BC",
+	"latitude": 49.095,
+	"longitude": -117.71
+},
+{
+	"City": "Kimberley",
+	"State": "BC",
+	"latitude": 49.6697,
+	"longitude": -115.9775
+},
+{
+	"City": "Merritt",
+	"State": "BC",
+	"latitude": 50.1128,
+	"longitude": -120.7897
+},
+{
+	"City": "Hope",
+	"State": "BC",
+	"latitude": 49.3858,
+	"longitude": -121.4419
+},
+{
+	"City": "Kent",
+	"State": "BC",
+	"latitude": 49.2833,
+	"longitude": -121.75
+},
+{
+	"City": "Peachland",
+	"State": "BC",
+	"latitude": 49.7736,
+	"longitude": -119.7369
+},
+{
+	"City": "Northern Rockies",
+	"State": "BC",
+	"latitude": 59,
+	"longitude": -123.75
+},
+{
+	"City": "Creston",
+	"State": "BC",
+	"latitude": 49.09,
+	"longitude": -116.51
+},
+{
+	"City": "Smithers",
+	"State": "BC",
+	"latitude": 54.7819,
+	"longitude": -127.1681
+},
+{
+	"City": "Fernie",
+	"State": "BC",
+	"latitude": 49.5042,
+	"longitude": -115.0628
+},
+{
+	"City": "Spallumcheen",
+	"State": "BC",
+	"latitude": 50.4462,
+	"longitude": -119.2121
+},
+{
+	"City": "Osoyoos",
+	"State": "BC",
+	"latitude": 49.0325,
+	"longitude": -119.4661
+},
+{
+	"City": "Oliver",
+	"State": "BC",
+	"latitude": 49.1844,
+	"longitude": -119.55
+},
+{
+	"City": "Armstrong",
+	"State": "BC",
+	"latitude": 50.4483,
+	"longitude": -119.1961
+},
+{
+	"City": "Metchosin",
+	"State": "BC",
+	"latitude": 48.3819,
+	"longitude": -123.5378
+},
+{
+	"City": "Gibsons",
+	"State": "BC",
+	"latitude": 49.4028,
+	"longitude": -123.5036
+},
+{
+	"City": "Vanderhoof",
+	"State": "BC",
+	"latitude": 54.0143,
+	"longitude": -124.0089
+},
+{
+	"City": "Grand Forks",
+	"State": "BC",
+	"latitude": 49.0333,
+	"longitude": -118.44
+},
+{
+	"City": "Port Hardy",
+	"State": "BC",
+	"latitude": 50.7225,
+	"longitude": -127.4928
+},
+{
+	"City": "Sparwood",
+	"State": "BC",
+	"latitude": 49.7331,
+	"longitude": -114.8853
+},
+{
+	"City": "Cumberland",
+	"State": "BC",
+	"latitude": 49.6206,
+	"longitude": -125.0261
+},
+{
+	"City": "Rossland",
+	"State": "BC",
+	"latitude": 49.0786,
+	"longitude": -117.7992
+},
+{
+	"City": "Mackenzie",
+	"State": "BC",
+	"latitude": 55.3381,
+	"longitude": -123.0944
+},
+{
+	"City": "Golden",
+	"State": "BC",
+	"latitude": 51.3019,
+	"longitude": -116.9667
+},
+{
+	"City": "Bowen Island",
+	"State": "BC",
+	"latitude": 49.3833,
+	"longitude": -123.3833
+},
+{
+	"City": "Fruitvale",
+	"State": "BC",
+	"latitude": 49.1161,
+	"longitude": -117.5414
+},
+{
+	"City": "Westbank",
+	"State": "BC",
+	"latitude": 49.8423,
+	"longitude": -119.6743
+},
+{
+	"City": "Lumby",
+	"State": "BC",
+	"latitude": 50.2494,
+	"longitude": -118.9656
+},
+{
+	"City": "Invermere",
+	"State": "BC",
+	"latitude": 50.5083,
+	"longitude": -116.0303
+},
+{
+	"City": "Lake Cowichan",
+	"State": "BC",
+	"latitude": 48.8258,
+	"longitude": -124.0542
+},
+{
+	"City": "Ellison",
+	"State": "BC",
+	"latitude": 49.9646,
+	"longitude": -119.3178
+},
+{
+	"City": "Houston",
+	"State": "BC",
+	"latitude": 54.3975,
+	"longitude": -126.6419
+},
+{
+	"City": "Enderby",
+	"State": "BC",
+	"latitude": 50.5508,
+	"longitude": -119.1397
+},
+{
+	"City": "Cedar",
+	"State": "BC",
+	"latitude": 49.0853,
+	"longitude": -123.8259
+},
+{
+	"City": "Princeton",
+	"State": "BC",
+	"latitude": 49.4589,
+	"longitude": -120.506
+},
+{
+	"City": "Errington",
+	"State": "BC",
+	"latitude": 49.2874,
+	"longitude": -124.3433
+},
+{
+	"City": "Chetwynd",
+	"State": "BC",
+	"latitude": 55.6972,
+	"longitude": -121.6333
+},
+{
+	"City": "Pemberton",
+	"State": "BC",
+	"latitude": 50.3203,
+	"longitude": -122.8053
+},
+{
+	"City": "Elkford",
+	"State": "BC",
+	"latitude": 50.0214,
+	"longitude": -114.9158
+},
+{
+	"City": "Sicamous",
+	"State": "BC",
+	"latitude": 50.8378,
+	"longitude": -118.9703
+},
+{
+	"City": "Clearwater",
+	"State": "BC",
+	"latitude": 51.65,
+	"longitude": -120.0333
+},
+{
+	"City": "Lillooet",
+	"State": "BC",
+	"latitude": 50.6864,
+	"longitude": -121.9364
+},
+{
+	"City": "Chase",
+	"State": "BC",
+	"latitude": 50.8189,
+	"longitude": -119.6844
+},
+{
+	"City": "Highlands",
+	"State": "BC",
+	"latitude": 48.52,
+	"longitude": -123.5
+},
+{
+	"City": "Anmore",
+	"State": "BC",
+	"latitude": 49.3144,
+	"longitude": -122.8564
+},
+{
+	"City": "Cowichan Bay",
+	"State": "BC",
+	"latitude": 48.7666,
+	"longitude": -123.6743
+},
+{
+	"City": "Logan Lake",
+	"State": "BC",
+	"latitude": 50.4911,
+	"longitude": -120.8153
+},
+{
+	"City": "Saltair",
+	"State": "BC",
+	"latitude": 48.9504,
+	"longitude": -123.7637
+},
+{
+	"City": "Port McNeill",
+	"State": "BC",
+	"latitude": 50.5903,
+	"longitude": -127.0847
+},
+{
+	"City": "Tumbler Ridge",
+	"State": "BC",
+	"latitude": 55.1333,
+	"longitude": -121
+},
+{
+	"City": "One Hundred Mile House",
+	"State": "BC",
+	"latitude": 51.6413,
+	"longitude": -121.3127
+},
+{
+	"City": "Tofino",
+	"State": "BC",
+	"latitude": 49.1275,
+	"longitude": -125.8852
+},
+{
+	"City": "Nisga'a",
+	"State": "BC",
+	"latitude": 55.1078,
+	"longitude": -129.4293
+},
+{
+	"City": "Burns Lake",
+	"State": "BC",
+	"latitude": 54.2292,
+	"longitude": -125.7625
+},
+{
+	"City": "Warfield",
+	"State": "BC",
+	"latitude": 49.0953,
+	"longitude": -117.7344
+},
+{
+	"City": "Ucluelet",
+	"State": "BC",
+	"latitude": 48.9358,
+	"longitude": -125.5433
+},
+{
+	"City": "BarriÃ¨re",
+	"State": "BC",
+	"latitude": 51.1803,
+	"longitude": -120.1261
+},
+{
+	"City": "Naramata",
+	"State": "BC",
+	"latitude": 49.5886,
+	"longitude": -119.5838
+},
+{
+	"City": "Royston",
+	"State": "BC",
+	"latitude": 49.6405,
+	"longitude": -124.9406
+},
+{
+	"City": "Coombs",
+	"State": "BC",
+	"latitude": 49.3008,
+	"longitude": -124.4049
+},
+{
+	"City": "Nakusp",
+	"State": "BC",
+	"latitude": 50.2434,
+	"longitude": -117.8002
+},
+{
+	"City": "Lakeview",
+	"State": "BC",
+	"latitude": 49.9026,
+	"longitude": -119.5699
+},
+{
+	"City": "Fort St. James",
+	"State": "BC",
+	"latitude": 54.4431,
+	"longitude": -124.2542
+},
+{
+	"City": "Ashcroft",
+	"State": "BC",
+	"latitude": 50.7256,
+	"longitude": -121.2806
+},
+{
+	"City": "Hilliers",
+	"State": "BC",
+	"latitude": 49.3022,
+	"longitude": -124.4727
+},
+{
+	"City": "Keremeos",
+	"State": "BC",
+	"latitude": 49.2025,
+	"longitude": -119.8294
+},
+{
+	"City": "Gold River",
+	"State": "BC",
+	"latitude": 49.7769,
+	"longitude": -126.0514
+},
+{
+	"City": "Grindrod",
+	"State": "BC",
+	"latitude": 50.63,
+	"longitude": -119.1314
+},
+{
+	"City": "Harrison Hot Springs",
+	"State": "BC",
+	"latitude": 49.3,
+	"longitude": -121.7819
+},
+{
+	"City": "Popkum",
+	"State": "BC",
+	"latitude": 49.1911,
+	"longitude": -121.7553
+},
+{
+	"City": "Taylor",
+	"State": "BC",
+	"latitude": 56.159,
+	"longitude": -120.6878
+},
+{
+	"City": "Lions Bay",
+	"State": "BC",
+	"latitude": 49.4581,
+	"longitude": -123.2369
+},
+{
+	"City": "Dunsmuir",
+	"State": "BC",
+	"latitude": 49.3696,
+	"longitude": -124.5772
+},
+{
+	"City": "Telkwa",
+	"State": "BC",
+	"latitude": 54.6972,
+	"longitude": -127.05
+},
+{
+	"City": "Sorrento",
+	"State": "BC",
+	"latitude": 50.8832,
+	"longitude": -119.4782
+},
+{
+	"City": "Kaleden",
+	"State": "BC",
+	"latitude": 49.3926,
+	"longitude": -119.5955
+},
+{
+	"City": "Salmo",
+	"State": "BC",
+	"latitude": 49.1942,
+	"longitude": -117.2778
+},
+{
+	"City": "Windermere",
+	"State": "BC",
+	"latitude": 50.4856,
+	"longitude": -115.9948
+},
+{
+	"City": "Youbou",
+	"State": "BC",
+	"latitude": 48.8562,
+	"longitude": -124.1731
+},
+{
+	"City": "Ootischenia",
+	"State": "BC",
+	"latitude": 49.2916,
+	"longitude": -117.6323
+},
+{
+	"City": "Valemount",
+	"State": "BC",
+	"latitude": 52.8284,
+	"longitude": -119.2659
+},
+{
+	"City": "Hudson Hope",
+	"State": "BC",
+	"latitude": 56.0316,
+	"longitude": -121.9057
+}]

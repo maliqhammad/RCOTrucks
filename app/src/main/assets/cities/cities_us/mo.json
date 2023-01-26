@@ -1,0 +1,6121 @@
+[
+{
+	"City": "St. Louis",
+	"State": "MO",
+	"latitude": 38.6358,
+	"longitude": -90.2451
+},
+{
+	"City": "Kansas City",
+	"State": "MO",
+	"latitude": 39.1239,
+	"longitude": -94.5541
+},
+{
+	"City": "Springfield",
+	"State": "MO",
+	"latitude": 37.1943,
+	"longitude": -93.2916
+},
+{
+	"City": "Columbia",
+	"State": "MO",
+	"latitude": 38.9478,
+	"longitude": -92.3256
+},
+{
+	"City": "Independence",
+	"State": "MO",
+	"latitude": 39.0871,
+	"longitude": -94.3501
+},
+{
+	"City": "Lee's Summit",
+	"State": "MO",
+	"latitude": 38.9172,
+	"longitude": -94.3816
+},
+{
+	"City": "O'Fallon",
+	"State": "MO",
+	"latitude": 38.785,
+	"longitude": -90.7175
+},
+{
+	"City": "Joplin",
+	"State": "MO",
+	"latitude": 37.0758,
+	"longitude": -94.5018
+},
+{
+	"City": "St. Joseph",
+	"State": "MO",
+	"latitude": 39.7599,
+	"longitude": -94.821
+},
+{
+	"City": "St. Charles",
+	"State": "MO",
+	"latitude": 38.7954,
+	"longitude": -90.5157
+},
+{
+	"City": "St. Peters",
+	"State": "MO",
+	"latitude": 38.7824,
+	"longitude": -90.6061
+},
+{
+	"City": "Jefferson City",
+	"State": "MO",
+	"latitude": 38.5676,
+	"longitude": -92.1759
+},
+{
+	"City": "Cape Girardeau",
+	"State": "MO",
+	"latitude": 37.3108,
+	"longitude": -89.5597
+},
+{
+	"City": "Blue Springs",
+	"State": "MO",
+	"latitude": 39.0124,
+	"longitude": -94.2721
+},
+{
+	"City": "Florissant",
+	"State": "MO",
+	"latitude": 38.7996,
+	"longitude": -90.3269
+},
+{
+	"City": "Chesterfield",
+	"State": "MO",
+	"latitude": 38.6588,
+	"longitude": -90.5804
+},
+{
+	"City": "Farmington",
+	"State": "MO",
+	"latitude": 37.7821,
+	"longitude": -90.4288
+},
+{
+	"City": "Wentzville",
+	"State": "MO",
+	"latitude": 38.8152,
+	"longitude": -90.8667
+},
+{
+	"City": "Oakville",
+	"State": "MO",
+	"latitude": 38.4472,
+	"longitude": -90.3199
+},
+{
+	"City": "Wildwood",
+	"State": "MO",
+	"latitude": 38.5799,
+	"longitude": -90.6699
+},
+{
+	"City": "University City",
+	"State": "MO",
+	"latitude": 38.6657,
+	"longitude": -90.3315
+},
+{
+	"City": "Liberty",
+	"State": "MO",
+	"latitude": 39.2394,
+	"longitude": -94.4191
+},
+{
+	"City": "Ballwin",
+	"State": "MO",
+	"latitude": 38.5951,
+	"longitude": -90.55
+},
+{
+	"City": "Raytown",
+	"State": "MO",
+	"latitude": 38.9944,
+	"longitude": -94.4641
+},
+{
+	"City": "Mehlville",
+	"State": "MO",
+	"latitude": 38.5018,
+	"longitude": -90.3149
+},
+{
+	"City": "Kirkwood",
+	"State": "MO",
+	"latitude": 38.5788,
+	"longitude": -90.4203
+},
+{
+	"City": "Gladstone",
+	"State": "MO",
+	"latitude": 39.2133,
+	"longitude": -94.5593
+},
+{
+	"City": "Maryland Heights",
+	"State": "MO",
+	"latitude": 38.7189,
+	"longitude": -90.4749
+},
+{
+	"City": "Sedalia",
+	"State": "MO",
+	"latitude": 38.7042,
+	"longitude": -93.2351
+},
+{
+	"City": "Hazelwood",
+	"State": "MO",
+	"latitude": 38.7931,
+	"longitude": -90.3899
+},
+{
+	"City": "Branson",
+	"State": "MO",
+	"latitude": 36.651,
+	"longitude": -93.2635
+},
+{
+	"City": "Grandview",
+	"State": "MO",
+	"latitude": 38.8802,
+	"longitude": -94.5227
+},
+{
+	"City": "Belton",
+	"State": "MO",
+	"latitude": 38.8193,
+	"longitude": -94.5334
+},
+{
+	"City": "Webster Groves",
+	"State": "MO",
+	"latitude": 38.5866,
+	"longitude": -90.3544
+},
+{
+	"City": "Nixa",
+	"State": "MO",
+	"latitude": 37.0453,
+	"longitude": -93.296
+},
+{
+	"City": "Warrensburg",
+	"State": "MO",
+	"latitude": 38.7627,
+	"longitude": -93.726
+},
+{
+	"City": "Raymore",
+	"State": "MO",
+	"latitude": 38.8029,
+	"longitude": -94.4583
+},
+{
+	"City": "Arnold",
+	"State": "MO",
+	"latitude": 38.4296,
+	"longitude": -90.3733
+},
+{
+	"City": "Rolla",
+	"State": "MO",
+	"latitude": 37.9458,
+	"longitude": -91.7608
+},
+{
+	"City": "Ferguson",
+	"State": "MO",
+	"latitude": 38.749,
+	"longitude": -90.295
+},
+{
+	"City": "Ozark",
+	"State": "MO",
+	"latitude": 37.0361,
+	"longitude": -93.2155
+},
+{
+	"City": "Poplar Bluff",
+	"State": "MO",
+	"latitude": 36.7632,
+	"longitude": -90.4136
+},
+{
+	"City": "Affton",
+	"State": "MO",
+	"latitude": 38.5499,
+	"longitude": -90.3264
+},
+{
+	"City": "Old Jamestown",
+	"State": "MO",
+	"latitude": 38.8394,
+	"longitude": -90.2847
+},
+{
+	"City": "Creve Coeur",
+	"State": "MO",
+	"latitude": 38.6621,
+	"longitude": -90.443
+},
+{
+	"City": "Manchester",
+	"State": "MO",
+	"latitude": 38.583,
+	"longitude": -90.5065
+},
+{
+	"City": "Concord",
+	"State": "MO",
+	"latitude": 38.5117,
+	"longitude": -90.3574
+},
+{
+	"City": "Hannibal",
+	"State": "MO",
+	"latitude": 39.7097,
+	"longitude": -91.3939
+},
+{
+	"City": "Kirksville",
+	"State": "MO",
+	"latitude": 40.1986,
+	"longitude": -92.5753
+},
+{
+	"City": "Spanish Lake",
+	"State": "MO",
+	"latitude": 38.7884,
+	"longitude": -90.2078
+},
+{
+	"City": "Republic",
+	"State": "MO",
+	"latitude": 37.1452,
+	"longitude": -93.4446
+},
+{
+	"City": "Lemay",
+	"State": "MO",
+	"latitude": 38.5325,
+	"longitude": -90.2845
+},
+{
+	"City": "Lake St. Louis",
+	"State": "MO",
+	"latitude": 38.7846,
+	"longitude": -90.7886
+},
+{
+	"City": "Clayton",
+	"State": "MO",
+	"latitude": 38.6444,
+	"longitude": -90.3302
+},
+{
+	"City": "Sikeston",
+	"State": "MO",
+	"latitude": 36.8865,
+	"longitude": -89.587
+},
+{
+	"City": "Troy",
+	"State": "MO",
+	"latitude": 38.9708,
+	"longitude": -90.9715
+},
+{
+	"City": "Fort Leonard Wood",
+	"State": "MO",
+	"latitude": 37.7562,
+	"longitude": -92.1274
+},
+{
+	"City": "Carthage",
+	"State": "MO",
+	"latitude": 37.1503,
+	"longitude": -94.3225
+},
+{
+	"City": "Overland",
+	"State": "MO",
+	"latitude": 38.6966,
+	"longitude": -90.3689
+},
+{
+	"City": "Jackson",
+	"State": "MO",
+	"latitude": 37.3792,
+	"longitude": -89.6521
+},
+{
+	"City": "Lebanon",
+	"State": "MO",
+	"latitude": 37.6717,
+	"longitude": -92.6603
+},
+{
+	"City": "Jennings",
+	"State": "MO",
+	"latitude": 38.723,
+	"longitude": -90.2644
+},
+{
+	"City": "Grain Valley",
+	"State": "MO",
+	"latitude": 39.0168,
+	"longitude": -94.2085
+},
+{
+	"City": "Washington",
+	"State": "MO",
+	"latitude": 38.5514,
+	"longitude": -91.0151
+},
+{
+	"City": "Moberly",
+	"State": "MO",
+	"latitude": 39.419,
+	"longitude": -92.4365
+},
+{
+	"City": "Dardenne Prairie",
+	"State": "MO",
+	"latitude": 38.7566,
+	"longitude": -90.732
+},
+{
+	"City": "Marshall",
+	"State": "MO",
+	"latitude": 39.1147,
+	"longitude": -93.201
+},
+{
+	"City": "Maryville",
+	"State": "MO",
+	"latitude": 40.3428,
+	"longitude": -94.8701
+},
+{
+	"City": "St. Ann",
+	"State": "MO",
+	"latitude": 38.7266,
+	"longitude": -90.3872
+},
+{
+	"City": "Fulton",
+	"State": "MO",
+	"latitude": 38.8551,
+	"longitude": -91.9511
+},
+{
+	"City": "West Plains",
+	"State": "MO",
+	"latitude": 36.7378,
+	"longitude": -91.868
+},
+{
+	"City": "Neosho",
+	"State": "MO",
+	"latitude": 36.8441,
+	"longitude": -94.3756
+},
+{
+	"City": "Webb City",
+	"State": "MO",
+	"latitude": 37.1413,
+	"longitude": -94.4676
+},
+{
+	"City": "Eureka",
+	"State": "MO",
+	"latitude": 38.5015,
+	"longitude": -90.6492
+},
+{
+	"City": "Festus",
+	"State": "MO",
+	"latitude": 38.2192,
+	"longitude": -90.4095
+},
+{
+	"City": "Union",
+	"State": "MO",
+	"latitude": 38.44,
+	"longitude": -90.9927
+},
+{
+	"City": "Crestwood",
+	"State": "MO",
+	"latitude": 38.5569,
+	"longitude": -90.3782
+},
+{
+	"City": "Excelsior Springs",
+	"State": "MO",
+	"latitude": 39.339,
+	"longitude": -94.24
+},
+{
+	"City": "Bridgeton",
+	"State": "MO",
+	"latitude": 38.7673,
+	"longitude": -90.4275
+},
+{
+	"City": "Mexico",
+	"State": "MO",
+	"latitude": 39.1625,
+	"longitude": -91.8711
+},
+{
+	"City": "Town and Country",
+	"State": "MO",
+	"latitude": 38.6317,
+	"longitude": -90.479
+},
+{
+	"City": "Bolivar",
+	"State": "MO",
+	"latitude": 37.6057,
+	"longitude": -93.4174
+},
+{
+	"City": "Kearney",
+	"State": "MO",
+	"latitude": 39.355,
+	"longitude": -94.3598
+},
+{
+	"City": "Smithville",
+	"State": "MO",
+	"latitude": 39.3921,
+	"longitude": -94.5748
+},
+{
+	"City": "Pacific",
+	"State": "MO",
+	"latitude": 38.4805,
+	"longitude": -90.7541
+},
+{
+	"City": "Bellefontaine Neighbors",
+	"State": "MO",
+	"latitude": 38.7529,
+	"longitude": -90.228
+},
+{
+	"City": "Kennett",
+	"State": "MO",
+	"latitude": 36.2403,
+	"longitude": -90.0481
+},
+{
+	"City": "Harrisonville",
+	"State": "MO",
+	"latitude": 38.6529,
+	"longitude": -94.3467
+},
+{
+	"City": "Ellisville",
+	"State": "MO",
+	"latitude": 38.5897,
+	"longitude": -90.5884
+},
+{
+	"City": "Chillicothe",
+	"State": "MO",
+	"latitude": 39.7953,
+	"longitude": -93.5499
+},
+{
+	"City": "Warrenton",
+	"State": "MO",
+	"latitude": 38.8187,
+	"longitude": -91.1384
+},
+{
+	"City": "Cameron",
+	"State": "MO",
+	"latitude": 39.7469,
+	"longitude": -94.2364
+},
+{
+	"City": "Platte City",
+	"State": "MO",
+	"latitude": 39.3576,
+	"longitude": -94.7655
+},
+{
+	"City": "Boonville",
+	"State": "MO",
+	"latitude": 38.9588,
+	"longitude": -92.7471
+},
+{
+	"City": "Sullivan",
+	"State": "MO",
+	"latitude": 38.2129,
+	"longitude": -91.1636
+},
+{
+	"City": "Monett",
+	"State": "MO",
+	"latitude": 36.922,
+	"longitude": -93.9261
+},
+{
+	"City": "Dexter",
+	"State": "MO",
+	"latitude": 36.7928,
+	"longitude": -89.9634
+},
+{
+	"City": "Clinton",
+	"State": "MO",
+	"latitude": 38.3716,
+	"longitude": -93.7679
+},
+{
+	"City": "Berkeley",
+	"State": "MO",
+	"latitude": 38.7439,
+	"longitude": -90.3361
+},
+{
+	"City": "Richmond Heights",
+	"State": "MO",
+	"latitude": 38.6309,
+	"longitude": -90.3333
+},
+{
+	"City": "Nevada",
+	"State": "MO",
+	"latitude": 37.8445,
+	"longitude": -94.3492
+},
+{
+	"City": "Des Peres",
+	"State": "MO",
+	"latitude": 38.5973,
+	"longitude": -90.448
+},
+{
+	"City": "Perryville",
+	"State": "MO",
+	"latitude": 37.7263,
+	"longitude": -89.8759
+},
+{
+	"City": "Pleasant Hill",
+	"State": "MO",
+	"latitude": 38.8061,
+	"longitude": -94.2655
+},
+{
+	"City": "Ladue",
+	"State": "MO",
+	"latitude": 38.6378,
+	"longitude": -90.3815
+},
+{
+	"City": "Park Hills",
+	"State": "MO",
+	"latitude": 37.8211,
+	"longitude": -90.505
+},
+{
+	"City": "Sunset Hills",
+	"State": "MO",
+	"latitude": 38.531,
+	"longitude": -90.4087
+},
+{
+	"City": "Aurora",
+	"State": "MO",
+	"latitude": 36.9674,
+	"longitude": -93.7183
+},
+{
+	"City": "Carl Junction",
+	"State": "MO",
+	"latitude": 37.1668,
+	"longitude": -94.5468
+},
+{
+	"City": "Oak Grove",
+	"State": "MO",
+	"latitude": 39.0077,
+	"longitude": -94.1283
+},
+{
+	"City": "Maplewood",
+	"State": "MO",
+	"latitude": 38.6121,
+	"longitude": -90.324
+},
+{
+	"City": "Brentwood",
+	"State": "MO",
+	"latitude": 38.6194,
+	"longitude": -90.3476
+},
+{
+	"City": "Murphy",
+	"State": "MO",
+	"latitude": 38.4922,
+	"longitude": -90.4856
+},
+{
+	"City": "Olivette",
+	"State": "MO",
+	"latitude": 38.6724,
+	"longitude": -90.3786
+},
+{
+	"City": "Forsyth",
+	"State": "MO",
+	"latitude": 36.686,
+	"longitude": -93.1016
+},
+{
+	"City": "Marshfield",
+	"State": "MO",
+	"latitude": 37.3414,
+	"longitude": -92.9116
+},
+{
+	"City": "Sappington",
+	"State": "MO",
+	"latitude": 38.526,
+	"longitude": -90.373
+},
+{
+	"City": "Parkville",
+	"State": "MO",
+	"latitude": 39.2004,
+	"longitude": -94.7222
+},
+{
+	"City": "De Soto",
+	"State": "MO",
+	"latitude": 38.141,
+	"longitude": -90.5609
+},
+{
+	"City": "Bonne Terre",
+	"State": "MO",
+	"latitude": 37.9209,
+	"longitude": -90.5426
+},
+{
+	"City": "Black Jack",
+	"State": "MO",
+	"latitude": 38.7993,
+	"longitude": -90.264
+},
+{
+	"City": "Valley Park",
+	"State": "MO",
+	"latitude": 38.5513,
+	"longitude": -90.4924
+},
+{
+	"City": "Battlefield",
+	"State": "MO",
+	"latitude": 37.1194,
+	"longitude": -93.3683
+},
+{
+	"City": "St. John",
+	"State": "MO",
+	"latitude": 38.7148,
+	"longitude": -90.3462
+},
+{
+	"City": "St. Robert",
+	"State": "MO",
+	"latitude": 37.8244,
+	"longitude": -92.1532
+},
+{
+	"City": "Shrewsbury",
+	"State": "MO",
+	"latitude": 38.5866,
+	"longitude": -90.3282
+},
+{
+	"City": "Pevely",
+	"State": "MO",
+	"latitude": 38.2863,
+	"longitude": -90.4005
+},
+{
+	"City": "St. Clair",
+	"State": "MO",
+	"latitude": 38.3479,
+	"longitude": -90.9934
+},
+{
+	"City": "Barnhart",
+	"State": "MO",
+	"latitude": 38.336,
+	"longitude": -90.4046
+},
+{
+	"City": "Willard",
+	"State": "MO",
+	"latitude": 37.2929,
+	"longitude": -93.4171
+},
+{
+	"City": "Glendale",
+	"State": "MO",
+	"latitude": 38.5935,
+	"longitude": -90.3825
+},
+{
+	"City": "Greenwood",
+	"State": "MO",
+	"latitude": 38.8508,
+	"longitude": -94.3378
+},
+{
+	"City": "Trenton",
+	"State": "MO",
+	"latitude": 40.0819,
+	"longitude": -93.603
+},
+{
+	"City": "Richmond",
+	"State": "MO",
+	"latitude": 39.2755,
+	"longitude": -93.9731
+},
+{
+	"City": "Cottleville",
+	"State": "MO",
+	"latitude": 38.7513,
+	"longitude": -90.6582
+},
+{
+	"City": "Bowling Green",
+	"State": "MO",
+	"latitude": 39.3447,
+	"longitude": -91.2032
+},
+{
+	"City": "Weldon Spring",
+	"State": "MO",
+	"latitude": 38.7118,
+	"longitude": -90.6513
+},
+{
+	"City": "Peculiar",
+	"State": "MO",
+	"latitude": 38.7306,
+	"longitude": -94.4736
+},
+{
+	"City": "Charleston",
+	"State": "MO",
+	"latitude": 36.9179,
+	"longitude": -89.3344
+},
+{
+	"City": "Caruthersville",
+	"State": "MO",
+	"latitude": 36.1814,
+	"longitude": -89.6664
+},
+{
+	"City": "Macon",
+	"State": "MO",
+	"latitude": 39.7424,
+	"longitude": -92.4712
+},
+{
+	"City": "Savannah",
+	"State": "MO",
+	"latitude": 39.9391,
+	"longitude": -94.8279
+},
+{
+	"City": "Waynesville",
+	"State": "MO",
+	"latitude": 37.8207,
+	"longitude": -92.22
+},
+{
+	"City": "Odessa",
+	"State": "MO",
+	"latitude": 38.9988,
+	"longitude": -93.9666
+},
+{
+	"City": "Scott City",
+	"State": "MO",
+	"latitude": 37.2243,
+	"longitude": -89.536
+},
+{
+	"City": "Dellwood",
+	"State": "MO",
+	"latitude": 38.7564,
+	"longitude": -90.2767
+},
+{
+	"City": "Salem",
+	"State": "MO",
+	"latitude": 37.6399,
+	"longitude": -91.5346
+},
+{
+	"City": "Glasgow Village",
+	"State": "MO",
+	"latitude": 38.7579,
+	"longitude": -90.1984
+},
+{
+	"City": "Desloge",
+	"State": "MO",
+	"latitude": 37.8751,
+	"longitude": -90.5192
+},
+{
+	"City": "Normandy",
+	"State": "MO",
+	"latitude": 38.7071,
+	"longitude": -90.3009
+},
+{
+	"City": "Potosi",
+	"State": "MO",
+	"latitude": 37.9337,
+	"longitude": -90.775
+},
+{
+	"City": "Eldon",
+	"State": "MO",
+	"latitude": 38.3512,
+	"longitude": -92.5766
+},
+{
+	"City": "Crystal City",
+	"State": "MO",
+	"latitude": 38.2226,
+	"longitude": -90.3813
+},
+{
+	"City": "Mountain Grove",
+	"State": "MO",
+	"latitude": 37.1341,
+	"longitude": -92.266
+},
+{
+	"City": "Osage Beach",
+	"State": "MO",
+	"latitude": 38.1353,
+	"longitude": -92.6479
+},
+{
+	"City": "Rock Hill",
+	"State": "MO",
+	"latitude": 38.6091,
+	"longitude": -90.3673
+},
+{
+	"City": "Higginsville",
+	"State": "MO",
+	"latitude": 39.0653,
+	"longitude": -93.727
+},
+{
+	"City": "Village of Four Seasons",
+	"State": "MO",
+	"latitude": 38.1974,
+	"longitude": -92.7179
+},
+{
+	"City": "Hollister",
+	"State": "MO",
+	"latitude": 36.6058,
+	"longitude": -93.2338
+},
+{
+	"City": "North Kansas City",
+	"State": "MO",
+	"latitude": 39.1396,
+	"longitude": -94.5643
+},
+{
+	"City": "Breckenridge Hills",
+	"State": "MO",
+	"latitude": 38.7158,
+	"longitude": -90.3685
+},
+{
+	"City": "Lexington",
+	"State": "MO",
+	"latitude": 39.1798,
+	"longitude": -93.8694
+},
+{
+	"City": "Mount Vernon",
+	"State": "MO",
+	"latitude": 37.105,
+	"longitude": -93.8191
+},
+{
+	"City": "High Ridge",
+	"State": "MO",
+	"latitude": 38.4608,
+	"longitude": -90.5339
+},
+{
+	"City": "California",
+	"State": "MO",
+	"latitude": 38.6304,
+	"longitude": -92.5667
+},
+{
+	"City": "Ste. Genevieve",
+	"State": "MO",
+	"latitude": 37.9747,
+	"longitude": -90.0481
+},
+{
+	"City": "Holts Summit",
+	"State": "MO",
+	"latitude": 38.6474,
+	"longitude": -92.1142
+},
+{
+	"City": "Wright City",
+	"State": "MO",
+	"latitude": 38.8341,
+	"longitude": -91.0399
+},
+{
+	"City": "Lamar",
+	"State": "MO",
+	"latitude": 37.4945,
+	"longitude": -94.2791
+},
+{
+	"City": "Centralia",
+	"State": "MO",
+	"latitude": 39.2105,
+	"longitude": -92.1341
+},
+{
+	"City": "Imperial",
+	"State": "MO",
+	"latitude": 38.3672,
+	"longitude": -90.3706
+},
+{
+	"City": "Fredericktown",
+	"State": "MO",
+	"latitude": 37.5643,
+	"longitude": -90.2987
+},
+{
+	"City": "Brookfield",
+	"State": "MO",
+	"latitude": 39.7853,
+	"longitude": -93.0772
+},
+{
+	"City": "Malden",
+	"State": "MO",
+	"latitude": 36.585,
+	"longitude": -89.9808
+},
+{
+	"City": "Whiteman AFB",
+	"State": "MO",
+	"latitude": 38.7302,
+	"longitude": -93.559
+},
+{
+	"City": "Camdenton",
+	"State": "MO",
+	"latitude": 38.0121,
+	"longitude": -92.75
+},
+{
+	"City": "Herculaneum",
+	"State": "MO",
+	"latitude": 38.2579,
+	"longitude": -90.3949
+},
+{
+	"City": "Cassville",
+	"State": "MO",
+	"latitude": 36.6786,
+	"longitude": -93.8682
+},
+{
+	"City": "Northwoods",
+	"State": "MO",
+	"latitude": 38.7035,
+	"longitude": -90.2824
+},
+{
+	"City": "Woodson Terrace",
+	"State": "MO",
+	"latitude": 38.7286,
+	"longitude": -90.36
+},
+{
+	"City": "St. James",
+	"State": "MO",
+	"latitude": 38.0013,
+	"longitude": -91.6153
+},
+{
+	"City": "Vandalia",
+	"State": "MO",
+	"latitude": 39.308,
+	"longitude": -91.4892
+},
+{
+	"City": "Fenton",
+	"State": "MO",
+	"latitude": 38.5279,
+	"longitude": -90.4489
+},
+{
+	"City": "Butler",
+	"State": "MO",
+	"latitude": 38.2598,
+	"longitude": -94.3393
+},
+{
+	"City": "Ashland",
+	"State": "MO",
+	"latitude": 38.7929,
+	"longitude": -92.2477
+},
+{
+	"City": "Rogersville",
+	"State": "MO",
+	"latitude": 37.1147,
+	"longitude": -93.0742
+},
+{
+	"City": "El Dorado Springs",
+	"State": "MO",
+	"latitude": 37.8694,
+	"longitude": -94.0196
+},
+{
+	"City": "Palmyra",
+	"State": "MO",
+	"latitude": 39.7985,
+	"longitude": -91.5272
+},
+{
+	"City": "Pine Lawn",
+	"State": "MO",
+	"latitude": 38.6953,
+	"longitude": -90.2756
+},
+{
+	"City": "Frontenac",
+	"State": "MO",
+	"latitude": 38.6301,
+	"longitude": -90.419
+},
+{
+	"City": "Riverside",
+	"State": "MO",
+	"latitude": 39.1703,
+	"longitude": -94.6305
+},
+{
+	"City": "Moscow Mills",
+	"State": "MO",
+	"latitude": 38.94,
+	"longitude": -90.9254
+},
+{
+	"City": "East Prairie",
+	"State": "MO",
+	"latitude": 36.7788,
+	"longitude": -89.3837
+},
+{
+	"City": "Carrollton",
+	"State": "MO",
+	"latitude": 39.3636,
+	"longitude": -93.4955
+},
+{
+	"City": "Tipton",
+	"State": "MO",
+	"latitude": 38.6549,
+	"longitude": -92.7803
+},
+{
+	"City": "Hillsboro",
+	"State": "MO",
+	"latitude": 38.233,
+	"longitude": -90.5671
+},
+{
+	"City": "Cuba",
+	"State": "MO",
+	"latitude": 38.0671,
+	"longitude": -91.4057
+},
+{
+	"City": "Pagedale",
+	"State": "MO",
+	"latitude": 38.6802,
+	"longitude": -90.308
+},
+{
+	"City": "Sugar Creek",
+	"State": "MO",
+	"latitude": 39.1421,
+	"longitude": -94.4018
+},
+{
+	"City": "Louisiana",
+	"State": "MO",
+	"latitude": 39.4413,
+	"longitude": -91.0626
+},
+{
+	"City": "Buffalo",
+	"State": "MO",
+	"latitude": 37.6444,
+	"longitude": -93.0969
+},
+{
+	"City": "Licking",
+	"State": "MO",
+	"latitude": 37.4993,
+	"longitude": -91.8618
+},
+{
+	"City": "Bethany",
+	"State": "MO",
+	"latitude": 40.2684,
+	"longitude": -94.0281
+},
+{
+	"City": "Kimberling City",
+	"State": "MO",
+	"latitude": 36.6441,
+	"longitude": -93.4239
+},
+{
+	"City": "Pleasant Valley",
+	"State": "MO",
+	"latitude": 39.2172,
+	"longitude": -94.481
+},
+{
+	"City": "Buckner",
+	"State": "MO",
+	"latitude": 39.1336,
+	"longitude": -94.1929
+},
+{
+	"City": "Byrnes Mill",
+	"State": "MO",
+	"latitude": 38.4395,
+	"longitude": -90.5741
+},
+{
+	"City": "Hayti",
+	"State": "MO",
+	"latitude": 36.2323,
+	"longitude": -89.7474
+},
+{
+	"City": "Portageville",
+	"State": "MO",
+	"latitude": 36.4295,
+	"longitude": -89.6994
+},
+{
+	"City": "Chaffee",
+	"State": "MO",
+	"latitude": 37.1812,
+	"longitude": -89.6615
+},
+{
+	"City": "New Madrid",
+	"State": "MO",
+	"latitude": 36.5879,
+	"longitude": -89.5505
+},
+{
+	"City": "Ava",
+	"State": "MO",
+	"latitude": 36.9546,
+	"longitude": -92.6661
+},
+{
+	"City": "Thayer",
+	"State": "MO",
+	"latitude": 36.5223,
+	"longitude": -91.5408
+},
+{
+	"City": "Riverview",
+	"State": "MO",
+	"latitude": 38.7441,
+	"longitude": -90.211
+},
+{
+	"City": "Castle Point",
+	"State": "MO",
+	"latitude": 38.7568,
+	"longitude": -90.2485
+},
+{
+	"City": "Owensville",
+	"State": "MO",
+	"latitude": 38.349,
+	"longitude": -91.4974
+},
+{
+	"City": "Knob Noster",
+	"State": "MO",
+	"latitude": 38.7674,
+	"longitude": -93.5616
+},
+{
+	"City": "Windsor",
+	"State": "MO",
+	"latitude": 38.5319,
+	"longitude": -93.5227
+},
+{
+	"City": "Clever",
+	"State": "MO",
+	"latitude": 37.0326,
+	"longitude": -93.474
+},
+{
+	"City": "Gray Summit",
+	"State": "MO",
+	"latitude": 38.4951,
+	"longitude": -90.8173
+},
+{
+	"City": "Fayette",
+	"State": "MO",
+	"latitude": 39.147,
+	"longitude": -92.6857
+},
+{
+	"City": "Montgomery City",
+	"State": "MO",
+	"latitude": 38.9737,
+	"longitude": -91.5024
+},
+{
+	"City": "Bel-Ridge",
+	"State": "MO",
+	"latitude": 38.7129,
+	"longitude": -90.3285
+},
+{
+	"City": "Oronogo",
+	"State": "MO",
+	"latitude": 37.1917,
+	"longitude": -94.4639
+},
+{
+	"City": "Terre du Lac",
+	"State": "MO",
+	"latitude": 37.9031,
+	"longitude": -90.6169
+},
+{
+	"City": "Warsaw",
+	"State": "MO",
+	"latitude": 38.2476,
+	"longitude": -93.3711
+},
+{
+	"City": "Mountain View",
+	"State": "MO",
+	"latitude": 36.9936,
+	"longitude": -91.7019
+},
+{
+	"City": "Green Park",
+	"State": "MO",
+	"latitude": 38.5243,
+	"longitude": -90.3366
+},
+{
+	"City": "Clarkson Valley",
+	"State": "MO",
+	"latitude": 38.6254,
+	"longitude": -90.5945
+},
+{
+	"City": "Villa Ridge",
+	"State": "MO",
+	"latitude": 38.468,
+	"longitude": -90.885
+},
+{
+	"City": "St. Paul",
+	"State": "MO",
+	"latitude": 38.8485,
+	"longitude": -90.7406
+},
+{
+	"City": "Ironton",
+	"State": "MO",
+	"latitude": 37.5984,
+	"longitude": -90.6379
+},
+{
+	"City": "Country Club",
+	"State": "MO",
+	"latitude": 39.8388,
+	"longitude": -94.8205
+},
+{
+	"City": "Versailles",
+	"State": "MO",
+	"latitude": 38.4332,
+	"longitude": -92.8453
+},
+{
+	"City": "Strafford",
+	"State": "MO",
+	"latitude": 37.2691,
+	"longitude": -93.1177
+},
+{
+	"City": "Monroe City",
+	"State": "MO",
+	"latitude": 39.6542,
+	"longitude": -91.7328
+},
+{
+	"City": "Lawson",
+	"State": "MO",
+	"latitude": 39.436,
+	"longitude": -94.2151
+},
+{
+	"City": "Seneca",
+	"State": "MO",
+	"latitude": 36.8447,
+	"longitude": -94.6093
+},
+{
+	"City": "Concordia",
+	"State": "MO",
+	"latitude": 38.9877,
+	"longitude": -93.5683
+},
+{
+	"City": "Moline Acres",
+	"State": "MO",
+	"latitude": 38.7456,
+	"longitude": -90.2429
+},
+{
+	"City": "Hermann",
+	"State": "MO",
+	"latitude": 38.6983,
+	"longitude": -91.4342
+},
+{
+	"City": "Canton",
+	"State": "MO",
+	"latitude": 40.1295,
+	"longitude": -91.5266
+},
+{
+	"City": "Wellston",
+	"State": "MO",
+	"latitude": 38.675,
+	"longitude": -90.2941
+},
+{
+	"City": "Plattsburg",
+	"State": "MO",
+	"latitude": 39.5644,
+	"longitude": -94.4615
+},
+{
+	"City": "Holden",
+	"State": "MO",
+	"latitude": 38.7136,
+	"longitude": -93.9895
+},
+{
+	"City": "Marionville",
+	"State": "MO",
+	"latitude": 37.0021,
+	"longitude": -93.6362
+},
+{
+	"City": "Marlborough",
+	"State": "MO",
+	"latitude": 38.5683,
+	"longitude": -90.3393
+},
+{
+	"City": "Vinita Park",
+	"State": "MO",
+	"latitude": 38.6888,
+	"longitude": -90.3393
+},
+{
+	"City": "Lake Lotawana",
+	"State": "MO",
+	"latitude": 38.902,
+	"longitude": -94.2626
+},
+{
+	"City": "Hanley Hills",
+	"State": "MO",
+	"latitude": 38.6856,
+	"longitude": -90.3249
+},
+{
+	"City": "Willow Springs",
+	"State": "MO",
+	"latitude": 36.9878,
+	"longitude": -91.9621
+},
+{
+	"City": "Marceline",
+	"State": "MO",
+	"latitude": 39.7167,
+	"longitude": -92.9473
+},
+{
+	"City": "Granby",
+	"State": "MO",
+	"latitude": 36.9181,
+	"longitude": -94.2607
+},
+{
+	"City": "Houston",
+	"State": "MO",
+	"latitude": 37.3212,
+	"longitude": -91.9611
+},
+{
+	"City": "Cabool",
+	"State": "MO",
+	"latitude": 37.1262,
+	"longitude": -92.1032
+},
+{
+	"City": "Elsberry",
+	"State": "MO",
+	"latitude": 39.1683,
+	"longitude": -90.7879
+},
+{
+	"City": "Weatherby Lake",
+	"State": "MO",
+	"latitude": 39.2365,
+	"longitude": -94.696
+},
+{
+	"City": "New Haven",
+	"State": "MO",
+	"latitude": 38.6048,
+	"longitude": -91.2179
+},
+{
+	"City": "St. George",
+	"State": "MO",
+	"latitude": 38.5376,
+	"longitude": -90.312
+},
+{
+	"City": "Kahoka",
+	"State": "MO",
+	"latitude": 40.4236,
+	"longitude": -91.7187
+},
+{
+	"City": "Seymour",
+	"State": "MO",
+	"latitude": 37.1485,
+	"longitude": -92.7694
+},
+{
+	"City": "Lathrop",
+	"State": "MO",
+	"latitude": 39.5512,
+	"longitude": -94.3286
+},
+{
+	"City": "Carterville",
+	"State": "MO",
+	"latitude": 37.1466,
+	"longitude": -94.4388
+},
+{
+	"City": "Sparta",
+	"State": "MO",
+	"latitude": 37.002,
+	"longitude": -93.0846
+},
+{
+	"City": "Stockton",
+	"State": "MO",
+	"latitude": 37.697,
+	"longitude": -93.796
+},
+{
+	"City": "Anderson",
+	"State": "MO",
+	"latitude": 36.6533,
+	"longitude": -94.4442
+},
+{
+	"City": "Doniphan",
+	"State": "MO",
+	"latitude": 36.6234,
+	"longitude": -90.8219
+},
+{
+	"City": "Warson Woods",
+	"State": "MO",
+	"latitude": 38.6069,
+	"longitude": -90.3912
+},
+{
+	"City": "Piedmont",
+	"State": "MO",
+	"latitude": 37.1492,
+	"longitude": -90.6969
+},
+{
+	"City": "Steele",
+	"State": "MO",
+	"latitude": 36.0904,
+	"longitude": -89.846
+},
+{
+	"City": "Bernie",
+	"State": "MO",
+	"latitude": 36.6717,
+	"longitude": -89.9707
+},
+{
+	"City": "Merriam Woods",
+	"State": "MO",
+	"latitude": 36.7179,
+	"longitude": -93.1715
+},
+{
+	"City": "Cedar Hill",
+	"State": "MO",
+	"latitude": 38.3575,
+	"longitude": -90.6409
+},
+{
+	"City": "Memphis",
+	"State": "MO",
+	"latitude": 40.4614,
+	"longitude": -92.1704
+},
+{
+	"City": "Bloomfield",
+	"State": "MO",
+	"latitude": 36.8877,
+	"longitude": -89.9309
+},
+{
+	"City": "Lake Ozark",
+	"State": "MO",
+	"latitude": 38.2035,
+	"longitude": -92.6257
+},
+{
+	"City": "Weston",
+	"State": "MO",
+	"latitude": 39.403,
+	"longitude": -94.886
+},
+{
+	"City": "Campbell",
+	"State": "MO",
+	"latitude": 36.493,
+	"longitude": -90.0762
+},
+{
+	"City": "Noel",
+	"State": "MO",
+	"latitude": 36.5433,
+	"longitude": -94.4888
+},
+{
+	"City": "Richland",
+	"State": "MO",
+	"latitude": 37.861,
+	"longitude": -92.3993
+},
+{
+	"City": "Milan",
+	"State": "MO",
+	"latitude": 40.2031,
+	"longitude": -93.124
+},
+{
+	"City": "Slater",
+	"State": "MO",
+	"latitude": 39.2227,
+	"longitude": -93.065
+},
+{
+	"City": "Gallatin",
+	"State": "MO",
+	"latitude": 39.9106,
+	"longitude": -93.9642
+},
+{
+	"City": "Unionville",
+	"State": "MO",
+	"latitude": 40.4757,
+	"longitude": -93.0044
+},
+{
+	"City": "Hamilton",
+	"State": "MO",
+	"latitude": 39.7426,
+	"longitude": -94.002
+},
+{
+	"City": "Albany",
+	"State": "MO",
+	"latitude": 40.2479,
+	"longitude": -94.3335
+},
+{
+	"City": "Steelville",
+	"State": "MO",
+	"latitude": 37.9696,
+	"longitude": -91.3545
+},
+{
+	"City": "Duquesne",
+	"State": "MO",
+	"latitude": 37.0711,
+	"longitude": -94.4573
+},
+{
+	"City": "Garden City",
+	"State": "MO",
+	"latitude": 38.5629,
+	"longitude": -94.1958
+},
+{
+	"City": "Senath",
+	"State": "MO",
+	"latitude": 36.134,
+	"longitude": -90.1614
+},
+{
+	"City": "Adrian",
+	"State": "MO",
+	"latitude": 38.396,
+	"longitude": -94.3498
+},
+{
+	"City": "Linn",
+	"State": "MO",
+	"latitude": 38.4788,
+	"longitude": -91.845
+},
+{
+	"City": "Shelbina",
+	"State": "MO",
+	"latitude": 39.693,
+	"longitude": -92.0396
+},
+{
+	"City": "Bourbon",
+	"State": "MO",
+	"latitude": 38.1505,
+	"longitude": -91.2493
+},
+{
+	"City": "Hallsville",
+	"State": "MO",
+	"latitude": 39.1196,
+	"longitude": -92.2268
+},
+{
+	"City": "Wardsville",
+	"State": "MO",
+	"latitude": 38.4901,
+	"longitude": -92.1791
+},
+{
+	"City": "Sarcoxie",
+	"State": "MO",
+	"latitude": 37.0683,
+	"longitude": -94.1259
+},
+{
+	"City": "Hillsdale",
+	"State": "MO",
+	"latitude": 38.6858,
+	"longitude": -90.2869
+},
+{
+	"City": "Fair Grove",
+	"State": "MO",
+	"latitude": 37.3833,
+	"longitude": -93.1522
+},
+{
+	"City": "Salisbury",
+	"State": "MO",
+	"latitude": 39.4233,
+	"longitude": -92.8025
+},
+{
+	"City": "Claycomo",
+	"State": "MO",
+	"latitude": 39.1986,
+	"longitude": -94.4788
+},
+{
+	"City": "Winchester",
+	"State": "MO",
+	"latitude": 38.5897,
+	"longitude": -90.526
+},
+{
+	"City": "Huntsville",
+	"State": "MO",
+	"latitude": 39.4364,
+	"longitude": -92.544
+},
+{
+	"City": "LaBarque Creek",
+	"State": "MO",
+	"latitude": 38.4163,
+	"longitude": -90.6777
+},
+{
+	"City": "Winfield",
+	"State": "MO",
+	"latitude": 38.9944,
+	"longitude": -90.7437
+},
+{
+	"City": "Belle",
+	"State": "MO",
+	"latitude": 38.2848,
+	"longitude": -91.7217
+},
+{
+	"City": "Bismarck",
+	"State": "MO",
+	"latitude": 37.7673,
+	"longitude": -90.6225
+},
+{
+	"City": "Marble Hill",
+	"State": "MO",
+	"latitude": 37.3032,
+	"longitude": -89.9808
+},
+{
+	"City": "Gower",
+	"State": "MO",
+	"latitude": 39.6129,
+	"longitude": -94.5947
+},
+{
+	"City": "Dixon",
+	"State": "MO",
+	"latitude": 37.9953,
+	"longitude": -92.0956
+},
+{
+	"City": "Ash Grove",
+	"State": "MO",
+	"latitude": 37.3177,
+	"longitude": -93.581
+},
+{
+	"City": "Tarkio",
+	"State": "MO",
+	"latitude": 40.443,
+	"longitude": -95.3835
+},
+{
+	"City": "Sweet Springs",
+	"State": "MO",
+	"latitude": 38.9649,
+	"longitude": -93.4152
+},
+{
+	"City": "Bel-Nor",
+	"State": "MO",
+	"latitude": 38.7017,
+	"longitude": -90.318
+},
+{
+	"City": "Lakeshire",
+	"State": "MO",
+	"latitude": 38.54,
+	"longitude": -90.3384
+},
+{
+	"City": "Duenweg",
+	"State": "MO",
+	"latitude": 37.0842,
+	"longitude": -94.4119
+},
+{
+	"City": "Oakland",
+	"State": "MO",
+	"latitude": 38.5768,
+	"longitude": -90.3849
+},
+{
+	"City": "Velda City",
+	"State": "MO",
+	"latitude": 38.6941,
+	"longitude": -90.2934
+},
+{
+	"City": "Crane",
+	"State": "MO",
+	"latitude": 36.9027,
+	"longitude": -93.5716
+},
+{
+	"City": "Charlack",
+	"State": "MO",
+	"latitude": 38.7029,
+	"longitude": -90.3427
+},
+{
+	"City": "Advance",
+	"State": "MO",
+	"latitude": 37.1038,
+	"longitude": -89.9119
+},
+{
+	"City": "Lone Jack",
+	"State": "MO",
+	"latitude": 38.8725,
+	"longitude": -94.174
+},
+{
+	"City": "Rich Hill",
+	"State": "MO",
+	"latitude": 38.0958,
+	"longitude": -94.3633
+},
+{
+	"City": "Gerald",
+	"State": "MO",
+	"latitude": 38.3992,
+	"longitude": -91.3305
+},
+{
+	"City": "Greenfield",
+	"State": "MO",
+	"latitude": 37.4162,
+	"longitude": -93.8432
+},
+{
+	"City": "Pierce City",
+	"State": "MO",
+	"latitude": 36.9465,
+	"longitude": -94.0032
+},
+{
+	"City": "La Plata",
+	"State": "MO",
+	"latitude": 40.0241,
+	"longitude": -92.4914
+},
+{
+	"City": "Winona",
+	"State": "MO",
+	"latitude": 37.0042,
+	"longitude": -91.327
+},
+{
+	"City": "Lake Winnebago",
+	"State": "MO",
+	"latitude": 38.8234,
+	"longitude": -94.3612
+},
+{
+	"City": "Calverton Park",
+	"State": "MO",
+	"latitude": 38.7656,
+	"longitude": -90.3103
+},
+{
+	"City": "Goodman",
+	"State": "MO",
+	"latitude": 36.7388,
+	"longitude": -94.4091
+},
+{
+	"City": "Country Club Hills",
+	"State": "MO",
+	"latitude": 38.7208,
+	"longitude": -90.2751
+},
+{
+	"City": "Mansfield",
+	"State": "MO",
+	"latitude": 37.1102,
+	"longitude": -92.5804
+},
+{
+	"City": "Oran",
+	"State": "MO",
+	"latitude": 37.0855,
+	"longitude": -89.6534
+},
+{
+	"City": "Archie",
+	"State": "MO",
+	"latitude": 38.4826,
+	"longitude": -94.3502
+},
+{
+	"City": "Marthasville",
+	"State": "MO",
+	"latitude": 38.631,
+	"longitude": -91.0573
+},
+{
+	"City": "St. Martins",
+	"State": "MO",
+	"latitude": 38.5943,
+	"longitude": -92.3312
+},
+{
+	"City": "Lincoln",
+	"State": "MO",
+	"latitude": 38.394,
+	"longitude": -93.3313
+},
+{
+	"City": "Rock Port",
+	"State": "MO",
+	"latitude": 40.4109,
+	"longitude": -95.5332
+},
+{
+	"City": "Stanberry",
+	"State": "MO",
+	"latitude": 40.2166,
+	"longitude": -94.5381
+},
+{
+	"City": "Paris",
+	"State": "MO",
+	"latitude": 39.4773,
+	"longitude": -92.0039
+},
+{
+	"City": "Leadwood",
+	"State": "MO",
+	"latitude": 37.8618,
+	"longitude": -90.5892
+},
+{
+	"City": "Wellsville",
+	"State": "MO",
+	"latitude": 39.0734,
+	"longitude": -91.5692
+},
+{
+	"City": "Taos",
+	"State": "MO",
+	"latitude": 38.5157,
+	"longitude": -92.0647
+},
+{
+	"City": "Clarkton",
+	"State": "MO",
+	"latitude": 36.4521,
+	"longitude": -89.9681
+},
+{
+	"City": "La Monte",
+	"State": "MO",
+	"latitude": 38.772,
+	"longitude": -93.4236
+},
+{
+	"City": "Cole Camp",
+	"State": "MO",
+	"latitude": 38.4595,
+	"longitude": -93.2025
+},
+{
+	"City": "Horine",
+	"State": "MO",
+	"latitude": 38.2669,
+	"longitude": -90.4324
+},
+{
+	"City": "Cool Valley",
+	"State": "MO",
+	"latitude": 38.725,
+	"longitude": -90.3058
+},
+{
+	"City": "Purdy",
+	"State": "MO",
+	"latitude": 36.8187,
+	"longitude": -93.9206
+},
+{
+	"City": "Edina",
+	"State": "MO",
+	"latitude": 40.168,
+	"longitude": -92.1732
+},
+{
+	"City": "Billings",
+	"State": "MO",
+	"latitude": 37.0626,
+	"longitude": -93.5539
+},
+{
+	"City": "Princeton",
+	"State": "MO",
+	"latitude": 40.3966,
+	"longitude": -93.5884
+},
+{
+	"City": "Stover",
+	"State": "MO",
+	"latitude": 38.4418,
+	"longitude": -92.9901
+},
+{
+	"City": "Shell Knob",
+	"State": "MO",
+	"latitude": 36.6105,
+	"longitude": -93.6042
+},
+{
+	"City": "Glasgow",
+	"State": "MO",
+	"latitude": 39.2279,
+	"longitude": -92.8394
+},
+{
+	"City": "Maysville",
+	"State": "MO",
+	"latitude": 39.8859,
+	"longitude": -94.3633
+},
+{
+	"City": "Appleton City",
+	"State": "MO",
+	"latitude": 38.1906,
+	"longitude": -94.031
+},
+{
+	"City": "Humansville",
+	"State": "MO",
+	"latitude": 37.7952,
+	"longitude": -93.5766
+},
+{
+	"City": "Lilbourn",
+	"State": "MO",
+	"latitude": 36.5908,
+	"longitude": -89.613
+},
+{
+	"City": "New Franklin",
+	"State": "MO",
+	"latitude": 39.0175,
+	"longitude": -92.7406
+},
+{
+	"City": "Highlandville",
+	"State": "MO",
+	"latitude": 36.9409,
+	"longitude": -93.283
+},
+{
+	"City": "Mound City",
+	"State": "MO",
+	"latitude": 40.1365,
+	"longitude": -95.2337
+},
+{
+	"City": "Crocker",
+	"State": "MO",
+	"latitude": 37.948,
+	"longitude": -92.2676
+},
+{
+	"City": "Kissee Mills",
+	"State": "MO",
+	"latitude": 36.6694,
+	"longitude": -93.0473
+},
+{
+	"City": "Velda Village Hills",
+	"State": "MO",
+	"latitude": 38.6922,
+	"longitude": -90.2877
+},
+{
+	"City": "Doe Run",
+	"State": "MO",
+	"latitude": 37.7454,
+	"longitude": -90.4994
+},
+{
+	"City": "King City",
+	"State": "MO",
+	"latitude": 40.0505,
+	"longitude": -94.5251
+},
+{
+	"City": "New London",
+	"State": "MO",
+	"latitude": 39.5844,
+	"longitude": -91.3987
+},
+{
+	"City": "Auxvasse",
+	"State": "MO",
+	"latitude": 39.0174,
+	"longitude": -91.8958
+},
+{
+	"City": "Jasper",
+	"State": "MO",
+	"latitude": 37.3354,
+	"longitude": -94.3023
+},
+{
+	"City": "Gideon",
+	"State": "MO",
+	"latitude": 36.4489,
+	"longitude": -89.9128
+},
+{
+	"City": "Laurie",
+	"State": "MO",
+	"latitude": 38.208,
+	"longitude": -92.8253
+},
+{
+	"City": "Southwest City",
+	"State": "MO",
+	"latitude": 36.5205,
+	"longitude": -94.6103
+},
+{
+	"City": "Norwood Court",
+	"State": "MO",
+	"latitude": 38.7141,
+	"longitude": -90.2895
+},
+{
+	"City": "Sturgeon",
+	"State": "MO",
+	"latitude": 39.2345,
+	"longitude": -92.2823
+},
+{
+	"City": "Drexel",
+	"State": "MO",
+	"latitude": 38.5005,
+	"longitude": -94.6025
+},
+{
+	"City": "Miner",
+	"State": "MO",
+	"latitude": 36.8973,
+	"longitude": -89.5353
+},
+{
+	"City": "Ellington",
+	"State": "MO",
+	"latitude": 37.2365,
+	"longitude": -90.9733
+},
+{
+	"City": "Fremont Hills",
+	"State": "MO",
+	"latitude": 37.0645,
+	"longitude": -93.253
+},
+{
+	"City": "Diamond",
+	"State": "MO",
+	"latitude": 36.9969,
+	"longitude": -94.3152
+},
+{
+	"City": "Osceola",
+	"State": "MO",
+	"latitude": 38.0458,
+	"longitude": -93.6973
+},
+{
+	"City": "Lockwood",
+	"State": "MO",
+	"latitude": 37.3867,
+	"longitude": -93.9579
+},
+{
+	"City": "La Grange",
+	"State": "MO",
+	"latitude": 40.047,
+	"longitude": -91.5023
+},
+{
+	"City": "Pasadena Hills",
+	"State": "MO",
+	"latitude": 38.7082,
+	"longitude": -90.2922
+},
+{
+	"City": "Truesdale",
+	"State": "MO",
+	"latitude": 38.8124,
+	"longitude": -91.122
+},
+{
+	"City": "Benton",
+	"State": "MO",
+	"latitude": 37.099,
+	"longitude": -89.5624
+},
+{
+	"City": "Lake Waukomis",
+	"State": "MO",
+	"latitude": 39.2309,
+	"longitude": -94.6386
+},
+{
+	"City": "Rockaway Beach",
+	"State": "MO",
+	"latitude": 36.7019,
+	"longitude": -93.1617
+},
+{
+	"City": "Airport Drive",
+	"State": "MO",
+	"latitude": 37.1406,
+	"longitude": -94.5162
+},
+{
+	"City": "Reeds Spring",
+	"State": "MO",
+	"latitude": 36.7402,
+	"longitude": -93.3797
+},
+{
+	"City": "Morehouse",
+	"State": "MO",
+	"latitude": 36.8463,
+	"longitude": -89.6909
+},
+{
+	"City": "Grantwood Village",
+	"State": "MO",
+	"latitude": 38.5509,
+	"longitude": -90.3532
+},
+{
+	"City": "Puxico",
+	"State": "MO",
+	"latitude": 36.9507,
+	"longitude": -90.1587
+},
+{
+	"City": "Fordland",
+	"State": "MO",
+	"latitude": 37.1556,
+	"longitude": -92.9416
+},
+{
+	"City": "Braymer",
+	"State": "MO",
+	"latitude": 39.5905,
+	"longitude": -93.7961
+},
+{
+	"City": "Seligman",
+	"State": "MO",
+	"latitude": 36.5232,
+	"longitude": -93.9388
+},
+{
+	"City": "Waverly",
+	"State": "MO",
+	"latitude": 39.2072,
+	"longitude": -93.5186
+},
+{
+	"City": "Alton",
+	"State": "MO",
+	"latitude": 36.6901,
+	"longitude": -91.3947
+},
+{
+	"City": "Edmundson",
+	"State": "MO",
+	"latitude": 38.7351,
+	"longitude": -90.3657
+},
+{
+	"City": "Russellville",
+	"State": "MO",
+	"latitude": 38.5128,
+	"longitude": -92.4384
+},
+{
+	"City": "Brunswick",
+	"State": "MO",
+	"latitude": 39.4257,
+	"longitude": -93.1266
+},
+{
+	"City": "Loch Lloyd",
+	"State": "MO",
+	"latitude": 38.831,
+	"longitude": -94.5978
+},
+{
+	"City": "Pineville",
+	"State": "MO",
+	"latitude": 36.5755,
+	"longitude": -94.3916
+},
+{
+	"City": "Wellington",
+	"State": "MO",
+	"latitude": 39.1383,
+	"longitude": -93.9861
+},
+{
+	"City": "Orrick",
+	"State": "MO",
+	"latitude": 39.2133,
+	"longitude": -94.1254
+},
+{
+	"City": "Flordell Hills",
+	"State": "MO",
+	"latitude": 38.7174,
+	"longitude": -90.2648
+},
+{
+	"City": "Ferrelview",
+	"State": "MO",
+	"latitude": 39.3143,
+	"longitude": -94.6654
+},
+{
+	"City": "Van Buren",
+	"State": "MO",
+	"latitude": 37.0082,
+	"longitude": -91.0113
+},
+{
+	"City": "Grant City",
+	"State": "MO",
+	"latitude": 40.4858,
+	"longitude": -94.4135
+},
+{
+	"City": "Walnut Grove",
+	"State": "MO",
+	"latitude": 37.4113,
+	"longitude": -93.548
+},
+{
+	"City": "Flint Hill",
+	"State": "MO",
+	"latitude": 38.8627,
+	"longitude": -90.8724
+},
+{
+	"City": "Loma Linda",
+	"State": "MO",
+	"latitude": 36.9858,
+	"longitude": -94.5922
+},
+{
+	"City": "Conway",
+	"State": "MO",
+	"latitude": 37.5057,
+	"longitude": -92.8312
+},
+{
+	"City": "Exeter",
+	"State": "MO",
+	"latitude": 36.6707,
+	"longitude": -93.9401
+},
+{
+	"City": "Oregon",
+	"State": "MO",
+	"latitude": 39.9861,
+	"longitude": -95.1433
+},
+{
+	"City": "Lancaster",
+	"State": "MO",
+	"latitude": 40.5238,
+	"longitude": -92.5314
+},
+{
+	"City": "Pilot Grove",
+	"State": "MO",
+	"latitude": 38.8736,
+	"longitude": -92.9126
+},
+{
+	"City": "Olympian Village",
+	"State": "MO",
+	"latitude": 38.1347,
+	"longitude": -90.4581
+},
+{
+	"City": "Clarence",
+	"State": "MO",
+	"latitude": 39.7432,
+	"longitude": -92.2602
+},
+{
+	"City": "Iberia",
+	"State": "MO",
+	"latitude": 38.0887,
+	"longitude": -92.2961
+},
+{
+	"City": "Iron Mountain Lake",
+	"State": "MO",
+	"latitude": 37.6854,
+	"longitude": -90.6184
+},
+{
+	"City": "Bertrand",
+	"State": "MO",
+	"latitude": 36.9082,
+	"longitude": -89.45
+},
+{
+	"City": "Stewartsville",
+	"State": "MO",
+	"latitude": 39.7551,
+	"longitude": -94.4987
+},
+{
+	"City": "Fairdealing",
+	"State": "MO",
+	"latitude": 36.6615,
+	"longitude": -90.6084
+},
+{
+	"City": "Bella Villa",
+	"State": "MO",
+	"latitude": 38.5436,
+	"longitude": -90.2854
+},
+{
+	"City": "Gainesville",
+	"State": "MO",
+	"latitude": 36.6063,
+	"longitude": -92.4245
+},
+{
+	"City": "Liberal",
+	"State": "MO",
+	"latitude": 37.559,
+	"longitude": -94.5161
+},
+{
+	"City": "Golden City",
+	"State": "MO",
+	"latitude": 37.3931,
+	"longitude": -94.0943
+},
+{
+	"City": "Lake Tapawingo",
+	"State": "MO",
+	"latitude": 39.019,
+	"longitude": -94.3131
+},
+{
+	"City": "New Florence",
+	"State": "MO",
+	"latitude": 38.9092,
+	"longitude": -91.4529
+},
+{
+	"City": "Pilot Knob",
+	"State": "MO",
+	"latitude": 37.6237,
+	"longitude": -90.6454
+},
+{
+	"City": "Jonesburg",
+	"State": "MO",
+	"latitude": 38.8546,
+	"longitude": -91.3028
+},
+{
+	"City": "Hawk Point",
+	"State": "MO",
+	"latitude": 38.9714,
+	"longitude": -91.1321
+},
+{
+	"City": "Wood Heights",
+	"State": "MO",
+	"latitude": 39.3414,
+	"longitude": -94.1635
+},
+{
+	"City": "Perry",
+	"State": "MO",
+	"latitude": 39.43,
+	"longitude": -91.6665
+},
+{
+	"City": "Bevier",
+	"State": "MO",
+	"latitude": 39.7508,
+	"longitude": -92.5644
+},
+{
+	"City": "Wheaton",
+	"State": "MO",
+	"latitude": 36.7616,
+	"longitude": -94.057
+},
+{
+	"City": "Miller",
+	"State": "MO",
+	"latitude": 37.2148,
+	"longitude": -93.8406
+},
+{
+	"City": "Leawood",
+	"State": "MO",
+	"latitude": 37.0333,
+	"longitude": -94.4947
+},
+{
+	"City": "New Bloomfield",
+	"State": "MO",
+	"latitude": 38.7167,
+	"longitude": -92.0914
+},
+{
+	"City": "Morley",
+	"State": "MO",
+	"latitude": 37.0433,
+	"longitude": -89.6122
+},
+{
+	"City": "Cleveland",
+	"State": "MO",
+	"latitude": 38.6788,
+	"longitude": -94.598
+},
+{
+	"City": "Agency",
+	"State": "MO",
+	"latitude": 39.6698,
+	"longitude": -94.7587
+},
+{
+	"City": "Greendale",
+	"State": "MO",
+	"latitude": 38.6938,
+	"longitude": -90.3125
+},
+{
+	"City": "Sycamore Hills",
+	"State": "MO",
+	"latitude": 38.7012,
+	"longitude": -90.3489
+},
+{
+	"City": "Viburnum",
+	"State": "MO",
+	"latitude": 37.7149,
+	"longitude": -91.1295
+},
+{
+	"City": "Birch Tree",
+	"State": "MO",
+	"latitude": 36.9967,
+	"longitude": -91.4916
+},
+{
+	"City": "Norwood",
+	"State": "MO",
+	"latitude": 37.1072,
+	"longitude": -92.4189
+},
+{
+	"City": "Norborne",
+	"State": "MO",
+	"latitude": 39.3024,
+	"longitude": -93.6759
+},
+{
+	"City": "Cardwell",
+	"State": "MO",
+	"latitude": 36.0475,
+	"longitude": -90.2909
+},
+{
+	"City": "Bull Creek",
+	"State": "MO",
+	"latitude": 36.7151,
+	"longitude": -93.202
+},
+{
+	"City": "Queen City",
+	"State": "MO",
+	"latitude": 40.4127,
+	"longitude": -92.5663
+},
+{
+	"City": "La Belle",
+	"State": "MO",
+	"latitude": 40.1165,
+	"longitude": -91.9147
+},
+{
+	"City": "Parma",
+	"State": "MO",
+	"latitude": 36.6117,
+	"longitude": -89.8189
+},
+{
+	"City": "Edgerton",
+	"State": "MO",
+	"latitude": 39.5022,
+	"longitude": -94.629
+},
+{
+	"City": "Trimble",
+	"State": "MO",
+	"latitude": 39.4761,
+	"longitude": -94.5619
+},
+{
+	"City": "Lowry City",
+	"State": "MO",
+	"latitude": 38.1401,
+	"longitude": -93.7275
+},
+{
+	"City": "Hartville",
+	"State": "MO",
+	"latitude": 37.2502,
+	"longitude": -92.512
+},
+{
+	"City": "Foristell",
+	"State": "MO",
+	"latitude": 38.8156,
+	"longitude": -90.9626
+},
+{
+	"City": "Pleasant Hope",
+	"State": "MO",
+	"latitude": 37.465,
+	"longitude": -93.2743
+},
+{
+	"City": "Doolittle",
+	"State": "MO",
+	"latitude": 37.9425,
+	"longitude": -91.8913
+},
+{
+	"City": "Verona",
+	"State": "MO",
+	"latitude": 36.9631,
+	"longitude": -93.7936
+},
+{
+	"City": "Leadington",
+	"State": "MO",
+	"latitude": 37.8343,
+	"longitude": -90.4806
+},
+{
+	"City": "Matthews",
+	"State": "MO",
+	"latitude": 36.7584,
+	"longitude": -89.5688
+},
+{
+	"City": "Hornersville",
+	"State": "MO",
+	"latitude": 36.0404,
+	"longitude": -90.1158
+},
+{
+	"City": "Vienna",
+	"State": "MO",
+	"latitude": 38.1875,
+	"longitude": -91.9501
+},
+{
+	"City": "Green City",
+	"State": "MO",
+	"latitude": 40.2639,
+	"longitude": -92.9563
+},
+{
+	"City": "Innsbrook",
+	"State": "MO",
+	"latitude": 38.7631,
+	"longitude": -91.0552
+},
+{
+	"City": "Kelso",
+	"State": "MO",
+	"latitude": 37.1924,
+	"longitude": -89.5504
+},
+{
+	"City": "Naylor",
+	"State": "MO",
+	"latitude": 36.5745,
+	"longitude": -90.6056
+},
+{
+	"City": "Eminence",
+	"State": "MO",
+	"latitude": 37.1509,
+	"longitude": -91.3586
+},
+{
+	"City": "Glenaire",
+	"State": "MO",
+	"latitude": 39.2198,
+	"longitude": -94.4515
+},
+{
+	"City": "Holcomb",
+	"State": "MO",
+	"latitude": 36.4022,
+	"longitude": -90.0249
+},
+{
+	"City": "Fairfax",
+	"State": "MO",
+	"latitude": 40.3392,
+	"longitude": -95.3921
+},
+{
+	"City": "Smithton",
+	"State": "MO",
+	"latitude": 38.6812,
+	"longitude": -93.093
+},
+{
+	"City": "Grayhawk",
+	"State": "MO",
+	"latitude": 37.931,
+	"longitude": -90.239
+},
+{
+	"City": "Arcadia",
+	"State": "MO",
+	"latitude": 37.5864,
+	"longitude": -90.6293
+},
+{
+	"City": "Leeton",
+	"State": "MO",
+	"latitude": 38.5833,
+	"longitude": -93.6952
+},
+{
+	"City": "Bloomsdale",
+	"State": "MO",
+	"latitude": 38.0147,
+	"longitude": -90.2214
+},
+{
+	"City": "Beverly Hills",
+	"State": "MO",
+	"latitude": 38.6979,
+	"longitude": -90.2901
+},
+{
+	"City": "Higbee",
+	"State": "MO",
+	"latitude": 39.3059,
+	"longitude": -92.5128
+},
+{
+	"City": "Camden Point",
+	"State": "MO",
+	"latitude": 39.4541,
+	"longitude": -94.7485
+},
+{
+	"City": "Hayti Heights",
+	"State": "MO",
+	"latitude": 36.2311,
+	"longitude": -89.7682
+},
+{
+	"City": "Alba",
+	"State": "MO",
+	"latitude": 37.2372,
+	"longitude": -94.4175
+},
+{
+	"City": "Sunrise Beach",
+	"State": "MO",
+	"latitude": 38.1669,
+	"longitude": -92.7799
+},
+{
+	"City": "Madison",
+	"State": "MO",
+	"latitude": 39.4735,
+	"longitude": -92.2117
+},
+{
+	"City": "Hardin",
+	"State": "MO",
+	"latitude": 39.2677,
+	"longitude": -93.8314
+},
+{
+	"City": "Bland",
+	"State": "MO",
+	"latitude": 38.3005,
+	"longitude": -91.6331
+},
+{
+	"City": "Polo",
+	"State": "MO",
+	"latitude": 39.5495,
+	"longitude": -94.0395
+},
+{
+	"City": "West Alton",
+	"State": "MO",
+	"latitude": 38.8665,
+	"longitude": -90.2085
+},
+{
+	"City": "Indian Point",
+	"State": "MO",
+	"latitude": 36.6428,
+	"longitude": -93.3444
+},
+{
+	"City": "Dearborn",
+	"State": "MO",
+	"latitude": 39.5247,
+	"longitude": -94.774
+},
+{
+	"City": "Sheldon",
+	"State": "MO",
+	"latitude": 37.6582,
+	"longitude": -94.2954
+},
+{
+	"City": "Jamesport",
+	"State": "MO",
+	"latitude": 39.9749,
+	"longitude": -93.8029
+},
+{
+	"City": "Shelbyville",
+	"State": "MO",
+	"latitude": 39.8072,
+	"longitude": -92.0404
+},
+{
+	"City": "Lewistown",
+	"State": "MO",
+	"latitude": 40.0848,
+	"longitude": -91.8138
+},
+{
+	"City": "Eolia",
+	"State": "MO",
+	"latitude": 39.2388,
+	"longitude": -91.0119
+},
+{
+	"City": "Parkway",
+	"State": "MO",
+	"latitude": 38.3361,
+	"longitude": -90.9711
+},
+{
+	"City": "New Melle",
+	"State": "MO",
+	"latitude": 38.7181,
+	"longitude": -90.8833
+},
+{
+	"City": "Center",
+	"State": "MO",
+	"latitude": 39.5096,
+	"longitude": -91.5291
+},
+{
+	"City": "Holt",
+	"State": "MO",
+	"latitude": 39.4553,
+	"longitude": -94.3371
+},
+{
+	"City": "Wayland",
+	"State": "MO",
+	"latitude": 40.3963,
+	"longitude": -91.5754
+},
+{
+	"City": "Laddonia",
+	"State": "MO",
+	"latitude": 39.2434,
+	"longitude": -91.6424
+},
+{
+	"City": "Green Ridge",
+	"State": "MO",
+	"latitude": 38.6212,
+	"longitude": -93.4101
+},
+{
+	"City": "Summersville",
+	"State": "MO",
+	"latitude": 37.1785,
+	"longitude": -91.6576
+},
+{
+	"City": "Crystal Lake Park",
+	"State": "MO",
+	"latitude": 38.6212,
+	"longitude": -90.432
+},
+{
+	"City": "Freeman",
+	"State": "MO",
+	"latitude": 38.6215,
+	"longitude": -94.5057
+},
+{
+	"City": "Urich",
+	"State": "MO",
+	"latitude": 38.4604,
+	"longitude": -93.9989
+},
+{
+	"City": "Fair Play",
+	"State": "MO",
+	"latitude": 37.6331,
+	"longitude": -93.5769
+},
+{
+	"City": "Burlington Junction",
+	"State": "MO",
+	"latitude": 40.4466,
+	"longitude": -95.0667
+},
+{
+	"City": "Josephville",
+	"State": "MO",
+	"latitude": 38.8293,
+	"longitude": -90.7869
+},
+{
+	"City": "Hopkins",
+	"State": "MO",
+	"latitude": 40.5511,
+	"longitude": -94.8169
+},
+{
+	"City": "Butterfield",
+	"State": "MO",
+	"latitude": 36.7468,
+	"longitude": -93.9043
+},
+{
+	"City": "Neelyville",
+	"State": "MO",
+	"latitude": 36.5562,
+	"longitude": -90.5139
+},
+{
+	"City": "Oak Grove Village",
+	"State": "MO",
+	"latitude": 38.2278,
+	"longitude": -91.1494
+},
+{
+	"City": "Wilbur Park",
+	"State": "MO",
+	"latitude": 38.5532,
+	"longitude": -90.3087
+},
+{
+	"City": "Hermitage",
+	"State": "MO",
+	"latitude": 37.9443,
+	"longitude": -93.3255
+},
+{
+	"City": "Greenville",
+	"State": "MO",
+	"latitude": 37.1284,
+	"longitude": -90.4472
+},
+{
+	"City": "Arbyrd",
+	"State": "MO",
+	"latitude": 36.0535,
+	"longitude": -90.2399
+},
+{
+	"City": "Greentop",
+	"State": "MO",
+	"latitude": 40.3508,
+	"longitude": -92.5657
+},
+{
+	"City": "Qulin",
+	"State": "MO",
+	"latitude": 36.5977,
+	"longitude": -90.2522
+},
+{
+	"City": "Pasadena Park",
+	"State": "MO",
+	"latitude": 38.711,
+	"longitude": -90.2974
+},
+{
+	"City": "Calhoun",
+	"State": "MO",
+	"latitude": 38.4684,
+	"longitude": -93.6251
+},
+{
+	"City": "Otterville",
+	"State": "MO",
+	"latitude": 38.7029,
+	"longitude": -93.0029
+},
+{
+	"City": "Avondale",
+	"State": "MO",
+	"latitude": 39.1545,
+	"longitude": -94.5452
+},
+{
+	"City": "Essex",
+	"State": "MO",
+	"latitude": 36.8118,
+	"longitude": -89.8626
+},
+{
+	"City": "Keytesville",
+	"State": "MO",
+	"latitude": 39.4313,
+	"longitude": -92.9371
+},
+{
+	"City": "Branson West",
+	"State": "MO",
+	"latitude": 36.703,
+	"longitude": -93.3778
+},
+{
+	"City": "Marston",
+	"State": "MO",
+	"latitude": 36.5177,
+	"longitude": -89.6062
+},
+{
+	"City": "Irondale",
+	"State": "MO",
+	"latitude": 37.8356,
+	"longitude": -90.6718
+},
+{
+	"City": "Galena",
+	"State": "MO",
+	"latitude": 36.8054,
+	"longitude": -93.4709
+},
+{
+	"City": "Meadville",
+	"State": "MO",
+	"latitude": 39.7882,
+	"longitude": -93.2992
+},
+{
+	"City": "Bucklin",
+	"State": "MO",
+	"latitude": 39.7837,
+	"longitude": -92.8879
+},
+{
+	"City": "Newburg",
+	"State": "MO",
+	"latitude": 37.916,
+	"longitude": -91.9004
+},
+{
+	"City": "Lake Viking",
+	"State": "MO",
+	"latitude": 39.9253,
+	"longitude": -94.0692
+},
+{
+	"City": "Novinger",
+	"State": "MO",
+	"latitude": 40.2341,
+	"longitude": -92.7066
+},
+{
+	"City": "Ridgeway",
+	"State": "MO",
+	"latitude": 40.3781,
+	"longitude": -93.9379
+},
+{
+	"City": "Washburn",
+	"State": "MO",
+	"latitude": 36.5888,
+	"longitude": -93.9655
+},
+{
+	"City": "Clarksville",
+	"State": "MO",
+	"latitude": 39.3693,
+	"longitude": -90.9049
+},
+{
+	"City": "Ewing",
+	"State": "MO",
+	"latitude": 40.0088,
+	"longitude": -91.7147
+},
+{
+	"City": "Ellsinore",
+	"State": "MO",
+	"latitude": 36.9326,
+	"longitude": -90.7479
+},
+{
+	"City": "Purcell",
+	"State": "MO",
+	"latitude": 37.2433,
+	"longitude": -94.4394
+},
+{
+	"City": "Niangua",
+	"State": "MO",
+	"latitude": 37.3886,
+	"longitude": -92.8304
+},
+{
+	"City": "Delta",
+	"State": "MO",
+	"latitude": 37.1974,
+	"longitude": -89.7392
+},
+{
+	"City": "Uplands Park",
+	"State": "MO",
+	"latitude": 38.6927,
+	"longitude": -90.2828
+},
+{
+	"City": "Freeburg",
+	"State": "MO",
+	"latitude": 38.3164,
+	"longitude": -91.9223
+},
+{
+	"City": "Bell City",
+	"State": "MO",
+	"latitude": 37.0237,
+	"longitude": -89.8196
+},
+{
+	"City": "Union Star",
+	"State": "MO",
+	"latitude": 39.9794,
+	"longitude": -94.5987
+},
+{
+	"City": "Urbana",
+	"State": "MO",
+	"latitude": 37.8436,
+	"longitude": -93.1676
+},
+{
+	"City": "Golden",
+	"State": "MO",
+	"latitude": 36.5266,
+	"longitude": -93.6637
+},
+{
+	"City": "Deepwater",
+	"State": "MO",
+	"latitude": 38.2592,
+	"longitude": -93.7746
+},
+{
+	"City": "Weaubleau",
+	"State": "MO",
+	"latitude": 37.8915,
+	"longitude": -93.5403
+},
+{
+	"City": "Brewer",
+	"State": "MO",
+	"latitude": 37.7836,
+	"longitude": -89.918
+},
+{
+	"City": "Osborn",
+	"State": "MO",
+	"latitude": 39.7496,
+	"longitude": -94.3566
+},
+{
+	"City": "Platte Woods",
+	"State": "MO",
+	"latitude": 39.2288,
+	"longitude": -94.6522
+},
+{
+	"City": "Lanagan",
+	"State": "MO",
+	"latitude": 36.6061,
+	"longitude": -94.4517
+},
+{
+	"City": "Rosebud",
+	"State": "MO",
+	"latitude": 38.385,
+	"longitude": -91.4024
+},
+{
+	"City": "Cooter",
+	"State": "MO",
+	"latitude": 36.0467,
+	"longitude": -89.8092
+},
+{
+	"City": "Corder",
+	"State": "MO",
+	"latitude": 39.0991,
+	"longitude": -93.6391
+},
+{
+	"City": "Ravenwood",
+	"State": "MO",
+	"latitude": 40.3525,
+	"longitude": -94.6723
+},
+{
+	"City": "Jamestown",
+	"State": "MO",
+	"latitude": 38.7667,
+	"longitude": -92.4802
+},
+{
+	"City": "Hale",
+	"State": "MO",
+	"latitude": 39.6051,
+	"longitude": -93.3433
+},
+{
+	"City": "Twin Oaks",
+	"State": "MO",
+	"latitude": 38.5657,
+	"longitude": -90.501
+},
+{
+	"City": "Morrisville",
+	"State": "MO",
+	"latitude": 37.4766,
+	"longitude": -93.4293
+},
+{
+	"City": "Oakview",
+	"State": "MO",
+	"latitude": 39.2086,
+	"longitude": -94.5704
+},
+{
+	"City": "Huntleigh",
+	"State": "MO",
+	"latitude": 38.6131,
+	"longitude": -90.4091
+},
+{
+	"City": "Alma",
+	"State": "MO",
+	"latitude": 39.0964,
+	"longitude": -93.5478
+},
+{
+	"City": "Atlanta",
+	"State": "MO",
+	"latitude": 39.8986,
+	"longitude": -92.4801
+},
+{
+	"City": "Chamois",
+	"State": "MO",
+	"latitude": 38.6764,
+	"longitude": -91.77
+},
+{
+	"City": "Westphalia",
+	"State": "MO",
+	"latitude": 38.4413,
+	"longitude": -92.0005
+},
+{
+	"City": "Bunker",
+	"State": "MO",
+	"latitude": 37.4574,
+	"longitude": -91.2121
+},
+{
+	"City": "Montrose",
+	"State": "MO",
+	"latitude": 38.2586,
+	"longitude": -93.9827
+},
+{
+	"City": "Fairview",
+	"State": "MO",
+	"latitude": 36.8172,
+	"longitude": -94.0866
+},
+{
+	"City": "Macks Creek",
+	"State": "MO",
+	"latitude": 37.9667,
+	"longitude": -92.9666
+},
+{
+	"City": "Gordonville",
+	"State": "MO",
+	"latitude": 37.3111,
+	"longitude": -89.6739
+},
+{
+	"City": "Pomona",
+	"State": "MO",
+	"latitude": 36.8671,
+	"longitude": -91.9134
+},
+{
+	"City": "Bellflower",
+	"State": "MO",
+	"latitude": 39.0038,
+	"longitude": -91.3521
+},
+{
+	"City": "Wheatland",
+	"State": "MO",
+	"latitude": 37.9426,
+	"longitude": -93.4027
+},
+{
+	"City": "Sibley",
+	"State": "MO",
+	"latitude": 39.1758,
+	"longitude": -94.2009
+},
+{
+	"City": "Northmoor",
+	"State": "MO",
+	"latitude": 39.1845,
+	"longitude": -94.6054
+},
+{
+	"City": "Taneyville",
+	"State": "MO",
+	"latitude": 36.7377,
+	"longitude": -93.0355
+},
+{
+	"City": "Wardell",
+	"State": "MO",
+	"latitude": 36.354,
+	"longitude": -89.817
+},
+{
+	"City": "Bunceton",
+	"State": "MO",
+	"latitude": 38.7894,
+	"longitude": -92.7992
+},
+{
+	"City": "Henrietta",
+	"State": "MO",
+	"latitude": 39.2371,
+	"longitude": -93.9384
+},
+{
+	"City": "Gilman City",
+	"State": "MO",
+	"latitude": 40.1311,
+	"longitude": -93.8739
+},
+{
+	"City": "Crystal Lakes",
+	"State": "MO",
+	"latitude": 39.3606,
+	"longitude": -94.1874
+},
+{
+	"City": "Mineral Point",
+	"State": "MO",
+	"latitude": 37.9455,
+	"longitude": -90.7247
+},
+{
+	"City": "Breckenridge",
+	"State": "MO",
+	"latitude": 39.7614,
+	"longitude": -93.8046
+},
+{
+	"City": "Raymondville",
+	"State": "MO",
+	"latitude": 37.3398,
+	"longitude": -91.8364
+},
+{
+	"City": "Downing",
+	"State": "MO",
+	"latitude": 40.4873,
+	"longitude": -92.3689
+},
+{
+	"City": "Clarksburg",
+	"State": "MO",
+	"latitude": 38.6611,
+	"longitude": -92.6661
+},
+{
+	"City": "Mindenmines",
+	"State": "MO",
+	"latitude": 37.4728,
+	"longitude": -94.5889
+},
+{
+	"City": "St. Mary",
+	"State": "MO",
+	"latitude": 37.8737,
+	"longitude": -89.9497
+},
+{
+	"City": "St. Elizabeth",
+	"State": "MO",
+	"latitude": 38.256,
+	"longitude": -92.2665
+},
+{
+	"City": "Pattonsburg",
+	"State": "MO",
+	"latitude": 40.0715,
+	"longitude": -94.106
+},
+{
+	"City": "Annapolis",
+	"State": "MO",
+	"latitude": 37.3605,
+	"longitude": -90.6975
+},
+{
+	"City": "Creighton",
+	"State": "MO",
+	"latitude": 38.4965,
+	"longitude": -94.072
+},
+{
+	"City": "Howardville",
+	"State": "MO",
+	"latitude": 36.5684,
+	"longitude": -89.5972
+},
+{
+	"City": "Tracy",
+	"State": "MO",
+	"latitude": 39.3799,
+	"longitude": -94.7921
+},
+{
+	"City": "Lake Lafayette",
+	"State": "MO",
+	"latitude": 38.9488,
+	"longitude": -93.9713
+},
+{
+	"City": "Fisk",
+	"State": "MO",
+	"latitude": 36.7826,
+	"longitude": -90.2077
+},
+{
+	"City": "Altenburg",
+	"State": "MO",
+	"latitude": 37.6304,
+	"longitude": -89.586
+},
+{
+	"City": "Windsor Place",
+	"State": "MO",
+	"latitude": 38.9342,
+	"longitude": -92.7026
+},
+{
+	"City": "Kingston",
+	"State": "MO",
+	"latitude": 39.6425,
+	"longitude": -94.0383
+},
+{
+	"City": "Williamsville",
+	"State": "MO",
+	"latitude": 36.9737,
+	"longitude": -90.5479
+},
+{
+	"City": "Portage Des Sioux",
+	"State": "MO",
+	"latitude": 38.9274,
+	"longitude": -90.3434
+},
+{
+	"City": "Shoal Creek Drive",
+	"State": "MO",
+	"latitude": 37.037,
+	"longitude": -94.5228
+},
+{
+	"City": "Leasburg",
+	"State": "MO",
+	"latitude": 38.0948,
+	"longitude": -91.2953
+},
+{
+	"City": "Diggins",
+	"State": "MO",
+	"latitude": 37.174,
+	"longitude": -92.8503
+},
+{
+	"City": "Chilhowee",
+	"State": "MO",
+	"latitude": 38.5889,
+	"longitude": -93.8557
+},
+{
+	"City": "Laclede",
+	"State": "MO",
+	"latitude": 39.7878,
+	"longitude": -93.1697
+},
+{
+	"City": "Amazonia",
+	"State": "MO",
+	"latitude": 39.8888,
+	"longitude": -94.8926
+},
+{
+	"City": "Junction City",
+	"State": "MO",
+	"latitude": 37.5733,
+	"longitude": -90.2907
+},
+{
+	"City": "Kidder",
+	"State": "MO",
+	"latitude": 39.7822,
+	"longitude": -94.1023
+},
+{
+	"City": "Hume",
+	"State": "MO",
+	"latitude": 38.0906,
+	"longitude": -94.5827
+},
+{
+	"City": "Frankford",
+	"State": "MO",
+	"latitude": 39.4934,
+	"longitude": -91.3209
+},
+{
+	"City": "Farber",
+	"State": "MO",
+	"latitude": 39.2747,
+	"longitude": -91.5764
+},
+{
+	"City": "Jane",
+	"State": "MO",
+	"latitude": 36.5404,
+	"longitude": -94.3079
+},
+{
+	"City": "Risco",
+	"State": "MO",
+	"latitude": 36.5512,
+	"longitude": -89.8186
+},
+{
+	"City": "Maitland",
+	"State": "MO",
+	"latitude": 40.2021,
+	"longitude": -95.078
+},
+{
+	"City": "East Lynne",
+	"State": "MO",
+	"latitude": 38.6683,
+	"longitude": -94.2303
+},
+{
+	"City": "Saginaw",
+	"State": "MO",
+	"latitude": 37.026,
+	"longitude": -94.4724
+},
+{
+	"City": "Mercer",
+	"State": "MO",
+	"latitude": 40.5107,
+	"longitude": -93.5299
+},
+{
+	"City": "Canalou",
+	"State": "MO",
+	"latitude": 36.7541,
+	"longitude": -89.6865
+},
+{
+	"City": "Farley",
+	"State": "MO",
+	"latitude": 39.2888,
+	"longitude": -94.8284
+},
+{
+	"City": "Eagleville",
+	"State": "MO",
+	"latitude": 40.4684,
+	"longitude": -93.9861
+},
+{
+	"City": "McCord Bend",
+	"State": "MO",
+	"latitude": 36.7875,
+	"longitude": -93.5033
+},
+{
+	"City": "Everton",
+	"State": "MO",
+	"latitude": 37.3428,
+	"longitude": -93.7024
+},
+{
+	"City": "Missouri City",
+	"State": "MO",
+	"latitude": 39.2391,
+	"longitude": -94.3019
+},
+{
+	"City": "Martinsburg",
+	"State": "MO",
+	"latitude": 39.101,
+	"longitude": -91.6474
+},
+{
+	"City": "Mine La Motte",
+	"State": "MO",
+	"latitude": 37.6145,
+	"longitude": -90.2943
+},
+{
+	"City": "Callao",
+	"State": "MO",
+	"latitude": 39.7622,
+	"longitude": -92.6238
+},
+{
+	"City": "Silex",
+	"State": "MO",
+	"latitude": 39.1251,
+	"longitude": -91.0577
+},
+{
+	"City": "Bosworth",
+	"State": "MO",
+	"latitude": 39.4699,
+	"longitude": -93.3357
+},
+{
+	"City": "Kinloch",
+	"State": "MO",
+	"latitude": 38.7384,
+	"longitude": -90.3249
+},
+{
+	"City": "Clark",
+	"State": "MO",
+	"latitude": 39.2763,
+	"longitude": -92.3475
+},
+{
+	"City": "Conception",
+	"State": "MO",
+	"latitude": 40.2411,
+	"longitude": -94.6805
+},
+{
+	"City": "Cherokee Pass",
+	"State": "MO",
+	"latitude": 37.4872,
+	"longitude": -90.296
+},
+{
+	"City": "Centertown",
+	"State": "MO",
+	"latitude": 38.618,
+	"longitude": -92.409
+},
+{
+	"City": "Old Monroe",
+	"State": "MO",
+	"latitude": 38.9387,
+	"longitude": -90.7468
+},
+{
+	"City": "Harrisburg",
+	"State": "MO",
+	"latitude": 39.1396,
+	"longitude": -92.458
+},
+{
+	"City": "Wyatt",
+	"State": "MO",
+	"latitude": 36.9374,
+	"longitude": -89.1908
+},
+{
+	"City": "Carytown",
+	"State": "MO",
+	"latitude": 37.2616,
+	"longitude": -94.3344
+},
+{
+	"City": "Rayville",
+	"State": "MO",
+	"latitude": 39.3464,
+	"longitude": -94.0649
+},
+{
+	"City": "Westwood",
+	"State": "MO",
+	"latitude": 38.6435,
+	"longitude": -90.4335
+},
+{
+	"City": "Prairie Home",
+	"State": "MO",
+	"latitude": 38.8136,
+	"longitude": -92.5906
+},
+{
+	"City": "Rushville",
+	"State": "MO",
+	"latitude": 39.5874,
+	"longitude": -95.0237
+},
+{
+	"City": "Cairo",
+	"State": "MO",
+	"latitude": 39.5115,
+	"longitude": -92.4411
+},
+{
+	"City": "Climax Springs",
+	"State": "MO",
+	"latitude": 38.1004,
+	"longitude": -93.0528
+},
+{
+	"City": "Armstrong",
+	"State": "MO",
+	"latitude": 39.2692,
+	"longitude": -92.7042
+},
+{
+	"City": "St. Francisville",
+	"State": "MO",
+	"latitude": 40.4497,
+	"longitude": -91.572
+},
+{
+	"City": "Cainsville",
+	"State": "MO",
+	"latitude": 40.4398,
+	"longitude": -93.7747
+},
+{
+	"City": "Centerview",
+	"State": "MO",
+	"latitude": 38.7461,
+	"longitude": -93.8442
+},
+{
+	"City": "St. Thomas",
+	"State": "MO",
+	"latitude": 38.3671,
+	"longitude": -92.216
+},
+{
+	"City": "New Hampton",
+	"State": "MO",
+	"latitude": 40.2652,
+	"longitude": -94.1952
+},
+{
+	"City": "Fidelity",
+	"State": "MO",
+	"latitude": 37.0817,
+	"longitude": -94.3096
+},
+{
+	"City": "Augusta",
+	"State": "MO",
+	"latitude": 38.5695,
+	"longitude": -90.8812
+},
+{
+	"City": "Theodosia",
+	"State": "MO",
+	"latitude": 36.5807,
+	"longitude": -92.6638
+},
+{
+	"City": "Big Spring",
+	"State": "MO",
+	"latitude": 38.8019,
+	"longitude": -91.4838
+},
+{
+	"City": "Wheeling",
+	"State": "MO",
+	"latitude": 39.7862,
+	"longitude": -93.386
+},
+{
+	"City": "Vanduser",
+	"State": "MO",
+	"latitude": 36.991,
+	"longitude": -89.6868
+},
+{
+	"City": "Linneus",
+	"State": "MO",
+	"latitude": 39.8767,
+	"longitude": -93.1868
+},
+{
+	"City": "Lake Tekakwitha",
+	"State": "MO",
+	"latitude": 38.4415,
+	"longitude": -90.7154
+},
+{
+	"City": "Kingsville",
+	"State": "MO",
+	"latitude": 38.7437,
+	"longitude": -94.0697
+},
+{
+	"City": "Brashear",
+	"State": "MO",
+	"latitude": 40.1484,
+	"longitude": -92.3787
+},
+{
+	"City": "Skidmore",
+	"State": "MO",
+	"latitude": 40.288,
+	"longitude": -95.0795
+},
+{
+	"City": "Walker",
+	"State": "MO",
+	"latitude": 37.8989,
+	"longitude": -94.2307
+},
+{
+	"City": "Clarksdale",
+	"State": "MO",
+	"latitude": 39.8139,
+	"longitude": -94.5507
+},
+{
+	"City": "Rocheport",
+	"State": "MO",
+	"latitude": 38.9785,
+	"longitude": -92.5633
+},
+{
+	"City": "Winston",
+	"State": "MO",
+	"latitude": 39.8699,
+	"longitude": -94.1416
+},
+{
+	"City": "Linn Creek",
+	"State": "MO",
+	"latitude": 38.0457,
+	"longitude": -92.7049
+},
+{
+	"City": "Utica",
+	"State": "MO",
+	"latitude": 39.7456,
+	"longitude": -93.6286
+},
+{
+	"City": "Houston Lake",
+	"State": "MO",
+	"latitude": 39.1924,
+	"longitude": -94.6221
+},
+{
+	"City": "Galt",
+	"State": "MO",
+	"latitude": 40.1272,
+	"longitude": -93.388
+},
+{
+	"City": "Forest City",
+	"State": "MO",
+	"latitude": 39.9829,
+	"longitude": -95.1883
+},
+{
+	"City": "Wortham",
+	"State": "MO",
+	"latitude": 37.8401,
+	"longitude": -90.6076
+},
+{
+	"City": "Greencastle",
+	"State": "MO",
+	"latitude": 40.2606,
+	"longitude": -92.8784
+},
+{
+	"City": "Eugene",
+	"State": "MO",
+	"latitude": 38.3547,
+	"longitude": -92.4031
+},
+{
+	"City": "Browning",
+	"State": "MO",
+	"latitude": 40.0348,
+	"longitude": -93.16
+},
+{
+	"City": "Frohna",
+	"State": "MO",
+	"latitude": 37.6375,
+	"longitude": -89.6197
+},
+{
+	"City": "Saddlebrooke",
+	"State": "MO",
+	"latitude": 36.8283,
+	"longitude": -93.1968
+},
+{
+	"City": "Emerald Beach",
+	"State": "MO",
+	"latitude": 36.5754,
+	"longitude": -93.671
+},
+{
+	"City": "Spickard",
+	"State": "MO",
+	"latitude": 40.2432,
+	"longitude": -93.5923
+},
+{
+	"City": "Malta Bend",
+	"State": "MO",
+	"latitude": 39.194,
+	"longitude": -93.3634
+},
+{
+	"City": "Schell City",
+	"State": "MO",
+	"latitude": 38.0192,
+	"longitude": -94.1167
+},
+{
+	"City": "Blackburn",
+	"State": "MO",
+	"latitude": 39.1047,
+	"longitude": -93.4854
+},
+{
+	"City": "Bronaugh",
+	"State": "MO",
+	"latitude": 37.694,
+	"longitude": -94.4683
+},
+{
+	"City": "Easton",
+	"State": "MO",
+	"latitude": 39.7226,
+	"longitude": -94.6403
+},
+{
+	"City": "Oak Ridge",
+	"State": "MO",
+	"latitude": 37.4987,
+	"longitude": -89.73
+},
+{
+	"City": "Pontiac",
+	"State": "MO",
+	"latitude": 36.5166,
+	"longitude": -92.6037
+},
+{
+	"City": "Jerico Springs",
+	"State": "MO",
+	"latitude": 37.6197,
+	"longitude": -94.0113
+},
+{
+	"City": "Rensselaer",
+	"State": "MO",
+	"latitude": 39.6692,
+	"longitude": -91.5387
+},
+{
+	"City": "Emma",
+	"State": "MO",
+	"latitude": 38.9751,
+	"longitude": -93.495
+},
+{
+	"City": "Amsterdam",
+	"State": "MO",
+	"latitude": 38.3495,
+	"longitude": -94.589
+},
+{
+	"City": "Grandin",
+	"State": "MO",
+	"latitude": 36.8308,
+	"longitude": -90.8221
+},
+{
+	"City": "Kirbyville",
+	"State": "MO",
+	"latitude": 36.6294,
+	"longitude": -93.1568
+},
+{
+	"City": "Cedar Hill Lakes",
+	"State": "MO",
+	"latitude": 38.3299,
+	"longitude": -90.6577
+},
+{
+	"City": "Bakersfield",
+	"State": "MO",
+	"latitude": 36.5239,
+	"longitude": -92.1442
+},
+{
+	"City": "Dadeville",
+	"State": "MO",
+	"latitude": 37.4791,
+	"longitude": -93.6738
+},
+{
+	"City": "Cobalt",
+	"State": "MO",
+	"latitude": 37.5454,
+	"longitude": -90.2876
+},
+{
+	"City": "Curryville",
+	"State": "MO",
+	"latitude": 39.3456,
+	"longitude": -91.3413
+},
+{
+	"City": "Craig",
+	"State": "MO",
+	"latitude": 40.1924,
+	"longitude": -95.3742
+},
+{
+	"City": "Dudley",
+	"State": "MO",
+	"latitude": 36.7897,
+	"longitude": -90.0917
+},
+{
+	"City": "De Kalb",
+	"State": "MO",
+	"latitude": 39.5883,
+	"longitude": -94.9236
+},
+{
+	"City": "Berger",
+	"State": "MO",
+	"latitude": 38.6718,
+	"longitude": -91.3391
+},
+{
+	"City": "Meta",
+	"State": "MO",
+	"latitude": 38.3123,
+	"longitude": -92.1657
+},
+{
+	"City": "Preston",
+	"State": "MO",
+	"latitude": 37.941,
+	"longitude": -93.2127
+},
+{
+	"City": "Houstonia",
+	"State": "MO",
+	"latitude": 38.8993,
+	"longitude": -93.3594
+},
+{
+	"City": "Bates City",
+	"State": "MO",
+	"latitude": 39.0047,
+	"longitude": -94.0659
+},
+{
+	"City": "Stotts City",
+	"State": "MO",
+	"latitude": 37.1018,
+	"longitude": -93.9483
+},
+{
+	"City": "Scotsdale",
+	"State": "MO",
+	"latitude": 38.3917,
+	"longitude": -90.5907
+},
+{
+	"City": "Asbury",
+	"State": "MO",
+	"latitude": 37.2729,
+	"longitude": -94.6052
+},
+{
+	"City": "Gasconade",
+	"State": "MO",
+	"latitude": 38.6702,
+	"longitude": -91.5599
+},
+{
+	"City": "Napoleon",
+	"State": "MO",
+	"latitude": 39.1293,
+	"longitude": -94.0857
+},
+{
+	"City": "Mayview",
+	"State": "MO",
+	"latitude": 39.0527,
+	"longitude": -93.8327
+},
+{
+	"City": "Wyaconda",
+	"State": "MO",
+	"latitude": 40.3921,
+	"longitude": -91.9261
+},
+{
+	"City": "Cross Timbers",
+	"State": "MO",
+	"latitude": 38.0242,
+	"longitude": -93.2294
+},
+{
+	"City": "Anniston",
+	"State": "MO",
+	"latitude": 36.8243,
+	"longitude": -89.3267
+},
+{
+	"City": "Glenwood",
+	"State": "MO",
+	"latitude": 40.5243,
+	"longitude": -92.5765
+},
+{
+	"City": "Knox City",
+	"State": "MO",
+	"latitude": 40.1441,
+	"longitude": -92.0103
+},
+{
+	"City": "Birmingham",
+	"State": "MO",
+	"latitude": 39.1674,
+	"longitude": -94.4502
+},
+{
+	"City": "Chula",
+	"State": "MO",
+	"latitude": 39.9219,
+	"longitude": -93.4774
+},
+{
+	"City": "Blodgett",
+	"State": "MO",
+	"latitude": 37.0049,
+	"longitude": -89.5264
+},
+{
+	"City": "Tuscumbia",
+	"State": "MO",
+	"latitude": 38.2369,
+	"longitude": -92.4601
+},
+{
+	"City": "Haywood City",
+	"State": "MO",
+	"latitude": 37.0117,
+	"longitude": -89.6003
+},
+{
+	"City": "Barnett",
+	"State": "MO",
+	"latitude": 38.3775,
+	"longitude": -92.6746
+},
+{
+	"City": "Altamont",
+	"State": "MO",
+	"latitude": 39.8885,
+	"longitude": -94.0867
+},
+{
+	"City": "Stoutland",
+	"State": "MO",
+	"latitude": 37.8136,
+	"longitude": -92.5143
+},
+{
+	"City": "Koshkonong",
+	"State": "MO",
+	"latitude": 36.5978,
+	"longitude": -91.646
+},
+{
+	"City": "Mosby",
+	"State": "MO",
+	"latitude": 39.3165,
+	"longitude": -94.3094
+},
+{
+	"City": "Phillipsburg",
+	"State": "MO",
+	"latitude": 37.5525,
+	"longitude": -92.7871
+},
+{
+	"City": "Barnard",
+	"State": "MO",
+	"latitude": 40.1755,
+	"longitude": -94.8233
+},
+{
+	"City": "Oakwood",
+	"State": "MO",
+	"latitude": 39.2005,
+	"longitude": -94.5704
+},
+{
+	"City": "Oakwood Park",
+	"State": "MO",
+	"latitude": 39.2047,
+	"longitude": -94.5738
+},
+{
+	"City": "Marquand",
+	"State": "MO",
+	"latitude": 37.4287,
+	"longitude": -90.167
+},
+{
+	"City": "Holland",
+	"State": "MO",
+	"latitude": 36.057,
+	"longitude": -89.8706
+},
+{
+	"City": "Edgar Springs",
+	"State": "MO",
+	"latitude": 37.7026,
+	"longitude": -91.8661
+},
+{
+	"City": "Neck City",
+	"State": "MO",
+	"latitude": 37.2549,
+	"longitude": -94.4449
+},
+{
+	"City": "Newtonia",
+	"State": "MO",
+	"latitude": 36.8792,
+	"longitude": -94.1836
+},
+{
+	"City": "Laredo",
+	"State": "MO",
+	"latitude": 40.0261,
+	"longitude": -93.4479
+},
+{
+	"City": "Gilliam",
+	"State": "MO",
+	"latitude": 39.2327,
+	"longitude": -93.0041
+},
+{
+	"City": "Hughesville",
+	"State": "MO",
+	"latitude": 38.8369,
+	"longitude": -93.2952
+},
+{
+	"City": "Bolckow",
+	"State": "MO",
+	"latitude": 40.1153,
+	"longitude": -94.8211
+},
+{
+	"City": "Fillmore",
+	"State": "MO",
+	"latitude": 40.0253,
+	"longitude": -94.973
+},
+{
+	"City": "Camden",
+	"State": "MO",
+	"latitude": 39.2001,
+	"longitude": -94.0196
+},
+{
+	"City": "New Cambria",
+	"State": "MO",
+	"latitude": 39.7765,
+	"longitude": -92.7515
+},
+{
+	"City": "Homestead",
+	"State": "MO",
+	"latitude": 39.3632,
+	"longitude": -94.2006
+},
+{
+	"City": "Blythedale",
+	"State": "MO",
+	"latitude": 40.4752,
+	"longitude": -93.928
+},
+{
+	"City": "Nelson",
+	"State": "MO",
+	"latitude": 38.9946,
+	"longitude": -93.0308
+},
+{
+	"City": "Grayridge",
+	"State": "MO",
+	"latitude": 36.8247,
+	"longitude": -89.7819
+},
+{
+	"City": "Cowgill",
+	"State": "MO",
+	"latitude": 39.5603,
+	"longitude": -93.9257
+},
+{
+	"City": "Fountain N' Lakes",
+	"State": "MO",
+	"latitude": 38.9689,
+	"longitude": -90.8493
+},
+{
+	"City": "Conception Junction",
+	"State": "MO",
+	"latitude": 40.2684,
+	"longitude": -94.6914
+},
+{
+	"City": "Bellerive Acres",
+	"State": "MO",
+	"latitude": 38.7123,
+	"longitude": -90.3121
+},
+{
+	"City": "Centerville",
+	"State": "MO",
+	"latitude": 37.4368,
+	"longitude": -90.9601
+},
+{
+	"City": "Mokane",
+	"State": "MO",
+	"latitude": 38.6744,
+	"longitude": -91.8723
+},
+{
+	"City": "Amoret",
+	"State": "MO",
+	"latitude": 38.2549,
+	"longitude": -94.5873
+},
+{
+	"City": "Sheridan",
+	"State": "MO",
+	"latitude": 40.517,
+	"longitude": -94.6144
+},
+{
+	"City": "Bennett Springs",
+	"State": "MO",
+	"latitude": 37.7255,
+	"longitude": -92.8534
+},
+{
+	"City": "Halfway",
+	"State": "MO",
+	"latitude": 37.6189,
+	"longitude": -93.2387
+},
+{
+	"City": "Purdin",
+	"State": "MO",
+	"latitude": 39.951,
+	"longitude": -93.1664
+},
+{
+	"City": "High Hill",
+	"State": "MO",
+	"latitude": 38.8753,
+	"longitude": -91.3776
+},
+{
+	"City": "Wasola",
+	"State": "MO",
+	"latitude": 36.7857,
+	"longitude": -92.5685
+},
+{
+	"City": "Hurley",
+	"State": "MO",
+	"latitude": 36.9306,
+	"longitude": -93.4996
+},
+{
+	"City": "Mill Spring",
+	"State": "MO",
+	"latitude": 37.065,
+	"longitude": -90.6778
+},
+{
+	"City": "Lamar Heights",
+	"State": "MO",
+	"latitude": 37.4937,
+	"longitude": -94.2955
+},
+{
+	"City": "Foley",
+	"State": "MO",
+	"latitude": 39.0458,
+	"longitude": -90.7414
+},
+{
+	"City": "Hunnewell",
+	"State": "MO",
+	"latitude": 39.6679,
+	"longitude": -91.8588
+},
+{
+	"City": "Halltown",
+	"State": "MO",
+	"latitude": 37.1947,
+	"longitude": -93.6292
+},
+{
+	"City": "Syracuse",
+	"State": "MO",
+	"latitude": 38.6696,
+	"longitude": -92.8763
+},
+{
+	"City": "Parnell",
+	"State": "MO",
+	"latitude": 40.4384,
+	"longitude": -94.6223
+},
+{
+	"City": "Glen Echo Park",
+	"State": "MO",
+	"latitude": 38.7009,
+	"longitude": -90.2965
+},
+{
+	"City": "Leslie",
+	"State": "MO",
+	"latitude": 38.4179,
+	"longitude": -91.2312
+},
+{
+	"City": "Eagle Rock",
+	"State": "MO",
+	"latitude": 36.5498,
+	"longitude": -93.7416
+},
+{
+	"City": "Miami",
+	"State": "MO",
+	"latitude": 39.3224,
+	"longitude": -93.2258
+},
+{
+	"City": "Renick",
+	"State": "MO",
+	"latitude": 39.3419,
+	"longitude": -92.4109
+},
+{
+	"City": "Newtown",
+	"State": "MO",
+	"latitude": 40.3762,
+	"longitude": -93.3336
+},
+{
+	"City": "Sedgewickville",
+	"State": "MO",
+	"latitude": 37.5146,
+	"longitude": -89.9061
+},
+{
+	"City": "La Tour",
+	"State": "MO",
+	"latitude": 38.6348,
+	"longitude": -94.1017
+},
+{
+	"City": "Lohman",
+	"State": "MO",
+	"latitude": 38.543,
+	"longitude": -92.3646
+},
+{
+	"City": "Parkdale",
+	"State": "MO",
+	"latitude": 38.4801,
+	"longitude": -90.5283
+},
+{
+	"City": "Coffey",
+	"State": "MO",
+	"latitude": 40.1056,
+	"longitude": -94.0066
+},
+{
+	"City": "Des Arc",
+	"State": "MO",
+	"latitude": 37.2837,
+	"longitude": -90.6354
+},
+{
+	"City": "Mendon",
+	"State": "MO",
+	"latitude": 39.5906,
+	"longitude": -93.1336
+},
+{
+	"City": "Blue Eye",
+	"State": "MO",
+	"latitude": 36.5149,
+	"longitude": -93.383
+},
+{
+	"City": "Freistatt",
+	"State": "MO",
+	"latitude": 37.0213,
+	"longitude": -93.8977
+},
+{
+	"City": "Argyle",
+	"State": "MO",
+	"latitude": 38.2954,
+	"longitude": -92.0256
+},
+{
+	"City": "Rockville",
+	"State": "MO",
+	"latitude": 38.0713,
+	"longitude": -94.0803
+},
+{
+	"City": "Hurdland",
+	"State": "MO",
+	"latitude": 40.1489,
+	"longitude": -92.3034
+},
+{
+	"City": "Clearmont",
+	"State": "MO",
+	"latitude": 40.5082,
+	"longitude": -95.0326
+},
+{
+	"City": "Graham",
+	"State": "MO",
+	"latitude": 40.2013,
+	"longitude": -95.0404
+},
+{
+	"City": "Middletown",
+	"State": "MO",
+	"latitude": 39.1286,
+	"longitude": -91.4139
+},
+{
+	"City": "Bogard",
+	"State": "MO",
+	"latitude": 39.4579,
+	"longitude": -93.5239
+},
+{
+	"City": "Dawn",
+	"State": "MO",
+	"latitude": 39.6713,
+	"longitude": -93.6341
+},
+{
+	"City": "Stella",
+	"State": "MO",
+	"latitude": 36.7624,
+	"longitude": -94.1908
+},
+{
+	"City": "Collins",
+	"State": "MO",
+	"latitude": 37.8906,
+	"longitude": -93.6215
+},
+{
+	"City": "Brandsville",
+	"State": "MO",
+	"latitude": 36.6507,
+	"longitude": -91.6964
+},
+{
+	"City": "Diehlstadt",
+	"State": "MO",
+	"latitude": 36.9593,
+	"longitude": -89.4323
+},
+{
+	"City": "Ozora",
+	"State": "MO",
+	"latitude": 37.8666,
+	"longitude": -90.0517
+},
+{
+	"City": "Blackwater",
+	"State": "MO",
+	"latitude": 38.9793,
+	"longitude": -92.992
+},
+{
+	"City": "Redings Mill",
+	"State": "MO",
+	"latitude": 37.0196,
+	"longitude": -94.517
+},
+{
+	"City": "St. Clement",
+	"State": "MO",
+	"latitude": 39.2829,
+	"longitude": -91.2098
+},
+{
+	"City": "Elmo",
+	"State": "MO",
+	"latitude": 40.5187,
+	"longitude": -95.117
+},
+{
+	"City": "Alexandria",
+	"State": "MO",
+	"latitude": 40.3598,
+	"longitude": -91.4595
+},
+{
+	"City": "Tallapoosa",
+	"State": "MO",
+	"latitude": 36.5061,
+	"longitude": -89.817
+},
+{
+	"City": "Turney",
+	"State": "MO",
+	"latitude": 39.6377,
+	"longitude": -94.321
+},
+{
+	"City": "Flemington",
+	"State": "MO",
+	"latitude": 37.8039,
+	"longitude": -93.5014
+},
+{
+	"City": "Gravois Mills",
+	"State": "MO",
+	"latitude": 38.3049,
+	"longitude": -92.8244
+},
+{
+	"City": "Excelsior Estates",
+	"State": "MO",
+	"latitude": 39.39,
+	"longitude": -94.2082
+},
+{
+	"City": "Tina",
+	"State": "MO",
+	"latitude": 39.538,
+	"longitude": -93.4414
+},
+{
+	"City": "Rosendale",
+	"State": "MO",
+	"latitude": 40.0409,
+	"longitude": -94.8236
+},
+{
+	"City": "Big Lake",
+	"State": "MO",
+	"latitude": 40.0735,
+	"longitude": -95.3518
+},
+{
+	"City": "Jacksonville",
+	"State": "MO",
+	"latitude": 39.5878,
+	"longitude": -92.4726
+},
+{
+	"City": "Wentworth",
+	"State": "MO",
+	"latitude": 36.9932,
+	"longitude": -94.0755
+},
+{
+	"City": "Rush Hill",
+	"State": "MO",
+	"latitude": 39.2104,
+	"longitude": -91.7246
+},
+{
+	"City": "Kimmswick",
+	"State": "MO",
+	"latitude": 38.3654,
+	"longitude": -90.3645
+},
+{
+	"City": "Strasburg",
+	"State": "MO",
+	"latitude": 38.7598,
+	"longitude": -94.1648
+},
+{
+	"City": "Pickering",
+	"State": "MO",
+	"latitude": 40.4502,
+	"longitude": -94.8417
+},
+{
+	"City": "Stark City",
+	"State": "MO",
+	"latitude": 36.8626,
+	"longitude": -94.1864
+},
+{
+	"City": "Oaks",
+	"State": "MO",
+	"latitude": 39.197,
+	"longitude": -94.572
+},
+{
+	"City": "Hunter",
+	"State": "MO",
+	"latitude": 36.8867,
+	"longitude": -90.8483
+},
+{
+	"City": "Prathersville",
+	"State": "MO",
+	"latitude": 39.3153,
+	"longitude": -94.2738
+},
+{
+	"City": "Novelty",
+	"State": "MO",
+	"latitude": 40.0124,
+	"longitude": -92.2072
+},
+{
+	"City": "Frankclay",
+	"State": "MO",
+	"latitude": 37.863,
+	"longitude": -90.6144
+},
+{
+	"City": "Holliday",
+	"State": "MO",
+	"latitude": 39.4936,
+	"longitude": -92.1312
+},
+{
+	"City": "Rhineland",
+	"State": "MO",
+	"latitude": 38.7205,
+	"longitude": -91.5175
+},
+{
+	"City": "Bragg City",
+	"State": "MO",
+	"latitude": 36.2681,
+	"longitude": -89.9114
+},
+{
+	"City": "Oxly",
+	"State": "MO",
+	"latitude": 36.6025,
+	"longitude": -90.679
+},
+{
+	"City": "Morrison",
+	"State": "MO",
+	"latitude": 38.6716,
+	"longitude": -91.6334
+},
+{
+	"City": "Homestown",
+	"State": "MO",
+	"latitude": 36.3318,
+	"longitude": -89.8242
+},
+{
+	"City": "Kingdom City",
+	"State": "MO",
+	"latitude": 38.9473,
+	"longitude": -91.939
+},
+{
+	"City": "Avilla",
+	"State": "MO",
+	"latitude": 37.1938,
+	"longitude": -94.1298
+},
+{
+	"City": "Fleming",
+	"State": "MO",
+	"latitude": 39.1956,
+	"longitude": -94.0523
+},
+{
+	"City": "Chain-O-Lakes",
+	"State": "MO",
+	"latitude": 36.5343,
+	"longitude": -93.7243
+},
+{
+	"City": "Lewis and Clark Village",
+	"State": "MO",
+	"latitude": 39.5375,
+	"longitude": -95.0506
+},
+{
+	"City": "Baring",
+	"State": "MO",
+	"latitude": 40.2447,
+	"longitude": -92.2058
+},
+{
+	"City": "Jameson",
+	"State": "MO",
+	"latitude": 40.0059,
+	"longitude": -93.9878
+},
+{
+	"City": "Ludlow",
+	"State": "MO",
+	"latitude": 39.6541,
+	"longitude": -93.7026
+},
+{
+	"City": "Westboro",
+	"State": "MO",
+	"latitude": 40.535,
+	"longitude": -95.3212
+},
+{
+	"City": "Caledonia",
+	"State": "MO",
+	"latitude": 37.765,
+	"longitude": -90.772
+},
+{
+	"City": "Cosby",
+	"State": "MO",
+	"latitude": 39.8639,
+	"longitude": -94.6798
+},
+{
+	"City": "Dutchtown",
+	"State": "MO",
+	"latitude": 37.2598,
+	"longitude": -89.6466
+},
+{
+	"City": "Whitewater",
+	"State": "MO",
+	"latitude": 37.2368,
+	"longitude": -89.7978
+},
+{
+	"City": "Allenville",
+	"State": "MO",
+	"latitude": 37.2217,
+	"longitude": -89.7555
+},
+{
+	"City": "Montreal",
+	"State": "MO",
+	"latitude": 37.9702,
+	"longitude": -92.588
+},
+{
+	"City": "Miramiguoa Park",
+	"State": "MO",
+	"latitude": 38.2389,
+	"longitude": -91.0688
+},
+{
+	"City": "Olean",
+	"State": "MO",
+	"latitude": 38.4103,
+	"longitude": -92.53
+},
+{
+	"City": "Gunn City",
+	"State": "MO",
+	"latitude": 38.666,
+	"longitude": -94.164
+},
+{
+	"City": "Moundville",
+	"State": "MO",
+	"latitude": 37.7646,
+	"longitude": -94.451
+},
+{
+	"City": "La Russell",
+	"State": "MO",
+	"latitude": 37.1402,
+	"longitude": -94.061
+},
+{
+	"City": "Darlington",
+	"State": "MO",
+	"latitude": 40.1982,
+	"longitude": -94.3997
+},
+{
+	"City": "Roscoe",
+	"State": "MO",
+	"latitude": 37.9774,
+	"longitude": -93.8138
+},
+{
+	"City": "De Witt",
+	"State": "MO",
+	"latitude": 39.3849,
+	"longitude": -93.2199
+},
+{
+	"City": "Louisburg",
+	"State": "MO",
+	"latitude": 37.7564,
+	"longitude": -93.141
+},
+{
+	"City": "West Sullivan",
+	"State": "MO",
+	"latitude": 38.1922,
+	"longitude": -91.1918
+},
+{
+	"City": "Grand Falls Plaza",
+	"State": "MO",
+	"latitude": 37.0355,
+	"longitude": -94.5379
+},
+{
+	"City": "Bethel",
+	"State": "MO",
+	"latitude": 39.8779,
+	"longitude": -92.0225
+},
+{
+	"City": "Wilson City",
+	"State": "MO",
+	"latitude": 36.9236,
+	"longitude": -89.223
+},
+{
+	"City": "Foster",
+	"State": "MO",
+	"latitude": 38.1664,
+	"longitude": -94.5079
+},
+{
+	"City": "Rutledge",
+	"State": "MO",
+	"latitude": 40.314,
+	"longitude": -92.0876
+},
+{
+	"City": "Hartsburg",
+	"State": "MO",
+	"latitude": 38.697,
+	"longitude": -92.3072
+},
+{
+	"City": "Clifton Hill",
+	"State": "MO",
+	"latitude": 39.4388,
+	"longitude": -92.6642
+},
+{
+	"City": "Humphreys",
+	"State": "MO",
+	"latitude": 40.1252,
+	"longitude": -93.3196
+},
+{
+	"City": "Plato",
+	"State": "MO",
+	"latitude": 37.5029,
+	"longitude": -92.22
+},
+{
+	"City": "Brooklyn Heights",
+	"State": "MO",
+	"latitude": 37.1694,
+	"longitude": -94.3855
+},
+{
+	"City": "Ridgely",
+	"State": "MO",
+	"latitude": 39.4537,
+	"longitude": -94.6402
+},
+{
+	"City": "Pocahontas",
+	"State": "MO",
+	"latitude": 37.5014,
+	"longitude": -89.6398
+},
+{
+	"City": "Brownington",
+	"State": "MO",
+	"latitude": 38.2452,
+	"longitude": -93.7226
+},
+{
+	"City": "Truxton",
+	"State": "MO",
+	"latitude": 39.0035,
+	"longitude": -91.2403
+},
+{
+	"City": "Edinburg",
+	"State": "MO",
+	"latitude": 40.0811,
+	"longitude": -93.6898
+},
+{
+	"City": "Weatherby",
+	"State": "MO",
+	"latitude": 39.9092,
+	"longitude": -94.2419
+},
+{
+	"City": "Gibbs",
+	"State": "MO",
+	"latitude": 40.0988,
+	"longitude": -92.4165
+},
+{
+	"City": "Benton City",
+	"State": "MO",
+	"latitude": 39.1345,
+	"longitude": -91.7648
+},
+{
+	"City": "Dover",
+	"State": "MO",
+	"latitude": 39.1941,
+	"longitude": -93.6896
+},
+{
+	"City": "Leisure Lake",
+	"State": "MO",
+	"latitude": 40.11,
+	"longitude": -93.7236
+},
+{
+	"City": "Lithium",
+	"State": "MO",
+	"latitude": 37.8322,
+	"longitude": -89.8833
+},
+{
+	"City": "Aullville",
+	"State": "MO",
+	"latitude": 39.0175,
+	"longitude": -93.6779
+},
+{
+	"City": "West Line",
+	"State": "MO",
+	"latitude": 38.6357,
+	"longitude": -94.587
+},
+{
+	"City": "Lake Annette",
+	"State": "MO",
+	"latitude": 38.6544,
+	"longitude": -94.5081
+},
+{
+	"City": "Chain of Rocks",
+	"State": "MO",
+	"latitude": 38.9155,
+	"longitude": -90.802
+},
+{
+	"City": "Reeds",
+	"State": "MO",
+	"latitude": 37.1165,
+	"longitude": -94.1682
+},
+{
+	"City": "Longtown",
+	"State": "MO",
+	"latitude": 37.6702,
+	"longitude": -89.7741
+},
+{
+	"City": "Ravanna",
+	"State": "MO",
+	"latitude": 40.456,
+	"longitude": -93.462
+},
+{
+	"City": "Sumner",
+	"State": "MO",
+	"latitude": 39.6561,
+	"longitude": -93.2435
+},
+{
+	"City": "Baldwin Park",
+	"State": "MO",
+	"latitude": 38.7939,
+	"longitude": -94.2467
+},
+{
+	"City": "Hayward",
+	"State": "MO",
+	"latitude": 36.3959,
+	"longitude": -89.6669
+},
+{
+	"City": "Bagnell",
+	"State": "MO",
+	"latitude": 38.2294,
+	"longitude": -92.6053
+},
+{
+	"City": "Richards",
+	"State": "MO",
+	"latitude": 37.9105,
+	"longitude": -94.557
+},
+{
+	"City": "Brumley",
+	"State": "MO",
+	"latitude": 38.088,
+	"longitude": -92.4845
+},
+{
+	"City": "Shoal Creek Estates",
+	"State": "MO",
+	"latitude": 37.0173,
+	"longitude": -94.4933
+},
+{
+	"City": "Blairstown",
+	"State": "MO",
+	"latitude": 38.558,
+	"longitude": -93.9578
+},
+{
+	"City": "Franklin",
+	"State": "MO",
+	"latitude": 39.0112,
+	"longitude": -92.755
+},
+{
+	"City": "Luray",
+	"State": "MO",
+	"latitude": 40.4524,
+	"longitude": -91.8841
+},
+{
+	"City": "Pascola",
+	"State": "MO",
+	"latitude": 36.2673,
+	"longitude": -89.8258
+},
+{
+	"City": "Defiance",
+	"State": "MO",
+	"latitude": 38.6327,
+	"longitude": -90.7846
+},
+{
+	"City": "Zalma",
+	"State": "MO",
+	"latitude": 37.1423,
+	"longitude": -90.0825
+},
+{
+	"City": "Rothville",
+	"State": "MO",
+	"latitude": 39.6539,
+	"longitude": -93.0636
+},
+{
+	"City": "South Gorin",
+	"State": "MO",
+	"latitude": 40.3596,
+	"longitude": -92.0246
+},
+{
+	"City": "Monticello",
+	"State": "MO",
+	"latitude": 40.1191,
+	"longitude": -91.713
+},
+{
+	"City": "Waco",
+	"State": "MO",
+	"latitude": 37.247,
+	"longitude": -94.6003
+},
+{
+	"City": "McFall",
+	"State": "MO",
+	"latitude": 40.1116,
+	"longitude": -94.2223
+},
+{
+	"City": "Weldon Spring Heights",
+	"State": "MO",
+	"latitude": 38.7042,
+	"longitude": -90.6855
+},
+{
+	"City": "Mooresville",
+	"State": "MO",
+	"latitude": 39.7468,
+	"longitude": -93.721
+},
+{
+	"City": "Newark",
+	"State": "MO",
+	"latitude": 39.9946,
+	"longitude": -91.9733
+},
+{
+	"City": "Watson",
+	"State": "MO",
+	"latitude": 40.4799,
+	"longitude": -95.6232
+},
+{
+	"City": "Weingarten",
+	"State": "MO",
+	"latitude": 37.8894,
+	"longitude": -90.2172
+},
+{
+	"City": "Arrow Point",
+	"State": "MO",
+	"latitude": 36.544,
+	"longitude": -93.6223
+},
+{
+	"City": "Ionia",
+	"State": "MO",
+	"latitude": 38.5037,
+	"longitude": -93.3236
+},
+{
+	"City": "Milo",
+	"State": "MO",
+	"latitude": 37.7554,
+	"longitude": -94.3051
+},
+{
+	"City": "Millard",
+	"State": "MO",
+	"latitude": 40.1075,
+	"longitude": -92.546
+},
+{
+	"City": "Mount Leonard",
+	"State": "MO",
+	"latitude": 39.1254,
+	"longitude": -93.3945
+},
+{
+	"City": "South Greenfield",
+	"State": "MO",
+	"latitude": 37.3752,
+	"longitude": -93.8437
+},
+{
+	"City": "Riverview Estates",
+	"State": "MO",
+	"latitude": 38.7489,
+	"longitude": -94.5246
+},
+{
+	"City": "Old Appleton",
+	"State": "MO",
+	"latitude": 37.5938,
+	"longitude": -89.7108
+},
+{
+	"City": "Levasy",
+	"State": "MO",
+	"latitude": 39.1363,
+	"longitude": -94.1307
+},
+{
+	"City": "Worthington",
+	"State": "MO",
+	"latitude": 40.4091,
+	"longitude": -92.6892
+},
+{
+	"City": "Glen Allen",
+	"State": "MO",
+	"latitude": 37.3171,
+	"longitude": -90.0282
+},
+{
+	"City": "Whiteside",
+	"State": "MO",
+	"latitude": 39.1839,
+	"longitude": -91.0166
+},
+{
+	"City": "Aldrich",
+	"State": "MO",
+	"latitude": 37.5489,
+	"longitude": -93.5512
+},
+{
+	"City": "Ritchey",
+	"State": "MO",
+	"latitude": 36.944,
+	"longitude": -94.1858
+},
+{
+	"City": "Mount Moriah",
+	"State": "MO",
+	"latitude": 40.3292,
+	"longitude": -93.7971
+},
+{
+	"City": "Pollock",
+	"State": "MO",
+	"latitude": 40.3583,
+	"longitude": -93.0835
+},
+{
+	"City": "Lucerne",
+	"State": "MO",
+	"latitude": 40.4639,
+	"longitude": -93.2911
+},
+{
+	"City": "Hartwell",
+	"State": "MO",
+	"latitude": 38.4331,
+	"longitude": -93.9342
+},
+{
+	"City": "Clyde",
+	"State": "MO",
+	"latitude": 40.2662,
+	"longitude": -94.6696
+},
+{
+	"City": "Deerfield",
+	"State": "MO",
+	"latitude": 37.8386,
+	"longitude": -94.5078
+},
+{
+	"City": "Ashley",
+	"State": "MO",
+	"latitude": 39.2538,
+	"longitude": -91.2239
+},
+{
+	"City": "Elmer",
+	"State": "MO",
+	"latitude": 39.9571,
+	"longitude": -92.65
+},
+{
+	"City": "Tindall",
+	"State": "MO",
+	"latitude": 40.1609,
+	"longitude": -93.6096
+},
+{
+	"City": "Coney Island",
+	"State": "MO",
+	"latitude": 36.593,
+	"longitude": -93.3972
+},
+{
+	"City": "Revere",
+	"State": "MO",
+	"latitude": 40.4943,
+	"longitude": -91.6763
+},
+{
+	"City": "Pierpont",
+	"State": "MO",
+	"latitude": 38.8633,
+	"longitude": -92.3132
+},
+{
+	"City": "Paynesville",
+	"State": "MO",
+	"latitude": 39.2627,
+	"longitude": -90.9003
+},
+{
+	"City": "Guilford",
+	"State": "MO",
+	"latitude": 40.1686,
+	"longitude": -94.736
+},
+{
+	"City": "Unity Village",
+	"State": "MO",
+	"latitude": 38.9525,
+	"longitude": -94.3996
+},
+{
+	"City": "Country Life Acres",
+	"State": "MO",
+	"latitude": 38.6222,
+	"longitude": -90.4554
+},
+{
+	"City": "Livonia",
+	"State": "MO",
+	"latitude": 40.492,
+	"longitude": -92.7005
+},
+{
+	"City": "Dennis Acres",
+	"State": "MO",
+	"latitude": 37.0465,
+	"longitude": -94.5044
+},
+{
+	"City": "Gentry",
+	"State": "MO",
+	"latitude": 40.3326,
+	"longitude": -94.4233
+},
+{
+	"City": "Vandiver",
+	"State": "MO",
+	"latitude": 39.1621,
+	"longitude": -91.847
+},
+{
+	"City": "Commerce",
+	"State": "MO",
+	"latitude": 37.1583,
+	"longitude": -89.4467
+},
+{
+	"City": "Peaceful Village",
+	"State": "MO",
+	"latitude": 38.4669,
+	"longitude": -90.5426
+},
+{
+	"City": "Grand Pass",
+	"State": "MO",
+	"latitude": 39.205,
+	"longitude": -93.4427
+},
+{
+	"City": "Arkoe",
+	"State": "MO",
+	"latitude": 40.2594,
+	"longitude": -94.8279
+},
+{
+	"City": "Penermon",
+	"State": "MO",
+	"latitude": 36.7909,
+	"longitude": -89.8301
+},
+{
+	"City": "Brimson",
+	"State": "MO",
+	"latitude": 40.145,
+	"longitude": -93.7386
+},
+{
+	"City": "Ethel",
+	"State": "MO",
+	"latitude": 39.8933,
+	"longitude": -92.741
+},
+{
+	"City": "Catron",
+	"State": "MO",
+	"latitude": 36.6111,
+	"longitude": -89.7061
+},
+{
+	"City": "Tightwad",
+	"State": "MO",
+	"latitude": 38.3096,
+	"longitude": -93.5466
+},
+{
+	"City": "Worth",
+	"State": "MO",
+	"latitude": 40.4045,
+	"longitude": -94.4465
+},
+{
+	"City": "Rives",
+	"State": "MO",
+	"latitude": 36.0945,
+	"longitude": -90.0115
+},
+{
+	"City": "McKittrick",
+	"State": "MO",
+	"latitude": 38.7357,
+	"longitude": -91.4449
+},
+{
+	"City": "Wooldridge",
+	"State": "MO",
+	"latitude": 38.9066,
+	"longitude": -92.5215
+},
+{
+	"City": "Merwin",
+	"State": "MO",
+	"latitude": 38.4041,
+	"longitude": -94.5908
+},
+{
+	"City": "Hoberg",
+	"State": "MO",
+	"latitude": 37.0682,
+	"longitude": -93.8493
+},
+{
+	"City": "Leonard",
+	"State": "MO",
+	"latitude": 39.8944,
+	"longitude": -92.182
+},
+{
+	"City": "Lock Springs",
+	"State": "MO",
+	"latitude": 39.8488,
+	"longitude": -93.7762
+},
+{
+	"City": "Harris",
+	"State": "MO",
+	"latitude": 40.3062,
+	"longitude": -93.3504
+},
+{
+	"City": "Randolph",
+	"State": "MO",
+	"latitude": 39.156,
+	"longitude": -94.4929
+},
+{
+	"City": "Iatan",
+	"State": "MO",
+	"latitude": 39.4774,
+	"longitude": -94.9837
+},
+{
+	"City": "Ginger Blue",
+	"State": "MO",
+	"latitude": 36.5899,
+	"longitude": -94.4596
+},
+{
+	"City": "Powersville",
+	"State": "MO",
+	"latitude": 40.5496,
+	"longitude": -93.3003
+},
+{
+	"City": "Irwin",
+	"State": "MO",
+	"latitude": 37.5884,
+	"longitude": -94.287
+},
+{
+	"City": "Amity",
+	"State": "MO",
+	"latitude": 39.8683,
+	"longitude": -94.4354
+},
+{
+	"City": "Arcola",
+	"State": "MO",
+	"latitude": 37.5493,
+	"longitude": -93.8761
+},
+{
+	"City": "Arrow Rock",
+	"State": "MO",
+	"latitude": 39.07,
+	"longitude": -92.9473
+},
+{
+	"City": "Allendale",
+	"State": "MO",
+	"latitude": 40.4853,
+	"longitude": -94.2887
+},
+{
+	"City": "South Fork",
+	"State": "MO",
+	"latitude": 36.6311,
+	"longitude": -91.9602
+},
+{
+	"City": "Elmira",
+	"State": "MO",
+	"latitude": 39.5087,
+	"longitude": -94.1546
+},
+{
+	"City": "Umber View Heights",
+	"State": "MO",
+	"latitude": 37.6233,
+	"longitude": -93.8036
+},
+{
+	"City": "Rea",
+	"State": "MO",
+	"latitude": 40.0616,
+	"longitude": -94.7646
+},
+{
+	"City": "Sundown",
+	"State": "MO",
+	"latitude": 36.566,
+	"longitude": -92.638
+},
+{
+	"City": "South Gifford",
+	"State": "MO",
+	"latitude": 40.0258,
+	"longitude": -92.6831
+},
+{
+	"City": "Metz",
+	"State": "MO",
+	"latitude": 37.9965,
+	"longitude": -94.443
+},
+{
+	"City": "Pendleton",
+	"State": "MO",
+	"latitude": 38.8263,
+	"longitude": -91.2322
+},
+{
+	"City": "Vista",
+	"State": "MO",
+	"latitude": 37.9891,
+	"longitude": -93.6637
+},
+{
+	"City": "Harwood",
+	"State": "MO",
+	"latitude": 37.9567,
+	"longitude": -94.1539
+},
+{
+	"City": "North Lilbourn",
+	"State": "MO",
+	"latitude": 36.6018,
+	"longitude": -89.6221
+},
+{
+	"City": "Osgood",
+	"State": "MO",
+	"latitude": 40.1973,
+	"longitude": -93.3499
+},
+{
+	"City": "Arbela",
+	"State": "MO",
+	"latitude": 40.4631,
+	"longitude": -92.0156
+},
+{
+	"City": "Stoutsville",
+	"State": "MO",
+	"latitude": 39.5479,
+	"longitude": -91.8572
+},
+{
+	"City": "St. Cloud",
+	"State": "MO",
+	"latitude": 38.1732,
+	"longitude": -91.2127
+},
+{
+	"City": "Cliff Village",
+	"State": "MO",
+	"latitude": 37.0251,
+	"longitude": -94.517
+},
+{
+	"City": "Triplett",
+	"State": "MO",
+	"latitude": 39.4984,
+	"longitude": -93.194
+},
+{
+	"City": "Denver",
+	"State": "MO",
+	"latitude": 40.3989,
+	"longitude": -94.3233
+},
+{
+	"City": "Granger",
+	"State": "MO",
+	"latitude": 40.467,
+	"longitude": -91.9736
+},
+{
+	"City": "Lupus",
+	"State": "MO",
+	"latitude": 38.846,
+	"longitude": -92.454
+},
+{
+	"City": "Spokane",
+	"State": "MO",
+	"latitude": 36.8633,
+	"longitude": -93.3056
+},
+{
+	"City": "Fremont",
+	"State": "MO",
+	"latitude": 36.9522,
+	"longitude": -91.1623
+},
+{
+	"City": "Burgess",
+	"State": "MO",
+	"latitude": 37.5568,
+	"longitude": -94.6153
+},
+{
+	"City": "Passaic",
+	"State": "MO",
+	"latitude": 38.322,
+	"longitude": -94.3486
+},
+{
+	"City": "Huntsdale",
+	"State": "MO",
+	"latitude": 38.912,
+	"longitude": -92.4786
+},
+{
+	"City": "Chesapeake",
+	"State": "MO",
+	"latitude": 37.1161,
+	"longitude": -93.6791
+},
+{
+	"City": "Charmwood",
+	"State": "MO",
+	"latitude": 38.2811,
+	"longitude": -91.0966
+},
+{
+	"City": "Winigan",
+	"State": "MO",
+	"latitude": 40.0469,
+	"longitude": -92.9017
+},
+{
+	"City": "Fortescue",
+	"State": "MO",
+	"latitude": 40.0519,
+	"longitude": -95.3176
+},
+{
+	"City": "Annada",
+	"State": "MO",
+	"latitude": 39.2621,
+	"longitude": -90.8287
+},
+{
+	"City": "Evergreen",
+	"State": "MO",
+	"latitude": 37.5486,
+	"longitude": -92.5961
+},
+{
+	"City": "Danville",
+	"State": "MO",
+	"latitude": 38.9125,
+	"longitude": -91.5323
+},
+{
+	"City": "South Lineville",
+	"State": "MO",
+	"latitude": 40.5785,
+	"longitude": -93.5243
+},
+{
+	"City": "Biehle",
+	"State": "MO",
+	"latitude": 37.6066,
+	"longitude": -89.8376
+},
+{
+	"City": "Bigelow",
+	"State": "MO",
+	"latitude": 40.1098,
+	"longitude": -95.2894
+},
+{
+	"City": "Milford",
+	"State": "MO",
+	"latitude": 37.5864,
+	"longitude": -94.1584
+},
+{
+	"City": "Gerster",
+	"State": "MO",
+	"latitude": 37.9548,
+	"longitude": -93.5769
+},
+{
+	"City": "Montier",
+	"State": "MO",
+	"latitude": 36.9817,
+	"longitude": -91.5749
+},
+{
+	"City": "Goodnight",
+	"State": "MO",
+	"latitude": 37.4516,
+	"longitude": -93.2311
+},
+{
+	"City": "Irena",
+	"State": "MO",
+	"latitude": 40.5403,
+	"longitude": -94.39
+},
+{
+	"City": "Stotesbury",
+	"State": "MO",
+	"latitude": 37.9744,
+	"longitude": -94.5645
+},
+{
+	"City": "Dalton",
+	"State": "MO",
+	"latitude": 39.3976,
+	"longitude": -92.9921
+},
+{
+	"City": "Quitman",
+	"State": "MO",
+	"latitude": 40.3732,
+	"longitude": -95.077
+},
+{
+	"City": "Corning",
+	"State": "MO",
+	"latitude": 40.2486,
+	"longitude": -95.4545
+},
+{
+	"City": "Champ",
+	"State": "MO",
+	"latitude": 38.745,
+	"longitude": -90.4538
+},
+{
+	"City": "Excello",
+	"State": "MO",
+	"latitude": 39.6334,
+	"longitude": -92.4743
+},
+{
+	"City": "McBaine",
+	"State": "MO",
+	"latitude": 38.8831,
+	"longitude": -92.4549
+},
+{
+	"City": "River Bend",
+	"State": "MO",
+	"latitude": 39.1841,
+	"longitude": -94.3941
+},
+{
+	"City": "Lambert",
+	"State": "MO",
+	"latitude": 37.0938,
+	"longitude": -89.5547
+},
+{
+	"City": "Three Creeks",
+	"State": "MO",
+	"latitude": 38.5758,
+	"longitude": -90.9971
+},
+{
+	"City": "Cave",
+	"State": "MO",
+	"latitude": 39.0214,
+	"longitude": -91.0483
+},
+{
+	"City": "Plevna",
+	"State": "MO",
+	"latitude": 39.9766,
+	"longitude": -92.0852
+}]

@@ -1,0 +1,3487 @@
+[
+{
+	"City": "Birmingham",
+	"State": "AL",
+	"latitude": 33.5277,
+	"longitude": -86.7987
+},
+{
+	"City": "Huntsville",
+	"State": "AL",
+	"latitude": 34.6988,
+	"longitude": -86.6412
+},
+{
+	"City": "Mobile",
+	"State": "AL",
+	"latitude": 30.6783,
+	"longitude": -88.1162
+},
+{
+	"City": "Montgomery",
+	"State": "AL",
+	"latitude": 32.3473,
+	"longitude": -86.2666
+},
+{
+	"City": "Tuscaloosa",
+	"State": "AL",
+	"latitude": 33.2348,
+	"longitude": -87.5267
+},
+{
+	"City": "Auburn",
+	"State": "AL",
+	"latitude": 32.6087,
+	"longitude": -85.4899
+},
+{
+	"City": "Hoover",
+	"State": "AL",
+	"latitude": 33.3754,
+	"longitude": -86.8064
+},
+{
+	"City": "Florence",
+	"State": "AL",
+	"latitude": 34.8303,
+	"longitude": -87.6654
+},
+{
+	"City": "Anniston",
+	"State": "AL",
+	"latitude": 33.6712,
+	"longitude": -85.8136
+},
+{
+	"City": "Dothan",
+	"State": "AL",
+	"latitude": 31.2335,
+	"longitude": -85.4069
+},
+{
+	"City": "Daphne",
+	"State": "AL",
+	"latitude": 30.6286,
+	"longitude": -87.8866
+},
+{
+	"City": "Decatur",
+	"State": "AL",
+	"latitude": 34.573,
+	"longitude": -86.9906
+},
+{
+	"City": "Gadsden",
+	"State": "AL",
+	"latitude": 34.009,
+	"longitude": -86.0156
+},
+{
+	"City": "Madison",
+	"State": "AL",
+	"latitude": 34.7114,
+	"longitude": -86.7626
+},
+{
+	"City": "Enterprise",
+	"State": "AL",
+	"latitude": 31.3276,
+	"longitude": -85.8459
+},
+{
+	"City": "Albertville",
+	"State": "AL",
+	"latitude": 34.2634,
+	"longitude": -86.2107
+},
+{
+	"City": "Foley",
+	"State": "AL",
+	"latitude": 30.3983,
+	"longitude": -87.6649
+},
+{
+	"City": "Phenix City",
+	"State": "AL",
+	"latitude": 32.4588,
+	"longitude": -85.0251
+},
+{
+	"City": "Prattville",
+	"State": "AL",
+	"latitude": 32.4605,
+	"longitude": -86.4588
+},
+{
+	"City": "Vestavia Hills",
+	"State": "AL",
+	"latitude": 33.4518,
+	"longitude": -86.7438
+},
+{
+	"City": "Alabaster",
+	"State": "AL",
+	"latitude": 33.2198,
+	"longitude": -86.8225
+},
+{
+	"City": "Athens",
+	"State": "AL",
+	"latitude": 34.7847,
+	"longitude": -86.951
+},
+{
+	"City": "Opelika",
+	"State": "AL",
+	"latitude": 32.6612,
+	"longitude": -85.3769
+},
+{
+	"City": "Bessemer",
+	"State": "AL",
+	"latitude": 33.3709,
+	"longitude": -86.9713
+},
+{
+	"City": "Northport",
+	"State": "AL",
+	"latitude": 33.2589,
+	"longitude": -87.5984
+},
+{
+	"City": "Homewood",
+	"State": "AL",
+	"latitude": 33.4617,
+	"longitude": -86.8092
+},
+{
+	"City": "Pelham",
+	"State": "AL",
+	"latitude": 33.3114,
+	"longitude": -86.7573
+},
+{
+	"City": "Fairhope",
+	"State": "AL",
+	"latitude": 30.5217,
+	"longitude": -87.8815
+},
+{
+	"City": "Trussville",
+	"State": "AL",
+	"latitude": 33.6404,
+	"longitude": -86.5819
+},
+{
+	"City": "Prichard",
+	"State": "AL",
+	"latitude": 30.7735,
+	"longitude": -88.1301
+},
+{
+	"City": "Oxford",
+	"State": "AL",
+	"latitude": 33.5967,
+	"longitude": -85.8687
+},
+{
+	"City": "Mountain Brook",
+	"State": "AL",
+	"latitude": 33.4871,
+	"longitude": -86.74
+},
+{
+	"City": "Valley",
+	"State": "AL",
+	"latitude": 32.8088,
+	"longitude": -85.1809
+},
+{
+	"City": "Helena",
+	"State": "AL",
+	"latitude": 33.2845,
+	"longitude": -86.8756
+},
+{
+	"City": "Cullman",
+	"State": "AL",
+	"latitude": 34.1777,
+	"longitude": -86.8407
+},
+{
+	"City": "Selma",
+	"State": "AL",
+	"latitude": 32.4166,
+	"longitude": -87.0336
+},
+{
+	"City": "Troy",
+	"State": "AL",
+	"latitude": 31.8021,
+	"longitude": -85.9665
+},
+{
+	"City": "Tillmans Corner",
+	"State": "AL",
+	"latitude": 30.5818,
+	"longitude": -88.2128
+},
+{
+	"City": "Sylacauga",
+	"State": "AL",
+	"latitude": 33.1778,
+	"longitude": -86.2606
+},
+{
+	"City": "Center Point",
+	"State": "AL",
+	"latitude": 33.6446,
+	"longitude": -86.6851
+},
+{
+	"City": "Millbrook",
+	"State": "AL",
+	"latitude": 32.5028,
+	"longitude": -86.3737
+},
+{
+	"City": "Talladega",
+	"State": "AL",
+	"latitude": 33.4329,
+	"longitude": -86.0976
+},
+{
+	"City": "Hueytown",
+	"State": "AL",
+	"latitude": 33.4237,
+	"longitude": -87.022
+},
+{
+	"City": "Calera",
+	"State": "AL",
+	"latitude": 33.1249,
+	"longitude": -86.745
+},
+{
+	"City": "Saraland",
+	"State": "AL",
+	"latitude": 30.8478,
+	"longitude": -88.1004
+},
+{
+	"City": "Muscle Shoals",
+	"State": "AL",
+	"latitude": 34.7436,
+	"longitude": -87.6344
+},
+{
+	"City": "Hartselle",
+	"State": "AL",
+	"latitude": 34.4391,
+	"longitude": -86.94
+},
+{
+	"City": "Scottsboro",
+	"State": "AL",
+	"latitude": 34.6438,
+	"longitude": -86.0491
+},
+{
+	"City": "Alexander City",
+	"State": "AL",
+	"latitude": 32.9242,
+	"longitude": -85.9361
+},
+{
+	"City": "Ozark",
+	"State": "AL",
+	"latitude": 31.4508,
+	"longitude": -85.6473
+},
+{
+	"City": "Gardendale",
+	"State": "AL",
+	"latitude": 33.6678,
+	"longitude": -86.8069
+},
+{
+	"City": "Chelsea",
+	"State": "AL",
+	"latitude": 33.3255,
+	"longitude": -86.6299
+},
+{
+	"City": "Fort Payne",
+	"State": "AL",
+	"latitude": 34.4557,
+	"longitude": -85.6965
+},
+{
+	"City": "Pell City",
+	"State": "AL",
+	"latitude": 33.5609,
+	"longitude": -86.2669
+},
+{
+	"City": "Jasper",
+	"State": "AL",
+	"latitude": 33.8503,
+	"longitude": -87.2708
+},
+{
+	"City": "Moody",
+	"State": "AL",
+	"latitude": 33.5986,
+	"longitude": -86.4963
+},
+{
+	"City": "Irondale",
+	"State": "AL",
+	"latitude": 33.544,
+	"longitude": -86.6599
+},
+{
+	"City": "Gulf Shores",
+	"State": "AL",
+	"latitude": 30.2759,
+	"longitude": -87.7013
+},
+{
+	"City": "Jacksonville",
+	"State": "AL",
+	"latitude": 33.8088,
+	"longitude": -85.7545
+},
+{
+	"City": "Leeds",
+	"State": "AL",
+	"latitude": 33.5429,
+	"longitude": -86.5636
+},
+{
+	"City": "Eufaula",
+	"State": "AL",
+	"latitude": 31.9102,
+	"longitude": -85.1505
+},
+{
+	"City": "Saks",
+	"State": "AL",
+	"latitude": 33.7118,
+	"longitude": -85.8536
+},
+{
+	"City": "Fairfield",
+	"State": "AL",
+	"latitude": 33.4747,
+	"longitude": -86.9194
+},
+{
+	"City": "Pike Road",
+	"State": "AL",
+	"latitude": 32.2934,
+	"longitude": -86.0902
+},
+{
+	"City": "Clay",
+	"State": "AL",
+	"latitude": 33.6976,
+	"longitude": -86.607
+},
+{
+	"City": "Robertsdale",
+	"State": "AL",
+	"latitude": 30.5534,
+	"longitude": -87.7023
+},
+{
+	"City": "Russellville",
+	"State": "AL",
+	"latitude": 34.5056,
+	"longitude": -87.7282
+},
+{
+	"City": "Boaz",
+	"State": "AL",
+	"latitude": 34.1985,
+	"longitude": -86.1529
+},
+{
+	"City": "Rainbow City",
+	"State": "AL",
+	"latitude": 33.9337,
+	"longitude": -86.0922
+},
+{
+	"City": "Pleasant Grove",
+	"State": "AL",
+	"latitude": 33.4936,
+	"longitude": -86.9782
+},
+{
+	"City": "Meadowbrook",
+	"State": "AL",
+	"latitude": 33.3932,
+	"longitude": -86.7041
+},
+{
+	"City": "Bay Minette",
+	"State": "AL",
+	"latitude": 30.893,
+	"longitude": -87.7912
+},
+{
+	"City": "Fultondale",
+	"State": "AL",
+	"latitude": 33.6177,
+	"longitude": -86.8015
+},
+{
+	"City": "Spanish Fort",
+	"State": "AL",
+	"latitude": 30.7257,
+	"longitude": -87.8601
+},
+{
+	"City": "Atmore",
+	"State": "AL",
+	"latitude": 31.0927,
+	"longitude": -87.4763
+},
+{
+	"City": "Forestdale",
+	"State": "AL",
+	"latitude": 33.5737,
+	"longitude": -86.9002
+},
+{
+	"City": "Southside",
+	"State": "AL",
+	"latitude": 33.9007,
+	"longitude": -86.0238
+},
+{
+	"City": "Sheffield",
+	"State": "AL",
+	"latitude": 34.757,
+	"longitude": -87.6977
+},
+{
+	"City": "Clanton",
+	"State": "AL",
+	"latitude": 32.844,
+	"longitude": -86.623
+},
+{
+	"City": "Andalusia",
+	"State": "AL",
+	"latitude": 31.3101,
+	"longitude": -86.4781
+},
+{
+	"City": "Guntersville",
+	"State": "AL",
+	"latitude": 34.367,
+	"longitude": -86.2638
+},
+{
+	"City": "Wetumpka",
+	"State": "AL",
+	"latitude": 32.5407,
+	"longitude": -86.2052
+},
+{
+	"City": "Tuscumbia",
+	"State": "AL",
+	"latitude": 34.7204,
+	"longitude": -87.7035
+},
+{
+	"City": "Arab",
+	"State": "AL",
+	"latitude": 34.3309,
+	"longitude": -86.4991
+},
+{
+	"City": "Tuskegee",
+	"State": "AL",
+	"latitude": 32.4395,
+	"longitude": -85.7139
+},
+{
+	"City": "Greenville",
+	"State": "AL",
+	"latitude": 31.8437,
+	"longitude": -86.6379
+},
+{
+	"City": "Brook Highland",
+	"State": "AL",
+	"latitude": 33.4359,
+	"longitude": -86.6849
+},
+{
+	"City": "Pinson",
+	"State": "AL",
+	"latitude": 33.7057,
+	"longitude": -86.6674
+},
+{
+	"City": "Meridianville",
+	"State": "AL",
+	"latitude": 34.8729,
+	"longitude": -86.5722
+},
+{
+	"City": "Moores Mill",
+	"State": "AL",
+	"latitude": 34.8491,
+	"longitude": -86.5222
+},
+{
+	"City": "Lincoln",
+	"State": "AL",
+	"latitude": 33.5935,
+	"longitude": -86.1371
+},
+{
+	"City": "Montevallo",
+	"State": "AL",
+	"latitude": 33.1246,
+	"longitude": -86.8476
+},
+{
+	"City": "Brewton",
+	"State": "AL",
+	"latitude": 31.1111,
+	"longitude": -87.0737
+},
+{
+	"City": "Demopolis",
+	"State": "AL",
+	"latitude": 32.498,
+	"longitude": -87.8298
+},
+{
+	"City": "Hamilton",
+	"State": "AL",
+	"latitude": 34.1346,
+	"longitude": -87.9755
+},
+{
+	"City": "Oneonta",
+	"State": "AL",
+	"latitude": 33.9392,
+	"longitude": -86.4929
+},
+{
+	"City": "Opp",
+	"State": "AL",
+	"latitude": 31.2848,
+	"longitude": -86.257
+},
+{
+	"City": "Theodore",
+	"State": "AL",
+	"latitude": 30.5408,
+	"longitude": -88.1884
+},
+{
+	"City": "Orange Beach",
+	"State": "AL",
+	"latitude": 30.2941,
+	"longitude": -87.5851
+},
+{
+	"City": "Grayson Valley",
+	"State": "AL",
+	"latitude": 33.6469,
+	"longitude": -86.6414
+},
+{
+	"City": "Satsuma",
+	"State": "AL",
+	"latitude": 30.8577,
+	"longitude": -88.0632
+},
+{
+	"City": "Lanett",
+	"State": "AL",
+	"latitude": 32.8571,
+	"longitude": -85.2081
+},
+{
+	"City": "Tarrant",
+	"State": "AL",
+	"latitude": 33.5945,
+	"longitude": -86.7684
+},
+{
+	"City": "Roanoke",
+	"State": "AL",
+	"latitude": 33.1454,
+	"longitude": -85.3694
+},
+{
+	"City": "Harvest",
+	"State": "AL",
+	"latitude": 34.8558,
+	"longitude": -86.7521
+},
+{
+	"City": "Attalla",
+	"State": "AL",
+	"latitude": 34.0049,
+	"longitude": -86.104
+},
+{
+	"City": "Monroeville",
+	"State": "AL",
+	"latitude": 31.5162,
+	"longitude": -87.3279
+},
+{
+	"City": "Chickasaw",
+	"State": "AL",
+	"latitude": 30.7714,
+	"longitude": -88.0793
+},
+{
+	"City": "Semmes",
+	"State": "AL",
+	"latitude": 30.7941,
+	"longitude": -88.2358
+},
+{
+	"City": "Highland Lakes",
+	"State": "AL",
+	"latitude": 33.397,
+	"longitude": -86.6497
+},
+{
+	"City": "Smiths Station",
+	"State": "AL",
+	"latitude": 32.5284,
+	"longitude": -85.096
+},
+{
+	"City": "Fort Rucker",
+	"State": "AL",
+	"latitude": 31.3428,
+	"longitude": -85.7154
+},
+{
+	"City": "Brent",
+	"State": "AL",
+	"latitude": 32.9421,
+	"longitude": -87.1753
+},
+{
+	"City": "Margaret",
+	"State": "AL",
+	"latitude": 33.6735,
+	"longitude": -86.468
+},
+{
+	"City": "Rainsville",
+	"State": "AL",
+	"latitude": 34.4939,
+	"longitude": -85.8435
+},
+{
+	"City": "Daleville",
+	"State": "AL",
+	"latitude": 31.2915,
+	"longitude": -85.7117
+},
+{
+	"City": "Glencoe",
+	"State": "AL",
+	"latitude": 33.9449,
+	"longitude": -85.9319
+},
+{
+	"City": "Midfield",
+	"State": "AL",
+	"latitude": 33.4552,
+	"longitude": -86.9226
+},
+{
+	"City": "Childersburg",
+	"State": "AL",
+	"latitude": 33.2961,
+	"longitude": -86.3457
+},
+{
+	"City": "Headland",
+	"State": "AL",
+	"latitude": 31.3501,
+	"longitude": -85.3523
+},
+{
+	"City": "Lake View",
+	"State": "AL",
+	"latitude": 33.2802,
+	"longitude": -87.1258
+},
+{
+	"City": "Jackson",
+	"State": "AL",
+	"latitude": 31.5318,
+	"longitude": -87.8915
+},
+{
+	"City": "Columbiana",
+	"State": "AL",
+	"latitude": 33.193,
+	"longitude": -86.6115
+},
+{
+	"City": "Union Springs",
+	"State": "AL",
+	"latitude": 32.1395,
+	"longitude": -85.7141
+},
+{
+	"City": "Piedmont",
+	"State": "AL",
+	"latitude": 33.9268,
+	"longitude": -85.6148
+},
+{
+	"City": "Winfield",
+	"State": "AL",
+	"latitude": 33.9334,
+	"longitude": -87.7962
+},
+{
+	"City": "Tallassee",
+	"State": "AL",
+	"latitude": 32.5314,
+	"longitude": -85.8902
+},
+{
+	"City": "Pine Level",
+	"State": "AL",
+	"latitude": 32.5797,
+	"longitude": -86.4529
+},
+{
+	"City": "Holtville",
+	"State": "AL",
+	"latitude": 32.6314,
+	"longitude": -86.3268
+},
+{
+	"City": "Redland",
+	"State": "AL",
+	"latitude": 32.4754,
+	"longitude": -86.1375
+},
+{
+	"City": "Mount Olive",
+	"State": "AL",
+	"latitude": 33.6778,
+	"longitude": -86.8726
+},
+{
+	"City": "Argo",
+	"State": "AL",
+	"latitude": 33.6961,
+	"longitude": -86.5066
+},
+{
+	"City": "Springville",
+	"State": "AL",
+	"latitude": 33.7643,
+	"longitude": -86.4749
+},
+{
+	"City": "Priceville",
+	"State": "AL",
+	"latitude": 34.5247,
+	"longitude": -86.8855
+},
+{
+	"City": "Geneva",
+	"State": "AL",
+	"latitude": 31.0437,
+	"longitude": -85.8763
+},
+{
+	"City": "Adamsville",
+	"State": "AL",
+	"latitude": 33.6063,
+	"longitude": -86.9745
+},
+{
+	"City": "Fayette",
+	"State": "AL",
+	"latitude": 33.6943,
+	"longitude": -87.8307
+},
+{
+	"City": "Hokes Bluff",
+	"State": "AL",
+	"latitude": 33.9902,
+	"longitude": -85.8639
+},
+{
+	"City": "Woodstock",
+	"State": "AL",
+	"latitude": 33.2193,
+	"longitude": -87.1489
+},
+{
+	"City": "Haleyville",
+	"State": "AL",
+	"latitude": 34.2331,
+	"longitude": -87.6175
+},
+{
+	"City": "Alexandria",
+	"State": "AL",
+	"latitude": 33.7675,
+	"longitude": -85.8792
+},
+{
+	"City": "Holt",
+	"State": "AL",
+	"latitude": 33.2302,
+	"longitude": -87.4827
+},
+{
+	"City": "Hazel Green",
+	"State": "AL",
+	"latitude": 34.9237,
+	"longitude": -86.5671
+},
+{
+	"City": "Grand Bay",
+	"State": "AL",
+	"latitude": 30.4717,
+	"longitude": -88.345
+},
+{
+	"City": "Odenville",
+	"State": "AL",
+	"latitude": 33.6987,
+	"longitude": -86.4225
+},
+{
+	"City": "Citronelle",
+	"State": "AL",
+	"latitude": 31.0952,
+	"longitude": -88.2468
+},
+{
+	"City": "Thomasville",
+	"State": "AL",
+	"latitude": 31.9111,
+	"longitude": -87.7419
+},
+{
+	"City": "Elba",
+	"State": "AL",
+	"latitude": 31.4172,
+	"longitude": -86.0759
+},
+{
+	"City": "Centre",
+	"State": "AL",
+	"latitude": 34.1551,
+	"longitude": -85.6699
+},
+{
+	"City": "Sumiton",
+	"State": "AL",
+	"latitude": 33.7503,
+	"longitude": -87.0483
+},
+{
+	"City": "Kimberly",
+	"State": "AL",
+	"latitude": 33.776,
+	"longitude": -86.7968
+},
+{
+	"City": "Valley Grande",
+	"State": "AL",
+	"latitude": 32.4862,
+	"longitude": -87.0305
+},
+{
+	"City": "Evergreen",
+	"State": "AL",
+	"latitude": 31.4342,
+	"longitude": -86.9723
+},
+{
+	"City": "Emerald Mountain",
+	"State": "AL",
+	"latitude": 32.4396,
+	"longitude": -86.0857
+},
+{
+	"City": "Hanceville",
+	"State": "AL",
+	"latitude": 34.0634,
+	"longitude": -86.7651
+},
+{
+	"City": "Heflin",
+	"State": "AL",
+	"latitude": 33.6471,
+	"longitude": -85.5698
+},
+{
+	"City": "Ladonia",
+	"State": "AL",
+	"latitude": 32.4609,
+	"longitude": -85.0877
+},
+{
+	"City": "Kinsey",
+	"State": "AL",
+	"latitude": 31.2926,
+	"longitude": -85.3353
+},
+{
+	"City": "West End-Cobb Town",
+	"State": "AL",
+	"latitude": 33.6526,
+	"longitude": -85.8742
+},
+{
+	"City": "Livingston",
+	"State": "AL",
+	"latitude": 32.5982,
+	"longitude": -88.1891
+},
+{
+	"City": "Moulton",
+	"State": "AL",
+	"latitude": 34.4843,
+	"longitude": -87.2831
+},
+{
+	"City": "Warrior",
+	"State": "AL",
+	"latitude": 33.8153,
+	"longitude": -86.8153
+},
+{
+	"City": "Underwood-Petersville",
+	"State": "AL",
+	"latitude": 34.877,
+	"longitude": -87.6975
+},
+{
+	"City": "Cottondale",
+	"State": "AL",
+	"latitude": 33.1922,
+	"longitude": -87.4544
+},
+{
+	"City": "Marion",
+	"State": "AL",
+	"latitude": 32.6318,
+	"longitude": -87.3172
+},
+{
+	"City": "Red Bay",
+	"State": "AL",
+	"latitude": 34.4358,
+	"longitude": -88.1362
+},
+{
+	"City": "Weaver",
+	"State": "AL",
+	"latitude": 33.7602,
+	"longitude": -85.8117
+},
+{
+	"City": "Dadeville",
+	"State": "AL",
+	"latitude": 32.8326,
+	"longitude": -85.7675
+},
+{
+	"City": "Loxley",
+	"State": "AL",
+	"latitude": 30.6813,
+	"longitude": -87.7418
+},
+{
+	"City": "Choccolocco",
+	"State": "AL",
+	"latitude": 33.6683,
+	"longitude": -85.7129
+},
+{
+	"City": "New Hope",
+	"State": "AL",
+	"latitude": 34.537,
+	"longitude": -86.4128
+},
+{
+	"City": "La Fayette",
+	"State": "AL",
+	"latitude": 32.8997,
+	"longitude": -85.4007
+},
+{
+	"City": "Clayton",
+	"State": "AL",
+	"latitude": 31.8822,
+	"longitude": -85.4604
+},
+{
+	"City": "Brighton",
+	"State": "AL",
+	"latitude": 33.4393,
+	"longitude": -86.9454
+},
+{
+	"City": "Luverne",
+	"State": "AL",
+	"latitude": 31.7186,
+	"longitude": -86.2687
+},
+{
+	"City": "Jemison",
+	"State": "AL",
+	"latitude": 32.9696,
+	"longitude": -86.7339
+},
+{
+	"City": "Point Clear",
+	"State": "AL",
+	"latitude": 30.4902,
+	"longitude": -87.9105
+},
+{
+	"City": "Moundville",
+	"State": "AL",
+	"latitude": 32.9968,
+	"longitude": -87.6272
+},
+{
+	"City": "Centreville",
+	"State": "AL",
+	"latitude": 32.9597,
+	"longitude": -87.1334
+},
+{
+	"City": "Eutaw",
+	"State": "AL",
+	"latitude": 32.8436,
+	"longitude": -87.8987
+},
+{
+	"City": "Whitesboro",
+	"State": "AL",
+	"latitude": 34.1682,
+	"longitude": -86.0572
+},
+{
+	"City": "Huguley",
+	"State": "AL",
+	"latitude": 32.8431,
+	"longitude": -85.2397
+},
+{
+	"City": "Hartford",
+	"State": "AL",
+	"latitude": 31.1055,
+	"longitude": -85.6916
+},
+{
+	"City": "Carlisle-Rockledge",
+	"State": "AL",
+	"latitude": 34.114,
+	"longitude": -86.1191
+},
+{
+	"City": "Abbeville",
+	"State": "AL",
+	"latitude": 31.5664,
+	"longitude": -85.2528
+},
+{
+	"City": "Indian Springs Village",
+	"State": "AL",
+	"latitude": 33.3591,
+	"longitude": -86.7493
+},
+{
+	"City": "Bayou La Batre",
+	"State": "AL",
+	"latitude": 30.4126,
+	"longitude": -88.261
+},
+{
+	"City": "Trinity",
+	"State": "AL",
+	"latitude": 34.6012,
+	"longitude": -87.0818
+},
+{
+	"City": "Taylor",
+	"State": "AL",
+	"latitude": 31.1658,
+	"longitude": -85.4697
+},
+{
+	"City": "Riverside",
+	"State": "AL",
+	"latitude": 33.6171,
+	"longitude": -86.2042
+},
+{
+	"City": "Ashville",
+	"State": "AL",
+	"latitude": 33.8331,
+	"longitude": -86.2698
+},
+{
+	"City": "Henagar",
+	"State": "AL",
+	"latitude": 34.631,
+	"longitude": -85.7405
+},
+{
+	"City": "Good Hope",
+	"State": "AL",
+	"latitude": 34.1098,
+	"longitude": -86.8651
+},
+{
+	"City": "Midland City",
+	"State": "AL",
+	"latitude": 31.3157,
+	"longitude": -85.4937
+},
+{
+	"City": "East Brewton",
+	"State": "AL",
+	"latitude": 31.0906,
+	"longitude": -87.0556
+},
+{
+	"City": "Bridgeport",
+	"State": "AL",
+	"latitude": 34.9495,
+	"longitude": -85.7243
+},
+{
+	"City": "Guin",
+	"State": "AL",
+	"latitude": 33.9832,
+	"longitude": -87.9023
+},
+{
+	"City": "Greensboro",
+	"State": "AL",
+	"latitude": 32.7014,
+	"longitude": -87.595
+},
+{
+	"City": "Aliceville",
+	"State": "AL",
+	"latitude": 33.1237,
+	"longitude": -88.1594
+},
+{
+	"City": "Lineville",
+	"State": "AL",
+	"latitude": 33.313,
+	"longitude": -85.7508
+},
+{
+	"City": "York",
+	"State": "AL",
+	"latitude": 32.4998,
+	"longitude": -88.2938
+},
+{
+	"City": "Uniontown",
+	"State": "AL",
+	"latitude": 32.449,
+	"longitude": -87.4958
+},
+{
+	"City": "Vincent",
+	"State": "AL",
+	"latitude": 33.3848,
+	"longitude": -86.4086
+},
+{
+	"City": "Ashford",
+	"State": "AL",
+	"latitude": 31.1858,
+	"longitude": -85.2359
+},
+{
+	"City": "Morris",
+	"State": "AL",
+	"latitude": 33.7467,
+	"longitude": -86.8037
+},
+{
+	"City": "Lipscomb",
+	"State": "AL",
+	"latitude": 33.4261,
+	"longitude": -86.926
+},
+{
+	"City": "Owens Cross Roads",
+	"State": "AL",
+	"latitude": 34.5845,
+	"longitude": -86.4574
+},
+{
+	"City": "Smoke Rise",
+	"State": "AL",
+	"latitude": 33.8789,
+	"longitude": -86.824
+},
+{
+	"City": "Graysville",
+	"State": "AL",
+	"latitude": 33.6583,
+	"longitude": -86.9674
+},
+{
+	"City": "Cowarts",
+	"State": "AL",
+	"latitude": 31.2041,
+	"longitude": -85.3062
+},
+{
+	"City": "Thorsby",
+	"State": "AL",
+	"latitude": 32.917,
+	"longitude": -86.7203
+},
+{
+	"City": "Wilsonville",
+	"State": "AL",
+	"latitude": 33.2351,
+	"longitude": -86.4882
+},
+{
+	"City": "Creola",
+	"State": "AL",
+	"latitude": 30.8903,
+	"longitude": -88.01
+},
+{
+	"City": "Collinsville",
+	"State": "AL",
+	"latitude": 34.267,
+	"longitude": -85.8652
+},
+{
+	"City": "Level Plains",
+	"State": "AL",
+	"latitude": 31.3071,
+	"longitude": -85.7687
+},
+{
+	"City": "Stevenson",
+	"State": "AL",
+	"latitude": 34.8487,
+	"longitude": -85.8437
+},
+{
+	"City": "Florala",
+	"State": "AL",
+	"latitude": 31.0176,
+	"longitude": -86.3138
+},
+{
+	"City": "Dora",
+	"State": "AL",
+	"latitude": 33.7292,
+	"longitude": -87.085
+},
+{
+	"City": "Brundidge",
+	"State": "AL",
+	"latitude": 31.7182,
+	"longitude": -85.8177
+},
+{
+	"City": "Slocomb",
+	"State": "AL",
+	"latitude": 31.1103,
+	"longitude": -85.5954
+},
+{
+	"City": "Ashland",
+	"State": "AL",
+	"latitude": 33.2704,
+	"longitude": -85.8337
+},
+{
+	"City": "Sylvania",
+	"State": "AL",
+	"latitude": 34.5619,
+	"longitude": -85.8046
+},
+{
+	"City": "Carbon Hill",
+	"State": "AL",
+	"latitude": 33.8944,
+	"longitude": -87.5224
+},
+{
+	"City": "Lookout Mountain",
+	"State": "AL",
+	"latitude": 34.1091,
+	"longitude": -85.9585
+},
+{
+	"City": "Linden",
+	"State": "AL",
+	"latitude": 32.3001,
+	"longitude": -87.7926
+},
+{
+	"City": "Crossville",
+	"State": "AL",
+	"latitude": 34.2853,
+	"longitude": -85.9997
+},
+{
+	"City": "Samson",
+	"State": "AL",
+	"latitude": 31.1124,
+	"longitude": -86.0462
+},
+{
+	"City": "Vernon",
+	"State": "AL",
+	"latitude": 33.7588,
+	"longitude": -88.1143
+},
+{
+	"City": "Cordova",
+	"State": "AL",
+	"latitude": 33.7613,
+	"longitude": -87.1925
+},
+{
+	"City": "Brookwood",
+	"State": "AL",
+	"latitude": 33.2397,
+	"longitude": -87.3277
+},
+{
+	"City": "Sulligent",
+	"State": "AL",
+	"latitude": 33.8912,
+	"longitude": -88.1266
+},
+{
+	"City": "Cedar Bluff",
+	"State": "AL",
+	"latitude": 34.2217,
+	"longitude": -85.5877
+},
+{
+	"City": "Selmont-West Selmont",
+	"State": "AL",
+	"latitude": 32.3784,
+	"longitude": -87.0074
+},
+{
+	"City": "Sardis City",
+	"State": "AL",
+	"latitude": 34.1749,
+	"longitude": -86.1125
+},
+{
+	"City": "Camden",
+	"State": "AL",
+	"latitude": 32.0007,
+	"longitude": -87.2967
+},
+{
+	"City": "Elberta",
+	"State": "AL",
+	"latitude": 30.3855,
+	"longitude": -87.5888
+},
+{
+	"City": "Grove Hill",
+	"State": "AL",
+	"latitude": 31.7006,
+	"longitude": -87.7748
+},
+{
+	"City": "Lillian",
+	"State": "AL",
+	"latitude": 30.4122,
+	"longitude": -87.432
+},
+{
+	"City": "Harpersville",
+	"State": "AL",
+	"latitude": 33.3184,
+	"longitude": -86.4287
+},
+{
+	"City": "Westover",
+	"State": "AL",
+	"latitude": 33.3685,
+	"longitude": -86.5346
+},
+{
+	"City": "Ragland",
+	"State": "AL",
+	"latitude": 33.7469,
+	"longitude": -86.1384
+},
+{
+	"City": "Butler",
+	"State": "AL",
+	"latitude": 32.0965,
+	"longitude": -88.2108
+},
+{
+	"City": "Summerdale",
+	"State": "AL",
+	"latitude": 30.4783,
+	"longitude": -87.6904
+},
+{
+	"City": "Blountsville",
+	"State": "AL",
+	"latitude": 34.0814,
+	"longitude": -86.5867
+},
+{
+	"City": "Coaling",
+	"State": "AL",
+	"latitude": 33.1641,
+	"longitude": -87.3534
+},
+{
+	"City": "Rehobeth",
+	"State": "AL",
+	"latitude": 31.1242,
+	"longitude": -85.4382
+},
+{
+	"City": "Vance",
+	"State": "AL",
+	"latitude": 33.1745,
+	"longitude": -87.2313
+},
+{
+	"City": "Stewartville",
+	"State": "AL",
+	"latitude": 33.0725,
+	"longitude": -86.2658
+},
+{
+	"City": "Marbury",
+	"State": "AL",
+	"latitude": 32.6793,
+	"longitude": -86.4607
+},
+{
+	"City": "Concord",
+	"State": "AL",
+	"latitude": 33.4674,
+	"longitude": -87.0392
+},
+{
+	"City": "Gordo",
+	"State": "AL",
+	"latitude": 33.322,
+	"longitude": -87.904
+},
+{
+	"City": "Georgiana",
+	"State": "AL",
+	"latitude": 31.6391,
+	"longitude": -86.7468
+},
+{
+	"City": "Ballplay",
+	"State": "AL",
+	"latitude": 34.0179,
+	"longitude": -85.7853
+},
+{
+	"City": "Reform",
+	"State": "AL",
+	"latitude": 33.3788,
+	"longitude": -88.0173
+},
+{
+	"City": "Rock Creek",
+	"State": "AL",
+	"latitude": 33.4772,
+	"longitude": -87.0812
+},
+{
+	"City": "Mount Vernon",
+	"State": "AL",
+	"latitude": 31.0889,
+	"longitude": -88.0137
+},
+{
+	"City": "Sylvan Springs",
+	"State": "AL",
+	"latitude": 33.5287,
+	"longitude": -87.0312
+},
+{
+	"City": "Blue Ridge",
+	"State": "AL",
+	"latitude": 32.501,
+	"longitude": -86.1839
+},
+{
+	"City": "Webb",
+	"State": "AL",
+	"latitude": 31.2572,
+	"longitude": -85.2896
+},
+{
+	"City": "Ardmore",
+	"State": "AL",
+	"latitude": 34.9847,
+	"longitude": -86.8373
+},
+{
+	"City": "Malvern",
+	"State": "AL",
+	"latitude": 31.1428,
+	"longitude": -85.521
+},
+{
+	"City": "Newton",
+	"State": "AL",
+	"latitude": 31.3423,
+	"longitude": -85.5893
+},
+{
+	"City": "Stapleton",
+	"State": "AL",
+	"latitude": 30.7394,
+	"longitude": -87.7943
+},
+{
+	"City": "Flomaton",
+	"State": "AL",
+	"latitude": 31.0127,
+	"longitude": -87.2541
+},
+{
+	"City": "Fayetteville",
+	"State": "AL",
+	"latitude": 33.1643,
+	"longitude": -86.4411
+},
+{
+	"City": "Shoal Creek",
+	"State": "AL",
+	"latitude": 33.4328,
+	"longitude": -86.6071
+},
+{
+	"City": "Coats Bend",
+	"State": "AL",
+	"latitude": 34.0774,
+	"longitude": -85.8742
+},
+{
+	"City": "Elmore",
+	"State": "AL",
+	"latitude": 32.5552,
+	"longitude": -86.3425
+},
+{
+	"City": "Munford",
+	"State": "AL",
+	"latitude": 33.5259,
+	"longitude": -85.9554
+},
+{
+	"City": "Hayden",
+	"State": "AL",
+	"latitude": 33.8822,
+	"longitude": -86.7839
+},
+{
+	"City": "Dauphin Island",
+	"State": "AL",
+	"latitude": 30.2525,
+	"longitude": -88.1438
+},
+{
+	"City": "Redstone Arsenal",
+	"State": "AL",
+	"latitude": 34.6843,
+	"longitude": -86.647
+},
+{
+	"City": "Brookside",
+	"State": "AL",
+	"latitude": 33.638,
+	"longitude": -86.9014
+},
+{
+	"City": "Goodwater",
+	"State": "AL",
+	"latitude": 33.0608,
+	"longitude": -86.0516
+},
+{
+	"City": "Cleveland",
+	"State": "AL",
+	"latitude": 33.9965,
+	"longitude": -86.5671
+},
+{
+	"City": "Coosada",
+	"State": "AL",
+	"latitude": 32.4983,
+	"longitude": -86.3279
+},
+{
+	"City": "Clio",
+	"State": "AL",
+	"latitude": 31.7085,
+	"longitude": -85.6109
+},
+{
+	"City": "New Brockton",
+	"State": "AL",
+	"latitude": 31.3784,
+	"longitude": -85.9228
+},
+{
+	"City": "Hackleburg",
+	"State": "AL",
+	"latitude": 34.2693,
+	"longitude": -87.8303
+},
+{
+	"City": "Falkville",
+	"State": "AL",
+	"latitude": 34.3793,
+	"longitude": -86.9086
+},
+{
+	"City": "Cottonwood",
+	"State": "AL",
+	"latitude": 31.0552,
+	"longitude": -85.3007
+},
+{
+	"City": "West Blocton",
+	"State": "AL",
+	"latitude": 33.1186,
+	"longitude": -87.1253
+},
+{
+	"City": "Rogersville",
+	"State": "AL",
+	"latitude": 34.8251,
+	"longitude": -87.2821
+},
+{
+	"City": "Deatsville",
+	"State": "AL",
+	"latitude": 32.5863,
+	"longitude": -86.3918
+},
+{
+	"City": "Bon Secour",
+	"State": "AL",
+	"latitude": 30.3222,
+	"longitude": -87.7271
+},
+{
+	"City": "Tidmore Bend",
+	"State": "AL",
+	"latitude": 34.0324,
+	"longitude": -85.9254
+},
+{
+	"City": "Locust Fork",
+	"State": "AL",
+	"latitude": 33.8957,
+	"longitude": -86.6301
+},
+{
+	"City": "Chatom",
+	"State": "AL",
+	"latitude": 31.4691,
+	"longitude": -88.246
+},
+{
+	"City": "Axis",
+	"State": "AL",
+	"latitude": 30.9296,
+	"longitude": -88.0179
+},
+{
+	"City": "Silverhill",
+	"State": "AL",
+	"latitude": 30.5455,
+	"longitude": -87.7505
+},
+{
+	"City": "Fort Deposit",
+	"State": "AL",
+	"latitude": 31.9863,
+	"longitude": -86.5664
+},
+{
+	"City": "Frisco City",
+	"State": "AL",
+	"latitude": 31.4353,
+	"longitude": -87.4037
+},
+{
+	"City": "Ohatchee",
+	"State": "AL",
+	"latitude": 33.7877,
+	"longitude": -86.028
+},
+{
+	"City": "New Market",
+	"State": "AL",
+	"latitude": 34.8892,
+	"longitude": -86.4226
+},
+{
+	"City": "Berry",
+	"State": "AL",
+	"latitude": 33.6623,
+	"longitude": -87.6079
+},
+{
+	"City": "Steele",
+	"State": "AL",
+	"latitude": 33.937,
+	"longitude": -86.2004
+},
+{
+	"City": "Phil Campbell",
+	"State": "AL",
+	"latitude": 34.3519,
+	"longitude": -87.7062
+},
+{
+	"City": "Bear Creek",
+	"State": "AL",
+	"latitude": 34.2651,
+	"longitude": -87.7164
+},
+{
+	"City": "Double Springs",
+	"State": "AL",
+	"latitude": 34.1502,
+	"longitude": -87.3912
+},
+{
+	"City": "Fyffe",
+	"State": "AL",
+	"latitude": 34.4496,
+	"longitude": -85.9049
+},
+{
+	"City": "Town Creek",
+	"State": "AL",
+	"latitude": 34.6718,
+	"longitude": -87.4063
+},
+{
+	"City": "Egypt",
+	"State": "AL",
+	"latitude": 34.0759,
+	"longitude": -86.1651
+},
+{
+	"City": "Leesburg",
+	"State": "AL",
+	"latitude": 34.1839,
+	"longitude": -85.775
+},
+{
+	"City": "Eclectic",
+	"State": "AL",
+	"latitude": 32.6387,
+	"longitude": -86.0386
+},
+{
+	"City": "Cherokee",
+	"State": "AL",
+	"latitude": 34.7577,
+	"longitude": -87.967
+},
+{
+	"City": "Littleville",
+	"State": "AL",
+	"latitude": 34.5951,
+	"longitude": -87.6719
+},
+{
+	"City": "Hollywood",
+	"State": "AL",
+	"latitude": 34.719,
+	"longitude": -85.965
+},
+{
+	"City": "Millport",
+	"State": "AL",
+	"latitude": 33.5586,
+	"longitude": -88.0817
+},
+{
+	"City": "Sterrett",
+	"State": "AL",
+	"latitude": 33.449,
+	"longitude": -86.4645
+},
+{
+	"City": "Powell",
+	"State": "AL",
+	"latitude": 34.5325,
+	"longitude": -85.8979
+},
+{
+	"City": "Leroy",
+	"State": "AL",
+	"latitude": 31.4952,
+	"longitude": -87.969
+},
+{
+	"City": "Coker",
+	"State": "AL",
+	"latitude": 33.2446,
+	"longitude": -87.6799
+},
+{
+	"City": "Dunnavant",
+	"State": "AL",
+	"latitude": 33.5006,
+	"longitude": -86.538
+},
+{
+	"City": "Killen",
+	"State": "AL",
+	"latitude": 34.8607,
+	"longitude": -87.5269
+},
+{
+	"City": "Camp Hill",
+	"State": "AL",
+	"latitude": 32.8002,
+	"longitude": -85.6536
+},
+{
+	"City": "Vandiver",
+	"State": "AL",
+	"latitude": 33.4601,
+	"longitude": -86.5251
+},
+{
+	"City": "Triana",
+	"State": "AL",
+	"latitude": 34.5904,
+	"longitude": -86.7418
+},
+{
+	"City": "Carrollton",
+	"State": "AL",
+	"latitude": 33.2619,
+	"longitude": -88.0951
+},
+{
+	"City": "Parrish",
+	"State": "AL",
+	"latitude": 33.7323,
+	"longitude": -87.2802
+},
+{
+	"City": "Grant",
+	"State": "AL",
+	"latitude": 34.5189,
+	"longitude": -86.2492
+},
+{
+	"City": "Altoona",
+	"State": "AL",
+	"latitude": 34.031,
+	"longitude": -86.3181
+},
+{
+	"City": "Geraldine",
+	"State": "AL",
+	"latitude": 34.3577,
+	"longitude": -86.0037
+},
+{
+	"City": "Ivalee",
+	"State": "AL",
+	"latitude": 34.0372,
+	"longitude": -86.1472
+},
+{
+	"City": "Shelby",
+	"State": "AL",
+	"latitude": 33.1068,
+	"longitude": -86.5825
+},
+{
+	"City": "Mosses",
+	"State": "AL",
+	"latitude": 32.1801,
+	"longitude": -86.6888
+},
+{
+	"City": "Brilliant",
+	"State": "AL",
+	"latitude": 34.0256,
+	"longitude": -87.7691
+},
+{
+	"City": "Autaugaville",
+	"State": "AL",
+	"latitude": 32.432,
+	"longitude": -86.6579
+},
+{
+	"City": "Brantleyville",
+	"State": "AL",
+	"latitude": 33.2196,
+	"longitude": -86.882
+},
+{
+	"City": "Pine Hill",
+	"State": "AL",
+	"latitude": 31.9858,
+	"longitude": -87.5875
+},
+{
+	"City": "White Plains",
+	"State": "AL",
+	"latitude": 33.7603,
+	"longitude": -85.688
+},
+{
+	"City": "Mignon",
+	"State": "AL",
+	"latitude": 33.1948,
+	"longitude": -86.2651
+},
+{
+	"City": "Minor",
+	"State": "AL",
+	"latitude": 33.5389,
+	"longitude": -86.9402
+},
+{
+	"City": "Snead",
+	"State": "AL",
+	"latitude": 34.1162,
+	"longitude": -86.3901
+},
+{
+	"City": "Skyline",
+	"State": "AL",
+	"latitude": 34.7987,
+	"longitude": -86.1229
+},
+{
+	"City": "Gallant",
+	"State": "AL",
+	"latitude": 34.0013,
+	"longitude": -86.2304
+},
+{
+	"City": "New Union",
+	"State": "AL",
+	"latitude": 34.1422,
+	"longitude": -86.2218
+},
+{
+	"City": "Jacksons' Gap",
+	"State": "AL",
+	"latitude": 32.8831,
+	"longitude": -85.815
+},
+{
+	"City": "Holly Pond",
+	"State": "AL",
+	"latitude": 34.1696,
+	"longitude": -86.6125
+},
+{
+	"City": "Magnolia Springs",
+	"State": "AL",
+	"latitude": 30.4003,
+	"longitude": -87.7748
+},
+{
+	"City": "Notasulga",
+	"State": "AL",
+	"latitude": 32.5569,
+	"longitude": -85.6695
+},
+{
+	"City": "Gurley",
+	"State": "AL",
+	"latitude": 34.7072,
+	"longitude": -86.3768
+},
+{
+	"City": "Mulga",
+	"State": "AL",
+	"latitude": 33.5534,
+	"longitude": -86.9735
+},
+{
+	"City": "Hollins",
+	"State": "AL",
+	"latitude": 33.1213,
+	"longitude": -86.129
+},
+{
+	"City": "Perdido",
+	"State": "AL",
+	"latitude": 31.0033,
+	"longitude": -87.6324
+},
+{
+	"City": "Wedowee",
+	"State": "AL",
+	"latitude": 33.3077,
+	"longitude": -85.4864
+},
+{
+	"City": "Hayneville",
+	"State": "AL",
+	"latitude": 32.1822,
+	"longitude": -86.5787
+},
+{
+	"City": "Douglas",
+	"State": "AL",
+	"latitude": 34.1705,
+	"longitude": -86.3224
+},
+{
+	"City": "Susan Moore",
+	"State": "AL",
+	"latitude": 34.0799,
+	"longitude": -86.4234
+},
+{
+	"City": "Somerville",
+	"State": "AL",
+	"latitude": 34.4676,
+	"longitude": -86.7935
+},
+{
+	"City": "Brantley",
+	"State": "AL",
+	"latitude": 31.5822,
+	"longitude": -86.2569
+},
+{
+	"City": "New Site",
+	"State": "AL",
+	"latitude": 33.0283,
+	"longitude": -85.7801
+},
+{
+	"City": "Leighton",
+	"State": "AL",
+	"latitude": 34.6941,
+	"longitude": -87.5282
+},
+{
+	"City": "Hobson City",
+	"State": "AL",
+	"latitude": 33.6148,
+	"longitude": -85.8561
+},
+{
+	"City": "White Hall",
+	"State": "AL",
+	"latitude": 32.2993,
+	"longitude": -86.7148
+},
+{
+	"City": "South Vinemont",
+	"State": "AL",
+	"latitude": 34.2348,
+	"longitude": -86.8642
+},
+{
+	"City": "Section",
+	"State": "AL",
+	"latitude": 34.5816,
+	"longitude": -85.9849
+},
+{
+	"City": "Ariton",
+	"State": "AL",
+	"latitude": 31.5978,
+	"longitude": -85.7131
+},
+{
+	"City": "Edgewater",
+	"State": "AL",
+	"latitude": 33.5286,
+	"longitude": -86.9574
+},
+{
+	"City": "Columbia",
+	"State": "AL",
+	"latitude": 31.2968,
+	"longitude": -85.1103
+},
+{
+	"City": "Oakman",
+	"State": "AL",
+	"latitude": 33.7141,
+	"longitude": -87.389
+},
+{
+	"City": "Woodville",
+	"State": "AL",
+	"latitude": 34.6256,
+	"longitude": -86.2792
+},
+{
+	"City": "Addison",
+	"State": "AL",
+	"latitude": 34.2017,
+	"longitude": -87.1765
+},
+{
+	"City": "Ider",
+	"State": "AL",
+	"latitude": 34.7022,
+	"longitude": -85.6691
+},
+{
+	"City": "Wadley",
+	"State": "AL",
+	"latitude": 33.1239,
+	"longitude": -85.5683
+},
+{
+	"City": "Lexington",
+	"State": "AL",
+	"latitude": 34.9652,
+	"longitude": -87.3735
+},
+{
+	"City": "Walnut Grove",
+	"State": "AL",
+	"latitude": 34.0641,
+	"longitude": -86.2863
+},
+{
+	"City": "Maplesville",
+	"State": "AL",
+	"latitude": 32.7867,
+	"longitude": -86.8783
+},
+{
+	"City": "Pisgah",
+	"State": "AL",
+	"latitude": 34.6844,
+	"longitude": -85.846
+},
+{
+	"City": "Our Town",
+	"State": "AL",
+	"latitude": 32.8304,
+	"longitude": -85.9687
+},
+{
+	"City": "Wilton",
+	"State": "AL",
+	"latitude": 33.0813,
+	"longitude": -86.8799
+},
+{
+	"City": "Hollis Crossroads",
+	"State": "AL",
+	"latitude": 33.5231,
+	"longitude": -85.6437
+},
+{
+	"City": "St. Florian",
+	"State": "AL",
+	"latitude": 34.8714,
+	"longitude": -87.6224
+},
+{
+	"City": "Bristow Cove",
+	"State": "AL",
+	"latitude": 34.1092,
+	"longitude": -86.241
+},
+{
+	"City": "Joppa",
+	"State": "AL",
+	"latitude": 34.2982,
+	"longitude": -86.5506
+},
+{
+	"City": "Allgood",
+	"State": "AL",
+	"latitude": 33.9064,
+	"longitude": -86.5178
+},
+{
+	"City": "Perdido Beach",
+	"State": "AL",
+	"latitude": 30.3554,
+	"longitude": -87.5036
+},
+{
+	"City": "Lynn",
+	"State": "AL",
+	"latitude": 34.0548,
+	"longitude": -87.5555
+},
+{
+	"City": "Excel",
+	"State": "AL",
+	"latitude": 31.4264,
+	"longitude": -87.3433
+},
+{
+	"City": "Pinckard",
+	"State": "AL",
+	"latitude": 31.3173,
+	"longitude": -85.543
+},
+{
+	"City": "Reece City",
+	"State": "AL",
+	"latitude": 34.0772,
+	"longitude": -86.0345
+},
+{
+	"City": "Stockton",
+	"State": "AL",
+	"latitude": 30.9946,
+	"longitude": -87.86
+},
+{
+	"City": "Dodge City",
+	"State": "AL",
+	"latitude": 34.0453,
+	"longitude": -86.8837
+},
+{
+	"City": "North Courtland",
+	"State": "AL",
+	"latitude": 34.6788,
+	"longitude": -87.3083
+},
+{
+	"City": "Baileyton",
+	"State": "AL",
+	"latitude": 34.2609,
+	"longitude": -86.6082
+},
+{
+	"City": "Trafford",
+	"State": "AL",
+	"latitude": 33.8194,
+	"longitude": -86.7467
+},
+{
+	"City": "West Point",
+	"State": "AL",
+	"latitude": 34.2401,
+	"longitude": -86.9626
+},
+{
+	"City": "Calvert",
+	"State": "AL",
+	"latitude": 31.154,
+	"longitude": -88.0169
+},
+{
+	"City": "Babbie",
+	"State": "AL",
+	"latitude": 31.3022,
+	"longitude": -86.3229
+},
+{
+	"City": "Hurtsboro",
+	"State": "AL",
+	"latitude": 32.2401,
+	"longitude": -85.4147
+},
+{
+	"City": "Courtland",
+	"State": "AL",
+	"latitude": 34.6703,
+	"longitude": -87.3262
+},
+{
+	"City": "Forkland",
+	"State": "AL",
+	"latitude": 32.6489,
+	"longitude": -87.8671
+},
+{
+	"City": "Clayhatchee",
+	"State": "AL",
+	"latitude": 31.2434,
+	"longitude": -85.7136
+},
+{
+	"City": "Pickensville",
+	"State": "AL",
+	"latitude": 33.2336,
+	"longitude": -88.2743
+},
+{
+	"City": "McDonald Chapel",
+	"State": "AL",
+	"latitude": 33.5189,
+	"longitude": -86.9385
+},
+{
+	"City": "Sand Rock",
+	"State": "AL",
+	"latitude": 34.2308,
+	"longitude": -85.7712
+},
+{
+	"City": "Belle Fontaine",
+	"State": "AL",
+	"latitude": 30.492,
+	"longitude": -88.1131
+},
+{
+	"City": "Grimes",
+	"State": "AL",
+	"latitude": 31.2999,
+	"longitude": -85.4502
+},
+{
+	"City": "Valley Head",
+	"State": "AL",
+	"latitude": 34.5575,
+	"longitude": -85.6214
+},
+{
+	"City": "Kinston",
+	"State": "AL",
+	"latitude": 31.22,
+	"longitude": -86.1705
+},
+{
+	"City": "Castleberry",
+	"State": "AL",
+	"latitude": 31.3001,
+	"longitude": -87.027
+},
+{
+	"City": "River Falls",
+	"State": "AL",
+	"latitude": 31.3524,
+	"longitude": -86.5412
+},
+{
+	"City": "Oak Grove",
+	"State": "AL",
+	"latitude": 33.1928,
+	"longitude": -86.3036
+},
+{
+	"City": "Hillsboro",
+	"State": "AL",
+	"latitude": 34.6408,
+	"longitude": -87.1837
+},
+{
+	"City": "Newville",
+	"State": "AL",
+	"latitude": 31.4206,
+	"longitude": -85.3367
+},
+{
+	"City": "Franklin",
+	"State": "AL",
+	"latitude": 32.4514,
+	"longitude": -85.7864
+},
+{
+	"City": "Elkmont",
+	"State": "AL",
+	"latitude": 34.9289,
+	"longitude": -86.9765
+},
+{
+	"City": "Avon",
+	"State": "AL",
+	"latitude": 31.1799,
+	"longitude": -85.2802
+},
+{
+	"City": "Lockhart",
+	"State": "AL",
+	"latitude": 31.0128,
+	"longitude": -86.3505
+},
+{
+	"City": "Garden City",
+	"State": "AL",
+	"latitude": 34.0152,
+	"longitude": -86.752
+},
+{
+	"City": "Eva",
+	"State": "AL",
+	"latitude": 34.3274,
+	"longitude": -86.7614
+},
+{
+	"City": "Millry",
+	"State": "AL",
+	"latitude": 31.6256,
+	"longitude": -88.3191
+},
+{
+	"City": "Hammondville",
+	"State": "AL",
+	"latitude": 34.5685,
+	"longitude": -85.6397
+},
+{
+	"City": "Rock Mills",
+	"State": "AL",
+	"latitude": 33.1563,
+	"longitude": -85.2861
+},
+{
+	"City": "Lisman",
+	"State": "AL",
+	"latitude": 32.1792,
+	"longitude": -88.3002
+},
+{
+	"City": "McKenzie",
+	"State": "AL",
+	"latitude": 31.5428,
+	"longitude": -86.7246
+},
+{
+	"City": "Glen Allen",
+	"State": "AL",
+	"latitude": 33.8922,
+	"longitude": -87.7328
+},
+{
+	"City": "Red Level",
+	"State": "AL",
+	"latitude": 31.4055,
+	"longitude": -86.6084
+},
+{
+	"City": "Nances Creek",
+	"State": "AL",
+	"latitude": 33.8588,
+	"longitude": -85.6733
+},
+{
+	"City": "Midway",
+	"State": "AL",
+	"latitude": 32.0764,
+	"longitude": -85.5244
+},
+{
+	"City": "Bellamy",
+	"State": "AL",
+	"latitude": 32.4582,
+	"longitude": -88.1277
+},
+{
+	"City": "Fairview",
+	"State": "AL",
+	"latitude": 34.2477,
+	"longitude": -86.6843
+},
+{
+	"City": "Louisville",
+	"State": "AL",
+	"latitude": 31.781,
+	"longitude": -85.5583
+},
+{
+	"City": "Berlin",
+	"State": "AL",
+	"latitude": 34.1868,
+	"longitude": -86.7442
+},
+{
+	"City": "Rutledge",
+	"State": "AL",
+	"latitude": 31.724,
+	"longitude": -86.302
+},
+{
+	"City": "St. Stephens",
+	"State": "AL",
+	"latitude": 31.5474,
+	"longitude": -88.0555
+},
+{
+	"City": "Rockford",
+	"State": "AL",
+	"latitude": 32.8896,
+	"longitude": -86.215
+},
+{
+	"City": "Silas",
+	"State": "AL",
+	"latitude": 31.7678,
+	"longitude": -88.3258
+},
+{
+	"City": "Hytop",
+	"State": "AL",
+	"latitude": 34.8965,
+	"longitude": -86.088
+},
+{
+	"City": "Kennedy",
+	"State": "AL",
+	"latitude": 33.5809,
+	"longitude": -87.9862
+},
+{
+	"City": "West Jefferson",
+	"State": "AL",
+	"latitude": 33.652,
+	"longitude": -87.0569
+},
+{
+	"City": "Hackneyville",
+	"State": "AL",
+	"latitude": 33.0567,
+	"longitude": -85.9312
+},
+{
+	"City": "Hissop",
+	"State": "AL",
+	"latitude": 32.8746,
+	"longitude": -86.1159
+},
+{
+	"City": "Highland Lake",
+	"State": "AL",
+	"latitude": 33.8876,
+	"longitude": -86.4244
+},
+{
+	"City": "Pleasant Groves",
+	"State": "AL",
+	"latitude": 34.735,
+	"longitude": -86.2054
+},
+{
+	"City": "Sipsey",
+	"State": "AL",
+	"latitude": 33.8225,
+	"longitude": -87.0834
+},
+{
+	"City": "Ranburne",
+	"State": "AL",
+	"latitude": 33.5259,
+	"longitude": -85.339
+},
+{
+	"City": "Shorter",
+	"State": "AL",
+	"latitude": 32.4076,
+	"longitude": -85.9412
+},
+{
+	"City": "Twin",
+	"State": "AL",
+	"latitude": 33.9978,
+	"longitude": -87.8497
+},
+{
+	"City": "Vinegar Bend",
+	"State": "AL",
+	"latitude": 31.2594,
+	"longitude": -88.3712
+},
+{
+	"City": "Thomaston",
+	"State": "AL",
+	"latitude": 32.2683,
+	"longitude": -87.6237
+},
+{
+	"City": "Maytown",
+	"State": "AL",
+	"latitude": 33.5489,
+	"longitude": -86.9999
+},
+{
+	"City": "Mentone",
+	"State": "AL",
+	"latitude": 34.5663,
+	"longitude": -85.5842
+},
+{
+	"City": "Vina",
+	"State": "AL",
+	"latitude": 34.3757,
+	"longitude": -88.0602
+},
+{
+	"City": "Malcolm",
+	"State": "AL",
+	"latitude": 31.1945,
+	"longitude": -88.0016
+},
+{
+	"City": "Arley",
+	"State": "AL",
+	"latitude": 34.0886,
+	"longitude": -87.2074
+},
+{
+	"City": "Napier Field",
+	"State": "AL",
+	"latitude": 31.3149,
+	"longitude": -85.4549
+},
+{
+	"City": "Nectar",
+	"State": "AL",
+	"latitude": 33.9686,
+	"longitude": -86.6346
+},
+{
+	"City": "Epes",
+	"State": "AL",
+	"latitude": 32.6906,
+	"longitude": -88.1405
+},
+{
+	"City": "Akron",
+	"State": "AL",
+	"latitude": 32.8785,
+	"longitude": -87.7429
+},
+{
+	"City": "Gordon",
+	"State": "AL",
+	"latitude": 31.1436,
+	"longitude": -85.0925
+},
+{
+	"City": "Coffeeville",
+	"State": "AL",
+	"latitude": 31.7666,
+	"longitude": -88.0861
+},
+{
+	"City": "Dozier",
+	"State": "AL",
+	"latitude": 31.5031,
+	"longitude": -86.3694
+},
+{
+	"City": "Rosa",
+	"State": "AL",
+	"latitude": 33.9885,
+	"longitude": -86.5037
+},
+{
+	"City": "Uriah",
+	"State": "AL",
+	"latitude": 31.3073,
+	"longitude": -87.4992
+},
+{
+	"City": "Dutton",
+	"State": "AL",
+	"latitude": 34.6062,
+	"longitude": -85.9119
+},
+{
+	"City": "Ray",
+	"State": "AL",
+	"latitude": 32.879,
+	"longitude": -86.035
+},
+{
+	"City": "Weogufka",
+	"State": "AL",
+	"latitude": 33.0267,
+	"longitude": -86.3169
+},
+{
+	"City": "Carolina",
+	"State": "AL",
+	"latitude": 31.2337,
+	"longitude": -86.5227
+},
+{
+	"City": "Cuba",
+	"State": "AL",
+	"latitude": 32.441,
+	"longitude": -88.3755
+},
+{
+	"City": "Vredenburgh",
+	"State": "AL",
+	"latitude": 31.8237,
+	"longitude": -87.3178
+},
+{
+	"City": "Madrid",
+	"State": "AL",
+	"latitude": 31.0356,
+	"longitude": -85.3992
+},
+{
+	"City": "Colony",
+	"State": "AL",
+	"latitude": 33.9413,
+	"longitude": -86.9016
+},
+{
+	"City": "Pine Ridge",
+	"State": "AL",
+	"latitude": 34.449,
+	"longitude": -85.7808
+},
+{
+	"City": "Hodges",
+	"State": "AL",
+	"latitude": 34.334,
+	"longitude": -87.9299
+},
+{
+	"City": "Delta",
+	"State": "AL",
+	"latitude": 33.447,
+	"longitude": -85.6746
+},
+{
+	"City": "Shiloh",
+	"State": "AL",
+	"latitude": 34.4638,
+	"longitude": -85.878
+},
+{
+	"City": "Fruithurst",
+	"State": "AL",
+	"latitude": 33.7297,
+	"longitude": -85.4312
+},
+{
+	"City": "Whatley",
+	"State": "AL",
+	"latitude": 31.6463,
+	"longitude": -87.7108
+},
+{
+	"City": "Boligee",
+	"State": "AL",
+	"latitude": 32.7699,
+	"longitude": -88.0264
+},
+{
+	"City": "Gordonville",
+	"State": "AL",
+	"latitude": 32.1489,
+	"longitude": -86.6994
+},
+{
+	"City": "Beatrice",
+	"State": "AL",
+	"latitude": 31.7332,
+	"longitude": -87.209
+},
+{
+	"City": "Reeltown",
+	"State": "AL",
+	"latitude": 32.5788,
+	"longitude": -85.8189
+},
+{
+	"City": "Waldo",
+	"State": "AL",
+	"latitude": 33.3892,
+	"longitude": -86.036
+},
+{
+	"City": "Boykin",
+	"State": "AL",
+	"latitude": 32.0701,
+	"longitude": -87.2914
+},
+{
+	"City": "Anderson",
+	"State": "AL",
+	"latitude": 34.9147,
+	"longitude": -87.2716
+},
+{
+	"City": "County Line",
+	"State": "AL",
+	"latitude": 33.821,
+	"longitude": -86.7198
+},
+{
+	"City": "Langston",
+	"State": "AL",
+	"latitude": 34.5374,
+	"longitude": -86.0899
+},
+{
+	"City": "Gulfcrest",
+	"State": "AL",
+	"latitude": 30.9925,
+	"longitude": -88.2399
+},
+{
+	"City": "East Point",
+	"State": "AL",
+	"latitude": 34.1859,
+	"longitude": -86.7927
+},
+{
+	"City": "Repton",
+	"State": "AL",
+	"latitude": 31.4097,
+	"longitude": -87.2393
+},
+{
+	"City": "Heath",
+	"State": "AL",
+	"latitude": 31.3579,
+	"longitude": -86.4673
+},
+{
+	"City": "Goshen",
+	"State": "AL",
+	"latitude": 31.7182,
+	"longitude": -86.1242
+},
+{
+	"City": "Morrison Crossroads",
+	"State": "AL",
+	"latitude": 33.4198,
+	"longitude": -85.4903
+},
+{
+	"City": "Sanford",
+	"State": "AL",
+	"latitude": 31.3006,
+	"longitude": -86.3975
+},
+{
+	"City": "Bakerhill",
+	"State": "AL",
+	"latitude": 31.7769,
+	"longitude": -85.2955
+},
+{
+	"City": "Fulton",
+	"State": "AL",
+	"latitude": 31.7916,
+	"longitude": -87.7397
+},
+{
+	"City": "Sweet Water",
+	"State": "AL",
+	"latitude": 32.1046,
+	"longitude": -87.8619
+},
+{
+	"City": "Cullomburg",
+	"State": "AL",
+	"latitude": 31.7131,
+	"longitude": -88.2917
+},
+{
+	"City": "Fredonia",
+	"State": "AL",
+	"latitude": 32.9861,
+	"longitude": -85.2912
+},
+{
+	"City": "Horn Hill",
+	"State": "AL",
+	"latitude": 31.2382,
+	"longitude": -86.3211
+},
+{
+	"City": "Chunchula",
+	"State": "AL",
+	"latitude": 30.9237,
+	"longitude": -88.2072
+},
+{
+	"City": "Detroit",
+	"State": "AL",
+	"latitude": 34.0274,
+	"longitude": -88.1678
+},
+{
+	"City": "Gantt",
+	"State": "AL",
+	"latitude": 31.4092,
+	"longitude": -86.4842
+},
+{
+	"City": "McIntosh",
+	"State": "AL",
+	"latitude": 31.2649,
+	"longitude": -88.0284
+},
+{
+	"City": "Coffee Springs",
+	"State": "AL",
+	"latitude": 31.1664,
+	"longitude": -85.9102
+},
+{
+	"City": "Kansas",
+	"State": "AL",
+	"latitude": 33.9029,
+	"longitude": -87.5568
+},
+{
+	"City": "Daviston",
+	"State": "AL",
+	"latitude": 33.0556,
+	"longitude": -85.6371
+},
+{
+	"City": "Union",
+	"State": "AL",
+	"latitude": 32.9938,
+	"longitude": -87.9071
+},
+{
+	"City": "Pennington",
+	"State": "AL",
+	"latitude": 32.1994,
+	"longitude": -88.0494
+},
+{
+	"City": "Belk",
+	"State": "AL",
+	"latitude": 33.6516,
+	"longitude": -87.9286
+},
+{
+	"City": "Black",
+	"State": "AL",
+	"latitude": 31.0102,
+	"longitude": -85.7428
+},
+{
+	"City": "Nauvoo",
+	"State": "AL",
+	"latitude": 33.9873,
+	"longitude": -87.4876
+},
+{
+	"City": "Yellow Bluff",
+	"State": "AL",
+	"latitude": 31.9622,
+	"longitude": -87.4808
+},
+{
+	"City": "Macedonia",
+	"State": "AL",
+	"latitude": 33.4031,
+	"longitude": -88.2392
+},
+{
+	"City": "Kellyton",
+	"State": "AL",
+	"latitude": 32.9791,
+	"longitude": -86.0358
+},
+{
+	"City": "Loachapoka",
+	"State": "AL",
+	"latitude": 32.6049,
+	"longitude": -85.5948
+},
+{
+	"City": "Paint Rock",
+	"State": "AL",
+	"latitude": 34.6602,
+	"longitude": -86.3307
+},
+{
+	"City": "Waterloo",
+	"State": "AL",
+	"latitude": 34.9173,
+	"longitude": -88.0654
+},
+{
+	"City": "Providence",
+	"State": "AL",
+	"latitude": 32.3424,
+	"longitude": -87.7762
+},
+{
+	"City": "Edwardsville",
+	"State": "AL",
+	"latitude": 33.8411,
+	"longitude": -85.4523
+},
+{
+	"City": "Gilbertown",
+	"State": "AL",
+	"latitude": 31.8758,
+	"longitude": -88.3195
+},
+{
+	"City": "Eunola",
+	"State": "AL",
+	"latitude": 31.0326,
+	"longitude": -85.8409
+},
+{
+	"City": "Beaverton",
+	"State": "AL",
+	"latitude": 33.9354,
+	"longitude": -88.0218
+},
+{
+	"City": "Spring Garden",
+	"State": "AL",
+	"latitude": 33.973,
+	"longitude": -85.5558
+},
+{
+	"City": "Millerville",
+	"State": "AL",
+	"latitude": 33.1926,
+	"longitude": -85.9303
+},
+{
+	"City": "Onycha",
+	"State": "AL",
+	"latitude": 31.2246,
+	"longitude": -86.2785
+},
+{
+	"City": "Gainesville",
+	"State": "AL",
+	"latitude": 32.8149,
+	"longitude": -88.1608
+},
+{
+	"City": "Glenwood",
+	"State": "AL",
+	"latitude": 31.6675,
+	"longitude": -86.173
+},
+{
+	"City": "Woodland",
+	"State": "AL",
+	"latitude": 33.3756,
+	"longitude": -85.3975
+},
+{
+	"City": "Riverview",
+	"State": "AL",
+	"latitude": 31.0587,
+	"longitude": -87.0709
+},
+{
+	"City": "Spruce Pine",
+	"State": "AL",
+	"latitude": 34.3928,
+	"longitude": -87.7294
+},
+{
+	"City": "Abanda",
+	"State": "AL",
+	"latitude": 33.0926,
+	"longitude": -85.5253
+},
+{
+	"City": "Broomtown",
+	"State": "AL",
+	"latitude": 34.3657,
+	"longitude": -85.5322
+},
+{
+	"City": "Gu-Win",
+	"State": "AL",
+	"latitude": 33.9443,
+	"longitude": -87.8704
+},
+{
+	"City": "Newbern",
+	"State": "AL",
+	"latitude": 32.592,
+	"longitude": -87.5331
+},
+{
+	"City": "Standing Rock",
+	"State": "AL",
+	"latitude": 33.0863,
+	"longitude": -85.2449
+},
+{
+	"City": "Orrville",
+	"State": "AL",
+	"latitude": 32.3068,
+	"longitude": -87.2454
+},
+{
+	"City": "Banks",
+	"State": "AL",
+	"latitude": 31.8132,
+	"longitude": -85.8364
+},
+{
+	"City": "Talladega Springs",
+	"State": "AL",
+	"latitude": 33.1191,
+	"longitude": -86.4421
+},
+{
+	"City": "Hobson",
+	"State": "AL",
+	"latitude": 31.4836,
+	"longitude": -88.1513
+},
+{
+	"City": "Geiger",
+	"State": "AL",
+	"latitude": 32.8698,
+	"longitude": -88.313
+},
+{
+	"City": "Peterman",
+	"State": "AL",
+	"latitude": 31.5837,
+	"longitude": -87.2631
+},
+{
+	"City": "North Johns",
+	"State": "AL",
+	"latitude": 33.368,
+	"longitude": -87.1008
+},
+{
+	"City": "Waverly",
+	"State": "AL",
+	"latitude": 32.7333,
+	"longitude": -85.5761
+},
+{
+	"City": "Five Points",
+	"State": "AL",
+	"latitude": 33.0173,
+	"longitude": -85.3516
+},
+{
+	"City": "Billingsley",
+	"State": "AL",
+	"latitude": 32.661,
+	"longitude": -86.7087
+},
+{
+	"City": "Gaylesville",
+	"State": "AL",
+	"latitude": 34.2681,
+	"longitude": -85.5586
+},
+{
+	"City": "Pollard",
+	"State": "AL",
+	"latitude": 31.0236,
+	"longitude": -87.1736
+},
+{
+	"City": "Pine Apple",
+	"State": "AL",
+	"latitude": 31.8721,
+	"longitude": -86.9891
+},
+{
+	"City": "Lester",
+	"State": "AL",
+	"latitude": 34.9877,
+	"longitude": -87.1515
+},
+{
+	"City": "Deer Park",
+	"State": "AL",
+	"latitude": 31.2198,
+	"longitude": -88.3226
+},
+{
+	"City": "Cusseta",
+	"State": "AL",
+	"latitude": 32.7877,
+	"longitude": -85.3057
+},
+{
+	"City": "Toxey",
+	"State": "AL",
+	"latitude": 31.9107,
+	"longitude": -88.3091
+},
+{
+	"City": "Eldridge",
+	"State": "AL",
+	"latitude": 33.922,
+	"longitude": -87.6201
+},
+{
+	"City": "Myrtlewood",
+	"State": "AL",
+	"latitude": 32.2521,
+	"longitude": -87.9492
+},
+{
+	"City": "Libertyville",
+	"State": "AL",
+	"latitude": 31.2428,
+	"longitude": -86.46
+},
+{
+	"City": "Ridgeville",
+	"State": "AL",
+	"latitude": 34.0569,
+	"longitude": -86.1029
+},
+{
+	"City": "Fairford",
+	"State": "AL",
+	"latitude": 31.178,
+	"longitude": -88.0728
+},
+{
+	"City": "Bon Air",
+	"State": "AL",
+	"latitude": 33.2621,
+	"longitude": -86.3319
+},
+{
+	"City": "Fruitdale",
+	"State": "AL",
+	"latitude": 31.3429,
+	"longitude": -88.4109
+},
+{
+	"City": "Haleburg",
+	"State": "AL",
+	"latitude": 31.4099,
+	"longitude": -85.1381
+},
+{
+	"City": "Penton",
+	"State": "AL",
+	"latitude": 33.009,
+	"longitude": -85.4722
+},
+{
+	"City": "Lowndesboro",
+	"State": "AL",
+	"latitude": 32.2764,
+	"longitude": -86.6108
+},
+{
+	"City": "Faunsdale",
+	"State": "AL",
+	"latitude": 32.4576,
+	"longitude": -87.5938
+},
+{
+	"City": "Blue Springs",
+	"State": "AL",
+	"latitude": 31.6635,
+	"longitude": -85.5035
+},
+{
+	"City": "Movico",
+	"State": "AL",
+	"latitude": 31.0628,
+	"longitude": -88.0266
+},
+{
+	"City": "Needham",
+	"State": "AL",
+	"latitude": 31.987,
+	"longitude": -88.3366
+},
+{
+	"City": "Tibbie",
+	"State": "AL",
+	"latitude": 31.3628,
+	"longitude": -88.2471
+},
+{
+	"City": "Union Grove",
+	"State": "AL",
+	"latitude": 34.4025,
+	"longitude": -86.4483
+},
+{
+	"City": "Ethelsville",
+	"State": "AL",
+	"latitude": 33.4141,
+	"longitude": -88.2161
+},
+{
+	"City": "Hatton",
+	"State": "AL",
+	"latitude": 34.561,
+	"longitude": -87.4136
+},
+{
+	"City": "Mooresville",
+	"State": "AL",
+	"latitude": 34.627,
+	"longitude": -86.8799
+},
+{
+	"City": "Petrey",
+	"State": "AL",
+	"latitude": 31.8495,
+	"longitude": -86.2057
+},
+{
+	"City": "Cardiff",
+	"State": "AL",
+	"latitude": 33.6472,
+	"longitude": -86.9307
+},
+{
+	"City": "Goldville",
+	"State": "AL",
+	"latitude": 33.0841,
+	"longitude": -85.7831
+},
+{
+	"City": "Emelle",
+	"State": "AL",
+	"latitude": 32.7287,
+	"longitude": -88.3165
+},
+{
+	"City": "Dayton",
+	"State": "AL",
+	"latitude": 32.3509,
+	"longitude": -87.6416
+},
+{
+	"City": "Graham",
+	"State": "AL",
+	"latitude": 33.4552,
+	"longitude": -85.3231
+},
+{
+	"City": "Putnam",
+	"State": "AL",
+	"latitude": 32.0181,
+	"longitude": -88.0331
+},
+{
+	"City": "Benton",
+	"State": "AL",
+	"latitude": 32.3078,
+	"longitude": -86.818
+},
+{
+	"City": "Panola",
+	"State": "AL",
+	"latitude": 32.9478,
+	"longitude": -88.2674
+},
+{
+	"City": "Natural Bridge",
+	"State": "AL",
+	"latitude": 34.0904,
+	"longitude": -87.6014
+},
+{
+	"City": "Belgreen",
+	"State": "AL",
+	"latitude": 34.4767,
+	"longitude": -87.8653
+},
+{
+	"City": "Carlton",
+	"State": "AL",
+	"latitude": 31.343,
+	"longitude": -87.8378
+},
+{
+	"City": "Nanafalia",
+	"State": "AL",
+	"latitude": 32.1114,
+	"longitude": -87.9957
+},
+{
+	"City": "Memphis",
+	"State": "AL",
+	"latitude": 33.1369,
+	"longitude": -88.3008
+},
+{
+	"City": "Oak Hill",
+	"State": "AL",
+	"latitude": 31.9216,
+	"longitude": -87.0852
+},
+{
+	"City": "Megargel",
+	"State": "AL",
+	"latitude": 31.3781,
+	"longitude": -87.4307
+},
+{
+	"City": "Bucks",
+	"State": "AL",
+	"latitude": 31.017,
+	"longitude": -88.0249
+},
+{
+	"City": "Rockville",
+	"State": "AL",
+	"latitude": 31.4059,
+	"longitude": -87.8442
+},
+{
+	"City": "McMullen",
+	"State": "AL",
+	"latitude": 33.1481,
+	"longitude": -88.1757
+}]

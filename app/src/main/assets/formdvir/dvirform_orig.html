@@ -1,0 +1,658 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="">
+        <meta name="author" content="">
+
+        <title>Dvir | Form</title>
+
+        <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+
+        <script src="jquery-2.2.0.min.js"></script>
+	    <script src="assets/js/bootstrap.min.js"></script>
+
+        <style>
+            body {
+                margin: 0;
+                padding: 10px 20px 20px;
+                font-family: Arial;
+                font-size: 16px;
+            }
+            
+            .event-x {
+                display: inline-block;
+                margin: 10px 17px;
+                cursor: pointer;
+            }
+
+            .checkbox-block label {
+                position: relative;
+                top: -2px;
+                left: 5px;
+                cursor: pointer;
+                transition: all .3s;
+            }
+
+            .m-signature-block {
+                display: inline-block;
+                vertical-align: top;
+                width: 100px;
+            }
+            
+            page[size="Letter"] {
+                background: white;
+                width: 10.4in;
+                min-height: 5in;
+                display: block;
+                margin: 0 auto;
+                margin-bottom: 0.5cm;
+                padding: 30px;
+                box-shadow: 0 0 0.5cm rgba(0, 0, 0, 0.5);
+                font-size: 12px;
+                -webkit-owerflow-scrolling: touch;
+            }
+            
+            .input-text {
+                border: 0;
+                border-bottom: 1px solid black;
+                outline: none;
+                padding: 0 5px;
+                margin-top: -3px;
+                margin-right: 18px;
+                float: right;
+                font-size: 18px;
+            }
+            
+            .input-text.w-85p {
+                width: 85%;
+            }
+            
+            .input-text.w-83p {
+                width: 83%;
+            }
+            
+            #timeFormat {
+                line-height: normal;
+                font-size: 20px;
+                margin-left: -17px;
+                position: relative;
+            }
+            
+            .m-0 {
+                margin: 0;
+            }
+            
+            .m-t-5 {
+                margin-top: 5px;
+            }
+            
+            .m-t-20 {
+                margin-top: 20px;
+            }
+            
+            .m-l-10 {
+                margin-left: 10px;
+            }
+            
+            .m-t-25 {
+                margin-top: 25px;
+            }
+            
+            .p-l-30 {
+                padding-left: 30px;
+            }
+            
+            .w-170 {
+                width: 170px;
+            }
+            
+            .w-150 {
+                width: 150px;
+            }
+            
+            .w-90 {
+                width: 90px;
+            }
+            
+            .w-60 {
+                width: 60px;
+            }
+            
+            .b-t-0 {
+                border-top: 0 !important;
+            }
+            
+            .b-b-0 {
+                border-bottom: 0 !important;
+            }
+            
+            .bold {
+                font-weight: bold;
+            }
+            
+            .f-s-20 {
+                font-size: 20px;
+            }
+            
+            .float-0 {
+                float: none !important;
+            }
+            
+            div.checkbox-block {
+                line-height: normal;
+                margin-left: 0;
+            }
+            
+            label {
+                font-size: 17px;
+                cursor: pointer;
+                margin: 0 !important;
+            }
+            
+            textarea {
+                border: 1px solid #000;
+                border-radius: 4px;
+                resize: none;
+                outline: none;
+                overflow: hidden !important;
+                height: 250px !important;
+                line-height: 31px !important;
+                font-family: Arial, Helvetica, Sans-serif !important;
+                padding: 8px;
+                font-size: 16px !important;
+                width: 100% !important;
+            }
+            
+            .m-t-10 {
+                margin-top: 10px;
+            }
+        </style>
+
+    </head>
+
+    <body style="padding: 0">
+        <page size="Letter" id="page">
+            <input type="hidden" id="operation" value="I">
+            <input type="hidden" id="objectId" value="">
+            <input type="hidden" id="objectType" value="">
+            <input type="hidden" id="d_objectId" value="">
+            <input type="hidden" id="d_objectType" value="">
+            <input type="hidden" id="mobileRecordId" value="">
+            <input type="hidden" id="functionalGroupName" value="">
+            <input type="hidden" id="d_f_name" value="">
+            <input type="hidden" id="d_l_name" value="">
+            <input type="hidden" id="location" value="">
+            <input type="hidden" id="d_id" value="">
+            <input type="hidden" id="license_number" value="">
+            <h1 class="m-0 text-center"><strong>DRIVER'S VEHICLE INSPECTION REPORT</strong></h1>
+            <h5 class="m-0 text-center">AS REQUIREDBY THE D.O.T. FEDERAL MOTOR CARRIER SAFETY REGULATIONS</h5>
+            <div class="m-t-20">
+                <span class="f-s-20">CARRIER:</span>
+                <input type="text" id="carrier" class="input-text m-r-40 w-85p">
+                <div class="clearfix"></div>
+            </div>
+            <div class="m-t-10">
+                <span class="f-s-20">ADDRESS:</span>
+                <input type="text" id="address" class="input-text m-r-40 w-85p">
+                <div class="clearfix"></div>
+            </div>
+            <div class="m-t-10">
+                <span class="f-s-20">DATE:</span>
+                <input type="text" id="date" class="input-text m-r-40 float-0">
+                <span class="f-s-20">TIME:</span>
+                <input type="text" id="time" class="input-text m-r-40 float-0">
+                <span id="timeFormat"></span>
+            </div>
+            <div class="text-center">CHECK ANY DEFECTIVE ITEM AND GIVE DETAILS UNDER "REMARKS"</div>
+            <div class="f-s-20 m-t-10 bold">TRACTOR/</div>
+            <div>
+                <span class="f-s-20 bold">TRUCK NO.</span>
+                <input type="text" id="truckTractorNumber" class="input-text m-r-40 float-0">
+                <span class="f-s-20">ODOMETER READING</span>
+                <input type="text" id="odometer" class="input-text m-r-40 float-0">
+            </div>
+            <div class="row">
+                <div class="col-xs-4">
+                    <div class="checkbox-block m-t-10">
+                        <input type="checkbox" id="airCompressor">
+                        <label for="airCompressor">Air Compressor</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="airLines">
+                        <label for="airLines">Air Lines</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="battery">
+                        <label for="battery">Battery</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="brakeAccessories">
+                        <label for="brakeAccessories">Brake Accessories</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="brakes">
+                        <label for="brakes">Brakes</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="carburetor">
+                        <label for="carburetor">Carburetor</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="clutch">
+                        <label for="clutch">Clutch</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="defroster">
+                        <label for="defroster">Defroster</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="driveLine">
+                        <label for="driveLine">Drive Line</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="fifthWheel">
+                        <label for="fifthWheel">Fifth Wheel</label>
+                    </div>
+                    <div class="checkbox-block" style="margin-top: 20px">
+                        <input type="checkbox" id="registration">
+                        <label for="registration">* Registration</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="insurance">
+                        <label for="insurance">* Insurance</label>
+                    </div>
+                </div>
+                <div class="col-xs-4">
+                    <div class="checkbox-block m-t-10">
+                        <input type="checkbox" id="frontAxle">
+                        <label for="frontAxle">Front Axle</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="fuelTanks">
+                        <label for="fuelTanks">Fuel Tanks</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="horn">
+                        <label for="horn">Horn</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="heater">
+                        <label for="heater">Heater</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="lights">
+                        <label for="lights">Lights</label>
+                        <div class="p-l-30"><label for="lights">Head/Stop</label></div>
+                        <div class="p-l-30"><label for="lights">Tail/Dash</label></div>
+                        <div class="p-l-30"><label for="lights">Turn Indicators</label></div>
+                        <div class="p-l-30"><label for="lights">Clearance/Marker</label></div>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="mirrors">
+                        <label for="mirrors">Mirrors</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="oilPressure">
+                        <label for="oilPressure">Oil Pressure</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="onBoardRecorder">
+                        <label for="onBoardRecorder">On Board Recorder</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="radiator">
+                        <label for="radiator">Radiator</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="rearEnd">
+                        <label for="rearEnd">Rear End</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="reflectors">
+                        <label for="reflectors">Reflectors</label>
+                    </div>
+                </div>
+                <div class="col-xs-4">
+                    <div class="checkbox-block m-t-10">
+                        <input type="checkbox" id="safetyEquipment">
+                        <label for="safetyEquipment">Safety Equipment</label>
+                        <div class="p-l-30"><label for="safetyEquipment">Fire Extinguisher</label></div>
+                        <div class="p-l-30"><label for="safetyEquipment">Flags/Flares/Fusees</label></div>
+                        <div class="p-l-30"><label for="safetyEquipment">Reflective Triangles</label></div>
+                        <div class="p-l-30"><label for="safetyEquipment">Spare Bulbs and Fuses</label></div>
+                        <div class="p-l-30"><label for="safetyEquipment">Spare Seal Beam</label></div>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="springs">
+                        <label for="springs">Springs</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="starter">
+                        <label for="starter">Starter</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="steering">
+                        <label for="steering">Steering</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="tachograph">
+                        <label for="tachograph">Tachograph</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="tires">
+                        <label for="tires">Tires</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="transmission">
+                        <label for="transmission">Transmission</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="wheels">
+                        <label for="wheels">Wheels and Rims</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="windows">
+                        <label for="windows">Windows</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="windShieldWipers">
+                        <label for="windShieldWipers">Windshield Wipers</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="others">
+                        <label for="others">Other</label>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="m-t-10 col-xs-6">
+                    <span class="f-s-20"><strong>TRAILER NO.(S)</strong></span>
+                    <input type="text" id="trailer1Numbers" class="input-text m-r-40 float-0">
+                </div>
+                <div class="m-t-10 col-xs-6">
+                    <span class="f-s-20"><strong>Reefer HOS</strong></span>
+                    <input type="text" id="trailer1ReeferHOS" class="input-text m-r-40 float-0">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-4">
+                    <div class="checkbox-block m-t-10">
+                        <input type="checkbox" id="trailer1BreakeConnections">
+                        <label for="trailer1BreakeConnections">Brake Connections</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="trailer1Breakes">
+                        <label for="trailer1Breakes">Brakes</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="trailer1CouplingPin">
+                        <label for="trailer1CouplingPin">Coupling (King) Pin</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="trailer1CouplingChains">
+                        <label for="trailer1CouplingChains">Coupling Chains</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="trailer1Doors">
+                        <label for="trailer1Doors">Doors</label>
+                    </div>
+                </div>
+                <div class="col-xs-4">
+                    <div class="checkbox-block m-t-10">
+                        <input type="checkbox" id="trailer1Hitch">
+                        <label for="trailer1Hitch">Hitch</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="trailer1LandingGear">
+                        <label for="trailer1LandingGear">Landing Gear</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="trailer1LightsAll">
+                        <label for="trailer1LightsAll">Lights All</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="trailer1Roof">
+                        <label for="trailer1Roof">Roof</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="trailer1Springs">
+                        <label for="trailer1Springs">Springs</label>
+                    </div>
+                </div>
+                <div class="col-xs-4">
+                    <div class="checkbox-block m-t-10">
+                        <input type="checkbox" id="trailer1Tarpaulin">
+                        <label for="trailer1Tarpaulin">Tarpaulin</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="trailer1Tires">
+                        <label for="trailer1Tires">Tires</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="trailer1Wheels">
+                        <label for="trailer1Wheels">Wheels and Rims</label>
+                    </div>
+                    <div class="checkbox-block">
+                        <input type="checkbox" id="trailer1Other">
+                        <label for="trailer1Other">Other</label>
+                    </div>
+                </div>
+            </div>
+            <div class="f-s-20">Remarks</div>
+            <textarea id="remarks"></textarea>
+            <div class="checkbox-block">
+                <input type="checkbox" id="conditionVehicleIsSatisfactory">
+                <label for="conditionVehicleIsSatisfactory">CONDITION OF THE ABOVE VEHICLE IS SATISFACTORY</label>
+            </div>
+            <div class="">
+                <span>DRIVER'S SIGNATURE: </span>
+                <input type="text" id="driversSignatureVehicleSatisfactory" class="input-text m-r-40 w-83p">
+                <div class="clearfix"></div>
+            </div>
+            <div class="checkbox-block m-t-10">
+                <input type="checkbox" id="aboveDefectsCorrected">
+                <label for="aboveDefectsCorrected" style="font-weight: normal; font-size: 14px">ABOVE DEFECTS CORRECTED</label>
+            </div>
+            <div class="checkbox-block">
+                <input type="checkbox" id="aboveDefectsNoCorrectionNeeded">
+                <label for="aboveDefectsNoCorrectionNeeded" style="font-weight: normal; font-size: 14px">ABOVE DEFECTS NEED NOT BE CORRECTED FOR SAFE OPERATION OF VEICLE</label>
+            </div>
+            <div class="m-t-10" id="signature_of_mechanic_DIV">
+                <span style="font-size: 14px">MECHANIC SIGNATURE:</span>
+                <img id="signature_of_mechanic" height = "20"/>
+                <div class="pull-right">
+                    <span style="font-size: 14px">DATE:</span>
+                    <input type="text" id="mechanicsSignatureDate" style="width: 120px" class="input-text m-r-40 float-0">
+                </div>
+                <div class="m-signature-block"><img src="" id="mechanicsSignature" class="signature"></div>
+                <span id=mechanic_name></span>
+                <div class="clearfix"></div>
+            </div>
+            <div class="m-t-10" id="signature_of_driver_DIV">
+                <span style="font-size: 14px">DRIVER'S SIGNATURE:</span>
+                <img id="signature_of_driver" height = "20"/>
+                <div class="pull-right">
+                    <span style="font-size: 14px">DATE:</span>
+                    <input type="text" id="driversSignatureNoCorrectionNeededDate" style="width: 120px" class="input-text m-r-40 float-0">
+                </div>
+            </div>
+        </page>
+
+        <script>
+            var date = new Date();
+            
+            addDate(date)
+    
+            jQuery(document).ready(function ($) {
+                
+            });
+            
+            function getData() {
+                
+                var dataHeaderFields = {
+                    operation: 'I',
+                    flag: 'H',
+                    objectId: '',
+                    objectType: '',
+                    mobileRecordId: '',
+                    functionalGroupName: '',
+                    organizationName: '',
+                    organizationNumber: '',
+                    firstName: '',
+                    lastName: '',
+                    userRecordId: '',
+                    year: '',
+                }
+                
+                var dataDetailFields = {
+                    operation: 'I',
+                    flag: 'D',
+                    objectId: '',
+                    objectType: '',
+                    mobileRecordId: '',
+                    functionalGroupName: '',
+                    organizationName: '',
+                    organizationNumber: '',
+                    datetime: dateFormat(date, false, true),
+                    airCompressor: $('#airCompressor').is(':checked') ? 'true' : 'false',
+                    airLines: $('#airLines').is(':checked') ? 'true' : 'false',
+                    battery: $('#battery').is(':checked') ? 'true' : 'false',
+                    brakeAccessories: $('#brakeAccessories').is(':checked') ? 'true' : 'false',
+                    brakes: $('#brakes').is(':checked') ? 'true' : 'false',
+                    carburetor: $('#carburetor').is(':checked') ? 'true' : 'false',
+                    clutch: $('#clutch').is(':checked') ? 'true' : 'false',
+                    defroster: $('#defroster').is(':checked') ? 'true' : 'false',
+                    driveLine: $('#driveLine').is(':checked') ? 'true' : 'false',
+                    fifthWheel: $('#fifthWheel').is(':checked') ? 'true' : 'false',
+                    frontAxle: $('#frontAxle').is(':checked') ? 'true' : 'false',
+                    fuelTanks: $('#fuelTanks').is(':checked') ? 'true' : 'false',
+                    heater: $('#heater').is(':checked') ? 'true' : 'false',
+                    horn: $('#horn').is(':checked') ? 'true' : 'false',
+                    lights: $('#lights').is(':checked') ? 'true' : 'false',
+                    mirrors: $('#mirrors').is(':checked') ? 'true' : 'false',
+                    oilPressure: $('#oilPressure').is(':checked') ? 'true' : 'false',
+                    onBoardRecorder: $('#onBoardRecorder').is(':checked') ? 'true' : 'false',
+                    radiator: $('#radiator').is(':checked') ? 'true' : 'false',
+                    rearEnd: $('#rearEnd').is(':checked') ? 'true' : 'false',
+                    reflectors: $('#reflectors').is(':checked') ? 'true' : 'false',
+                    safetyEquipment: $('#safetyEquipment').is(':checked') ? 'true' : 'false',
+                    springs: $('#springs').is(':checked') ? 'true' : 'false',
+                    starter: $('#starter').is(':checked') ? 'true' : 'false',
+                    steering: $('#steering').is(':checked') ? 'true' : 'false',
+                    tachograph: $('#tachograph').is(':checked') ? 'true' : 'false',
+                    tires: $('#tires').is(':checked') ? 'true' : 'false',
+                    transmission: $('#transmission').is(':checked') ? 'true' : 'false',
+                    wheels: $('#wheels').is(':checked') ? 'true' : 'false',
+                    windows: $('#windows').is(':checked') ? 'true' : 'false',
+                    windShieldWipers: $('#windShieldWipers').is(':checked') ? 'true' : 'false',
+                    others: $('#others').is(':checked') ? 'true' : 'false',
+                    trailer1Number: $('#trailer1Number').val(),
+                    trailer1BreakeConnections: $('#trailer1BreakeConnections').is(':checked') ? 'true' : 'false',
+                    trailer1Breakes: $('#trailer1Breakes').is(':checked') ? 'true' : 'false',
+                    trailer1CouplingPin: $('#trailer1CouplingPin').is(':checked') ? 'true' : 'false',
+                    trailer1CouplingChains: $('#trailer1CouplingChains').is(':checked') ? 'true' : 'false',
+                    trailer1Doors: $('#trailer1Doors').is(':checked') ? 'true' : 'false',
+                    trailer1Hitch: $('#trailer1Hitch').is(':checked') ? 'true' : 'false',
+                    trailer1LandingGear: $('#trailer1LandingGear').is(':checked') ? 'true' : 'false',
+                    trailer1LightsAll: $('#trailer1LightsAll').is(':checked') ? 'true' : 'false',
+                    trailer1Other: $('#trailer1Other').is(':checked') ? 'true' : 'false',
+                    trailer1Roof: $('#trailer1Roof').is(':checked') ? 'true' : 'false',
+                    trailer1Springs: $('#trailer1Springs').is(':checked') ? 'true' : 'false',
+                    trailer1Tarpaulin: $('#trailer1Tarpaulin').is(':checked') ? 'true' : 'false',
+                    trailer1Tires: $('#trailer1Tires').is(':checked') ? 'true' : 'false',
+                    trailer1Wheels: $('#trailer1Wheels').is(':checked') ? 'true' : 'false',
+                    trailer2Number: '',
+                    trailer2BreakeConnections: '',
+                    trailer2Breakes: '',
+                    trailer2CouplingPin: '',
+                    trailer2CouplingChains: '',
+                    trailer2Doors: '',
+                    trailer2Hitch: '',
+                    trailer2LandingGear: '',
+                    trailer2LightsAll: '',
+                    trailer2Other: '',
+                    trailer2Roof: '',
+                    trailer2Springs: '',
+                    trailer2Tarpaulin: '',
+                    trailer2Tires: '',
+                    trailer2Wheels: '',
+                    remarks: $('#remarks').val(),
+                    conditionVehicleIsSatisfactory: $('#conditionVehicleIsSatisfactory').is(':checked') ? 'true' : 'false',
+                    driversSignatureVehicleSatisfactory: $('#driversSignatureVehicleSatisfactory').val(),
+                    aboveDefectsCorrected: $('#aboveDefectsCorrected').is(':checked') ? 'true' : 'false',
+                    aboveDefectsNoCorrectionNeeded: $('#aboveDefectsNoCorrectionNeeded').is(':checked') ? 'true' : 'false',
+                    mechanicsSignature: $('#mechanicsSignature').val(),
+                    mechanicsSignatureDate: $('#mechanicsSignatureDate').val(),
+                    driversSignatureNoCorrectionNeeded: $('#driversSignatureNoCorrectionNeeded').val(),
+                    driversSignatureNoCorrectionNeededDate: $('#driversSignatureNoCorrectionNeededDate').val(),
+                    truckTractorNumber: $('#truckTractorNumber').val(),
+                    location: '',
+                    driverFirstName: '',
+                    driverLastName: '',
+                    driverRecordId: '',
+                    vehicleLicenseNumber: '',
+                    carrier: $('#carrier').val(),
+                    address: $('#address').val(),
+                    odometer: $('#odomete').val(),
+                    odometerReading: $('#odometerReading').val(),
+					mechanicFirstName: '',
+					mechanicLastName: '',
+					mechanicId: '',
+					trailer1ReeferHOS: '',
+					trailer2ReeferHOS: '',
+					registration: $('#registration').is(':checked') ? 'true' : 'false',
+					insurance: $('#insurance').is(':checked') ? 'true' : 'false',
+                }
+                
+                return [dataHeaderFields, dataDetailFields];
+            }
+            
+            function addDate(date) {
+                
+                date = dateFormat(date, true, false).split(' ');
+                $('#date').val(date[0]);
+                $('#time').val(date[1]);
+                $('#timeFormat').text(date[2]);
+            }
+            
+            function dateFormat(dateArg, pmAm, time) {
+                var date = new Date(dateArg);
+                var month = (date.getMonth() + 1) < 10 ? '0' + (date.getMonth() + 1) : (date.getMonth() + 1);
+                var day = date.getDate() < 10 ? '0' + date.getDate() : date.getDate();
+                var year = date.getFullYear();
+                var hours = date.getHours();
+                var min = date.getMinutes();
+                var sec = date.getSeconds();
+    
+                if (pmAm)
+                    return month + '/' + day + '/' + year + ' ' + format_time(dateArg);
+    
+                if (time) {
+                    return month + '/' + day + '/' + year + ' ' + hours + ':' + min + ':' + sec;
+                }
+    
+                return month + '/' + day + '/' + year;
+            }
+            
+            function format_time(date_obj) {
+                // formats a javascript Date object into a 12h AM/PM time string
+                var hour = date_obj.getHours();
+                var minute = date_obj.getMinutes();
+                var amPM = (hour > 11) ? "PM" : "AM";
+                if (hour > 12) {
+                    hour -= 12;
+                } else if (hour == 0) {
+                    hour = "12";
+                }
+                if (minute < 10) {
+                    minute = "0" + minute;
+                }
+                return hour + ":" + minute + ' ' + amPM;
+            }
+    
+        </script>
+    </body>
+</html>

@@ -1,0 +1,2239 @@
+[
+{
+	"City": "Portland",
+	"State": "OR",
+	"latitude": 45.5372,
+	"longitude": -122.65
+},
+{
+	"City": "Eugene",
+	"State": "OR",
+	"latitude": 44.0563,
+	"longitude": -123.1173
+},
+{
+	"City": "Salem",
+	"State": "OR",
+	"latitude": 44.9231,
+	"longitude": -123.0246
+},
+{
+	"City": "Medford",
+	"State": "OR",
+	"latitude": 42.3372,
+	"longitude": -122.8537
+},
+{
+	"City": "Bend",
+	"State": "OR",
+	"latitude": 44.0562,
+	"longitude": -121.3087
+},
+{
+	"City": "Gresham",
+	"State": "OR",
+	"latitude": 45.5023,
+	"longitude": -122.4413
+},
+{
+	"City": "Hillsboro",
+	"State": "OR",
+	"latitude": 45.5272,
+	"longitude": -122.9361
+},
+{
+	"City": "Beaverton",
+	"State": "OR",
+	"latitude": 45.4779,
+	"longitude": -122.8168
+},
+{
+	"City": "Corvallis",
+	"State": "OR",
+	"latitude": 44.5697,
+	"longitude": -123.278
+},
+{
+	"City": "Springfield",
+	"State": "OR",
+	"latitude": 44.0538,
+	"longitude": -122.981
+},
+{
+	"City": "Albany",
+	"State": "OR",
+	"latitude": 44.6274,
+	"longitude": -123.0966
+},
+{
+	"City": "Grants Pass",
+	"State": "OR",
+	"latitude": 42.4333,
+	"longitude": -123.3317
+},
+{
+	"City": "Tigard",
+	"State": "OR",
+	"latitude": 45.4237,
+	"longitude": -122.7845
+},
+{
+	"City": "Aloha",
+	"State": "OR",
+	"latitude": 45.492,
+	"longitude": -122.8726
+},
+{
+	"City": "Roseburg",
+	"State": "OR",
+	"latitude": 43.2232,
+	"longitude": -123.3518
+},
+{
+	"City": "Klamath Falls",
+	"State": "OR",
+	"latitude": 42.2191,
+	"longitude": -121.7754
+},
+{
+	"City": "McMinnville",
+	"State": "OR",
+	"latitude": 45.211,
+	"longitude": -123.1918
+},
+{
+	"City": "Lake Oswego",
+	"State": "OR",
+	"latitude": 45.413,
+	"longitude": -122.7003
+},
+{
+	"City": "Keizer",
+	"State": "OR",
+	"latitude": 45.0029,
+	"longitude": -123.0241
+},
+{
+	"City": "Oregon City",
+	"State": "OR",
+	"latitude": 45.3415,
+	"longitude": -122.5927
+},
+{
+	"City": "Woodburn",
+	"State": "OR",
+	"latitude": 45.1473,
+	"longitude": -122.8603
+},
+{
+	"City": "Redmond",
+	"State": "OR",
+	"latitude": 44.2631,
+	"longitude": -121.1798
+},
+{
+	"City": "Coos Bay",
+	"State": "OR",
+	"latitude": 43.3789,
+	"longitude": -124.233
+},
+{
+	"City": "Hermiston",
+	"State": "OR",
+	"latitude": 45.8323,
+	"longitude": -119.2858
+},
+{
+	"City": "Newberg",
+	"State": "OR",
+	"latitude": 45.3075,
+	"longitude": -122.9601
+},
+{
+	"City": "Tualatin",
+	"State": "OR",
+	"latitude": 45.3772,
+	"longitude": -122.7746
+},
+{
+	"City": "St. Helens",
+	"State": "OR",
+	"latitude": 45.8571,
+	"longitude": -122.8164
+},
+{
+	"City": "West Linn",
+	"State": "OR",
+	"latitude": 45.3669,
+	"longitude": -122.6399
+},
+{
+	"City": "Bethany",
+	"State": "OR",
+	"latitude": 45.5613,
+	"longitude": -122.8369
+},
+{
+	"City": "Forest Grove",
+	"State": "OR",
+	"latitude": 45.5244,
+	"longitude": -123.1101
+},
+{
+	"City": "Wilsonville",
+	"State": "OR",
+	"latitude": 45.3107,
+	"longitude": -122.7705
+},
+{
+	"City": "Ontario",
+	"State": "OR",
+	"latitude": 44.0259,
+	"longitude": -116.9759
+},
+{
+	"City": "Happy Valley",
+	"State": "OR",
+	"latitude": 45.4362,
+	"longitude": -122.5077
+},
+{
+	"City": "Lebanon",
+	"State": "OR",
+	"latitude": 44.5317,
+	"longitude": -122.9071
+},
+{
+	"City": "Hayesville",
+	"State": "OR",
+	"latitude": 44.9794,
+	"longitude": -122.9739
+},
+{
+	"City": "Ashland",
+	"State": "OR",
+	"latitude": 42.1905,
+	"longitude": -122.6992
+},
+{
+	"City": "Milwaukie",
+	"State": "OR",
+	"latitude": 45.4447,
+	"longitude": -122.6221
+},
+{
+	"City": "The Dalles",
+	"State": "OR",
+	"latitude": 45.6053,
+	"longitude": -121.1818
+},
+{
+	"City": "Monmouth",
+	"State": "OR",
+	"latitude": 44.8505,
+	"longitude": -123.2283
+},
+{
+	"City": "Sherwood",
+	"State": "OR",
+	"latitude": 45.3593,
+	"longitude": -122.8433
+},
+{
+	"City": "Canby",
+	"State": "OR",
+	"latitude": 45.2653,
+	"longitude": -122.6866
+},
+{
+	"City": "Altamont",
+	"State": "OR",
+	"latitude": 42.1981,
+	"longitude": -121.7249
+},
+{
+	"City": "Central Point",
+	"State": "OR",
+	"latitude": 42.3765,
+	"longitude": -122.911
+},
+{
+	"City": "Oak Grove",
+	"State": "OR",
+	"latitude": 45.4156,
+	"longitude": -122.6349
+},
+{
+	"City": "Dallas",
+	"State": "OR",
+	"latitude": 44.9222,
+	"longitude": -123.3131
+},
+{
+	"City": "Cedar Mill",
+	"State": "OR",
+	"latitude": 45.5355,
+	"longitude": -122.8006
+},
+{
+	"City": "Pendleton",
+	"State": "OR",
+	"latitude": 45.6756,
+	"longitude": -118.8209
+},
+{
+	"City": "Four Corners",
+	"State": "OR",
+	"latitude": 44.9291,
+	"longitude": -122.9731
+},
+{
+	"City": "Troutdale",
+	"State": "OR",
+	"latitude": 45.5372,
+	"longitude": -122.3955
+},
+{
+	"City": "Hood River",
+	"State": "OR",
+	"latitude": 45.7092,
+	"longitude": -121.5258
+},
+{
+	"City": "La Grande",
+	"State": "OR",
+	"latitude": 45.3243,
+	"longitude": -118.0865
+},
+{
+	"City": "Astoria",
+	"State": "OR",
+	"latitude": 46.1856,
+	"longitude": -123.8053
+},
+{
+	"City": "Oatfield",
+	"State": "OR",
+	"latitude": 45.4127,
+	"longitude": -122.5942
+},
+{
+	"City": "Cornelius",
+	"State": "OR",
+	"latitude": 45.519,
+	"longitude": -123.0514
+},
+{
+	"City": "Prineville",
+	"State": "OR",
+	"latitude": 44.2985,
+	"longitude": -120.8607
+},
+{
+	"City": "Gladstone",
+	"State": "OR",
+	"latitude": 45.3864,
+	"longitude": -122.5933
+},
+{
+	"City": "Oak Hills",
+	"State": "OR",
+	"latitude": 45.5403,
+	"longitude": -122.8413
+},
+{
+	"City": "Lincoln City",
+	"State": "OR",
+	"latitude": 44.9751,
+	"longitude": -124.0073
+},
+{
+	"City": "Newport",
+	"State": "OR",
+	"latitude": 44.6242,
+	"longitude": -124.0513
+},
+{
+	"City": "Cottage Grove",
+	"State": "OR",
+	"latitude": 43.7961,
+	"longitude": -123.0573
+},
+{
+	"City": "Sandy",
+	"State": "OR",
+	"latitude": 45.3986,
+	"longitude": -122.2692
+},
+{
+	"City": "Stayton",
+	"State": "OR",
+	"latitude": 44.8033,
+	"longitude": -122.7983
+},
+{
+	"City": "Brookings",
+	"State": "OR",
+	"latitude": 42.0697,
+	"longitude": -124.3003
+},
+{
+	"City": "Damascus",
+	"State": "OR",
+	"latitude": 45.4233,
+	"longitude": -122.4437
+},
+{
+	"City": "Silverton",
+	"State": "OR",
+	"latitude": 45.0031,
+	"longitude": -122.7809
+},
+{
+	"City": "Florence",
+	"State": "OR",
+	"latitude": 43.9914,
+	"longitude": -124.1062
+},
+{
+	"City": "Sweet Home",
+	"State": "OR",
+	"latitude": 44.4023,
+	"longitude": -122.7028
+},
+{
+	"City": "Independence",
+	"State": "OR",
+	"latitude": 44.8551,
+	"longitude": -123.1948
+},
+{
+	"City": "Bull Mountain",
+	"State": "OR",
+	"latitude": 45.4126,
+	"longitude": -122.8322
+},
+{
+	"City": "Molalla",
+	"State": "OR",
+	"latitude": 45.1502,
+	"longitude": -122.5844
+},
+{
+	"City": "Rockcreek",
+	"State": "OR",
+	"latitude": 45.5525,
+	"longitude": -122.8757
+},
+{
+	"City": "White City",
+	"State": "OR",
+	"latitude": 42.4316,
+	"longitude": -122.8322
+},
+{
+	"City": "Baker City",
+	"State": "OR",
+	"latitude": 44.7749,
+	"longitude": -117.832
+},
+{
+	"City": "North Bend",
+	"State": "OR",
+	"latitude": 43.4075,
+	"longitude": -124.2364
+},
+{
+	"City": "Fairview",
+	"State": "OR",
+	"latitude": 45.5471,
+	"longitude": -122.4391
+},
+{
+	"City": "Eagle Point",
+	"State": "OR",
+	"latitude": 42.4677,
+	"longitude": -122.8016
+},
+{
+	"City": "Madras",
+	"State": "OR",
+	"latitude": 44.6425,
+	"longitude": -121.1315
+},
+{
+	"City": "Sutherlin",
+	"State": "OR",
+	"latitude": 43.3884,
+	"longitude": -123.3231
+},
+{
+	"City": "Seaside",
+	"State": "OR",
+	"latitude": 45.9889,
+	"longitude": -123.9214
+},
+{
+	"City": "Cedar Hills",
+	"State": "OR",
+	"latitude": 45.5047,
+	"longitude": -122.8051
+},
+{
+	"City": "West Haven-Sylvan",
+	"State": "OR",
+	"latitude": 45.5164,
+	"longitude": -122.7654
+},
+{
+	"City": "Sheridan",
+	"State": "OR",
+	"latitude": 45.096,
+	"longitude": -123.3983
+},
+{
+	"City": "Tillamook",
+	"State": "OR",
+	"latitude": 45.4562,
+	"longitude": -123.8331
+},
+{
+	"City": "Jennings Lodge",
+	"State": "OR",
+	"latitude": 45.3926,
+	"longitude": -122.6153
+},
+{
+	"City": "Green",
+	"State": "OR",
+	"latitude": 43.1509,
+	"longitude": -123.3854
+},
+{
+	"City": "Scappoose",
+	"State": "OR",
+	"latitude": 45.7564,
+	"longitude": -122.8771
+},
+{
+	"City": "Umatilla",
+	"State": "OR",
+	"latitude": 45.912,
+	"longitude": -119.3145
+},
+{
+	"City": "Milton-Freewater",
+	"State": "OR",
+	"latitude": 45.9348,
+	"longitude": -118.3913
+},
+{
+	"City": "Garden Home-Whitford",
+	"State": "OR",
+	"latitude": 45.4642,
+	"longitude": -122.7589
+},
+{
+	"City": "Creswell",
+	"State": "OR",
+	"latitude": 43.9212,
+	"longitude": -123.016
+},
+{
+	"City": "West Slope",
+	"State": "OR",
+	"latitude": 45.4962,
+	"longitude": -122.7731
+},
+{
+	"City": "Junction City",
+	"State": "OR",
+	"latitude": 44.2067,
+	"longitude": -123.2101
+},
+{
+	"City": "Veneta",
+	"State": "OR",
+	"latitude": 44.0471,
+	"longitude": -123.3514
+},
+{
+	"City": "Talent",
+	"State": "OR",
+	"latitude": 42.2404,
+	"longitude": -122.7807
+},
+{
+	"City": "Raleigh Hills",
+	"State": "OR",
+	"latitude": 45.4852,
+	"longitude": -122.7567
+},
+{
+	"City": "Deschutes River Woods",
+	"State": "OR",
+	"latitude": 43.9887,
+	"longitude": -121.3608
+},
+{
+	"City": "Warrenton",
+	"State": "OR",
+	"latitude": 46.1685,
+	"longitude": -123.9302
+},
+{
+	"City": "Philomath",
+	"State": "OR",
+	"latitude": 44.5422,
+	"longitude": -123.3599
+},
+{
+	"City": "Winston",
+	"State": "OR",
+	"latitude": 43.12,
+	"longitude": -123.4242
+},
+{
+	"City": "Estacada",
+	"State": "OR",
+	"latitude": 45.2987,
+	"longitude": -122.3338
+},
+{
+	"City": "Roseburg North",
+	"State": "OR",
+	"latitude": 43.2653,
+	"longitude": -123.3025
+},
+{
+	"City": "Phoenix",
+	"State": "OR",
+	"latitude": 42.2748,
+	"longitude": -122.8151
+},
+{
+	"City": "Mount Hood Village",
+	"State": "OR",
+	"latitude": 45.3433,
+	"longitude": -121.9832
+},
+{
+	"City": "Reedsport",
+	"State": "OR",
+	"latitude": 43.6983,
+	"longitude": -124.1122
+},
+{
+	"City": "Coquille",
+	"State": "OR",
+	"latitude": 43.1802,
+	"longitude": -124.1841
+},
+{
+	"City": "King City",
+	"State": "OR",
+	"latitude": 45.4011,
+	"longitude": -122.8071
+},
+{
+	"City": "Aumsville",
+	"State": "OR",
+	"latitude": 44.8462,
+	"longitude": -122.8698
+},
+{
+	"City": "Lafayette",
+	"State": "OR",
+	"latitude": 45.2463,
+	"longitude": -123.1116
+},
+{
+	"City": "Tri-City",
+	"State": "OR",
+	"latitude": 42.9893,
+	"longitude": -123.3
+},
+{
+	"City": "Burns",
+	"State": "OR",
+	"latitude": 43.5883,
+	"longitude": -119.0613
+},
+{
+	"City": "Wood Village",
+	"State": "OR",
+	"latitude": 45.5358,
+	"longitude": -122.4205
+},
+{
+	"City": "Beavercreek",
+	"State": "OR",
+	"latitude": 45.2756,
+	"longitude": -122.5136
+},
+{
+	"City": "Crooked River Ranch",
+	"State": "OR",
+	"latitude": 44.4242,
+	"longitude": -121.2757
+},
+{
+	"City": "Harrisburg",
+	"State": "OR",
+	"latitude": 44.2718,
+	"longitude": -123.1656
+},
+{
+	"City": "Mount Angel",
+	"State": "OR",
+	"latitude": 45.0694,
+	"longitude": -122.797
+},
+{
+	"City": "Boardman",
+	"State": "OR",
+	"latitude": 45.8372,
+	"longitude": -119.6957
+},
+{
+	"City": "Metzger",
+	"State": "OR",
+	"latitude": 45.4492,
+	"longitude": -122.7623
+},
+{
+	"City": "Waldport",
+	"State": "OR",
+	"latitude": 44.4173,
+	"longitude": -124.0664
+},
+{
+	"City": "Toledo",
+	"State": "OR",
+	"latitude": 44.6198,
+	"longitude": -123.9341
+},
+{
+	"City": "Shady Cove",
+	"State": "OR",
+	"latitude": 42.6115,
+	"longitude": -122.8178
+},
+{
+	"City": "Hubbard",
+	"State": "OR",
+	"latitude": 45.1818,
+	"longitude": -122.8073
+},
+{
+	"City": "Myrtle Creek",
+	"State": "OR",
+	"latitude": 43.0226,
+	"longitude": -123.2812
+},
+{
+	"City": "Carlton",
+	"State": "OR",
+	"latitude": 45.2945,
+	"longitude": -123.1753
+},
+{
+	"City": "Nyssa",
+	"State": "OR",
+	"latitude": 43.8776,
+	"longitude": -116.9951
+},
+{
+	"City": "Oakridge",
+	"State": "OR",
+	"latitude": 43.745,
+	"longitude": -122.4637
+},
+{
+	"City": "Jefferson",
+	"State": "OR",
+	"latitude": 44.7171,
+	"longitude": -123.0069
+},
+{
+	"City": "Dundee",
+	"State": "OR",
+	"latitude": 45.2759,
+	"longitude": -123.0072
+},
+{
+	"City": "Warm Springs",
+	"State": "OR",
+	"latitude": 44.7669,
+	"longitude": -121.2899
+},
+{
+	"City": "Three Rivers",
+	"State": "OR",
+	"latitude": 43.8366,
+	"longitude": -121.4646
+},
+{
+	"City": "Bandon",
+	"State": "OR",
+	"latitude": 43.1141,
+	"longitude": -124.4157
+},
+{
+	"City": "Redwood",
+	"State": "OR",
+	"latitude": 42.4219,
+	"longitude": -123.3915
+},
+{
+	"City": "Lakeview",
+	"State": "OR",
+	"latitude": 42.1918,
+	"longitude": -120.3528
+},
+{
+	"City": "Jacksonville",
+	"State": "OR",
+	"latitude": 42.3127,
+	"longitude": -122.9692
+},
+{
+	"City": "Gold Beach",
+	"State": "OR",
+	"latitude": 42.3974,
+	"longitude": -124.4171
+},
+{
+	"City": "Eagle Crest",
+	"State": "OR",
+	"latitude": 44.2614,
+	"longitude": -121.2995
+},
+{
+	"City": "Sisters",
+	"State": "OR",
+	"latitude": 44.292,
+	"longitude": -121.5534
+},
+{
+	"City": "Sublimity",
+	"State": "OR",
+	"latitude": 44.8293,
+	"longitude": -122.7925
+},
+{
+	"City": "Gervais",
+	"State": "OR",
+	"latitude": 45.1078,
+	"longitude": -122.8962
+},
+{
+	"City": "Dayton",
+	"State": "OR",
+	"latitude": 45.2198,
+	"longitude": -123.0781
+},
+{
+	"City": "Irrigon",
+	"State": "OR",
+	"latitude": 45.8959,
+	"longitude": -119.4883
+},
+{
+	"City": "Myrtle Point",
+	"State": "OR",
+	"latitude": 43.0617,
+	"longitude": -124.1326
+},
+{
+	"City": "Millersburg",
+	"State": "OR",
+	"latitude": 44.6779,
+	"longitude": -123.0691
+},
+{
+	"City": "Bunker Hill",
+	"State": "OR",
+	"latitude": 43.3502,
+	"longitude": -124.2082
+},
+{
+	"City": "Odell",
+	"State": "OR",
+	"latitude": 45.6354,
+	"longitude": -121.5522
+},
+{
+	"City": "Mulino",
+	"State": "OR",
+	"latitude": 45.2235,
+	"longitude": -122.5616
+},
+{
+	"City": "Rogue River",
+	"State": "OR",
+	"latitude": 42.4354,
+	"longitude": -123.1683
+},
+{
+	"City": "Vernonia",
+	"State": "OR",
+	"latitude": 45.8611,
+	"longitude": -123.1834
+},
+{
+	"City": "Willamina",
+	"State": "OR",
+	"latitude": 45.0786,
+	"longitude": -123.4847
+},
+{
+	"City": "Union",
+	"State": "OR",
+	"latitude": 45.2089,
+	"longitude": -117.8679
+},
+{
+	"City": "North Plains",
+	"State": "OR",
+	"latitude": 45.5974,
+	"longitude": -122.9946
+},
+{
+	"City": "Turner",
+	"State": "OR",
+	"latitude": 44.8489,
+	"longitude": -122.9517
+},
+{
+	"City": "Stanfield",
+	"State": "OR",
+	"latitude": 45.7849,
+	"longitude": -119.219
+},
+{
+	"City": "Lincoln Beach",
+	"State": "OR",
+	"latitude": 44.8746,
+	"longitude": -124.031
+},
+{
+	"City": "Banks",
+	"State": "OR",
+	"latitude": 45.6148,
+	"longitude": -123.1064
+},
+{
+	"City": "Columbia City",
+	"State": "OR",
+	"latitude": 45.895,
+	"longitude": -122.8115
+},
+{
+	"City": "Rainier",
+	"State": "OR",
+	"latitude": 46.0768,
+	"longitude": -122.9404
+},
+{
+	"City": "Enterprise",
+	"State": "OR",
+	"latitude": 45.4258,
+	"longitude": -117.2789
+},
+{
+	"City": "Cave Junction",
+	"State": "OR",
+	"latitude": 42.1672,
+	"longitude": -123.6474
+},
+{
+	"City": "Mill City",
+	"State": "OR",
+	"latitude": 44.7519,
+	"longitude": -122.4779
+},
+{
+	"City": "Canyonville",
+	"State": "OR",
+	"latitude": 42.9274,
+	"longitude": -123.2781
+},
+{
+	"City": "Harbor",
+	"State": "OR",
+	"latitude": 42.0386,
+	"longitude": -124.2516
+},
+{
+	"City": "Chenoweth",
+	"State": "OR",
+	"latitude": 45.6206,
+	"longitude": -121.2363
+},
+{
+	"City": "Warren",
+	"State": "OR",
+	"latitude": 45.8133,
+	"longitude": -122.8797
+},
+{
+	"City": "La Pine",
+	"State": "OR",
+	"latitude": 43.6866,
+	"longitude": -121.4856
+},
+{
+	"City": "Durham",
+	"State": "OR",
+	"latitude": 45.3941,
+	"longitude": -122.758
+},
+{
+	"City": "Merlin",
+	"State": "OR",
+	"latitude": 42.5204,
+	"longitude": -123.4253
+},
+{
+	"City": "Barview",
+	"State": "OR",
+	"latitude": 43.347,
+	"longitude": -124.3073
+},
+{
+	"City": "Clatskanie",
+	"State": "OR",
+	"latitude": 46.1047,
+	"longitude": -123.2045
+},
+{
+	"City": "Brownsville",
+	"State": "OR",
+	"latitude": 44.3923,
+	"longitude": -122.9833
+},
+{
+	"City": "Vale",
+	"State": "OR",
+	"latitude": 43.984,
+	"longitude": -117.2418
+},
+{
+	"City": "Lakeside",
+	"State": "OR",
+	"latitude": 43.5795,
+	"longitude": -124.1732
+},
+{
+	"City": "Elgin",
+	"State": "OR",
+	"latitude": 45.5643,
+	"longitude": -117.9212
+},
+{
+	"City": "Cannon Beach",
+	"State": "OR",
+	"latitude": 45.8884,
+	"longitude": -123.9602
+},
+{
+	"City": "Stafford",
+	"State": "OR",
+	"latitude": 45.3786,
+	"longitude": -122.6823
+},
+{
+	"City": "Amity",
+	"State": "OR",
+	"latitude": 45.1155,
+	"longitude": -123.2034
+},
+{
+	"City": "Culver",
+	"State": "OR",
+	"latitude": 44.5234,
+	"longitude": -121.211
+},
+{
+	"City": "John Day",
+	"State": "OR",
+	"latitude": 44.4181,
+	"longitude": -118.9535
+},
+{
+	"City": "Terrebonne",
+	"State": "OR",
+	"latitude": 44.3533,
+	"longitude": -121.1807
+},
+{
+	"City": "Gearhart",
+	"State": "OR",
+	"latitude": 46.0289,
+	"longitude": -123.9174
+},
+{
+	"City": "Grand Ronde",
+	"State": "OR",
+	"latitude": 45.0739,
+	"longitude": -123.621
+},
+{
+	"City": "New Hope",
+	"State": "OR",
+	"latitude": 42.3693,
+	"longitude": -123.359
+},
+{
+	"City": "Hines",
+	"State": "OR",
+	"latitude": 43.557,
+	"longitude": -119.0803
+},
+{
+	"City": "Pilot Rock",
+	"State": "OR",
+	"latitude": 45.4961,
+	"longitude": -118.8332
+},
+{
+	"City": "Depoe Bay",
+	"State": "OR",
+	"latitude": 44.8091,
+	"longitude": -124.0599
+},
+{
+	"City": "Rockaway Beach",
+	"State": "OR",
+	"latitude": 45.6186,
+	"longitude": -123.9398
+},
+{
+	"City": "Dunes City",
+	"State": "OR",
+	"latitude": 43.9079,
+	"longitude": -124.0985
+},
+{
+	"City": "Bay City",
+	"State": "OR",
+	"latitude": 45.5216,
+	"longitude": -123.8858
+},
+{
+	"City": "Williams",
+	"State": "OR",
+	"latitude": 42.2194,
+	"longitude": -123.2922
+},
+{
+	"City": "Glide",
+	"State": "OR",
+	"latitude": 43.3029,
+	"longitude": -123.0666
+},
+{
+	"City": "Tangent",
+	"State": "OR",
+	"latitude": 44.5477,
+	"longitude": -123.1109
+},
+{
+	"City": "Siletz",
+	"State": "OR",
+	"latitude": 44.7219,
+	"longitude": -123.9187
+},
+{
+	"City": "Gold Hill",
+	"State": "OR",
+	"latitude": 42.4358,
+	"longitude": -123.0526
+},
+{
+	"City": "Sunriver",
+	"State": "OR",
+	"latitude": 43.8816,
+	"longitude": -121.4368
+},
+{
+	"City": "Lyons",
+	"State": "OR",
+	"latitude": 44.7776,
+	"longitude": -122.6098
+},
+{
+	"City": "Heppner",
+	"State": "OR",
+	"latitude": 45.3547,
+	"longitude": -119.5559
+},
+{
+	"City": "Riddle",
+	"State": "OR",
+	"latitude": 42.9542,
+	"longitude": -123.3646
+},
+{
+	"City": "Drain",
+	"State": "OR",
+	"latitude": 43.662,
+	"longitude": -123.3142
+},
+{
+	"City": "Lowell",
+	"State": "OR",
+	"latitude": 43.9209,
+	"longitude": -122.7819
+},
+{
+	"City": "Coburg",
+	"State": "OR",
+	"latitude": 44.1393,
+	"longitude": -123.0588
+},
+{
+	"City": "Rose Lodge",
+	"State": "OR",
+	"latitude": 45.0187,
+	"longitude": -123.8881
+},
+{
+	"City": "Yamhill",
+	"State": "OR",
+	"latitude": 45.3412,
+	"longitude": -123.1851
+},
+{
+	"City": "Cascade Locks",
+	"State": "OR",
+	"latitude": 45.6763,
+	"longitude": -121.8719
+},
+{
+	"City": "Port Orford",
+	"State": "OR",
+	"latitude": 42.7497,
+	"longitude": -124.4973
+},
+{
+	"City": "Athena",
+	"State": "OR",
+	"latitude": 45.8132,
+	"longitude": -118.4924
+},
+{
+	"City": "Joseph",
+	"State": "OR",
+	"latitude": 45.3526,
+	"longitude": -117.2303
+},
+{
+	"City": "Yoncalla",
+	"State": "OR",
+	"latitude": 43.6004,
+	"longitude": -123.2876
+},
+{
+	"City": "Pacific City",
+	"State": "OR",
+	"latitude": 45.2054,
+	"longitude": -123.9536
+},
+{
+	"City": "Donald",
+	"State": "OR",
+	"latitude": 45.2227,
+	"longitude": -122.8388
+},
+{
+	"City": "Falls City",
+	"State": "OR",
+	"latitude": 44.8648,
+	"longitude": -123.4372
+},
+{
+	"City": "Aurora",
+	"State": "OR",
+	"latitude": 45.2285,
+	"longitude": -122.7572
+},
+{
+	"City": "Island City",
+	"State": "OR",
+	"latitude": 45.3359,
+	"longitude": -118.0495
+},
+{
+	"City": "Scio",
+	"State": "OR",
+	"latitude": 44.7046,
+	"longitude": -122.8508
+},
+{
+	"City": "Halsey",
+	"State": "OR",
+	"latitude": 44.3829,
+	"longitude": -123.1095
+},
+{
+	"City": "Ruch",
+	"State": "OR",
+	"latitude": 42.2314,
+	"longitude": -123.0403
+},
+{
+	"City": "Lookingglass",
+	"State": "OR",
+	"latitude": 43.1848,
+	"longitude": -123.4999
+},
+{
+	"City": "South Lebanon",
+	"State": "OR",
+	"latitude": 44.5054,
+	"longitude": -122.8959
+},
+{
+	"City": "Oakland",
+	"State": "OR",
+	"latitude": 43.4234,
+	"longitude": -123.2968
+},
+{
+	"City": "Bayside Gardens",
+	"State": "OR",
+	"latitude": 45.7143,
+	"longitude": -123.9166
+},
+{
+	"City": "Glendale",
+	"State": "OR",
+	"latitude": 42.7381,
+	"longitude": -123.4294
+},
+{
+	"City": "Prairie City",
+	"State": "OR",
+	"latitude": 44.4611,
+	"longitude": -118.7094
+},
+{
+	"City": "Adair Village",
+	"State": "OR",
+	"latitude": 44.6707,
+	"longitude": -123.2159
+},
+{
+	"City": "Merrill",
+	"State": "OR",
+	"latitude": 42.026,
+	"longitude": -121.6008
+},
+{
+	"City": "Mission",
+	"State": "OR",
+	"latitude": 45.6586,
+	"longitude": -118.6654
+},
+{
+	"City": "Maywood Park",
+	"State": "OR",
+	"latitude": 45.5524,
+	"longitude": -122.5617
+},
+{
+	"City": "Wallowa",
+	"State": "OR",
+	"latitude": 45.5704,
+	"longitude": -117.5286
+},
+{
+	"City": "Malin",
+	"State": "OR",
+	"latitude": 42.0133,
+	"longitude": -121.4098
+},
+{
+	"City": "Garibaldi",
+	"State": "OR",
+	"latitude": 45.5607,
+	"longitude": -123.9111
+},
+{
+	"City": "Metolius",
+	"State": "OR",
+	"latitude": 44.5875,
+	"longitude": -121.176
+},
+{
+	"City": "Yachats",
+	"State": "OR",
+	"latitude": 44.3126,
+	"longitude": -124.1022
+},
+{
+	"City": "Netarts",
+	"State": "OR",
+	"latitude": 45.4356,
+	"longitude": -123.9344
+},
+{
+	"City": "Tetherow",
+	"State": "OR",
+	"latitude": 44.0389,
+	"longitude": -121.3665
+},
+{
+	"City": "Chiloquin",
+	"State": "OR",
+	"latitude": 42.5764,
+	"longitude": -121.8677
+},
+{
+	"City": "Glasgow",
+	"State": "OR",
+	"latitude": 43.4371,
+	"longitude": -124.1961
+},
+{
+	"City": "Gaston",
+	"State": "OR",
+	"latitude": 45.4348,
+	"longitude": -123.1449
+},
+{
+	"City": "Crabtree",
+	"State": "OR",
+	"latitude": 44.6377,
+	"longitude": -122.9059
+},
+{
+	"City": "Echo",
+	"State": "OR",
+	"latitude": 45.7431,
+	"longitude": -119.1919
+},
+{
+	"City": "Condon",
+	"State": "OR",
+	"latitude": 45.2366,
+	"longitude": -120.1859
+},
+{
+	"City": "Powers",
+	"State": "OR",
+	"latitude": 42.8859,
+	"longitude": -124.0734
+},
+{
+	"City": "Canyon City",
+	"State": "OR",
+	"latitude": 44.393,
+	"longitude": -118.9494
+},
+{
+	"City": "Manzanita",
+	"State": "OR",
+	"latitude": 45.7165,
+	"longitude": -123.9352
+},
+{
+	"City": "Monroe",
+	"State": "OR",
+	"latitude": 44.3168,
+	"longitude": -123.2989
+},
+{
+	"City": "Cove",
+	"State": "OR",
+	"latitude": 45.2964,
+	"longitude": -117.8102
+},
+{
+	"City": "Weston",
+	"State": "OR",
+	"latitude": 45.8165,
+	"longitude": -118.4258
+},
+{
+	"City": "Melrose",
+	"State": "OR",
+	"latitude": 43.2529,
+	"longitude": -123.4575
+},
+{
+	"City": "Dufur",
+	"State": "OR",
+	"latitude": 45.453,
+	"longitude": -121.1289
+},
+{
+	"City": "O'Brien",
+	"State": "OR",
+	"latitude": 42.0702,
+	"longitude": -123.7077
+},
+{
+	"City": "Johnson City",
+	"State": "OR",
+	"latitude": 45.4045,
+	"longitude": -122.5795
+},
+{
+	"City": "Foots Creek",
+	"State": "OR",
+	"latitude": 42.3845,
+	"longitude": -123.1408
+},
+{
+	"City": "Arlington",
+	"State": "OR",
+	"latitude": 45.7207,
+	"longitude": -120.1888
+},
+{
+	"City": "Selma",
+	"State": "OR",
+	"latitude": 42.2797,
+	"longitude": -123.6151
+},
+{
+	"City": "Gardiner",
+	"State": "OR",
+	"latitude": 43.7327,
+	"longitude": -124.1068
+},
+{
+	"City": "Kerby",
+	"State": "OR",
+	"latitude": 42.2046,
+	"longitude": -123.6489
+},
+{
+	"City": "Dillard",
+	"State": "OR",
+	"latitude": 43.1082,
+	"longitude": -123.4262
+},
+{
+	"City": "Trail",
+	"State": "OR",
+	"latitude": 42.6568,
+	"longitude": -122.8135
+},
+{
+	"City": "Oceanside",
+	"State": "OR",
+	"latitude": 45.4549,
+	"longitude": -123.961
+},
+{
+	"City": "Tumalo",
+	"State": "OR",
+	"latitude": 44.1561,
+	"longitude": -121.328
+},
+{
+	"City": "Marion",
+	"State": "OR",
+	"latitude": 44.7513,
+	"longitude": -122.9277
+},
+{
+	"City": "Labish Village",
+	"State": "OR",
+	"latitude": 45.0191,
+	"longitude": -122.9736
+},
+{
+	"City": "Gates",
+	"State": "OR",
+	"latitude": 44.7561,
+	"longitude": -122.4201
+},
+{
+	"City": "Mount Vernon",
+	"State": "OR",
+	"latitude": 44.4169,
+	"longitude": -119.1132
+},
+{
+	"City": "Brooks",
+	"State": "OR",
+	"latitude": 45.0509,
+	"longitude": -122.9575
+},
+{
+	"City": "Pine Hollow",
+	"State": "OR",
+	"latitude": 45.242,
+	"longitude": -121.291
+},
+{
+	"City": "Lacomb",
+	"State": "OR",
+	"latitude": 44.5844,
+	"longitude": -122.7417
+},
+{
+	"City": "Prospect",
+	"State": "OR",
+	"latitude": 42.7526,
+	"longitude": -122.4757
+},
+{
+	"City": "Takilma",
+	"State": "OR",
+	"latitude": 42.0409,
+	"longitude": -123.6222
+},
+{
+	"City": "Mosier",
+	"State": "OR",
+	"latitude": 45.685,
+	"longitude": -121.395
+},
+{
+	"City": "North Powder",
+	"State": "OR",
+	"latitude": 45.03,
+	"longitude": -117.9205
+},
+{
+	"City": "Butte Falls",
+	"State": "OR",
+	"latitude": 42.5414,
+	"longitude": -122.5692
+},
+{
+	"City": "St. Paul",
+	"State": "OR",
+	"latitude": 45.2122,
+	"longitude": -122.9772
+},
+{
+	"City": "Wimer",
+	"State": "OR",
+	"latitude": 42.5446,
+	"longitude": -123.148
+},
+{
+	"City": "Maupin",
+	"State": "OR",
+	"latitude": 45.1731,
+	"longitude": -121.0882
+},
+{
+	"City": "Wheeler",
+	"State": "OR",
+	"latitude": 45.6874,
+	"longitude": -123.8871
+},
+{
+	"City": "Fossil",
+	"State": "OR",
+	"latitude": 44.9981,
+	"longitude": -120.2146
+},
+{
+	"City": "Huntington",
+	"State": "OR",
+	"latitude": 44.3502,
+	"longitude": -117.2668
+},
+{
+	"City": "Bonanza",
+	"State": "OR",
+	"latitude": 42.2003,
+	"longitude": -121.4066
+},
+{
+	"City": "Haines",
+	"State": "OR",
+	"latitude": 44.9123,
+	"longitude": -117.9396
+},
+{
+	"City": "Mount Hood",
+	"State": "OR",
+	"latitude": 45.5339,
+	"longitude": -121.5662
+},
+{
+	"City": "Wasco",
+	"State": "OR",
+	"latitude": 45.5916,
+	"longitude": -120.6975
+},
+{
+	"City": "Crawfordsville",
+	"State": "OR",
+	"latitude": 44.3562,
+	"longitude": -122.8649
+},
+{
+	"City": "Holley",
+	"State": "OR",
+	"latitude": 44.349,
+	"longitude": -122.7855
+},
+{
+	"City": "Gopher Flats",
+	"State": "OR",
+	"latitude": 45.6658,
+	"longitude": -118.7225
+},
+{
+	"City": "Shedd",
+	"State": "OR",
+	"latitude": 44.4579,
+	"longitude": -123.1119
+},
+{
+	"City": "Scotts Mills",
+	"State": "OR",
+	"latitude": 45.041,
+	"longitude": -122.6689
+},
+{
+	"City": "Tutuilla",
+	"State": "OR",
+	"latitude": 45.6142,
+	"longitude": -118.7065
+},
+{
+	"City": "Rivergrove",
+	"State": "OR",
+	"latitude": 45.385,
+	"longitude": -122.7329
+},
+{
+	"City": "Seventh Mountain",
+	"State": "OR",
+	"latitude": 44.005,
+	"longitude": -121.3825
+},
+{
+	"City": "Westport",
+	"State": "OR",
+	"latitude": 46.1303,
+	"longitude": -123.3715
+},
+{
+	"City": "Umapine",
+	"State": "OR",
+	"latitude": 45.976,
+	"longitude": -118.5009
+},
+{
+	"City": "Adams",
+	"State": "OR",
+	"latitude": 45.7663,
+	"longitude": -118.5641
+},
+{
+	"City": "Jeffers Gardens",
+	"State": "OR",
+	"latitude": 46.1518,
+	"longitude": -123.852
+},
+{
+	"City": "Sodaville",
+	"State": "OR",
+	"latitude": 44.4831,
+	"longitude": -122.8691
+},
+{
+	"City": "Fair Oaks",
+	"State": "OR",
+	"latitude": 43.4109,
+	"longitude": -123.2194
+},
+{
+	"City": "Butteville",
+	"State": "OR",
+	"latitude": 45.2562,
+	"longitude": -122.8357
+},
+{
+	"City": "Winchester Bay",
+	"State": "OR",
+	"latitude": 43.6729,
+	"longitude": -124.1828
+},
+{
+	"City": "Ione",
+	"State": "OR",
+	"latitude": 45.503,
+	"longitude": -119.8207
+},
+{
+	"City": "Moro",
+	"State": "OR",
+	"latitude": 45.4837,
+	"longitude": -120.7333
+},
+{
+	"City": "Parkdale",
+	"State": "OR",
+	"latitude": 45.5131,
+	"longitude": -121.5921
+},
+{
+	"City": "Imbler",
+	"State": "OR",
+	"latitude": 45.4622,
+	"longitude": -117.9631
+},
+{
+	"City": "Nesika Beach",
+	"State": "OR",
+	"latitude": 42.5045,
+	"longitude": -124.4065
+},
+{
+	"City": "Idaville",
+	"State": "OR",
+	"latitude": 45.5097,
+	"longitude": -123.8633
+},
+{
+	"City": "Nehalem",
+	"State": "OR",
+	"latitude": 45.7196,
+	"longitude": -123.8941
+},
+{
+	"City": "Halfway",
+	"State": "OR",
+	"latitude": 44.8777,
+	"longitude": -117.1094
+},
+{
+	"City": "Annex",
+	"State": "OR",
+	"latitude": 44.2346,
+	"longitude": -116.9922
+},
+{
+	"City": "Westfir",
+	"State": "OR",
+	"latitude": 43.7579,
+	"longitude": -122.5095
+},
+{
+	"City": "Days Creek",
+	"State": "OR",
+	"latitude": 42.9705,
+	"longitude": -123.1656
+},
+{
+	"City": "Rowena",
+	"State": "OR",
+	"latitude": 45.6701,
+	"longitude": -121.2749
+},
+{
+	"City": "Waterloo",
+	"State": "OR",
+	"latitude": 44.4948,
+	"longitude": -122.8243
+},
+{
+	"City": "Rufus",
+	"State": "OR",
+	"latitude": 45.6919,
+	"longitude": -120.7433
+},
+{
+	"City": "Paisley",
+	"State": "OR",
+	"latitude": 42.6926,
+	"longitude": -120.5452
+},
+{
+	"City": "Peoria",
+	"State": "OR",
+	"latitude": 44.4507,
+	"longitude": -123.2043
+},
+{
+	"City": "Lexington",
+	"State": "OR",
+	"latitude": 45.4462,
+	"longitude": -119.6879
+},
+{
+	"City": "Alsea",
+	"State": "OR",
+	"latitude": 44.3818,
+	"longitude": -123.5958
+},
+{
+	"City": "Seneca",
+	"State": "OR",
+	"latitude": 44.1352,
+	"longitude": -118.9763
+},
+{
+	"City": "Detroit",
+	"State": "OR",
+	"latitude": 44.7338,
+	"longitude": -122.1512
+},
+{
+	"City": "Mehama",
+	"State": "OR",
+	"latitude": 44.7914,
+	"longitude": -122.6305
+},
+{
+	"City": "Lostine",
+	"State": "OR",
+	"latitude": 45.4866,
+	"longitude": -117.4294
+},
+{
+	"City": "Camp Sherman",
+	"State": "OR",
+	"latitude": 44.4492,
+	"longitude": -121.6496
+},
+{
+	"City": "Ukiah",
+	"State": "OR",
+	"latitude": 45.1344,
+	"longitude": -118.933
+},
+{
+	"City": "Sumpter",
+	"State": "OR",
+	"latitude": 44.7435,
+	"longitude": -118.1975
+},
+{
+	"City": "Black Butte Ranch",
+	"State": "OR",
+	"latitude": 44.3577,
+	"longitude": -121.6588
+},
+{
+	"City": "Summit",
+	"State": "OR",
+	"latitude": 44.6361,
+	"longitude": -123.5768
+},
+{
+	"City": "Elkton",
+	"State": "OR",
+	"latitude": 43.6378,
+	"longitude": -123.5687
+},
+{
+	"City": "Long Creek",
+	"State": "OR",
+	"latitude": 44.7142,
+	"longitude": -119.1043
+},
+{
+	"City": "Helix",
+	"State": "OR",
+	"latitude": 45.8506,
+	"longitude": -118.659
+},
+{
+	"City": "Alpine",
+	"State": "OR",
+	"latitude": 44.3307,
+	"longitude": -123.3625
+},
+{
+	"City": "Hebo",
+	"State": "OR",
+	"latitude": 45.2261,
+	"longitude": -123.8586
+},
+{
+	"City": "Tygh Valley",
+	"State": "OR",
+	"latitude": 45.2417,
+	"longitude": -121.1693
+},
+{
+	"City": "Jordan Valley",
+	"State": "OR",
+	"latitude": 42.9793,
+	"longitude": -117.0574
+},
+{
+	"City": "Richland",
+	"State": "OR",
+	"latitude": 44.7683,
+	"longitude": -117.1664
+},
+{
+	"City": "Cloverdale",
+	"State": "OR",
+	"latitude": 45.2006,
+	"longitude": -123.8842
+},
+{
+	"City": "Government Camp",
+	"State": "OR",
+	"latitude": 45.3022,
+	"longitude": -121.7528
+},
+{
+	"City": "Adrian",
+	"State": "OR",
+	"latitude": 43.7408,
+	"longitude": -117.0709
+},
+{
+	"City": "Neahkahnie",
+	"State": "OR",
+	"latitude": 45.7324,
+	"longitude": -123.9399
+},
+{
+	"City": "Grass Valley",
+	"State": "OR",
+	"latitude": 45.3591,
+	"longitude": -120.7841
+},
+{
+	"City": "Riverside",
+	"State": "OR",
+	"latitude": 45.6768,
+	"longitude": -118.7368
+},
+{
+	"City": "Neskowin",
+	"State": "OR",
+	"latitude": 45.1208,
+	"longitude": -123.9766
+},
+{
+	"City": "Idanha",
+	"State": "OR",
+	"latitude": 44.7049,
+	"longitude": -122.0878
+},
+{
+	"City": "Spray",
+	"State": "OR",
+	"latitude": 44.8335,
+	"longitude": -119.7947
+},
+{
+	"City": "Deer Island",
+	"State": "OR",
+	"latitude": 45.9332,
+	"longitude": -122.8501
+},
+{
+	"City": "Barlow",
+	"State": "OR",
+	"latitude": 45.2523,
+	"longitude": -122.7224
+},
+{
+	"City": "Dayville",
+	"State": "OR",
+	"latitude": 44.4667,
+	"longitude": -119.5321
+},
+{
+	"City": "Summerville",
+	"State": "OR",
+	"latitude": 45.4898,
+	"longitude": -118.0041
+},
+{
+	"City": "Harper",
+	"State": "OR",
+	"latitude": 43.8569,
+	"longitude": -117.6265
+},
+{
+	"City": "Langlois",
+	"State": "OR",
+	"latitude": 42.9259,
+	"longitude": -124.4532
+},
+{
+	"City": "Kirkpatrick",
+	"State": "OR",
+	"latitude": 45.6796,
+	"longitude": -118.6499
+},
+{
+	"City": "Kings Valley",
+	"State": "OR",
+	"latitude": 44.698,
+	"longitude": -123.4265
+},
+{
+	"City": "Pistol River",
+	"State": "OR",
+	"latitude": 42.2838,
+	"longitude": -124.3991
+},
+{
+	"City": "Monument",
+	"State": "OR",
+	"latitude": 44.8209,
+	"longitude": -119.4208
+},
+{
+	"City": "Mitchell",
+	"State": "OR",
+	"latitude": 44.5703,
+	"longitude": -120.1537
+},
+{
+	"City": "Cascadia",
+	"State": "OR",
+	"latitude": 44.3931,
+	"longitude": -122.5027
+},
+{
+	"City": "Crane",
+	"State": "OR",
+	"latitude": 43.4179,
+	"longitude": -118.5874
+},
+{
+	"City": "West Scio",
+	"State": "OR",
+	"latitude": 44.7098,
+	"longitude": -122.8812
+},
+{
+	"City": "Silver Lake",
+	"State": "OR",
+	"latitude": 43.1264,
+	"longitude": -121.0495
+},
+{
+	"City": "Beaver",
+	"State": "OR",
+	"latitude": 45.278,
+	"longitude": -123.8221
+},
+{
+	"City": "Pine Grove",
+	"State": "OR",
+	"latitude": 45.1136,
+	"longitude": -121.3553
+},
+{
+	"City": "Plush",
+	"State": "OR",
+	"latitude": 42.4051,
+	"longitude": -119.8993
+},
+{
+	"City": "Fort Hill",
+	"State": "OR",
+	"latitude": 45.067,
+	"longitude": -123.5605
+},
+{
+	"City": "New Pine Creek",
+	"State": "OR",
+	"latitude": 42.0014,
+	"longitude": -120.3043
+},
+{
+	"City": "Cape Meares",
+	"State": "OR",
+	"latitude": 45.5153,
+	"longitude": -123.9536
+},
+{
+	"City": "Wamic",
+	"State": "OR",
+	"latitude": 45.2256,
+	"longitude": -121.2927
+},
+{
+	"City": "Unity",
+	"State": "OR",
+	"latitude": 44.449,
+	"longitude": -118.188
+},
+{
+	"City": "Prescott",
+	"State": "OR",
+	"latitude": 46.0487,
+	"longitude": -122.8879
+},
+{
+	"City": "Brogan",
+	"State": "OR",
+	"latitude": 44.2475,
+	"longitude": -117.5186
+},
+{
+	"City": "Antelope",
+	"State": "OR",
+	"latitude": 44.9113,
+	"longitude": -120.7236
+},
+{
+	"City": "Cayuse",
+	"State": "OR",
+	"latitude": 45.6765,
+	"longitude": -118.5735
+},
+{
+	"City": "Pronghorn",
+	"State": "OR",
+	"latitude": 44.1881,
+	"longitude": -121.1817
+},
+{
+	"City": "Shaniko",
+	"State": "OR",
+	"latitude": 45.0037,
+	"longitude": -120.7521
+},
+{
+	"City": "Granite",
+	"State": "OR",
+	"latitude": 44.81,
+	"longitude": -118.4187
+},
+{
+	"City": "Juntura",
+	"State": "OR",
+	"latitude": 43.7487,
+	"longitude": -118.0789
+},
+{
+	"City": "Wallowa Lake",
+	"State": "OR",
+	"latitude": 45.3041,
+	"longitude": -117.2117
+},
+{
+	"City": "Blodgett",
+	"State": "OR",
+	"latitude": 44.597,
+	"longitude": -123.521
+},
+{
+	"City": "Lonerock",
+	"State": "OR",
+	"latitude": 45.0888,
+	"longitude": -119.884
+},
+{
+	"City": "Bellfountain",
+	"State": "OR",
+	"latitude": 44.3654,
+	"longitude": -123.3559
+}]

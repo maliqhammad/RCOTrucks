@@ -1,0 +1,2365 @@
+[
+{
+	"City": "Charleston",
+	"State": "SC",
+	"latitude": 32.8153,
+	"longitude": -79.9628
+},
+{
+	"City": "Columbia",
+	"State": "SC",
+	"latitude": 34.0376,
+	"longitude": -80.9037
+},
+{
+	"City": "Greenville",
+	"State": "SC",
+	"latitude": 34.8353,
+	"longitude": -82.3647
+},
+{
+	"City": "Myrtle Beach",
+	"State": "SC",
+	"latitude": 33.7096,
+	"longitude": -78.8843
+},
+{
+	"City": "Spartanburg",
+	"State": "SC",
+	"latitude": 34.9437,
+	"longitude": -81.9257
+},
+{
+	"City": "Mauldin",
+	"State": "SC",
+	"latitude": 34.7849,
+	"longitude": -82.3005
+},
+{
+	"City": "Rock Hill",
+	"State": "SC",
+	"latitude": 34.9416,
+	"longitude": -81.0244
+},
+{
+	"City": "North Charleston",
+	"State": "SC",
+	"latitude": 32.9066,
+	"longitude": -80.0722
+},
+{
+	"City": "Florence",
+	"State": "SC",
+	"latitude": 34.1781,
+	"longitude": -79.7877
+},
+{
+	"City": "Mount Pleasant",
+	"State": "SC",
+	"latitude": 32.8538,
+	"longitude": -79.8204
+},
+{
+	"City": "Anderson",
+	"State": "SC",
+	"latitude": 34.5211,
+	"longitude": -82.6479
+},
+{
+	"City": "Hilton Head Island",
+	"State": "SC",
+	"latitude": 32.1896,
+	"longitude": -80.7499
+},
+{
+	"City": "Sumter",
+	"State": "SC",
+	"latitude": 33.9392,
+	"longitude": -80.393
+},
+{
+	"City": "Beaufort",
+	"State": "SC",
+	"latitude": 32.4597,
+	"longitude": -80.7235
+},
+{
+	"City": "Summerville",
+	"State": "SC",
+	"latitude": 33.0015,
+	"longitude": -80.1799
+},
+{
+	"City": "Goose Creek",
+	"State": "SC",
+	"latitude": 32.9925,
+	"longitude": -80.0054
+},
+{
+	"City": "Greenwood",
+	"State": "SC",
+	"latitude": 34.1945,
+	"longitude": -82.1542
+},
+{
+	"City": "Greer",
+	"State": "SC",
+	"latitude": 34.9313,
+	"longitude": -82.2315
+},
+{
+	"City": "Aiken",
+	"State": "SC",
+	"latitude": 33.531,
+	"longitude": -81.7268
+},
+{
+	"City": "Orangeburg",
+	"State": "SC",
+	"latitude": 33.4928,
+	"longitude": -80.867
+},
+{
+	"City": "Seneca",
+	"State": "SC",
+	"latitude": 34.6815,
+	"longitude": -82.9609
+},
+{
+	"City": "Hanahan",
+	"State": "SC",
+	"latitude": 32.9302,
+	"longitude": -80.0027
+},
+{
+	"City": "Conway",
+	"State": "SC",
+	"latitude": 33.8399,
+	"longitude": -79.0424
+},
+{
+	"City": "Lancaster",
+	"State": "SC",
+	"latitude": 34.7247,
+	"longitude": -80.7801
+},
+{
+	"City": "Bluffton",
+	"State": "SC",
+	"latitude": 32.2135,
+	"longitude": -80.9316
+},
+{
+	"City": "Socastee",
+	"State": "SC",
+	"latitude": 33.6871,
+	"longitude": -79.0086
+},
+{
+	"City": "Simpsonville",
+	"State": "SC",
+	"latitude": 34.7287,
+	"longitude": -82.2573
+},
+{
+	"City": "North Augusta",
+	"State": "SC",
+	"latitude": 33.5214,
+	"longitude": -81.9547
+},
+{
+	"City": "Fort Mill",
+	"State": "SC",
+	"latitude": 35.0062,
+	"longitude": -80.9388
+},
+{
+	"City": "Taylors",
+	"State": "SC",
+	"latitude": 34.9157,
+	"longitude": -82.3124
+},
+{
+	"City": "Lexington",
+	"State": "SC",
+	"latitude": 33.989,
+	"longitude": -81.2202
+},
+{
+	"City": "Easley",
+	"State": "SC",
+	"latitude": 34.819,
+	"longitude": -82.5828
+},
+{
+	"City": "Gaffney",
+	"State": "SC",
+	"latitude": 35.0742,
+	"longitude": -81.6558
+},
+{
+	"City": "St. Andrews",
+	"State": "SC",
+	"latitude": 34.051,
+	"longitude": -81.1057
+},
+{
+	"City": "Wade Hampton",
+	"State": "SC",
+	"latitude": 34.8821,
+	"longitude": -82.3336
+},
+{
+	"City": "West Columbia",
+	"State": "SC",
+	"latitude": 33.9931,
+	"longitude": -81.0932
+},
+{
+	"City": "Five Forks",
+	"State": "SC",
+	"latitude": 34.8069,
+	"longitude": -82.2271
+},
+{
+	"City": "Clemson",
+	"State": "SC",
+	"latitude": 34.6837,
+	"longitude": -82.8124
+},
+{
+	"City": "North Myrtle Beach",
+	"State": "SC",
+	"latitude": 33.823,
+	"longitude": -78.7089
+},
+{
+	"City": "Red Hill",
+	"State": "SC",
+	"latitude": 33.7777,
+	"longitude": -79.0111
+},
+{
+	"City": "Ladson",
+	"State": "SC",
+	"latitude": 33.0092,
+	"longitude": -80.1078
+},
+{
+	"City": "Seven Oaks",
+	"State": "SC",
+	"latitude": 34.0474,
+	"longitude": -81.1434
+},
+{
+	"City": "Dentsville",
+	"State": "SC",
+	"latitude": 34.0754,
+	"longitude": -80.9546
+},
+{
+	"City": "Gantt",
+	"State": "SC",
+	"latitude": 34.7837,
+	"longitude": -82.4027
+},
+{
+	"City": "Hartsville",
+	"State": "SC",
+	"latitude": 34.3676,
+	"longitude": -80.0833
+},
+{
+	"City": "Berea",
+	"State": "SC",
+	"latitude": 34.8802,
+	"longitude": -82.4653
+},
+{
+	"City": "Camden",
+	"State": "SC",
+	"latitude": 34.2565,
+	"longitude": -80.6087
+},
+{
+	"City": "Cayce",
+	"State": "SC",
+	"latitude": 33.9458,
+	"longitude": -81.0433
+},
+{
+	"City": "Port Royal",
+	"State": "SC",
+	"latitude": 32.3557,
+	"longitude": -80.7029
+},
+{
+	"City": "Lake Wylie",
+	"State": "SC",
+	"latitude": 35.0997,
+	"longitude": -81.0677
+},
+{
+	"City": "Irmo",
+	"State": "SC",
+	"latitude": 34.1018,
+	"longitude": -81.1957
+},
+{
+	"City": "Parker",
+	"State": "SC",
+	"latitude": 34.8514,
+	"longitude": -82.4512
+},
+{
+	"City": "James Island",
+	"State": "SC",
+	"latitude": 32.7353,
+	"longitude": -79.9396
+},
+{
+	"City": "Moncks Corner",
+	"State": "SC",
+	"latitude": 33.1631,
+	"longitude": -80.0135
+},
+{
+	"City": "Newberry",
+	"State": "SC",
+	"latitude": 34.2812,
+	"longitude": -81.601
+},
+{
+	"City": "Georgetown",
+	"State": "SC",
+	"latitude": 33.3595,
+	"longitude": -79.2958
+},
+{
+	"City": "Tega Cay",
+	"State": "SC",
+	"latitude": 35.039,
+	"longitude": -81.011
+},
+{
+	"City": "Bennettsville",
+	"State": "SC",
+	"latitude": 34.6303,
+	"longitude": -79.6874
+},
+{
+	"City": "Clinton",
+	"State": "SC",
+	"latitude": 34.4777,
+	"longitude": -81.8636
+},
+{
+	"City": "Oak Grove",
+	"State": "SC",
+	"latitude": 33.9809,
+	"longitude": -81.1438
+},
+{
+	"City": "Garden City",
+	"State": "SC",
+	"latitude": 33.5927,
+	"longitude": -79.007
+},
+{
+	"City": "Fountain Inn",
+	"State": "SC",
+	"latitude": 34.6994,
+	"longitude": -82.1999
+},
+{
+	"City": "Forest Acres",
+	"State": "SC",
+	"latitude": 34.0324,
+	"longitude": -80.9716
+},
+{
+	"City": "Red Bank",
+	"State": "SC",
+	"latitude": 33.9296,
+	"longitude": -81.2321
+},
+{
+	"City": "Laurens",
+	"State": "SC",
+	"latitude": 34.5022,
+	"longitude": -82.0207
+},
+{
+	"City": "Little River",
+	"State": "SC",
+	"latitude": 33.8787,
+	"longitude": -78.6393
+},
+{
+	"City": "Powdersville",
+	"State": "SC",
+	"latitude": 34.7825,
+	"longitude": -82.4958
+},
+{
+	"City": "Walterboro",
+	"State": "SC",
+	"latitude": 32.901,
+	"longitude": -80.676
+},
+{
+	"City": "Boiling Springs",
+	"State": "SC",
+	"latitude": 35.045,
+	"longitude": -81.9779
+},
+{
+	"City": "Woodfield",
+	"State": "SC",
+	"latitude": 34.0587,
+	"longitude": -80.9309
+},
+{
+	"City": "Sans Souci",
+	"State": "SC",
+	"latitude": 34.8901,
+	"longitude": -82.4241
+},
+{
+	"City": "Murrells Inlet",
+	"State": "SC",
+	"latitude": 33.5566,
+	"longitude": -79.0593
+},
+{
+	"City": "Union",
+	"State": "SC",
+	"latitude": 34.7235,
+	"longitude": -81.6248
+},
+{
+	"City": "Burton",
+	"State": "SC",
+	"latitude": 32.4233,
+	"longitude": -80.7454
+},
+{
+	"City": "Dillon",
+	"State": "SC",
+	"latitude": 34.4233,
+	"longitude": -79.3689
+},
+{
+	"City": "Chester",
+	"State": "SC",
+	"latitude": 34.705,
+	"longitude": -81.2132
+},
+{
+	"City": "York",
+	"State": "SC",
+	"latitude": 34.9967,
+	"longitude": -81.234
+},
+{
+	"City": "Clover",
+	"State": "SC",
+	"latitude": 35.1125,
+	"longitude": -81.2203
+},
+{
+	"City": "Lake City",
+	"State": "SC",
+	"latitude": 33.8676,
+	"longitude": -79.7533
+},
+{
+	"City": "Lugoff",
+	"State": "SC",
+	"latitude": 34.2216,
+	"longitude": -80.6849
+},
+{
+	"City": "Sangaree",
+	"State": "SC",
+	"latitude": 33.0328,
+	"longitude": -80.1253
+},
+{
+	"City": "Cheraw",
+	"State": "SC",
+	"latitude": 34.6955,
+	"longitude": -79.9085
+},
+{
+	"City": "Welcome",
+	"State": "SC",
+	"latitude": 34.8204,
+	"longitude": -82.46
+},
+{
+	"City": "Hardeeville",
+	"State": "SC",
+	"latitude": 32.2951,
+	"longitude": -81.0318
+},
+{
+	"City": "Centerville",
+	"State": "SC",
+	"latitude": 34.5256,
+	"longitude": -82.7161
+},
+{
+	"City": "Marion",
+	"State": "SC",
+	"latitude": 34.1787,
+	"longitude": -79.3966
+},
+{
+	"City": "Valley Falls",
+	"State": "SC",
+	"latitude": 35.0073,
+	"longitude": -81.9692
+},
+{
+	"City": "Forestbrook",
+	"State": "SC",
+	"latitude": 33.7243,
+	"longitude": -78.9678
+},
+{
+	"City": "Lake Murray of Richland",
+	"State": "SC",
+	"latitude": 34.1209,
+	"longitude": -81.2653
+},
+{
+	"City": "Laurel Bay",
+	"State": "SC",
+	"latitude": 32.4599,
+	"longitude": -80.7869
+},
+{
+	"City": "Homeland Park",
+	"State": "SC",
+	"latitude": 34.4644,
+	"longitude": -82.6593
+},
+{
+	"City": "Darlington",
+	"State": "SC",
+	"latitude": 34.3015,
+	"longitude": -79.867
+},
+{
+	"City": "Belton",
+	"State": "SC",
+	"latitude": 34.5237,
+	"longitude": -82.4937
+},
+{
+	"City": "Piedmont",
+	"State": "SC",
+	"latitude": 34.7074,
+	"longitude": -82.4651
+},
+{
+	"City": "Kingstree",
+	"State": "SC",
+	"latitude": 33.6665,
+	"longitude": -79.8292
+},
+{
+	"City": "Batesburg-Leesville",
+	"State": "SC",
+	"latitude": 33.9125,
+	"longitude": -81.5313
+},
+{
+	"City": "Central",
+	"State": "SC",
+	"latitude": 34.7234,
+	"longitude": -82.7787
+},
+{
+	"City": "Travelers Rest",
+	"State": "SC",
+	"latitude": 34.9684,
+	"longitude": -82.4417
+},
+{
+	"City": "Belvedere",
+	"State": "SC",
+	"latitude": 33.5369,
+	"longitude": -81.9424
+},
+{
+	"City": "Hollywood",
+	"State": "SC",
+	"latitude": 32.7523,
+	"longitude": -80.2106
+},
+{
+	"City": "Abbeville",
+	"State": "SC",
+	"latitude": 34.1787,
+	"longitude": -82.3774
+},
+{
+	"City": "Mullins",
+	"State": "SC",
+	"latitude": 34.2042,
+	"longitude": -79.2535
+},
+{
+	"City": "Ridgeland",
+	"State": "SC",
+	"latitude": 32.468,
+	"longitude": -80.9176
+},
+{
+	"City": "Edgefield",
+	"State": "SC",
+	"latitude": 33.7871,
+	"longitude": -81.9292
+},
+{
+	"City": "Landrum",
+	"State": "SC",
+	"latitude": 35.1747,
+	"longitude": -82.1849
+},
+{
+	"City": "Manning",
+	"State": "SC",
+	"latitude": 33.6933,
+	"longitude": -80.2167
+},
+{
+	"City": "Bishopville",
+	"State": "SC",
+	"latitude": 34.2202,
+	"longitude": -80.2483
+},
+{
+	"City": "Brookdale",
+	"State": "SC",
+	"latitude": 33.5183,
+	"longitude": -80.8332
+},
+{
+	"City": "Woodruff",
+	"State": "SC",
+	"latitude": 34.7397,
+	"longitude": -82.0323
+},
+{
+	"City": "Winnsboro",
+	"State": "SC",
+	"latitude": 34.3718,
+	"longitude": -81.0907
+},
+{
+	"City": "Newport",
+	"State": "SC",
+	"latitude": 34.9832,
+	"longitude": -81.0992
+},
+{
+	"City": "Surfside Beach",
+	"State": "SC",
+	"latitude": 33.6093,
+	"longitude": -78.9772
+},
+{
+	"City": "Walhalla",
+	"State": "SC",
+	"latitude": 34.7705,
+	"longitude": -83.0615
+},
+{
+	"City": "Isle of Palms",
+	"State": "SC",
+	"latitude": 32.8043,
+	"longitude": -79.7552
+},
+{
+	"City": "Barnwell",
+	"State": "SC",
+	"latitude": 33.2419,
+	"longitude": -81.3659
+},
+{
+	"City": "Clearwater",
+	"State": "SC",
+	"latitude": 33.5038,
+	"longitude": -81.91
+},
+{
+	"City": "Williamston",
+	"State": "SC",
+	"latitude": 34.6194,
+	"longitude": -82.4794
+},
+{
+	"City": "Blythewood",
+	"State": "SC",
+	"latitude": 34.2121,
+	"longitude": -80.9921
+},
+{
+	"City": "Hampton",
+	"State": "SC",
+	"latitude": 32.8676,
+	"longitude": -81.1092
+},
+{
+	"City": "India Hook",
+	"State": "SC",
+	"latitude": 35.0142,
+	"longitude": -81.0377
+},
+{
+	"City": "Pageland",
+	"State": "SC",
+	"latitude": 34.772,
+	"longitude": -80.3897
+},
+{
+	"City": "Andrews",
+	"State": "SC",
+	"latitude": 33.4494,
+	"longitude": -79.566
+},
+{
+	"City": "Saxon",
+	"State": "SC",
+	"latitude": 34.9616,
+	"longitude": -81.9713
+},
+{
+	"City": "Honea Path",
+	"State": "SC",
+	"latitude": 34.4476,
+	"longitude": -82.395
+},
+{
+	"City": "Lyman",
+	"State": "SC",
+	"latitude": 34.9661,
+	"longitude": -82.1231
+},
+{
+	"City": "Northlake",
+	"State": "SC",
+	"latitude": 34.5691,
+	"longitude": -82.6837
+},
+{
+	"City": "Duncan",
+	"State": "SC",
+	"latitude": 34.9351,
+	"longitude": -82.144
+},
+{
+	"City": "Dunean",
+	"State": "SC",
+	"latitude": 34.8203,
+	"longitude": -82.4225
+},
+{
+	"City": "Saluda",
+	"State": "SC",
+	"latitude": 34.0009,
+	"longitude": -81.7713
+},
+{
+	"City": "Southern Shops",
+	"State": "SC",
+	"latitude": 34.9846,
+	"longitude": -81.9934
+},
+{
+	"City": "Golden Grove",
+	"State": "SC",
+	"latitude": 34.7324,
+	"longitude": -82.4408
+},
+{
+	"City": "Arcadia",
+	"State": "SC",
+	"latitude": 34.9609,
+	"longitude": -81.9929
+},
+{
+	"City": "Graniteville",
+	"State": "SC",
+	"latitude": 33.5646,
+	"longitude": -81.8079
+},
+{
+	"City": "Cherryvale",
+	"State": "SC",
+	"latitude": 33.9543,
+	"longitude": -80.4609
+},
+{
+	"City": "Chesnee",
+	"State": "SC",
+	"latitude": 35.1459,
+	"longitude": -81.8627
+},
+{
+	"City": "Pendleton",
+	"State": "SC",
+	"latitude": 34.6454,
+	"longitude": -82.7821
+},
+{
+	"City": "Bamberg",
+	"State": "SC",
+	"latitude": 33.2995,
+	"longitude": -81.0323
+},
+{
+	"City": "Pickens",
+	"State": "SC",
+	"latitude": 34.8857,
+	"longitude": -82.7103
+},
+{
+	"City": "Liberty",
+	"State": "SC",
+	"latitude": 34.7904,
+	"longitude": -82.6962
+},
+{
+	"City": "Denmark",
+	"State": "SC",
+	"latitude": 33.3152,
+	"longitude": -81.1366
+},
+{
+	"City": "Dalzell",
+	"State": "SC",
+	"latitude": 34.0189,
+	"longitude": -80.4299
+},
+{
+	"City": "Lesslie",
+	"State": "SC",
+	"latitude": 34.8856,
+	"longitude": -80.9541
+},
+{
+	"City": "Gloverville",
+	"State": "SC",
+	"latitude": 33.5274,
+	"longitude": -81.8145
+},
+{
+	"City": "Elgin",
+	"State": "SC",
+	"latitude": 34.6724,
+	"longitude": -80.7215
+},
+{
+	"City": "Williston",
+	"State": "SC",
+	"latitude": 33.4018,
+	"longitude": -81.422
+},
+{
+	"City": "Allendale",
+	"State": "SC",
+	"latitude": 33.008,
+	"longitude": -81.3092
+},
+{
+	"City": "Roebuck",
+	"State": "SC",
+	"latitude": 34.8788,
+	"longitude": -81.9646
+},
+{
+	"City": "Shell Point",
+	"State": "SC",
+	"latitude": 32.3744,
+	"longitude": -80.7523
+},
+{
+	"City": "Loris",
+	"State": "SC",
+	"latitude": 34.0575,
+	"longitude": -78.8876
+},
+{
+	"City": "East Gaffney",
+	"State": "SC",
+	"latitude": 35.0846,
+	"longitude": -81.6219
+},
+{
+	"City": "Lakewood",
+	"State": "SC",
+	"latitude": 33.8429,
+	"longitude": -80.3492
+},
+{
+	"City": "Burnettown",
+	"State": "SC",
+	"latitude": 33.5186,
+	"longitude": -81.8634
+},
+{
+	"City": "Springdale",
+	"State": "SC",
+	"latitude": 33.9616,
+	"longitude": -81.1119
+},
+{
+	"City": "North Hartsville",
+	"State": "SC",
+	"latitude": 34.401,
+	"longitude": -80.071
+},
+{
+	"City": "Ravenel",
+	"State": "SC",
+	"latitude": 32.7768,
+	"longitude": -80.2272
+},
+{
+	"City": "Hopkins",
+	"State": "SC",
+	"latitude": 33.8983,
+	"longitude": -80.86
+},
+{
+	"City": "Wellford",
+	"State": "SC",
+	"latitude": 34.9615,
+	"longitude": -82.0922
+},
+{
+	"City": "Folly Beach",
+	"State": "SC",
+	"latitude": 32.6693,
+	"longitude": -79.95
+},
+{
+	"City": "Edisto",
+	"State": "SC",
+	"latitude": 33.4776,
+	"longitude": -80.8998
+},
+{
+	"City": "Westminster",
+	"State": "SC",
+	"latitude": 34.6657,
+	"longitude": -83.0911
+},
+{
+	"City": "Pacolet",
+	"State": "SC",
+	"latitude": 34.91,
+	"longitude": -81.7666
+},
+{
+	"City": "Lincolnville",
+	"State": "SC",
+	"latitude": 33.0079,
+	"longitude": -80.156
+},
+{
+	"City": "South Congaree",
+	"State": "SC",
+	"latitude": 33.9094,
+	"longitude": -81.1375
+},
+{
+	"City": "South Sumter",
+	"State": "SC",
+	"latitude": 33.8855,
+	"longitude": -80.3378
+},
+{
+	"City": "Inman",
+	"State": "SC",
+	"latitude": 35.0465,
+	"longitude": -82.09
+},
+{
+	"City": "Cowpens",
+	"State": "SC",
+	"latitude": 35.0188,
+	"longitude": -81.8043
+},
+{
+	"City": "Johnston",
+	"State": "SC",
+	"latitude": 33.8327,
+	"longitude": -81.8051
+},
+{
+	"City": "Timmonsville",
+	"State": "SC",
+	"latitude": 34.1334,
+	"longitude": -79.9408
+},
+{
+	"City": "Pine Ridge",
+	"State": "SC",
+	"latitude": 33.9084,
+	"longitude": -81.0975
+},
+{
+	"City": "McCormick",
+	"State": "SC",
+	"latitude": 33.9129,
+	"longitude": -82.2876
+},
+{
+	"City": "Winnsboro Mills",
+	"State": "SC",
+	"latitude": 34.3561,
+	"longitude": -81.0709
+},
+{
+	"City": "Kershaw",
+	"State": "SC",
+	"latitude": 34.5462,
+	"longitude": -80.5872
+},
+{
+	"City": "St. George",
+	"State": "SC",
+	"latitude": 33.186,
+	"longitude": -80.5794
+},
+{
+	"City": "Blackville",
+	"State": "SC",
+	"latitude": 33.3552,
+	"longitude": -81.2835
+},
+{
+	"City": "Arial",
+	"State": "SC",
+	"latitude": 34.8462,
+	"longitude": -82.6404
+},
+{
+	"City": "Ware Shoals",
+	"State": "SC",
+	"latitude": 34.3922,
+	"longitude": -82.2421
+},
+{
+	"City": "New Ellenton",
+	"State": "SC",
+	"latitude": 33.4198,
+	"longitude": -81.6825
+},
+{
+	"City": "Tigerville",
+	"State": "SC",
+	"latitude": 35.0669,
+	"longitude": -82.3695
+},
+{
+	"City": "Ninety Six",
+	"State": "SC",
+	"latitude": 34.1696,
+	"longitude": -82.024
+},
+{
+	"City": "Wedgefield",
+	"State": "SC",
+	"latitude": 33.8829,
+	"longitude": -80.5157
+},
+{
+	"City": "Varnville",
+	"State": "SC",
+	"latitude": 32.8521,
+	"longitude": -81.0802
+},
+{
+	"City": "McColl",
+	"State": "SC",
+	"latitude": 34.6665,
+	"longitude": -79.5447
+},
+{
+	"City": "Sullivan's Island",
+	"State": "SC",
+	"latitude": 32.7684,
+	"longitude": -79.8354
+},
+{
+	"City": "Privateer",
+	"State": "SC",
+	"latitude": 33.8169,
+	"longitude": -80.3947
+},
+{
+	"City": "St. Matthews",
+	"State": "SC",
+	"latitude": 33.664,
+	"longitude": -80.778
+},
+{
+	"City": "Calhoun Falls",
+	"State": "SC",
+	"latitude": 34.0933,
+	"longitude": -82.5963
+},
+{
+	"City": "Blacksburg",
+	"State": "SC",
+	"latitude": 35.1221,
+	"longitude": -81.5182
+},
+{
+	"City": "Great Falls",
+	"State": "SC",
+	"latitude": 34.5753,
+	"longitude": -80.9048
+},
+{
+	"City": "Slater-Marietta",
+	"State": "SC",
+	"latitude": 35.0348,
+	"longitude": -82.4927
+},
+{
+	"City": "Seabrook Island",
+	"State": "SC",
+	"latitude": 32.5825,
+	"longitude": -80.1736
+},
+{
+	"City": "Estill",
+	"State": "SC",
+	"latitude": 32.7538,
+	"longitude": -81.2412
+},
+{
+	"City": "Langley",
+	"State": "SC",
+	"latitude": 33.512,
+	"longitude": -81.8343
+},
+{
+	"City": "St. Stephen",
+	"State": "SC",
+	"latitude": 33.4046,
+	"longitude": -79.9264
+},
+{
+	"City": "Stateburg",
+	"State": "SC",
+	"latitude": 33.9753,
+	"longitude": -80.5264
+},
+{
+	"City": "Jackson",
+	"State": "SC",
+	"latitude": 33.3284,
+	"longitude": -81.7925
+},
+{
+	"City": "Bonneau Beach",
+	"State": "SC",
+	"latitude": 33.3229,
+	"longitude": -79.9899
+},
+{
+	"City": "Kiawah Island",
+	"State": "SC",
+	"latitude": 32.6159,
+	"longitude": -80.0607
+},
+{
+	"City": "City View",
+	"State": "SC",
+	"latitude": 34.862,
+	"longitude": -82.4249
+},
+{
+	"City": "Ridgeville",
+	"State": "SC",
+	"latitude": 33.09,
+	"longitude": -80.3071
+},
+{
+	"City": "Gaston",
+	"State": "SC",
+	"latitude": 33.818,
+	"longitude": -81.0997
+},
+{
+	"City": "Fairfax",
+	"State": "SC",
+	"latitude": 32.9593,
+	"longitude": -81.2363
+},
+{
+	"City": "Gadsden",
+	"State": "SC",
+	"latitude": 33.848,
+	"longitude": -80.7663
+},
+{
+	"City": "Chapin",
+	"State": "SC",
+	"latitude": 34.1645,
+	"longitude": -81.3449
+},
+{
+	"City": "Wilkinson Heights",
+	"State": "SC",
+	"latitude": 33.4919,
+	"longitude": -80.8285
+},
+{
+	"City": "Eureka Mill",
+	"State": "SC",
+	"latitude": 34.718,
+	"longitude": -81.193
+},
+{
+	"City": "Judson",
+	"State": "SC",
+	"latitude": 34.8335,
+	"longitude": -82.4272
+},
+{
+	"City": "Fairforest",
+	"State": "SC",
+	"latitude": 34.9532,
+	"longitude": -82.0157
+},
+{
+	"City": "Murphys Estates",
+	"State": "SC",
+	"latitude": 33.6003,
+	"longitude": -81.9439
+},
+{
+	"City": "Johnsonville",
+	"State": "SC",
+	"latitude": 33.8149,
+	"longitude": -79.4444
+},
+{
+	"City": "Mayo",
+	"State": "SC",
+	"latitude": 35.0857,
+	"longitude": -81.8535
+},
+{
+	"City": "Whitmire",
+	"State": "SC",
+	"latitude": 34.504,
+	"longitude": -81.6144
+},
+{
+	"City": "Monarch Mill",
+	"State": "SC",
+	"latitude": 34.7161,
+	"longitude": -81.5848
+},
+{
+	"City": "Awendaw",
+	"State": "SC",
+	"latitude": 32.9823,
+	"longitude": -79.6461
+},
+{
+	"City": "Chesterfield",
+	"State": "SC",
+	"latitude": 34.733,
+	"longitude": -80.078
+},
+{
+	"City": "Pelzer",
+	"State": "SC",
+	"latitude": 34.6434,
+	"longitude": -82.4588
+},
+{
+	"City": "Buffalo",
+	"State": "SC",
+	"latitude": 34.7245,
+	"longitude": -81.6843
+},
+{
+	"City": "Irwin",
+	"State": "SC",
+	"latitude": 34.6942,
+	"longitude": -80.8198
+},
+{
+	"City": "Watts Mills",
+	"State": "SC",
+	"latitude": 34.5164,
+	"longitude": -81.9857
+},
+{
+	"City": "Iva",
+	"State": "SC",
+	"latitude": 34.307,
+	"longitude": -82.6636
+},
+{
+	"City": "Meggett",
+	"State": "SC",
+	"latitude": 32.6971,
+	"longitude": -80.2731
+},
+{
+	"City": "Prosperity",
+	"State": "SC",
+	"latitude": 34.2121,
+	"longitude": -81.5327
+},
+{
+	"City": "Latta",
+	"State": "SC",
+	"latitude": 34.339,
+	"longitude": -79.4337
+},
+{
+	"City": "Joanna",
+	"State": "SC",
+	"latitude": 34.4149,
+	"longitude": -81.8086
+},
+{
+	"City": "Pinopolis",
+	"State": "SC",
+	"latitude": 33.2287,
+	"longitude": -80.0386
+},
+{
+	"City": "Utica",
+	"State": "SC",
+	"latitude": 34.6778,
+	"longitude": -82.925
+},
+{
+	"City": "Pamplico",
+	"State": "SC",
+	"latitude": 33.9957,
+	"longitude": -79.5698
+},
+{
+	"City": "Due West",
+	"State": "SC",
+	"latitude": 34.3335,
+	"longitude": -82.3886
+},
+{
+	"City": "East Sumter",
+	"State": "SC",
+	"latitude": 33.9261,
+	"longitude": -80.295
+},
+{
+	"City": "Holly Hill",
+	"State": "SC",
+	"latitude": 33.3245,
+	"longitude": -80.413
+},
+{
+	"City": "Lake Secession",
+	"State": "SC",
+	"latitude": 34.2821,
+	"longitude": -82.5908
+},
+{
+	"City": "Yemassee",
+	"State": "SC",
+	"latitude": 32.6722,
+	"longitude": -80.8508
+},
+{
+	"City": "Riverview",
+	"State": "SC",
+	"latitude": 35.0108,
+	"longitude": -80.9845
+},
+{
+	"City": "Catawba",
+	"State": "SC",
+	"latitude": 34.8464,
+	"longitude": -80.9061
+},
+{
+	"City": "Oakland",
+	"State": "SC",
+	"latitude": 33.9868,
+	"longitude": -80.4972
+},
+{
+	"City": "Van Wyck",
+	"State": "SC",
+	"latitude": 34.8531,
+	"longitude": -80.8333
+},
+{
+	"City": "Heath Springs",
+	"State": "SC",
+	"latitude": 34.5933,
+	"longitude": -80.675
+},
+{
+	"City": "Cane Savannah",
+	"State": "SC",
+	"latitude": 33.8923,
+	"longitude": -80.4395
+},
+{
+	"City": "Aynor",
+	"State": "SC",
+	"latitude": 34.0001,
+	"longitude": -79.2072
+},
+{
+	"City": "Swansea",
+	"State": "SC",
+	"latitude": 33.7395,
+	"longitude": -81.1053
+},
+{
+	"City": "Startex",
+	"State": "SC",
+	"latitude": 34.9309,
+	"longitude": -82.0941
+},
+{
+	"City": "Branchville",
+	"State": "SC",
+	"latitude": 33.2516,
+	"longitude": -80.8161
+},
+{
+	"City": "West Pelzer",
+	"State": "SC",
+	"latitude": 34.645,
+	"longitude": -82.4737
+},
+{
+	"City": "Lamar",
+	"State": "SC",
+	"latitude": 34.1695,
+	"longitude": -80.0649
+},
+{
+	"City": "Summerton",
+	"State": "SC",
+	"latitude": 33.6013,
+	"longitude": -80.3527
+},
+{
+	"City": "Quinby",
+	"State": "SC",
+	"latitude": 34.2282,
+	"longitude": -79.7358
+},
+{
+	"City": "Warrenville",
+	"State": "SC",
+	"latitude": 33.5461,
+	"longitude": -81.799
+},
+{
+	"City": "Santee",
+	"State": "SC",
+	"latitude": 33.4801,
+	"longitude": -80.4852
+},
+{
+	"City": "Bowman",
+	"State": "SC",
+	"latitude": 33.3482,
+	"longitude": -80.6844
+},
+{
+	"City": "Fort Lawn",
+	"State": "SC",
+	"latitude": 34.7003,
+	"longitude": -80.8991
+},
+{
+	"City": "Arcadia Lakes",
+	"State": "SC",
+	"latitude": 34.0536,
+	"longitude": -80.9615
+},
+{
+	"City": "Scranton",
+	"State": "SC",
+	"latitude": 33.9174,
+	"longitude": -79.7441
+},
+{
+	"City": "McBee",
+	"State": "SC",
+	"latitude": 34.467,
+	"longitude": -80.2571
+},
+{
+	"City": "Inman Mills",
+	"State": "SC",
+	"latitude": 35.041,
+	"longitude": -82.1021
+},
+{
+	"City": "Gayle Mill",
+	"State": "SC",
+	"latitude": 34.7023,
+	"longitude": -81.2391
+},
+{
+	"City": "Eastover",
+	"State": "SC",
+	"latitude": 33.8779,
+	"longitude": -80.6949
+},
+{
+	"City": "Jonesville",
+	"State": "SC",
+	"latitude": 34.8348,
+	"longitude": -81.6811
+},
+{
+	"City": "Wagener",
+	"State": "SC",
+	"latitude": 33.6521,
+	"longitude": -81.3636
+},
+{
+	"City": "Norris",
+	"State": "SC",
+	"latitude": 34.7661,
+	"longitude": -82.7525
+},
+{
+	"City": "Gray Court",
+	"State": "SC",
+	"latitude": 34.6078,
+	"longitude": -82.1144
+},
+{
+	"City": "Turbeville",
+	"State": "SC",
+	"latitude": 33.8896,
+	"longitude": -80.0161
+},
+{
+	"City": "Coward",
+	"State": "SC",
+	"latitude": 33.9721,
+	"longitude": -79.749
+},
+{
+	"City": "Lake View",
+	"State": "SC",
+	"latitude": 34.3406,
+	"longitude": -79.1663
+},
+{
+	"City": "Ridge Spring",
+	"State": "SC",
+	"latitude": 33.8453,
+	"longitude": -81.6617
+},
+{
+	"City": "Cottageville",
+	"State": "SC",
+	"latitude": 32.9362,
+	"longitude": -80.4803
+},
+{
+	"City": "Bucksport",
+	"State": "SC",
+	"latitude": 33.6706,
+	"longitude": -79.1102
+},
+{
+	"City": "Mayesville",
+	"State": "SC",
+	"latitude": 33.9849,
+	"longitude": -80.2044
+},
+{
+	"City": "Jefferson",
+	"State": "SC",
+	"latitude": 34.6512,
+	"longitude": -80.3866
+},
+{
+	"City": "Pelion",
+	"State": "SC",
+	"latitude": 33.7751,
+	"longitude": -81.2502
+},
+{
+	"City": "North",
+	"State": "SC",
+	"latitude": 33.6164,
+	"longitude": -81.103
+},
+{
+	"City": "Harleyville",
+	"State": "SC",
+	"latitude": 33.2126,
+	"longitude": -80.4478
+},
+{
+	"City": "Wallace",
+	"State": "SC",
+	"latitude": 34.7201,
+	"longitude": -79.8479
+},
+{
+	"City": "Reidville",
+	"State": "SC",
+	"latitude": 34.866,
+	"longitude": -82.105
+},
+{
+	"City": "Six Mile",
+	"State": "SC",
+	"latitude": 34.8082,
+	"longitude": -82.8154
+},
+{
+	"City": "Clio",
+	"State": "SC",
+	"latitude": 34.5791,
+	"longitude": -79.5461
+},
+{
+	"City": "Gilbert",
+	"State": "SC",
+	"latitude": 33.9245,
+	"longitude": -81.3928
+},
+{
+	"City": "Elloree",
+	"State": "SC",
+	"latitude": 33.5302,
+	"longitude": -80.5711
+},
+{
+	"City": "Sharon",
+	"State": "SC",
+	"latitude": 34.952,
+	"longitude": -81.3436
+},
+{
+	"City": "Enoree",
+	"State": "SC",
+	"latitude": 34.6593,
+	"longitude": -81.9609
+},
+{
+	"City": "Briarcliffe Acres",
+	"State": "SC",
+	"latitude": 33.7899,
+	"longitude": -78.749
+},
+{
+	"City": "Campobello",
+	"State": "SC",
+	"latitude": 35.1224,
+	"longitude": -82.1495
+},
+{
+	"City": "Converse",
+	"State": "SC",
+	"latitude": 34.994,
+	"longitude": -81.8421
+},
+{
+	"City": "Olanta",
+	"State": "SC",
+	"latitude": 33.9357,
+	"longitude": -79.932
+},
+{
+	"City": "Hickory Grove",
+	"State": "SC",
+	"latitude": 34.9785,
+	"longitude": -81.418
+},
+{
+	"City": "McClellanville",
+	"State": "SC",
+	"latitude": 33.0865,
+	"longitude": -79.468
+},
+{
+	"City": "Promised Land",
+	"State": "SC",
+	"latitude": 34.1277,
+	"longitude": -82.2307
+},
+{
+	"City": "Pinewood",
+	"State": "SC",
+	"latitude": 33.7396,
+	"longitude": -80.462
+},
+{
+	"City": "Society Hill",
+	"State": "SC",
+	"latitude": 34.5098,
+	"longitude": -79.8539
+},
+{
+	"City": "Clifton",
+	"State": "SC",
+	"latitude": 34.9846,
+	"longitude": -81.8222
+},
+{
+	"City": "Cross Hill",
+	"State": "SC",
+	"latitude": 34.3045,
+	"longitude": -81.9836
+},
+{
+	"City": "Brunson",
+	"State": "SC",
+	"latitude": 32.9242,
+	"longitude": -81.1886
+},
+{
+	"City": "Bonneau",
+	"State": "SC",
+	"latitude": 33.3081,
+	"longitude": -79.9573
+},
+{
+	"City": "Springfield",
+	"State": "SC",
+	"latitude": 33.4967,
+	"longitude": -81.2795
+},
+{
+	"City": "Ehrhardt",
+	"State": "SC",
+	"latitude": 33.0985,
+	"longitude": -81.0138
+},
+{
+	"City": "Summit",
+	"State": "SC",
+	"latitude": 33.9246,
+	"longitude": -81.4226
+},
+{
+	"City": "Fair Play",
+	"State": "SC",
+	"latitude": 34.5077,
+	"longitude": -82.9862
+},
+{
+	"City": "Lockhart",
+	"State": "SC",
+	"latitude": 34.7923,
+	"longitude": -81.4613
+},
+{
+	"City": "Lane",
+	"State": "SC",
+	"latitude": 33.5251,
+	"longitude": -79.8797
+},
+{
+	"City": "Atlantic Beach",
+	"State": "SC",
+	"latitude": 33.8035,
+	"longitude": -78.7177
+},
+{
+	"City": "Alcolu",
+	"State": "SC",
+	"latitude": 33.7547,
+	"longitude": -80.2221
+},
+{
+	"City": "Lydia",
+	"State": "SC",
+	"latitude": 34.2866,
+	"longitude": -80.1185
+},
+{
+	"City": "Salley",
+	"State": "SC",
+	"latitude": 33.5678,
+	"longitude": -81.3037
+},
+{
+	"City": "Carlisle",
+	"State": "SC",
+	"latitude": 34.5921,
+	"longitude": -81.4645
+},
+{
+	"City": "Hilda",
+	"State": "SC",
+	"latitude": 33.274,
+	"longitude": -81.2466
+},
+{
+	"City": "Edisto Beach",
+	"State": "SC",
+	"latitude": 32.4922,
+	"longitude": -80.3239
+},
+{
+	"City": "Jacksonboro",
+	"State": "SC",
+	"latitude": 32.7718,
+	"longitude": -80.4769
+},
+{
+	"City": "Cameron",
+	"State": "SC",
+	"latitude": 33.558,
+	"longitude": -80.7151
+},
+{
+	"City": "Hemingway",
+	"State": "SC",
+	"latitude": 33.7533,
+	"longitude": -79.4462
+},
+{
+	"City": "Greeleyville",
+	"State": "SC",
+	"latitude": 33.5801,
+	"longitude": -79.9901
+},
+{
+	"City": "Bethune",
+	"State": "SC",
+	"latitude": 34.4143,
+	"longitude": -80.3487
+},
+{
+	"City": "Neeses",
+	"State": "SC",
+	"latitude": 33.5365,
+	"longitude": -81.1236
+},
+{
+	"City": "Patrick",
+	"State": "SC",
+	"latitude": 34.5752,
+	"longitude": -80.0446
+},
+{
+	"City": "Ruby",
+	"State": "SC",
+	"latitude": 34.7461,
+	"longitude": -80.1799
+},
+{
+	"City": "Lynchburg",
+	"State": "SC",
+	"latitude": 34.06,
+	"longitude": -80.077
+},
+{
+	"City": "Nichols",
+	"State": "SC",
+	"latitude": 34.2352,
+	"longitude": -79.1492
+},
+{
+	"City": "West Union",
+	"State": "SC",
+	"latitude": 34.7589,
+	"longitude": -83.0431
+},
+{
+	"City": "Donalds",
+	"State": "SC",
+	"latitude": 34.3766,
+	"longitude": -82.3467
+},
+{
+	"City": "Clarks Hill",
+	"State": "SC",
+	"latitude": 33.6582,
+	"longitude": -82.166
+},
+{
+	"City": "McConnells",
+	"State": "SC",
+	"latitude": 34.8695,
+	"longitude": -81.2266
+},
+{
+	"City": "Norway",
+	"State": "SC",
+	"latitude": 33.4503,
+	"longitude": -81.1266
+},
+{
+	"City": "Little Mountain",
+	"State": "SC",
+	"latitude": 34.1968,
+	"longitude": -81.4128
+},
+{
+	"City": "Glendale",
+	"State": "SC",
+	"latitude": 34.9451,
+	"longitude": -81.8364
+},
+{
+	"City": "Oswego",
+	"State": "SC",
+	"latitude": 34.0056,
+	"longitude": -80.2862
+},
+{
+	"City": "Ridgeway",
+	"State": "SC",
+	"latitude": 34.3066,
+	"longitude": -80.9601
+},
+{
+	"City": "Eutawville",
+	"State": "SC",
+	"latitude": 33.3978,
+	"longitude": -80.343
+},
+{
+	"City": "Rembert",
+	"State": "SC",
+	"latitude": 34.1037,
+	"longitude": -80.5305
+},
+{
+	"City": "Rowesville",
+	"State": "SC",
+	"latitude": 33.3722,
+	"longitude": -80.8362
+},
+{
+	"City": "Gifford",
+	"State": "SC",
+	"latitude": 32.86,
+	"longitude": -81.2385
+},
+{
+	"City": "Shiloh",
+	"State": "SC",
+	"latitude": 33.9461,
+	"longitude": -80.0208
+},
+{
+	"City": "Richburg",
+	"State": "SC",
+	"latitude": 34.7167,
+	"longitude": -81.0196
+},
+{
+	"City": "Snelling",
+	"State": "SC",
+	"latitude": 33.2416,
+	"longitude": -81.4622
+},
+{
+	"City": "Perry",
+	"State": "SC",
+	"latitude": 33.6276,
+	"longitude": -81.3086
+},
+{
+	"City": "Modoc",
+	"State": "SC",
+	"latitude": 33.7192,
+	"longitude": -82.2173
+},
+{
+	"City": "Central Pacolet",
+	"State": "SC",
+	"latitude": 34.9096,
+	"longitude": -81.7526
+},
+{
+	"City": "Monetta",
+	"State": "SC",
+	"latitude": 33.8497,
+	"longitude": -81.6097
+},
+{
+	"City": "Mount Carmel",
+	"State": "SC",
+	"latitude": 34.0185,
+	"longitude": -82.5044
+},
+{
+	"City": "Olar",
+	"State": "SC",
+	"latitude": 33.1799,
+	"longitude": -81.1854
+},
+{
+	"City": "Stuckey",
+	"State": "SC",
+	"latitude": 33.7322,
+	"longitude": -79.5132
+},
+{
+	"City": "Furman",
+	"State": "SC",
+	"latitude": 32.6812,
+	"longitude": -81.1877
+},
+{
+	"City": "Mulberry",
+	"State": "SC",
+	"latitude": 33.9565,
+	"longitude": -80.3315
+},
+{
+	"City": "Reevesville",
+	"State": "SC",
+	"latitude": 33.2021,
+	"longitude": -80.6456
+},
+{
+	"City": "Sellers",
+	"State": "SC",
+	"latitude": 34.2823,
+	"longitude": -79.4723
+},
+{
+	"City": "Trenton",
+	"State": "SC",
+	"latitude": 33.7401,
+	"longitude": -81.8404
+},
+{
+	"City": "Scotia",
+	"State": "SC",
+	"latitude": 32.6805,
+	"longitude": -81.2433
+},
+{
+	"City": "Bradley",
+	"State": "SC",
+	"latitude": 34.0391,
+	"longitude": -82.2436
+},
+{
+	"City": "Russellville",
+	"State": "SC",
+	"latitude": 33.397,
+	"longitude": -79.9637
+},
+{
+	"City": "Cokesbury",
+	"State": "SC",
+	"latitude": 34.29,
+	"longitude": -82.2087
+},
+{
+	"City": "Lowrys",
+	"State": "SC",
+	"latitude": 34.804,
+	"longitude": -81.2372
+},
+{
+	"City": "Newry",
+	"State": "SC",
+	"latitude": 34.724,
+	"longitude": -82.9141
+},
+{
+	"City": "Starr",
+	"State": "SC",
+	"latitude": 34.3774,
+	"longitude": -82.6954
+},
+{
+	"City": "Mount Croghan",
+	"State": "SC",
+	"latitude": 34.7697,
+	"longitude": -80.2264
+},
+{
+	"City": "Boykin",
+	"State": "SC",
+	"latitude": 34.1198,
+	"longitude": -80.5886
+},
+{
+	"City": "Kline",
+	"State": "SC",
+	"latitude": 33.1252,
+	"longitude": -81.3426
+},
+{
+	"City": "Elko",
+	"State": "SC",
+	"latitude": 33.3808,
+	"longitude": -81.3805
+},
+{
+	"City": "Paxville",
+	"State": "SC",
+	"latitude": 33.739,
+	"longitude": -80.3586
+},
+{
+	"City": "Pomaria",
+	"State": "SC",
+	"latitude": 34.2677,
+	"longitude": -81.4192
+},
+{
+	"City": "Woodford",
+	"State": "SC",
+	"latitude": 33.6687,
+	"longitude": -81.112
+},
+{
+	"City": "Silverstreet",
+	"State": "SC",
+	"latitude": 34.2177,
+	"longitude": -81.7146
+},
+{
+	"City": "Cordova",
+	"State": "SC",
+	"latitude": 33.4345,
+	"longitude": -80.9211
+},
+{
+	"City": "Sycamore",
+	"State": "SC",
+	"latitude": 33.0362,
+	"longitude": -81.2223
+},
+{
+	"City": "Vance",
+	"State": "SC",
+	"latitude": 33.4365,
+	"longitude": -80.42
+},
+{
+	"City": "Salem",
+	"State": "SC",
+	"latitude": 34.8879,
+	"longitude": -82.9752
+},
+{
+	"City": "Waterloo",
+	"State": "SC",
+	"latitude": 34.3562,
+	"longitude": -82.0571
+},
+{
+	"City": "Hodges",
+	"State": "SC",
+	"latitude": 34.2876,
+	"longitude": -82.248
+},
+{
+	"City": "Windsor",
+	"State": "SC",
+	"latitude": 33.4809,
+	"longitude": -81.5135
+},
+{
+	"City": "Blenheim",
+	"State": "SC",
+	"latitude": 34.5098,
+	"longitude": -79.6525
+},
+{
+	"City": "Rockville",
+	"State": "SC",
+	"latitude": 32.6024,
+	"longitude": -80.1935
+},
+{
+	"City": "Coronaca",
+	"State": "SC",
+	"latitude": 34.2595,
+	"longitude": -82.0969
+},
+{
+	"City": "Luray",
+	"State": "SC",
+	"latitude": 32.8142,
+	"longitude": -81.2403
+},
+{
+	"City": "Livingston",
+	"State": "SC",
+	"latitude": 33.5531,
+	"longitude": -81.1195
+},
+{
+	"City": "Lowndesville",
+	"State": "SC",
+	"latitude": 34.2099,
+	"longitude": -82.6476
+},
+{
+	"City": "Smoaks",
+	"State": "SC",
+	"latitude": 33.0895,
+	"longitude": -80.8142
+},
+{
+	"City": "Lodge",
+	"State": "SC",
+	"latitude": 33.0678,
+	"longitude": -80.9537
+},
+{
+	"City": "Parksville",
+	"State": "SC",
+	"latitude": 33.7866,
+	"longitude": -82.2173
+},
+{
+	"City": "Ware Place",
+	"State": "SC",
+	"latitude": 34.6266,
+	"longitude": -82.3881
+},
+{
+	"City": "Williams",
+	"State": "SC",
+	"latitude": 33.0341,
+	"longitude": -80.8429
+},
+{
+	"City": "Pawleys Island",
+	"State": "SC",
+	"latitude": 33.427,
+	"longitude": -79.1245
+},
+{
+	"City": "Mountville",
+	"State": "SC",
+	"latitude": 34.3664,
+	"longitude": -81.9759
+},
+{
+	"City": "Troy",
+	"State": "SC",
+	"latitude": 33.9881,
+	"longitude": -82.2975
+},
+{
+	"City": "Ward",
+	"State": "SC",
+	"latitude": 33.8573,
+	"longitude": -81.7313
+},
+{
+	"City": "Jamestown",
+	"State": "SC",
+	"latitude": 33.2859,
+	"longitude": -79.6945
+},
+{
+	"City": "Princeton",
+	"State": "SC",
+	"latitude": 34.4912,
+	"longitude": -82.2957
+},
+{
+	"City": "Plum Branch",
+	"State": "SC",
+	"latitude": 33.8481,
+	"longitude": -82.2587
+},
+{
+	"City": "Ulmer",
+	"State": "SC",
+	"latitude": 33.0987,
+	"longitude": -81.208
+},
+{
+	"City": "Cope",
+	"State": "SC",
+	"latitude": 33.3777,
+	"longitude": -81.0079
+},
+{
+	"City": "Tatum",
+	"State": "SC",
+	"latitude": 34.6438,
+	"longitude": -79.5867
+},
+{
+	"City": "Peak",
+	"State": "SC",
+	"latitude": 34.2363,
+	"longitude": -81.3288
+},
+{
+	"City": "Antreville",
+	"State": "SC",
+	"latitude": 34.2971,
+	"longitude": -82.5541
+},
+{
+	"City": "Govan",
+	"State": "SC",
+	"latitude": 33.2228,
+	"longitude": -81.1749
+},
+{
+	"City": "Smyrna",
+	"State": "SC",
+	"latitude": 35.042,
+	"longitude": -81.4094
+},
+{
+	"City": "Islandton",
+	"State": "SC",
+	"latitude": 32.9093,
+	"longitude": -80.9359
+},
+{
+	"City": "Jenkinsville",
+	"State": "SC",
+	"latitude": 34.3128,
+	"longitude": -81.2875
+},
+{
+	"City": "Gramling",
+	"State": "SC",
+	"latitude": 35.0782,
+	"longitude": -82.1332
+},
+{
+	"City": "Fingerville",
+	"State": "SC",
+	"latitude": 35.1351,
+	"longitude": -82.0003
+},
+{
+	"City": "Cross Anchor",
+	"State": "SC",
+	"latitude": 34.6439,
+	"longitude": -81.8584
+}]

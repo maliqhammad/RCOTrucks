@@ -1,0 +1,460 @@
+[
+{
+	"ImageName": "Map_Fuel",
+	"POIImageName": "POI_Map_Fuel",
+	"Value": "Truck Stop",
+	"Subcategories": [
+	{
+		"Name": "7-Eleven",
+		"ImageName": "Map_7_eleven",
+		"POIImageName": "POI_Map_7_eleven"
+	},
+	{
+		"Name": "Allens Food",
+		"ImageName": "Map_allens_food_market",
+		"POIImageName": "POI_Map_allens_food_market"
+	},
+	{
+		"Name": "Arco",
+		"ImageName": "Map_arco",
+		"POIImageName": "POI_Map_arco"
+	},
+	{
+		"Name": "BP",
+		"ImageName": "Map_bp",
+		"POIImageName": "POI_Map_bp"
+	},
+	{
+		"Name": "Casey's",
+		"ImageName": "Map_caseys",
+		"POIImageName": "POI_Map_caseys"
+	},
+	{
+		"Name": "Cefco",
+		"ImageName": "Map_cefco",
+		"POIImageName": "POI_Map_cefco"
+	},
+	{
+		"Name": "Chevron",
+		"ImageName": "Map_chevron",
+		"POIImageName": "POI_Map_chevron"
+	},
+	{
+		"Name": "Circle K",
+		"ImageName": "Map_circle_k",
+		"POIImageName": "POI_Map_circle_k"
+	},
+	{
+		"Name": "Conoco",
+		"ImageName": "Map_conoco",
+		"POIImageName": "POI_Map_conoco"
+	},
+	{
+		"Name": "Diamond",
+		"ImageName": "Map_diamond",
+		"POIImageName": "POI_Map_diamond"
+	},
+	{
+		"Name": "Esso",
+		"ImageName": "Map_esso",
+		"POIImageName": "POI_Map_esso"
+	},
+	{
+		"Name": "Exxon",
+		"ImageName": "Map_exxon",
+		"POIImageName": "POI_Map_exxon"
+	},
+	{
+		"Name": "Fast Break",
+		"ImageName": "Map_fast_break",
+		"POIImageName": "POI_Map_fast_break"
+	},
+	{
+		"Name": "Hucks",
+		"ImageName": "Map_hucks",
+		"POIImageName": "POI_Map_hucks"
+	},
+	{
+		"Name": "Inland",
+		"ImageName": "Map_inland",
+		"POIImageName": "POI_Map_inland"
+	},
+	{
+		"Name": "Jumpin Jimmys",
+		"ImageName": "Map_jumpin_jimmys",
+		"POIImageName": "POI_Map_jumpin_jimmys"
+	},
+	{
+		"Name": "Kangaroo Express",
+		"ImageName": "Map_kangaroo_express",
+		"POIImageName": "POI_Map_kangaroo_express"
+	},
+	{
+		"Name": "Kum & Go",
+		"ImageName": "Map_kum_and_go",
+		"POIImageName": "POI_Map_kum_and_go"
+	},
+	{
+		"Name": "Kwik Star",
+		"ImageName": "Map_kwik_star",
+		"POIImageName": "POI_Map_kwik_star"
+	},
+	{
+		"Name": "Kwik Stop",
+		"ImageName": "Map_kwik_stop",
+		"POIImageName": "POI_Map_kwik_stop"
+	},
+	{
+		"Name": "Loves",
+		"ImageName": "Map_loves",
+		"POIImageName": "POI_Map_loves"
+	},
+	{
+		"Name": "Marathon",
+		"ImageName": "Map_Marathon",
+		"POIImageName": "POI_Map_Marathon"
+	},
+	{
+		"Name": "Oasis",
+		"ImageName": "Map_Oasis",
+		"POIImageName": "POI_Map_Oasis"
+	},
+	{
+		"Name": "One Stop",
+		"ImageName": "Map_OneStop",
+		"POIImageName": "POI_Map_OneStop"
+	},
+	{
+		"Name": "Phillips 66",
+		"ImageName": "Map_Phillips66",
+		"POIImageName": "POI_Map_Phillips66"
+	},
+	{
+		"Name": "Pilot Flying J",
+		"ImageName": "Map_Pilot",
+		"POIImageName": "POI_Map_Pilot"
+	},
+	{
+		"Name": "Road Ranger",
+		"ImageName": "Map_RoadRanger",
+		"POIImageName": "POI_Map_RoadRanger"
+	},
+	{
+		"Name": "Rotten Robbie",
+		"ImageName": "Map_RottenRobie",
+		"POIImageName": "POI_Map_RottenRobie"
+	},
+	{
+		"Name": "Sapp Bros",
+		"ImageName": "Map_Sappbros",
+		"POIImageName": "POI_Map_Sappbros"
+	},
+	{
+		"Name": "Speedway",
+		"ImageName": "Map_Speedway",
+		"POIImageName": "POI_Map_Speedway"
+	},
+	{
+		"Name": "Sprint Mart",
+		"ImageName": "Map_SprintMart",
+		"POIImageName": "POI_Map_SprintMart"
+	},
+	{
+		"Name": "Sunoco",
+		"ImageName": "Map_Sunoco",
+		"POIImageName": "POI_Map_Sunoco"
+	},
+	{
+		"Name": "TA Petro",
+		"ImageName": "Map_TA",
+		"POIImageName": "POI_Map_TA"
+	},
+	{
+		"Name": "Texaco",
+		"ImageName": "Map_Texaco",
+		"POIImageName": "POI_Map_Texaco"
+	},
+	{
+		"Name": "Thorntons",
+		"ImageName": "Map_Thorntons",
+		"POIImageName": "POI_Map_Thorntons"
+	},
+	{
+		"Name": "76",
+		"ImageName": "Map_Union76",
+		"POIImageName": "POI_Map_Union76"
+	},
+	{
+		"Name": "Valero",
+		"ImageName": "Map_Valero",
+		"POIImageName": "POI_Map_Valero"
+	},
+	{
+		"Name": "Pacific Pride",
+		"ImageName": "Map_Fuel",
+		"POIImageName": "POI_Map_Fuel"
+	},
+	{
+		"Name": "Independent",
+		"ImageName": "Map_Fuel",
+		"POIImageName": "POI_Map_Fuel"
+	},
+	{
+		"Name": "Shell",
+		"ImageName": "Map_Fuel",
+		"POIImageName": "POI_Map_Fuel"
+	},
+	{
+		"Name": "Sinclair",
+		"ImageName": "Map_Fuel",
+		"POIImageName": "POI_Map_Fuel"
+	},
+	{
+		"Name": "Pemex",
+		"ImageName": "Map_Pemex",
+		"POIImageName": "POI_Map_Pemex"
+	},
+	{
+		"Name": "Noil USA",
+		"ImageName": "Map_Fuel",
+		"POIImageName": "POI_Map_Fuel"
+	},
+	{
+		"Name": "Clean Energy",
+		"ImageName": "Map_Fuel",
+		"POIImageName": "POI_Map_Fuel"
+	},
+	{
+		"Name": "Mobil",
+		"ImageName": "Map_Fuel",
+		"POIImageName": "POI_Map_Fuel"
+	},
+	{
+		"Name": "Ambestts",
+		"ImageName": "Map_Fuel",
+		"POIImageName": "POI_Map_Fuel"
+	},
+	{
+		"Name": "Maverik",
+		"ImageName": "Map_Fuel",
+		"POIImageName": "POI_Map_Fuel"
+	},
+	{
+		"Name": "Cenex",
+		"ImageName": "Map_Fuel",
+		"POIImageName": "POI_Map_Fuel"
+	},
+	{
+		"Name": "Alon",
+		"ImageName": "Map_Fuel",
+		"POIImageName": "POI_Map_Fuel"
+	},
+	{
+		"Name": "Mapco",
+		"ImageName": "Map_Fuel",
+		"POIImageName": "POI_Map_Fuel"
+	},
+	{
+		"Name": "Citgo",
+		"ImageName": "Map_Fuel",
+		"POIImageName": "POI_Map_Fuel"
+	},
+	{
+		"Name": "Gulf",
+		"ImageName": "Map_Fuel",
+		"POIImageName": "POI_Map_Fuel"
+	},
+	{
+		"Name": "Kangaroo",
+		"ImageName": "Map_Fuel",
+		"POIImageName": "POI_Map_Fuel"
+	},
+	{
+		"Name": "Kwik Trip",
+		"ImageName": "Map_Fuel",
+		"POIImageName": "POI_Map_Fuel"
+	},
+	{
+		"Name": "Fast Stop",
+		"ImageName": "Map_Fuel",
+		"POIImageName": "POI_Map_Fuel"
+	},
+	{
+		"Name": "Amoco",
+		"ImageName": "Map_Fuel",
+		"POIImageName": "POI_Map_Fuel"
+	},
+	{
+		"Name": "Kwik Fill",
+		"ImageName": "Map_Fuel",
+		"POIImageName": "POI_Map_Fuel"
+	},
+	{
+		"Name": "Irving",
+		"ImageName": "Map_Fuel",
+		"POIImageName": "POI_Map_Fuel"
+	},
+	{
+		"Name": "Tesoro",
+		"ImageName": "Map_Fuel",
+		"POIImageName": "POI_Map_Fuel"
+	},
+	{
+		"Name": "CHEVRON",
+		"ImageName": "Map_Fuel",
+		"POIImageName": "POI_Map_Fuel"
+	},
+	{
+		"Name": "Quick Fuel",
+		"ImageName": "Map_Fuel",
+		"POIImageName": "POI_Map_Fuel"
+	},
+	{
+		"Name": "Road Runner",
+		"ImageName": "Map_Fuel",
+		"POIImageName": "POI_Map_Fuel"
+	},
+	{
+		"Name": "Stripes",
+		"ImageName": "Map_Fuel",
+		"POIImageName": "POI_Map_Fuel"
+	}],
+	"Name": "Truck Stop"
+},
+{
+	"POIImageName": "POI_Map_CatScale",
+	"ImageName": "Map_CatScale",
+	"Value": "CATScale",
+	"Subcategories": [],
+	"Name": "CAT Scale"
+},
+{
+	"ImageName": "Map_RestArea",
+	"POIImageName": "POI_Map_RestArea",
+	"Value": "Rest Areas",
+	"Subcategories": [],
+	"Name": "Rest Areas"
+},
+{
+	"POIImageName": "POI_Map_TruckDealer",
+	"ImageName": "Map_TruckDealer",
+	"Value": "Truck Dealers",
+	"Subcategories": [
+	{
+		"Name": "Dana Suttles Truck Leasing LLC",
+		"ImageName": "Map_TruckDealer",
+		"POIImageName": "POI_Map_TruckDealer"
+	},
+	{
+		"Name": "Independent",
+		"ImageName": "Map_TruckDealer",
+		"POIImageName": "POI_Map_TruckDealer"
+	}],
+	"Name": "Truck Dealers"
+},
+{
+	"ImageName": "Map_TruckTow",
+	"POIImageName": "POI_Map_TruckTow",
+	"Value": "Truck Tow",
+	"Subcategories": [],
+	"Name": "Truck Tow"
+},
+{
+	"ImageName": "Map_Service",
+	"POIImageName": "POI_Map_Service",
+	"Value": "Service",
+	"Subcategories": [],
+	"Name": "Service"
+},
+{
+	"ImageName": "Map_TruckWash",
+	"POIImageName": "POI_Map_TruckWash",
+	"Value": "Truck Wash",
+	"Subcategories": [
+	{
+		"Name": "Blue Beacon",
+		"ImageName": "Map_BlueBeacon",
+		"POIImageName": "POI_Map_BlueBeacon"
+	},
+	{
+		"Name": "Dana",
+		"ImageName": "Map_Dana02",
+		"POIImageName": "POI_Map_Dana02"
+	},
+	{
+		"Name": "Eagle Truck Wash",
+		"ImageName": "Map_EagleTruckWash",
+		"POIImageName": "POI_Map_EagleTruckWash"
+	},
+	{
+		"Name": "Express Container",
+		"ImageName": "Map_ExpressContainer",
+		"POIImageName": "POI_Map_ExpressContainer"
+	},
+	{
+		"Name": "Gil Express",
+		"ImageName": "Map_GillExpress",
+		"POIImageName": "POI_Map_GillExpress"
+	},
+	{
+		"Name": "Quala",
+		"ImageName": "Map_Quala",
+		"POIImageName": "POI_Map_Quala"
+	},
+	{
+		"Name": "Independent",
+		"ImageName": "Map_TruckWash",
+		"POIImageName": "POI_Map_TruckWash"
+	}],
+	"Name": "Truck Wash"
+},
+{
+	"ImageName": "Map_Tire",
+	"POIImageName": "POI_Map_Tire",
+	"Value": "Tire",
+	"Subcategories": [],
+	"Name": "Tire"
+},
+{
+	"ImageName": "Map_LowClearance",
+	"POIImageName": "POI_Map_LowClearance",
+	"Value": "Truck Low Clearance",
+	"Subcategories": [],
+	"Name": "Low Clearance"
+},
+{
+	"ImageName": "Map_WeighStation",
+	"POIImageName": "POI_Map_WeighStation",
+	"Value": "Weigh Station",
+	"Subcategories": [],
+	"Name": "Weigh Station"
+},
+{
+	"POIImageName": "POI_Map_Shop",
+	"ImageName": "Map_Shop",
+	"Value": "Store",
+	"Subcategories": [
+	{
+		"POIImageName": "POI_Map_Walmart",
+		"Name": "Walmart",
+		"ImageName": "Map_Walmart"
+	}],
+	"Name": "Store"
+},
+{
+	"POIImageName": "POI_Map_Reefer",
+	"ImageName": "Map_Reefer",
+	"Value": "Truck Reefer",
+	"Subcategories": [
+	{
+		"POIImageName": "POI_Map_ReeferThermoKing",
+		"ImageName": "Map_ReeferThermoKing",
+		"Name": "Thermo King"
+	},
+	{
+		"POIImageName": "POI_Map_ReeferCarrier",
+		"ImageName": "Map_ReeferCarrier",
+		"Name": "Carrier"
+	}],
+	"Name": "Reefer"
+}]

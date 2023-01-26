@@ -1,0 +1,2551 @@
+[
+{
+	"City": "Albuquerque",
+	"State": "NM",
+	"latitude": 35.1053,
+	"longitude": -106.6464
+},
+{
+	"City": "Las Cruces",
+	"State": "NM",
+	"latitude": 32.3265,
+	"longitude": -106.7892
+},
+{
+	"City": "Santa Fe",
+	"State": "NM",
+	"latitude": 35.6619,
+	"longitude": -105.9819
+},
+{
+	"City": "Rio Rancho",
+	"State": "NM",
+	"latitude": 35.2872,
+	"longitude": -106.6981
+},
+{
+	"City": "Los Lunas",
+	"State": "NM",
+	"latitude": 34.8115,
+	"longitude": -106.7803
+},
+{
+	"City": "Farmington",
+	"State": "NM",
+	"latitude": 36.7555,
+	"longitude": -108.1823
+},
+{
+	"City": "Roswell",
+	"State": "NM",
+	"latitude": 33.373,
+	"longitude": -104.5294
+},
+{
+	"City": "Clovis",
+	"State": "NM",
+	"latitude": 34.4376,
+	"longitude": -103.1923
+},
+{
+	"City": "Hobbs",
+	"State": "NM",
+	"latitude": 32.7282,
+	"longitude": -103.16
+},
+{
+	"City": "South Valley",
+	"State": "NM",
+	"latitude": 35.0092,
+	"longitude": -106.6819
+},
+{
+	"City": "Carlsbad",
+	"State": "NM",
+	"latitude": 32.4011,
+	"longitude": -104.2389
+},
+{
+	"City": "Alamogordo",
+	"State": "NM",
+	"latitude": 32.8837,
+	"longitude": -105.9624
+},
+{
+	"City": "EspaÃ±ola",
+	"State": "NM",
+	"latitude": 36.0041,
+	"longitude": -106.0669
+},
+{
+	"City": "Gallup",
+	"State": "NM",
+	"latitude": 35.5183,
+	"longitude": -108.7423
+},
+{
+	"City": "Sunland Park",
+	"State": "NM",
+	"latitude": 31.8194,
+	"longitude": -106.5943
+},
+{
+	"City": "Las Vegas",
+	"State": "NM",
+	"latitude": 35.6011,
+	"longitude": -105.2206
+},
+{
+	"City": "Chaparral",
+	"State": "NM",
+	"latitude": 32.0442,
+	"longitude": -106.4061
+},
+{
+	"City": "Taos",
+	"State": "NM",
+	"latitude": 36.3871,
+	"longitude": -105.5804
+},
+{
+	"City": "Artesia",
+	"State": "NM",
+	"latitude": 32.8492,
+	"longitude": -104.4274
+},
+{
+	"City": "Deming",
+	"State": "NM",
+	"latitude": 32.2631,
+	"longitude": -107.7525
+},
+{
+	"City": "North Valley",
+	"State": "NM",
+	"latitude": 35.1736,
+	"longitude": -106.6231
+},
+{
+	"City": "Los Alamos",
+	"State": "NM",
+	"latitude": 35.8926,
+	"longitude": -106.2862
+},
+{
+	"City": "Lovington",
+	"State": "NM",
+	"latitude": 32.9125,
+	"longitude": -103.3277
+},
+{
+	"City": "Portales",
+	"State": "NM",
+	"latitude": 34.1753,
+	"longitude": -103.3565
+},
+{
+	"City": "Grants",
+	"State": "NM",
+	"latitude": 35.1538,
+	"longitude": -107.8335
+},
+{
+	"City": "Silver City",
+	"State": "NM",
+	"latitude": 32.7784,
+	"longitude": -108.2698
+},
+{
+	"City": "Bernalillo",
+	"State": "NM",
+	"latitude": 35.3127,
+	"longitude": -106.5537
+},
+{
+	"City": "Ruidoso",
+	"State": "NM",
+	"latitude": 33.3647,
+	"longitude": -105.6432
+},
+{
+	"City": "Bloomfield",
+	"State": "NM",
+	"latitude": 36.7401,
+	"longitude": -107.9734
+},
+{
+	"City": "Anthony",
+	"State": "NM",
+	"latitude": 32.0132,
+	"longitude": -106.5984
+},
+{
+	"City": "Shiprock",
+	"State": "NM",
+	"latitude": 36.7924,
+	"longitude": -108.7005
+},
+{
+	"City": "Corrales",
+	"State": "NM",
+	"latitude": 35.2366,
+	"longitude": -106.6191
+},
+{
+	"City": "Socorro",
+	"State": "NM",
+	"latitude": 34.0543,
+	"longitude": -106.9066
+},
+{
+	"City": "Aztec",
+	"State": "NM",
+	"latitude": 36.819,
+	"longitude": -107.9826
+},
+{
+	"City": "Belen",
+	"State": "NM",
+	"latitude": 34.7115,
+	"longitude": -106.7985
+},
+{
+	"City": "Truth or Consequences",
+	"State": "NM",
+	"latitude": 33.1864,
+	"longitude": -107.2589
+},
+{
+	"City": "Zuni Pueblo",
+	"State": "NM",
+	"latitude": 35.0708,
+	"longitude": -108.8484
+},
+{
+	"City": "North Hobbs",
+	"State": "NM",
+	"latitude": 32.7731,
+	"longitude": -103.125
+},
+{
+	"City": "Los Chaves",
+	"State": "NM",
+	"latitude": 34.7332,
+	"longitude": -106.7631
+},
+{
+	"City": "Los Ranchos de Albuquerque",
+	"State": "NM",
+	"latitude": 35.1625,
+	"longitude": -106.6481
+},
+{
+	"City": "Edgewood",
+	"State": "NM",
+	"latitude": 35.1318,
+	"longitude": -106.2151
+},
+{
+	"City": "Raton",
+	"State": "NM",
+	"latitude": 36.8849,
+	"longitude": -104.4396
+},
+{
+	"City": "Eldorado at Santa Fe",
+	"State": "NM",
+	"latitude": 35.5273,
+	"longitude": -105.934
+},
+{
+	"City": "White Rock",
+	"State": "NM",
+	"latitude": 35.8075,
+	"longitude": -106.2067
+},
+{
+	"City": "Lee Acres",
+	"State": "NM",
+	"latitude": 36.7103,
+	"longitude": -108.0725
+},
+{
+	"City": "Santa Teresa",
+	"State": "NM",
+	"latitude": 31.8701,
+	"longitude": -106.6714
+},
+{
+	"City": "Tucumcari",
+	"State": "NM",
+	"latitude": 35.17,
+	"longitude": -103.7046
+},
+{
+	"City": "Placitas",
+	"State": "NM",
+	"latitude": 35.3226,
+	"longitude": -106.4436
+},
+{
+	"City": "Paradise Hills",
+	"State": "NM",
+	"latitude": 35.1981,
+	"longitude": -106.7023
+},
+{
+	"City": "Rio Communities",
+	"State": "NM",
+	"latitude": 34.6459,
+	"longitude": -106.7164
+},
+{
+	"City": "El Cerro Mission",
+	"State": "NM",
+	"latitude": 34.7687,
+	"longitude": -106.6447
+},
+{
+	"City": "Holloman AFB",
+	"State": "NM",
+	"latitude": 32.8483,
+	"longitude": -106.0998
+},
+{
+	"City": "Bayard",
+	"State": "NM",
+	"latitude": 32.7579,
+	"longitude": -108.1338
+},
+{
+	"City": "Bosque Farms",
+	"State": "NM",
+	"latitude": 34.8538,
+	"longitude": -106.7011
+},
+{
+	"City": "Meadow Lake",
+	"State": "NM",
+	"latitude": 34.8024,
+	"longitude": -106.5701
+},
+{
+	"City": "La Cienega",
+	"State": "NM",
+	"latitude": 35.5801,
+	"longitude": -106.1127
+},
+{
+	"City": "Milan",
+	"State": "NM",
+	"latitude": 35.195,
+	"longitude": -107.8947
+},
+{
+	"City": "Peralta",
+	"State": "NM",
+	"latitude": 34.8283,
+	"longitude": -106.686
+},
+{
+	"City": "Sandia Heights",
+	"State": "NM",
+	"latitude": 35.1746,
+	"longitude": -106.4884
+},
+{
+	"City": "El Cerro",
+	"State": "NM",
+	"latitude": 34.7807,
+	"longitude": -106.6956
+},
+{
+	"City": "Vado",
+	"State": "NM",
+	"latitude": 32.1279,
+	"longitude": -106.6571
+},
+{
+	"City": "Eunice",
+	"State": "NM",
+	"latitude": 32.4465,
+	"longitude": -103.2011
+},
+{
+	"City": "Tularosa",
+	"State": "NM",
+	"latitude": 33.0752,
+	"longitude": -106.0175
+},
+{
+	"City": "University Park",
+	"State": "NM",
+	"latitude": 32.2767,
+	"longitude": -106.7462
+},
+{
+	"City": "West Hammond",
+	"State": "NM",
+	"latitude": 36.6812,
+	"longitude": -108.0492
+},
+{
+	"City": "Dulce",
+	"State": "NM",
+	"latitude": 36.9399,
+	"longitude": -107.0049
+},
+{
+	"City": "Agua Fria",
+	"State": "NM",
+	"latitude": 35.6615,
+	"longitude": -106.0149
+},
+{
+	"City": "Clayton",
+	"State": "NM",
+	"latitude": 36.4425,
+	"longitude": -103.1573
+},
+{
+	"City": "Chimayo",
+	"State": "NM",
+	"latitude": 35.9976,
+	"longitude": -105.9363
+},
+{
+	"City": "Santa Rosa",
+	"State": "NM",
+	"latitude": 34.936,
+	"longitude": -104.6769
+},
+{
+	"City": "Ruidoso Downs",
+	"State": "NM",
+	"latitude": 33.3312,
+	"longitude": -105.5968
+},
+{
+	"City": "Cannon AFB",
+	"State": "NM",
+	"latitude": 34.3885,
+	"longitude": -103.3185
+},
+{
+	"City": "Crownpoint",
+	"State": "NM",
+	"latitude": 35.688,
+	"longitude": -108.1494
+},
+{
+	"City": "Lordsburg",
+	"State": "NM",
+	"latitude": 32.3438,
+	"longitude": -108.7021
+},
+{
+	"City": "La Mesilla",
+	"State": "NM",
+	"latitude": 35.9461,
+	"longitude": -106.0719
+},
+{
+	"City": "Santo Domingo Pueblo",
+	"State": "NM",
+	"latitude": 35.5174,
+	"longitude": -106.367
+},
+{
+	"City": "San Felipe Pueblo",
+	"State": "NM",
+	"latitude": 35.4338,
+	"longitude": -106.425
+},
+{
+	"City": "Ranchos de Taos",
+	"State": "NM",
+	"latitude": 36.3619,
+	"longitude": -105.6016
+},
+{
+	"City": "Boles Acres",
+	"State": "NM",
+	"latitude": 32.8196,
+	"longitude": -105.9782
+},
+{
+	"City": "Jal",
+	"State": "NM",
+	"latitude": 32.1148,
+	"longitude": -103.19
+},
+{
+	"City": "San Ysidro",
+	"State": "NM",
+	"latitude": 32.3568,
+	"longitude": -106.8129
+},
+{
+	"City": "Pojoaque",
+	"State": "NM",
+	"latitude": 35.8962,
+	"longitude": -106.0105
+},
+{
+	"City": "Jarales",
+	"State": "NM",
+	"latitude": 34.6147,
+	"longitude": -106.7631
+},
+{
+	"City": "Valencia",
+	"State": "NM",
+	"latitude": 34.8053,
+	"longitude": -106.6869
+},
+{
+	"City": "Jemez Pueblo",
+	"State": "NM",
+	"latitude": 35.6068,
+	"longitude": -106.7332
+},
+{
+	"City": "El Valle de Arroyo Seco",
+	"State": "NM",
+	"latitude": 35.9526,
+	"longitude": -106.0262
+},
+{
+	"City": "Tome",
+	"State": "NM",
+	"latitude": 34.7397,
+	"longitude": -106.723
+},
+{
+	"City": "Berino",
+	"State": "NM",
+	"latitude": 32.0689,
+	"longitude": -106.6219
+},
+{
+	"City": "Moriarty",
+	"State": "NM",
+	"latitude": 35.0034,
+	"longitude": -106.0445
+},
+{
+	"City": "Mesilla",
+	"State": "NM",
+	"latitude": 32.2691,
+	"longitude": -106.8086
+},
+{
+	"City": "Nambe",
+	"State": "NM",
+	"latitude": 35.8984,
+	"longitude": -105.9667
+},
+{
+	"City": "Arenas Valley",
+	"State": "NM",
+	"latitude": 32.7765,
+	"longitude": -108.203
+},
+{
+	"City": "Arroyo Seco",
+	"State": "NM",
+	"latitude": 36.5215,
+	"longitude": -105.586
+},
+{
+	"City": "Santa Clara",
+	"State": "NM",
+	"latitude": 32.7773,
+	"longitude": -108.154
+},
+{
+	"City": "Questa",
+	"State": "NM",
+	"latitude": 36.7114,
+	"longitude": -105.5935
+},
+{
+	"City": "Las Maravillas",
+	"State": "NM",
+	"latitude": 34.734,
+	"longitude": -106.669
+},
+{
+	"City": "Keeler Farm",
+	"State": "NM",
+	"latitude": 32.3161,
+	"longitude": -107.7602
+},
+{
+	"City": "Flora Vista",
+	"State": "NM",
+	"latitude": 36.8056,
+	"longitude": -108.0856
+},
+{
+	"City": "Upper Fruitland",
+	"State": "NM",
+	"latitude": 36.7205,
+	"longitude": -108.3234
+},
+{
+	"City": "Black Rock",
+	"State": "NM",
+	"latitude": 35.0833,
+	"longitude": -108.7979
+},
+{
+	"City": "Hatch",
+	"State": "NM",
+	"latitude": 32.6682,
+	"longitude": -107.1642
+},
+{
+	"City": "Thoreau",
+	"State": "NM",
+	"latitude": 35.4209,
+	"longitude": -108.2235
+},
+{
+	"City": "Waterflow",
+	"State": "NM",
+	"latitude": 36.7575,
+	"longitude": -108.4711
+},
+{
+	"City": "Columbus",
+	"State": "NM",
+	"latitude": 31.8273,
+	"longitude": -107.6423
+},
+{
+	"City": "Spencerville",
+	"State": "NM",
+	"latitude": 36.8192,
+	"longitude": -108.056
+},
+{
+	"City": "La Huerta",
+	"State": "NM",
+	"latitude": 32.4488,
+	"longitude": -104.2224
+},
+{
+	"City": "Monterey Park",
+	"State": "NM",
+	"latitude": 34.7511,
+	"longitude": -106.653
+},
+{
+	"City": "Estancia",
+	"State": "NM",
+	"latitude": 34.7667,
+	"longitude": -106.0301
+},
+{
+	"City": "Sausal",
+	"State": "NM",
+	"latitude": 34.6803,
+	"longitude": -106.7589
+},
+{
+	"City": "Sandia Knolls",
+	"State": "NM",
+	"latitude": 35.1604,
+	"longitude": -106.2987
+},
+{
+	"City": "Radium Springs",
+	"State": "NM",
+	"latitude": 32.4783,
+	"longitude": -106.9031
+},
+{
+	"City": "Navajo",
+	"State": "NM",
+	"latitude": 35.9024,
+	"longitude": -109.0321
+},
+{
+	"City": "Capitan",
+	"State": "NM",
+	"latitude": 33.5392,
+	"longitude": -105.5983
+},
+{
+	"City": "Taos Pueblo",
+	"State": "NM",
+	"latitude": 36.4657,
+	"longitude": -105.5634
+},
+{
+	"City": "San Rafael",
+	"State": "NM",
+	"latitude": 35.0878,
+	"longitude": -107.8895
+},
+{
+	"City": "Loving",
+	"State": "NM",
+	"latitude": 32.2866,
+	"longitude": -104.097
+},
+{
+	"City": "Pecos",
+	"State": "NM",
+	"latitude": 35.5754,
+	"longitude": -105.6787
+},
+{
+	"City": "Elephant Butte",
+	"State": "NM",
+	"latitude": 33.1806,
+	"longitude": -107.2269
+},
+{
+	"City": "Carnuel",
+	"State": "NM",
+	"latitude": 35.0609,
+	"longitude": -106.4587
+},
+{
+	"City": "Fairacres",
+	"State": "NM",
+	"latitude": 32.3047,
+	"longitude": -106.8366
+},
+{
+	"City": "Ohkay Owingeh",
+	"State": "NM",
+	"latitude": 36.0439,
+	"longitude": -106.0565
+},
+{
+	"City": "White Sands",
+	"State": "NM",
+	"latitude": 32.3808,
+	"longitude": -106.4836
+},
+{
+	"City": "Mescalero",
+	"State": "NM",
+	"latitude": 33.1448,
+	"longitude": -105.7897
+},
+{
+	"City": "Dexter",
+	"State": "NM",
+	"latitude": 33.1954,
+	"longitude": -104.3689
+},
+{
+	"City": "La Luz",
+	"State": "NM",
+	"latitude": 32.9698,
+	"longitude": -105.9388
+},
+{
+	"City": "Hagerman",
+	"State": "NM",
+	"latitude": 33.1147,
+	"longitude": -104.3283
+},
+{
+	"City": "Atoka",
+	"State": "NM",
+	"latitude": 32.7783,
+	"longitude": -104.3931
+},
+{
+	"City": "El Rancho",
+	"State": "NM",
+	"latitude": 35.8928,
+	"longitude": -106.0856
+},
+{
+	"City": "Hurley",
+	"State": "NM",
+	"latitude": 32.6982,
+	"longitude": -108.1321
+},
+{
+	"City": "Ponderosa Pine",
+	"State": "NM",
+	"latitude": 34.972,
+	"longitude": -106.3369
+},
+{
+	"City": "DoÃ±a Ana",
+	"State": "NM",
+	"latitude": 32.394,
+	"longitude": -106.8177
+},
+{
+	"City": "San Antonito",
+	"State": "NM",
+	"latitude": 35.1575,
+	"longitude": -106.3476
+},
+{
+	"City": "Twin Lakes",
+	"State": "NM",
+	"latitude": 35.6834,
+	"longitude": -108.7709
+},
+{
+	"City": "Laguna",
+	"State": "NM",
+	"latitude": 35.0504,
+	"longitude": -107.4071
+},
+{
+	"City": "Indian Hills",
+	"State": "NM",
+	"latitude": 34.9832,
+	"longitude": -106.1398
+},
+{
+	"City": "Angel Fire",
+	"State": "NM",
+	"latitude": 36.3821,
+	"longitude": -105.2718
+},
+{
+	"City": "Texico",
+	"State": "NM",
+	"latitude": 34.3897,
+	"longitude": -103.0513
+},
+{
+	"City": "Skyline-Ganipa",
+	"State": "NM",
+	"latitude": 35.0328,
+	"longitude": -107.614
+},
+{
+	"City": "San Pablo",
+	"State": "NM",
+	"latitude": 32.2506,
+	"longitude": -106.7626
+},
+{
+	"City": "Tesuque",
+	"State": "NM",
+	"latitude": 35.7486,
+	"longitude": -105.921
+},
+{
+	"City": "La Union",
+	"State": "NM",
+	"latitude": 31.9507,
+	"longitude": -106.6622
+},
+{
+	"City": "Chama",
+	"State": "NM",
+	"latitude": 36.8926,
+	"longitude": -106.5843
+},
+{
+	"City": "Sedillo",
+	"State": "NM",
+	"latitude": 35.0906,
+	"longitude": -106.2869
+},
+{
+	"City": "Logan",
+	"State": "NM",
+	"latitude": 35.3576,
+	"longitude": -103.4426
+},
+{
+	"City": "San Miguel",
+	"State": "NM",
+	"latitude": 32.1535,
+	"longitude": -106.7269
+},
+{
+	"City": "La Puebla",
+	"State": "NM",
+	"latitude": 35.989,
+	"longitude": -105.9987
+},
+{
+	"City": "McIntosh",
+	"State": "NM",
+	"latitude": 34.8804,
+	"longitude": -106.0577
+},
+{
+	"City": "Zia Pueblo",
+	"State": "NM",
+	"latitude": 35.52,
+	"longitude": -106.715
+},
+{
+	"City": "Carrizozo",
+	"State": "NM",
+	"latitude": 33.6433,
+	"longitude": -105.8411
+},
+{
+	"City": "Talpa",
+	"State": "NM",
+	"latitude": 36.3421,
+	"longitude": -105.5923
+},
+{
+	"City": "Adelino",
+	"State": "NM",
+	"latitude": 34.7066,
+	"longitude": -106.7302
+},
+{
+	"City": "High Rolls",
+	"State": "NM",
+	"latitude": 32.9388,
+	"longitude": -105.8214
+},
+{
+	"City": "Springer",
+	"State": "NM",
+	"latitude": 36.3623,
+	"longitude": -104.5997
+},
+{
+	"City": "Paraje",
+	"State": "NM",
+	"latitude": 35.0444,
+	"longitude": -107.4681
+},
+{
+	"City": "Chamita",
+	"State": "NM",
+	"latitude": 36.0706,
+	"longitude": -106.0974
+},
+{
+	"City": "Fort Sumner",
+	"State": "NM",
+	"latitude": 34.479,
+	"longitude": -104.2331
+},
+{
+	"City": "Church Rock",
+	"State": "NM",
+	"latitude": 35.5309,
+	"longitude": -108.6234
+},
+{
+	"City": "Cimarron",
+	"State": "NM",
+	"latitude": 36.5087,
+	"longitude": -104.9115
+},
+{
+	"City": "Magdalena",
+	"State": "NM",
+	"latitude": 34.1095,
+	"longitude": -107.2319
+},
+{
+	"City": "Mountainair",
+	"State": "NM",
+	"latitude": 34.5213,
+	"longitude": -106.2394
+},
+{
+	"City": "Midway",
+	"State": "NM",
+	"latitude": 33.2958,
+	"longitude": -104.4518
+},
+{
+	"City": "Alamo",
+	"State": "NM",
+	"latitude": 34.4184,
+	"longitude": -107.5125
+},
+{
+	"City": "Tatum",
+	"State": "NM",
+	"latitude": 33.2553,
+	"longitude": -103.3112
+},
+{
+	"City": "Mesita",
+	"State": "NM",
+	"latitude": 35.0134,
+	"longitude": -107.3296
+},
+{
+	"City": "Santa Clara Pueblo",
+	"State": "NM",
+	"latitude": 35.9726,
+	"longitude": -106.0927
+},
+{
+	"City": "El Rito",
+	"State": "NM",
+	"latitude": 36.338,
+	"longitude": -106.1844
+},
+{
+	"City": "Mora",
+	"State": "NM",
+	"latitude": 35.9634,
+	"longitude": -105.3313
+},
+{
+	"City": "San Ildefonso Pueblo",
+	"State": "NM",
+	"latitude": 35.8955,
+	"longitude": -106.1225
+},
+{
+	"City": "Morningside",
+	"State": "NM",
+	"latitude": 32.861,
+	"longitude": -104.3971
+},
+{
+	"City": "Tierra Amarilla",
+	"State": "NM",
+	"latitude": 36.7061,
+	"longitude": -106.5599
+},
+{
+	"City": "Happy Valley",
+	"State": "NM",
+	"latitude": 32.4235,
+	"longitude": -104.2903
+},
+{
+	"City": "Cedar Hill",
+	"State": "NM",
+	"latitude": 36.9296,
+	"longitude": -107.8871
+},
+{
+	"City": "Cuba",
+	"State": "NM",
+	"latitude": 36.0146,
+	"longitude": -106.968
+},
+{
+	"City": "Hernandez",
+	"State": "NM",
+	"latitude": 36.0567,
+	"longitude": -106.1186
+},
+{
+	"City": "El Duende",
+	"State": "NM",
+	"latitude": 36.0738,
+	"longitude": -106.1269
+},
+{
+	"City": "Tohatchi",
+	"State": "NM",
+	"latitude": 35.841,
+	"longitude": -108.7506
+},
+{
+	"City": "PeÃ±a Blanca",
+	"State": "NM",
+	"latitude": 35.5709,
+	"longitude": -106.3319
+},
+{
+	"City": "Napi Headquarters",
+	"State": "NM",
+	"latitude": 36.6538,
+	"longitude": -108.2186
+},
+{
+	"City": "Ventura",
+	"State": "NM",
+	"latitude": 32.2438,
+	"longitude": -107.6832
+},
+{
+	"City": "Livingston Wheeler",
+	"State": "NM",
+	"latitude": 32.3944,
+	"longitude": -104.1981
+},
+{
+	"City": "Algodones",
+	"State": "NM",
+	"latitude": 35.3802,
+	"longitude": -106.4731
+},
+{
+	"City": "Cordova",
+	"State": "NM",
+	"latitude": 36.0128,
+	"longitude": -105.8566
+},
+{
+	"City": "Cloudcroft",
+	"State": "NM",
+	"latitude": 32.9532,
+	"longitude": -105.7328
+},
+{
+	"City": "Cedar Crest",
+	"State": "NM",
+	"latitude": 35.1114,
+	"longitude": -106.3802
+},
+{
+	"City": "Santa Ana Pueblo",
+	"State": "NM",
+	"latitude": 35.3495,
+	"longitude": -106.5202
+},
+{
+	"City": "San Jose",
+	"State": "NM",
+	"latitude": 36.0367,
+	"longitude": -106.1004
+},
+{
+	"City": "Tyrone",
+	"State": "NM",
+	"latitude": 32.7099,
+	"longitude": -108.3028
+},
+{
+	"City": "PeÃ±asco",
+	"State": "NM",
+	"latitude": 36.1703,
+	"longitude": -105.6907
+},
+{
+	"City": "Lemitar",
+	"State": "NM",
+	"latitude": 34.1551,
+	"longitude": -106.9122
+},
+{
+	"City": "East Pecos",
+	"State": "NM",
+	"latitude": 35.5765,
+	"longitude": -105.6499
+},
+{
+	"City": "Nenahnezad",
+	"State": "NM",
+	"latitude": 36.7354,
+	"longitude": -108.4253
+},
+{
+	"City": "La Mesa",
+	"State": "NM",
+	"latitude": 32.1244,
+	"longitude": -106.709
+},
+{
+	"City": "Ojo Amarillo",
+	"State": "NM",
+	"latitude": 36.6942,
+	"longitude": -108.3704
+},
+{
+	"City": "Melrose",
+	"State": "NM",
+	"latitude": 34.4289,
+	"longitude": -103.6296
+},
+{
+	"City": "Kirtland",
+	"State": "NM",
+	"latitude": 36.7502,
+	"longitude": -108.3588
+},
+{
+	"City": "Chamberino",
+	"State": "NM",
+	"latitude": 32.0364,
+	"longitude": -106.6776
+},
+{
+	"City": "Glorieta",
+	"State": "NM",
+	"latitude": 35.5839,
+	"longitude": -105.7629
+},
+{
+	"City": "Los Luceros",
+	"State": "NM",
+	"latitude": 36.1151,
+	"longitude": -106.0371
+},
+{
+	"City": "Rodey",
+	"State": "NM",
+	"latitude": 32.6538,
+	"longitude": -107.1358
+},
+{
+	"City": "Madrone",
+	"State": "NM",
+	"latitude": 34.5792,
+	"longitude": -106.7285
+},
+{
+	"City": "La Hacienda",
+	"State": "NM",
+	"latitude": 32.206,
+	"longitude": -107.725
+},
+{
+	"City": "Acomita Lake",
+	"State": "NM",
+	"latitude": 35.066,
+	"longitude": -107.6173
+},
+{
+	"City": "La Villita",
+	"State": "NM",
+	"latitude": 36.1001,
+	"longitude": -106.0514
+},
+{
+	"City": "Mimbres",
+	"State": "NM",
+	"latitude": 32.8332,
+	"longitude": -107.9559
+},
+{
+	"City": "Ribera",
+	"State": "NM",
+	"latitude": 35.37,
+	"longitude": -105.4441
+},
+{
+	"City": "Chili",
+	"State": "NM",
+	"latitude": 36.1028,
+	"longitude": -106.1529
+},
+{
+	"City": "Yah-ta-hey",
+	"State": "NM",
+	"latitude": 35.6216,
+	"longitude": -108.7919
+},
+{
+	"City": "Cedar Grove",
+	"State": "NM",
+	"latitude": 35.168,
+	"longitude": -106.1615
+},
+{
+	"City": "Tijeras",
+	"State": "NM",
+	"latitude": 35.0884,
+	"longitude": -106.3761
+},
+{
+	"City": "CaÃ±ada de los Alamos",
+	"State": "NM",
+	"latitude": 35.5926,
+	"longitude": -105.8597
+},
+{
+	"City": "Rock Springs",
+	"State": "NM",
+	"latitude": 35.6088,
+	"longitude": -108.8293
+},
+{
+	"City": "La Plata",
+	"State": "NM",
+	"latitude": 36.9232,
+	"longitude": -108.1932
+},
+{
+	"City": "Sanostee",
+	"State": "NM",
+	"latitude": 36.4329,
+	"longitude": -108.873
+},
+{
+	"City": "Cochiti Lake",
+	"State": "NM",
+	"latitude": 35.6478,
+	"longitude": -106.3425
+},
+{
+	"City": "San Fidel",
+	"State": "NM",
+	"latitude": 35.1025,
+	"longitude": -107.5975
+},
+{
+	"City": "Red River",
+	"State": "NM",
+	"latitude": 36.7041,
+	"longitude": -105.4064
+},
+{
+	"City": "Highland Meadows",
+	"State": "NM",
+	"latitude": 34.94,
+	"longitude": -107.1656
+},
+{
+	"City": "Pleasanton",
+	"State": "NM",
+	"latitude": 33.2759,
+	"longitude": -108.8792
+},
+{
+	"City": "Cochiti",
+	"State": "NM",
+	"latitude": 35.6105,
+	"longitude": -106.3501
+},
+{
+	"City": "Cuyamungue",
+	"State": "NM",
+	"latitude": 35.8648,
+	"longitude": -106.0096
+},
+{
+	"City": "Ramah",
+	"State": "NM",
+	"latitude": 35.1375,
+	"longitude": -108.4861
+},
+{
+	"City": "Rio Lucio",
+	"State": "NM",
+	"latitude": 36.1922,
+	"longitude": -105.7199
+},
+{
+	"City": "Pueblo of Sandia Village",
+	"State": "NM",
+	"latitude": 35.2536,
+	"longitude": -106.5706
+},
+{
+	"City": "Lake Arthur",
+	"State": "NM",
+	"latitude": 32.9994,
+	"longitude": -104.3637
+},
+{
+	"City": "Peak Place",
+	"State": "NM",
+	"latitude": 35.7911,
+	"longitude": -105.9432
+},
+{
+	"City": "Williamsburg",
+	"State": "NM",
+	"latitude": 33.1158,
+	"longitude": -107.2951
+},
+{
+	"City": "Mesquite",
+	"State": "NM",
+	"latitude": 32.167,
+	"longitude": -106.6885
+},
+{
+	"City": "Isleta Village Proper",
+	"State": "NM",
+	"latitude": 34.9065,
+	"longitude": -106.6935
+},
+{
+	"City": "Cedro",
+	"State": "NM",
+	"latitude": 35.018,
+	"longitude": -106.3508
+},
+{
+	"City": "Vaughn",
+	"State": "NM",
+	"latitude": 34.6072,
+	"longitude": -105.2126
+},
+{
+	"City": "Pueblo Pintado",
+	"State": "NM",
+	"latitude": 35.9453,
+	"longitude": -107.6161
+},
+{
+	"City": "Jacona",
+	"State": "NM",
+	"latitude": 35.8887,
+	"longitude": -106.0386
+},
+{
+	"City": "Dixon",
+	"State": "NM",
+	"latitude": 36.1886,
+	"longitude": -105.8784
+},
+{
+	"City": "Naschitti",
+	"State": "NM",
+	"latitude": 36.0625,
+	"longitude": -108.68
+},
+{
+	"City": "Paguate",
+	"State": "NM",
+	"latitude": 35.1356,
+	"longitude": -107.364
+},
+{
+	"City": "Pinos Altos",
+	"State": "NM",
+	"latitude": 32.8665,
+	"longitude": -108.2221
+},
+{
+	"City": "Seama",
+	"State": "NM",
+	"latitude": 35.0441,
+	"longitude": -107.5271
+},
+{
+	"City": "Rincon",
+	"State": "NM",
+	"latitude": 32.6729,
+	"longitude": -107.0764
+},
+{
+	"City": "Newcomb",
+	"State": "NM",
+	"latitude": 36.2834,
+	"longitude": -108.7082
+},
+{
+	"City": "Chamisal",
+	"State": "NM",
+	"latitude": 36.1725,
+	"longitude": -105.7459
+},
+{
+	"City": "San Mateo",
+	"State": "NM",
+	"latitude": 35.3317,
+	"longitude": -107.6469
+},
+{
+	"City": "Brimhall Nizhoni",
+	"State": "NM",
+	"latitude": 35.7785,
+	"longitude": -108.6321
+},
+{
+	"City": "Crystal",
+	"State": "NM",
+	"latitude": 36.0281,
+	"longitude": -108.9911
+},
+{
+	"City": "Canjilon",
+	"State": "NM",
+	"latitude": 36.484,
+	"longitude": -106.4334
+},
+{
+	"City": "Edith Endave",
+	"State": "NM",
+	"latitude": 35.2104,
+	"longitude": -106.589
+},
+{
+	"City": "Cotton City",
+	"State": "NM",
+	"latitude": 32.11,
+	"longitude": -108.8805
+},
+{
+	"City": "Cubero",
+	"State": "NM",
+	"latitude": 35.0903,
+	"longitude": -107.5264
+},
+{
+	"City": "Sunshine",
+	"State": "NM",
+	"latitude": 32.1344,
+	"longitude": -107.7838
+},
+{
+	"City": "La Jara",
+	"State": "NM",
+	"latitude": 36.1055,
+	"longitude": -106.9418
+},
+{
+	"City": "Jaconita",
+	"State": "NM",
+	"latitude": 35.8857,
+	"longitude": -106.0611
+},
+{
+	"City": "Pulpotio Bareas",
+	"State": "NM",
+	"latitude": 32.2179,
+	"longitude": -107.7728
+},
+{
+	"City": "Rowe",
+	"State": "NM",
+	"latitude": 35.4922,
+	"longitude": -105.6715
+},
+{
+	"City": "Las Palomas",
+	"State": "NM",
+	"latitude": 33.0589,
+	"longitude": -107.2982
+},
+{
+	"City": "Tesuque Pueblo",
+	"State": "NM",
+	"latitude": 35.809,
+	"longitude": -105.9752
+},
+{
+	"City": "Vadito",
+	"State": "NM",
+	"latitude": 36.193,
+	"longitude": -105.6754
+},
+{
+	"City": "Pueblitos",
+	"State": "NM",
+	"latitude": 34.6109,
+	"longitude": -106.7817
+},
+{
+	"City": "Salem",
+	"State": "NM",
+	"latitude": 32.7122,
+	"longitude": -107.2044
+},
+{
+	"City": "Manzano Springs",
+	"State": "NM",
+	"latitude": 34.9614,
+	"longitude": -106.2328
+},
+{
+	"City": "Villanueva",
+	"State": "NM",
+	"latitude": 35.266,
+	"longitude": -105.3602
+},
+{
+	"City": "Velarde",
+	"State": "NM",
+	"latitude": 36.1607,
+	"longitude": -105.966
+},
+{
+	"City": "Nakaibito",
+	"State": "NM",
+	"latitude": 35.7826,
+	"longitude": -108.8039
+},
+{
+	"City": "North Light Plant",
+	"State": "NM",
+	"latitude": 36.8751,
+	"longitude": -108.0458
+},
+{
+	"City": "Beclabito",
+	"State": "NM",
+	"latitude": 36.8335,
+	"longitude": -109.004
+},
+{
+	"City": "Nadine",
+	"State": "NM",
+	"latitude": 32.6232,
+	"longitude": -103.1078
+},
+{
+	"City": "Abeytas",
+	"State": "NM",
+	"latitude": 34.4652,
+	"longitude": -106.8137
+},
+{
+	"City": "Wagon Mound",
+	"State": "NM",
+	"latitude": 36.0048,
+	"longitude": -104.7091
+},
+{
+	"City": "Encinal",
+	"State": "NM",
+	"latitude": 35.1308,
+	"longitude": -107.4368
+},
+{
+	"City": "Reserve",
+	"State": "NM",
+	"latitude": 33.709,
+	"longitude": -108.7614
+},
+{
+	"City": "Timberon",
+	"State": "NM",
+	"latitude": 32.6358,
+	"longitude": -105.6925
+},
+{
+	"City": "North Acomita Village",
+	"State": "NM",
+	"latitude": 35.0659,
+	"longitude": -107.5676
+},
+{
+	"City": "Jemez Springs",
+	"State": "NM",
+	"latitude": 35.7732,
+	"longitude": -106.6909
+},
+{
+	"City": "Tajique",
+	"State": "NM",
+	"latitude": 34.76,
+	"longitude": -106.301
+},
+{
+	"City": "Pajarito Mesa",
+	"State": "NM",
+	"latitude": 34.9795,
+	"longitude": -106.7979
+},
+{
+	"City": "Navajo Dam",
+	"State": "NM",
+	"latitude": 36.7981,
+	"longitude": -107.7045
+},
+{
+	"City": "Ponderosa",
+	"State": "NM",
+	"latitude": 35.6555,
+	"longitude": -106.6544
+},
+{
+	"City": "Tecolotito",
+	"State": "NM",
+	"latitude": 35.2307,
+	"longitude": -105.1631
+},
+{
+	"City": "Eagle Nest",
+	"State": "NM",
+	"latitude": 36.5495,
+	"longitude": -105.2593
+},
+{
+	"City": "Sheep Springs",
+	"State": "NM",
+	"latitude": 36.1564,
+	"longitude": -108.6905
+},
+{
+	"City": "Cruzville",
+	"State": "NM",
+	"latitude": 33.81,
+	"longitude": -108.6684
+},
+{
+	"City": "Santa Cruz",
+	"State": "NM",
+	"latitude": 35.9939,
+	"longitude": -106.0358
+},
+{
+	"City": "White Signal",
+	"State": "NM",
+	"latitude": 32.5724,
+	"longitude": -108.3512
+},
+{
+	"City": "Willard",
+	"State": "NM",
+	"latitude": 34.5949,
+	"longitude": -106.0323
+},
+{
+	"City": "Young Place",
+	"State": "NM",
+	"latitude": 36.9934,
+	"longitude": -107.4931
+},
+{
+	"City": "Sandia Park",
+	"State": "NM",
+	"latitude": 35.1648,
+	"longitude": -106.3657
+},
+{
+	"City": "Galisteo",
+	"State": "NM",
+	"latitude": 35.395,
+	"longitude": -105.9569
+},
+{
+	"City": "Gila",
+	"State": "NM",
+	"latitude": 32.9485,
+	"longitude": -108.5762
+},
+{
+	"City": "Madrid",
+	"State": "NM",
+	"latitude": 35.4032,
+	"longitude": -106.1538
+},
+{
+	"City": "Cuyamungue Grant",
+	"State": "NM",
+	"latitude": 35.8464,
+	"longitude": -105.9948
+},
+{
+	"City": "San Luis",
+	"State": "NM",
+	"latitude": 35.7009,
+	"longitude": -107.0431
+},
+{
+	"City": "Maxwell",
+	"State": "NM",
+	"latitude": 36.5411,
+	"longitude": -104.5431
+},
+{
+	"City": "Roy",
+	"State": "NM",
+	"latitude": 35.9451,
+	"longitude": -104.1963
+},
+{
+	"City": "Organ",
+	"State": "NM",
+	"latitude": 32.4251,
+	"longitude": -106.6024
+},
+{
+	"City": "Ute Park",
+	"State": "NM",
+	"latitude": 36.5467,
+	"longitude": -105.1038
+},
+{
+	"City": "Hanover",
+	"State": "NM",
+	"latitude": 32.8149,
+	"longitude": -108.0897
+},
+{
+	"City": "Chupadero",
+	"State": "NM",
+	"latitude": 35.8144,
+	"longitude": -105.9198
+},
+{
+	"City": "Bluewater Acres",
+	"State": "NM",
+	"latitude": 35.2667,
+	"longitude": -108.1351
+},
+{
+	"City": "San Jon",
+	"State": "NM",
+	"latitude": 35.1113,
+	"longitude": -103.3363
+},
+{
+	"City": "Torreon",
+	"State": "NM",
+	"latitude": 34.7241,
+	"longitude": -106.3008
+},
+{
+	"City": "Lyden",
+	"State": "NM",
+	"latitude": 36.1537,
+	"longitude": -106.0147
+},
+{
+	"City": "CaÃ±on",
+	"State": "NM",
+	"latitude": 35.6718,
+	"longitude": -106.7527
+},
+{
+	"City": "Tse Bonito",
+	"State": "NM",
+	"latitude": 35.6525,
+	"longitude": -109.0361
+},
+{
+	"City": "Twin Forks",
+	"State": "NM",
+	"latitude": 32.9463,
+	"longitude": -105.6374
+},
+{
+	"City": "San Cristobal",
+	"State": "NM",
+	"latitude": 36.6101,
+	"longitude": -105.6319
+},
+{
+	"City": "Nageezi",
+	"State": "NM",
+	"latitude": 36.2488,
+	"longitude": -107.7471
+},
+{
+	"City": "Los Cerrillos",
+	"State": "NM",
+	"latitude": 35.4272,
+	"longitude": -106.1211
+},
+{
+	"City": "Quemado",
+	"State": "NM",
+	"latitude": 34.3415,
+	"longitude": -108.5061
+},
+{
+	"City": "Arroyo Hondo",
+	"State": "NM",
+	"latitude": 36.5346,
+	"longitude": -105.6666
+},
+{
+	"City": "Elida",
+	"State": "NM",
+	"latitude": 33.9469,
+	"longitude": -103.6531
+},
+{
+	"City": "Truchas",
+	"State": "NM",
+	"latitude": 36.0338,
+	"longitude": -105.8095
+},
+{
+	"City": "Glen Acres",
+	"State": "NM",
+	"latitude": 32.3748,
+	"longitude": -108.7161
+},
+{
+	"City": "Seboyeta",
+	"State": "NM",
+	"latitude": 35.2241,
+	"longitude": -107.4049
+},
+{
+	"City": "Soham",
+	"State": "NM",
+	"latitude": 35.4168,
+	"longitude": -105.4985
+},
+{
+	"City": "San Lorenzo",
+	"State": "NM",
+	"latitude": 32.8085,
+	"longitude": -107.9221
+},
+{
+	"City": "Corona",
+	"State": "NM",
+	"latitude": 34.2501,
+	"longitude": -105.597
+},
+{
+	"City": "Lamy",
+	"State": "NM",
+	"latitude": 35.4854,
+	"longitude": -105.8863
+},
+{
+	"City": "Blanco",
+	"State": "NM",
+	"latitude": 36.7211,
+	"longitude": -107.8332
+},
+{
+	"City": "Alcalde",
+	"State": "NM",
+	"latitude": 36.0854,
+	"longitude": -106.0575
+},
+{
+	"City": "Hillsboro",
+	"State": "NM",
+	"latitude": 32.9218,
+	"longitude": -107.5774
+},
+{
+	"City": "Abiquiu",
+	"State": "NM",
+	"latitude": 36.2017,
+	"longitude": -106.3239
+},
+{
+	"City": "Buckhorn",
+	"State": "NM",
+	"latitude": 33.0315,
+	"longitude": -108.6944
+},
+{
+	"City": "Tecolote",
+	"State": "NM",
+	"latitude": 35.4605,
+	"longitude": -105.2842
+},
+{
+	"City": "Alamillo",
+	"State": "NM",
+	"latitude": 34.2519,
+	"longitude": -106.9158
+},
+{
+	"City": "Lake Sumner",
+	"State": "NM",
+	"latitude": 34.6186,
+	"longitude": -104.3801
+},
+{
+	"City": "Nogal",
+	"State": "NM",
+	"latitude": 33.5382,
+	"longitude": -105.7119
+},
+{
+	"City": "San Pedro",
+	"State": "NM",
+	"latitude": 35.228,
+	"longitude": -106.1848
+},
+{
+	"City": "La Cueva",
+	"State": "NM",
+	"latitude": 35.8695,
+	"longitude": -106.6485
+},
+{
+	"City": "Cliff",
+	"State": "NM",
+	"latitude": 32.966,
+	"longitude": -108.6176
+},
+{
+	"City": "Llano del Medio",
+	"State": "NM",
+	"latitude": 35.1881,
+	"longitude": -105.1162
+},
+{
+	"City": "Monument",
+	"State": "NM",
+	"latitude": 32.6243,
+	"longitude": -103.2776
+},
+{
+	"City": "Virden",
+	"State": "NM",
+	"latitude": 32.6889,
+	"longitude": -109.0013
+},
+{
+	"City": "Polvadera",
+	"State": "NM",
+	"latitude": 34.2021,
+	"longitude": -106.9172
+},
+{
+	"City": "Mountain View",
+	"State": "NM",
+	"latitude": 32.2288,
+	"longitude": -107.7462
+},
+{
+	"City": "Casa Colorada",
+	"State": "NM",
+	"latitude": 34.5534,
+	"longitude": -106.742
+},
+{
+	"City": "Las Nutrias",
+	"State": "NM",
+	"latitude": 34.4699,
+	"longitude": -106.7708
+},
+{
+	"City": "Anton Chico",
+	"State": "NM",
+	"latitude": 35.1948,
+	"longitude": -105.1439
+},
+{
+	"City": "Watrous",
+	"State": "NM",
+	"latitude": 35.79,
+	"longitude": -104.9821
+},
+{
+	"City": "Rosedale",
+	"State": "NM",
+	"latitude": 32.7694,
+	"longitude": -108.2417
+},
+{
+	"City": "Des Moines",
+	"State": "NM",
+	"latitude": 36.7613,
+	"longitude": -103.8342
+},
+{
+	"City": "Dora",
+	"State": "NM",
+	"latitude": 33.9324,
+	"longitude": -103.3369
+},
+{
+	"City": "Gallina",
+	"State": "NM",
+	"latitude": 36.2297,
+	"longitude": -106.8088
+},
+{
+	"City": "Lumberton",
+	"State": "NM",
+	"latitude": 36.9328,
+	"longitude": -106.9352
+},
+{
+	"City": "Malaga",
+	"State": "NM",
+	"latitude": 32.2227,
+	"longitude": -104.0692
+},
+{
+	"City": "Animas",
+	"State": "NM",
+	"latitude": 31.9449,
+	"longitude": -108.8065
+},
+{
+	"City": "Fence Lake",
+	"State": "NM",
+	"latitude": 34.669,
+	"longitude": -108.6802
+},
+{
+	"City": "Picuris Pueblo",
+	"State": "NM",
+	"latitude": 36.1995,
+	"longitude": -105.7133
+},
+{
+	"City": "Pie Town",
+	"State": "NM",
+	"latitude": 34.34,
+	"longitude": -108.1708
+},
+{
+	"City": "Floyd",
+	"State": "NM",
+	"latitude": 34.229,
+	"longitude": -103.552
+},
+{
+	"City": "Chical",
+	"State": "NM",
+	"latitude": 34.8657,
+	"longitude": -106.667
+},
+{
+	"City": "Hope",
+	"State": "NM",
+	"latitude": 32.8159,
+	"longitude": -104.7371
+},
+{
+	"City": "Pueblito",
+	"State": "NM",
+	"latitude": 36.0727,
+	"longitude": -106.0811
+},
+{
+	"City": "Grady",
+	"State": "NM",
+	"latitude": 34.8218,
+	"longitude": -103.3157
+},
+{
+	"City": "McCartys Village",
+	"State": "NM",
+	"latitude": 35.0636,
+	"longitude": -107.6836
+},
+{
+	"City": "Canova",
+	"State": "NM",
+	"latitude": 36.1648,
+	"longitude": -105.9857
+},
+{
+	"City": "Causey",
+	"State": "NM",
+	"latitude": 33.8609,
+	"longitude": -103.107
+},
+{
+	"City": "North Hurley",
+	"State": "NM",
+	"latitude": 32.7198,
+	"longitude": -108.1285
+},
+{
+	"City": "Lake Valley",
+	"State": "NM",
+	"latitude": 36.0901,
+	"longitude": -108.1642
+},
+{
+	"City": "Apache Creek",
+	"State": "NM",
+	"latitude": 33.8486,
+	"longitude": -108.6141
+},
+{
+	"City": "Aragon",
+	"State": "NM",
+	"latitude": 33.8899,
+	"longitude": -108.5201
+},
+{
+	"City": "Windmill",
+	"State": "NM",
+	"latitude": 31.9769,
+	"longitude": -108.6315
+},
+{
+	"City": "Costilla",
+	"State": "NM",
+	"latitude": 36.9786,
+	"longitude": -105.5353
+},
+{
+	"City": "CaÃ±ones",
+	"State": "NM",
+	"latitude": 36.1769,
+	"longitude": -106.4244
+},
+{
+	"City": "Rio en Medio",
+	"State": "NM",
+	"latitude": 35.8221,
+	"longitude": -105.901
+},
+{
+	"City": "Brazos",
+	"State": "NM",
+	"latitude": 36.7528,
+	"longitude": -106.5598
+},
+{
+	"City": "Sacramento",
+	"State": "NM",
+	"latitude": 32.7917,
+	"longitude": -105.5723
+},
+{
+	"City": "Mosquero",
+	"State": "NM",
+	"latitude": 35.7743,
+	"longitude": -103.9544
+},
+{
+	"City": "Whites City",
+	"State": "NM",
+	"latitude": 32.1767,
+	"longitude": -104.3739
+},
+{
+	"City": "Sombrillo",
+	"State": "NM",
+	"latitude": 35.9802,
+	"longitude": -106.0353
+},
+{
+	"City": "Luis Lopez",
+	"State": "NM",
+	"latitude": 33.9904,
+	"longitude": -106.8878
+},
+{
+	"City": "Bluewater Village",
+	"State": "NM",
+	"latitude": 35.2379,
+	"longitude": -107.981
+},
+{
+	"City": "Encino",
+	"State": "NM",
+	"latitude": 34.6518,
+	"longitude": -105.4586
+},
+{
+	"City": "Chamizal",
+	"State": "NM",
+	"latitude": 34.2183,
+	"longitude": -106.9151
+},
+{
+	"City": "Veguita",
+	"State": "NM",
+	"latitude": 34.5147,
+	"longitude": -106.7679
+},
+{
+	"City": "Winston",
+	"State": "NM",
+	"latitude": 33.3461,
+	"longitude": -107.6488
+},
+{
+	"City": "San Acacia",
+	"State": "NM",
+	"latitude": 34.255,
+	"longitude": -106.9023
+},
+{
+	"City": "Coyote",
+	"State": "NM",
+	"latitude": 36.1616,
+	"longitude": -106.6067
+},
+{
+	"City": "Escudilla Bonita",
+	"State": "NM",
+	"latitude": 34.1122,
+	"longitude": -109.0231
+},
+{
+	"City": "Rodeo",
+	"State": "NM",
+	"latitude": 31.8396,
+	"longitude": -109.0265
+},
+{
+	"City": "Taos Ski Valley",
+	"State": "NM",
+	"latitude": 36.5902,
+	"longitude": -105.437
+},
+{
+	"City": "Pinehill",
+	"State": "NM",
+	"latitude": 35.0031,
+	"longitude": -108.408
+},
+{
+	"City": "Regina",
+	"State": "NM",
+	"latitude": 36.1947,
+	"longitude": -106.9453
+},
+{
+	"City": "Oasis",
+	"State": "NM",
+	"latitude": 32.9277,
+	"longitude": -107.3164
+},
+{
+	"City": "House",
+	"State": "NM",
+	"latitude": 34.6489,
+	"longitude": -103.904
+},
+{
+	"City": "Puerto de Luna",
+	"State": "NM",
+	"latitude": 34.8297,
+	"longitude": -104.6222
+},
+{
+	"City": "Bent",
+	"State": "NM",
+	"latitude": 33.1473,
+	"longitude": -105.859
+},
+{
+	"City": "Moquino",
+	"State": "NM",
+	"latitude": 35.1801,
+	"longitude": -107.3701
+},
+{
+	"City": "Folsom",
+	"State": "NM",
+	"latitude": 36.8478,
+	"longitude": -103.9176
+},
+{
+	"City": "Mayhill",
+	"State": "NM",
+	"latitude": 32.8962,
+	"longitude": -105.496
+},
+{
+	"City": "Bibo",
+	"State": "NM",
+	"latitude": 35.1807,
+	"longitude": -107.4178
+},
+{
+	"City": "Chilili",
+	"State": "NM",
+	"latitude": 34.8974,
+	"longitude": -106.2332
+},
+{
+	"City": "Playas",
+	"State": "NM",
+	"latitude": 31.9126,
+	"longitude": -108.5363
+},
+{
+	"City": "Los Ojos",
+	"State": "NM",
+	"latitude": 36.736,
+	"longitude": -106.567
+},
+{
+	"City": "North San Ysidro",
+	"State": "NM",
+	"latitude": 35.4747,
+	"longitude": -105.5662
+},
+{
+	"City": "Lake Roberts Heights",
+	"State": "NM",
+	"latitude": 33.0271,
+	"longitude": -108.1382
+},
+{
+	"City": "City of the Sun",
+	"State": "NM",
+	"latitude": 31.8466,
+	"longitude": -107.6504
+},
+{
+	"City": "Faywood",
+	"State": "NM",
+	"latitude": 32.6248,
+	"longitude": -107.8723
+},
+{
+	"City": "Caballo",
+	"State": "NM",
+	"latitude": 32.9806,
+	"longitude": -107.3075
+},
+{
+	"City": "Youngsville",
+	"State": "NM",
+	"latitude": 36.1928,
+	"longitude": -106.5659
+},
+{
+	"City": "Nara Visa",
+	"State": "NM",
+	"latitude": 35.6068,
+	"longitude": -103.1043
+},
+{
+	"City": "Orogrande",
+	"State": "NM",
+	"latitude": 32.3875,
+	"longitude": -106.1003
+},
+{
+	"City": "Hachita",
+	"State": "NM",
+	"latitude": 31.9153,
+	"longitude": -108.3251
+},
+{
+	"City": "Duran",
+	"State": "NM",
+	"latitude": 34.4636,
+	"longitude": -105.3807
+},
+{
+	"City": "South Acomita Village",
+	"State": "NM",
+	"latitude": 35.0534,
+	"longitude": -107.561
+},
+{
+	"City": "Anzac Village",
+	"State": "NM",
+	"latitude": 35.0613,
+	"longitude": -107.7456
+},
+{
+	"City": "Cundiyo",
+	"State": "NM",
+	"latitude": 35.9565,
+	"longitude": -105.8971
+},
+{
+	"City": "Capulin",
+	"State": "NM",
+	"latitude": 36.7445,
+	"longitude": -103.9958
+},
+{
+	"City": "Glenwood",
+	"State": "NM",
+	"latitude": 33.3188,
+	"longitude": -108.8811
+},
+{
+	"City": "Lake Roberts",
+	"State": "NM",
+	"latitude": 33.0313,
+	"longitude": -108.1689
+},
+{
+	"City": "Homestead",
+	"State": "NM",
+	"latitude": 34.1489,
+	"longitude": -107.8822
+},
+{
+	"City": "Weed",
+	"State": "NM",
+	"latitude": 32.8025,
+	"longitude": -105.5248
+},
+{
+	"City": "Grenville",
+	"State": "NM",
+	"latitude": 36.5905,
+	"longitude": -103.6145
+},
+{
+	"City": "Middle Frisco",
+	"State": "NM",
+	"latitude": 33.6949,
+	"longitude": -108.7639
+},
+{
+	"City": "Luna",
+	"State": "NM",
+	"latitude": 33.8181,
+	"longitude": -108.9435
+},
+{
+	"City": "Arrey",
+	"State": "NM",
+	"latitude": 32.8472,
+	"longitude": -107.3204
+},
+{
+	"City": "La Madera",
+	"State": "NM",
+	"latitude": 36.3807,
+	"longitude": -106.042
+},
+{
+	"City": "Loco Hills",
+	"State": "NM",
+	"latitude": 32.8197,
+	"longitude": -103.9783
+},
+{
+	"City": "Datil",
+	"State": "NM",
+	"latitude": 34.1424,
+	"longitude": -107.8425
+},
+{
+	"City": "Escondida",
+	"State": "NM",
+	"latitude": 34.1012,
+	"longitude": -106.8974
+},
+{
+	"City": "Ensenada",
+	"State": "NM",
+	"latitude": 36.7309,
+	"longitude": -106.5367
+},
+{
+	"City": "Cobre",
+	"State": "NM",
+	"latitude": 32.7805,
+	"longitude": -108.1105
+},
+{
+	"City": "Cuartelez",
+	"State": "NM",
+	"latitude": 35.9928,
+	"longitude": -106.0197
+},
+{
+	"City": "Kingston",
+	"State": "NM",
+	"latitude": 32.9173,
+	"longitude": -107.7096
+},
+{
+	"City": "La Joya",
+	"State": "NM",
+	"latitude": 34.3449,
+	"longitude": -106.8465
+},
+{
+	"City": "Conchas Dam",
+	"State": "NM",
+	"latitude": 35.3623,
+	"longitude": -104.2042
+},
+{
+	"City": "San Antonio",
+	"State": "NM",
+	"latitude": 33.9161,
+	"longitude": -106.87
+},
+{
+	"City": "Pastura",
+	"State": "NM",
+	"latitude": 34.7851,
+	"longitude": -104.9421
+}]

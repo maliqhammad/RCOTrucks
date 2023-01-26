@@ -1,0 +1,2293 @@
+[
+{
+	"City": "Sioux Falls",
+	"State": "SD",
+	"latitude": 43.5397,
+	"longitude": -96.732
+},
+{
+	"City": "Rapid City",
+	"State": "SD",
+	"latitude": 44.0716,
+	"longitude": -103.2204
+},
+{
+	"City": "Aberdeen",
+	"State": "SD",
+	"latitude": 45.4646,
+	"longitude": -98.468
+},
+{
+	"City": "Brookings",
+	"State": "SD",
+	"latitude": 44.3022,
+	"longitude": -96.7859
+},
+{
+	"City": "Watertown",
+	"State": "SD",
+	"latitude": 44.9094,
+	"longitude": -97.1531
+},
+{
+	"City": "Mitchell",
+	"State": "SD",
+	"latitude": 43.7296,
+	"longitude": -98.0337
+},
+{
+	"City": "Yankton",
+	"State": "SD",
+	"latitude": 42.8901,
+	"longitude": -97.3926
+},
+{
+	"City": "Pierre",
+	"State": "SD",
+	"latitude": 44.3748,
+	"longitude": -100.3205
+},
+{
+	"City": "Huron",
+	"State": "SD",
+	"latitude": 44.3622,
+	"longitude": -98.2102
+},
+{
+	"City": "Spearfish",
+	"State": "SD",
+	"latitude": 44.4912,
+	"longitude": -103.8167
+},
+{
+	"City": "Vermillion",
+	"State": "SD",
+	"latitude": 42.7811,
+	"longitude": -96.9255
+},
+{
+	"City": "Box Elder",
+	"State": "SD",
+	"latitude": 44.1121,
+	"longitude": -103.0827
+},
+{
+	"City": "Brandon",
+	"State": "SD",
+	"latitude": 43.5928,
+	"longitude": -96.5799
+},
+{
+	"City": "Rapid Valley",
+	"State": "SD",
+	"latitude": 44.0674,
+	"longitude": -103.1223
+},
+{
+	"City": "Madison",
+	"State": "SD",
+	"latitude": 44.0062,
+	"longitude": -97.1084
+},
+{
+	"City": "Sturgis",
+	"State": "SD",
+	"latitude": 44.411,
+	"longitude": -103.4975
+},
+{
+	"City": "Harrisburg",
+	"State": "SD",
+	"latitude": 43.4321,
+	"longitude": -96.7037
+},
+{
+	"City": "Tea",
+	"State": "SD",
+	"latitude": 43.4511,
+	"longitude": -96.834
+},
+{
+	"City": "Belle Fourche",
+	"State": "SD",
+	"latitude": 44.6642,
+	"longitude": -103.8564
+},
+{
+	"City": "Pine Ridge",
+	"State": "SD",
+	"latitude": 43.027,
+	"longitude": -102.5525
+},
+{
+	"City": "Dell Rapids",
+	"State": "SD",
+	"latitude": 43.8239,
+	"longitude": -96.7138
+},
+{
+	"City": "Canton",
+	"State": "SD",
+	"latitude": 43.3032,
+	"longitude": -96.5848
+},
+{
+	"City": "Lead",
+	"State": "SD",
+	"latitude": 44.3528,
+	"longitude": -103.7671
+},
+{
+	"City": "Hot Springs",
+	"State": "SD",
+	"latitude": 43.4196,
+	"longitude": -103.4658
+},
+{
+	"City": "Mobridge",
+	"State": "SD",
+	"latitude": 45.541,
+	"longitude": -100.4349
+},
+{
+	"City": "Hartford",
+	"State": "SD",
+	"latitude": 43.621,
+	"longitude": -96.9424
+},
+{
+	"City": "Dakota Dunes",
+	"State": "SD",
+	"latitude": 42.4919,
+	"longitude": -96.4867
+},
+{
+	"City": "Milbank",
+	"State": "SD",
+	"latitude": 45.2194,
+	"longitude": -96.634
+},
+{
+	"City": "Blackhawk",
+	"State": "SD",
+	"latitude": 44.1514,
+	"longitude": -103.334
+},
+{
+	"City": "North Sioux City",
+	"State": "SD",
+	"latitude": 42.535,
+	"longitude": -96.4998
+},
+{
+	"City": "Winner",
+	"State": "SD",
+	"latitude": 43.3777,
+	"longitude": -99.855
+},
+{
+	"City": "Summerset",
+	"State": "SD",
+	"latitude": 44.1912,
+	"longitude": -103.3393
+},
+{
+	"City": "Lennox",
+	"State": "SD",
+	"latitude": 43.3479,
+	"longitude": -96.8939
+},
+{
+	"City": "Sisseton",
+	"State": "SD",
+	"latitude": 45.6625,
+	"longitude": -97.0453
+},
+{
+	"City": "Colonial Pine Hills",
+	"State": "SD",
+	"latitude": 44.0141,
+	"longitude": -103.3146
+},
+{
+	"City": "Chamberlain",
+	"State": "SD",
+	"latitude": 43.7861,
+	"longitude": -99.3269
+},
+{
+	"City": "Flandreau",
+	"State": "SD",
+	"latitude": 44.0465,
+	"longitude": -96.5984
+},
+{
+	"City": "North Spearfish",
+	"State": "SD",
+	"latitude": 44.5123,
+	"longitude": -103.8955
+},
+{
+	"City": "Redfield",
+	"State": "SD",
+	"latitude": 44.8725,
+	"longitude": -98.5186
+},
+{
+	"City": "North Eagle Butte",
+	"State": "SD",
+	"latitude": 45.0169,
+	"longitude": -101.2365
+},
+{
+	"City": "Fort Pierre",
+	"State": "SD",
+	"latitude": 44.368,
+	"longitude": -100.3831
+},
+{
+	"City": "Volga",
+	"State": "SD",
+	"latitude": 44.3232,
+	"longitude": -96.9223
+},
+{
+	"City": "Beresford",
+	"State": "SD",
+	"latitude": 43.0797,
+	"longitude": -96.7802
+},
+{
+	"City": "Custer",
+	"State": "SD",
+	"latitude": 43.7668,
+	"longitude": -103.6005
+},
+{
+	"City": "Springfield",
+	"State": "SD",
+	"latitude": 42.8625,
+	"longitude": -97.8963
+},
+{
+	"City": "Elk Point",
+	"State": "SD",
+	"latitude": 42.6816,
+	"longitude": -96.68
+},
+{
+	"City": "Webster",
+	"State": "SD",
+	"latitude": 45.3366,
+	"longitude": -97.5218
+},
+{
+	"City": "Rosebud",
+	"State": "SD",
+	"latitude": 43.2399,
+	"longitude": -100.823
+},
+{
+	"City": "Oglala",
+	"State": "SD",
+	"latitude": 43.1849,
+	"longitude": -102.7267
+},
+{
+	"City": "Wagner",
+	"State": "SD",
+	"latitude": 43.0768,
+	"longitude": -98.2934
+},
+{
+	"City": "Parkston",
+	"State": "SD",
+	"latitude": 43.3929,
+	"longitude": -97.9864
+},
+{
+	"City": "Groton",
+	"State": "SD",
+	"latitude": 45.4517,
+	"longitude": -98.1
+},
+{
+	"City": "Porcupine",
+	"State": "SD",
+	"latitude": 43.2687,
+	"longitude": -102.3353
+},
+{
+	"City": "Eagle Butte",
+	"State": "SD",
+	"latitude": 44.9907,
+	"longitude": -101.2275
+},
+{
+	"City": "Miller",
+	"State": "SD",
+	"latitude": 44.5205,
+	"longitude": -98.9869
+},
+{
+	"City": "Crooks",
+	"State": "SD",
+	"latitude": 43.6596,
+	"longitude": -96.8092
+},
+{
+	"City": "Deadwood",
+	"State": "SD",
+	"latitude": 44.3871,
+	"longitude": -103.7207
+},
+{
+	"City": "Salem",
+	"State": "SD",
+	"latitude": 43.7228,
+	"longitude": -97.3894
+},
+{
+	"City": "Freeman",
+	"State": "SD",
+	"latitude": 43.35,
+	"longitude": -97.4288
+},
+{
+	"City": "Britton",
+	"State": "SD",
+	"latitude": 45.7924,
+	"longitude": -97.7529
+},
+{
+	"City": "Clear Lake",
+	"State": "SD",
+	"latitude": 44.7646,
+	"longitude": -96.6767
+},
+{
+	"City": "Platte",
+	"State": "SD",
+	"latitude": 43.3868,
+	"longitude": -98.8437
+},
+{
+	"City": "Mission",
+	"State": "SD",
+	"latitude": 43.3063,
+	"longitude": -100.661
+},
+{
+	"City": "Gregory",
+	"State": "SD",
+	"latitude": 43.2299,
+	"longitude": -99.4208
+},
+{
+	"City": "Fort Thompson",
+	"State": "SD",
+	"latitude": 44.0527,
+	"longitude": -99.4079
+},
+{
+	"City": "Green Valley",
+	"State": "SD",
+	"latitude": 44.039,
+	"longitude": -103.1116
+},
+{
+	"City": "Baltic",
+	"State": "SD",
+	"latitude": 43.7603,
+	"longitude": -96.7371
+},
+{
+	"City": "Lemmon",
+	"State": "SD",
+	"latitude": 45.9385,
+	"longitude": -102.1589
+},
+{
+	"City": "Garretson",
+	"State": "SD",
+	"latitude": 43.7149,
+	"longitude": -96.5026
+},
+{
+	"City": "Kyle",
+	"State": "SD",
+	"latitude": 43.4245,
+	"longitude": -102.1802
+},
+{
+	"City": "Gettysburg",
+	"State": "SD",
+	"latitude": 45.006,
+	"longitude": -99.9539
+},
+{
+	"City": "Clark",
+	"State": "SD",
+	"latitude": 44.8813,
+	"longitude": -97.7346
+},
+{
+	"City": "De Smet",
+	"State": "SD",
+	"latitude": 44.3862,
+	"longitude": -97.5497
+},
+{
+	"City": "Martin",
+	"State": "SD",
+	"latitude": 43.1749,
+	"longitude": -101.7324
+},
+{
+	"City": "Hill City",
+	"State": "SD",
+	"latitude": 43.9338,
+	"longitude": -103.5693
+},
+{
+	"City": "Parker",
+	"State": "SD",
+	"latitude": 43.3978,
+	"longitude": -97.1334
+},
+{
+	"City": "Tyndall",
+	"State": "SD",
+	"latitude": 42.9899,
+	"longitude": -97.8642
+},
+{
+	"City": "Worthing",
+	"State": "SD",
+	"latitude": 43.33,
+	"longitude": -96.7683
+},
+{
+	"City": "Whitewood",
+	"State": "SD",
+	"latitude": 44.4617,
+	"longitude": -103.6382
+},
+{
+	"City": "Wanblee",
+	"State": "SD",
+	"latitude": 43.5706,
+	"longitude": -101.6627
+},
+{
+	"City": "Wessington Springs",
+	"State": "SD",
+	"latitude": 44.0805,
+	"longitude": -98.5712
+},
+{
+	"City": "Piedmont",
+	"State": "SD",
+	"latitude": 44.2135,
+	"longitude": -103.3715
+},
+{
+	"City": "Antelope",
+	"State": "SD",
+	"latitude": 43.3087,
+	"longitude": -100.6307
+},
+{
+	"City": "Lower Brule",
+	"State": "SD",
+	"latitude": 44.0741,
+	"longitude": -99.5837
+},
+{
+	"City": "Lake Madison",
+	"State": "SD",
+	"latitude": 43.9593,
+	"longitude": -97.0209
+},
+{
+	"City": "Ipswich",
+	"State": "SD",
+	"latitude": 45.4434,
+	"longitude": -99.03
+},
+{
+	"City": "Wall",
+	"State": "SD",
+	"latitude": 43.9914,
+	"longitude": -102.2421
+},
+{
+	"City": "Centerville",
+	"State": "SD",
+	"latitude": 43.1165,
+	"longitude": -96.9596
+},
+{
+	"City": "Arlington",
+	"State": "SD",
+	"latitude": 44.3635,
+	"longitude": -97.1338
+},
+{
+	"City": "Aurora",
+	"State": "SD",
+	"latitude": 44.2826,
+	"longitude": -96.6863
+},
+{
+	"City": "Eureka",
+	"State": "SD",
+	"latitude": 45.7707,
+	"longitude": -99.6207
+},
+{
+	"City": "Lake Andes",
+	"State": "SD",
+	"latitude": 43.1559,
+	"longitude": -98.5362
+},
+{
+	"City": "Scotland",
+	"State": "SD",
+	"latitude": 43.1481,
+	"longitude": -97.7199
+},
+{
+	"City": "Marion",
+	"State": "SD",
+	"latitude": 43.4236,
+	"longitude": -97.2605
+},
+{
+	"City": "Viborg",
+	"State": "SD",
+	"latitude": 43.1715,
+	"longitude": -97.0798
+},
+{
+	"City": "Ashland Heights",
+	"State": "SD",
+	"latitude": 44.1293,
+	"longitude": -103.1286
+},
+{
+	"City": "Philip",
+	"State": "SD",
+	"latitude": 44.0408,
+	"longitude": -101.6646
+},
+{
+	"City": "Shindler",
+	"State": "SD",
+	"latitude": 43.4677,
+	"longitude": -96.6355
+},
+{
+	"City": "Howard",
+	"State": "SD",
+	"latitude": 44.0116,
+	"longitude": -97.5245
+},
+{
+	"City": "Alcester",
+	"State": "SD",
+	"latitude": 43.0231,
+	"longitude": -96.6279
+},
+{
+	"City": "Estelline",
+	"State": "SD",
+	"latitude": 44.5768,
+	"longitude": -96.9011
+},
+{
+	"City": "Valley Springs",
+	"State": "SD",
+	"latitude": 43.5825,
+	"longitude": -96.4648
+},
+{
+	"City": "Plankinton",
+	"State": "SD",
+	"latitude": 43.7155,
+	"longitude": -98.4836
+},
+{
+	"City": "Highmore",
+	"State": "SD",
+	"latitude": 44.5214,
+	"longitude": -99.4393
+},
+{
+	"City": "Elkton",
+	"State": "SD",
+	"latitude": 44.2351,
+	"longitude": -96.4796
+},
+{
+	"City": "Edgemont",
+	"State": "SD",
+	"latitude": 43.2973,
+	"longitude": -103.8323
+},
+{
+	"City": "Kadoka",
+	"State": "SD",
+	"latitude": 43.8325,
+	"longitude": -101.5081
+},
+{
+	"City": "Parmelee",
+	"State": "SD",
+	"latitude": 43.3241,
+	"longitude": -101.041
+},
+{
+	"City": "Faulkton",
+	"State": "SD",
+	"latitude": 45.0342,
+	"longitude": -99.1267
+},
+{
+	"City": "Kimball",
+	"State": "SD",
+	"latitude": 43.7468,
+	"longitude": -98.9569
+},
+{
+	"City": "New Underwood",
+	"State": "SD",
+	"latitude": 44.0978,
+	"longitude": -102.8362
+},
+{
+	"City": "Armour",
+	"State": "SD",
+	"latitude": 43.319,
+	"longitude": -98.3448
+},
+{
+	"City": "Colton",
+	"State": "SD",
+	"latitude": 43.7871,
+	"longitude": -96.928
+},
+{
+	"City": "McLaughlin",
+	"State": "SD",
+	"latitude": 45.8133,
+	"longitude": -100.8107
+},
+{
+	"City": "Woonsocket",
+	"State": "SD",
+	"latitude": 44.0541,
+	"longitude": -98.2724
+},
+{
+	"City": "Alexandria",
+	"State": "SD",
+	"latitude": 43.654,
+	"longitude": -97.7799
+},
+{
+	"City": "Castlewood",
+	"State": "SD",
+	"latitude": 44.7242,
+	"longitude": -97.0309
+},
+{
+	"City": "Canistota",
+	"State": "SD",
+	"latitude": 43.5978,
+	"longitude": -97.2926
+},
+{
+	"City": "Onida",
+	"State": "SD",
+	"latitude": 44.7048,
+	"longitude": -100.0675
+},
+{
+	"City": "Selby",
+	"State": "SD",
+	"latitude": 45.5057,
+	"longitude": -100.0329
+},
+{
+	"City": "Tripp",
+	"State": "SD",
+	"latitude": 43.2255,
+	"longitude": -97.9658
+},
+{
+	"City": "Menno",
+	"State": "SD",
+	"latitude": 43.2386,
+	"longitude": -97.5772
+},
+{
+	"City": "Johnson Siding",
+	"State": "SD",
+	"latitude": 44.0846,
+	"longitude": -103.438
+},
+{
+	"City": "Newell",
+	"State": "SD",
+	"latitude": 44.7174,
+	"longitude": -103.4184
+},
+{
+	"City": "Avon",
+	"State": "SD",
+	"latitude": 43.0052,
+	"longitude": -98.0592
+},
+{
+	"City": "Burke",
+	"State": "SD",
+	"latitude": 43.1827,
+	"longitude": -99.2922
+},
+{
+	"City": "Colman",
+	"State": "SD",
+	"latitude": 43.9835,
+	"longitude": -96.8148
+},
+{
+	"City": "Corsica",
+	"State": "SD",
+	"latitude": 43.4223,
+	"longitude": -98.4073
+},
+{
+	"City": "White River",
+	"State": "SD",
+	"latitude": 43.5671,
+	"longitude": -100.7448
+},
+{
+	"City": "Humboldt",
+	"State": "SD",
+	"latitude": 43.6447,
+	"longitude": -97.0742
+},
+{
+	"City": "St. Francis",
+	"State": "SD",
+	"latitude": 43.1426,
+	"longitude": -100.9028
+},
+{
+	"City": "Waubay",
+	"State": "SD",
+	"latitude": 45.3345,
+	"longitude": -97.3055
+},
+{
+	"City": "Lake Preston",
+	"State": "SD",
+	"latitude": 44.3617,
+	"longitude": -97.376
+},
+{
+	"City": "Meadow View Addition",
+	"State": "SD",
+	"latitude": 43.6233,
+	"longitude": -96.7023
+},
+{
+	"City": "Veblen",
+	"State": "SD",
+	"latitude": 45.862,
+	"longitude": -97.2869
+},
+{
+	"City": "Lake Norden",
+	"State": "SD",
+	"latitude": 44.5798,
+	"longitude": -97.2109
+},
+{
+	"City": "Lake Poinsett",
+	"State": "SD",
+	"latitude": 44.5664,
+	"longitude": -97.0798
+},
+{
+	"City": "Dupree",
+	"State": "SD",
+	"latitude": 45.0495,
+	"longitude": -101.6013
+},
+{
+	"City": "Jefferson",
+	"State": "SD",
+	"latitude": 42.6042,
+	"longitude": -96.5661
+},
+{
+	"City": "Wilmot",
+	"State": "SD",
+	"latitude": 45.4091,
+	"longitude": -96.8546
+},
+{
+	"City": "Timber Lake",
+	"State": "SD",
+	"latitude": 45.4279,
+	"longitude": -101.0747
+},
+{
+	"City": "Presho",
+	"State": "SD",
+	"latitude": 43.9072,
+	"longitude": -100.0583
+},
+{
+	"City": "White",
+	"State": "SD",
+	"latitude": 44.4359,
+	"longitude": -96.646
+},
+{
+	"City": "Blucksberg Mountain",
+	"State": "SD",
+	"latitude": 44.3593,
+	"longitude": -103.4538
+},
+{
+	"City": "Oacoma",
+	"State": "SD",
+	"latitude": 43.8038,
+	"longitude": -99.3721
+},
+{
+	"City": "Wounded Knee",
+	"State": "SD",
+	"latitude": 43.1435,
+	"longitude": -102.3682
+},
+{
+	"City": "Warner",
+	"State": "SD",
+	"latitude": 45.3252,
+	"longitude": -98.4952
+},
+{
+	"City": "Bowdle",
+	"State": "SD",
+	"latitude": 45.4513,
+	"longitude": -99.6564
+},
+{
+	"City": "Allen",
+	"State": "SD",
+	"latitude": 43.2792,
+	"longitude": -101.9265
+},
+{
+	"City": "Bridgewater",
+	"State": "SD",
+	"latitude": 43.5502,
+	"longitude": -97.4984
+},
+{
+	"City": "Big Stone City",
+	"State": "SD",
+	"latitude": 45.2985,
+	"longitude": -96.4657
+},
+{
+	"City": "Bryant",
+	"State": "SD",
+	"latitude": 44.5899,
+	"longitude": -97.4673
+},
+{
+	"City": "Emery",
+	"State": "SD",
+	"latitude": 43.602,
+	"longitude": -97.6195
+},
+{
+	"City": "Montrose",
+	"State": "SD",
+	"latitude": 43.7001,
+	"longitude": -97.1844
+},
+{
+	"City": "Murdo",
+	"State": "SD",
+	"latitude": 43.8893,
+	"longitude": -100.7142
+},
+{
+	"City": "Mount Vernon",
+	"State": "SD",
+	"latitude": 43.7126,
+	"longitude": -98.261
+},
+{
+	"City": "Rosholt",
+	"State": "SD",
+	"latitude": 45.8662,
+	"longitude": -96.7316
+},
+{
+	"City": "Leola",
+	"State": "SD",
+	"latitude": 45.7212,
+	"longitude": -98.9386
+},
+{
+	"City": "Anderson",
+	"State": "SD",
+	"latitude": 43.5208,
+	"longitude": -96.6132
+},
+{
+	"City": "Hermosa",
+	"State": "SD",
+	"latitude": 43.8398,
+	"longitude": -103.193
+},
+{
+	"City": "Herreid",
+	"State": "SD",
+	"latitude": 45.8377,
+	"longitude": -100.0749
+},
+{
+	"City": "Faith",
+	"State": "SD",
+	"latitude": 45.0258,
+	"longitude": -102.0363
+},
+{
+	"City": "Long Hollow",
+	"State": "SD",
+	"latitude": 45.6823,
+	"longitude": -97.1611
+},
+{
+	"City": "Irene",
+	"State": "SD",
+	"latitude": 43.0837,
+	"longitude": -97.1575
+},
+{
+	"City": "Tabor",
+	"State": "SD",
+	"latitude": 42.9476,
+	"longitude": -97.6595
+},
+{
+	"City": "Wolsey",
+	"State": "SD",
+	"latitude": 44.4105,
+	"longitude": -98.4738
+},
+{
+	"City": "Hurley",
+	"State": "SD",
+	"latitude": 43.2794,
+	"longitude": -97.0894
+},
+{
+	"City": "Gayville",
+	"State": "SD",
+	"latitude": 42.8889,
+	"longitude": -97.1739
+},
+{
+	"City": "Hayti",
+	"State": "SD",
+	"latitude": 44.6571,
+	"longitude": -97.2046
+},
+{
+	"City": "White Lake",
+	"State": "SD",
+	"latitude": 43.7283,
+	"longitude": -98.712
+},
+{
+	"City": "Buffalo",
+	"State": "SD",
+	"latitude": 45.5864,
+	"longitude": -103.5435
+},
+{
+	"City": "Hoven",
+	"State": "SD",
+	"latitude": 45.2416,
+	"longitude": -99.7775
+},
+{
+	"City": "Bullhead",
+	"State": "SD",
+	"latitude": 45.7693,
+	"longitude": -101.0808
+},
+{
+	"City": "Florence",
+	"State": "SD",
+	"latitude": 45.0548,
+	"longitude": -97.3262
+},
+{
+	"City": "Chester",
+	"State": "SD",
+	"latitude": 43.8996,
+	"longitude": -96.9277
+},
+{
+	"City": "Blunt",
+	"State": "SD",
+	"latitude": 44.5159,
+	"longitude": -99.9885
+},
+{
+	"City": "Renner Corner",
+	"State": "SD",
+	"latitude": 43.6524,
+	"longitude": -96.7044
+},
+{
+	"City": "Hudson",
+	"State": "SD",
+	"latitude": 43.1301,
+	"longitude": -96.4556
+},
+{
+	"City": "Keystone",
+	"State": "SD",
+	"latitude": 43.8955,
+	"longitude": -103.4264
+},
+{
+	"City": "Pine Lakes Addition",
+	"State": "SD",
+	"latitude": 43.5511,
+	"longitude": -96.6354
+},
+{
+	"City": "Little Eagle",
+	"State": "SD",
+	"latitude": 45.6832,
+	"longitude": -100.7966
+},
+{
+	"City": "Langford",
+	"State": "SD",
+	"latitude": 45.6025,
+	"longitude": -97.8303
+},
+{
+	"City": "Bison",
+	"State": "SD",
+	"latitude": 45.5235,
+	"longitude": -102.4677
+},
+{
+	"City": "Ethan",
+	"State": "SD",
+	"latitude": 43.5463,
+	"longitude": -97.9829
+},
+{
+	"City": "Marty",
+	"State": "SD",
+	"latitude": 42.9965,
+	"longitude": -98.4302
+},
+{
+	"City": "Bristol",
+	"State": "SD",
+	"latitude": 45.3466,
+	"longitude": -97.7485
+},
+{
+	"City": "Pukwana",
+	"State": "SD",
+	"latitude": 43.7792,
+	"longitude": -99.1843
+},
+{
+	"City": "Soldier Creek",
+	"State": "SD",
+	"latitude": 43.3237,
+	"longitude": -100.8883
+},
+{
+	"City": "Wakonda",
+	"State": "SD",
+	"latitude": 43.0081,
+	"longitude": -97.106
+},
+{
+	"City": "Summit",
+	"State": "SD",
+	"latitude": 45.3056,
+	"longitude": -97.0391
+},
+{
+	"City": "Roscoe",
+	"State": "SD",
+	"latitude": 45.4501,
+	"longitude": -99.337
+},
+{
+	"City": "Alpena",
+	"State": "SD",
+	"latitude": 44.183,
+	"longitude": -98.3683
+},
+{
+	"City": "Colome",
+	"State": "SD",
+	"latitude": 43.2599,
+	"longitude": -99.7174
+},
+{
+	"City": "Manderson-White Horse Creek",
+	"State": "SD",
+	"latitude": 43.2349,
+	"longitude": -102.4916
+},
+{
+	"City": "Egan",
+	"State": "SD",
+	"latitude": 44.0004,
+	"longitude": -96.6485
+},
+{
+	"City": "Bonesteel",
+	"State": "SD",
+	"latitude": 43.0775,
+	"longitude": -98.9467
+},
+{
+	"City": "Stickney",
+	"State": "SD",
+	"latitude": 43.5894,
+	"longitude": -98.4376
+},
+{
+	"City": "Spring Creek",
+	"State": "SD",
+	"latitude": 43.1153,
+	"longitude": -101.0306
+},
+{
+	"City": "Henry",
+	"State": "SD",
+	"latitude": 44.8809,
+	"longitude": -97.4616
+},
+{
+	"City": "Chancellor",
+	"State": "SD",
+	"latitude": 43.3718,
+	"longitude": -96.9874
+},
+{
+	"City": "Iroquois",
+	"State": "SD",
+	"latitude": 44.3679,
+	"longitude": -97.8495
+},
+{
+	"City": "New Effington",
+	"State": "SD",
+	"latitude": 45.8558,
+	"longitude": -96.9174
+},
+{
+	"City": "La Plant",
+	"State": "SD",
+	"latitude": 45.1352,
+	"longitude": -100.6648
+},
+{
+	"City": "Kennebec",
+	"State": "SD",
+	"latitude": 43.9035,
+	"longitude": -99.862
+},
+{
+	"City": "Two Strike",
+	"State": "SD",
+	"latitude": 43.2141,
+	"longitude": -100.8988
+},
+{
+	"City": "Okreek",
+	"State": "SD",
+	"latitude": 43.3534,
+	"longitude": -100.3826
+},
+{
+	"City": "Willow Lake",
+	"State": "SD",
+	"latitude": 44.6279,
+	"longitude": -97.6387
+},
+{
+	"City": "Agency Village",
+	"State": "SD",
+	"latitude": 45.5808,
+	"longitude": -97.0831
+},
+{
+	"City": "Trent",
+	"State": "SD",
+	"latitude": 43.9063,
+	"longitude": -96.6578
+},
+{
+	"City": "Gary",
+	"State": "SD",
+	"latitude": 44.7941,
+	"longitude": -96.4574
+},
+{
+	"City": "Nisland",
+	"State": "SD",
+	"latitude": 44.6731,
+	"longitude": -103.5539
+},
+{
+	"City": "Pollock",
+	"State": "SD",
+	"latitude": 45.9005,
+	"longitude": -100.2885
+},
+{
+	"City": "Pickstown",
+	"State": "SD",
+	"latitude": 43.0671,
+	"longitude": -98.5295
+},
+{
+	"City": "Bath",
+	"State": "SD",
+	"latitude": 45.4692,
+	"longitude": -98.3236
+},
+{
+	"City": "Delmont",
+	"State": "SD",
+	"latitude": 43.2666,
+	"longitude": -98.1592
+},
+{
+	"City": "Hecla",
+	"State": "SD",
+	"latitude": 45.8822,
+	"longitude": -98.152
+},
+{
+	"City": "South Shore",
+	"State": "SD",
+	"latitude": 45.1016,
+	"longitude": -96.93
+},
+{
+	"City": "Mellette",
+	"State": "SD",
+	"latitude": 45.1544,
+	"longitude": -98.4983
+},
+{
+	"City": "Reliance",
+	"State": "SD",
+	"latitude": 43.88,
+	"longitude": -99.6018
+},
+{
+	"City": "Tulare",
+	"State": "SD",
+	"latitude": 44.7382,
+	"longitude": -98.5089
+},
+{
+	"City": "Toronto",
+	"State": "SD",
+	"latitude": 44.5723,
+	"longitude": -96.6414
+},
+{
+	"City": "Geddes",
+	"State": "SD",
+	"latitude": 43.254,
+	"longitude": -98.6974
+},
+{
+	"City": "Ramona",
+	"State": "SD",
+	"latitude": 44.1199,
+	"longitude": -97.2154
+},
+{
+	"City": "Bruce",
+	"State": "SD",
+	"latitude": 44.4378,
+	"longitude": -96.8906
+},
+{
+	"City": "Frederick",
+	"State": "SD",
+	"latitude": 45.832,
+	"longitude": -98.5069
+},
+{
+	"City": "Wentworth",
+	"State": "SD",
+	"latitude": 43.997,
+	"longitude": -96.9646
+},
+{
+	"City": "Hosmer",
+	"State": "SD",
+	"latitude": 45.5788,
+	"longitude": -99.4736
+},
+{
+	"City": "St. Lawrence",
+	"State": "SD",
+	"latitude": 44.5166,
+	"longitude": -98.9379
+},
+{
+	"City": "Doland",
+	"State": "SD",
+	"latitude": 44.8944,
+	"longitude": -98.0997
+},
+{
+	"City": "Brant Lake South",
+	"State": "SD",
+	"latitude": 43.9139,
+	"longitude": -96.9379
+},
+{
+	"City": "Wessington",
+	"State": "SD",
+	"latitude": 44.4552,
+	"longitude": -98.6967
+},
+{
+	"City": "Letcher",
+	"State": "SD",
+	"latitude": 43.8995,
+	"longitude": -98.1443
+},
+{
+	"City": "Kranzburg",
+	"State": "SD",
+	"latitude": 44.8888,
+	"longitude": -96.9092
+},
+{
+	"City": "Norris",
+	"State": "SD",
+	"latitude": 43.4721,
+	"longitude": -101.1928
+},
+{
+	"City": "Roslyn",
+	"State": "SD",
+	"latitude": 45.4965,
+	"longitude": -97.4932
+},
+{
+	"City": "McIntosh",
+	"State": "SD",
+	"latitude": 45.9213,
+	"longitude": -101.3491
+},
+{
+	"City": "Mansfield",
+	"State": "SD",
+	"latitude": 45.2465,
+	"longitude": -98.5581
+},
+{
+	"City": "Richland",
+	"State": "SD",
+	"latitude": 42.7639,
+	"longitude": -96.648
+},
+{
+	"City": "Peever",
+	"State": "SD",
+	"latitude": 45.5422,
+	"longitude": -96.956
+},
+{
+	"City": "Mission Hill",
+	"State": "SD",
+	"latitude": 42.9208,
+	"longitude": -97.2791
+},
+{
+	"City": "Volin",
+	"State": "SD",
+	"latitude": 42.9586,
+	"longitude": -97.1812
+},
+{
+	"City": "Whitehorse",
+	"State": "SD",
+	"latitude": 45.2746,
+	"longitude": -100.9012
+},
+{
+	"City": "Monroe",
+	"State": "SD",
+	"latitude": 43.4865,
+	"longitude": -97.2166
+},
+{
+	"City": "Isabel",
+	"State": "SD",
+	"latitude": 45.3938,
+	"longitude": -101.4326
+},
+{
+	"City": "Frankfort",
+	"State": "SD",
+	"latitude": 44.8777,
+	"longitude": -98.3092
+},
+{
+	"City": "Goodwin",
+	"State": "SD",
+	"latitude": 44.8775,
+	"longitude": -96.8497
+},
+{
+	"City": "Spencer",
+	"State": "SD",
+	"latitude": 43.7276,
+	"longitude": -97.5911
+},
+{
+	"City": "Northville",
+	"State": "SD",
+	"latitude": 45.1554,
+	"longitude": -98.5793
+},
+{
+	"City": "Buffalo Gap",
+	"State": "SD",
+	"latitude": 43.4922,
+	"longitude": -103.3155
+},
+{
+	"City": "Conde",
+	"State": "SD",
+	"latitude": 45.1573,
+	"longitude": -98.0955
+},
+{
+	"City": "Columbia",
+	"State": "SD",
+	"latitude": 45.6148,
+	"longitude": -98.3107
+},
+{
+	"City": "Artesian",
+	"State": "SD",
+	"latitude": 44.0079,
+	"longitude": -97.9237
+},
+{
+	"City": "Astoria",
+	"State": "SD",
+	"latitude": 44.5577,
+	"longitude": -96.5465
+},
+{
+	"City": "Westport",
+	"State": "SD",
+	"latitude": 45.6478,
+	"longitude": -98.4981
+},
+{
+	"City": "Central City",
+	"State": "SD",
+	"latitude": 44.3684,
+	"longitude": -103.7706
+},
+{
+	"City": "Lesterville",
+	"State": "SD",
+	"latitude": 43.0386,
+	"longitude": -97.5906
+},
+{
+	"City": "Dimock",
+	"State": "SD",
+	"latitude": 43.4764,
+	"longitude": -97.9888
+},
+{
+	"City": "Carthage",
+	"State": "SD",
+	"latitude": 44.1686,
+	"longitude": -97.715
+},
+{
+	"City": "Claremont",
+	"State": "SD",
+	"latitude": 45.6719,
+	"longitude": -98.0157
+},
+{
+	"City": "Java",
+	"State": "SD",
+	"latitude": 45.5037,
+	"longitude": -99.8839
+},
+{
+	"City": "Midland",
+	"State": "SD",
+	"latitude": 44.0711,
+	"longitude": -101.1553
+},
+{
+	"City": "Harrold",
+	"State": "SD",
+	"latitude": 44.5235,
+	"longitude": -99.7393
+},
+{
+	"City": "Sinai",
+	"State": "SD",
+	"latitude": 44.2445,
+	"longitude": -97.044
+},
+{
+	"City": "Ashton",
+	"State": "SD",
+	"latitude": 44.9931,
+	"longitude": -98.4991
+},
+{
+	"City": "Oelrichs",
+	"State": "SD",
+	"latitude": 43.182,
+	"longitude": -103.2334
+},
+{
+	"City": "Cavour",
+	"State": "SD",
+	"latitude": 44.3693,
+	"longitude": -98.0421
+},
+{
+	"City": "Dallas",
+	"State": "SD",
+	"latitude": 43.2379,
+	"longitude": -99.5175
+},
+{
+	"City": "Morningside",
+	"State": "SD",
+	"latitude": 44.3662,
+	"longitude": -98.1835
+},
+{
+	"City": "Pierpont",
+	"State": "SD",
+	"latitude": 45.4953,
+	"longitude": -97.8321
+},
+{
+	"City": "Oldham",
+	"State": "SD",
+	"latitude": 44.2281,
+	"longitude": -97.3096
+},
+{
+	"City": "Fairfax",
+	"State": "SD",
+	"latitude": 43.028,
+	"longitude": -98.889
+},
+{
+	"City": "Yale",
+	"State": "SD",
+	"latitude": 44.4337,
+	"longitude": -97.9885
+},
+{
+	"City": "Vale",
+	"State": "SD",
+	"latitude": 44.6182,
+	"longitude": -103.3986
+},
+{
+	"City": "Batesland",
+	"State": "SD",
+	"latitude": 43.1278,
+	"longitude": -102.1017
+},
+{
+	"City": "Pringle",
+	"State": "SD",
+	"latitude": 43.609,
+	"longitude": -103.5946
+},
+{
+	"City": "St. Onge",
+	"State": "SD",
+	"latitude": 44.5458,
+	"longitude": -103.72
+},
+{
+	"City": "Brandt",
+	"State": "SD",
+	"latitude": 44.6669,
+	"longitude": -96.6252
+},
+{
+	"City": "Stockholm",
+	"State": "SD",
+	"latitude": 45.1018,
+	"longitude": -96.7998
+},
+{
+	"City": "Corona",
+	"State": "SD",
+	"latitude": 45.3352,
+	"longitude": -96.7646
+},
+{
+	"City": "Corn Creek",
+	"State": "SD",
+	"latitude": 43.5744,
+	"longitude": -101.2059
+},
+{
+	"City": "Interior",
+	"State": "SD",
+	"latitude": 43.7269,
+	"longitude": -101.9837
+},
+{
+	"City": "Revillo",
+	"State": "SD",
+	"latitude": 45.0153,
+	"longitude": -96.5712
+},
+{
+	"City": "Glenham",
+	"State": "SD",
+	"latitude": 45.533,
+	"longitude": -100.2711
+},
+{
+	"City": "Herrick",
+	"State": "SD",
+	"latitude": 43.115,
+	"longitude": -99.1882
+},
+{
+	"City": "Badger",
+	"State": "SD",
+	"latitude": 44.4855,
+	"longitude": -97.2079
+},
+{
+	"City": "Canova",
+	"State": "SD",
+	"latitude": 43.8813,
+	"longitude": -97.504
+},
+{
+	"City": "Eden",
+	"State": "SD",
+	"latitude": 45.6168,
+	"longitude": -97.4198
+},
+{
+	"City": "Cresbard",
+	"State": "SD",
+	"latitude": 45.1692,
+	"longitude": -98.9478
+},
+{
+	"City": "Vivian",
+	"State": "SD",
+	"latitude": 43.9273,
+	"longitude": -100.3011
+},
+{
+	"City": "Bath Corner",
+	"State": "SD",
+	"latitude": 45.4627,
+	"longitude": -98.3329
+},
+{
+	"City": "Fairburn",
+	"State": "SD",
+	"latitude": 43.6869,
+	"longitude": -103.2088
+},
+{
+	"City": "Fulton",
+	"State": "SD",
+	"latitude": 43.7288,
+	"longitude": -97.8226
+},
+{
+	"City": "Hitchcock",
+	"State": "SD",
+	"latitude": 44.6294,
+	"longitude": -98.4082
+},
+{
+	"City": "Davis",
+	"State": "SD",
+	"latitude": 43.2595,
+	"longitude": -96.9945
+},
+{
+	"City": "Wallace",
+	"State": "SD",
+	"latitude": 45.0845,
+	"longitude": -97.4781
+},
+{
+	"City": "Dante",
+	"State": "SD",
+	"latitude": 43.0399,
+	"longitude": -98.1856
+},
+{
+	"City": "Hazel",
+	"State": "SD",
+	"latitude": 44.7583,
+	"longitude": -97.381
+},
+{
+	"City": "Wasta",
+	"State": "SD",
+	"latitude": 44.0695,
+	"longitude": -102.4463
+},
+{
+	"City": "Andover",
+	"State": "SD",
+	"latitude": 45.4102,
+	"longitude": -97.9037
+},
+{
+	"City": "Brentford",
+	"State": "SD",
+	"latitude": 45.1591,
+	"longitude": -98.3223
+},
+{
+	"City": "Agar",
+	"State": "SD",
+	"latitude": 44.8398,
+	"longitude": -100.0734
+},
+{
+	"City": "Bradley",
+	"State": "SD",
+	"latitude": 45.0904,
+	"longitude": -97.642
+},
+{
+	"City": "Sherman",
+	"State": "SD",
+	"latitude": 43.7577,
+	"longitude": -96.4762
+},
+{
+	"City": "New Witten",
+	"State": "SD",
+	"latitude": 43.4407,
+	"longitude": -100.0819
+},
+{
+	"City": "Claire City",
+	"State": "SD",
+	"latitude": 45.8566,
+	"longitude": -97.1035
+},
+{
+	"City": "Stratford",
+	"State": "SD",
+	"latitude": 45.3174,
+	"longitude": -98.3043
+},
+{
+	"City": "Fairview",
+	"State": "SD",
+	"latitude": 43.2222,
+	"longitude": -96.4878
+},
+{
+	"City": "Forestburg",
+	"State": "SD",
+	"latitude": 44.0212,
+	"longitude": -98.1032
+},
+{
+	"City": "Olivet",
+	"State": "SD",
+	"latitude": 43.2432,
+	"longitude": -97.6749
+},
+{
+	"City": "Strandburg",
+	"State": "SD",
+	"latitude": 45.0441,
+	"longitude": -96.7604
+},
+{
+	"City": "Twin Brooks",
+	"State": "SD",
+	"latitude": 45.209,
+	"longitude": -96.7855
+},
+{
+	"City": "La Bolt",
+	"State": "SD",
+	"latitude": 45.049,
+	"longitude": -96.6752
+},
+{
+	"City": "Morristown",
+	"State": "SD",
+	"latitude": 45.9386,
+	"longitude": -101.7188
+},
+{
+	"City": "Fruitdale",
+	"State": "SD",
+	"latitude": 44.6692,
+	"longitude": -103.6955
+},
+{
+	"City": "Draper",
+	"State": "SD",
+	"latitude": 43.9261,
+	"longitude": -100.5372
+},
+{
+	"City": "Utica",
+	"State": "SD",
+	"latitude": 42.9811,
+	"longitude": -97.4967
+},
+{
+	"City": "Camp Crook",
+	"State": "SD",
+	"latitude": 45.55,
+	"longitude": -103.975
+},
+{
+	"City": "Mound City",
+	"State": "SD",
+	"latitude": 45.7262,
+	"longitude": -100.0688
+},
+{
+	"City": "Bushnell",
+	"State": "SD",
+	"latitude": 44.3274,
+	"longitude": -96.6424
+},
+{
+	"City": "Ravinia",
+	"State": "SD",
+	"latitude": 43.1365,
+	"longitude": -98.4268
+},
+{
+	"City": "Ortley",
+	"State": "SD",
+	"latitude": 45.3349,
+	"longitude": -97.205
+},
+{
+	"City": "Wood",
+	"State": "SD",
+	"latitude": 43.4971,
+	"longitude": -100.4802
+},
+{
+	"City": "Quinn",
+	"State": "SD",
+	"latitude": 43.9866,
+	"longitude": -102.1264
+},
+{
+	"City": "Orient",
+	"State": "SD",
+	"latitude": 44.9017,
+	"longitude": -99.0888
+},
+{
+	"City": "Brant Lake",
+	"State": "SD",
+	"latitude": 43.9308,
+	"longitude": -96.9435
+},
+{
+	"City": "Waverly",
+	"State": "SD",
+	"latitude": 44.9987,
+	"longitude": -96.9742
+},
+{
+	"City": "Lane",
+	"State": "SD",
+	"latitude": 44.0697,
+	"longitude": -98.4246
+},
+{
+	"City": "Ree Heights",
+	"State": "SD",
+	"latitude": 44.5158,
+	"longitude": -99.2005
+},
+{
+	"City": "Garden City",
+	"State": "SD",
+	"latitude": 44.9592,
+	"longitude": -97.5806
+},
+{
+	"City": "Belvidere",
+	"State": "SD",
+	"latitude": 43.8321,
+	"longitude": -101.2711
+},
+{
+	"City": "Winfred",
+	"State": "SD",
+	"latitude": 44.0009,
+	"longitude": -97.3598
+},
+{
+	"City": "Raymond",
+	"State": "SD",
+	"latitude": 44.9105,
+	"longitude": -97.9372
+},
+{
+	"City": "Harrison",
+	"State": "SD",
+	"latitude": 43.4311,
+	"longitude": -98.5267
+},
+{
+	"City": "Ward",
+	"State": "SD",
+	"latitude": 44.1548,
+	"longitude": -96.4626
+},
+{
+	"City": "Lake City",
+	"State": "SD",
+	"latitude": 45.7248,
+	"longitude": -97.4139
+},
+{
+	"City": "Nunda",
+	"State": "SD",
+	"latitude": 44.1599,
+	"longitude": -97.0194
+},
+{
+	"City": "Grenville",
+	"State": "SD",
+	"latitude": 45.467,
+	"longitude": -97.3902
+},
+{
+	"City": "Cow Creek",
+	"State": "SD",
+	"latitude": 44.5538,
+	"longitude": -100.4753
+},
+{
+	"City": "Turton",
+	"State": "SD",
+	"latitude": 45.049,
+	"longitude": -98.0974
+},
+{
+	"City": "Naples",
+	"State": "SD",
+	"latitude": 44.7716,
+	"longitude": -97.5131
+},
+{
+	"City": "Hetland",
+	"State": "SD",
+	"latitude": 44.3772,
+	"longitude": -97.2347
+},
+{
+	"City": "Akaska",
+	"State": "SD",
+	"latitude": 45.3309,
+	"longitude": -100.1207
+},
+{
+	"City": "Vienna",
+	"State": "SD",
+	"latitude": 44.7032,
+	"longitude": -97.5
+},
+{
+	"City": "Aurora Center",
+	"State": "SD",
+	"latitude": 43.5272,
+	"longitude": -98.5894
+},
+{
+	"City": "Erwin",
+	"State": "SD",
+	"latitude": 44.488,
+	"longitude": -97.4409
+},
+{
+	"City": "Okaton",
+	"State": "SD",
+	"latitude": 43.8621,
+	"longitude": -100.9049
+},
+{
+	"City": "Lebanon",
+	"State": "SD",
+	"latitude": 45.0688,
+	"longitude": -99.7664
+},
+{
+	"City": "Ferney",
+	"State": "SD",
+	"latitude": 45.3346,
+	"longitude": -98.0939
+},
+{
+	"City": "Dolton",
+	"State": "SD",
+	"latitude": 43.4911,
+	"longitude": -97.3848
+},
+{
+	"City": "Seneca",
+	"State": "SD",
+	"latitude": 45.0608,
+	"longitude": -99.5092
+},
+{
+	"City": "Tolstoy",
+	"State": "SD",
+	"latitude": 45.2083,
+	"longitude": -99.614
+},
+{
+	"City": "Broadland",
+	"State": "SD",
+	"latitude": 44.4938,
+	"longitude": -98.3466
+},
+{
+	"City": "Altamont",
+	"State": "SD",
+	"latitude": 44.8408,
+	"longitude": -96.6901
+},
+{
+	"City": "Rockham",
+	"State": "SD",
+	"latitude": 44.9043,
+	"longitude": -98.8234
+},
+{
+	"City": "Storla",
+	"State": "SD",
+	"latitude": 43.8625,
+	"longitude": -98.3526
+},
+{
+	"City": "Long Lake",
+	"State": "SD",
+	"latitude": 45.8567,
+	"longitude": -99.2059
+},
+{
+	"City": "Marvin",
+	"State": "SD",
+	"latitude": 45.2605,
+	"longitude": -96.9154
+},
+{
+	"City": "Crocker",
+	"State": "SD",
+	"latitude": 45.107,
+	"longitude": -97.7806
+},
+{
+	"City": "Chelsea",
+	"State": "SD",
+	"latitude": 45.1676,
+	"longitude": -98.7434
+},
+{
+	"City": "Kaylor",
+	"State": "SD",
+	"latitude": 43.193,
+	"longitude": -97.8434
+},
+{
+	"City": "Green Grass",
+	"State": "SD",
+	"latitude": 45.1714,
+	"longitude": -101.2573
+},
+{
+	"City": "Milltown",
+	"State": "SD",
+	"latitude": 43.4252,
+	"longitude": -97.8081
+},
+{
+	"City": "Vilas",
+	"State": "SD",
+	"latitude": 44.0083,
+	"longitude": -97.596
+},
+{
+	"City": "Bancroft",
+	"State": "SD",
+	"latitude": 44.4894,
+	"longitude": -97.7505
+},
+{
+	"City": "Virgil",
+	"State": "SD",
+	"latitude": 44.2909,
+	"longitude": -98.4276
+},
+{
+	"City": "Butler",
+	"State": "SD",
+	"latitude": 45.262,
+	"longitude": -97.7117
+},
+{
+	"City": "Gann Valley",
+	"State": "SD",
+	"latitude": 44.0336,
+	"longitude": -98.9885
+},
+{
+	"City": "Albee",
+	"State": "SD",
+	"latitude": 45.0513,
+	"longitude": -96.5535
+},
+{
+	"City": "Onaka",
+	"State": "SD",
+	"latitude": 45.1912,
+	"longitude": -99.4659
+},
+{
+	"City": "Fedora",
+	"State": "SD",
+	"latitude": 44.0068,
+	"longitude": -97.7894
+},
+{
+	"City": "Farmer",
+	"State": "SD",
+	"latitude": 43.7252,
+	"longitude": -97.689
+},
+{
+	"City": "Cottonwood",
+	"State": "SD",
+	"latitude": 43.9657,
+	"longitude": -101.902
+},
+{
+	"City": "Running Water",
+	"State": "SD",
+	"latitude": 42.7822,
+	"longitude": -97.9816
+},
+{
+	"City": "Artas",
+	"State": "SD",
+	"latitude": 45.8873,
+	"longitude": -99.807
+},
+{
+	"City": "Wetonka",
+	"State": "SD",
+	"latitude": 45.6242,
+	"longitude": -98.7717
+},
+{
+	"City": "St. Charles",
+	"State": "SD",
+	"latitude": 43.0882,
+	"longitude": -99.0949
+},
+{
+	"City": "Lowry",
+	"State": "SD",
+	"latitude": 45.3156,
+	"longitude": -99.9812
+},
+{
+	"City": "Verdon",
+	"State": "SD",
+	"latitude": 45.2442,
+	"longitude": -98.0992
+},
+{
+	"City": "Lily",
+	"State": "SD",
+	"latitude": 45.1818,
+	"longitude": -97.6835
+},
+{
+	"City": "Prairie City",
+	"State": "SD",
+	"latitude": 45.5312,
+	"longitude": -102.8164
+},
+{
+	"City": "Hillsview",
+	"State": "SD",
+	"latitude": 45.6642,
+	"longitude": -99.5607
+},
+{
+	"City": "White Rock",
+	"State": "SD",
+	"latitude": 45.9248,
+	"longitude": -96.576
+}]

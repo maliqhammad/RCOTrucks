@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>RCO | Forms - Driver Violations</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+        integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
+        integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <link rel="stylesheet" href="file:///android_asset/www/evaluationform/driverviolation/main-annualDriverCert.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/4.17.47/css/bootstrap-datetimepicker.min.css">
+    <link rel="stylesheet" href="file:///android_asset/www/evaluationform/driverviolation/annualDriverCert.css">
+</head>
+
+<body style="background-color:gold; margin: 0px !important;">
+    <div class="container-fluid">
+        <!-- <div class="row" style="border-bottom:1px solid white;">
+            <div class="col-sm-12">
+                <div class="row">
+                    <div class="col-sm-3">
+                        <a href="../../products/index.jsp" class="btn btn-primary"><i class="fas fa-home"></i> Home</a>
+                        <a href="../index.html" class="btn btn-primary"><i class="fas fa-backward"></i> Back</a>
+                    </div>
+                    <div class="col-sm-6 text-center">
+                        <h2  style="margin:0px !important">Forms</h2>
+                    </div>
+                    <div class="col-sm-3">
+                        <button class="btn btn-primary" id="save_button"><i class="fas fa-save"></i> Save</button>
+                        <a href="../../products/LogoutServlet.jsp" class="btn btn-primary pull-right">
+                            <iclass="fas fa-sign-out-alt"></i>Logout
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+        <div class="row">
+            <div class="col-sm-12">
+                <form id="form">
+                    <div id="searchResultSide" style="display: none;">
+                        <div class="side-close">x</div>
+                        <div class="side-match"></div>
+                        <div class="side-body"></div>
+                    </div>
+                    <page size="Letter">
+                        <div class="row">
+                            <div style="background-color: #eeece0;" class="col-xs-12 text-center mb-5">
+                                <h6 style="display: inline-block;" class="">This form is an example only. Requirements for the annual driver’s certification of violations can be found in <span style="color: blue;"><u><b>49 CFR 391.27</b></u></span>. </h6>
+                            </div>
+                            <div style="background-color: #eeece0;" class="col-xs-12 text-center mb-5">
+                                <h4 class="m-1"><b>ANNUAL DRIVER’S CERTIFICATION OF VIOLATIONS</b></h4>
+                            </div>
+                            <p>MOTOR CARRIER INSTRUCTIONS: Each motor carrier must at least once every 12 months, require each driver to prepare a list of all violations of motor vehicle traffic laws and ordinances (other than violations involving only parking) of which the driver has been convicted, or of which he/she has forfeited bond or collateral during the preceding 12 months (49 CFR 391.27). Drivers who have provided information required by 49 CFR 383.31 need not repeat that information on this form.</p>
+                            <p>DRIVER REQUIREMENTS: Each driver will provide the list as required by the motor carrier above. If the driver has not been convicted of, or forfeited bond or collateral on account of, any violation which must be listed, he/she shall so certify (49 CFR 391.27). </p>
+                        </div>
+                        <div class="row">
+                            <div style="background-color: #eeece0;" class="col-xs-12 text-center">
+                                <h5 class="m-1"><b>COMPLETED BY DRIVER - CERTIFICATION OF VIOLATIONS </b></h5>
+                            </div>
+                            <div class="col-xs-12" style = "border-bottom: 1px solid black">
+                                <div style="font-size: 10px;" class="col-xs-5 text-left">
+                                    <input id="lastName" type="text" name="lastName" style="width: 25%;border: 0; display: inline-block;  margin-top:20px" class="">
+                                    <input id="firstName" type="text" name="firstName" style="width: 25%;border: 0; display: inline-block;  margin-top:20px" class="">
+                                    <input id="middleName" type="text" name="middleName" style="width: 25%;border: 0; display: inline-block;  margin-top:20px" class="">
+                                </div>
+                                <div style="font-size: 10px;" class="col-xs-5 text-center">
+                                    <input id="socialSercurityNumber" type="text" name="socialSercurityNumber" style="width: 100%;border: 0; display: inline-block;  margin-top:20px" class="">
+                                </div>
+                                <div style="font-size: 10px;" class="col-xs-2 text-right">
+                                    <input id="employmentDate" type="text" name="employmentDate" style="width: 100%;border: 0; display: inline-block;  margin-top:20px" class="">
+                                </div>
+                            </div>
+                            <div class="col-xs-12">
+                                <div style="font-size: 10px;" class="col-xs-4 text-left">DRIVER NAME: LAST, FIRST, MI</div>
+                                <div style="font-size: 10px;" class="col-xs-4 text-center">SOCIAL SECURITY NUMBER </div>
+                                <div style="font-size: 10px;" class="col-xs-4 text-right">DATE OF EMPLOYMENT</div>
+                                <span class="text-left"></span>
+                            </div>
+                            <div class="col-xs-12" style = "border-bottom: 1px solid black">
+                                <div style="font-size: 10px;" class="col-xs-5 text-left">
+                                    <input id="terminalCity" type="text" name="terminalCity" style="width: 40%;border: 0; display: inline-block;  margin-top:20px" class="">
+                                    <input id="terminalState" type="text" name="terminalState" style="width: 30%;border: 0; display: inline-block;  margin-top:20px" class="">
+                                </div>
+                                <div style="font-size: 10px;" class="col-xs-5 text-center">
+                                    <input id="driverLicenseNumber" type="text" name="driverLicenseNumber" style="width: 100%;border: 0; display: inline-block;  margin-top:20px" class="">
+                                </div>
+                                <div style="font-size: 10px;" class="col-xs-2 text-right">
+                                    <input id="driverLicenseExpirationDate" type="text" name="driverLicenseExpirationDate" style="width: 100%;border: 0; display: inline-block;  margin-top:20px" class="">
+                                </div>
+                            </div>
+                            <div class="col-xs-12">
+                                <div style="font-size: 10px;" class="col-xs-4 text-left">HOME TERMINAL (CITY AND STATE)</div>
+                                <div style="font-size: 10px;" class="col-xs-4 text-center">DRIVER’S LICENSE NUMBER </div>
+                                <div style="font-size: 10px;" class="col-xs-4 text-right"><span class="text-left">STATE</span><span class="text-right">EXPIRATION DATE</span></div>
+                            </div>
+                        </div>
+                        
+                        <div class="bold-line"></div>
+                        <div class="tiny-line"></div>
+
+                        <div class="row">
+                            <div class="col-xs-12">
+                                <p style="margin-bottom: 5px;">I certify that the following is a true and complete list of traffic violations required to be listed (other than those I have provided under 49 CFR 383) for which I have been convicted or forfeited bond or collateral during the past 12 months.</p>
+                                <p style="margin-bottom: 5px;">
+                                    <input id="violationsthisyear" type='checkbox' name='violationsthisyear'>
+                                    Check this box if you have had no violations in the past 12 months. 
+                                </p>
+                                <table class="violationDetailsTable" style="font-size: 11px; width: 100%">
+                                    <thead style="background-color: #eeece0;">
+                                        <th style="width: 10%;">
+                                            <h6>DATE</h6>
+                                        </th>
+                                        <th style="width: 55%;">
+                                            <h6>OFFENSE</h6>
+                                        </th>
+                                        <th style="width: 15%;">
+                                            <h6>LOCATION</h6>
+                                        </th>
+                                        <th style="width: 20%;">
+                                            <h6>TYPE OF VEHICLE OPERATED</h6>
+                                        </th>
+                                    </thead>
+                                    <tbody>
+                                        <tr id="0_tr_violation">
+                                            <td style="height: 25px; padding: 2px;">
+                                                <input id="dateTime_0" type="text" name="violationDate" style="width: 100%; height: 100%x; border: 0;">
+                                            </td>
+                                            <td style="height: 25px; padding: 2px;">
+                                                <input id="violationOffense_0" type="text" name="violationOffense" style="width: 100%; height: 100%x; border: 0;" >
+                                            </td>
+                                            <td style="height: 25px; padding: 2px;">
+                                                <input id="violationLocation_0" type="text" name="violationLocation" style="width: 100%; height: 100%x; border: 0;" >
+                                            </td>
+                                            <td style="height: 25px; padding: 2px;">
+                                                <input id="violationtypeofvehicle_0" type="text" name="violationtypeofvehicle" style="width: 100%; height:100%x; border: 0;" >
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <div style="margin-top: 10px">
+                                    <p>
+                                        If no violations are listed above, I certify that I have not been convicted or forfeited bond or collateral on account of any violation required to be listed during the past 12 months
+                                    </p>
+                                </div>
+
+                                <div class="col-xs-12" style = "border-bottom: 1px solid black">
+                                    <input id="dateTime" type="text" name="dateTime" style="width: 100%;border: 0; margin-top:20px" class="">
+                                    <img id="signature_of_driver" height = "20" style="display: block;margin-left: auto;margin-right: auto;"/>
+
+                                </div>
+                                <div class="col-xs-12">
+                                    <div class="col-xs-3 text-left" style="font-size: 10px;">DATE</div>
+                                    <div class="col-xs-9 text-left" style="font-size: 10px;">DRIVER’S SIGNATURE </div>
+                                </div>
+                                <hr>
+                                <div class="col-xs-12" style = "border-bottom: 1px solid black">
+                                    <input id="carrierName" type="text" name="carrierName" style="width: 49%;border: 0; display: inline-block;  margin-top:20px" class="">
+                                    <input id="carrierAddress" type="text" name="carrierAddress" style="width: 49%;border: 0; display: inline-block;  margin-top:20px" class="">
+                                </div>
+                                <div class="col-xs-12">
+                                    <div class="col-xs-3 text-left" style="font-size: 10px;">MOTOR CARRIER NAME</div>
+                                    <div class="col-xs-9 text-left" style="font-size: 10px;">MOTOR CARRIER ADDRESS</div>
+                                </div>
+                                <hr>
+                                <div class="col-xs-12" style = "border-bottom: 1px solid black">
+                                    <div class="col-xs-3 text-left" style="font-size: 10px;">
+                                        <input id="reviewedBy" type="text" name="reviewedBy" style="width: 100%;border: 0; display: inline-block; margin-top:20px" class="">
+                                    </div>
+                                    <div class="col-xs-3 text-left" style="font-size: 10px;">
+                                        <!--<input id="reviewerSign" type="text" name="reviewerSign" style="width: 100%;border: 0; display: inline-block; margin-top:20px" class=""> -->
+                                        <img id="signature_of_reviewer" height = "20" style="display: block;margin-left: auto;margin-right: auto;"/>
+                                    </div>
+                                    <div class="col-xs-3 text-center" style="font-size: 10px;">
+                                        <input id="title" type="text" name="title" style="width: 100%;border: 0; display: inline-block; margin-top:20px" class="">
+                                    </div>
+                                    <div class="col-xs-3 text-center" style="font-size: 10px;">
+                                        <input id="reviewedDate" type="text" name="reviewedDate" style="width: 100%;border: 0; display: inline-block; margin-top:20px" class="">
+                                    </div>
+                                </div>
+                                <div class="col-xs-12">
+                                    <div class="col-xs-3 text-left" style="font-size: 10px;">REVIEWER PRINTED NAME</div>
+                                    <div class="col-xs-3 text-left" style="font-size: 10px;">REVIEWER SIGNATURE </div>
+                                    <div class="col-xs-3 text-center" style="font-size: 10px;">TITLE</div>
+                                    <div class="col-xs-3 text-center" style="font-size: 10px;">DATE</div>
+                                </div>
+                            </div>
+                        </div>
+                    </page>
+                </form>
+                
+            </div>
+        </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" 
+        integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datetimepicker/4.17.47/js/bootstrap-datetimepicker.min.js"></script>
+    <script src="../../components/app.js"></script>
+    <script src="../../components/apiHelper.js"></script>
+    <script src="../../components/helper.js"></script>
+    <script src="../../components/promisifyHelper.js"></script>
+    <script src="../../components/spinner.min.js"></script>
+    <script src="../scripts/singles/driverViolations.js"></script>
+</body>
+
+</html>

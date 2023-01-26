@@ -1,0 +1,85 @@
+[
+{
+	"City": "Iqaluit",
+	"State": "NU",
+	"latitude": 63.7598,
+	"longitude": -68.5107
+},
+{
+	"City": "Rankin Inlet",
+	"State": "NU",
+	"latitude": 62.83,
+	"longitude": -92.1321
+},
+{
+	"City": "Arviat",
+	"State": "NU",
+	"latitude": 61.0996,
+	"longitude": -94.1688
+},
+{
+	"City": "Baker Lake",
+	"State": "NU",
+	"latitude": 64.3287,
+	"longitude": -96.0308
+},
+{
+	"City": "Cambridge Bay",
+	"State": "NU",
+	"latitude": 69.1528,
+	"longitude": -105.1707
+},
+{
+	"City": "Igloolik",
+	"State": "NU",
+	"latitude": 69.3817,
+	"longitude": -81.6811
+},
+{
+	"City": "Pond Inlet",
+	"State": "NU",
+	"latitude": 72.6808,
+	"longitude": -77.7503
+},
+{
+	"City": "Kugluktuk",
+	"State": "NU",
+	"latitude": 67.8055,
+	"longitude": -115.3223
+},
+{
+	"City": "Pangnirtung",
+	"State": "NU",
+	"latitude": 66.1436,
+	"longitude": -65.6829
+},
+{
+	"City": "Cape Dorset",
+	"State": "NU",
+	"latitude": 64.2237,
+	"longitude": -76.5405
+},
+{
+	"City": "Gjoa Haven",
+	"State": "NU",
+	"latitude": 68.6448,
+	"longitude": -95.8912
+},
+{
+	"City": "Repulse Bay",
+	"State": "NU",
+	"latitude": 66.5628,
+	"longitude": -86.3186
+},
+{
+	"City": "Clyde River",
+	"State": "NU",
+	"latitude": 70.4632,
+	"longitude": -68.4822
+},
+{
+	"City": "Taloyoak",
+	"State": "NU",
+	"latitude": 69.5554,
+	"longitude": -93.4972
+}]

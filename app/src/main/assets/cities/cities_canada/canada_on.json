@@ -1,0 +1,2053 @@
+[
+{
+	"City": "Toronto",
+	"State": "ON",
+	"latitude": 43.7417,
+	"longitude": -79.3733
+},
+{
+	"City": "Ottawa",
+	"State": "ON",
+	"latitude": 45.4247,
+	"longitude": -75.695
+},
+{
+	"City": "Mississauga",
+	"State": "ON",
+	"latitude": 43.6,
+	"longitude": -79.65
+},
+{
+	"City": "Hamilton",
+	"State": "ON",
+	"latitude": 43.2567,
+	"longitude": -79.8692
+},
+{
+	"City": "Brampton",
+	"State": "ON",
+	"latitude": 43.6833,
+	"longitude": -79.7667
+},
+{
+	"City": "Kitchener",
+	"State": "ON",
+	"latitude": 43.4186,
+	"longitude": -80.4728
+},
+{
+	"City": "London",
+	"State": "ON",
+	"latitude": 42.9836,
+	"longitude": -81.2497
+},
+{
+	"City": "Markham",
+	"State": "ON",
+	"latitude": 43.8767,
+	"longitude": -79.2633
+},
+{
+	"City": "St. Catharines",
+	"State": "ON",
+	"latitude": 43.1833,
+	"longitude": -79.2333
+},
+{
+	"City": "Niagara Falls",
+	"State": "ON",
+	"latitude": 43.06,
+	"longitude": -79.1067
+},
+{
+	"City": "Vaughan",
+	"State": "ON",
+	"latitude": 43.8333,
+	"longitude": -79.5
+},
+{
+	"City": "Windsor",
+	"State": "ON",
+	"latitude": 42.2833,
+	"longitude": -83
+},
+{
+	"City": "Richmond Hill",
+	"State": "ON",
+	"latitude": 43.8667,
+	"longitude": -79.4333
+},
+{
+	"City": "Oakville",
+	"State": "ON",
+	"latitude": 43.45,
+	"longitude": -79.6833
+},
+{
+	"City": "Burlington",
+	"State": "ON",
+	"latitude": 43.3167,
+	"longitude": -79.8
+},
+{
+	"City": "Barrie",
+	"State": "ON",
+	"latitude": 44.3711,
+	"longitude": -79.6769
+},
+{
+	"City": "Oshawa",
+	"State": "ON",
+	"latitude": 43.9,
+	"longitude": -78.85
+},
+{
+	"City": "Guelph",
+	"State": "ON",
+	"latitude": 43.55,
+	"longitude": -80.25
+},
+{
+	"City": "Cambridge",
+	"State": "ON",
+	"latitude": 43.3972,
+	"longitude": -80.3114
+},
+{
+	"City": "Whitby",
+	"State": "ON",
+	"latitude": 43.8833,
+	"longitude": -78.9417
+},
+{
+	"City": "Ajax",
+	"State": "ON",
+	"latitude": 43.8583,
+	"longitude": -79.0364
+},
+{
+	"City": "Milton",
+	"State": "ON",
+	"latitude": 43.5083,
+	"longitude": -79.8833
+},
+{
+	"City": "Thunder Bay",
+	"State": "ON",
+	"latitude": 48.3822,
+	"longitude": -89.2461
+},
+{
+	"City": "Waterloo",
+	"State": "ON",
+	"latitude": 43.4667,
+	"longitude": -80.5167
+},
+{
+	"City": "Chatham",
+	"State": "ON",
+	"latitude": 42.4229,
+	"longitude": -82.1324
+},
+{
+	"City": "Brantford",
+	"State": "ON",
+	"latitude": 43.1667,
+	"longitude": -80.25
+},
+{
+	"City": "Clarington",
+	"State": "ON",
+	"latitude": 43.935,
+	"longitude": -78.6083
+},
+{
+	"City": "Pickering",
+	"State": "ON",
+	"latitude": 43.8354,
+	"longitude": -79.089
+},
+{
+	"City": "Sudbury",
+	"State": "ON",
+	"latitude": 46.49,
+	"longitude": -81.01
+},
+{
+	"City": "Newmarket",
+	"State": "ON",
+	"latitude": 44.05,
+	"longitude": -79.4667
+},
+{
+	"City": "Peterborough",
+	"State": "ON",
+	"latitude": 44.3,
+	"longitude": -78.3167
+},
+{
+	"City": "Kawartha Lakes",
+	"State": "ON",
+	"latitude": 44.35,
+	"longitude": -78.75
+},
+{
+	"City": "Sault Ste. Marie",
+	"State": "ON",
+	"latitude": 46.5333,
+	"longitude": -84.35
+},
+{
+	"City": "Sarnia",
+	"State": "ON",
+	"latitude": 42.9994,
+	"longitude": -82.3089
+},
+{
+	"City": "Caledon",
+	"State": "ON",
+	"latitude": 43.8667,
+	"longitude": -79.8667
+},
+{
+	"City": "St. Thomas",
+	"State": "ON",
+	"latitude": 42.775,
+	"longitude": -81.1833
+},
+{
+	"City": "Halton Hills",
+	"State": "ON",
+	"latitude": 43.63,
+	"longitude": -79.95
+},
+{
+	"City": "Aurora",
+	"State": "ON",
+	"latitude": 44,
+	"longitude": -79.4667
+},
+{
+	"City": "Welland",
+	"State": "ON",
+	"latitude": 42.9833,
+	"longitude": -79.2333
+},
+{
+	"City": "North Bay",
+	"State": "ON",
+	"latitude": 46.3,
+	"longitude": -79.45
+},
+{
+	"City": "Belleville",
+	"State": "ON",
+	"latitude": 44.1667,
+	"longitude": -77.3833
+},
+{
+	"City": "Cornwall",
+	"State": "ON",
+	"latitude": 45.0275,
+	"longitude": -74.74
+},
+{
+	"City": "Stouffville",
+	"State": "ON",
+	"latitude": 43.9667,
+	"longitude": -79.25
+},
+{
+	"City": "Georgina",
+	"State": "ON",
+	"latitude": 44.3,
+	"longitude": -79.4333
+},
+{
+	"City": "Quinte West",
+	"State": "ON",
+	"latitude": 44.1833,
+	"longitude": -77.5667
+},
+{
+	"City": "Timmins",
+	"State": "ON",
+	"latitude": 48.4667,
+	"longitude": -81.3333
+},
+{
+	"City": "New Tecumseth",
+	"State": "ON",
+	"latitude": 44.0833,
+	"longitude": -79.75
+},
+{
+	"City": "Woodstock",
+	"State": "ON",
+	"latitude": 43.1306,
+	"longitude": -80.7467
+},
+{
+	"City": "Brant",
+	"State": "ON",
+	"latitude": 43.1167,
+	"longitude": -80.3667
+},
+{
+	"City": "Lakeshore",
+	"State": "ON",
+	"latitude": 42.2399,
+	"longitude": -82.6511
+},
+{
+	"City": "Innisfil",
+	"State": "ON",
+	"latitude": 44.3,
+	"longitude": -79.5833
+},
+{
+	"City": "Bradford West Gwillimbury",
+	"State": "ON",
+	"latitude": 44.1333,
+	"longitude": -79.6333
+},
+{
+	"City": "Leamington",
+	"State": "ON",
+	"latitude": 42.0667,
+	"longitude": -82.5833
+},
+{
+	"City": "Owen Sound",
+	"State": "ON",
+	"latitude": 44.5667,
+	"longitude": -80.9333
+},
+{
+	"City": "Stratford",
+	"State": "ON",
+	"latitude": 43.3708,
+	"longitude": -80.9819
+},
+{
+	"City": "Orillia",
+	"State": "ON",
+	"latitude": 44.6,
+	"longitude": -79.4167
+},
+{
+	"City": "Orangeville",
+	"State": "ON",
+	"latitude": 43.9167,
+	"longitude": -80.1167
+},
+{
+	"City": "Fort Erie",
+	"State": "ON",
+	"latitude": 42.9167,
+	"longitude": -79.0167
+},
+{
+	"City": "LaSalle",
+	"State": "ON",
+	"latitude": 42.2167,
+	"longitude": -83.0667
+},
+{
+	"City": "Centre Wellington",
+	"State": "ON",
+	"latitude": 43.7,
+	"longitude": -80.3667
+},
+{
+	"City": "Grimsby",
+	"State": "ON",
+	"latitude": 43.2,
+	"longitude": -79.55
+},
+{
+	"City": "Woolwich",
+	"State": "ON",
+	"latitude": 43.5667,
+	"longitude": -80.4833
+},
+{
+	"City": "Clarence-Rockland",
+	"State": "ON",
+	"latitude": 45.4833,
+	"longitude": -75.2
+},
+{
+	"City": "East Gwillimbury",
+	"State": "ON",
+	"latitude": 44.1333,
+	"longitude": -79.4167
+},
+{
+	"City": "Lincoln",
+	"State": "ON",
+	"latitude": 43.13,
+	"longitude": -79.43
+},
+{
+	"City": "Tecumseh",
+	"State": "ON",
+	"latitude": 42.2431,
+	"longitude": -82.9256
+},
+{
+	"City": "Amherstburg",
+	"State": "ON",
+	"latitude": 42.1,
+	"longitude": -83.0833
+},
+{
+	"City": "Brockville",
+	"State": "ON",
+	"latitude": 44.5833,
+	"longitude": -75.6833
+},
+{
+	"City": "Collingwood",
+	"State": "ON",
+	"latitude": 44.5,
+	"longitude": -80.2167
+},
+{
+	"City": "Scugog",
+	"State": "ON",
+	"latitude": 44.09,
+	"longitude": -78.936
+},
+{
+	"City": "Kingsville",
+	"State": "ON",
+	"latitude": 42.1,
+	"longitude": -82.7167
+},
+{
+	"City": "Uxbridge",
+	"State": "ON",
+	"latitude": 44.1167,
+	"longitude": -79.1333
+},
+{
+	"City": "Essa",
+	"State": "ON",
+	"latitude": 44.25,
+	"longitude": -79.7833
+},
+{
+	"City": "Oro-Medonte",
+	"State": "ON",
+	"latitude": 44.5667,
+	"longitude": -79.5833
+},
+{
+	"City": "Strathroy-Caradoc",
+	"State": "ON",
+	"latitude": 42.9575,
+	"longitude": -81.6167
+},
+{
+	"City": "Wasaga Beach",
+	"State": "ON",
+	"latitude": 44.5206,
+	"longitude": -80.0167
+},
+{
+	"City": "Wilmot",
+	"State": "ON",
+	"latitude": 43.4,
+	"longitude": -80.65
+},
+{
+	"City": "Essex",
+	"State": "ON",
+	"latitude": 42.0833,
+	"longitude": -82.9
+},
+{
+	"City": "Huntsville",
+	"State": "ON",
+	"latitude": 45.3333,
+	"longitude": -79.2167
+},
+{
+	"City": "Cobourg",
+	"State": "ON",
+	"latitude": 43.9667,
+	"longitude": -78.1667
+},
+{
+	"City": "Springwater",
+	"State": "ON",
+	"latitude": 44.4333,
+	"longitude": -79.7333
+},
+{
+	"City": "Thorold",
+	"State": "ON",
+	"latitude": 43.1167,
+	"longitude": -79.2
+},
+{
+	"City": "South Frontenac",
+	"State": "ON",
+	"latitude": 44.5081,
+	"longitude": -76.4939
+},
+{
+	"City": "Port Colborne",
+	"State": "ON",
+	"latitude": 42.8833,
+	"longitude": -79.25
+},
+{
+	"City": "Niagara-on-the-Lake",
+	"State": "ON",
+	"latitude": 43.2553,
+	"longitude": -79.0717
+},
+{
+	"City": "Middlesex Centre",
+	"State": "ON",
+	"latitude": 43.05,
+	"longitude": -81.45
+},
+{
+	"City": "Petawawa",
+	"State": "ON",
+	"latitude": 45.9,
+	"longitude": -77.2833
+},
+{
+	"City": "Pelham",
+	"State": "ON",
+	"latitude": 43.0333,
+	"longitude": -79.3333
+},
+{
+	"City": "Selwyn",
+	"State": "ON",
+	"latitude": 44.4167,
+	"longitude": -78.3333
+},
+{
+	"City": "Loyalist",
+	"State": "ON",
+	"latitude": 44.25,
+	"longitude": -76.75
+},
+{
+	"City": "Midland",
+	"State": "ON",
+	"latitude": 44.75,
+	"longitude": -79.8833
+},
+{
+	"City": "Port Hope",
+	"State": "ON",
+	"latitude": 43.95,
+	"longitude": -78.3
+},
+{
+	"City": "Russell",
+	"State": "ON",
+	"latitude": 45.2569,
+	"longitude": -75.3583
+},
+{
+	"City": "North Grenville",
+	"State": "ON",
+	"latitude": 44.9667,
+	"longitude": -75.65
+},
+{
+	"City": "Bracebridge",
+	"State": "ON",
+	"latitude": 45.0333,
+	"longitude": -79.3
+},
+{
+	"City": "Greater Napanee",
+	"State": "ON",
+	"latitude": 44.25,
+	"longitude": -76.95
+},
+{
+	"City": "Tillsonburg",
+	"State": "ON",
+	"latitude": 42.8667,
+	"longitude": -80.7333
+},
+{
+	"City": "Kenora",
+	"State": "ON",
+	"latitude": 49.7667,
+	"longitude": -94.4833
+},
+{
+	"City": "West Lincoln",
+	"State": "ON",
+	"latitude": 43.0667,
+	"longitude": -79.5667
+},
+{
+	"City": "West Nipissing / Nipissing Ouest",
+	"State": "ON",
+	"latitude": 46.3667,
+	"longitude": -79.9167
+},
+{
+	"City": "Clearview",
+	"State": "ON",
+	"latitude": 44.3981,
+	"longitude": -80.0742
+},
+{
+	"City": "St. Clair",
+	"State": "ON",
+	"latitude": 42.7833,
+	"longitude": -82.35
+},
+{
+	"City": "Pembroke",
+	"State": "ON",
+	"latitude": 45.8167,
+	"longitude": -77.1
+},
+{
+	"City": "Saugeen Shores",
+	"State": "ON",
+	"latitude": 44.4333,
+	"longitude": -81.3667
+},
+{
+	"City": "Severn",
+	"State": "ON",
+	"latitude": 44.75,
+	"longitude": -79.5167
+},
+{
+	"City": "Thames Centre",
+	"State": "ON",
+	"latitude": 43.03,
+	"longitude": -81.08
+},
+{
+	"City": "Mississippi Mills",
+	"State": "ON",
+	"latitude": 45.2167,
+	"longitude": -76.2
+},
+{
+	"City": "South Glengarry",
+	"State": "ON",
+	"latitude": 45.2,
+	"longitude": -74.5833
+},
+{
+	"City": "North Perth",
+	"State": "ON",
+	"latitude": 43.73,
+	"longitude": -80.95
+},
+{
+	"City": "South Stormont",
+	"State": "ON",
+	"latitude": 45.0833,
+	"longitude": -74.9667
+},
+{
+	"City": "Trent Hills",
+	"State": "ON",
+	"latitude": 44.3142,
+	"longitude": -77.8514
+},
+{
+	"City": "Guelph/Eramosa",
+	"State": "ON",
+	"latitude": 43.63,
+	"longitude": -80.22
+},
+{
+	"City": "The Nation / La Nation",
+	"State": "ON",
+	"latitude": 45.35,
+	"longitude": -75.0333
+},
+{
+	"City": "Ingersoll",
+	"State": "ON",
+	"latitude": 43.0392,
+	"longitude": -80.8836
+},
+{
+	"City": "Central Elgin",
+	"State": "ON",
+	"latitude": 42.7667,
+	"longitude": -81.1
+},
+{
+	"City": "West Grey",
+	"State": "ON",
+	"latitude": 44.1833,
+	"longitude": -80.8167
+},
+{
+	"City": "Gravenhurst",
+	"State": "ON",
+	"latitude": 44.9167,
+	"longitude": -79.3667
+},
+{
+	"City": "Perth East",
+	"State": "ON",
+	"latitude": 43.47,
+	"longitude": -80.95
+},
+{
+	"City": "Wellington North",
+	"State": "ON",
+	"latitude": 43.9,
+	"longitude": -80.57
+},
+{
+	"City": "Carleton Place",
+	"State": "ON",
+	"latitude": 45.1333,
+	"longitude": -76.1333
+},
+{
+	"City": "Brighton",
+	"State": "ON",
+	"latitude": 44.1222,
+	"longitude": -77.7642
+},
+{
+	"City": "Tiny",
+	"State": "ON",
+	"latitude": 44.6833,
+	"longitude": -79.95
+},
+{
+	"City": "Brock",
+	"State": "ON",
+	"latitude": 44.3167,
+	"longitude": -79.0833
+},
+{
+	"City": "Erin",
+	"State": "ON",
+	"latitude": 43.7667,
+	"longitude": -80.0667
+},
+{
+	"City": "Kincardine",
+	"State": "ON",
+	"latitude": 44.1667,
+	"longitude": -81.6333
+},
+{
+	"City": "North Dundas",
+	"State": "ON",
+	"latitude": 45.0833,
+	"longitude": -75.35
+},
+{
+	"City": "Wellesley",
+	"State": "ON",
+	"latitude": 43.55,
+	"longitude": -80.7167
+},
+{
+	"City": "Norwich",
+	"State": "ON",
+	"latitude": 42.9833,
+	"longitude": -80.6
+},
+{
+	"City": "Meaford",
+	"State": "ON",
+	"latitude": 44.58,
+	"longitude": -80.73
+},
+{
+	"City": "Adjala-Tosorontio",
+	"State": "ON",
+	"latitude": 44.1333,
+	"longitude": -79.9333
+},
+{
+	"City": "Hamilton Township",
+	"State": "ON",
+	"latitude": 44.054,
+	"longitude": -78.2164
+},
+{
+	"City": "South Dundas",
+	"State": "ON",
+	"latitude": 44.9167,
+	"longitude": -75.2667
+},
+{
+	"City": "Elliot Lake",
+	"State": "ON",
+	"latitude": 46.3833,
+	"longitude": -82.65
+},
+{
+	"City": "Lambton Shores",
+	"State": "ON",
+	"latitude": 43.1833,
+	"longitude": -81.9
+},
+{
+	"City": "Mapleton",
+	"State": "ON",
+	"latitude": 43.7358,
+	"longitude": -80.6681
+},
+{
+	"City": "Georgian Bluffs",
+	"State": "ON",
+	"latitude": 44.65,
+	"longitude": -81.0333
+},
+{
+	"City": "Hawkesbury",
+	"State": "ON",
+	"latitude": 45.6,
+	"longitude": -74.6
+},
+{
+	"City": "North Dumfries",
+	"State": "ON",
+	"latitude": 43.32,
+	"longitude": -80.38
+},
+{
+	"City": "Rideau Lakes",
+	"State": "ON",
+	"latitude": 44.6667,
+	"longitude": -76.2167
+},
+{
+	"City": "North Glengarry",
+	"State": "ON",
+	"latitude": 45.3333,
+	"longitude": -74.7333
+},
+{
+	"City": "South Huron",
+	"State": "ON",
+	"latitude": 43.32,
+	"longitude": -81.5
+},
+{
+	"City": "Tay",
+	"State": "ON",
+	"latitude": 44.7167,
+	"longitude": -79.7667
+},
+{
+	"City": "Temiskaming Shores",
+	"State": "ON",
+	"latitude": 47.5167,
+	"longitude": -79.6833
+},
+{
+	"City": "Elizabethtown-Kitley",
+	"State": "ON",
+	"latitude": 44.7,
+	"longitude": -75.8833
+},
+{
+	"City": "Grey Highlands",
+	"State": "ON",
+	"latitude": 44.3333,
+	"longitude": -80.5
+},
+{
+	"City": "Alfred and Plantagenet",
+	"State": "ON",
+	"latitude": 45.5667,
+	"longitude": -74.9167
+},
+{
+	"City": "Ramara",
+	"State": "ON",
+	"latitude": 44.6333,
+	"longitude": -79.2167
+},
+{
+	"City": "Leeds and the Thousand Islands",
+	"State": "ON",
+	"latitude": 44.45,
+	"longitude": -76.08
+},
+{
+	"City": "Brockton",
+	"State": "ON",
+	"latitude": 44.1667,
+	"longitude": -81.2167
+},
+{
+	"City": "Laurentian Valley",
+	"State": "ON",
+	"latitude": 45.7681,
+	"longitude": -77.2239
+},
+{
+	"City": "Malahide",
+	"State": "ON",
+	"latitude": 42.7928,
+	"longitude": -80.9361
+},
+{
+	"City": "Huron East",
+	"State": "ON",
+	"latitude": 43.63,
+	"longitude": -81.28
+},
+{
+	"City": "Penetanguishene",
+	"State": "ON",
+	"latitude": 44.7667,
+	"longitude": -79.9333
+},
+{
+	"City": "West Perth",
+	"State": "ON",
+	"latitude": 43.47,
+	"longitude": -81.2
+},
+{
+	"City": "Cavan Monaghan",
+	"State": "ON",
+	"latitude": 44.2,
+	"longitude": -78.4667
+},
+{
+	"City": "Arnprior",
+	"State": "ON",
+	"latitude": 45.4333,
+	"longitude": -76.35
+},
+{
+	"City": "Smiths Falls",
+	"State": "ON",
+	"latitude": 44.9,
+	"longitude": -76.0167
+},
+{
+	"City": "Champlain",
+	"State": "ON",
+	"latitude": 45.5333,
+	"longitude": -74.65
+},
+{
+	"City": "Minto",
+	"State": "ON",
+	"latitude": 43.9167,
+	"longitude": -80.8667
+},
+{
+	"City": "Mono",
+	"State": "ON",
+	"latitude": 44.0167,
+	"longitude": -80.0667
+},
+{
+	"City": "South Bruce Peninsula",
+	"State": "ON",
+	"latitude": 44.7333,
+	"longitude": -81.2
+},
+{
+	"City": "Kapuskasing",
+	"State": "ON",
+	"latitude": 49.4167,
+	"longitude": -82.4333
+},
+{
+	"City": "Renfrew",
+	"State": "ON",
+	"latitude": 45.4717,
+	"longitude": -76.6831
+},
+{
+	"City": "Zorra",
+	"State": "ON",
+	"latitude": 43.15,
+	"longitude": -80.95
+},
+{
+	"City": "Shelburne",
+	"State": "ON",
+	"latitude": 44.0833,
+	"longitude": -80.2
+},
+{
+	"City": "Kirkland Lake",
+	"State": "ON",
+	"latitude": 48.15,
+	"longitude": -80.0333
+},
+{
+	"City": "Drummond/North Elmsley",
+	"State": "ON",
+	"latitude": 44.9667,
+	"longitude": -76.2
+},
+{
+	"City": "Dryden",
+	"State": "ON",
+	"latitude": 49.7833,
+	"longitude": -92.8333
+},
+{
+	"City": "Fort Frances",
+	"State": "ON",
+	"latitude": 48.6167,
+	"longitude": -93.4
+},
+{
+	"City": "Stone Mills",
+	"State": "ON",
+	"latitude": 44.45,
+	"longitude": -76.9167
+},
+{
+	"City": "Hanover",
+	"State": "ON",
+	"latitude": 44.15,
+	"longitude": -81.0333
+},
+{
+	"City": "South-West Oxford",
+	"State": "ON",
+	"latitude": 42.95,
+	"longitude": -80.8
+},
+{
+	"City": "Beckwith",
+	"State": "ON",
+	"latitude": 45.0833,
+	"longitude": -76.0667
+},
+{
+	"City": "Goderich",
+	"State": "ON",
+	"latitude": 43.7333,
+	"longitude": -81.7
+},
+{
+	"City": "Plympton-Wyoming",
+	"State": "ON",
+	"latitude": 43.0167,
+	"longitude": -82.0833
+},
+{
+	"City": "Central Huron",
+	"State": "ON",
+	"latitude": 43.63,
+	"longitude": -81.57
+},
+{
+	"City": "Aylmer",
+	"State": "ON",
+	"latitude": 42.7667,
+	"longitude": -80.9833
+},
+{
+	"City": "Blandford-Blenheim",
+	"State": "ON",
+	"latitude": 43.2333,
+	"longitude": -80.6
+},
+{
+	"City": "Bayham",
+	"State": "ON",
+	"latitude": 42.7333,
+	"longitude": -80.7833
+},
+{
+	"City": "Augusta",
+	"State": "ON",
+	"latitude": 44.7511,
+	"longitude": -75.6003
+},
+{
+	"City": "Puslinch",
+	"State": "ON",
+	"latitude": 43.45,
+	"longitude": -80.1667
+},
+{
+	"City": "St. Marys",
+	"State": "ON",
+	"latitude": 43.2583,
+	"longitude": -81.1333
+},
+{
+	"City": "Southgate",
+	"State": "ON",
+	"latitude": 44.1,
+	"longitude": -80.5833
+},
+{
+	"City": "McNab/Braeside",
+	"State": "ON",
+	"latitude": 45.45,
+	"longitude": -76.5
+},
+{
+	"City": "Bluewater",
+	"State": "ON",
+	"latitude": 43.45,
+	"longitude": -81.6
+},
+{
+	"City": "East Zorra-Tavistock",
+	"State": "ON",
+	"latitude": 43.2333,
+	"longitude": -80.7833
+},
+{
+	"City": "Huron-Kinloss",
+	"State": "ON",
+	"latitude": 44.05,
+	"longitude": -81.5333
+},
+{
+	"City": "The Blue Mountains",
+	"State": "ON",
+	"latitude": 44.4833,
+	"longitude": -80.3833
+},
+{
+	"City": "Whitewater Region",
+	"State": "ON",
+	"latitude": 45.7167,
+	"longitude": -76.8333
+},
+{
+	"City": "Edwardsburgh/Cardinal",
+	"State": "ON",
+	"latitude": 44.8333,
+	"longitude": -75.5
+},
+{
+	"City": "North Stormont",
+	"State": "ON",
+	"latitude": 45.2167,
+	"longitude": -75
+},
+{
+	"City": "Alnwick/Haldimand",
+	"State": "ON",
+	"latitude": 44.0833,
+	"longitude": -78.0333
+},
+{
+	"City": "Arran-Elderslie",
+	"State": "ON",
+	"latitude": 44.4,
+	"longitude": -81.2
+},
+{
+	"City": "Douro-Dummer",
+	"State": "ON",
+	"latitude": 44.45,
+	"longitude": -78.1
+},
+{
+	"City": "Otonabee-South Monaghan",
+	"State": "ON",
+	"latitude": 44.2333,
+	"longitude": -78.2333
+},
+{
+	"City": "Chatsworth",
+	"State": "ON",
+	"latitude": 44.38,
+	"longitude": -80.87
+},
+{
+	"City": "Muskoka Falls",
+	"State": "ON",
+	"latitude": 45.1264,
+	"longitude": -79.558
+},
+{
+	"City": "Parry Sound",
+	"State": "ON",
+	"latitude": 45.3333,
+	"longitude": -80.0333
+},
+{
+	"City": "Wainfleet",
+	"State": "ON",
+	"latitude": 42.925,
+	"longitude": -79.375
+},
+{
+	"City": "Cramahe",
+	"State": "ON",
+	"latitude": 44.0833,
+	"longitude": -77.8833
+},
+{
+	"City": "North Middlesex",
+	"State": "ON",
+	"latitude": 43.15,
+	"longitude": -81.6333
+},
+{
+	"City": "Dysart et al",
+	"State": "ON",
+	"latitude": 45.2042,
+	"longitude": -78.4047
+},
+{
+	"City": "Hindon Hill",
+	"State": "ON",
+	"latitude": 44.9333,
+	"longitude": -78.7333
+},
+{
+	"City": "Tweed",
+	"State": "ON",
+	"latitude": 44.6,
+	"longitude": -77.3333
+},
+{
+	"City": "Perth",
+	"State": "ON",
+	"latitude": 44.9,
+	"longitude": -76.25
+},
+{
+	"City": "Oliver Paipoonge",
+	"State": "ON",
+	"latitude": 48.39,
+	"longitude": -89.52
+},
+{
+	"City": "Petrolia",
+	"State": "ON",
+	"latitude": 42.8833,
+	"longitude": -82.1417
+},
+{
+	"City": "Southwest Middlesex",
+	"State": "ON",
+	"latitude": 42.75,
+	"longitude": -81.7
+},
+{
+	"City": "Front of Yonge",
+	"State": "ON",
+	"latitude": 44.5333,
+	"longitude": -75.8667
+},
+{
+	"City": "Tay Valley",
+	"State": "ON",
+	"latitude": 44.8667,
+	"longitude": -76.3833
+},
+{
+	"City": "South Bruce",
+	"State": "ON",
+	"latitude": 44.0333,
+	"longitude": -81.2
+},
+{
+	"City": "Ashfield-Colborne-Wawanosh",
+	"State": "ON",
+	"latitude": 43.8667,
+	"longitude": -81.6
+},
+{
+	"City": "Trent Lakes",
+	"State": "ON",
+	"latitude": 44.6667,
+	"longitude": -78.4333
+},
+{
+	"City": "Lanark Highlands",
+	"State": "ON",
+	"latitude": 45.088,
+	"longitude": -76.517
+},
+{
+	"City": "Cochrane",
+	"State": "ON",
+	"latitude": 49.0667,
+	"longitude": -81.0167
+},
+{
+	"City": "Sioux Lookout",
+	"State": "ON",
+	"latitude": 50.1,
+	"longitude": -91.9167
+},
+{
+	"City": "Gananoque",
+	"State": "ON",
+	"latitude": 44.33,
+	"longitude": -76.17
+},
+{
+	"City": "Hearst",
+	"State": "ON",
+	"latitude": 49.6869,
+	"longitude": -83.6544
+},
+{
+	"City": "Espanola",
+	"State": "ON",
+	"latitude": 46.25,
+	"longitude": -81.7667
+},
+{
+	"City": "West Elgin",
+	"State": "ON",
+	"latitude": 42.5833,
+	"longitude": -81.6667
+},
+{
+	"City": "North Huron",
+	"State": "ON",
+	"latitude": 43.83,
+	"longitude": -81.42
+},
+{
+	"City": "Stirling-Rawdon",
+	"State": "ON",
+	"latitude": 44.3667,
+	"longitude": -77.5917
+},
+{
+	"City": "Centre Hastings",
+	"State": "ON",
+	"latitude": 44.4167,
+	"longitude": -77.4417
+},
+{
+	"City": "East Ferris",
+	"State": "ON",
+	"latitude": 46.2667,
+	"longitude": -79.3
+},
+{
+	"City": "Lucan Biddulph",
+	"State": "ON",
+	"latitude": 43.2,
+	"longitude": -81.3833
+},
+{
+	"City": "Greenstone",
+	"State": "ON",
+	"latitude": 50,
+	"longitude": -86.7333
+},
+{
+	"City": "Iroquois Falls",
+	"State": "ON",
+	"latitude": 48.7667,
+	"longitude": -80.6667
+},
+{
+	"City": "Havelock-Belmont-Methuen",
+	"State": "ON",
+	"latitude": 44.5667,
+	"longitude": -77.9
+},
+{
+	"City": "Southwold",
+	"State": "ON",
+	"latitude": 42.75,
+	"longitude": -81.3167
+},
+{
+	"City": "Central Frontenac",
+	"State": "ON",
+	"latitude": 44.7167,
+	"longitude": -76.8
+},
+{
+	"City": "Seguin",
+	"State": "ON",
+	"latitude": 45.2882,
+	"longitude": -79.8116
+},
+{
+	"City": "Tyendinaga",
+	"State": "ON",
+	"latitude": 44.3,
+	"longitude": -77.2
+},
+{
+	"City": "Madawaska Valley",
+	"State": "ON",
+	"latitude": 45.5,
+	"longitude": -77.6667
+},
+{
+	"City": "Deep River",
+	"State": "ON",
+	"latitude": 46.1,
+	"longitude": -77.4917
+},
+{
+	"City": "Asphodel-Norwood",
+	"State": "ON",
+	"latitude": 44.3531,
+	"longitude": -78.0183
+},
+{
+	"City": "Red Lake",
+	"State": "ON",
+	"latitude": 51.0333,
+	"longitude": -93.8333
+},
+{
+	"City": "Hastings Highlands",
+	"State": "ON",
+	"latitude": 45.2333,
+	"longitude": -77.9333
+},
+{
+	"City": "Northern Bruce Peninsula",
+	"State": "ON",
+	"latitude": 45.08,
+	"longitude": -81.38
+},
+{
+	"City": "Prescott",
+	"State": "ON",
+	"latitude": 44.7167,
+	"longitude": -75.5167
+},
+{
+	"City": "Amaranth",
+	"State": "ON",
+	"latitude": 43.9833,
+	"longitude": -80.2333
+},
+{
+	"City": "Marmora and Lake",
+	"State": "ON",
+	"latitude": 44.6425,
+	"longitude": -77.7372
+},
+{
+	"City": "Bancroft",
+	"State": "ON",
+	"latitude": 45.05,
+	"longitude": -77.85
+},
+{
+	"City": "Howick",
+	"State": "ON",
+	"latitude": 43.9,
+	"longitude": -81.07
+},
+{
+	"City": "Dutton/Dunwich",
+	"State": "ON",
+	"latitude": 42.6667,
+	"longitude": -81.5
+},
+{
+	"City": "Callander",
+	"State": "ON",
+	"latitude": 46.1781,
+	"longitude": -79.4125
+},
+{
+	"City": "Perth South",
+	"State": "ON",
+	"latitude": 43.3,
+	"longitude": -81.15
+},
+{
+	"City": "Breslau",
+	"State": "ON",
+	"latitude": 43.4816,
+	"longitude": -80.408
+},
+{
+	"City": "Montague",
+	"State": "ON",
+	"latitude": 44.9667,
+	"longitude": -75.9667
+},
+{
+	"City": "Warwick",
+	"State": "ON",
+	"latitude": 43,
+	"longitude": -81.8917
+},
+{
+	"City": "Bonnechere Valley",
+	"State": "ON",
+	"latitude": 45.5333,
+	"longitude": -77.1
+},
+{
+	"City": "Casselman",
+	"State": "ON",
+	"latitude": 45.3,
+	"longitude": -75.0833
+},
+{
+	"City": "Morris-Turnberry",
+	"State": "ON",
+	"latitude": 43.85,
+	"longitude": -81.25
+},
+{
+	"City": "Mulmur",
+	"State": "ON",
+	"latitude": 44.1917,
+	"longitude": -80.1083
+},
+{
+	"City": "Blind River",
+	"State": "ON",
+	"latitude": 46.1833,
+	"longitude": -82.95
+},
+{
+	"City": "Powassan",
+	"State": "ON",
+	"latitude": 46.0825,
+	"longitude": -79.3619
+},
+{
+	"City": "Highlands East",
+	"State": "ON",
+	"latitude": 44.9667,
+	"longitude": -78.25
+},
+{
+	"City": "East Hawkesbury",
+	"State": "ON",
+	"latitude": 45.5167,
+	"longitude": -74.4667
+},
+{
+	"City": "Marathon",
+	"State": "ON",
+	"latitude": 48.75,
+	"longitude": -86.3667
+},
+{
+	"City": "Sables-Spanish Rivers",
+	"State": "ON",
+	"latitude": 46.2333,
+	"longitude": -82
+},
+{
+	"City": "Lake of Bays",
+	"State": "ON",
+	"latitude": 45.3043,
+	"longitude": -79.018
+},
+{
+	"City": "Merrickville",
+	"State": "ON",
+	"latitude": 44.8539,
+	"longitude": -75.8269
+},
+{
+	"City": "Athens",
+	"State": "ON",
+	"latitude": 44.625,
+	"longitude": -75.95
+},
+{
+	"City": "Melancthon",
+	"State": "ON",
+	"latitude": 44.15,
+	"longitude": -80.2667
+},
+{
+	"City": "Adelaide-Metcalfe",
+	"State": "ON",
+	"latitude": 42.95,
+	"longitude": -81.7
+},
+{
+	"City": "Laurentian Hills",
+	"State": "ON",
+	"latitude": 46.1333,
+	"longitude": -77.55
+},
+{
+	"City": "Grand Valley",
+	"State": "ON",
+	"latitude": 43.95,
+	"longitude": -80.3667
+},
+{
+	"City": "Admaston/Bromley",
+	"State": "ON",
+	"latitude": 45.5292,
+	"longitude": -76.8969
+},
+{
+	"City": "North Algona Wilberforce",
+	"State": "ON",
+	"latitude": 45.6167,
+	"longitude": -77.2
+},
+{
+	"City": "Wawa",
+	"State": "ON",
+	"latitude": 47.9931,
+	"longitude": -84.7736
+},
+{
+	"City": "Horton",
+	"State": "ON",
+	"latitude": 45.5,
+	"longitude": -76.6667
+},
+{
+	"City": "Shuniah",
+	"State": "ON",
+	"latitude": 48.5833,
+	"longitude": -88.8333
+},
+{
+	"City": "Enniskillen",
+	"State": "ON",
+	"latitude": 42.8167,
+	"longitude": -82.125
+},
+{
+	"City": "Atikokan",
+	"State": "ON",
+	"latitude": 48.75,
+	"longitude": -91.6167
+},
+{
+	"City": "Northeastern Manitoulin and the Islands",
+	"State": "ON",
+	"latitude": 45.9667,
+	"longitude": -81.9333
+},
+{
+	"City": "McDougall",
+	"State": "ON",
+	"latitude": 45.45,
+	"longitude": -80.0167
+},
+{
+	"City": "French River / RiviÃ¨re des FranÃ§ais",
+	"State": "ON",
+	"latitude": 46.1667,
+	"longitude": -80.5
+},
+{
+	"City": "Markstay",
+	"State": "ON",
+	"latitude": 46.4912,
+	"longitude": -80.4717
+},
+{
+	"City": "East Garafraxa",
+	"State": "ON",
+	"latitude": 43.85,
+	"longitude": -80.25
+},
+{
+	"City": "Greater Madawaska",
+	"State": "ON",
+	"latitude": 45.2722,
+	"longitude": -76.8589
+},
+{
+	"City": "Georgian Bay",
+	"State": "ON",
+	"latitude": 44.9833,
+	"longitude": -79.8167
+},
+{
+	"City": "North Kawartha",
+	"State": "ON",
+	"latitude": 44.75,
+	"longitude": -78.1
+},
+{
+	"City": "Perry",
+	"State": "ON",
+	"latitude": 45.5,
+	"longitude": -79.2833
+},
+{
+	"City": "Black River-Matheson",
+	"State": "ON",
+	"latitude": 48.5333,
+	"longitude": -80.4667
+},
+{
+	"City": "Alvinston",
+	"State": "ON",
+	"latitude": 42.8489,
+	"longitude": -81.9049
+},
+{
+	"City": "Algonquin Highlands",
+	"State": "ON",
+	"latitude": 45.4,
+	"longitude": -78.75
+},
+{
+	"City": "Addington Highlands",
+	"State": "ON",
+	"latitude": 45,
+	"longitude": -77.25
+},
+{
+	"City": "Central Manitoulin",
+	"State": "ON",
+	"latitude": 45.7167,
+	"longitude": -82.2
+},
+{
+	"City": "Madoc",
+	"State": "ON",
+	"latitude": 44.5833,
+	"longitude": -77.5167
+},
+{
+	"City": "Neebing",
+	"State": "ON",
+	"latitude": 48.1833,
+	"longitude": -89.4667
+},
+{
+	"City": "Point Edward",
+	"State": "ON",
+	"latitude": 42.9931,
+	"longitude": -82.4083
+},
+{
+	"City": "Mattawa",
+	"State": "ON",
+	"latitude": 46.3167,
+	"longitude": -78.7
+},
+{
+	"City": "Bonfield",
+	"State": "ON",
+	"latitude": 46.2167,
+	"longitude": -79.1333
+},
+{
+	"City": "Dawn-Euphemia",
+	"State": "ON",
+	"latitude": 42.7,
+	"longitude": -82.0167
+},
+{
+	"City": "Chapleau",
+	"State": "ON",
+	"latitude": 47.8333,
+	"longitude": -83.4
+},
+{
+	"City": "Manitouwadge",
+	"State": "ON",
+	"latitude": 49.1333,
+	"longitude": -85.8333
+},
+{
+	"City": "Wellington",
+	"State": "ON",
+	"latitude": 43.9579,
+	"longitude": -77.3534
+},
+{
+	"City": "North Frontenac",
+	"State": "ON",
+	"latitude": 44.95,
+	"longitude": -76.9
+},
+{
+	"City": "Deseronto",
+	"State": "ON",
+	"latitude": 44.2,
+	"longitude": -77.05
+},
+{
+	"City": "Frontenac Islands",
+	"State": "ON",
+	"latitude": 44.2,
+	"longitude": -76.3833
+},
+{
+	"City": "Komoka",
+	"State": "ON",
+	"latitude": 42.958,
+	"longitude": -81.4001
+},
+{
+	"City": "Nipissing",
+	"State": "ON",
+	"latitude": 46.05,
+	"longitude": -79.55
+},
+{
+	"City": "Huron Shores",
+	"State": "ON",
+	"latitude": 46.2833,
+	"longitude": -83.2
+},
+{
+	"City": "Nipigon",
+	"State": "ON",
+	"latitude": 49.0153,
+	"longitude": -88.2683
+},
+{
+	"City": "Burford",
+	"State": "ON",
+	"latitude": 43.1036,
+	"longitude": -80.424
+},
+{
+	"City": "Terrace Bay",
+	"State": "ON",
+	"latitude": 48.8,
+	"longitude": -87.1
+},
+{
+	"City": "Moosonee",
+	"State": "ON",
+	"latitude": 51.2722,
+	"longitude": -80.6431
+},
+{
+	"City": "Englehart",
+	"State": "ON",
+	"latitude": 47.8167,
+	"longitude": -79.8667
+},
+{
+	"City": "Strong",
+	"State": "ON",
+	"latitude": 45.75,
+	"longitude": -79.4
+},
+{
+	"City": "Lappe",
+	"State": "ON",
+	"latitude": 48.5693,
+	"longitude": -89.3573
+},
+{
+	"City": "Armour",
+	"State": "ON",
+	"latitude": 45.6289,
+	"longitude": -79.3436
+},
+{
+	"City": "Faraday",
+	"State": "ON",
+	"latitude": 45,
+	"longitude": -77.9167
+},
+{
+	"City": "Magnetawan",
+	"State": "ON",
+	"latitude": 45.6667,
+	"longitude": -79.6333
+},
+{
+	"City": "Emo",
+	"State": "ON",
+	"latitude": 48.6333,
+	"longitude": -93.8333
+},
+{
+	"City": "Smooth Rock Falls",
+	"State": "ON",
+	"latitude": 49.2833,
+	"longitude": -81.6333
+},
+{
+	"City": "Chisholm",
+	"State": "ON",
+	"latitude": 46.1,
+	"longitude": -79.2333
+},
+{
+	"City": "Thessalon",
+	"State": "ON",
+	"latitude": 46.25,
+	"longitude": -83.55
+},
+{
+	"City": "Conestogo",
+	"State": "ON",
+	"latitude": 43.5441,
+	"longitude": -80.4997
+},
+{
+	"City": "St.-Charles",
+	"State": "ON",
+	"latitude": 46.3422,
+	"longitude": -80.4497
+},
+{
+	"City": "St. Joseph",
+	"State": "ON",
+	"latitude": 46.2667,
+	"longitude": -84
+},
+{
+	"City": "Moonbeam",
+	"State": "ON",
+	"latitude": 49.35,
+	"longitude": -82.15
+},
+{
+	"City": "Bayfield",
+	"State": "ON",
+	"latitude": 43.5615,
+	"longitude": -81.6983
+},
+{
+	"City": "Ignace",
+	"State": "ON",
+	"latitude": 49.4167,
+	"longitude": -91.6667
+},
+{
+	"City": "Claremont",
+	"State": "ON",
+	"latitude": 43.9741,
+	"longitude": -79.1316
+},
+{
+	"City": "Armstrong",
+	"State": "ON",
+	"latitude": 47.7083,
+	"longitude": -79.825
+},
+{
+	"City": "Sagamok",
+	"State": "ON",
+	"latitude": 46.1529,
+	"longitude": -82.2072
+},
+{
+	"City": "Tara",
+	"State": "ON",
+	"latitude": 44.4793,
+	"longitude": -81.1445
+},
+{
+	"City": "Carling",
+	"State": "ON",
+	"latitude": 45.4333,
+	"longitude": -80.2167
+},
+{
+	"City": "Hillsburgh",
+	"State": "ON",
+	"latitude": 43.7914,
+	"longitude": -80.1354
+},
+{
+	"City": "Cobalt",
+	"State": "ON",
+	"latitude": 47.4,
+	"longitude": -79.6833
+},
+{
+	"City": "South River",
+	"State": "ON",
+	"latitude": 45.8417,
+	"longitude": -79.375
+},
+{
+	"City": "McKellar",
+	"State": "ON",
+	"latitude": 45.4833,
+	"longitude": -79.85
+},
+{
+	"City": "South Algonquin",
+	"State": "ON",
+	"latitude": 45.4967,
+	"longitude": -78.0239
+},
+{
+	"City": "Sioux Narrows-Nestor Falls",
+	"State": "ON",
+	"latitude": 49.4,
+	"longitude": -94.08
+},
+{
+	"City": "King",
+	"State": "ON",
+	"latitude": 44.0463,
+	"longitude": -79.6044
+},
+{
+	"City": "Hensall",
+	"State": "ON",
+	"latitude": 43.4345,
+	"longitude": -81.504
+},
+{
+	"City": "Schreiber",
+	"State": "ON",
+	"latitude": 48.8167,
+	"longitude": -87.2667
+},
+{
+	"City": "Beachburg",
+	"State": "ON",
+	"latitude": 45.7303,
+	"longitude": -76.8559
+},
+{
+	"City": "Laird",
+	"State": "ON",
+	"latitude": 46.3833,
+	"longitude": -84.0667
+},
+{
+	"City": "Plantagenet",
+	"State": "ON",
+	"latitude": 45.5321,
+	"longitude": -74.9956
+},
+{
+	"City": "Papineau-Cameron",
+	"State": "ON",
+	"latitude": 46.3,
+	"longitude": -78.7333
+},
+{
+	"City": "Assiginack",
+	"State": "ON",
+	"latitude": 45.7333,
+	"longitude": -81.8
+},
+{
+	"City": "Prince",
+	"State": "ON",
+	"latitude": 46.5333,
+	"longitude": -84.5
+}]

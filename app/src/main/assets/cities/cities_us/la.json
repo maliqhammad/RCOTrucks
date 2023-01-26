@@ -1,0 +1,2845 @@
+[
+{
+	"City": "New Orleans",
+	"State": "LA",
+	"latitude": 30.0687,
+	"longitude": -89.9288
+},
+{
+	"City": "Baton Rouge",
+	"State": "LA",
+	"latitude": 30.4418,
+	"longitude": -91.131
+},
+{
+	"City": "Shreveport",
+	"State": "LA",
+	"latitude": 32.4656,
+	"longitude": -93.7956
+},
+{
+	"City": "Lafayette",
+	"State": "LA",
+	"latitude": 30.2084,
+	"longitude": -92.0323
+},
+{
+	"City": "Lake Charles",
+	"State": "LA",
+	"latitude": 30.2012,
+	"longitude": -93.2122
+},
+{
+	"City": "Metairie",
+	"State": "LA",
+	"latitude": 29.9977,
+	"longitude": -90.178
+},
+{
+	"City": "Houma",
+	"State": "LA",
+	"latitude": 29.5799,
+	"longitude": -90.7058
+},
+{
+	"City": "Monroe",
+	"State": "LA",
+	"latitude": 32.5183,
+	"longitude": -92.0774
+},
+{
+	"City": "Mandeville",
+	"State": "LA",
+	"latitude": 30.3751,
+	"longitude": -90.0904
+},
+{
+	"City": "Slidell",
+	"State": "LA",
+	"latitude": 30.2881,
+	"longitude": -89.7826
+},
+{
+	"City": "Alexandria",
+	"State": "LA",
+	"latitude": 31.2923,
+	"longitude": -92.4702
+},
+{
+	"City": "Hammond",
+	"State": "LA",
+	"latitude": 30.5061,
+	"longitude": -90.4563
+},
+{
+	"City": "Bossier City",
+	"State": "LA",
+	"latitude": 32.5227,
+	"longitude": -93.6666
+},
+{
+	"City": "Kenner",
+	"State": "LA",
+	"latitude": 30.0109,
+	"longitude": -90.2549
+},
+{
+	"City": "Prairieville",
+	"State": "LA",
+	"latitude": 30.3151,
+	"longitude": -90.9571
+},
+{
+	"City": "Marrero",
+	"State": "LA",
+	"latitude": 29.8871,
+	"longitude": -90.1127
+},
+{
+	"City": "Central",
+	"State": "LA",
+	"latitude": 30.5593,
+	"longitude": -91.0369
+},
+{
+	"City": "Laplace",
+	"State": "LA",
+	"latitude": 30.0731,
+	"longitude": -90.4758
+},
+{
+	"City": "New Iberia",
+	"State": "LA",
+	"latitude": 30.0049,
+	"longitude": -91.8202
+},
+{
+	"City": "Morgan City",
+	"State": "LA",
+	"latitude": 29.7041,
+	"longitude": -91.192
+},
+{
+	"City": "Ruston",
+	"State": "LA",
+	"latitude": 32.5329,
+	"longitude": -92.6363
+},
+{
+	"City": "Terrytown",
+	"State": "LA",
+	"latitude": 29.9014,
+	"longitude": -90.0279
+},
+{
+	"City": "Opelousas",
+	"State": "LA",
+	"latitude": 30.528,
+	"longitude": -92.0851
+},
+{
+	"City": "Chalmette",
+	"State": "LA",
+	"latitude": 29.9437,
+	"longitude": -89.9659
+},
+{
+	"City": "Harvey",
+	"State": "LA",
+	"latitude": 29.8876,
+	"longitude": -90.0666
+},
+{
+	"City": "Shenandoah",
+	"State": "LA",
+	"latitude": 30.4019,
+	"longitude": -91.002
+},
+{
+	"City": "Bayou Cane",
+	"State": "LA",
+	"latitude": 29.6244,
+	"longitude": -90.751
+},
+{
+	"City": "Sulphur",
+	"State": "LA",
+	"latitude": 30.2286,
+	"longitude": -93.3565
+},
+{
+	"City": "Abbeville",
+	"State": "LA",
+	"latitude": 29.975,
+	"longitude": -92.1265
+},
+{
+	"City": "Natchitoches",
+	"State": "LA",
+	"latitude": 31.7317,
+	"longitude": -93.0979
+},
+{
+	"City": "Breaux Bridge",
+	"State": "LA",
+	"latitude": 30.2829,
+	"longitude": -91.9043
+},
+{
+	"City": "Estelle",
+	"State": "LA",
+	"latitude": 29.8447,
+	"longitude": -90.1021
+},
+{
+	"City": "Zachary",
+	"State": "LA",
+	"latitude": 30.6642,
+	"longitude": -91.1634
+},
+{
+	"City": "Gretna",
+	"State": "LA",
+	"latitude": 29.9101,
+	"longitude": -90.0515
+},
+{
+	"City": "Donaldsonville",
+	"State": "LA",
+	"latitude": 30.0954,
+	"longitude": -90.9926
+},
+{
+	"City": "Youngsville",
+	"State": "LA",
+	"latitude": 30.0964,
+	"longitude": -91.9963
+},
+{
+	"City": "Thibodaux",
+	"State": "LA",
+	"latitude": 29.7941,
+	"longitude": -90.8163
+},
+{
+	"City": "Crowley",
+	"State": "LA",
+	"latitude": 30.2175,
+	"longitude": -92.3752
+},
+{
+	"City": "Pineville",
+	"State": "LA",
+	"latitude": 31.3414,
+	"longitude": -92.4096
+},
+{
+	"City": "Luling",
+	"State": "LA",
+	"latitude": 29.9008,
+	"longitude": -90.3523
+},
+{
+	"City": "Belle Chasse",
+	"State": "LA",
+	"latitude": 29.8472,
+	"longitude": -90.0069
+},
+{
+	"City": "Gramercy",
+	"State": "LA",
+	"latitude": 30.061,
+	"longitude": -90.6928
+},
+{
+	"City": "DeRidder",
+	"State": "LA",
+	"latitude": 30.8467,
+	"longitude": -93.2931
+},
+{
+	"City": "River Ridge",
+	"State": "LA",
+	"latitude": 29.9593,
+	"longitude": -90.2202
+},
+{
+	"City": "Baker",
+	"State": "LA",
+	"latitude": 30.5833,
+	"longitude": -91.1581
+},
+{
+	"City": "Franklin",
+	"State": "LA",
+	"latitude": 29.7851,
+	"longitude": -91.5098
+},
+{
+	"City": "Broussard",
+	"State": "LA",
+	"latitude": 30.1393,
+	"longitude": -91.9538
+},
+{
+	"City": "Bastrop",
+	"State": "LA",
+	"latitude": 32.7749,
+	"longitude": -91.9058
+},
+{
+	"City": "West Monroe",
+	"State": "LA",
+	"latitude": 32.512,
+	"longitude": -92.1513
+},
+{
+	"City": "Minden",
+	"State": "LA",
+	"latitude": 32.6187,
+	"longitude": -93.2762
+},
+{
+	"City": "Claiborne",
+	"State": "LA",
+	"latitude": 32.5379,
+	"longitude": -92.1981
+},
+{
+	"City": "Bogalusa",
+	"State": "LA",
+	"latitude": 30.7812,
+	"longitude": -89.8633
+},
+{
+	"City": "Bayou Blue",
+	"State": "LA",
+	"latitude": 29.6341,
+	"longitude": -90.6732
+},
+{
+	"City": "Destrehan",
+	"State": "LA",
+	"latitude": 29.9627,
+	"longitude": -90.3676
+},
+{
+	"City": "Gardere",
+	"State": "LA",
+	"latitude": 30.3582,
+	"longitude": -91.1345
+},
+{
+	"City": "Eunice",
+	"State": "LA",
+	"latitude": 30.4904,
+	"longitude": -92.4191
+},
+{
+	"City": "Moss Bluff",
+	"State": "LA",
+	"latitude": 30.3039,
+	"longitude": -93.2051
+},
+{
+	"City": "Gonzales",
+	"State": "LA",
+	"latitude": 30.2132,
+	"longitude": -90.9234
+},
+{
+	"City": "Raceland",
+	"State": "LA",
+	"latitude": 29.7282,
+	"longitude": -90.6362
+},
+{
+	"City": "Covington",
+	"State": "LA",
+	"latitude": 30.4808,
+	"longitude": -90.1122
+},
+{
+	"City": "Jefferson",
+	"State": "LA",
+	"latitude": 29.9609,
+	"longitude": -90.1554
+},
+{
+	"City": "Woodmere",
+	"State": "LA",
+	"latitude": 29.8493,
+	"longitude": -90.0751
+},
+{
+	"City": "Waggaman",
+	"State": "LA",
+	"latitude": 29.9373,
+	"longitude": -90.2354
+},
+{
+	"City": "Timberlane",
+	"State": "LA",
+	"latitude": 29.8781,
+	"longitude": -90.0303
+},
+{
+	"City": "Jennings",
+	"State": "LA",
+	"latitude": 30.2233,
+	"longitude": -92.6582
+},
+{
+	"City": "Denham Springs",
+	"State": "LA",
+	"latitude": 30.4743,
+	"longitude": -90.9594
+},
+{
+	"City": "Carencro",
+	"State": "LA",
+	"latitude": 30.3126,
+	"longitude": -92.0387
+},
+{
+	"City": "Rayne",
+	"State": "LA",
+	"latitude": 30.2403,
+	"longitude": -92.2668
+},
+{
+	"City": "Harahan",
+	"State": "LA",
+	"latitude": 29.9374,
+	"longitude": -90.203
+},
+{
+	"City": "Fort Polk South",
+	"State": "LA",
+	"latitude": 31.0512,
+	"longitude": -93.2159
+},
+{
+	"City": "Lacombe",
+	"State": "LA",
+	"latitude": 30.3141,
+	"longitude": -89.9311
+},
+{
+	"City": "Merrydale",
+	"State": "LA",
+	"latitude": 30.4998,
+	"longitude": -91.1081
+},
+{
+	"City": "Ville Platte",
+	"State": "LA",
+	"latitude": 30.6901,
+	"longitude": -92.2744
+},
+{
+	"City": "Scott",
+	"State": "LA",
+	"latitude": 30.2398,
+	"longitude": -92.0947
+},
+{
+	"City": "Reserve",
+	"State": "LA",
+	"latitude": 30.0741,
+	"longitude": -90.5557
+},
+{
+	"City": "Prien",
+	"State": "LA",
+	"latitude": 30.1601,
+	"longitude": -93.2611
+},
+{
+	"City": "Tallulah",
+	"State": "LA",
+	"latitude": 32.4067,
+	"longitude": -91.1915
+},
+{
+	"City": "Oak Hills Place",
+	"State": "LA",
+	"latitude": 30.369,
+	"longitude": -91.0887
+},
+{
+	"City": "Westwego",
+	"State": "LA",
+	"latitude": 29.9058,
+	"longitude": -90.1434
+},
+{
+	"City": "Leesville",
+	"State": "LA",
+	"latitude": 31.1397,
+	"longitude": -93.2741
+},
+{
+	"City": "Old Jefferson",
+	"State": "LA",
+	"latitude": 30.3776,
+	"longitude": -91.006
+},
+{
+	"City": "Oakdale",
+	"State": "LA",
+	"latitude": 30.8157,
+	"longitude": -92.6542
+},
+{
+	"City": "St. Gabriel",
+	"State": "LA",
+	"latitude": 30.2537,
+	"longitude": -91.1013
+},
+{
+	"City": "New Roads",
+	"State": "LA",
+	"latitude": 30.6959,
+	"longitude": -91.4537
+},
+{
+	"City": "Ponchatoula",
+	"State": "LA",
+	"latitude": 30.4402,
+	"longitude": -90.4428
+},
+{
+	"City": "Eden Isle",
+	"State": "LA",
+	"latitude": 30.2268,
+	"longitude": -89.8043
+},
+{
+	"City": "St. Rose",
+	"State": "LA",
+	"latitude": 29.9649,
+	"longitude": -90.3088
+},
+{
+	"City": "Red Chute",
+	"State": "LA",
+	"latitude": 32.5732,
+	"longitude": -93.606
+},
+{
+	"City": "Village St. George",
+	"State": "LA",
+	"latitude": 30.3598,
+	"longitude": -91.0672
+},
+{
+	"City": "Larose",
+	"State": "LA",
+	"latitude": 29.5669,
+	"longitude": -90.3751
+},
+{
+	"City": "Marksville",
+	"State": "LA",
+	"latitude": 31.1247,
+	"longitude": -92.0652
+},
+{
+	"City": "Meraux",
+	"State": "LA",
+	"latitude": 29.9284,
+	"longitude": -89.9179
+},
+{
+	"City": "Galliano",
+	"State": "LA",
+	"latitude": 29.447,
+	"longitude": -90.3096
+},
+{
+	"City": "St. Martinville",
+	"State": "LA",
+	"latitude": 30.1263,
+	"longitude": -91.8319
+},
+{
+	"City": "Bridge City",
+	"State": "LA",
+	"latitude": 29.9321,
+	"longitude": -90.1594
+},
+{
+	"City": "Amite City",
+	"State": "LA",
+	"latitude": 30.7323,
+	"longitude": -90.5133
+},
+{
+	"City": "Plaquemine",
+	"State": "LA",
+	"latitude": 30.2834,
+	"longitude": -91.2429
+},
+{
+	"City": "Schriever",
+	"State": "LA",
+	"latitude": 29.7334,
+	"longitude": -90.831
+},
+{
+	"City": "Jeanerette",
+	"State": "LA",
+	"latitude": 29.9157,
+	"longitude": -91.6758
+},
+{
+	"City": "Walker",
+	"State": "LA",
+	"latitude": 30.485,
+	"longitude": -90.8656
+},
+{
+	"City": "Addis",
+	"State": "LA",
+	"latitude": 30.3652,
+	"longitude": -91.2659
+},
+{
+	"City": "Cut Off",
+	"State": "LA",
+	"latitude": 29.5164,
+	"longitude": -90.3291
+},
+{
+	"City": "Inniswold",
+	"State": "LA",
+	"latitude": 30.3982,
+	"longitude": -91.071
+},
+{
+	"City": "Gray",
+	"State": "LA",
+	"latitude": 29.6776,
+	"longitude": -90.7833
+},
+{
+	"City": "Patterson",
+	"State": "LA",
+	"latitude": 29.6909,
+	"longitude": -91.3096
+},
+{
+	"City": "Brownfields",
+	"State": "LA",
+	"latitude": 30.5467,
+	"longitude": -91.1225
+},
+{
+	"City": "Violet",
+	"State": "LA",
+	"latitude": 29.8962,
+	"longitude": -89.892
+},
+{
+	"City": "Benton",
+	"State": "LA",
+	"latitude": 32.6906,
+	"longitude": -93.74
+},
+{
+	"City": "Elmwood",
+	"State": "LA",
+	"latitude": 29.9555,
+	"longitude": -90.188
+},
+{
+	"City": "Mansfield",
+	"State": "LA",
+	"latitude": 32.0355,
+	"longitude": -93.7004
+},
+{
+	"City": "Springhill",
+	"State": "LA",
+	"latitude": 33.0019,
+	"longitude": -93.4613
+},
+{
+	"City": "Ferriday",
+	"State": "LA",
+	"latitude": 31.6343,
+	"longitude": -91.5562
+},
+{
+	"City": "Chackbay",
+	"State": "LA",
+	"latitude": 29.8817,
+	"longitude": -90.7742
+},
+{
+	"City": "Jonesboro",
+	"State": "LA",
+	"latitude": 32.2348,
+	"longitude": -92.7098
+},
+{
+	"City": "Avondale",
+	"State": "LA",
+	"latitude": 29.9072,
+	"longitude": -90.1933
+},
+{
+	"City": "Carlyss",
+	"State": "LA",
+	"latitude": 30.1761,
+	"longitude": -93.3704
+},
+{
+	"City": "Grambling",
+	"State": "LA",
+	"latitude": 32.5276,
+	"longitude": -92.7124
+},
+{
+	"City": "Winnsboro",
+	"State": "LA",
+	"latitude": 32.1651,
+	"longitude": -91.721
+},
+{
+	"City": "Westlake",
+	"State": "LA",
+	"latitude": 30.2606,
+	"longitude": -93.2638
+},
+{
+	"City": "DeQuincy",
+	"State": "LA",
+	"latitude": 30.449,
+	"longitude": -93.4456
+},
+{
+	"City": "Monticello",
+	"State": "LA",
+	"latitude": 30.4881,
+	"longitude": -91.0449
+},
+{
+	"City": "Port Allen",
+	"State": "LA",
+	"latitude": 30.4456,
+	"longitude": -91.2098
+},
+{
+	"City": "Winnfield",
+	"State": "LA",
+	"latitude": 31.924,
+	"longitude": -92.6425
+},
+{
+	"City": "Kaplan",
+	"State": "LA",
+	"latitude": 30.006,
+	"longitude": -92.284
+},
+{
+	"City": "Swartz",
+	"State": "LA",
+	"latitude": 32.5809,
+	"longitude": -91.9869
+},
+{
+	"City": "Eastwood",
+	"State": "LA",
+	"latitude": 32.5606,
+	"longitude": -93.5625
+},
+{
+	"City": "Berwick",
+	"State": "LA",
+	"latitude": 29.7013,
+	"longitude": -91.2377
+},
+{
+	"City": "Church Point",
+	"State": "LA",
+	"latitude": 30.4037,
+	"longitude": -92.2145
+},
+{
+	"City": "Arabi",
+	"State": "LA",
+	"latitude": 29.9562,
+	"longitude": -89.9986
+},
+{
+	"City": "Lake Providence",
+	"State": "LA",
+	"latitude": 32.8133,
+	"longitude": -91.1826
+},
+{
+	"City": "Bayou Vista",
+	"State": "LA",
+	"latitude": 29.6912,
+	"longitude": -91.2672
+},
+{
+	"City": "Rayville",
+	"State": "LA",
+	"latitude": 32.4707,
+	"longitude": -91.7576
+},
+{
+	"City": "Jena",
+	"State": "LA",
+	"latitude": 31.6914,
+	"longitude": -92.1298
+},
+{
+	"City": "Ball",
+	"State": "LA",
+	"latitude": 31.4188,
+	"longitude": -92.4084
+},
+{
+	"City": "Bunkie",
+	"State": "LA",
+	"latitude": 30.954,
+	"longitude": -92.1883
+},
+{
+	"City": "Vidalia",
+	"State": "LA",
+	"latitude": 31.5668,
+	"longitude": -91.4405
+},
+{
+	"City": "Brownsville",
+	"State": "LA",
+	"latitude": 32.4883,
+	"longitude": -92.1619
+},
+{
+	"City": "Franklinton",
+	"State": "LA",
+	"latitude": 30.8479,
+	"longitude": -90.1459
+},
+{
+	"City": "Mamou",
+	"State": "LA",
+	"latitude": 30.6349,
+	"longitude": -92.4179
+},
+{
+	"City": "Farmerville",
+	"State": "LA",
+	"latitude": 32.7752,
+	"longitude": -92.4013
+},
+{
+	"City": "Jackson",
+	"State": "LA",
+	"latitude": 30.8346,
+	"longitude": -91.208
+},
+{
+	"City": "Livonia",
+	"State": "LA",
+	"latitude": 30.5623,
+	"longitude": -91.5502
+},
+{
+	"City": "Vivian",
+	"State": "LA",
+	"latitude": 32.8714,
+	"longitude": -93.9862
+},
+{
+	"City": "Sunset",
+	"State": "LA",
+	"latitude": 30.4083,
+	"longitude": -92.0641
+},
+{
+	"City": "Cottonport",
+	"State": "LA",
+	"latitude": 30.9892,
+	"longitude": -92.0509
+},
+{
+	"City": "Iowa",
+	"State": "LA",
+	"latitude": 30.2393,
+	"longitude": -93.0129
+},
+{
+	"City": "Richwood",
+	"State": "LA",
+	"latitude": 32.4486,
+	"longitude": -92.0774
+},
+{
+	"City": "South Vacherie",
+	"State": "LA",
+	"latitude": 29.9406,
+	"longitude": -90.6891
+},
+{
+	"City": "Haughton",
+	"State": "LA",
+	"latitude": 32.5271,
+	"longitude": -93.5042
+},
+{
+	"City": "Grand Point",
+	"State": "LA",
+	"latitude": 30.0451,
+	"longitude": -90.7488
+},
+{
+	"City": "Hahnville",
+	"State": "LA",
+	"latitude": 29.9641,
+	"longitude": -90.4141
+},
+{
+	"City": "Vinton",
+	"State": "LA",
+	"latitude": 30.1957,
+	"longitude": -93.5818
+},
+{
+	"City": "Welsh",
+	"State": "LA",
+	"latitude": 30.2355,
+	"longitude": -92.8135
+},
+{
+	"City": "Lutcher",
+	"State": "LA",
+	"latitude": 30.0646,
+	"longitude": -90.7124
+},
+{
+	"City": "Blanchard",
+	"State": "LA",
+	"latitude": 32.609,
+	"longitude": -93.8842
+},
+{
+	"City": "Greenwood",
+	"State": "LA",
+	"latitude": 32.436,
+	"longitude": -93.9635
+},
+{
+	"City": "Boutte",
+	"State": "LA",
+	"latitude": 29.8825,
+	"longitude": -90.3936
+},
+{
+	"City": "Sterlington",
+	"State": "LA",
+	"latitude": 32.6888,
+	"longitude": -92.0602
+},
+{
+	"City": "Natalbany",
+	"State": "LA",
+	"latitude": 30.5486,
+	"longitude": -90.4848
+},
+{
+	"City": "Norco",
+	"State": "LA",
+	"latitude": 29.9986,
+	"longitude": -90.4036
+},
+{
+	"City": "Jean Lafitte",
+	"State": "LA",
+	"latitude": 29.7496,
+	"longitude": -90.1036
+},
+{
+	"City": "Homer",
+	"State": "LA",
+	"latitude": 32.793,
+	"longitude": -93.0582
+},
+{
+	"City": "Lake Arthur",
+	"State": "LA",
+	"latitude": 30.0795,
+	"longitude": -92.6773
+},
+{
+	"City": "Delhi",
+	"State": "LA",
+	"latitude": 32.4529,
+	"longitude": -91.49
+},
+{
+	"City": "Poydras",
+	"State": "LA",
+	"latitude": 29.8625,
+	"longitude": -89.8877
+},
+{
+	"City": "Westminster",
+	"State": "LA",
+	"latitude": 30.408,
+	"longitude": -91.0906
+},
+{
+	"City": "Arcadia",
+	"State": "LA",
+	"latitude": 32.5506,
+	"longitude": -92.9218
+},
+{
+	"City": "Bawcomville",
+	"State": "LA",
+	"latitude": 32.4703,
+	"longitude": -92.1736
+},
+{
+	"City": "Many",
+	"State": "LA",
+	"latitude": 31.5663,
+	"longitude": -93.4779
+},
+{
+	"City": "Port Barre",
+	"State": "LA",
+	"latitude": 30.5565,
+	"longitude": -91.9565
+},
+{
+	"City": "Brusly",
+	"State": "LA",
+	"latitude": 30.3943,
+	"longitude": -91.2517
+},
+{
+	"City": "Abita Springs",
+	"State": "LA",
+	"latitude": 30.4761,
+	"longitude": -90.0292
+},
+{
+	"City": "Pearl River",
+	"State": "LA",
+	"latitude": 30.3687,
+	"longitude": -89.7495
+},
+{
+	"City": "Mathews",
+	"State": "LA",
+	"latitude": 29.6822,
+	"longitude": -90.5559
+},
+{
+	"City": "Bourg",
+	"State": "LA",
+	"latitude": 29.557,
+	"longitude": -90.6064
+},
+{
+	"City": "Stonewall",
+	"State": "LA",
+	"latitude": 32.2715,
+	"longitude": -93.81
+},
+{
+	"City": "Kentwood",
+	"State": "LA",
+	"latitude": 30.9339,
+	"longitude": -90.5153
+},
+{
+	"City": "Chauvin",
+	"State": "LA",
+	"latitude": 29.4455,
+	"longitude": -90.594
+},
+{
+	"City": "Lockport",
+	"State": "LA",
+	"latitude": 29.6418,
+	"longitude": -90.5376
+},
+{
+	"City": "Kinder",
+	"State": "LA",
+	"latitude": 30.4835,
+	"longitude": -92.8508
+},
+{
+	"City": "Belle Rose",
+	"State": "LA",
+	"latitude": 30.0422,
+	"longitude": -91.0498
+},
+{
+	"City": "Milton",
+	"State": "LA",
+	"latitude": 30.1122,
+	"longitude": -92.071
+},
+{
+	"City": "Fort Polk North",
+	"State": "LA",
+	"latitude": 31.1031,
+	"longitude": -93.1793
+},
+{
+	"City": "Baldwin",
+	"State": "LA",
+	"latitude": 29.8388,
+	"longitude": -91.5522
+},
+{
+	"City": "Amelia",
+	"State": "LA",
+	"latitude": 29.6645,
+	"longitude": -91.1072
+},
+{
+	"City": "New Llano",
+	"State": "LA",
+	"latitude": 31.097,
+	"longitude": -93.2767
+},
+{
+	"City": "Erwinville",
+	"State": "LA",
+	"latitude": 30.5427,
+	"longitude": -91.3913
+},
+{
+	"City": "Pierre Part",
+	"State": "LA",
+	"latitude": 29.9555,
+	"longitude": -91.2074
+},
+{
+	"City": "Lakeshore",
+	"State": "LA",
+	"latitude": 32.535,
+	"longitude": -92.0328
+},
+{
+	"City": "Garyville",
+	"State": "LA",
+	"latitude": 30.0688,
+	"longitude": -90.6285
+},
+{
+	"City": "Lafourche Crossing",
+	"State": "LA",
+	"latitude": 29.7675,
+	"longitude": -90.7697
+},
+{
+	"City": "Montegut",
+	"State": "LA",
+	"latitude": 29.4656,
+	"longitude": -90.5617
+},
+{
+	"City": "Montz",
+	"State": "LA",
+	"latitude": 30.0168,
+	"longitude": -90.4634
+},
+{
+	"City": "Simmesport",
+	"State": "LA",
+	"latitude": 30.9805,
+	"longitude": -91.8143
+},
+{
+	"City": "Erath",
+	"State": "LA",
+	"latitude": 29.9587,
+	"longitude": -92.0371
+},
+{
+	"City": "Haynesville",
+	"State": "LA",
+	"latitude": 32.9667,
+	"longitude": -93.1376
+},
+{
+	"City": "Jonesville",
+	"State": "LA",
+	"latitude": 31.6238,
+	"longitude": -91.83
+},
+{
+	"City": "Ossun",
+	"State": "LA",
+	"latitude": 30.2834,
+	"longitude": -92.107
+},
+{
+	"City": "Livingston",
+	"State": "LA",
+	"latitude": 30.4953,
+	"longitude": -90.7467
+},
+{
+	"City": "Golden Meadow",
+	"State": "LA",
+	"latitude": 29.3876,
+	"longitude": -90.2739
+},
+{
+	"City": "Zwolle",
+	"State": "LA",
+	"latitude": 31.6398,
+	"longitude": -93.6412
+},
+{
+	"City": "Cecilia",
+	"State": "LA",
+	"latitude": 30.3368,
+	"longitude": -91.8476
+},
+{
+	"City": "Independence",
+	"State": "LA",
+	"latitude": 30.6361,
+	"longitude": -90.5056
+},
+{
+	"City": "Bayou L'Ourse",
+	"State": "LA",
+	"latitude": 29.7174,
+	"longitude": -91.0607
+},
+{
+	"City": "North Vacherie",
+	"State": "LA",
+	"latitude": 30.0047,
+	"longitude": -90.711
+},
+{
+	"City": "Delcambre",
+	"State": "LA",
+	"latitude": 29.9515,
+	"longitude": -91.9917
+},
+{
+	"City": "Bayou Gauche",
+	"State": "LA",
+	"latitude": 29.8081,
+	"longitude": -90.421
+},
+{
+	"City": "Henderson",
+	"State": "LA",
+	"latitude": 30.3186,
+	"longitude": -91.8039
+},
+{
+	"City": "Port Sulphur",
+	"State": "LA",
+	"latitude": 29.5043,
+	"longitude": -89.7203
+},
+{
+	"City": "Coushatta",
+	"State": "LA",
+	"latitude": 32.0256,
+	"longitude": -93.3406
+},
+{
+	"City": "Edgard",
+	"State": "LA",
+	"latitude": 30.0362,
+	"longitude": -90.546
+},
+{
+	"City": "Basile",
+	"State": "LA",
+	"latitude": 30.4855,
+	"longitude": -92.601
+},
+{
+	"City": "Duson",
+	"State": "LA",
+	"latitude": 30.2364,
+	"longitude": -92.193
+},
+{
+	"City": "Oberlin",
+	"State": "LA",
+	"latitude": 30.607,
+	"longitude": -92.7724
+},
+{
+	"City": "Sorrento",
+	"State": "LA",
+	"latitude": 30.1828,
+	"longitude": -90.8674
+},
+{
+	"City": "Labadieville",
+	"State": "LA",
+	"latitude": 29.8247,
+	"longitude": -90.9525
+},
+{
+	"City": "White Castle",
+	"State": "LA",
+	"latitude": 30.161,
+	"longitude": -91.1496
+},
+{
+	"City": "Minorca",
+	"State": "LA",
+	"latitude": 31.5725,
+	"longitude": -91.4884
+},
+{
+	"City": "Des Allemands",
+	"State": "LA",
+	"latitude": 29.8162,
+	"longitude": -90.4746
+},
+{
+	"City": "Cade",
+	"State": "LA",
+	"latitude": 30.0926,
+	"longitude": -91.8996
+},
+{
+	"City": "St. Francisville",
+	"State": "LA",
+	"latitude": 30.7852,
+	"longitude": -91.3787
+},
+{
+	"City": "Maurice",
+	"State": "LA",
+	"latitude": 30.1041,
+	"longitude": -92.1211
+},
+{
+	"City": "Bernice",
+	"State": "LA",
+	"latitude": 32.8276,
+	"longitude": -92.6584
+},
+{
+	"City": "Lockport Heights",
+	"State": "LA",
+	"latitude": 29.6564,
+	"longitude": -90.5486
+},
+{
+	"City": "Paradis",
+	"State": "LA",
+	"latitude": 29.868,
+	"longitude": -90.4398
+},
+{
+	"City": "Oak Grove",
+	"State": "LA",
+	"latitude": 32.8619,
+	"longitude": -91.3911
+},
+{
+	"City": "Rosepine",
+	"State": "LA",
+	"latitude": 30.9208,
+	"longitude": -93.2857
+},
+{
+	"City": "Logansport",
+	"State": "LA",
+	"latitude": 31.9762,
+	"longitude": -93.9933
+},
+{
+	"City": "Clinton",
+	"State": "LA",
+	"latitude": 30.8614,
+	"longitude": -91.015
+},
+{
+	"City": "Charenton",
+	"State": "LA",
+	"latitude": 29.8685,
+	"longitude": -91.5388
+},
+{
+	"City": "Colfax",
+	"State": "LA",
+	"latitude": 31.5208,
+	"longitude": -92.7001
+},
+{
+	"City": "Pine Prairie",
+	"State": "LA",
+	"latitude": 30.7818,
+	"longitude": -92.4223
+},
+{
+	"City": "Grand Isle",
+	"State": "LA",
+	"latitude": 29.2134,
+	"longitude": -90.0306
+},
+{
+	"City": "Iota",
+	"State": "LA",
+	"latitude": 30.326,
+	"longitude": -92.4956
+},
+{
+	"City": "Presquille",
+	"State": "LA",
+	"latitude": 29.5586,
+	"longitude": -90.6385
+},
+{
+	"City": "New Sarpy",
+	"State": "LA",
+	"latitude": 29.9809,
+	"longitude": -90.3833
+},
+{
+	"City": "Hackberry",
+	"State": "LA",
+	"latitude": 29.9717,
+	"longitude": -93.3947
+},
+{
+	"City": "Olla",
+	"State": "LA",
+	"latitude": 31.8981,
+	"longitude": -92.2404
+},
+{
+	"City": "Ringgold",
+	"State": "LA",
+	"latitude": 32.3261,
+	"longitude": -93.2837
+},
+{
+	"City": "Mansura",
+	"State": "LA",
+	"latitude": 31.0673,
+	"longitude": -92.0528
+},
+{
+	"City": "Gueydan",
+	"State": "LA",
+	"latitude": 30.0291,
+	"longitude": -92.5071
+},
+{
+	"City": "Killian",
+	"State": "LA",
+	"latitude": 30.353,
+	"longitude": -90.5795
+},
+{
+	"City": "Deville",
+	"State": "LA",
+	"latitude": 31.3398,
+	"longitude": -92.1389
+},
+{
+	"City": "Glenmora",
+	"State": "LA",
+	"latitude": 30.9733,
+	"longitude": -92.5824
+},
+{
+	"City": "Lakeview",
+	"State": "LA",
+	"latitude": 32.5238,
+	"longitude": -93.8299
+},
+{
+	"City": "Urania",
+	"State": "LA",
+	"latitude": 31.8639,
+	"longitude": -92.2913
+},
+{
+	"City": "Paulina",
+	"State": "LA",
+	"latitude": 30.0351,
+	"longitude": -90.7226
+},
+{
+	"City": "Wallace",
+	"State": "LA",
+	"latitude": 30.0303,
+	"longitude": -90.6569
+},
+{
+	"City": "Roseland",
+	"State": "LA",
+	"latitude": 30.7646,
+	"longitude": -90.5114
+},
+{
+	"City": "Watson",
+	"State": "LA",
+	"latitude": 30.575,
+	"longitude": -90.9508
+},
+{
+	"City": "Lawtell",
+	"State": "LA",
+	"latitude": 30.5126,
+	"longitude": -92.1832
+},
+{
+	"City": "Vienna Bend",
+	"State": "LA",
+	"latitude": 31.7372,
+	"longitude": -93.0343
+},
+{
+	"City": "Empire",
+	"State": "LA",
+	"latitude": 29.4133,
+	"longitude": -89.6052
+},
+{
+	"City": "Paincourtville",
+	"State": "LA",
+	"latitude": 29.9887,
+	"longitude": -91.0554
+},
+{
+	"City": "Barataria",
+	"State": "LA",
+	"latitude": 29.7092,
+	"longitude": -90.1217
+},
+{
+	"City": "French Settlement",
+	"State": "LA",
+	"latitude": 30.3159,
+	"longitude": -90.8033
+},
+{
+	"City": "Hayes",
+	"State": "LA",
+	"latitude": 30.1112,
+	"longitude": -92.9236
+},
+{
+	"City": "Krotz Springs",
+	"State": "LA",
+	"latitude": 30.5323,
+	"longitude": -91.7518
+},
+{
+	"City": "Ama",
+	"State": "LA",
+	"latitude": 29.944,
+	"longitude": -90.2967
+},
+{
+	"City": "Lecompte",
+	"State": "LA",
+	"latitude": 31.0881,
+	"longitude": -92.3999
+},
+{
+	"City": "Sibley",
+	"State": "LA",
+	"latitude": 32.5423,
+	"longitude": -93.2947
+},
+{
+	"City": "Albany",
+	"State": "LA",
+	"latitude": 30.4996,
+	"longitude": -90.584
+},
+{
+	"City": "Midway",
+	"State": "LA",
+	"latitude": 31.6788,
+	"longitude": -92.1493
+},
+{
+	"City": "Dulac",
+	"State": "LA",
+	"latitude": 29.3864,
+	"longitude": -90.7081
+},
+{
+	"City": "Bayou Country Club",
+	"State": "LA",
+	"latitude": 29.78,
+	"longitude": -90.7894
+},
+{
+	"City": "Banks Springs",
+	"State": "LA",
+	"latitude": 32.0764,
+	"longitude": -92.085
+},
+{
+	"City": "Woodworth",
+	"State": "LA",
+	"latitude": 31.1655,
+	"longitude": -92.5096
+},
+{
+	"City": "Elton",
+	"State": "LA",
+	"latitude": 30.4812,
+	"longitude": -92.6976
+},
+{
+	"City": "Lemannville",
+	"State": "LA",
+	"latitude": 30.1028,
+	"longitude": -90.9239
+},
+{
+	"City": "Merryville",
+	"State": "LA",
+	"latitude": 30.7571,
+	"longitude": -93.5245
+},
+{
+	"City": "Leonville",
+	"State": "LA",
+	"latitude": 30.4661,
+	"longitude": -91.9811
+},
+{
+	"City": "Estherwood",
+	"State": "LA",
+	"latitude": 30.1816,
+	"longitude": -92.4634
+},
+{
+	"City": "Start",
+	"State": "LA",
+	"latitude": 32.4902,
+	"longitude": -91.865
+},
+{
+	"City": "Cullen",
+	"State": "LA",
+	"latitude": 32.9699,
+	"longitude": -93.4464
+},
+{
+	"City": "Lydia",
+	"State": "LA",
+	"latitude": 29.9263,
+	"longitude": -91.7813
+},
+{
+	"City": "Choctaw",
+	"State": "LA",
+	"latitude": 29.8457,
+	"longitude": -90.7238
+},
+{
+	"City": "Catahoula",
+	"State": "LA",
+	"latitude": 30.2125,
+	"longitude": -91.7127
+},
+{
+	"City": "Campti",
+	"State": "LA",
+	"latitude": 31.898,
+	"longitude": -93.1158
+},
+{
+	"City": "Arnaudville",
+	"State": "LA",
+	"latitude": 30.4021,
+	"longitude": -91.932
+},
+{
+	"City": "Melville",
+	"State": "LA",
+	"latitude": 30.6917,
+	"longitude": -91.7485
+},
+{
+	"City": "Clarks",
+	"State": "LA",
+	"latitude": 32.0288,
+	"longitude": -92.1408
+},
+{
+	"City": "Maringouin",
+	"State": "LA",
+	"latitude": 30.4907,
+	"longitude": -91.5187
+},
+{
+	"City": "Choudrant",
+	"State": "LA",
+	"latitude": 32.5502,
+	"longitude": -92.5121
+},
+{
+	"City": "Boyce",
+	"State": "LA",
+	"latitude": 31.3905,
+	"longitude": -92.6699
+},
+{
+	"City": "St. Joseph",
+	"State": "LA",
+	"latitude": 31.9202,
+	"longitude": -91.2401
+},
+{
+	"City": "Oil City",
+	"State": "LA",
+	"latitude": 32.7453,
+	"longitude": -93.9758
+},
+{
+	"City": "Newellton",
+	"State": "LA",
+	"latitude": 32.0723,
+	"longitude": -91.239
+},
+{
+	"City": "Plain Dealing",
+	"State": "LA",
+	"latitude": 32.9074,
+	"longitude": -93.6992
+},
+{
+	"City": "Wallace Ridge",
+	"State": "LA",
+	"latitude": 31.6849,
+	"longitude": -91.8321
+},
+{
+	"City": "Cotton Valley",
+	"State": "LA",
+	"latitude": 32.8135,
+	"longitude": -93.4228
+},
+{
+	"City": "Washington",
+	"State": "LA",
+	"latitude": 30.615,
+	"longitude": -92.0594
+},
+{
+	"City": "Fordoche",
+	"State": "LA",
+	"latitude": 30.594,
+	"longitude": -91.6179
+},
+{
+	"City": "Dubach",
+	"State": "LA",
+	"latitude": 32.702,
+	"longitude": -92.6575
+},
+{
+	"City": "Slaughter",
+	"State": "LA",
+	"latitude": 30.7219,
+	"longitude": -91.1393
+},
+{
+	"City": "Grand Coteau",
+	"State": "LA",
+	"latitude": 30.4202,
+	"longitude": -92.0438
+},
+{
+	"City": "Wisner",
+	"State": "LA",
+	"latitude": 31.9804,
+	"longitude": -91.6552
+},
+{
+	"City": "Reddell",
+	"State": "LA",
+	"latitude": 30.6687,
+	"longitude": -92.4268
+},
+{
+	"City": "Welcome",
+	"State": "LA",
+	"latitude": 30.0474,
+	"longitude": -90.8823
+},
+{
+	"City": "Crescent",
+	"State": "LA",
+	"latitude": 30.2405,
+	"longitude": -91.2864
+},
+{
+	"City": "Gibsland",
+	"State": "LA",
+	"latitude": 32.5395,
+	"longitude": -93.0541
+},
+{
+	"City": "Ventress",
+	"State": "LA",
+	"latitude": 30.6824,
+	"longitude": -91.4248
+},
+{
+	"City": "Folsom",
+	"State": "LA",
+	"latitude": 30.6304,
+	"longitude": -90.1947
+},
+{
+	"City": "Moreauville",
+	"State": "LA",
+	"latitude": 31.0342,
+	"longitude": -91.9818
+},
+{
+	"City": "Tangipahoa",
+	"State": "LA",
+	"latitude": 30.8758,
+	"longitude": -90.5138
+},
+{
+	"City": "Madisonville",
+	"State": "LA",
+	"latitude": 30.4006,
+	"longitude": -90.1656
+},
+{
+	"City": "Forest Hill",
+	"State": "LA",
+	"latitude": 31.0478,
+	"longitude": -92.5241
+},
+{
+	"City": "Loreauville",
+	"State": "LA",
+	"latitude": 30.0601,
+	"longitude": -91.7378
+},
+{
+	"City": "Supreme",
+	"State": "LA",
+	"latitude": 29.8604,
+	"longitude": -90.9955
+},
+{
+	"City": "Simsboro",
+	"State": "LA",
+	"latitude": 32.5323,
+	"longitude": -92.7839
+},
+{
+	"City": "Sarepta",
+	"State": "LA",
+	"latitude": 32.8963,
+	"longitude": -93.4518
+},
+{
+	"City": "Lafitte",
+	"State": "LA",
+	"latitude": 29.6957,
+	"longitude": -90.0995
+},
+{
+	"City": "Killona",
+	"State": "LA",
+	"latitude": 29.9985,
+	"longitude": -90.4851
+},
+{
+	"City": "Epps",
+	"State": "LA",
+	"latitude": 32.6038,
+	"longitude": -91.4814
+},
+{
+	"City": "Fifth Ward",
+	"State": "LA",
+	"latitude": 31.1207,
+	"longitude": -92.1584
+},
+{
+	"City": "Morse",
+	"State": "LA",
+	"latitude": 30.1221,
+	"longitude": -92.4985
+},
+{
+	"City": "Buras",
+	"State": "LA",
+	"latitude": 29.3528,
+	"longitude": -89.5248
+},
+{
+	"City": "Anacoco",
+	"State": "LA",
+	"latitude": 31.2545,
+	"longitude": -93.344
+},
+{
+	"City": "Doyline",
+	"State": "LA",
+	"latitude": 32.525,
+	"longitude": -93.4118
+},
+{
+	"City": "Kraemer",
+	"State": "LA",
+	"latitude": 29.8606,
+	"longitude": -90.6337
+},
+{
+	"City": "Tickfaw",
+	"State": "LA",
+	"latitude": 30.5769,
+	"longitude": -90.4871
+},
+{
+	"City": "Port Vincent",
+	"State": "LA",
+	"latitude": 30.3384,
+	"longitude": -90.8423
+},
+{
+	"City": "Hessmer",
+	"State": "LA",
+	"latitude": 31.0534,
+	"longitude": -92.1214
+},
+{
+	"City": "Mooringsport",
+	"State": "LA",
+	"latitude": 32.6832,
+	"longitude": -93.9607
+},
+{
+	"City": "Rosedale",
+	"State": "LA",
+	"latitude": 30.4429,
+	"longitude": -91.4601
+},
+{
+	"City": "Marion",
+	"State": "LA",
+	"latitude": 32.8997,
+	"longitude": -92.2405
+},
+{
+	"City": "St. James",
+	"State": "LA",
+	"latitude": 30.0185,
+	"longitude": -90.8513
+},
+{
+	"City": "Montgomery",
+	"State": "LA",
+	"latitude": 31.6677,
+	"longitude": -92.8877
+},
+{
+	"City": "Parks",
+	"State": "LA",
+	"latitude": 30.2173,
+	"longitude": -91.8271
+},
+{
+	"City": "Pleasant Hill",
+	"State": "LA",
+	"latitude": 31.8154,
+	"longitude": -93.5164
+},
+{
+	"City": "Greensburg",
+	"State": "LA",
+	"latitude": 30.83,
+	"longitude": -90.6698
+},
+{
+	"City": "Clayton",
+	"State": "LA",
+	"latitude": 31.7226,
+	"longitude": -91.5373
+},
+{
+	"City": "Mangham",
+	"State": "LA",
+	"latitude": 32.309,
+	"longitude": -91.7795
+},
+{
+	"City": "Grosse Tete",
+	"State": "LA",
+	"latitude": 30.4148,
+	"longitude": -91.4395
+},
+{
+	"City": "Mermentau",
+	"State": "LA",
+	"latitude": 30.1874,
+	"longitude": -92.584
+},
+{
+	"City": "Egan",
+	"State": "LA",
+	"latitude": 30.246,
+	"longitude": -92.5136
+},
+{
+	"City": "Provencal",
+	"State": "LA",
+	"latitude": 31.6547,
+	"longitude": -93.1999
+},
+{
+	"City": "Ridgecrest",
+	"State": "LA",
+	"latitude": 31.6018,
+	"longitude": -91.5304
+},
+{
+	"City": "Natchez",
+	"State": "LA",
+	"latitude": 31.6743,
+	"longitude": -93.0456
+},
+{
+	"City": "Florien",
+	"State": "LA",
+	"latitude": 31.448,
+	"longitude": -93.4584
+},
+{
+	"City": "Boothville",
+	"State": "LA",
+	"latitude": 29.333,
+	"longitude": -89.4052
+},
+{
+	"City": "Napoleonville",
+	"State": "LA",
+	"latitude": 29.9384,
+	"longitude": -91.0263
+},
+{
+	"City": "Pitkin",
+	"State": "LA",
+	"latitude": 30.9344,
+	"longitude": -92.9268
+},
+{
+	"City": "Simpson",
+	"State": "LA",
+	"latitude": 31.2583,
+	"longitude": -93.0194
+},
+{
+	"City": "Cheneyville",
+	"State": "LA",
+	"latitude": 31.011,
+	"longitude": -92.29
+},
+{
+	"City": "Morganza",
+	"State": "LA",
+	"latitude": 30.7383,
+	"longitude": -91.592
+},
+{
+	"City": "Gillis",
+	"State": "LA",
+	"latitude": 30.3769,
+	"longitude": -93.1999
+},
+{
+	"City": "Wilson",
+	"State": "LA",
+	"latitude": 30.9236,
+	"longitude": -91.109
+},
+{
+	"City": "Waterproof",
+	"State": "LA",
+	"latitude": 31.8072,
+	"longitude": -91.3861
+},
+{
+	"City": "Junction City",
+	"State": "LA",
+	"latitude": 33.0073,
+	"longitude": -92.7224
+},
+{
+	"City": "Martin",
+	"State": "LA",
+	"latitude": 32.0983,
+	"longitude": -93.2193
+},
+{
+	"City": "Gilbert",
+	"State": "LA",
+	"latitude": 32.0507,
+	"longitude": -91.6567
+},
+{
+	"City": "Chatham",
+	"State": "LA",
+	"latitude": 32.3094,
+	"longitude": -92.4519
+},
+{
+	"City": "Mer Rouge",
+	"State": "LA",
+	"latitude": 32.7767,
+	"longitude": -91.7949
+},
+{
+	"City": "Richmond",
+	"State": "LA",
+	"latitude": 32.3884,
+	"longitude": -91.1804
+},
+{
+	"City": "Elizabeth",
+	"State": "LA",
+	"latitude": 30.8669,
+	"longitude": -92.7986
+},
+{
+	"City": "Siracusaville",
+	"State": "LA",
+	"latitude": 29.6886,
+	"longitude": -91.1522
+},
+{
+	"City": "Bayou Goula",
+	"State": "LA",
+	"latitude": 30.2105,
+	"longitude": -91.1765
+},
+{
+	"City": "Springfield",
+	"State": "LA",
+	"latitude": 30.4255,
+	"longitude": -90.5444
+},
+{
+	"City": "Union",
+	"State": "LA",
+	"latitude": 30.0917,
+	"longitude": -90.8844
+},
+{
+	"City": "Grayson",
+	"State": "LA",
+	"latitude": 32.0492,
+	"longitude": -92.1116
+},
+{
+	"City": "Cankton",
+	"State": "LA",
+	"latitude": 30.3455,
+	"longitude": -92.113
+},
+{
+	"City": "Sorrel",
+	"State": "LA",
+	"latitude": 29.8879,
+	"longitude": -91.6226
+},
+{
+	"City": "Triumph",
+	"State": "LA",
+	"latitude": 29.3443,
+	"longitude": -89.4683
+},
+{
+	"City": "Sun",
+	"State": "LA",
+	"latitude": 30.65,
+	"longitude": -89.9056
+},
+{
+	"City": "Center Point",
+	"State": "LA",
+	"latitude": 31.2524,
+	"longitude": -92.2099
+},
+{
+	"City": "Clarence",
+	"State": "LA",
+	"latitude": 31.8198,
+	"longitude": -93.029
+},
+{
+	"City": "Monterey",
+	"State": "LA",
+	"latitude": 31.4436,
+	"longitude": -91.7191
+},
+{
+	"City": "Pollock",
+	"State": "LA",
+	"latitude": 31.4985,
+	"longitude": -92.4432
+},
+{
+	"City": "Sicily Island",
+	"State": "LA",
+	"latitude": 31.8492,
+	"longitude": -91.6599
+},
+{
+	"City": "Turkey Creek",
+	"State": "LA",
+	"latitude": 30.8732,
+	"longitude": -92.417
+},
+{
+	"City": "Convent",
+	"State": "LA",
+	"latitude": 30.0132,
+	"longitude": -90.8232
+},
+{
+	"City": "Point Place",
+	"State": "LA",
+	"latitude": 31.6882,
+	"longitude": -93.0245
+},
+{
+	"City": "Roanoke",
+	"State": "LA",
+	"latitude": 30.2355,
+	"longitude": -92.7481
+},
+{
+	"City": "Dry Prong",
+	"State": "LA",
+	"latitude": 31.5806,
+	"longitude": -92.5305
+},
+{
+	"City": "Hornbeck",
+	"State": "LA",
+	"latitude": 31.3265,
+	"longitude": -93.396
+},
+{
+	"City": "Hodge",
+	"State": "LA",
+	"latitude": 32.2719,
+	"longitude": -92.7303
+},
+{
+	"City": "Converse",
+	"State": "LA",
+	"latitude": 31.7795,
+	"longitude": -93.7001
+},
+{
+	"City": "Goldonna",
+	"State": "LA",
+	"latitude": 32.0193,
+	"longitude": -92.9162
+},
+{
+	"City": "Prospect",
+	"State": "LA",
+	"latitude": 31.4488,
+	"longitude": -92.4969
+},
+{
+	"City": "Fort Jesup",
+	"State": "LA",
+	"latitude": 31.6118,
+	"longitude": -93.4077
+},
+{
+	"City": "Tullos",
+	"State": "LA",
+	"latitude": 31.8188,
+	"longitude": -92.3292
+},
+{
+	"City": "Calhoun",
+	"State": "LA",
+	"latitude": 32.5153,
+	"longitude": -92.3539
+},
+{
+	"City": "Kilbourne",
+	"State": "LA",
+	"latitude": 32.9971,
+	"longitude": -91.3139
+},
+{
+	"City": "Bordelonville",
+	"State": "LA",
+	"latitude": 31.1011,
+	"longitude": -91.9005
+},
+{
+	"City": "North Hodge",
+	"State": "LA",
+	"latitude": 32.2845,
+	"longitude": -92.7171
+},
+{
+	"City": "Vienna",
+	"State": "LA",
+	"latitude": 32.6093,
+	"longitude": -92.6481
+},
+{
+	"City": "St. Maurice",
+	"State": "LA",
+	"latitude": 31.7613,
+	"longitude": -92.9389
+},
+{
+	"City": "Columbia",
+	"State": "LA",
+	"latitude": 32.1026,
+	"longitude": -92.077
+},
+{
+	"City": "Chataignier",
+	"State": "LA",
+	"latitude": 30.5696,
+	"longitude": -92.3168
+},
+{
+	"City": "Spokane",
+	"State": "LA",
+	"latitude": 31.713,
+	"longitude": -91.4453
+},
+{
+	"City": "Fenton",
+	"State": "LA",
+	"latitude": 30.3638,
+	"longitude": -92.9164
+},
+{
+	"City": "South Mansfield",
+	"State": "LA",
+	"latitude": 32.0181,
+	"longitude": -93.7237
+},
+{
+	"City": "Forest",
+	"State": "LA",
+	"latitude": 32.7924,
+	"longitude": -91.4125
+},
+{
+	"City": "Varnado",
+	"State": "LA",
+	"latitude": 30.8953,
+	"longitude": -89.8319
+},
+{
+	"City": "Hester",
+	"State": "LA",
+	"latitude": 30.0277,
+	"longitude": -90.771
+},
+{
+	"City": "Gloster",
+	"State": "LA",
+	"latitude": 32.1921,
+	"longitude": -93.8112
+},
+{
+	"City": "Georgetown",
+	"State": "LA",
+	"latitude": 31.7597,
+	"longitude": -92.3821
+},
+{
+	"City": "Harrisonburg",
+	"State": "LA",
+	"latitude": 31.7681,
+	"longitude": -91.825
+},
+{
+	"City": "Singer",
+	"State": "LA",
+	"latitude": 30.6512,
+	"longitude": -93.4117
+},
+{
+	"City": "Oretta",
+	"State": "LA",
+	"latitude": 30.529,
+	"longitude": -93.4391
+},
+{
+	"City": "Belmont",
+	"State": "LA",
+	"latitude": 31.7182,
+	"longitude": -93.5082
+},
+{
+	"City": "Keachi",
+	"State": "LA",
+	"latitude": 32.1708,
+	"longitude": -93.916
+},
+{
+	"City": "Starks",
+	"State": "LA",
+	"latitude": 30.3105,
+	"longitude": -93.6667
+},
+{
+	"City": "Dodson",
+	"State": "LA",
+	"latitude": 32.0808,
+	"longitude": -92.6587
+},
+{
+	"City": "Hosston",
+	"State": "LA",
+	"latitude": 32.8849,
+	"longitude": -93.882
+},
+{
+	"City": "Norwood",
+	"State": "LA",
+	"latitude": 30.9682,
+	"longitude": -91.1124
+},
+{
+	"City": "Evergreen",
+	"State": "LA",
+	"latitude": 30.9527,
+	"longitude": -92.1052
+},
+{
+	"City": "Hall Summit",
+	"State": "LA",
+	"latitude": 32.1768,
+	"longitude": -93.3055
+},
+{
+	"City": "Pleasure Bend",
+	"State": "LA",
+	"latitude": 29.9205,
+	"longitude": -90.6458
+},
+{
+	"City": "Lacassine",
+	"State": "LA",
+	"latitude": 30.2331,
+	"longitude": -92.9208
+},
+{
+	"City": "Saline",
+	"State": "LA",
+	"latitude": 32.163,
+	"longitude": -92.9766
+},
+{
+	"City": "East Hodge",
+	"State": "LA",
+	"latitude": 32.2776,
+	"longitude": -92.7141
+},
+{
+	"City": "Athens",
+	"State": "LA",
+	"latitude": 32.658,
+	"longitude": -93.0277
+},
+{
+	"City": "Dixie Inn",
+	"State": "LA",
+	"latitude": 32.5968,
+	"longitude": -93.3317
+},
+{
+	"City": "Ashland",
+	"State": "LA",
+	"latitude": 32.1164,
+	"longitude": -93.1171
+},
+{
+	"City": "Glencoe",
+	"State": "LA",
+	"latitude": 29.8112,
+	"longitude": -91.6703
+},
+{
+	"City": "Longville",
+	"State": "LA",
+	"latitude": 30.609,
+	"longitude": -93.2282
+},
+{
+	"City": "Rodessa",
+	"State": "LA",
+	"latitude": 32.9735,
+	"longitude": -93.9969
+},
+{
+	"City": "Dubberly",
+	"State": "LA",
+	"latitude": 32.5413,
+	"longitude": -93.2373
+},
+{
+	"City": "Lucky",
+	"State": "LA",
+	"latitude": 32.2443,
+	"longitude": -93.0158
+},
+{
+	"City": "Delta",
+	"State": "LA",
+	"latitude": 32.322,
+	"longitude": -90.9414
+},
+{
+	"City": "Collinston",
+	"State": "LA",
+	"latitude": 32.6893,
+	"longitude": -91.8718
+},
+{
+	"City": "Angie",
+	"State": "LA",
+	"latitude": 30.9633,
+	"longitude": -89.8177
+},
+{
+	"City": "Belcher",
+	"State": "LA",
+	"latitude": 32.7521,
+	"longitude": -93.8372
+},
+{
+	"City": "Bonita",
+	"State": "LA",
+	"latitude": 32.9206,
+	"longitude": -91.6751
+},
+{
+	"City": "Baskin",
+	"State": "LA",
+	"latitude": 32.2591,
+	"longitude": -91.7473
+},
+{
+	"City": "Reeves",
+	"State": "LA",
+	"latitude": 30.5216,
+	"longitude": -93.0428
+},
+{
+	"City": "Noble",
+	"State": "LA",
+	"latitude": 31.6899,
+	"longitude": -93.6832
+},
+{
+	"City": "Castor",
+	"State": "LA",
+	"latitude": 32.2549,
+	"longitude": -93.166
+},
+{
+	"City": "Montpelier",
+	"State": "LA",
+	"latitude": 30.6823,
+	"longitude": -90.6545
+},
+{
+	"City": "Grand Cane",
+	"State": "LA",
+	"latitude": 32.0836,
+	"longitude": -93.8088
+},
+{
+	"City": "Venice",
+	"State": "LA",
+	"latitude": 29.2875,
+	"longitude": -89.3637
+},
+{
+	"City": "Branch",
+	"State": "LA",
+	"latitude": 30.348,
+	"longitude": -92.2771
+},
+{
+	"City": "Plaucheville",
+	"State": "LA",
+	"latitude": 30.9647,
+	"longitude": -91.9837
+},
+{
+	"City": "Creola",
+	"State": "LA",
+	"latitude": 31.43,
+	"longitude": -92.4828
+},
+{
+	"City": "Heflin",
+	"State": "LA",
+	"latitude": 32.4565,
+	"longitude": -93.2683
+},
+{
+	"City": "Fisher",
+	"State": "LA",
+	"latitude": 31.4934,
+	"longitude": -93.4597
+},
+{
+	"City": "Calvin",
+	"State": "LA",
+	"latitude": 31.9617,
+	"longitude": -92.7758
+},
+{
+	"City": "McNary",
+	"State": "LA",
+	"latitude": 30.9895,
+	"longitude": -92.5794
+},
+{
+	"City": "Ida",
+	"State": "LA",
+	"latitude": 33.0001,
+	"longitude": -93.8949
+},
+{
+	"City": "Frierson",
+	"State": "LA",
+	"latitude": 32.2487,
+	"longitude": -93.6893
+},
+{
+	"City": "Cameron",
+	"State": "LA",
+	"latitude": 29.787,
+	"longitude": -93.2925
+},
+{
+	"City": "Bienville",
+	"State": "LA",
+	"latitude": 32.3618,
+	"longitude": -92.9788
+},
+{
+	"City": "Sugartown",
+	"State": "LA",
+	"latitude": 30.8401,
+	"longitude": -93.0123
+},
+{
+	"City": "Edgefield",
+	"State": "LA",
+	"latitude": 32.0501,
+	"longitude": -93.336
+},
+{
+	"City": "Quitman",
+	"State": "LA",
+	"latitude": 32.3507,
+	"longitude": -92.7236
+},
+{
+	"City": "Shongaloo",
+	"State": "LA",
+	"latitude": 32.9416,
+	"longitude": -93.2955
+},
+{
+	"City": "Lisbon",
+	"State": "LA",
+	"latitude": 32.7893,
+	"longitude": -92.8672
+},
+{
+	"City": "Robeline",
+	"State": "LA",
+	"latitude": 31.6898,
+	"longitude": -93.3039
+},
+{
+	"City": "Longstreet",
+	"State": "LA",
+	"latitude": 32.0976,
+	"longitude": -93.9505
+},
+{
+	"City": "Palmetto",
+	"State": "LA",
+	"latitude": 30.7177,
+	"longitude": -91.9082
+},
+{
+	"City": "Moonshine",
+	"State": "LA",
+	"latitude": 29.97,
+	"longitude": -90.8132
+},
+{
+	"City": "Gilliam",
+	"State": "LA",
+	"latitude": 32.829,
+	"longitude": -93.8433
+},
+{
+	"City": "Eros",
+	"State": "LA",
+	"latitude": 32.3926,
+	"longitude": -92.4239
+},
+{
+	"City": "Pioneer",
+	"State": "LA",
+	"latitude": 32.7381,
+	"longitude": -91.4381
+},
+{
+	"City": "Atlanta",
+	"State": "LA",
+	"latitude": 31.8064,
+	"longitude": -92.7383
+},
+{
+	"City": "Romeville",
+	"State": "LA",
+	"latitude": 30.0676,
+	"longitude": -90.8341
+},
+{
+	"City": "Joyce",
+	"State": "LA",
+	"latitude": 31.9347,
+	"longitude": -92.585
+},
+{
+	"City": "Rock Hill",
+	"State": "LA",
+	"latitude": 31.4427,
+	"longitude": -92.5695
+},
+{
+	"City": "Pointe a la Hache",
+	"State": "LA",
+	"latitude": 29.5737,
+	"longitude": -89.7808
+},
+{
+	"City": "Downsville",
+	"State": "LA",
+	"latitude": 32.6264,
+	"longitude": -92.4129
+},
+{
+	"City": "Powhatan",
+	"State": "LA",
+	"latitude": 31.8738,
+	"longitude": -93.2033
+},
+{
+	"City": "Spearsville",
+	"State": "LA",
+	"latitude": 32.9339,
+	"longitude": -92.6022
+},
+{
+	"City": "Jamestown",
+	"State": "LA",
+	"latitude": 32.3397,
+	"longitude": -93.2065
+},
+{
+	"City": "Oak Ridge",
+	"State": "LA",
+	"latitude": 32.6244,
+	"longitude": -91.7731
+},
+{
+	"City": "Sikes",
+	"State": "LA",
+	"latitude": 32.079,
+	"longitude": -92.4863
+},
+{
+	"City": "Lillie",
+	"State": "LA",
+	"latitude": 32.9221,
+	"longitude": -92.6614
+},
+{
+	"City": "Stanley",
+	"State": "LA",
+	"latitude": 31.9609,
+	"longitude": -93.8995
+},
+{
+	"City": "Bryceland",
+	"State": "LA",
+	"latitude": 32.4485,
+	"longitude": -92.9924
+},
+{
+	"City": "Mount Lebanon",
+	"State": "LA",
+	"latitude": 32.5053,
+	"longitude": -93.0499
+},
+{
+	"City": "Jordan Hill",
+	"State": "LA",
+	"latitude": 31.8591,
+	"longitude": -92.5156
+},
+{
+	"City": "Taft",
+	"State": "LA",
+	"latitude": 29.9854,
+	"longitude": -90.4533
+},
+{
+	"City": "Bayou Corne",
+	"State": "LA",
+	"latitude": 30.0159,
+	"longitude": -91.1528
+},
+{
+	"City": "Mound",
+	"State": "LA",
+	"latitude": 32.333,
+	"longitude": -91.0242
+}]
