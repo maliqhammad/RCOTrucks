@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="start"
+    android:clickable="false"
+    android:focusable="false"
+    android:focusableInTouchMode="false">
+
+    <!--        android:layout_width="@dimen/width_popup"-->
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="32dp"
+        android:background="@drawable/background_bottom_curved_green"
+        android:paddingStart="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/iv_instruction"
+            android:layout_width="50dp"
+            android:layout_height="46dp"
+            android:layout_marginStart="8dp"
+            android:paddingStart="4dp"
+            android:paddingTop="4dp"
+            android:scaleType="centerInside"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/tv_instruction"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:fontFamily="@font/proxima_nova_bold"
+            android:gravity="center"
+            android:lines="2"
+            android:padding="6dp"
+            android:textColor="@color/white"
+            android:textSize="@dimen/rco_trucks_normal_text_size"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@id/iv_instruction"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/tv_distance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:fontFamily="@font/proxima_nova_bold"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:textSize="@dimen/rco_trucks_medium_text_size"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/iv_instruction" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <!--        android:background="@drawable/bg_directions"-->
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/directionViewBottomBarCL"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:background="@drawable/background_top_curved_white_withour_border"
+        android:clickable="true"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <TextView
+            android:id="@+id/hours"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="12dp"
+            android:layout_marginEnd="8dp"
+            android:fontFamily="@font/proxima_nova_bold"
+            android:gravity="start"
+            android:textColor="@color/eta_time"
+            android:textSize="@dimen/rco_trucks_normal_text_size"
+            app:layout_constraintBottom_toTopOf="@id/miles"
+            app:layout_constraintEnd_toStartOf="@+id/direction_btn"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_chainStyle="packed" />
+
+        <TextView
+            android:id="@+id/miles"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="12dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginEnd="8dp"
+            android:fontFamily="@font/proxima_nova_regular"
+            android:textColor="@color/eta_miles"
+            android:textSize="@dimen/rco_trucks_medium_text_size"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/direction_btn"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/hours" />
+
+        <TextView
+            android:id="@+id/exit_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:background="@drawable/exit_background"
+            android:fontFamily="@font/proxima_nova_bold"
+            android:gravity="center"
+            android:paddingLeft="@dimen/_12sdp"
+            android:paddingTop="@dimen/_4sdp"
+            android:paddingRight="@dimen/_12sdp"
+            android:paddingBottom="@dimen/_4sdp"
+            android:text="@string/exit"
+            android:textColor="@color/white"
+            android:textSize="@dimen/rco_trucks_normal_text_size"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <!--        <ImageView-->
+        <!--            android:id="@+id/exit_btn"-->
+        <!--            android:layout_width="42dp"-->
+        <!--            android:layout_height="42dp"-->
+        <!--            android:layout_marginStart="24dp"-->
+        <!--            android:background="@drawable/bg_junction"-->
+        <!--            android:fontFamily="@font/proxima_nova_bold"-->
+        <!--            android:gravity="center"-->
+        <!--            android:padding="6dp"-->
+        <!--            android:src="@drawable/ic_baseline_close_24"-->
+        <!--            android:text="@string/exit"-->
+        <!--            android:textColor="@color/white"-->
+        <!--            android:textSize="@dimen/rco_trucks_normal_text_size"-->
+        <!--            app:tint="@color/black"-->
+        <!--            app:layout_constraintBottom_toBottomOf="parent"-->
+        <!--            app:layout_constraintStart_toStartOf="parent"-->
+        <!--            app:layout_constraintTop_toTopOf="parent" />-->
+
+        <ImageView
+            android:id="@+id/direction_btn"
+            android:layout_width="42dp"
+            android:layout_height="42dp"
+            android:layout_marginEnd="8dp"
+            android:background="@drawable/bg_junction"
+            android:padding="6dp"
+            android:src="@drawable/junction"
+            android:visibility="gone"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/exit_btn"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

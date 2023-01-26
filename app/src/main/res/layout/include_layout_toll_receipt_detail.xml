@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--    For Toll creation, the fields we will show will be-->
+    <!--    Date-->
+    <!--    Amount-->
+    <!--    Vendor Name (Or just Name)-->
+    <!--    Road-->
+    <!--    State-->
+
+    <TextView
+        android:id="@+id/dateTitle"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="24dp"
+        android:background="@null"
+        android:fontFamily="@font/manrope_bold"
+        android:hint="@string/date_in_capital"
+        android:paddingStart="8dp"
+        android:paddingTop="16dp"
+        android:paddingEnd="24dp"
+        android:paddingBottom="4dp"
+        android:singleLine="true"
+        android:textColor="@color/black"
+        android:textColorHint="@color/black"
+        android:textSize="@dimen/rco_trucks_small_text_size"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/dateIcon"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <ImageView
+        android:id="@+id/dateIcon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:src="@drawable/ic_baseline_date_range_24"
+        app:tint="@color/black"
+        app:layout_constraintBottom_toBottomOf="@+id/dateLayout"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/dateLayout"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="24dp"
+        android:textColorHint="@color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/dateIcon"
+        app:layout_constraintTop_toBottomOf="@+id/dateTitle">
+
+        <EditText
+            android:id="@+id/date"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:editable="false"
+            android:enabled="false"
+            android:fontFamily="@font/manrope_regular"
+            android:paddingStart="8dp"
+            android:paddingTop="8dp"
+            android:paddingEnd="24dp"
+            android:paddingBottom="4dp"
+            android:privateImeOptions="nm"
+            android:singleLine="true"
+            android:textColor="@color/black"
+            android:textColorHint="@color/black"
+            android:textSize="@dimen/rco_trucks_small_text_size" />
+
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/manrope_bold"
+        android:text="*"
+        android:textColor="@color/red"
+        android:visibility="gone"
+        app:layout_constraintBottom_toTopOf="@+id/clearDateIcon"
+        app:layout_constraintEnd_toEndOf="@+id/dateLayout"
+        app:layout_constraintStart_toStartOf="@+id/clearDateIcon" />
+
+    <ImageView
+        android:id="@+id/clearDateIcon"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="4dp"
+        android:src="@drawable/ic_baseline_close_24"
+        app:tint="@color/black"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@+id/dateLayout"
+        app:layout_constraintEnd_toEndOf="@+id/dateLayout"
+        app:layout_constraintTop_toTopOf="@+id/dateIcon" />
+
+    <TextView
+        android:id="@+id/amountTitle"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="24dp"
+        android:background="@null"
+        android:fontFamily="@font/manrope_bold"
+        android:hint="@string/amount"
+        android:paddingStart="8dp"
+        android:paddingTop="16dp"
+        android:paddingEnd="24dp"
+        android:paddingBottom="4dp"
+        android:singleLine="true"
+        android:textColor="@color/black"
+        android:textColorHint="@color/black"
+        android:textSize="@dimen/rco_trucks_small_text_size"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/amountLayout"
+        app:layout_constraintTop_toBottomOf="@+id/dateLayout" />
+
+
+    <ImageView
+        android:id="@+id/amountIcon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:src="@drawable/ic_baseline_money_24"
+        app:tint="@color/black"
+        app:layout_constraintBottom_toBottomOf="@+id/amountLayout"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/amountLayout"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="24dp"
+        android:textColorHint="@color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/amountIcon"
+        app:layout_constraintTop_toBottomOf="@+id/amountTitle">
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:id="@+id/amount"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:editable="false"
+            android:enabled="false"
+            android:fontFamily="@font/manrope_regular"
+
+            android:inputType="number"
+            android:paddingStart="8dp"
+            android:paddingTop="8dp"
+            android:paddingEnd="24dp"
+            android:paddingBottom="4dp"
+            android:privateImeOptions="nm"
+            android:singleLine="true"
+            android:textColor="@color/black"
+            android:textColorHint="@color/black"
+            android:textSize="@dimen/rco_trucks_small_text_size" />
+
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/manrope_bold"
+        android:text="*"
+        android:textColor="@color/red"
+        android:visibility="gone"
+        app:layout_constraintBottom_toTopOf="@+id/clearAmountIcon"
+        app:layout_constraintEnd_toEndOf="@+id/amountLayout"
+        app:layout_constraintStart_toStartOf="@+id/clearAmountIcon" />
+
+    <ImageView
+        android:id="@+id/clearAmountIcon"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="4dp"
+        android:src="@drawable/ic_baseline_close_24"
+        app:tint="@color/black"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@+id/amountLayout"
+        app:layout_constraintEnd_toEndOf="@+id/amountLayout"
+        app:layout_constraintTop_toTopOf="@+id/amountIcon" />
+
+
+    <TextView
+        android:id="@+id/vendorNameTitle"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="24dp"
+        android:background="@null"
+        android:fontFamily="@font/manrope_bold"
+        android:hint="@string/operator"
+        android:paddingStart="8dp"
+        android:paddingTop="16dp"
+        android:paddingEnd="24dp"
+        android:paddingBottom="4dp"
+        android:privateImeOptions="nm"
+        android:singleLine="true"
+        android:textColor="@color/black"
+        android:textColorHint="@color/black"
+        android:textSize="@dimen/rco_trucks_small_text_size"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/amountLayout"
+        app:layout_constraintTop_toBottomOf="@+id/tollRoadUnderlineView" />
+
+    <ImageView
+        android:id="@+id/vendorNameIcon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:src="@drawable/ic_baseline_store_24"
+        app:tint="@color/black"
+        app:layout_constraintBottom_toBottomOf="@+id/vendorNameLayout"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/vendorNameLayout"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="24dp"
+        android:textColorHint="@color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/vendorNameIcon"
+        app:layout_constraintTop_toBottomOf="@+id/vendorNameTitle">
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:id="@+id/vendorName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:editable="false"
+            android:enabled="false"
+            android:fontFamily="@font/manrope_regular"
+            android:paddingStart="8dp"
+            android:paddingTop="8dp"
+            android:paddingEnd="24dp"
+            android:paddingBottom="4dp"
+            android:privateImeOptions="nm"
+
+            android:singleLine="true"
+            android:textColor="@color/black"
+            android:textColorHint="@color/black"
+            android:textSize="@dimen/rco_trucks_small_text_size" />
+
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/manrope_bold"
+        android:text="*"
+        android:textColor="@color/red"
+        android:visibility="gone"
+        app:layout_constraintBottom_toTopOf="@+id/clearVendorNameIcon"
+        app:layout_constraintEnd_toEndOf="@+id/vendorNameLayout"
+        app:layout_constraintStart_toStartOf="@+id/clearVendorNameIcon" />
+
+
+    <ImageView
+        android:id="@+id/clearVendorNameIcon"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="4dp"
+        android:src="@drawable/ic_baseline_close_24"
+        app:tint="@color/black"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@+id/vendorNameLayout"
+        app:layout_constraintEnd_toEndOf="@+id/vendorNameLayout"
+        app:layout_constraintTop_toTopOf="@+id/vendorNameIcon" />
+
+
+    <TextView
+        android:id="@+id/tollRoadTitle"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="24dp"
+        android:background="@null"
+        android:fontFamily="@font/manrope_bold"
+        android:hint="@string/toll_road"
+        android:paddingStart="8dp"
+        android:paddingTop="16dp"
+        android:paddingEnd="24dp"
+        android:paddingBottom="4dp"
+        android:singleLine="true"
+        android:textColor="@color/black"
+        android:textColorHint="@color/black"
+        android:textSize="@dimen/rco_trucks_small_text_size"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/tollRoadNumberIcon"
+        app:layout_constraintTop_toBottomOf="@+id/stateUnderlineView" />
+
+    <ImageView
+        android:id="@+id/tollRoadNumberIcon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:src="@drawable/ic_baseline_add_road_24"
+        app:tint="@color/black"
+        app:layout_constraintBottom_toBottomOf="@+id/tollRoadLayout"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/tollRoadLayout" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/tollRoadLayout"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="24dp"
+        android:textColorHint="@color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/vendorNameIcon"
+        app:layout_constraintTop_toBottomOf="@+id/tollRoadTitle">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tollRoadSpinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/black"
+            android:drawSelectorOnTop="true"
+            android:dropDownSelector="@color/black"
+            android:editable="false"
+            android:enabled="false"
+            android:paddingStart="8dp"
+            android:paddingTop="8dp"
+
+            android:paddingEnd="24dp"
+            android:paddingBottom="4dp"
+            android:singleLine="true"
+            android:textColor="@color/black"
+            android:textSize="@dimen/rco_trucks_small_text_size"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <View
+        android:id="@+id/tollRoadUnderlineView"
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:layout_marginStart="4dp"
+        android:background="@color/grayShadeOne"
+        app:layout_constraintEnd_toEndOf="@+id/tollRoadLayout"
+        app:layout_constraintStart_toStartOf="@+id/tollRoadLayout"
+        app:layout_constraintTop_toBottomOf="@+id/tollRoadLayout" />
+
+
+    <TextView
+        android:id="@+id/vendorStateTitle"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="24dp"
+        android:background="@null"
+        android:fontFamily="@font/manrope_bold"
+        android:hint="@string/state_in_cap"
+        android:paddingStart="8dp"
+        android:paddingTop="16dp"
+        android:paddingEnd="24dp"
+        android:paddingBottom="4dp"
+        android:singleLine="true"
+        android:textColor="@color/black"
+        android:textColorHint="@color/black"
+        android:textSize="@dimen/rco_trucks_small_text_size"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/stateLayout"
+        app:layout_constraintTop_toBottomOf="@+id/amountLayout" />
+
+
+    <ImageView
+        android:id="@+id/stateIcon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:src="@drawable/ic_baseline_format_list_numbered_24"
+        app:tint="@color/black"
+        app:layout_constraintBottom_toBottomOf="@+id/stateLayout"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/stateLayout" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/stateLayout"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="24dp"
+        android:textColorHint="@color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/vendorNameIcon"
+        app:layout_constraintTop_toBottomOf="@+id/vendorStateTitle">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/stateSpinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/black"
+            android:drawSelectorOnTop="true"
+            android:dropDownSelector="@color/black"
+            android:editable="false"
+            android:enabled="false"
+            android:entries="@array/states_provinces_name"
+            android:paddingStart="8dp"
+            android:paddingTop="8dp"
+            android:paddingEnd="24dp"
+
+            android:paddingBottom="4dp"
+            android:singleLine="true"
+            android:textColor="@color/black"
+            android:textSize="@dimen/rco_trucks_small_text_size"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <View
+        android:id="@+id/stateUnderlineView"
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:layout_marginStart="4dp"
+        android:background="@color/grayShadeOne"
+        app:layout_constraintEnd_toEndOf="@+id/stateLayout"
+        app:layout_constraintStart_toStartOf="@+id/vendorStateTitle"
+        app:layout_constraintTop_toBottomOf="@+id/stateLayout" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

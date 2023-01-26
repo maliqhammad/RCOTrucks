@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/info_data"
+    style="@style/eldInfoLabel"
+    android:layout_centerHorizontal="true"
+    android:background="@drawable/light_gray_and_dark_gray_background"
+
+    android:ellipsize="end"
+    android:gravity="center"
+    android:lines="2"
+    android:text="Title"
+    android:textColor="@color/black_and_white"
+    android:textSize="@dimen/rco_trucks_small_text_size"
+    android:fontFamily="@font/proxima_nova_regular"
+    />
+
+<!--    android:background="@drawable/bg_eld_info"-->

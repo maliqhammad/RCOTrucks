@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white_and_black">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/timeView"
+        android:layout_width="0dp"
+        android:layout_height="36dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/moonImage"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/moon"
+            tools:ignore="MissingConstraints" />
+
+        <ImageView
+            android:id="@+id/noonImage"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/noon"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="MissingConstraints" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:fontFamily="@font/proxima_nova_bold"
+                android:gravity="center"
+                android:lines="1"
+                android:text=""
+                android:textColor="@color/grey_and_white"
+                android:textSize="@dimen/top_bar_chart_text_size" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:fontFamily="@font/proxima_nova_bold"
+                android:gravity="center"
+                android:lines="1"
+                android:text="@string/one"
+                android:textColor="@color/grey_and_white"
+                android:textSize="@dimen/top_bar_chart_text_size" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:fontFamily="@font/proxima_nova_bold"
+                android:gravity="center"
+                android:lines="1"
+                android:text="@string/two"
+                android:textColor="@color/grey_and_white"
+                android:textSize="@dimen/top_bar_chart_text_size" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:fontFamily="@font/proxima_nova_bold"
+                android:gravity="center"
+                android:lines="1"
+                android:text="@string/three"
+                android:textColor="@color/grey_and_white"
+                android:textSize="@dimen/top_bar_chart_text_size" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:fontFamily="@font/proxima_nova_bold"
+                android:gravity="center"
+                android:lines="1"
+                android:text="@string/four"
+                android:textColor="@color/grey_and_white"
+                android:textSize="@dimen/top_bar_chart_text_size" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:fontFamily="@font/proxima_nova_bold"
+                android:gravity="center"
+                android:lines="1"
+                android:text="@string/five"
+                android:textColor="@color/grey_and_white"
+                android:textSize="@dimen/top_bar_chart_text_size" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:fontFamily="@font/proxima_nova_bold"
+                android:gravity="center"
+                android:lines="1"
+                android:text="@string/six"
+                android:textColor="@color/grey_and_white"
+                android:textSize="@dimen/top_bar_chart_text_size" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:fontFamily="@font/proxima_nova_bold"
+                android:gravity="center"
+                android:lines="1"
+                android:text="@string/seven"
+                android:textColor="@color/grey_and_white"
+                android:textSize="@dimen/top_bar_chart_text_size" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:fontFamily="@font/proxima_nova_bold"
+                android:gravity="center"
+                android:lines="1"
+                android:text="@string/eight"
+                android:textColor="@color/grey_and_white"
+                android:textSize="@dimen/top_bar_chart_text_size" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:fontFamily="@font/proxima_nova_bold"
+                android:gravity="center"
+                android:lines="1"
+                android:text="@string/nine"
+                android:textColor="@color/grey_and_white"
+                android:textSize="@dimen/top_bar_chart_text_size" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:fontFamily="@font/proxima_nova_bold"
+                android:gravity="center"
+                android:lines="1"
+                android:text="@string/ten"
+                android:textColor="@color/grey_and_white"
+                android:textSize="@dimen/top_bar_chart_text_size" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:fontFamily="@font/proxima_nova_bold"
+                android:gravity="center"
+                android:lines="1"
+                android:text="@string/eleven"
+                android:textColor="@color/grey_and_white"
+                android:textSize="@dimen/top_bar_chart_text_size" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:lines="1"
+                android:text=""
+                android:textColor="@color/grey_and_white"
+                android:textSize="@dimen/top_bar_chart_text_size" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:fontFamily="@font/proxima_nova_bold"
+                android:gravity="center"
+                android:lines="1"
+                android:text="@string/one"
+                android:textColor="@color/grey_and_white"
+                android:textSize="@dimen/top_bar_chart_text_size" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:fontFamily="@font/proxima_nova_bold"
+                android:gravity="center"
+                android:lines="1"
+                android:text="@string/two"
+                android:textColor="@color/grey_and_white"
+                android:textSize="@dimen/top_bar_chart_text_size" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:fontFamily="@font/proxima_nova_bold"
+                android:gravity="center"
+                android:lines="1"
+                android:text="@string/three"
+                android:textColor="@color/grey_and_white"
+                android:textSize="@dimen/top_bar_chart_text_size" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:fontFamily="@font/proxima_nova_bold"
+                android:gravity="center"
+                android:lines="1"
+                android:text="@string/four"
+                android:textColor="@color/grey_and_white"
+                android:textSize="@dimen/top_bar_chart_text_size" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:fontFamily="@font/proxima_nova_bold"
+                android:gravity="center"
+                android:lines="1"
+                android:text="@string/five"
+                android:textColor="@color/grey_and_white"
+                android:textSize="@dimen/top_bar_chart_text_size" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:fontFamily="@font/proxima_nova_bold"
+                android:gravity="center"
+                android:lines="1"
+                android:text="@string/six"
+                android:textColor="@color/grey_and_white"
+                android:textSize="@dimen/top_bar_chart_text_size" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:fontFamily="@font/proxima_nova_bold"
+                android:gravity="center"
+                android:lines="1"
+                android:text="@string/seven"
+                android:textColor="@color/grey_and_white"
+                android:textSize="@dimen/top_bar_chart_text_size" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:fontFamily="@font/proxima_nova_bold"
+                android:gravity="center"
+                android:lines="1"
+                android:text="@string/eight"
+                android:textColor="@color/grey_and_white"
+                android:textSize="@dimen/top_bar_chart_text_size" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:fontFamily="@font/proxima_nova_bold"
+                android:gravity="center"
+                android:lines="1"
+                android:text="@string/nine"
+                android:textColor="@color/grey_and_white"
+                android:textSize="@dimen/top_bar_chart_text_size" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:fontFamily="@font/proxima_nova_bold"
+                android:gravity="center"
+                android:lines="1"
+                android:text="@string/ten"
+                android:textColor="@color/grey_and_white"
+                android:textSize="@dimen/top_bar_chart_text_size" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:fontFamily="@font/proxima_nova_bold"
+                android:gravity="center"
+                android:lines="1"
+                android:text="@string/eleven"
+                android:textColor="@color/grey_and_white"
+                android:textSize="@dimen/top_bar_chart_text_size" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:fontFamily="@font/proxima_nova_bold"
+                android:gravity="center"
+                android:lines="1"
+                android:text="@string/hrs"
+                android:textColor="@color/grey_and_white"
+                android:textSize="@dimen/top_bar_chart_text_size" />
+
+        </LinearLayout>
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/totalView"
+        android:layout_width="32dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="@id/graphView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/timeView">
+
+
+        <!--        android:textColor="@android:color/primary_text_light"-->
+        <TextView
+            android:id="@+id/of_hours"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:fontFamily="@font/proxima_nova_bold"
+            android:gravity="center"
+            android:textAllCaps="true"
+
+            android:textColor="@color/black_and_white"
+            android:textSize="@dimen/top_bar_chart_text_size"
+            app:layout_constraintBottom_toTopOf="@id/sl_hours"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <!--        android:textColor="@android:color/primary_text_light"-->
+        <TextView
+            android:id="@+id/sl_hours"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:fontFamily="@font/proxima_nova_bold"
+            android:gravity="center"
+
+            android:textAllCaps="true"
+
+            android:textColor="@color/black_and_white"
+            android:textSize="@dimen/top_bar_chart_text_size"
+            app:layout_constraintBottom_toTopOf="@id/dr_hours"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/of_hours" />
+
+        <!--        android:textColor="@android:color/primary_text_light"-->
+        <TextView
+            android:id="@+id/dr_hours"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:fontFamily="@font/proxima_nova_bold"
+            android:gravity="center"
+
+            android:textAllCaps="true"
+
+            android:textColor="@color/black_and_white"
+            android:textSize="@dimen/top_bar_chart_text_size"
+            app:layout_constraintBottom_toTopOf="@id/on_hours"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/sl_hours" />
+
+        <!--        android:textColor="@android:color/primary_text_light"-->
+        <TextView
+            android:id="@+id/on_hours"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:fontFamily="@font/proxima_nova_bold"
+            android:gravity="center"
+
+            android:textAllCaps="true"
+
+            android:textColor="@color/black_and_white"
+            android:textSize="@dimen/top_bar_chart_text_size"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/dr_hours" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/sectionView"
+        android:layout_width="24dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="@id/graphView"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/timeView">
+
+        <!--        android:textColor="@android:color/primary_text_light"-->
+        <TextView
+            android:id="@+id/firstEvent"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:fontFamily="@font/proxima_nova_bold"
+            android:gravity="center"
+            android:text="OF"
+            android:textAllCaps="true"
+            android:textColor="@color/black_and_white"
+            android:textSize="@dimen/top_bar_chart_text_size"
+            app:layout_constraintBottom_toTopOf="@id/secondEvent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <!--        android:textColor="@android:color/primary_text_light"-->
+        <TextView
+            android:id="@+id/secondEvent"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:fontFamily="@font/proxima_nova_bold"
+            android:gravity="center"
+            android:text="SL"
+
+            android:textAllCaps="true"
+
+            android:textColor="@color/black_and_white"
+            android:textSize="@dimen/top_bar_chart_text_size"
+            app:layout_constraintBottom_toTopOf="@id/thirdEvent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/firstEvent" />
+
+        <!--        android:textColor="@android:color/primary_text_light"-->
+        <TextView
+            android:id="@+id/thirdEvent"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:fontFamily="@font/proxima_nova_bold"
+            android:gravity="center"
+            android:text="DR"
+            android:textAllCaps="true"
+            android:textColor="@color/black_and_white"
+            android:textSize="@dimen/top_bar_chart_text_size"
+            app:layout_constraintBottom_toTopOf="@id/fourthEvent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/secondEvent" />
+
+        <!--        android:textColor="@android:color/primary_text_light"-->
+        <TextView
+            android:id="@+id/fourthEvent"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:fontFamily="@font/proxima_nova_bold"
+            android:gravity="center"
+            android:text="ON"
+            android:textAllCaps="true"
+            android:textColor="@color/black_and_white"
+            android:textSize="@dimen/top_bar_chart_text_size"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/thirdEvent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/hoursView"
+        android:layout_width="0dp"
+        android:layout_height="36dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:fontFamily="@font/proxima_nova_bold"
+            android:gravity="center"
+            android:lines="1"
+            android:paddingLeft="12dp"
+            android:text="@string/mid_night"
+            android:textColor="@color/grey_and_white"
+            android:textSize="@dimen/rco_trucks_small_text_size"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:fontFamily="@font/proxima_nova_bold"
+            android:gravity="center"
+            android:lines="1"
+            android:text="@string/noon"
+            android:textColor="@color/grey_and_white"
+            android:textSize="@dimen/rco_trucks_small_text_size"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:fontFamily="@font/proxima_nova_bold"
+            android:gravity="center"
+            android:lines="1"
+            android:paddingRight="12dp"
+            android:text="@string/total_hours"
+            android:textColor="@color/grey_and_white"
+            android:textSize="@dimen/rco_trucks_small_text_size"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="MissingConstraints" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <com.rco.rcotrucks.views.ChartEventView
+        android:id="@+id/graphView"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="#DEDEDE"
+        app:layout_constraintBottom_toTopOf="@+id/hoursView"
+        app:layout_constraintEnd_toStartOf="@id/totalView"
+        app:layout_constraintStart_toEndOf="@id/sectionView"
+        app:layout_constraintTop_toBottomOf="@id/timeView" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.widget.RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:id="@+id/ll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp">
+
+        <Button
+            android:id="@+id/Disconnect"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:baselineAligned="true"
+            android:onClick="onDisconnectClicked"
+            android:text="Disconnect"
+            android:textSize="12sp" />
+
+        <Button
+            android:id="@+id/Rescan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:baselineAligned="true"
+            android:onClick="onRescanClicked"
+            android:text="Connect"
+            android:textSize="12sp" />
+
+        <Button
+            android:id="@+id/FW_CHECK"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:baselineAligned="true"
+            android:onClick="onCheckUpdateClicked"
+            android:text="Check&#10;Update"
+            android:textSize="12sp" />
+
+        <Button
+            android:id="@+id/updateFw"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="onUpdateFwClicked"
+            android:text="Update&#10;FW"
+            android:textSize="12sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ll"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp">
+
+        <Button
+            android:id="@+id/reqButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="onReqRecordClicked"
+            android:text="Request&#10;Record"
+            android:textSize="12sp" />
+
+        <Button
+            android:id="@+id/delButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="onDelRecordClicked"
+            android:text="Delete&#10;Record"
+            android:textSize="12sp" />
+
+        <Button
+            android:id="@+id/reqDelButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="onReqDelClicked"
+            android:text="Request&#10;+ Delete"
+            android:textSize="12sp" />
+
+        <Button
+            android:id="@+id/REQ_DEBUG"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="onReqDebugClicked"
+            android:text="Request&#10;Debug"
+            android:textSize="12sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ll2"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp">
+
+        <Button
+            android:id="@+id/ENABLE_DTC"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="onEnableDTCClicked"
+            android:text="EN DTC"
+            android:textSize="12sp" />
+
+        <Button
+            android:id="@+id/ENABLE_FUEL"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="onEnableFuelClicked"
+            android:text="EN Fuel"
+            android:textSize="12sp" />
+
+        <Button
+            android:id="@+id/ENABLE_ALL"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="onEnableALLClicked"
+            android:text="EN ALL"
+            android:textSize="12sp" />
+
+        <Button
+            android:id="@+id/PERIOD_60"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="onP60Clicked"
+            android:text="Period&#10;60"
+            android:textSize="12sp" />
+
+        <Button
+            android:id="@+id/PERIOD_30"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="onP30Clicked"
+            android:text="Period&#10;30"
+            android:textSize="12sp" />
+
+    </LinearLayout>
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/scrollView3"
+        android:layout_below="@+id/ll3"
+        android:clipToPadding="false">
+
+        <TextView
+            android:id="@+id/statusLog"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginRight="8dp"
+            android:visibility="visible" />
+    </ScrollView>
+
+    <ScrollView
+        android:id="@+id/scrollView3"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="10dp">
+        <TextView
+            android:id="@+id/eldData"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginRight="8dp"
+            android:visibility="visible"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="parent"
+            app:layout_constraintVertical_bias="1.0"
+            tools:layout_constraintBottom_creator="1"
+            tools:layout_constraintLeft_creator="1"
+            tools:layout_constraintRight_creator="1"
+            tools:layout_constraintTop_creator="1" />
+    </ScrollView>
+</android.widget.RelativeLayout>

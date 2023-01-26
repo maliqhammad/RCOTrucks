@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "269415559766",
+    "firebase_url": "https://rco-trucks.firebaseio.com",
+    "project_id": "rco-trucks",
+    "storage_bucket": "rco-trucks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269415559766:android:5be1e11030941fe8afc1f7",
+        "android_client_info": {
+          "package_name": "com.rco.rcotrucks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269415559766-gkuekrh6umi01cna8b1cphv8ha7hqv1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rco.rcotrucks",
+            "certificate_hash": "b1a33c527a7edd5deebfa75ab89cd39700046e09"
+          }
+        },
+        {
+          "client_id": "269415559766-njheh4upe8d5rohj5mi62moagbkmn9d1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-LSOFrLAqCmxZc73P305oPWVKhRgM9bA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269415559766-njheh4upe8d5rohj5mi62moagbkmn9d1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "269415559766-l2svomvvobilc5v3fimp6n9u979d7s3g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rco.trucks"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

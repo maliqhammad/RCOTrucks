@@ -1,0 +1,71 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!--
+         Per the design guidelines, navigation drawers should be between 240dp and 320dp:
+         https://developer.android.com/design/patterns/navigation-drawer.html
+    -->
+
+    <dimen name="navigation_drawer_width">240dp</dimen>
+
+    <dimen name="default_button_side_padding">25dip</dimen>
+    <dimen name="default_button_width">220dip</dimen>
+    <dimen name="atextsize_small">12dip</dimen>
+    <dimen name="textsize_normal">16dip</dimen>
+    <dimen name="textsize_large">20dip</dimen>
+    <dimen name="textsize_xlarge">24dip</dimen>
+    <dimen name="textsize_xxlarge">26dip</dimen>
+    <dimen name="textsize_xxxlarge">32dip</dimen>
+    <dimen name="default_side_padding">5dip</dimen>
+    <dimen name="subservice_part_vspace">110dip</dimen>
+
+    <dimen name="actionbar_big_height">60dp</dimen>
+    <dimen name="actionbar_big_button_width">50dp</dimen>
+    <dimen name="default_side_padding_normal">16dp</dimen>
+    <dimen name="border_width">1dp</dimen>
+    <dimen name="bar_length">70dp</dimen>
+    <dimen name="day_bg_size">40dp</dimen>
+    <dimen name="text_twenty_sp">20sp</dimen>
+
+    <dimen name="ic_clear_margin">16dp</dimen>
+
+
+    <dimen name="chart_height">240dp</dimen>
+    <dimen name="top_bar_chart_text_size">8sp</dimen>
+    <dimen name="gauges_stroke_width">12dp</dimen>
+    <dimen name="gauges_circle_stroke_width">7dp</dimen>
+    <dimen name="min_toolbar_hight">60dp</dimen>
+    <dimen name="toolbar_hight">60dp</dimen>
+    <dimen name="margin_50dp">50dp</dimen>
+    <dimen name="margin_90dp">90dp</dimen>
+
+    <dimen name="direction_size">60dp</dimen>
+    <dimen name="speech_bubble_corners">10dp</dimen>
+    <dimen name="speech_bubble_corners_plus_tail">15dp</dimen>
+    <dimen name="speech_bubble_spacing">5dp</dimen>
+    <dimen name="speech_bubble_tail">25dp</dimen>
+
+    <dimen name="width_popup">330dp</dimen>
+
+    <dimen name="rco_trucks_x_small_text_size">10sp</dimen>
+    <dimen name="rco_trucks_small_text_size">12sp</dimen>
+    <dimen name="rco_trucks_medium_text_size">15sp</dimen>
+    <dimen name="rco_trucks_normal_text_size">18sp</dimen>
+    <dimen name="rco_trucks_big_text_size">20sp</dimen>
+    <dimen name="rco_trucks_large_text_size">22sp</dimen>
+    <dimen name="rco_trucks_x_large_text_size">24sp</dimen>
+    <dimen name="rco_trucks_xx_large_text_size">27sp</dimen>
+    <dimen name="rco_trucks_xxx_large_text_size">35sp</dimen>
+
+    <dimen name="homeAppbarHeight">40dp</dimen>
+
+</resources>

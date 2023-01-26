@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/pre_trip_trailer_one_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintLayout10"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_weight="2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:id="@+id/linearLayout7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/_12sdp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <TextView
+                android:id="@+id/tv_trailer_no_one"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/proxima_nova_regular"
+                android:text="@string/trailer_NO_S"
+                android:textColor="@color/black"
+                android:textSize="@dimen/rco_trucks_small_text_size" />
+
+            <EditText
+                android:id="@+id/trailer_no_et_one"
+                android:layout_width="@dimen/_64sdp"
+                android:layout_height="wrap_content"
+                android:clickable="false"
+                android:focusable="false"
+                android:fontFamily="@font/proxima_nova_regular"
+                android:paddingLeft="@dimen/_6sdp"
+                android:singleLine="true"
+                android:textColor="@color/black"
+                android:textSize="@dimen/rco_trucks_small_text_size" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linr_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_32sdp"
+            android:gravity="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/linearLayout7"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <TextView
+                android:id="@+id/tv_reefer_hos_one"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/proxima_nova_regular"
+                android:text="@string/reefer_HOS"
+                android:textColor="@color/black"
+                android:textSize="@dimen/rco_trucks_small_text_size" />
+
+            <EditText
+                android:id="@+id/reefer_hos_et_one"
+                android:layout_width="@dimen/_64sdp"
+                android:layout_height="wrap_content"
+                android:clickable="false"
+                android:focusable="false"
+                android:fontFamily="@font/proxima_nova_regular"
+                android:paddingLeft="@dimen/_6sdp"
+                android:singleLine="true"
+                android:textColor="@color/black"
+                android:textSize="@dimen/rco_trucks_small_text_size" />
+
+        </LinearLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/constraintLayout10">
+
+        <LinearLayout
+            android:id="@+id/constraint_one"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <CheckBox
+                android:id="@+id/brake_connection_one_cb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:buttonTint="@color/check_box_blue"
+                android:clickable="false"
+                android:fontFamily="@font/productsans_medium"
+                android:paddingLeft="2dp"
+                android:text="@string/brake_Connections"
+                android:textSize="@dimen/rco_trucks_small_text_size"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/linearLayout2" />
+
+            <CheckBox
+                android:id="@+id/brakes_one_cb"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:buttonTint="@color/check_box_blue"
+                android:clickable="false"
+                android:fontFamily="@font/productsans_medium"
+                android:paddingLeft="2dp"
+                android:text="@string/brakes_"
+                android:textSize="@dimen/rco_trucks_small_text_size"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/linearLayout2" />
+
+
+            <CheckBox
+                android:id="@+id/coupling_king_pin_one_cb"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:buttonTint="@color/check_box_blue"
+                android:clickable="false"
+                android:fontFamily="@font/productsans_medium"
+                android:text="@string/Coupling_King_Pin"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/linearLayout2" />
+
+
+            <CheckBox
+                android:id="@+id/coupling_chains_one_cb"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+
+                android:buttonTint="@color/check_box_blue"
+                android:clickable="false"
+                android:fontFamily="@font/productsans_medium"
+                android:text="@string/coupling_chains"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/linearLayout2" />
+
+
+            <CheckBox
+                android:id="@+id/doors_one_cb"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:buttonTint="@color/check_box_blue"
+                android:clickable="false"
+                android:fontFamily="@font/productsans_medium"
+                android:text="@string/doors_"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/linearLayout2" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/constraintLayout8"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            app:layout_constraintEnd_toStartOf="@+id/constraintLayout9"
+            app:layout_constraintStart_toEndOf="@+id/constraint_one"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <CheckBox
+                android:id="@+id/hitch_one_cb"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:buttonTint="@color/check_box_blue"
+                android:clickable="false"
+                android:fontFamily="@font/productsans_medium"
+                android:text="@string/hitch_"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/linearLayout2" />
+
+            <CheckBox
+                android:id="@+id/landing_gear_one_cb"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:buttonTint="@color/check_box_blue"
+                android:clickable="false"
+                android:fontFamily="@font/productsans_medium"
+                android:text="@string/landing_gear_"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/linearLayout2" />
+
+            <CheckBox
+                android:id="@+id/lights_all_one_cb"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:buttonTint="@color/check_box_blue"
+                android:clickable="false"
+                android:fontFamily="@font/productsans_medium"
+                android:text="@string/lights_all"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/linearLayout2" />
+
+
+            <CheckBox
+                android:id="@+id/roof_one_cb"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:buttonTint="@color/check_box_blue"
+                android:clickable="false"
+                android:fontFamily="@font/productsans_medium"
+                android:text="@string/roof_"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/linearLayout2" />
+
+
+            <CheckBox
+                android:id="@+id/spring_one_cb"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:buttonTint="@color/check_box_blue"
+                android:clickable="false"
+                android:fontFamily="@font/productsans_medium"
+                android:text="@string/springs_"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/linearLayout2" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/constraintLayout9"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/constraintLayout8"
+            app:layout_constraintTop_toTopOf="parent">
+
+
+            <CheckBox
+                android:id="@+id/tarpaulin_one_cb"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:buttonTint="@color/check_box_blue"
+                android:clickable="false"
+                android:fontFamily="@font/productsans_medium"
+                android:text="@string/tarpaulin_"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/linearLayout2" />
+
+            <CheckBox
+                android:id="@+id/tires_one_cb"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:buttonTint="@color/check_box_blue"
+                android:clickable="false"
+                android:fontFamily="@font/productsans_medium"
+                android:paddingLeft="2dp"
+                android:text="@string/tires_"
+                android:textSize="@dimen/rco_trucks_small_text_size"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/linearLayout2" />
+
+
+            <CheckBox
+                android:id="@+id/wheels_and_rims_one_cb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:buttonTint="@color/check_box_blue"
+                android:clickable="false"
+                android:fontFamily="@font/productsans_medium"
+                android:paddingLeft="2dp"
+                android:text="@string/wheels_and_rims"
+                android:textSize="@dimen/rco_trucks_small_text_size"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/linearLayout2" />
+
+
+            <CheckBox
+                android:id="@+id/other_one_cb"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:buttonTint="@color/check_box_blue"
+                android:clickable="false"
+                android:fontFamily="@font/productsans_medium"
+                android:paddingLeft="2dp"
+                android:text="@string/other_"
+                android:textSize="@dimen/rco_trucks_small_text_size"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/linearLayout2" />
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

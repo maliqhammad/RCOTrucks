@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/drivingLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <ImageView
+            android:id="@+id/driving_background_circle"
+            android:layout_width="180dp"
+            android:layout_height="170dp"
+            android:src="@drawable/gauges_circle_backgound"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+
+        <!--        android:background="@color/black"-->
+        <ImageView
+            android:id="@+id/gauges_driving_bar"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="8dp"
+            android:src="@drawable/gauges_circular_bar"
+            app:layout_constraintBottom_toBottomOf="@+id/driving_background_circle"
+            app:layout_constraintEnd_toEndOf="@+id/driving_background_circle"
+            app:layout_constraintStart_toStartOf="@+id/driving_background_circle"
+            app:layout_constraintTop_toTopOf="@+id/driving_background_circle" />
+
+
+        <ImageView
+            android:id="@+id/gauges_circle_without_shadow"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="40dp"
+            android:layout_marginEnd="32dp"
+            android:layout_marginBottom="32dp"
+            android:src="@drawable/gauges_circle_without_shadow"
+            app:layout_constraintBottom_toBottomOf="@+id/gauges_driving_bar"
+            app:layout_constraintEnd_toEndOf="@+id/gauges_driving_bar"
+            app:layout_constraintStart_toStartOf="@+id/gauges_driving_bar"
+            app:layout_constraintTop_toTopOf="@+id/gauges_driving_bar" />
+
+        <ImageView
+            android:id="@+id/guages_light_arc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scaleType="fitXY"
+            android:src="@drawable/gauges_shadow_small"
+            app:layout_constraintBottom_toBottomOf="@+id/gauges_circle_without_shadow"
+            app:layout_constraintEnd_toEndOf="@+id/gauges_circle_without_shadow"
+            app:layout_constraintStart_toStartOf="@+id/gauges_circle_without_shadow"
+            app:layout_constraintTop_toTopOf="@+id/gauges_circle_without_shadow" />
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/gauges_blue_dotted_circle"
+            app:layout_constraintBottom_toBottomOf="@+id/gauges_circle_without_shadow"
+            app:layout_constraintEnd_toEndOf="@+id/gauges_circle_without_shadow"
+            app:layout_constraintStart_toStartOf="@+id/gauges_circle_without_shadow"
+            app:layout_constraintTop_toTopOf="@+id/gauges_circle_without_shadow" />
+
+        <!--        android:fontFamily="@font/quartz"-->
+        <TextView
+            android:id="@+id/driving_bar_value"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/proxima_nova_regular"
+            android:text="0.0"
+            android:textColor="@color/white"
+            android:textSize="@dimen/rco_trucks_x_large_text_size"
+            app:layout_constraintBottom_toBottomOf="@+id/gauges_circle_without_shadow"
+            app:layout_constraintEnd_toEndOf="@+id/gauges_circle_without_shadow"
+            app:layout_constraintStart_toStartOf="@+id/gauges_circle_without_shadow"
+            app:layout_constraintTop_toTopOf="@+id/gauges_circle_without_shadow" />
+
+        <TextView
+            android:id="@+id/driving_hrs"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/proxima_nova_regular"
+            android:text="HRS"
+            android:textColor="@color/side_panel_active_progress_color"
+            android:textSize="@dimen/rco_trucks_x_small_text_size"
+            app:layout_constraintEnd_toEndOf="@+id/driving_bar_value"
+            app:layout_constraintStart_toStartOf="@+id/driving_bar_value"
+            app:layout_constraintTop_toBottomOf="@+id/driving_bar_value" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="12dp"
+            android:fontFamily="@font/proxima_nova_bold"
+            android:text="Driving"
+            android:textColor="@color/white"
+            android:textSize="@dimen/rco_trucks_small_text_size"
+            app:layout_constraintBottom_toBottomOf="@+id/gauges_driving_bar"
+            app:layout_constraintEnd_toEndOf="@+id/gauges_driving_bar"
+            app:layout_constraintStart_toStartOf="@+id/gauges_driving_bar" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/break_background_gauges"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/drivingLayout">
+
+
+        <ImageView
+            android:id="@+id/break_gauges_circle_backgound"
+            android:layout_width="180dp"
+            android:layout_height="170dp"
+            android:src="@drawable/gauges_circle_backgound"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/gauges_break_bar"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="8dp"
+            android:src="@drawable/gauges_circular_bar"
+            app:layout_constraintBottom_toBottomOf="@+id/break_gauges_circle_backgound"
+            app:layout_constraintEnd_toEndOf="@+id/break_gauges_circle_backgound"
+            app:layout_constraintStart_toStartOf="@+id/break_gauges_circle_backgound"
+            app:layout_constraintTop_toTopOf="@+id/break_gauges_circle_backgound" />
+
+        <ImageView
+            android:id="@+id/break_gauges_circle_without_shadow"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="40dp"
+            android:layout_marginEnd="32dp"
+            android:layout_marginBottom="32dp"
+            android:src="@drawable/gauges_circle_without_shadow"
+            app:layout_constraintBottom_toBottomOf="@+id/gauges_break_bar"
+            app:layout_constraintEnd_toEndOf="@+id/gauges_break_bar"
+            app:layout_constraintStart_toStartOf="@+id/gauges_break_bar"
+            app:layout_constraintTop_toTopOf="@+id/gauges_break_bar" />
+
+        <ImageView
+            android:id="@+id/break_gauges_shadow_small"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scaleType="fitXY"
+            android:src="@drawable/gauges_shadow_small"
+            app:layout_constraintBottom_toBottomOf="@+id/break_gauges_circle_without_shadow"
+            app:layout_constraintEnd_toEndOf="@+id/break_gauges_circle_without_shadow"
+            app:layout_constraintStart_toStartOf="@+id/break_gauges_circle_without_shadow"
+            app:layout_constraintTop_toTopOf="@+id/break_gauges_circle_without_shadow" />
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:src="@drawable/gauges_blue_dotted_circle"
+            app:layout_constraintBottom_toBottomOf="@+id/break_gauges_circle_without_shadow"
+            app:layout_constraintEnd_toEndOf="@+id/break_gauges_circle_without_shadow"
+            app:layout_constraintStart_toStartOf="@+id/break_gauges_circle_without_shadow"
+            app:layout_constraintTop_toTopOf="@+id/break_gauges_circle_without_shadow" />
+
+        <TextView
+            android:id="@+id/break_bar_value"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/proxima_nova_regular"
+            android:text="0.0"
+            android:textColor="@color/white"
+            android:textSize="@dimen/rco_trucks_x_large_text_size"
+            app:layout_constraintBottom_toBottomOf="@+id/break_gauges_circle_without_shadow"
+            app:layout_constraintEnd_toEndOf="@+id/break_gauges_circle_without_shadow"
+            app:layout_constraintStart_toStartOf="@+id/break_gauges_circle_without_shadow"
+            app:layout_constraintTop_toTopOf="@+id/break_gauges_circle_without_shadow" />
+
+        <TextView
+            android:id="@+id/break_driving_hrs"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/proxima_nova_regular"
+            android:text="HRS"
+            android:textColor="@color/side_panel_active_progress_color"
+            android:textSize="@dimen/rco_trucks_x_small_text_size"
+            app:layout_constraintEnd_toEndOf="@+id/break_bar_value"
+            app:layout_constraintStart_toStartOf="@+id/break_bar_value"
+            app:layout_constraintTop_toBottomOf="@+id/break_bar_value" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="14dp"
+            android:fontFamily="@font/proxima_nova_bold"
+            android:text="Break"
+            android:textColor="@color/white"
+            android:textSize="@dimen/rco_trucks_small_text_size"
+            app:layout_constraintBottom_toBottomOf="@+id/break_gauges_circle_backgound"
+            app:layout_constraintEnd_toEndOf="@+id/break_gauges_circle_backgound"
+            app:layout_constraintStart_toStartOf="@+id/break_gauges_circle_backgound" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/shift_background_gauges"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/break_background_gauges">
+
+
+        <ImageView
+            android:id="@+id/shift_gauges_circle_backgound"
+            android:layout_width="180dp"
+            android:layout_height="170dp"
+            android:src="@drawable/gauges_circle_backgound"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/gauges_shift_bar"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="8dp"
+            android:src="@drawable/gauges_circular_bar"
+            app:layout_constraintBottom_toBottomOf="@+id/shift_gauges_circle_backgound"
+            app:layout_constraintEnd_toEndOf="@+id/shift_gauges_circle_backgound"
+            app:layout_constraintStart_toStartOf="@+id/shift_gauges_circle_backgound"
+            app:layout_constraintTop_toTopOf="@+id/shift_gauges_circle_backgound" />
+
+        <ImageView
+            android:id="@+id/shift_gauges_circle_without_shadow"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="40dp"
+            android:layout_marginEnd="32dp"
+            android:layout_marginBottom="32dp"
+            android:src="@drawable/gauges_circle_without_shadow"
+            app:layout_constraintBottom_toBottomOf="@+id/gauges_shift_bar"
+            app:layout_constraintEnd_toEndOf="@+id/gauges_shift_bar"
+            app:layout_constraintStart_toStartOf="@+id/gauges_shift_bar"
+            app:layout_constraintTop_toTopOf="@+id/gauges_shift_bar" />
+
+        <ImageView
+            android:id="@+id/shift_gauges_shadow_small"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scaleType="fitXY"
+            android:src="@drawable/gauges_shadow_small"
+            app:layout_constraintBottom_toBottomOf="@+id/shift_gauges_circle_without_shadow"
+            app:layout_constraintEnd_toEndOf="@+id/shift_gauges_circle_without_shadow"
+            app:layout_constraintStart_toStartOf="@+id/shift_gauges_circle_without_shadow"
+            app:layout_constraintTop_toTopOf="@+id/shift_gauges_circle_without_shadow" />
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/gauges_blue_dotted_circle"
+            app:layout_constraintBottom_toBottomOf="@+id/shift_gauges_circle_without_shadow"
+            app:layout_constraintEnd_toEndOf="@+id/shift_gauges_circle_without_shadow"
+            app:layout_constraintStart_toStartOf="@+id/shift_gauges_circle_without_shadow"
+            app:layout_constraintTop_toTopOf="@+id/shift_gauges_circle_without_shadow" />
+
+        <TextView
+            android:id="@+id/shift_bar_value"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/proxima_nova_regular"
+            android:text="0.0"
+            android:textColor="@color/white"
+            android:textSize="@dimen/rco_trucks_x_large_text_size"
+            app:layout_constraintBottom_toBottomOf="@+id/shift_gauges_circle_without_shadow"
+            app:layout_constraintEnd_toEndOf="@+id/shift_gauges_circle_without_shadow"
+            app:layout_constraintStart_toStartOf="@+id/shift_gauges_circle_without_shadow"
+            app:layout_constraintTop_toTopOf="@+id/shift_gauges_circle_without_shadow" />
+
+        <TextView
+            android:id="@+id/shift_break_driving_hrs"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/proxima_nova_regular"
+            android:text="HRS"
+            android:textColor="@color/side_panel_active_progress_color"
+            android:textSize="@dimen/rco_trucks_x_small_text_size"
+            app:layout_constraintEnd_toEndOf="@+id/shift_bar_value"
+            app:layout_constraintStart_toStartOf="@+id/shift_bar_value"
+            app:layout_constraintTop_toBottomOf="@+id/shift_bar_value" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="14dp"
+            android:fontFamily="@font/proxima_nova_bold"
+            android:text="Shift"
+            android:textColor="@color/white"
+
+            android:textSize="@dimen/rco_trucks_small_text_size"
+            app:layout_constraintBottom_toBottomOf="@+id/shift_gauges_circle_backgound"
+            app:layout_constraintEnd_toEndOf="@+id/shift_gauges_circle_backgound"
+            app:layout_constraintStart_toStartOf="@+id/shift_gauges_circle_backgound" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/cycle_background_gauges"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/shift_background_gauges">
+
+
+        <ImageView
+            android:id="@+id/cycle_gauges_circle_backgound"
+            android:layout_width="180dp"
+            android:layout_height="170dp"
+            android:src="@drawable/gauges_circle_backgound"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/gauges_cycle_bar"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="8dp"
+            android:src="@drawable/gauges_circular_bar"
+            app:layout_constraintBottom_toBottomOf="@+id/cycle_gauges_circle_backgound"
+            app:layout_constraintEnd_toEndOf="@+id/cycle_gauges_circle_backgound"
+            app:layout_constraintStart_toStartOf="@+id/cycle_gauges_circle_backgound"
+            app:layout_constraintTop_toTopOf="@+id/cycle_gauges_circle_backgound"
+
+            />
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="40dp"
+            android:layout_marginEnd="32dp"
+            android:layout_marginBottom="32dp"
+            android:src="@drawable/gauges_circle_without_shadow"
+            app:layout_constraintBottom_toBottomOf="@+id/gauges_cycle_bar"
+            app:layout_constraintEnd_toEndOf="@+id/gauges_cycle_bar"
+            app:layout_constraintStart_toStartOf="@+id/gauges_cycle_bar"
+            app:layout_constraintTop_toTopOf="@+id/gauges_cycle_bar" />
+
+        <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scaleType="fitXY"
+            android:src="@drawable/gauges_shadow_small"
+            app:layout_constraintBottom_toBottomOf="@+id/imageView5"
+            app:layout_constraintEnd_toEndOf="@+id/imageView5"
+            app:layout_constraintStart_toStartOf="@+id/imageView5"
+            app:layout_constraintTop_toTopOf="@+id/imageView5" />
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/gauges_blue_dotted_circle"
+            app:layout_constraintBottom_toBottomOf="@+id/imageView5"
+            app:layout_constraintEnd_toEndOf="@+id/imageView5"
+            app:layout_constraintStart_toStartOf="@+id/imageView5"
+            app:layout_constraintTop_toTopOf="@+id/imageView5" />
+
+        <TextView
+            android:id="@+id/cycle_bar_value"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/proxima_nova_regular"
+            android:text="0.0"
+            android:textColor="@color/white"
+            android:textSize="@dimen/rco_trucks_x_large_text_size"
+            app:layout_constraintBottom_toBottomOf="@+id/imageView5"
+            app:layout_constraintEnd_toEndOf="@+id/imageView5"
+            app:layout_constraintStart_toStartOf="@+id/imageView5"
+            app:layout_constraintTop_toTopOf="@+id/imageView5" />
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/proxima_nova_regular"
+            android:text="HRS"
+            android:textColor="@color/side_panel_active_progress_color"
+            android:textSize="@dimen/rco_trucks_x_small_text_size"
+            app:layout_constraintEnd_toEndOf="@+id/cycle_bar_value"
+            app:layout_constraintStart_toStartOf="@+id/cycle_bar_value"
+            app:layout_constraintTop_toBottomOf="@+id/cycle_bar_value" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="14dp"
+            android:fontFamily="@font/proxima_nova_bold"
+            android:text="Cycle"
+            android:textColor="@color/white"
+
+            android:textSize="@dimen/rco_trucks_small_text_size"
+            app:layout_constraintBottom_toBottomOf="@+id/cycle_gauges_circle_backgound"
+            app:layout_constraintEnd_toEndOf="@+id/cycle_gauges_circle_backgound"
+            app:layout_constraintStart_toStartOf="@+id/cycle_gauges_circle_backgound" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

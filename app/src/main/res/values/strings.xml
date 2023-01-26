@@ -1,0 +1,1618 @@
+<resources>
+    <!-- General -->
+
+    <string name="app_name">RCO Trucks</string>
+    <string name="error_unable_to_login">Invalid username or password.\n\nPlease try again or contact support to have your account checked.</string>
+    <string name="error_unable_to_sync_app">Unable to sync. Please check your connectivity and try again or contact support.</string>
+
+    <string name="error_map_connectivity">Unable to load base map, please check your connection and try again.</string>
+    <string name="error_map_connectivity_title">Map view</string>
+
+    <string name="error_gauges_connectivity">Unable to load gauges view, please check your connection and try again.</string>
+    <string name="error_gauges_connectivity_title">Gauges view</string>
+
+    <string name="error_data_load">Unable to access data. Please try to sync, clear application data or contact support.</string>
+    <string name="error_lost_Connection">please check your connection and try again</string>
+
+    <!-- Dashboard -->
+
+    <string name="dashboard_title_annual_inspection">ANNUAL INSPECTION</string>
+    <string name="dashboard_title_bol">BOL</string>
+    <string name="dashboard_title_camerarear">CAMERA REAR</string>
+
+    <string name="dashboard_title_delivery">DELIVERY</string>
+    <string name="dashboard_title_drive">DRIVE</string>
+    <string name="dashboard_title_map">MAP</string>
+    <!--    <string name="dashboard_title_dvir">PRETRIP CHECK</string>-->
+    <string name="dashboard_title_dvir">PRETRIP</string>
+    <string name="dashboard_title_dvir_update">PRETRIP UPDATE</string>
+
+    <string name="dashboard_title_driver_settings">DRIVER SETTINGS</string>
+    <string name="dashboard_title_fuel_receipts">FUEL RECEIPTS</string>
+    <string name="dashboard_title_receipts">RECEIPTS</string>
+    <string name="dashboard_title_gauges">GAUGES</string>
+    <string name="dashboard_title_streaming">STREAMING</string>
+
+    <string name="dashboard_title_settings">SETTINGS</string>
+    <!--    <string name="dashboard_title_syncstatusyellow">SYNC STATUS</string>-->
+    <string name="dashboard_title_syncstatusyellow">SYNC</string>
+    <string name="dashboard_title_sync_now">SYNC NOW</string>
+    <string name="dashboard_title_log_book">LOGBOOK</string>
+    <string name="dashboard_title_forms">FORMS</string>
+    <string name="dashboard_title_trucks">Trucks</string>
+    <string name="dashboard_title_feedback">FEEDBACK</string>
+    <string name="dashboard_title_help">HELP</string>
+
+    <string name="dvirs_title">Pretrip Check</string>
+    <string name="fuel_receipts_title">Fuel Receipts</string>
+    <string name="dashboard_title_ifta">IFTA</string>
+    <string name="dashboard_title_logout">LOGOUT</string>
+
+    <string name="drive_title">Drive</string>
+
+    <string name="diagnosticslist_title">Diagnostics</string>
+    <string name="malfunctionslist_title">Malfunctions</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="settings_information_title">Information</string>
+    <string name="forms_title">Forms</string>
+    <string name="trucks_title">Trucks</string>
+
+    <string name="camera_prompt">SelectPhoto or take photo</string>
+    <string name="item_select">Select</string>
+    <string name="item_take">Take</string>
+    <string name="item_cancel">Cancel</string>
+
+    <string name="mid_night">MID NIGHT</string>
+    <string name="noon">NOON</string>
+    <string name="total_hours">Total hours: 24</string>
+    <string name="violations">Violations</string>
+
+    <string name="driving_beyond_11_id">395.3A3-PROP</string>
+    <string name="driving_beyond_11_desc">Driving beyond 11 hour driving limit. (Property Carrying Vehicle)</string>
+
+    <string name="driving_beyond_8_id">395.3(a)(3)(ii)</string>
+    <string name="driving_beyond_8_desc">Driving beyond 8 hour driving limit since the end of the last on duty, off duty, or sleeper period of at least 30 minutes</string>
+
+    <string name="driving_beyond_14_id">395.3A2-PROP</string>
+    <string name="driving_beyond_14_desc">Driving beyond 14 hour duty period (Property carrying vehicle)</string>
+
+    <string name="sleeper_berth_7_id">395.1(a)(ii)(B)</string>
+    <string name="sleeper_berth_7_desc">In the previous shift you didn\'t have 7 continuous hours Sleeper Berth</string>
+
+    <string name="sleeper_berth_10_id">395.1(a)(ii)(C)</string>
+    <string name="sleeper_berth_10_desc">In the previous shift you didn\'t have 10 totals hours Sleeper Berth</string>
+
+
+    <string name="home">Home</string>
+    <string name="previous">Prev</string>
+    <string name="certify">Certify</string>
+    <string name="recertify">ReCertify</string>
+    <string name="sign">Sign</string>
+    <string name="next">Next</string>
+    <string name="certify_title">\"Certify : \"</string>
+    <string name="certify_msg">I hereby certify that my data entries and my record of duty status for this 24‐hour period are true and correct.</string>
+    <string name="notification_title">Notification</string>
+    <string name="certify_first_msg">Please Certify first!</string>
+    <string name="not_ready">Not Ready</string>
+
+    <string name="agree">Agree</string>
+    <string name="text_ta">N/A</string>
+    <string name="text_pilot">N/A</string>
+    <string name="text_rest">N/A</string>
+    <string name="text_love">N/A</string>
+
+    <string name="text_drive">Driving: %s hrs</string>
+    <string name="text_break">Break: %s hrs</string>
+    <string name="text_miles">%d miles</string>
+    <string name="text_cycle">Cycle: %s hrs</string>
+    <string name="text_shift">Shift: %s hrs</string>
+
+
+    <string name="forms_title_driver_medical">Driver Medical</string>
+    <string name="forms_title_dm">DM</string>
+    <string name="forms_title_skill_performance">Skill Performance Evaluation(SPE)</string>
+    <string name="forms_title_skill_performance_just">Skill Performance Evaluation</string>
+    <string name="forms_title_spe">SPE</string>
+    <string name="forms_title_employment_record">Employment Record</string>
+    <string name="forms_title_der">DER</string>
+    <string name="forms_title_application">Application for Employment</string>
+    <string name="forms_title_driver_application">Driver Application</string>
+    <string name="forms_title_driver_violation">Driver Violation</string>
+
+    <string name="field_title_app_type">Application Type </string>
+    <string name="field_title_desc_of_op">Description of operation</string>
+    <string name="field_title_desc_of_veh">Description of vehicle\'s</string>
+    <string name="field_title_instructor">Instructor</string>
+
+    <!--    <string name="field_unilateral">Unilateral</string>-->
+    <string name="field_unilateral_value">Unilateral</string>
+    <string name="field_unilateral"> </string>
+    <string name="field_joint">Joint</string>
+    <string name="field_last_name">Last Name</string>
+    <string name="field_first_name">First Name</string>
+    <string name="field_maiden_name">Maiden Name</string>
+    <string name="field_sex">Sex</string>
+    <string name="field_address">Address</string>
+    <string name="field_state">State</string>
+    <string name="field_city">City</string>
+    <string name="field_zipcode">Zipcode</string>
+    <string name="field_home_phone">Home Phone</string>
+    <string name="field_cell">Cell</string>
+    <string name="field_drivers_license">Driver\'s license#</string>
+    <string name="field_drivers_license_state">Driver\'s license state</string>
+    <string name="field_description_of_impairment">Description of impairment or amputation</string>
+    <string name="field_type_of_prosthesis_worn">Type of prothesis worn</string>
+    <string name="field_states_of_operation">States of operation</string>
+    <string name="field_type_of_cargo">Type of cargo</string>
+    <string name="field_average_period_of_driving_time">Average period</string>
+    <string name="field_type_of_operation">Type of operation</string>
+    <string name="field_num_of_years_experience">Number of years experience driving type</string>
+    <string name="field_num_of_years_driving">Number of years driving all types of vehicles</string>
+    <string name="field_vehicle_type">Vehicle type</string>
+    <string name="field_bus_seating_capacity">Bus Seating Capacity</string>
+    <string name="field_make">Make</string>
+    <string name="field_year">Year</string>
+    <string name="field_description_of_vehicles">Description of vehicle\'s</string>
+    <string name="field_transmission_type">Transmission Type</string>
+    <string name="field_num_of_forward_speeds">Number of Forward Speeds</string>
+    <string name="field_rear_axle_speed">Rear Axle Speed</string>
+    <string name="field_type_brake_system">Type Brake System</string>
+    <string name="field_steering">Steering</string>
+    <string name="field_semitrailers">Semitrailers of full trailers</string>
+    <string name="field_description_of_trailers">Description of trailers</string>
+    <string name="field_description_of_vehicle_modifications">Description of vehicle modifications</string>
+    <string name="field_instructor">Instructor</string>
+    <string name="field_instructor_first_name">Instructor First Name</string>
+    <string name="field_instructor_last_name">Instructor Last Name</string>
+    <string name="field_instructor_driver_license_num">Instructor Driver license number</string>
+    <string name="field_instructor_location">Location</string>
+
+    <string name="dialog_title_trucks">Trucks</string>
+    <string name="app_version">Version \n %d (%s)</string>
+    <string name="app_version2">Version %d (%s)</string>
+
+    <string name="field_title_last_employer">Last Employer</string>
+    <string name="field_title_second_last_employer">Second Employer</string>
+    <string name="field_title_third_last_employer">Third Employer</string>
+    <string name="field_title_driver">Driver</string>
+
+
+    <string name="field_last_employer_name">Last employer name</string>
+    <string name="field_last_employer_address">Last employer address</string>
+    <string name="field_last_employer_city">Last employer city</string>
+    <string name="field_last_employer_state">Last employer state</string>
+    <string name="field_last_employer_zip_code">Last employer zipcode</string>
+    <string name="field_last_employer_telephone_number">Last employer telephone number</string>
+    <string name="field_last_employer_reason_for_leaving">Last employer reasons for leaving</string>
+    <string name="field_second_last_employer_name">Second last employer name</string>
+    <string name="field_second_last_employer_address">Second last employer address</string>
+    <string name="field_second_last_employer_city">Second last employer city</string>
+    <string name="field_second_last_employer_state">Second last employer state</string>
+    <string name="field_second_last_employer_zip_code">Second last employer zipcode</string>
+    <string name="field_second_last_employer_telephone_number">Second last employer telephone number</string>
+    <string name="field_second_last_employer_reason_for_leaving">Second last employer reasons for leaving</string>
+    <string name="field_third_last_employer_name">Third last employer name</string>
+    <string name="field_third_last_employer_address">Third last employer address</string>
+    <string name="field_third_last_employer_city">Third last employer city</string>
+    <string name="field_third_last_employer_state">Third last employer state</string>
+    <string name="field_third_last_employer_zip_code">Third last employer zipcode</string>
+    <string name="field_third_last_employer_telephone_number">Third last employer telephone number</string>
+    <string name="field_third_last_employer_reason_for_leaving">Third last employer reasons for leaving</string>
+    <string name="field_date">Date</string>
+    <string name="field_driver_first_name">Driver first name</string>
+    <string name="field_driver_last_name">Driver last name</string>
+    <string name="field_driver_mobile_number">Driver mobile phone number</string>
+    <string name="field_driver_license_number">Driver license number</string>
+    <string name="field_position_held_1">Position held 1</string>
+    <string name="field_position_held_2">Position held 2</string>
+    <string name="field_position_held_3">Position held 3</string>
+    <string name="field_last_employer_from_date">From </string>
+    <string name="field_last_employer_to_date">To </string>
+
+
+    <string name="field_carrier_name">Carrier Name</string>
+    <string name="field_doctors_name">Doctors Name</string>
+    <string name="field_sPE_applicant_name">SPE Applicant Name</string>
+    <string name="field_vehicleTypeStraightTruck">Straight Truck</string>
+    <string name="field_vehicleTypeTruckTrailerover10klbs">Truck Trailer over 10k lbs</string>
+    <string name="field_vehicleTypeTrucklessthan10klbsandhazardousmaterials">Truck less than 10k lbs and hazardous materials</string>
+    <string name="field_vehicleTypeTruckover10klbs">Truck over 10k lbs</string>
+    <string name="field_vehicleTypeMotorHome10klbs">Motor Home 10k lbs</string>
+    <string name="field_vehicleTypeTractorTrailer">Tractor Trailer</string>
+    <string name="field_vehicleTypePassengerVehicle">Passenger Vehicle</string>
+    <string name="field_vehicleTypePassengerSeatingCapacity">Passenger Seating Capacity</string>
+    <string name="field_vehicleTypePassengerMotorCoach">Passenger Motor Coach</string>
+    <string name="field_vehicleTypePassengerBus">Passenger Bus</string>
+    <string name="field_vehicleTypePassengerVan">Passenger Van</string>
+    <string name="field_vehicleTypeshortrelaydrives">Short relay drives</string>
+    <string name="field_vehicleTypelongrelaydrives">Long relay drives</string>
+    <string name="field_vehicleTypestraightthrough">Straight through</string>
+    <string name="field_vehicleTypenightsawayfromhome">Nights away from home</string>
+    <string name="field_vehicleTypesleeperteamdrives">Sleeper team drives</string>
+    <string name="field_vehicleTypenumberofnightsawayfromhome">Number of nights away from home</string>
+    <string name="field_vehicleTypeclimbinginandoutoftruck">Climbing in and out of truc</string>
+    <string name="field_environmentalFactorsabruptduty">Abrupt duty</string>
+    <string name="field_environmentalFactorssleepdeprivation">Sleep deprivation</string>
+    <string name="field_environmentalFactorsunbalancedwork">Unbalanced work</string>
+    <string name="field_environmentalFactorstemperature">Temperature</string>
+    <string name="field_environmentalFactorslongtrips">Long trips</string>
+    <string name="field_environmentalFactorsshortnotice">Short notice</string>
+    <string name="field_environmentalFactorstightdelivery">Tight delivery</string>
+    <string name="field_environmentalFactorsdelayenroute">Delay en route</string>
+    <string name="field_environmentalFactorsothers">Others</string>
+    <string name="field_physicalDemandGearShifting">Gear Shifting</string>
+    <string name="field_physicalDemandNumberspeedtransmission">Number speed  transmission</string>
+    <string name="field_physicalDemandsemiautomatic">Semi automatic</string>
+    <string name="field_physicalDemandfullyautomatic">Fully automatic</string>
+    <string name="field_physicalDemandsteeringwheelcontrol">Steering wheel control</string>
+    <string name="field_physicalDemandbrakeacceleratoroperation">Brake accelerator operation</string>
+    <string name="field_physicalDemandvarioustasks">Various tasks</string>
+    <string name="field_physicalDemandbackingandparking">Backing and parking</string>
+    <string name="field_physicalDemandvehicleinspections">Vehicle inspections</string>
+    <string name="field_physicalDemandcargohandling">Cargo handling</string>
+    <string name="field_physicalDemandcoupling">Coupling</string>
+    <string name="field_physicalDemandchangingtires">Changing tires</string>
+    <string name="field_physicalDemandvehiclemodifications">Vehicle modifications</string>
+    <string name="field_physicalDemandvehiclemodnotes">Vehicle modnotes</string>
+    <string name="field_muscleStrengthyesno">Yes/No</string>
+    <string name="field_muscleStrengthrightupperextremity">Right upper extremity</string>
+    <string name="field_muscleStrengthleftupperextremity">Left upper extremity</string>
+    <string name="field_muscleStrengthrightlowerextremity">Right lower extremity</string>
+    <string name="field_muscleStrengthleftlowerextremity">Left lower extremity</string>
+    <string name="field_mobilityyesno">Yes/No</string>
+    <string name="field_mobilityrightupperextremity">Right upper extremity</string>
+    <string name="field_mobilityleftupperextremity">Left upper extremity</string>
+    <string name="field_mobilityrightlowerextremity">Right lower extremity</string>
+    <string name="field_mobilityleftlowerextremity">Left lower extremity</string>
+    <string name="field_mobilitytrunk">Trunk</string>
+    <string name="field_stabilityyesno">Yes/No</string>
+    <string name="field_stabilityrightupperextremity">rRight upper extremity</string>
+    <string name="field_stabilityleftupperextremity">Left upper extremity</string>
+    <string name="field_stabilityrightlowerextremity">Right lower extremity</string>
+    <string name="field_stabilityleftlowerextremity">Left lower extremity</string>
+    <string name="field_stabilitytrunk">Trunk</string>
+    <string name="field_impairmenthand">Impairment Hand</string>
+    <string name="field_impairmentupperlimb">Impairment Upper limb</string>
+    <string name="field_amputationhand">Amputation Hand</string>
+    <string name="field_amputationpartial">Amputation Partial</string>
+    <string name="field_amputationfull">Amputation Full</string>
+    <string name="field_amputationupperlimb">Amputation Upper limb</string>
+    <string name="field_powergriprightyesno">Power Right yes/no</string>
+    <string name="field_powergripleftyesno">Power Left yes/no</string>
+    <string name="field_surgicalreconstructionyesno">Surgical reconstruction yes/no</string>
+    <string name="field_hasupperimpairment">Has upper impairment</string>
+    <string name="field_haslowerlimbimpairment">Has lower limb impairment</string>
+    <string name="field_hasrightimpairment">Has right impairment</string>
+    <string name="field_hasleftimpairment">Has left impairment</string>
+    <string name="field_hasupperamputation">Has upper amputation</string>
+    <string name="field_haslowerlimbamputation">Has lower limb amputation</string>
+    <string name="field_hasrightamputation">Has right amputation</string>
+    <string name="field_hasleftamputation">Has left amputation</string>
+    <string name="field_appropriateprosthesisyesno">Appropriate prosthesis yes/no</string>
+    <string name="field_appropriateterminaldeviceyesno">Appropriate terminal device yes/no</string>
+    <string name="field_prosthesisfitsyesno">Prosthesis fits yes/no</string>
+    <string name="field_useprostheticproficientlyyesno">Use prosthetic proficiently yes/no</string>
+    <string name="field_abilitytopowergraspyesno">Ability to power grasp yes/no</string>
+    <string name="field_prostheticrecommendations">Prosthetic recommendations</string>
+    <string name="field_prostheticclinicaldescription">Prosthetic clinical description</string>
+    <string name="field_medicalconditionsinterferewithtasksyesno">Medical conditions interfere with tasks yes/no</string>
+    <string name="field_medicalconditionsinterferewithtasksexplanation">Medical conditions interfere with tasks explanation</string>
+    <string name="field_medicalfindingsandevaluation">Medical findings and evaluation</string>
+    <string name="field_physicianlastname">Last name</string>
+    <string name="field_physicianfirstname">First name</string>
+    <string name="field_physicianmiddlename">Middle name</string>
+    <string name="field_physicianaddress">Address</string>
+    <string name="field_physiciancity">City</string>
+    <string name="field_physicianstate">State</string>
+    <string name="field_physicianzipcode">Zipcode</string>
+    <string name="field_physiciantelephonenumber">Telephone number</string>
+    <string name="field_physicianalternatenumber">Alternate number</string>
+    <string name="field_physiatrist">Physiatrist</string>
+    <string name="field_orthopedicsurgeon">Orthopedic surgeon</string>
+    <string name="field_boardCertifiedyesno">Board Certified yes/no</string>
+    <string name="field_boardEligibleyesno">Board Eligible yes/no</string>
+    <string name="field_physiciandate">Date</string>
+    <string name="field_vehicleTypeslocaldeliveries">Local deliveries</string>
+    <string name="field_physicalDemandmountingsnowchains">Mounting snow chains</string>
+
+    <string name="field_title_summury">Summary</string>
+    <string name="field_title_vehicle_type">A. Vehicle Type</string>
+    <string name="field_title_environmental_factors">B. environmental factors</string>
+    <string name="field_title_physical_demand">C. Physical demand</string>
+    <string name="field_title_muscle_strength">D. Muscle Strength</string>
+    <string name="field_title_mobility">E. Mobility</string>
+    <string name="field_title_stability">F. Stability</string>
+    <string name="field_title_physician">Physician</string>
+    <string name="field_title_part_three">Medical</string>
+
+    <string name="field_application_for_employment">Application For Employment</string>
+    <string name="field_company_name">Company Name</string>
+    <string name="field_maidden_name">Maiden Name</string>
+    <string name="field_maiddle_name">Middle Name</string>
+    <string name="field_maiddle_security_number">SOCIAL SECURITY NUMBER:</string>
+    <string name="field_how_long">How Long ?</string>
+
+    <string name="field_address_for_the_past_three_years">Address for the past three years</string>
+
+    <string name="field_driving_experience_and_qualifications">Driving experience and qualifications</string>
+    <string name="field_qualification_name">Name</string>
+    <string name="field_qualification_state">STATE</string>
+    <string name="field_qualification_license_number">LICENSE NO.</string>
+    <string name="field_qualification_license_type">TYPE</string>
+    <string name="field_qualification_experience_date">EXPIRATION DATE</string>
+
+    <string name="field_driving_experience">Driving experience</string>
+    <string name="field_driving_experience_class">CLASS OF EQUIPMENT</string>
+    <string name="field_driving_experience_equipment">TYPE OF EQUIPMENT (VAN, TANK, FLAT, ETC.)</string>
+    <string name="field_driving_experience_date_from">DATE FROM</string>
+    <string name="field_driving_experience_date_to">DATE TO</string>
+    <string name="field_driving_experience_miles">APPROX.NO.OF MILES (TOTAL)</string>
+
+    <string name="field_accident_record_for_past_three_years">Accident record for past 3 years</string>
+    <string name="field_accident_dates">DATES</string>
+    <string name="field_accident_nature_of_accident">NATURE OF ACCIDENT (HEAD-ON, REAR-END, UPSET, ETC</string>
+    <string name="field_accident_fatalities">FATALITIES</string>
+    <string name="field_accident_injuries">INJURIES</string>
+
+    <string name="field_traffic_convictions">TRAFFIC CONVICTIONS AND FORFEITURES FOR THE PAST 3 YEARS (OTHER THAN PARKING VIOLATIONS)</string>
+    <string name="field_traffic_convictions_locations">LOCATIONS</string>
+    <string name="field_traffic_convictions_dates">DATES</string>
+    <string name="field_traffic_convictions_charge">CHARGE</string>
+    <string name="field_traffic_convictions_penalty">PENALTY</string>
+
+    <string name="field_traffic_convictions_question_a">Have you ever been denied a license, permit or privilege to operate a motor vehicle? (YES)</string>
+    <string name="field_traffic_convictions_question_b">Have you ever been denied a license, permit or privilege to operate a motor vehicle? (No)</string>
+    <string name="field_traffic_convictions_question_details">IF THE ANSWER TO EITHER <b>A</b> OR <b>B</b> IS YES, ATTACH A STATEMENT GIVING DETAILS</string>
+
+
+    <string name="field_employmentDate">Employment Date</string>
+    <string name="field_terminalCity">Terminal City </string>
+    <string name="field_terminalState">Terminal State </string>
+    <string name="field_driverLicenseExpirationDate">Driver License Expiration Date </string>
+    <string name="field_violationsthisyear">Violations this year </string>
+    <string name="field_carrierAddress">Carrier Address </string>
+    <string name="field_reviewedBy">ReviewedBy</string>
+    <string name="field_reviewedDate">Reviewed Date </string>
+    <string name="field_title">Title </string>
+
+    <string name="field_violation_date">Violation Date</string>
+    <string name="field_violationOffense">Violation Offense</string>
+    <string name="field_violationLocation">Violation Location</string>
+    <string name="field_violationtypeofvehicle">Violation type of vehicle</string>
+
+    <string name="field_title_certification_of_violation">Certification of Violations</string>
+    <string name="field_title_violation_desc">Violations Desc</string>
+
+    <string name="txt_on_duty">On Duty</string>
+    <string name="txt_off_duty">Off Duty</string>
+    <string name="txt_sleeper">Sleeper</string>
+    <string name="txt_driving">Driving</string>
+    <string name="txt_break">Break</string>
+    <string name="exit">Exit</string>
+    <string name="streaming_not_working">Streaming not working now …</string>
+
+    <string name="sign_in">SignIn</string>
+    <string name="welcome_back">Welcome back!</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="remember_password">Remember password</string>
+    <string name="connect">Connect</string>
+    <string name="version_number">Version 1 (123)</string>
+
+    <string name="authenticating_user">Authenticating User…</string>
+    <string name="syncing_records">Syncing records…</string>
+    <string name="refreshing">Refreshing…</string>
+    <string name="login">Login</string>
+    <string name="GPS">GPS</string>
+    <string name="alphabetM">M</string>
+    <string name="alphabetD">D</string>
+
+    <string name="location">Location</string>
+    <string name="enable_location">Location(GPS) is disabled. To enable again go to settings.</string>
+    <string name="settings">Settings</string>
+
+    <string name="no_internet_connection">No Internet connection!</string>
+    <string name="connection">Connection</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="break_title">BREAK</string>
+    <string name="minutes">minutes</string>
+    <string name="end_break">End Break</string>
+
+    <string name="sleeper_title">SLEEPER</string>
+    <string name="end_sleeper">Exit Sleeper</string>
+
+    <string name="cycle_counter_title">REST</string>
+
+    <string name="date">Date</string>
+
+
+    <string name="options">Options</string>
+    <string name="unidentified_profile">Unidentified Profile</string>
+    <string name="transfer_RODS">Transfer RODS</string>
+    <string name="email">Email</string>
+    <string name="print">Print</string>
+    <string name="duty_and_eld_events">Duty &amp; ELD Events</string>
+    <string name="certified_elds">Certified ELDs</string>
+    <string name="eld_edit">ELD Edit</string>
+    <string name="eld_monitor_service">ELD Monitor Service</string>
+    <string name="hide_violations">Hide Violations</string>
+
+    <string name="via_email">Via Email</string>
+    <string name="via_web_service">Via Web Service</string>
+
+    <string name="comment">Comment</string>
+    <string name="please_enter_output_file_comment">Please enter Output File Comment</string>
+    <string name="send">Send</string>
+
+    <string name="driver">Driver</string>
+    <string name="co_driver">Co-driver</string>
+    <string name="co_driver_with_space">Co Driver</string>
+
+    <string name="driver_current_eld_account">Driver (Current ELD Account)</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="zip_code">Zip Code</string>
+    <string name="state">State</string>
+    <string name="exempt">Exempt</string>
+    <string name="map_controls">Map Controls</string>
+    <string name="rest_station">Rest Station</string>
+    <string name="gas_station">Gas Station</string>
+    <string name="zoom">Zoom</string>
+    <string name="eld">ELD</string>
+    <string name="name">Name</string>
+    <string name="id">ID</string>
+    <string name="carrier">Carrier</string>
+    <string name="truck_vin">Truck VIN</string>
+    <string name="rules">Rules</string>
+
+    <string name="co_driver_authentication">Co Driver Authentication</string>
+    <string name="please_enter_username_and_password">Please enter username and password</string>
+    <string name="authentication">Authentication</string>
+
+    <string name="work">Work</string>
+    <string name="status">Status</string>
+    <string name="drop">Drop</string>
+    <string name="pickup">Pickup</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="trailer_number">Trailer Number</string>
+    <string name="is_drop_trailer">Drop trailer?</string>
+    <string name="is_pickup_trailer">Pickup trailer?</string>
+
+    <string name="end_cycle">End Cycle</string>
+    <string name="start_exempt_road">Start Exempt Road</string>
+    <string name="send_log_data">Send Log Data</string>
+    <string name="hide_gas_stations">Hide Gas Stations</string>
+    <string name="hide_rest_areas">Hide Rest Areas</string>
+    <string name="pickup_trailer">Pickup Trailer</string>
+    <string name="drop_trailer">Drop Trailer</string>
+
+    <string name="events">Events</string>
+    <string name="save">Save</string>
+
+    <string name="cmv_power_unit_number_title">CMV POWER UNIT NUMBER</string>
+    <string name="cmv_power_unit_number_description">This data element refers to the identifier the motor carrier uses for the CMVs in their course of business.</string>
+
+    <string name="trailer_number_capitalize">TRAILER NUMBER</string>
+    <string name="trailer_number_description">This data element refers to the identifier(s) the motor carrier uses for the trailers in their normal course of business.</string>
+
+    <string name="shipping_info">SHIPPING INFO</string>
+    <string name="shipping_info_description">Shipping document number the motor carrier uses in their system and dispatch documents.</string>
+
+    <string name="comments_title">COMMENTS</string>
+    <string name="comments_description">This is the textual note related to a record, update or edit capturing the document or annotation a driver or authorised support personnel may input to the ELD.</string>
+
+    <string name="pre_trip_check">PreTrip Check</string>
+
+    <string name="title">Title</string>
+    <string name="more_from_recent_history">More from recent history</string>
+
+    <string name="preview">Preview</string>
+    <string name="plates">Plates</string>
+    <string name="vin">Vin</string>
+
+    <string name="check_detail">*Check Any Defective Item and Give Details Under Remarks.</string>
+    <string name="delete">Delete</string>
+
+    <string name="us_and_gallons">US$ &amp; gallons</string>
+    <string name="can_and_liters">CAN$ &amp; liters</string>
+    <string name="pesos_and_liters">Pesos$ &amp; liters</string>
+
+    <string name="amount">AMOUNT ($)</string>
+    <string name="gallons">GALLONS</string>
+    <string name="amountInCans">AMOUNT (CAN$)</string>
+    <string name="amountInPeso">AMOUNT (PESO)</string>
+    <string name="liters">LITERS</string>
+    <string name="fuel_type">FUEL TYPE</string>
+    <string name="sales_tax">SALES TAX</string>
+    <string name="fuel_code">FUEL TYPE</string>
+    <string name="vehicle_license_number">VEHICLE LICENSE NUMBER</string>
+    <string name="odometer">ODOMETER</string>
+    <!--    <string name="vendor_name">VENDOR NAME</string>-->
+    <string name="vendor_name">NAME</string>
+    <string name="vendor_state">VENDOR STATE</string>
+    <string name="state_in_cap">STATE</string>
+    <string name="date_in_capital">DATE</string>
+
+    <string name="dialog_permission_title">Grant Permissions</string>
+    <string name="dialog_permission_message">This app needs permission to use this feature. You can grant them in app settings.</string>
+    <string name="go_to_settings">GOTO SETTINGS</string>
+
+    <string name="lbl_set_profile_photo">Set profile image</string>
+    <string name="lbl_take_camera_picture">Take a picture</string>
+    <string name="lbl_choose_from_gallery">Choose from gallery</string>
+    <string name="toast_image_intent_null">Image picker option is missing!</string>
+
+
+    <string name="location_text">LOCATION</string>
+    <string name="state_text">STATE</string>
+    <string name="new_event">New Event</string>
+    <string name="start_time">START TIME</string>
+    <string name="end_time">END TIME</string>
+    <string name="location_not_set">Location Not Set</string>
+    <string name="state_options">Off Duty, Sleeper, Driving, On Duty (Not Driving)</string>
+    <string name="date_demo">05/15/2022</string>
+
+    <string name="eld_not_detected">ELD not detected, Please check.</string>
+    <string name="ok">OK</string>
+
+    <string name="searchMaps">Search Maps</string>
+
+    <string name="sync_notification">Sync Notification</string>
+    <string name="sync_notification_message">Starting a full sync. Do you want to continue?</string>
+
+    <!--    Working on Huawei - Retest on samsung tab-->
+    <string name="mtrl_picker_save" description="Position Button text, default was OK">Filter</string>
+
+    <string name="today">Today</string>
+    <string name="this_week">This Week</string>
+    <string name="last_week">Last Week</string>
+    <string name="this_month">This Month</string>
+    <string name="last_month">Last Month</string>
+    <string name="this_year">This Year</string>
+    <string name="this_quarter">This Quarter</string>
+    <string name="last_quarter">Last Quarter</string>
+    <string name="all">All</string>
+    <string name="custom_range">Custom Range</string>
+
+    <string name="loading">Loading...</string>
+    <string name="searching">Searching...</string>
+
+    <string name="your">YOUR</string>
+    <string name="speed">SPEED</string>
+    <string name="limit">LIMIT</string>
+    <string name="build_code">Build Code</string>
+    <string name="build_date">Build Date</string>
+
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="ten">10</string>
+    <string name="eleven">11</string>
+    <string name="hrs">HRS</string>
+
+    <!--    <string name="side_panel_miles_placeholder">745</string>-->
+    <string name="side_panel_miles_placeholder">0</string>
+    <!--    <string name="miles_today">MILES \nToday</string>-->
+    <string name="miles_today">MILES</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="truck_number">Truck Number</string>
+    <string name="trailer_number_one">Trailer Number 1</string>
+    <string name="trailer_number_two">Trailer Number 2</string>
+    <string name="no_trailer">No Trailer</string>
+
+    <string name="toll_road">TOLL ROAD</string>
+    <string name="operator">OPERATOR</string>
+    <string name="sync">Sync</string>
+    <string name="truck_stop">TRUCK STOP</string>
+
+    <string name="drive">Drive</string>
+    <string name="logbook">Logbook</string>
+    <string name="pretrip">Pretrip</string>
+    <string name="receipts">Receipts</string>
+    <string name="no_records_found">No Receipts found for this filter!</string>
+    <string name="no_pretrip_found">No Pretrips found for this filter!</string>
+
+    <string name="drivers_vehicle_inspection_report">DRIVER\'S VEHICLE INSPECTION REPORT</string>
+    <string name="as_requiredby_the_d.o.t._federal_motor_carrier_safety_regulations">AS REQUIREDBY THE D.O.T. FEDERAL MOTOR CARRIER SAFETY REGULATIONS</string>
+    <string name="carrier_">CARRIER:</string>
+    <string name="address_">ADDRESS:</string>
+    <string name="date_">DATE:</string>
+    <string name="time_">TIME:</string>
+    <string name="check_ANY_DEFECTIVE_ITEM_AND_GIVE_DETAILS_UNDER_remarks">CHECK ANY DEFECTIVE ITEM AND GIVE DETAILS UNDER "REMARKS"</string>
+    <string name="tractor_truck_no">TRACTOR/TRUCK NO. </string>
+    <string name="odometer_reading">ODOMETER READING</string>
+    <string name="air_compressor">Air Compressor</string>
+    <string name="air_lines">Air Lines</string>
+    <string name="battery_">Battery</string>
+    <string name="brake_accessories">Brake Accessories</string>
+    <string name="brakes_">Brakes</string>
+    <string name="carburetor_">Carburetor</string>
+    <string name="clutch_">Clutch</string>
+    <string name="defroster_">Defroster</string>
+    <string name="drive_Line">Drive Line</string>
+    <string name="fifth_wheel">Fifth Wheel</string>
+    <string name="registration_">* Registration</string>
+    <string name="insurance_">* Insurance</string>
+    <string name="front_axle">Front Axle</string>
+    <string name="fuel_tanks">Fuel Tanks</string>
+    <string name="horn_">Horn</string>
+    <string name="heater_">Heater</string>
+    <string name="lights_Head_Stop_Tail_Dash_Turn_Indicators_Clearance_marker">Lights
+Head/Stop
+Tail/Dash
+Turn Indicators
+Clearance/Marker</string>
+    <string name="mirrors_">Mirrors</string>
+    <string name="oil_pressure">Oil Pressure</string>
+    <string name="on_board_recorder">On Board Recorder</string>
+    <string name="radiator_">Radiator</string>
+    <string name="rear_end">Rear End</string>
+    <string name="reflectors_">Reflectors</string>
+    <string name="safety_equipment_fire_Extinguisher_Flags_Flares_Fusees_Reflective_Triangles_Spare_Bulbs_and_Fuses_Spare_Seal_Beam">Safety Equipment
+Fire Extinguisher
+Flags/Flares/Fusees
+Reflective Triangles
+Spare Bulbs and Fuses
+Spare Seal Beam</string>
+    <string name="springs_">Springs</string>
+    <string name="starter_">Starter</string>
+    <string name="steering_">Steering</string>
+    <string name="tachograph_">Tachograph</string>
+    <string name="tires_">Tires</string>
+    <string name="transmission_">Transmission</string>
+    <string name="wheels_and_rims">Wheels and Rims</string>
+    <string name="windows_">Windows</string>
+    <string name="windshield_wipers">Windshield Wipers</string>
+    <string name="other_">Other</string>
+
+    <string name="trailer_NO_S">TRAILER NO.(S)</string>
+    <string name="reefer_HOS">Reefer HOS</string>
+    <string name="brake_Connections">Brake Connections</string>
+
+
+    <string name="Coupling_King_Pin">Coupling (King) Pin</string>
+    <string name="coupling_chains">Coupling Chains</string>
+    <string name="doors_">Doors</string>
+    <string name="hitch_">Hitch</string>
+    <string name="landing_gear_">Landing Gear</string>
+    <string name="lights_all">Lights All</string>
+    <string name="roof_">Roof</string>
+    <string name="tarpaulin_">Tarpaulin</string>
+    <string name="wheels_and_rims_">Wheels and Rims</string>
+
+    <string name="brake_connections">Brake Connections</string>
+    <string name="coupling_king_pin">Coupling (King) Pin</string>
+    <string name="remarks_">Remarks</string>
+    <string name="condition_OF_THE_ABOVE_VEHICLE_IS_satisfactory">CONDITION OF THE ABOVE VEHICLE IS SATISFACTORY</string>
+    <string name="above_DEFECTS_corrected">ABOVE DEFECTS CORRECTED</string>
+    <string name="above_DEFECTS_NEED_NOT_BE_CORRECTED_FOR_SAFE_OPERATION_OF_VEICLE">ABOVE DEFECTS NEED NOT BE CORRECTED FOR SAFE OPERATION OF VEICLE</string>
+    <string name="mechanic_signature">MECHANIC SIGNATURE:</string>
+    <string name="drivers_signature">DRIVER\'S SIGNATURE:</string>
+
+    <string name="select_all">Select All</string>
+
+
+    <!--    STRING Resource ENDED-->
+
+
+    <!--    STRING ARRAY STARTED-->
+
+
+    <string-array name="rule_list">
+        <item>Alaska 7 days 70 hours</item>
+        <item>Alaska 8 days 80 hours</item>
+        <item>California 8 days 112 hours</item>
+        <item>California 8 days 80 hours</item>
+        <item>Canada (North of 60) 14 days 120 hours</item>
+        <item>Canada (North of 60) 7 days 80 hours</item>
+        <item>Canada 14 days 120 hours</item>
+        <item>Canada 7 days 70 hours</item>
+        <item>Short Haul</item>
+        <item>Texas 7 days 70 hours</item>
+        <item>United States 7 days 60 hours</item>
+        <item>United States 8 days 70 hours</item>
+    </string-array>
+
+    <string-array name="cities_list">
+        <item>cities/cities_canada/canada_ab.json</item>
+        <item>cities/cities_canada/canada_bc.json</item>
+        <item>cities/cities_canada/canada_mb.json</item>
+        <item>cities/cities_canada/canada_nb.json</item>
+        <item>cities/cities_canada/canada_nl.json</item>
+        <item>cities/cities_canada/canada_ns.json</item>
+        <item>cities/cities_canada/canada_nt.json</item>
+        <item>cities/cities_canada/canada_nu.json</item>
+        <item>cities/cities_canada/canada_on.json</item>
+        <item>cities/cities_canada/canada_pe.json</item>
+        <item>cities/cities_canada/canada_qc.json</item>
+        <item>cities/cities_canada/canada_sk.json</item>
+        <item>cities/cities_canada/canada_yt.json</item>
+        <item>cities/cities_mexico/mexico_mex.json</item>
+        <item>cities/cities_us/ak.json</item>
+        <item>cities/cities_us/al.json</item>
+        <item>cities/cities_us/ar.json</item>
+        <item>cities/cities_us/az.json</item>
+        <item>cities/cities_us/ca.json</item>
+        <item>cities/cities_us/co.json</item>
+        <item>cities/cities_us/ct.json</item>
+        <item>cities/cities_us/dc.json</item>
+        <item>cities/cities_us/de.json</item>
+        <item>cities/cities_us/fl.json</item>
+        <item>cities/cities_us/ga.json</item>
+        <item>cities/cities_us/hi.json</item>
+        <item>cities/cities_us/ia.json</item>
+        <item>cities/cities_us/id.json</item>
+        <item>cities/cities_us/il.json</item>
+        <item>cities/cities_us/in.json</item>
+        <item>cities/cities_us/ks.json</item>
+        <item>cities/cities_us/ky.json</item>
+        <item>cities/cities_us/la.json</item>
+        <item>cities/cities_us/ma.json</item>
+        <item>cities/cities_us/md.json</item>
+        <item>cities/cities_us/me.json</item>
+        <item>cities/cities_us/mi.json</item>
+        <item>cities/cities_us/mn.json</item>
+        <item>cities/cities_us/mo.json</item>
+        <item>cities/cities_us/ms.json</item>
+        <item>cities/cities_us/mt.json</item>
+        <item>cities/cities_us/nc.json</item>
+        <item>cities/cities_us/nd.json</item>
+        <item>cities/cities_us/ne.json</item>
+        <item>cities/cities_us/nh.json</item>
+        <item>cities/cities_us/nj.json</item>
+        <item>cities/cities_us/nm.json</item>
+        <item>cities/cities_us/nv.json</item>
+        <item>cities/cities_us/ny.json</item>
+        <item>cities/cities_us/oh.json</item>
+        <item>cities/cities_us/ok.json</item>
+        <item>cities/cities_us/or.json</item>
+        <item>cities/cities_us/pa.json</item>
+        <item>cities/cities_us/pr.json</item>
+        <item>cities/cities_us/ri.json</item>
+        <item>cities/cities_us/sc.json</item>
+        <item>cities/cities_us/sd.json</item>
+        <item>cities/cities_us/tn.json</item>
+        <item>cities/cities_us/tx.json</item>
+        <item>cities/cities_us/ut.json</item>
+        <item>cities/cities_us/va.json</item>
+        <item>cities/cities_us/vt.json</item>
+        <item>cities/cities_us/wa.json</item>
+        <item>cities/cities_us/wi.json</item>
+        <item>cities/cities_us/wv.json</item>
+        <item>cities/cities_us/wy.json</item>
+    </string-array>
+
+
+    <string-array name="fuel_types">
+        <item>01 Diesel</item>
+        <item>02 Gasoline</item>
+        <item>03 Ethanol</item>
+        <item>04 Propane</item>
+        <item>05 Compressed Natural Gas (CNG)</item>
+        <item>06 A-55</item>
+        <item>07 E-85</item>
+        <item>08 M-85</item>
+        <item>09 Gasohol</item>
+        <item>10 LNG</item>
+        <item>11 Methanol</item>
+        <item>12 Biodiesel</item>
+        <item>13 Electricity</item>
+        <item>14 Hydrogen</item>
+    </string-array>
+
+
+    <string-array name="fuel_types_update">
+        <item>Diesel</item>
+        <item>Gasoline</item>
+        <item>Ethanol</item>
+        <item>Propane</item>
+        <item>Compressed Natural Gas (CNG)</item>
+        <item>A-55</item>
+        <item>E-85</item>
+        <item>M-85</item>
+        <item>Gasohol</item>
+        <item>LNG</item>
+        <item>Methanol</item>
+        <item>Biodiesel</item>
+        <item>Electricity</item>
+        <item>Hydrogen</item>
+    </string-array>
+
+
+    <string-array name="states_provinces_name">
+        <item>Alabama</item>
+        <item>Alaska</item>
+        <item>American Samoa</item>
+        <item>Arizona</item>
+        <item>Arkansas</item>
+        <item>California</item>
+        <item>Colorado</item>
+        <item>Connecticut</item>
+        <item>District Of a</item>
+        <item>Delaware</item>
+        <item>Florida</item>
+        <item>Federated States Of Micronesia</item>
+        <item>Georgia</item>
+        <item>Guam</item>
+        <item>Hawaii</item>
+        <item>Idaho</item>
+        <item>Illinois</item>
+        <item>Indiana</item>
+        <item>Iowa</item>
+        <item>Kansas</item>
+        <item>Kentucky</item>
+        <item>Louisiana</item>
+        <item>Massachusetts</item>
+        <item>Maine</item>
+        <item>Michigan</item>
+        <item>Minnesota</item>
+        <item>Mississippi</item>
+        <item>Missouri</item>
+        <item>Northern Mariana Islands</item>
+        <item>Montana</item>
+        <item>North Carolina</item>
+        <item>North Dakota</item>
+        <item>Nebraska</item>
+        <item>New Hampshire</item>
+        <item>New Jersey</item>
+        <item>New Mexico</item>
+        <item>Nevada</item>
+        <item>New York</item>
+        <item>Ohio</item>
+        <item>Oregon</item>
+        <item>Pennsylvania</item>
+        <item>Puerto Rico</item>
+        <item>Palau</item>
+        <item>Rhode Island</item>
+        <item>South Carolina</item>
+        <item>South Dakota</item>
+        <item>Tennessee</item>
+        <item>Texas</item>
+        <item>Utah</item>
+        <item>Virginia</item>
+        <item>Virgin Islands</item>
+        <item>Vermont</item>
+        <item>Washington</item>
+        <item>West Virginia</item>
+        <item>Wyoming</item>
+    </string-array>
+
+
+    <!--    <item> </item>-->
+    <string-array name="states_provinces">
+        <item>AL Alabama</item>
+        <item>AK Alaska</item>
+        <item>AS American Samoa</item>
+        <item>AZ Arizona</item>
+        <item>AR Arkansas</item>
+        <item>CA California</item>
+        <item>CO Colorado</item>
+        <item>CT Connecticut</item>
+        <item>DC District Of Columbia</item>
+        <item>DE Delaware</item>
+        <item>FL Florida</item>
+        <item>FM Federated States Of Micronesia</item>
+        <item>GA Georgia</item>
+        <item>GU Guam</item>
+        <item>HI Hawaii</item>
+        <item>ID Idaho</item>
+        <item>IL Illinois</item>
+        <item>IN Indiana</item>
+        <item>IA Iowa</item>
+        <item>KS Kansas</item>
+        <item>KY Kentucky</item>
+        <item>LA Louisiana</item>
+        <item>MA Massachusetts</item>
+        <item>ME Maine</item>
+        <item>MI Michigan</item>
+        <item>MN Minnesota</item>
+        <item>MS Mississippi</item>
+        <item>MO Missouri</item>
+        <item>MP Northern Mariana Islands</item>
+        <item>MT Montana</item>
+        <item>NC North Carolina</item>
+        <item>ND North Dakota</item>
+        <item>NE Nebraska</item>
+        <item>NH New Hampshire</item>
+        <item>NJ New Jersey</item>
+        <item>NM New Mexico</item>
+        <item>NV Nevada</item>
+        <item>NY New York</item>
+        <item>OH Ohio</item>
+        <item>OR Oregon</item>
+        <item>PA Pennsylvania</item>
+        <item>PR Puerto Rico</item>
+        <item>PW Palau</item>
+        <item>RI Rhode Island</item>
+        <item>SC South Carolina</item>
+        <item>SD South Dakota</item>
+        <item>TN Tennessee</item>
+        <item>TX Texas</item>
+        <item>UT Utah</item>
+        <item>VA Virginia</item>
+        <item>VI Virgin Islands</item>
+        <item>VT Vermont</item>
+        <item>WA Washington</item>
+        <item>WV West Virginia</item>
+        <item>WY Wyoming</item>
+    </string-array>
+
+    <string-array name="states_provinces_abbreviation">
+        <item> </item>
+        <item>AL</item>
+        <item>AK</item>
+        <item>AS</item>
+        <item>AZ</item>
+        <item>AR</item>
+        <item>CA</item>
+        <item>CO</item>
+        <item>CT</item>
+        <item>DC</item>
+        <item>DE</item>
+        <item>FL</item>
+        <item>FM</item>
+        <item>GA</item>
+        <item>GU</item>
+        <item>HI</item>
+        <item>ID</item>
+        <item>IL</item>
+        <item>IN</item>
+        <item>IA</item>
+        <item>KS</item>
+        <item>KY</item>
+        <item>LA</item>
+        <item>MA</item>
+        <item>ME</item>
+        <item>MI</item>
+        <item>MN</item>
+        <item>MS</item>
+        <item>MO</item>
+        <item>MP</item>
+        <item>MT</item>
+        <item>NC</item>
+        <item>ND</item>
+        <item>NE</item>
+        <item>NH</item>
+        <item>NJ</item>
+        <item>NM</item>
+        <item>NV</item>
+        <item>NY</item>
+        <item>OH</item>
+        <item>OR</item>
+        <item>PA</item>
+        <item>PR</item>
+        <item>PW</item>
+        <item>RI</item>
+        <item>SC</item>
+        <item>SD</item>
+        <item>TN</item>
+        <item>TX</item>
+        <item>UT</item>
+        <item>VA</item>
+        <item>VI</item>
+        <item>VT</item>
+        <item>WA</item>
+        <item>WV</item>
+        <item>WY</item>
+    </string-array>
+
+    <string-array name="country">
+        <item>US</item>
+        <item>Canada</item>
+        <item>Mexico</item>
+    </string-array>
+
+
+    <string-array name="date_filters_array">
+        <item>Today</item>
+        <item>This Week</item>
+        <item>Last Week</item>
+        <item>This Month</item>
+        <item>Last Month</item>
+        <item>This Year</item>
+        <item>This Quarter</item>
+        <item>Last Quarter</item>
+        <item>All</item>
+    </string-array>
+
+    <string-array name="vendor_name_list">
+        <item>Pilot Flying J</item>
+        <item>Loves Travel Stops</item>
+        <item>TA Travel Centers</item>
+        <item>Sapp Bros Travel Centers</item>
+        <item>Iowa 80 Walcott, IA</item>
+        <item>Jubitz Travel Center Portland, OR</item>
+        <item>Little America Flagstaff, AZ</item>
+        <item>Dysart\'s Truck Stop Bangor, ME</item>
+        <item>Big Apple Travel Center Joplin, MO</item>
+        <item>Noble\'s Truck Stop Corinth, KY</item>
+        <item>Mach 1 Frankfort, IL</item>
+        <item>Trail\'s Travel Center Albert Lea, MN</item>
+        <item>Clearwater Travel Plaza, Clearwater, MN</item>
+        <item>Johnsons Corner Truck Stop Johnstown, CO</item>
+        <item>Whiskey Pete\'s Primm, NV</item>
+    </string-array>
+
+    <string-array name="camera_choices">
+        <item>@string/item_select</item>
+        <item>@string/item_take</item>
+        <item>@string/item_cancel</item>
+    </string-array>
+
+    <string-array name="eld_header_titles_first_line">
+        <item>Record Date</item>
+        <item>USDOT#</item>
+        <item>Driver License Number</item>
+        <item>Driver License State</item>
+        <item>ELD ID</item>
+        <item>Trailer ID</item>
+    </string-array>
+
+    <string-array name="eld_header_titles_second_line">
+        <item>Time Zone</item>
+        <item>Driver Name</item>
+        <item>Co-Driver Name</item>
+        <item>ELD Manufacturer</item>
+        <item>Shipping ID</item>
+        <item>Data Diagnostic Indicators</item>
+    </string-array>
+
+    <string-array name="eld_header_titles_third_line">
+        <item>24 Period Starting Time</item>
+        <item>Driver ID</item>
+        <item>Co-Driver ID</item>
+        <item>Truck Tractor ID</item>
+        <item>Unidentified Driver Records</item>
+        <item>ELD Malfunction Indicators</item>
+    </string-array>
+
+    <string-array name="eld_header_titles_fourth_line">
+        <item>Carrier</item>
+        <item>Start End Odometer</item>
+        <item>Miles Today</item>
+        <item>Truck Tractor VIN</item>
+        <item>Exempt Driver Status</item>
+        <item>Start End Engine Hours</item>
+    </string-array>
+
+    <string-array name="eld_header_titles_fifth_line">
+        <item>Current Location</item>
+        <item> </item>
+        <item>File Comment</item>
+        <item> </item>
+        <item>Print/Display Date</item>
+        <item> </item>
+    </string-array>
+
+    <string-array name="eld_event_header">
+        <item>Time</item>
+        <item>Location</item>
+        <item>Odometer</item>
+        <item>Eng Hours</item>
+        <item>Event Type / Status</item>
+        <item>Origin</item>
+    </string-array>
+
+
+    <string-array name="driver_list">
+        <item>Alva, Fernando</item>
+        <item>Alvarez, Stephanie</item>
+        <item>Alvi, Fernando</item>
+        <item>Anderson, Dorothy</item>
+        <item>Android, Naeem</item>
+        <item>Bod, Dragos</item>
+        <item>Bod, Dragosa</item>
+        <item>Bod, Dragosa</item>
+        <item>Bod, Dragosa</item>
+        <item>Bod, Dragosa</item>
+        <item>Bod, Dragosa</item>
+        <item>Bod, Dragosa</item>
+        <item>Bod, Dragosa</item>
+        <item>Bod, Dragosa</item>
+        <item>Bod, Dragosa</item>
+        <item>Bod, Dragosa</item>
+    </string-array>
+
+    <!--    Nov 23, 2022    -   Added Fuel List -->
+    <string-array name="truck_stops_list">
+        <item> </item>
+        <item>7-Eleven</item>
+        <item>76</item>
+        <item>Alon</item>
+        <item>Ambest</item>
+        <item>Amoco</item>
+        <item>Arco</item>
+        <item>BP</item>
+        <item>Caseys</item>
+        <item>Cefco</item>
+        <item>Chevron</item>
+        <item>Circle K</item>
+        <item>Citgo</item>
+        <item>Clean Energy</item>
+        <item>Conoco</item>
+        <item>Exxon</item>
+        <item>Fast Stop</item>
+        <item>Golden Gate</item>
+        <item>Gulf</item>
+        <item>Hucks</item>
+        <item>Independent</item>
+        <item>Inland</item>
+        <item>Irving</item>
+        <item>Kangaroo</item>
+        <item>Kum &amp; Go</item>
+        <item>Kwik Fill</item>
+        <item>Kwik Star</item>
+        <item>Kwik Stop</item>
+        <item>Kwik Trip</item>
+        <item>Loves</item>
+        <item>Mapco</item>
+        <item>Road Ranger</item>
+        <item>Quick Fuel</item>
+        <item>Pilot Flying J</item>
+        <item>Phillips 66</item>
+        <item>Pemex</item>
+        <item>Pacific Pride</item>
+        <item>Noil USA</item>
+        <item>Mobil</item>
+        <item>Tesoro</item>
+        <item>TA  Petro</item>
+        <item>Sunoco</item>
+        <item>Stripes</item>
+        <item>Speedway</item>
+        <item>Sinclair</item>
+        <item>Sapp Bros</item>
+        <item>Rotten Robbie</item>
+        <item>Road Runner</item>
+        <item>Texaco</item>
+        <item>Thorntons</item>
+        <item>Valero</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="ifta_states_combined">
+        <item>AL Alabama</item>
+        <item>Alberta AB</item>
+        <item>AZ Arizona</item>
+        <item>AR Arkansas</item>
+        <item>BC British Columbia</item>
+        <item>CA California</item>
+        <item>CO Colorado</item>
+        <item>CT Connecticut</item>
+        <item>DE Delaware</item>
+        <item>FL Florida</item>
+        <item>FM Federated States Of Micronesia</item>
+        <item>GA Georgia</item>
+        <item>ID Idaho</item>
+        <item>IL Illinois</item>
+        <item>IN Indiana</item>
+        <item>IA Iowa</item>
+        <item>KS Kansas</item>
+        <item>KY Kentucky</item>
+        <item>LA Louisiana</item>
+        <item>MA Massachusetts</item>
+        <item>ME Maine</item>
+        <item>MI Michigan</item>
+        <item>MN Minnesota</item>
+        <item>MS Mississippi</item>
+        <item>MO Missouri</item>
+        <item>MP Northern Mariana Islands</item>
+        <item>MT Montana</item>
+        <item>MB Manitoba</item>
+        <item>NC North Carolina</item>
+        <item>ND North Dakota</item>
+        <item>NE Nebraska</item>
+        <item>NB New Brunswick</item>
+        <item>NH New Hampshire</item>
+        <item>NJ New Jersey</item>
+        <item>NM New Mexico</item>
+        <item>NV Nevada</item>
+        <item>NY New York</item>
+        <item>NB New Brunswick</item>
+        <item>NS Nova Scotia</item>
+        <item>NL Newfoundland and Labrador</item>
+        <item>MB Manitoba</item>
+        <item>OH Ohio</item>
+        <item>OR Oregon</item>
+        <item>OK Oklahoma</item>
+        <item>PA Pennsylvania</item>
+        <item>PE Prince Edward Island</item>
+        <item>QC Quebec</item>
+        <item>ON Ontario</item>
+        <item>SK Saskatchewan</item>
+        <item>RI Rhode Island</item>
+        <item>SC South Carolina</item>
+        <item>SD South Dakota</item>
+        <item>SK Saskatchewan</item>
+        <item>TN Tennessee</item>
+        <item>TX Texas</item>
+        <item>UT Utah</item>
+        <item>VA Virginia</item>
+        <item>VT Vermont</item>
+        <item>WA Washington</item>
+        <item>WV West Virginia</item>
+        <item>WY Wyoming</item>
+        <item>WI Wisconsin</item>
+    </string-array>
+
+
+    <string-array name="ifta_states_name">
+        <item>Alabama</item>
+        <item>Alberta</item>
+        <item>Arizona</item>
+        <item>Arkansas</item>
+        <item>British Columbia</item>
+        <item>California</item>
+        <item>Colorado</item>
+        <item>Connecticut</item>
+        <item>Delaware</item>
+        <item>Florida</item>
+        <item>Federated States Of Micronesia</item>
+        <item>Georgia</item>
+        <item>Idaho</item>
+        <item>Illinois</item>
+        <item>Indiana</item>
+        <item>Iowa</item>
+        <item>Kansas</item>
+        <item>Kentucky</item>
+        <item>Louisiana</item>
+        <item>Massachusetts</item>
+        <item>Maine</item>
+        <item>Michigan</item>
+        <item>Minnesota</item>
+        <item>Mississippi</item>
+        <item>Missouri</item>
+        <item>Northern Mariana Islands</item>
+        <item>Montana</item>
+        <item>Manitoba</item>
+        <item>North Carolina</item>
+        <item>North Dakota</item>
+        <item>Nebraska</item>
+        <item>New Brunswick</item>
+        <item>New Hampshire</item>
+        <item>New Jersey</item>
+        <item>New Mexico</item>
+        <item>Nevada</item>
+        <item>New York</item>
+        <item>New Brunswick</item>
+        <item>Nova Scotia</item>
+        <item>Newfoundland and Labrador</item>
+        <item>Manitoba</item>
+        <item>Ohio</item>
+        <item>Oregon</item>
+        <item>Oklahoma</item>
+        <item>Pennsylvania</item>
+        <item>Prince Edward Island</item>
+        <item>Quebec</item>
+        <item>Ontario</item>
+        <item>Saskatchewan</item>
+        <item>Rhode Island</item>
+        <item>South Carolina</item>
+        <item>South Dakota</item>
+        <item>Saskatchewan</item>
+        <item>Tennessee</item>
+        <item>Texas</item>
+        <item>Utah</item>
+        <item>Virginia</item>
+        <item>Vermont</item>
+        <item>Washington</item>
+        <item>West Virginia</item>
+        <item>Wyoming</item>
+        <item>Wisconsin</item>
+    </string-array>
+
+    <string-array name="ifta_states_abrevation">
+        <item>AL</item>
+        <item>AB</item>
+        <item>AZ</item>
+        <item>AR</item>
+        <item>BC</item>
+        <item>CA</item>
+        <item>CO</item>
+        <item>CT</item>
+        <item>DE</item>
+        <item>FL</item>
+        <item>FM</item>
+        <item>GA</item>
+        <item>ID</item>
+        <item>IL</item>
+        <item>IN</item>
+        <item>IA</item>
+        <item>KS</item>
+        <item>KY</item>
+        <item>LA</item>
+        <item>MA</item>
+        <item>ME</item>
+        <item>MI</item>
+        <item>MN</item>
+        <item>MS</item>
+        <item>MO</item>
+        <item>MP</item>
+        <item>MT</item>
+        <item>MB</item>
+        <item>NC</item>
+        <item>ND</item>
+        <item>NE</item>
+        <item>NB</item>
+        <item>NH</item>
+        <item>NJ</item>
+        <item>NM</item>
+        <item>NV</item>
+        <item>NY</item>
+        <item>NB</item>
+        <item>NS</item>
+        <item>NL</item>
+        <item>MB</item>
+        <item>OH</item>
+        <item>OR</item>
+        <item>OK</item>
+        <item>PA</item>
+        <item>PE</item>
+        <item>QC</item>
+        <item>ON</item>
+        <item>SK</item>
+        <item>RI</item>
+        <item>SC</item>
+        <item>SD</item>
+        <item>SK</item>
+        <item>TN</item>
+        <item>TX</item>
+        <item>UT</item>
+        <item>VA</item>
+        <item>VT</item>
+        <item>WA</item>
+        <item>WV</item>
+        <item>WY</item>
+        <item>WI</item>
+    </string-array>
+
+
+    <string-array name="date_range_filter">
+        <item>Today</item>
+        <item>Yesterday</item>
+        <item>This Week</item>
+        <item>Last Week</item>
+        <item>This Month</item>
+        <item>Last Month</item>
+        <item>This Year</item>
+        <item>Last Year</item>
+        <item>This Quarter</item>
+        <item>Last Quarter</item>
+        <item>All</item>
+        <item>Custom Range</item>
+    </string-array>
+    <!--    STRING ARRAY ENDED-->
+
+
+    <string-array name="speech_commands">
+        <!--    1.1.1   Amenities-->
+
+        <!--        These speech commands deal with the truck stops or Rest Area.-->
+        <item>How far to the Pilot</item>
+        <item>How far to the Loves</item>
+        <item>How far to the TA</item>
+        <item>How far to the Rest Area</item>
+
+        <item>How many miles to the Pilot</item>
+        <item>How many miles to the Loves</item>
+        <item>How many miles to the TA</item>
+        <item>How many miles to the Rest Area</item>
+
+        <item>What is the distance to the Pilot</item>
+        <item>What is the distance to the Loves</item>
+        <item>What is the distance to the TA</item>
+        <item>What is the distance to the Rest Area</item>
+
+        <item>What is the ETA to the Pilot</item>
+        <item>What is the ETA to the Loves</item>
+        <item>What is the ETA to the TA</item>
+        <item>What is the ETA to the Rest Area</item>
+
+        <item>How much time to the Pilot</item>
+        <item>How much time to the Loves</item>
+        <item>How much time to the TA</item>
+        <item>How much time to the Rest Area</item>
+
+        <item>How many minutes to the Pilot</item>
+        <item>How many minutes to the Loves</item>
+        <item>How many minutes to the TA</item>
+        <item>How many minutes to the Rest Area</item>
+
+        <item>How many hours to the Pilot</item>
+        <item>How many hours to the Loves</item>
+        <item>How many hours to the TA</item>
+        <item>How many hours to the Rest Area</item>
+
+        <item>How long to the Pilot</item>
+        <item>How long to the Loves</item>
+        <item>How long to the TA</item>
+        <item>How long to the Rest Area</item>
+
+
+        <!--        New Commands-->
+        <!--        1.1.2 Drive Commands-->
+        <!--        Login {name}-->
+        <item>Login</item>
+
+        <!--        Truck {string}-->
+        <item>Truck</item>
+
+        <!--        Trailer 1 {string}-->
+        <item>Trailer 1</item>
+
+        <!--        Trailer 2 {string}-->
+        <item>Trailer 2</item>
+
+        <!--        Logout {name}-->
+        <item>Logout</item>
+
+        <item>Change Status to off duty</item>
+        <item>Change Status to break</item>
+        <item>Change Status to sleeper</item>
+        <item>Change Status to on duty</item>
+
+        <item>Send Log Data</item>
+        <item>Start Exempt Road</item>
+        <item>End Exempt Road</item>
+
+        <!--        Drop Trailer {string}-->
+        <item>Drop Trailer</item>
+
+        <!--        Pickup Trailer {string}-->
+        <item>Pickup Trailer</item>
+
+        <item>Change Duty Status Personal</item>
+        <item>Change Duty Status Yard Moves</item>
+        <item>Change Duty Status Work</item>
+
+
+        <!--        New Commands-->
+        <!--    1.1.3 Gauges-->
+        <!--        The following speech commands are in the Drive side window.-->
+
+        <item>How many miles today?</item>
+
+        <item>How much time before taking a break?</item>
+
+        <item>How long have I been on break?</item>
+
+        <item>How long have I been in sleeper?</item>
+
+        <item>How many hours have I been driving?</item>
+
+        <item>How many more hours can I drive?</item>
+
+        <item>How many hours have I been working?</item>
+
+        <item>How many more hours can I work?</item>
+
+        <item>How long have I been on duty?</item>
+
+        <item>How many days do I have left in cycle?</item>
+
+        <item>How many hours do I have left in cycle?</item>
+
+        <item>How many hours have I been on rest?</item>
+
+        <item>How many hours before I can drive again?</item>
+
+        <item>How long before I can drive?</item>
+
+
+        <!--        New Commands-->
+        <!--        1.1.4 Map Buttons-->
+        <!--        The following speech commands are for the buttons on the drive map on the right side-->
+        <item>Stop Microphone</item>
+        <item>End Microphone</item>
+        <item>Kill Microphone</item>
+        <item>Stop Audio</item>
+        <item>End Audio</item>
+        <item>Kill Audio</item>
+        <item>Stop Speaker</item>
+        <item>End Speaker</item>
+        <item>Kill Speaker</item>
+
+        <item>Center Map</item>
+
+        <!--        <item>Show {All, No, POI string (example Truck Wash} POI{’s}</item>-->
+        <item>Show All POI</item>
+        <item>Show All POI’s</item>
+        <item>Show All point of interest</item>
+        <item>Show All point of interest</item>
+        <item>Show No POI</item>
+        <item>Show No POI’s</item>
+        <item>Show No point of interest</item>
+        <item>Show No point of interests</item>
+        <item>Show POI POI</item>
+        <item>Show POI POIs</item>
+        <!--        here poi will bbe replaced with like truck wash or some category or sub category-->
+        <item>Show POI point of interest</item>
+        <item>Show POI point of interests</item>
+
+        <item>Hide all POI’s</item>
+        <item>Hide all point of interests</item>
+        <item>Don’t show any POI’s</item>
+        <item>Don’t show any point of interests</item>
+
+        <!--        New Commands-->
+        <!--        1.1.5 Map Navigation-->
+        <!--        The following speech commands are when the driver has done a search to a destination and has-->
+        <item>started driving and comes from the navigation window?</item>
+        <item>How many miles to the destination?</item>
+        <item>How far to the destination?</item>
+        <item>How many minutes to the destination?</item>
+        <item>How long to the destination?</item>
+
+        <!--        How many miles to {city string on route}?-->
+        <item>How many miles to </item>
+
+
+        <!--        New Commands-->
+        <!--        1.1.6 Map ETA-->
+        <!--        The following speech commands are when the driver has done a search to a destination and has-->
+        <item>started driving and is in the ETA window.</item>
+        <item>What is the ETA to the destination?</item>
+        <item>When will I arrive at destination?</item>
+
+        <!--        New Commands-->
+        <!--        1.1.7 Map Pan and Zoom-->
+        <!--        The following speech commands allow the driver to zoom and pan.-->
+        <item>Pan left</item>
+        <item>Pan right</item>
+        <item>Pan up</item>
+        <item>Pan down</item>
+        <item>Zoom out</item>
+        <item>Zoom in</item>
+
+
+        <!--        New Commands-->
+        <!--        1.1.8 Map Points of Interest (POI)-->
+        <!--        Driver can ask for distance, time or show on map for any point of interest.-->
+        <item>How far to the next weigh station</item>
+        <item>How many miles to the next weigh station</item>
+        <item>How long to the next weigh station</item>
+        <item>What is the ETA to the next weigh station</item>
+        <item>Show me the next weigh station</item>
+        <item>How far to the next CAT scale</item>
+        <item>How many miles to the next CAT scale</item>
+        <item>How long to the next weigh station CAT scale</item>
+        <item>What is the ETA to the next CAT scale</item>
+        <item>Show me the next CAT scale</item>
+        <item>How far to the next truck wash</item>
+        <item>How many miles to the next truck wash</item>
+        <item>How long to the next truck wash</item>
+        <item>What is the ETA to the next truck wash</item>
+        <item>Show me the next truck wash</item>
+
+        <!--        New Commands-->
+        <!--        1.1.9 Map Speed-->
+        <!--        The following speech commands are when the driver is driving.-->
+        <item>What is the speed limit?</item>
+        <item>What is my speed?</item>
+
+
+        <!--        New Commands-->
+        <!--        1.1.10 Time and Date-->
+        <!--        The following speech commands are for time or date information.-->
+        <item>What time is it?</item>
+        <item>What is the time now?</item>
+        <item>Give me the time?</item>
+        <item>What is the date today?</item>
+        <item>How many days to the fourth of July?</item>
+        <item>How many days to Christmas?</item>
+        <item>How many days to Thanksgiving?</item>
+        <item>How many days to New Years?</item>
+    </string-array>
+
+</resources>

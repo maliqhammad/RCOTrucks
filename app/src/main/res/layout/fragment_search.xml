@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".activities.drive.SearchFragment">
+
+<!--    <androidx.constraintlayout.widget.ConstraintLayout-->
+<!--        android:id="@+id/cl_et"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="50dp"-->
+<!--        android:background="@color/black"-->
+<!--        app:layout_constraintTop_toTopOf="parent">-->
+
+<!--        &lt;!&ndash;        <AutoCompleteTextView&ndash;&gt;-->
+<!--        <EditText-->
+<!--            android:id="@+id/et_search"-->
+<!--            android:layout_width="0dp"-->
+<!--            android:layout_height="30dp"-->
+<!--            android:layout_marginStart="8dp"-->
+<!--            android:layout_marginEnd="8dp"-->
+<!--            android:background="@drawable/background_et_search"-->
+<!--            android:drawableStart="@drawable/ic_search_black_24dp"-->
+<!--            android:drawablePadding="6dp"-->
+<!--            android:focusable="true"-->
+<!--            android:focusableInTouchMode="true"-->
+<!--            android:hint="Search"-->
+<!--            android:includeFontPadding="false"-->
+<!--            android:inputType="textNoSuggestions"-->
+<!--            android:paddingStart="6dp"-->
+<!--            android:textColor="@color/black_and_white"-->
+<!--            android:textSize="@dimen/rco_trucks_medium_text_size"-->
+<!--            app:layout_constraintBottom_toBottomOf="parent"-->
+<!--            app:layout_constraintEnd_toStartOf="@+id/cancelSearch"-->
+<!--            app:layout_constraintStart_toStartOf="parent"-->
+<!--            app:layout_constraintTop_toTopOf="parent" />-->
+
+<!--        <ImageView-->
+<!--            android:id="@+id/iv_clear_search"-->
+<!--            android:layout_width="18dp"-->
+<!--            android:layout_height="18dp"-->
+<!--            android:layout_marginEnd="8dp"-->
+<!--            android:src="@drawable/ic_baseline_close_24"-->
+<!--            app:tint="@color/white"-->
+<!--            app:layout_constraintBottom_toBottomOf="parent"-->
+<!--            app:layout_constraintEnd_toEndOf="@+id/et_search"-->
+<!--            app:layout_constraintTop_toTopOf="parent" />-->
+
+<!--        <TextView-->
+<!--            android:id="@+id/cancelSearch"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginEnd="12dp"-->
+<!--            android:fontFamily="@font/manrope_bold"-->
+<!--            android:text="Cancel"-->
+<!--            android:textColor="@color/white"-->
+<!--            android:textSize="@dimen/rco_trucks_medium_text_size"-->
+<!--            app:layout_constraintBottom_toBottomOf="parent"-->
+<!--            app:layout_constraintEnd_toEndOf="parent"-->
+<!--            app:layout_constraintTop_toTopOf="parent" />-->
+
+<!--    </androidx.constraintlayout.widget.ConstraintLayout>-->
+
+
+    <include
+        android:id="@+id/cl_et"
+        layout="@layout/include_layout_search_generic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_more"
+        android:layout_width="wrap_content"
+        android:layout_height="36dp"
+        android:layout_marginBottom="8dp"
+        android:gravity="center"
+        android:text="@string/more_from_recent_history"
+        android:textColor="@color/blue2"
+        android:textSize="14sp"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/address_rv"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@color/white_and_black"
+        android:cacheColorHint="@android:color/transparent"
+        android:elevation="2dp"
+        android:scrollbars="none"
+        android:scrollingCache="false"
+        app:layout_constraintBottom_toTopOf="@id/tv_more"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/cl_et" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

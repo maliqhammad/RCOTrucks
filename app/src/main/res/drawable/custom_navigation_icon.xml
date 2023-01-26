@@ -1,0 +1,8 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/drawable_circle_two" />
+<!--    <item android:drawable="@drawable/ic_baseline_navigation_12" />-->
+    <item android:drawable="@drawable/ic_baseline_navigation_16" />
+<!--    <item android:drawable="@drawable/ic_baseline_navigation_24" />-->
+
+</layer-list>

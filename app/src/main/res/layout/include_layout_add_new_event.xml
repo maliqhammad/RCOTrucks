@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/displayedDate"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="24dp"
+            android:fontFamily="@font/manrope_bold"
+            android:gravity="center"
+            android:text="@string/date_demo"
+            android:textColor="@color/black"
+            android:textSize="@dimen/rco_trucks_medium_text_size"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/cmvPowerUnitNumberIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="24dp"
+            android:layout_marginBottom="2dp"
+            android:src="@drawable/ic_baseline_directions_bus_24"
+            app:tint="@color/black"
+            app:layout_constraintBottom_toBottomOf="@+id/locationLayout"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/locationLayout"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="24dp"
+            android:textColorHint="@color/black"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/cmvPowerUnitNumberIcon"
+            app:layout_constraintTop_toBottomOf="@+id/displayedDate">
+
+            <androidx.appcompat.widget.AppCompatEditText
+                android:id="@+id/location"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/_16sdp"
+                android:background="@color/white"
+                android:fontFamily="@font/manrope_regular"
+                android:hint="@string/location_text"
+                android:paddingStart="8dp"
+                android:paddingTop="16dp"
+                android:paddingEnd="24dp"
+                android:paddingBottom="4dp"
+                android:privateImeOptions="nm"
+                android:singleLine="true"
+                android:textColor="@color/black"
+                android:textColorHint="@color/black"
+                android:textSize="@dimen/rco_trucks_medium_text_size" />
+
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+
+        <ImageView
+            android:id="@+id/clearLocationIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:src="@drawable/ic_baseline_close_24"
+            app:tint="@color/black"
+            app:layout_constraintBottom_toBottomOf="@+id/locationLayout"
+            app:layout_constraintEnd_toEndOf="@+id/locationLayout"
+            app:layout_constraintTop_toTopOf="@+id/cmvPowerUnitNumberIcon" />
+
+
+        <View
+            android:id="@+id/cmvPowerUnitNumberUnderlineView"
+            android:layout_width="0dp"
+            android:layout_height="1dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="4dp"
+            android:background="@color/grayShadeOne"
+            android:visibility="gone"
+            app:layout_constraintEnd_toEndOf="@+id/locationLayout"
+            app:layout_constraintStart_toStartOf="@+id/locationLayout"
+            app:layout_constraintTop_toBottomOf="@+id/locationLayout" />
+
+
+        <ImageView
+            android:id="@+id/trailerNumberIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="24dp"
+            android:layout_marginBottom="2dp"
+            android:src="@drawable/ic_baseline_timer_24"
+            app:tint="@color/black"
+            app:layout_constraintBottom_toBottomOf="@+id/startTimeLayout"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/startTimeLayout"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="24dp"
+            android:textColorHint="@color/black"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/trailerNumberIcon"
+            app:layout_constraintTop_toBottomOf="@+id/cmvPowerUnitNumberUnderlineView">
+
+            <EditText
+                android:id="@+id/startTime"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/_16sdp"
+                android:background="@color/white"
+                android:editable="false"
+                android:focusable="false"
+                android:fontFamily="@font/manrope_regular"
+                android:hint="@string/start_time"
+                android:inputType="number"
+                android:paddingStart="8dp"
+                android:paddingTop="16dp"
+                android:paddingEnd="24dp"
+                android:paddingBottom="4dp"
+                android:privateImeOptions="nm"
+                android:singleLine="true"
+                android:textColor="@color/black"
+                android:textColorHint="@color/black"
+                android:textSize="@dimen/rco_trucks_medium_text_size" />
+
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+
+        <ImageView
+            android:id="@+id/clearStartTimeIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:src="@drawable/ic_baseline_close_24"
+            app:tint="@color/black"
+            app:layout_constraintBottom_toBottomOf="@+id/startTimeLayout"
+            app:layout_constraintEnd_toEndOf="@+id/startTimeLayout"
+            app:layout_constraintTop_toTopOf="@+id/trailerNumberIcon" />
+
+
+        <View
+            android:id="@+id/trailerNumberUnderlineView"
+            android:layout_width="0dp"
+            android:layout_height="1dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="4dp"
+            android:background="@color/grayShadeOne"
+            android:visibility="gone"
+            app:layout_constraintEnd_toEndOf="@+id/startTimeLayout"
+            app:layout_constraintStart_toStartOf="@+id/startTimeLayout"
+            app:layout_constraintTop_toBottomOf="@+id/startTimeLayout" />
+
+
+        <ImageView
+            android:id="@+id/shippingInfoIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="24dp"
+            android:layout_marginBottom="2dp"
+            android:src="@drawable/ic_baseline_timer_24"
+            app:tint="@color/black"
+            app:layout_constraintBottom_toBottomOf="@+id/endTimeLayout"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/endTimeLayout"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="24dp"
+            android:textColorHint="@color/black"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/shippingInfoIcon"
+            app:layout_constraintTop_toBottomOf="@+id/trailerNumberUnderlineView">
+
+            <EditText
+                android:id="@+id/endTime"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/_16sdp"
+                android:background="@color/white"
+                android:editable="false"
+                android:focusable="false"
+                android:fontFamily="@font/manrope_regular"
+                android:hint="@string/end_time"
+                android:paddingStart="8dp"
+                android:paddingTop="16dp"
+                android:paddingEnd="24dp"
+                android:paddingBottom="4dp"
+                android:privateImeOptions="nm"
+                android:singleLine="true"
+                android:textColor="@color/black"
+                android:textColorHint="@color/black"
+                android:textSize="@dimen/rco_trucks_medium_text_size" />
+
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+
+        <ImageView
+            android:id="@+id/clearEndTimeIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:src="@drawable/ic_baseline_close_24"
+            app:tint="@color/black"
+            app:layout_constraintBottom_toBottomOf="@+id/endTimeLayout"
+            app:layout_constraintEnd_toEndOf="@+id/endTimeLayout"
+            app:layout_constraintTop_toTopOf="@+id/shippingInfoIcon" />
+
+
+        <View
+            android:id="@+id/shippingInfoUnderlineView"
+            android:layout_width="0dp"
+            android:layout_height="1dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="4dp"
+            android:background="@color/grayShadeOne"
+            android:visibility="gone"
+            app:layout_constraintEnd_toEndOf="@+id/endTimeLayout"
+            app:layout_constraintStart_toStartOf="@+id/endTimeLayout"
+            app:layout_constraintTop_toBottomOf="@+id/endTimeLayout" />
+
+        <TextView
+            android:id="@+id/shippingInfoDescription"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="24dp"
+            android:fontFamily="@font/manrope_regular"
+            android:text="@string/state_options"
+            android:textColor="@color/dark_grey"
+            android:textSize="@dimen/rco_trucks_x_small_text_size"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="@+id/endTimeLayout"
+            app:layout_constraintTop_toBottomOf="@+id/stateOptionsUnderlineView" />
+
+
+        <ImageView
+            android:id="@+id/stateOptionsIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="24dp"
+            android:layout_marginBottom="1dp"
+            android:src="@drawable/ic_baseline_event_note_24"
+            app:tint="@color/black"
+            app:layout_constraintBottom_toBottomOf="@+id/stateOptionsLayout"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/stateOptionsLayout"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="24dp"
+            android:textColorHint="@color/black"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/stateOptionsIcon"
+            app:layout_constraintTop_toBottomOf="@+id/shippingInfoUnderlineView">
+
+            <EditText
+                android:id="@+id/stateOptions"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/_16sdp"
+                android:background="@color/white"
+                android:editable="false"
+                android:focusable="false"
+                android:fontFamily="@font/manrope_regular"
+                android:hint="@string/state_text"
+                android:paddingStart="8dp"
+                android:paddingTop="16dp"
+                android:paddingEnd="24dp"
+                android:paddingBottom="4dp"
+                android:privateImeOptions="nm"
+                android:singleLine="true"
+                android:textColor="@color/black"
+                android:textColorHint="@color/black"
+                android:textSize="@dimen/rco_trucks_medium_text_size" />
+
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+
+        <ImageView
+            android:id="@+id/clearStateOptionsIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:src="@drawable/ic_baseline_close_24"
+            app:tint="@color/black"
+            app:layout_constraintBottom_toBottomOf="@+id/stateOptionsLayout"
+            app:layout_constraintEnd_toEndOf="@+id/stateOptionsLayout"
+            app:layout_constraintTop_toTopOf="@+id/stateOptionsIcon" />
+
+
+        <View
+            android:id="@+id/stateOptionsUnderlineView"
+            android:layout_width="0dp"
+            android:layout_height="1dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="4dp"
+            android:background="@color/grayShadeOne"
+            android:visibility="gone"
+            app:layout_constraintEnd_toEndOf="@+id/stateOptionsLayout"
+            app:layout_constraintStart_toStartOf="@+id/stateOptionsLayout"
+            app:layout_constraintTop_toBottomOf="@+id/stateOptionsLayout" />
+
+
+        <ImageView
+            android:id="@+id/commentsIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="24dp"
+            android:layout_marginBottom="2dp"
+            android:src="@drawable/ic_baseline_comment_24"
+            app:tint="@color/black"
+            app:layout_constraintBottom_toBottomOf="@+id/commentsLayout"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/commentsLayout"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="24dp"
+            android:textColorHint="@color/black"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/commentsIcon"
+            app:layout_constraintTop_toBottomOf="@+id/shippingInfoDescription">
+
+            <androidx.appcompat.widget.AppCompatEditText
+                android:id="@+id/comments"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="@dimen/_16sdp"
+                android:background="@color/white"
+                android:fontFamily="@font/manrope_regular"
+                android:hint="@string/comments_title"
+                android:maxLines="5"
+                android:paddingStart="8dp"
+                android:paddingTop="16dp"
+                android:paddingEnd="24dp"
+                android:paddingBottom="4dp"
+                android:privateImeOptions="nm"
+                android:textColor="@color/black"
+                android:textColorHint="@color/black"
+                android:textSize="@dimen/rco_trucks_medium_text_size" />
+
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+
+        <ImageView
+            android:id="@+id/clearCommentsIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:src="@drawable/ic_baseline_close_24"
+            app:tint="@color/black"
+            app:layout_constraintBottom_toBottomOf="@+id/commentsLayout"
+            app:layout_constraintEnd_toEndOf="@+id/commentsLayout"
+            app:layout_constraintTop_toTopOf="@+id/commentsIcon" />
+
+
+        <View
+            android:id="@+id/commentsUnderlineView"
+            android:layout_width="0dp"
+            android:layout_height="1dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="4dp"
+            android:background="@color/grayShadeOne"
+            android:visibility="gone"
+            app:layout_constraintEnd_toEndOf="@+id/commentsLayout"
+            app:layout_constraintStart_toStartOf="@+id/commentsLayout"
+            app:layout_constraintTop_toBottomOf="@+id/commentsLayout" />
+
+        <Button
+            android:id="@+id/save"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="64dp"
+            android:layout_marginEnd="64dp"
+            android:layout_marginBottom="48dp"
+            android:background="@drawable/black_curved_background"
+            android:fontFamily="@font/manrope_bold"
+            android:text="@string/save"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="@dimen/rco_trucks_medium_text_size"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/black">
+
+    <TextView
+        android:id="@+id/tv_plates"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_marginStart="12dp"
+        android:fontFamily="@font/proxima_nova_bold"
+        android:text="@string/plates"
+        android:textColor="@color/white"
+        android:textSize="@dimen/rco_trucks_small_text_size"
+        android:visibility="gone"
+        android:paddingLeft="12dp"
+        android:gravity="center"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!--    android:buttonTint="@color/green"-->
+    <!--    android:shadowColor="@color/green"-->
+    <com.google.android.material.switchmaterial.SwitchMaterial
+        android:id="@+id/select_all_switch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/proxima_nova_bold"
+        android:paddingTop="12dp"
+        android:paddingBottom="12dp"
+        android:text="Select All"
+        android:textColor="@color/white"
+        android:textSize="@dimen/rco_trucks_small_text_size"
+        android:theme="@style/SCBSwitch"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:thumbTint="@color/green" />
+
+    <TextView
+        android:id="@+id/tv_vin"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_marginEnd="12dp"
+        android:layout_marginRight="12dp"
+        android:paddingRight="12dp"
+        android:fontFamily="@font/proxima_nova_bold"
+        android:text="VIN"
+        android:textColor="@color/white"
+        android:textSize="@dimen/rco_trucks_small_text_size"
+        android:visibility="gone"
+        android:gravity="center"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView21"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:fontFamily="@font/proxima_nova_regular"
+        android:text="@string/remarks_"
+        android:textColor="@color/black"
+        android:textSize="@dimen/rco_trucks_small_text_size"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/remarksLayout"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/_100sdp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="16dp"
+        android:background="@drawable/remarks_border"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView21">
+
+        <EditText
+            android:id="@+id/remarks"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:background="@null"
+            android:clickable="false"
+            android:focusable="false"
+            android:gravity="top"
+            android:maxLength="300"
+            android:paddingStart="@dimen/_2sdp"
+            android:paddingTop="@dimen/_2sdp"
+            android:paddingRight="@dimen/_2sdp"
+            android:paddingBottom="@dimen/_2sdp"
+            android:textColor="@color/black"
+            android:textSize="@dimen/rco_trucks_small_text_size"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    <CheckBox
+        android:id="@+id/vehicleIsSatisfactory"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:buttonTint="@color/check_box_blue"
+        android:clickable="false"
+        android:fontFamily="@font/productsans_medium"
+        android:text="CONDITION OF THE ABOVE VEHICLE IS SATISFACTORY"
+        android:textColor="@color/black"
+        android:textSize="@dimen/rco_trucks_small_text_size"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/remarksLayout" />
+
+    <TextView
+        android:id="@+id/driver_name_tv"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="4dp"
+        android:fontFamily="@font/proxima_nova_regular"
+        android:text="DRIVER'S NAME:"
+        android:textColor="@color/black"
+        android:textSize="@dimen/rco_trucks_small_text_size"
+        app:layout_constraintBottom_toBottomOf="@+id/driver_name_et"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <EditText
+        android:id="@+id/driver_name_et"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="32dp"
+        android:clickable="false"
+        android:focusable="false"
+        android:fontFamily="@font/proxima_nova_regular"
+        android:singleLine="true"
+        android:textColor="@color/black"
+        android:textSize="@dimen/rco_trucks_small_text_size"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/driver_name_tv"
+        app:layout_constraintTop_toBottomOf="@+id/vehicleIsSatisfactory" />
+
+    <TextView
+        android:id="@+id/mechanicName"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="4dp"
+        android:fontFamily="@font/proxima_nova_regular"
+        android:text="MECHANIC NAME: "
+        android:textColor="@color/black"
+        android:textSize="@dimen/rco_trucks_small_text_size"
+        app:layout_constraintBottom_toBottomOf="@+id/mechanic_name_et"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <EditText
+        android:id="@+id/mechanic_name_et"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="32dp"
+        android:clickable="false"
+        android:focusable="false"
+        android:fontFamily="@font/proxima_nova_regular"
+        android:singleLine="true"
+        android:textColor="@color/black"
+        android:textSize="@dimen/rco_trucks_small_text_size"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/mechanicName"
+        app:layout_constraintTop_toBottomOf="@+id/driver_name_et" />
+
+    <!--    <CheckBox-->
+    <!--        android:id="@+id/aboveDefects"-->
+    <!--        android:layout_width="wrap_content"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:buttonTint="@color/black"-->
+    <!--        android:text="BOVE DEFECTS CORRECTED "-->
+    <!--        app:layout_constraintStart_toStartOf="parent"-->
+    <!--        app:layout_constraintTop_toBottomOf="@+id/mechanicName" />-->
+
+    <CheckBox
+        android:id="@+id/aboveDefects"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:buttonTint="@color/check_box_blue"
+        android:clickable="false"
+        android:fontFamily="@font/productsans_medium"
+        android:paddingLeft="2dp"
+        android:text="ABOVE DEFECTS CORRECTED "
+        android:textSize="@dimen/rco_trucks_small_text_size"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mechanicName" />
+
+    <CheckBox
+        android:id="@+id/aboveDefectsNotCorrected"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:buttonTint="@color/check_box_blue"
+        android:clickable="false"
+        android:fontFamily="@font/productsans_medium"
+        android:text="ABOVE DEFECTS NEED NOT BE CORRECTED FOR SAFE OPERATION OF VEICLE"
+        android:textSize="@dimen/rco_trucks_small_text_size"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/aboveDefects" />
+
+
+    <TextView
+        android:id="@+id/mechanicSignature"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="24dp"
+        android:fontFamily="@font/proxima_nova_regular"
+        android:text="MECHANIC SIGNATURE:"
+        android:textColor="@color/black"
+        android:textSize="@dimen/rco_trucks_small_text_size"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/aboveDefectsNotCorrected" />
+
+
+    <TextView
+        android:id="@+id/mechanicSignatureDate"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:fontFamily="@font/proxima_nova_regular"
+        android:text="DATE:"
+
+        android:textColor="@color/black"
+        android:textSize="@dimen/rco_trucks_small_text_size"
+        app:layout_constraintBottom_toBottomOf="@+id/mechanicSignature"
+        app:layout_constraintStart_toEndOf="@+id/view3" />
+
+    <TextView
+        android:id="@+id/driverSignature"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="24dp"
+        android:fontFamily="@font/proxima_nova_regular"
+        android:text="DRIVER SIGNATURE:"
+        android:textColor="@color/black"
+        android:textSize="@dimen/rco_trucks_small_text_size"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mechanicSignature" />
+
+    <TextView
+        android:id="@+id/driverSignatureDate"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginBottom="8dp"
+        android:fontFamily="@font/proxima_nova_regular"
+        android:text="DATE:"
+        android:textColor="@color/black"
+        android:textSize="@dimen/rco_trucks_small_text_size"
+        app:layout_constraintBottom_toBottomOf="@+id/driver_signature_date"
+        app:layout_constraintStart_toEndOf="@+id/view3" />
+
+
+    <EditText
+        android:id="@+id/mechanic_signature_date"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="32dp"
+        android:clickable="false"
+        android:focusable="false"
+        android:fontFamily="@font/proxima_nova_regular"
+        android:singleLine="true"
+        android:text=""
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintBottom_toBottomOf="@+id/mechanicSignatureDate"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/mechanicSignatureDate"
+        app:layout_constraintTop_toBottomOf="@+id/aboveDefectsNotCorrected" />
+
+
+    <EditText
+        android:id="@+id/driver_signature_date"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="32dp"
+        android:clickable="false"
+        android:focusable="false"
+        android:fontFamily="@font/proxima_nova_regular"
+        android:singleLine="true"
+        android:text=""
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/driverSignatureDate"
+        app:layout_constraintTop_toBottomOf="@+id/mechanic_signature_date" />
+
+    <View
+        android:id="@+id/view3"
+        android:layout_width="1dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/mechanic_signature_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        app:layout_constraintBottom_toBottomOf="@+id/mechanicSignatureDate"
+        app:layout_constraintStart_toEndOf="@+id/mechanicSignature"
+        app:layout_constraintTop_toTopOf="@+id/mechanicSignatureDate" />
+
+    <ImageView
+        android:id="@+id/driver_signature_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        app:layout_constraintBottom_toBottomOf="@+id/driverSignature"
+        app:layout_constraintStart_toEndOf="@+id/driverSignature"
+        app:layout_constraintTop_toTopOf="@+id/driverSignature" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <!--        android:background="@color/light_grey"-->
+    <TextView
+        android:id="@+id/textViewLbl"
+        android:layout_width="@dimen/_80sdp"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/manrope_bold"
+        android:gravity="center_vertical"
+        android:hint="@string/amount"
+        android:paddingLeft="8dp"
+        android:text="header"
+        android:textColor="@color/black"
+        android:textColorHint="@color/black"
+        android:textSize="@dimen/rco_trucks_medium_text_size"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!--    android:paddingStart="16dp"-->
+    <!--    android:paddingLeft="16dp"-->
+    <!--    android:paddingTop="8dp"-->
+    <!--    android:paddingEnd="24dp"-->
+    <!--    android:paddingRight="16dp"-->
+    <!--    android:paddingBottom="8dp"-->
+    <!--    android:singleLine="true"-->
+
+
+    <!--    android:background="@color/light_grey"-->
+    <EditText
+        android:id="@+id/textViewFldOne"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:background="@null"
+        android:fontFamily="@font/manrope_regular"
+        android:inputType="textPersonName"
+        android:paddingStart="16dp"
+        android:paddingLeft="16dp"
+        android:paddingTop="8dp"
+        android:paddingEnd="16dp"
+        android:paddingRight="24dp"
+        android:paddingBottom="8dp"
+        android:text="Field Value"
+
+        android:textSize="@dimen/rco_trucks_medium_text_size"
+        android:textColorHint="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/textViewLbl"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textViewIcon"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="4dp"
+        android:fontFamily="@font/manrope_bold"
+        android:text="*"
+        android:textColor="@color/red"
+        android:textSize="@dimen/rco_trucks_medium_text_size"
+        android:visibility="visible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

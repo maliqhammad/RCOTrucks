@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/pre_trip_preview_header"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/driver_vehicle_report"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/proxima_nova_bold"
+        android:gravity="center"
+        android:text="DRIVER'S VEHICLE INSPECTION REPORT"
+        android:textColor="@color/black"
+        android:textSize="@dimen/rco_trucks_normal_text_size"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/safety_regulations"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/productsans_medium"
+        android:gravity="center"
+        android:text="AS REQUIRED BY THE D.O.T. FEDERAL MOTOR CARRIER SAFETY REGULATIONS"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_4sdp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/driver_vehicle_report" />
+
+    <TextView
+        android:id="@+id/carrier"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginBottom="4dp"
+        android:fontFamily="@font/proxima_nova_regular"
+        android:text="CARRIER:"
+        android:textColor="@color/black"
+        android:textSize="@dimen/rco_trucks_small_text_size"
+        app:layout_constraintBottom_toBottomOf="@+id/carrier_et"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+    <EditText
+        android:id="@+id/carrier_et"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="24dp"
+        android:clickable="false"
+        android:editable="false"
+        android:focusable="false"
+        android:fontFamily="@font/proxima_nova_regular"
+        android:singleLine="true"
+        android:text=""
+        android:textColor="@color/black"
+        android:textSize="@dimen/rco_trucks_small_text_size"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/carrier"
+        app:layout_constraintTop_toBottomOf="@+id/driver_vehicle_report" />
+
+    <TextView
+        android:id="@+id/address"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginBottom="4dp"
+        android:text="ADDRESS:"
+        android:textColor="@color/black"
+        android:textSize="@dimen/rco_trucks_small_text_size"
+        android:textStyle="normal"
+        app:layout_constraintBottom_toBottomOf="@+id/address_et"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <EditText
+        android:id="@+id/address_et"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="24dp"
+        android:clickable="false"
+        android:editable="false"
+        android:focusable="false"
+        android:fontFamily="@font/proxima_nova_regular"
+        android:singleLine="true"
+        android:text=""
+        android:textColor="@color/black"
+        android:textSize="@dimen/rco_trucks_small_text_size"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/address"
+        app:layout_constraintTop_toBottomOf="@+id/carrier_et" />
+
+
+    <TextView
+        android:id="@+id/date"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginBottom="4dp"
+        android:fontFamily="@font/proxima_nova_regular"
+        android:text="DATE:"
+        android:textColor="@color/black"
+        android:textSize="@dimen/rco_trucks_small_text_size"
+        app:layout_constraintBottom_toBottomOf="@+id/date_et"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <EditText
+        android:id="@+id/date_et"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="32dp"
+        android:clickable="false"
+        android:editable="false"
+        android:focusable="false"
+        android:fontFamily="@font/proxima_nova_regular"
+        android:singleLine="true"
+        android:text=""
+        android:textColor="@color/black"
+        android:textSize="@dimen/rco_trucks_small_text_size"
+        app:layout_constraintEnd_toStartOf="@+id/view3"
+        app:layout_constraintStart_toEndOf="@+id/date"
+        app:layout_constraintTop_toBottomOf="@+id/address_et" />
+
+    <View
+        android:id="@+id/view3"
+        android:layout_width="1dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/time"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/proxima_nova_regular"
+        android:text="TIME:"
+        android:textColor="@color/black"
+        android:textSize="@dimen/rco_trucks_small_text_size"
+        android:textStyle="normal"
+        app:layout_constraintBottom_toBottomOf="@+id/date"
+        app:layout_constraintStart_toEndOf="@+id/view3"
+        app:layout_constraintTop_toTopOf="@+id/date" />
+
+
+    <EditText
+        android:id="@+id/time_et"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="24dp"
+        android:clickable="false"
+        android:editable="false"
+        android:focusable="false"
+        android:fontFamily="@font/proxima_nova_regular"
+        android:singleLine="true"
+        android:text=""
+        android:textColor="@color/black"
+        android:textSize="@dimen/rco_trucks_small_text_size"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/time"
+        app:layout_constraintTop_toBottomOf="@+id/address_et" />
+
+    <TextView
+        android:id="@+id/truck_no"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginBottom="8dp"
+        android:fontFamily="@font/proxima_nova_regular"
+        android:text="TRACTOR/TRUCK NO. "
+        android:textColor="@color/black"
+        android:textSize="@dimen/rco_trucks_small_text_size"
+        app:layout_constraintBottom_toBottomOf="@+id/truck_no_et"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/details_under"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:fontFamily="@font/productsans_medium"
+        android:gravity="center"
+        android:text="CHECK ANY DEFECTIVE ITEM AND GIVE DETAILS UNDER REMARKS"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_4sdp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/date" />
+
+
+    <EditText
+        android:id="@+id/truck_no_et"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="24dp"
+        android:clickable="false"
+        android:editable="false"
+        android:focusable="false"
+        android:fontFamily="@font/proxima_nova_regular"
+        android:singleLine="true"
+        android:text=""
+        android:textColor="@color/black"
+        android:textSize="@dimen/rco_trucks_small_text_size"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/truck_no"
+        app:layout_constraintTop_toBottomOf="@+id/details_under" />
+
+    <TextView
+        android:id="@+id/odometer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginBottom="8dp"
+        android:fontFamily="@font/proxima_nova_regular"
+        android:text="ODOMETER READING"
+        android:textColor="@color/black"
+        android:textSize="@dimen/rco_trucks_small_text_size"
+        app:layout_constraintBottom_toBottomOf="@+id/odometer_et"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <EditText
+        android:id="@+id/odometer_et"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="24dp"
+        android:clickable="false"
+        android:editable="false"
+        android:focusable="false"
+        android:fontFamily="@font/proxima_nova_regular"
+        android:singleLine="true"
+        android:text=""
+        android:textColor="@color/black"
+        android:textSize="@dimen/rco_trucks_small_text_size"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/truck_no_et"
+        app:layout_constraintTop_toBottomOf="@+id/truck_no_et" />
+
+    <CheckBox
+        android:id="@+id/select_all"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="24dp"
+        android:buttonTint="@color/check_box_blue"
+        android:fontFamily="@font/proxima_nova_bold"
+        android:paddingLeft="2dp"
+        android:text="@string/select_all"
+        android:textSize="@dimen/rco_trucks_small_text_size"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/odometer_et" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

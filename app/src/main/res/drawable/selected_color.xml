@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Pressed State -->
+    <item android:color="@color/black" android:state_pressed="true" />
+    <!-- Focused State -->
+    <item android:color="@color/black" android:state_focused="true" />
+    <!-- Checked State -->
+    <item android:color="@color/black" android:state_checked="true" />
+    <!-- Default State -->
+    <item android:color="@color/white" />
+</selector>

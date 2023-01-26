@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <!--        Order would be-->
+    <!--        Date,
+                Gallons,
+                Amount,
+                Sales Tax,
+                Vendor,
+                State,
+                Fuel Type,
+                Odometer.-->
+
+    <ScrollView
+        android:id="@+id/scrollView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/constraintLayout2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <ImageView
+                android:id="@+id/fuelReceiptImage"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="24dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="24dp"
+                android:src="@drawable/app_truck_icon"
+                android:visibility="gone"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+
+            <TextView
+                android:id="@+id/dateTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="32dp"
+                android:background="@null"
+                android:fontFamily="@font/manrope_bold"
+                android:hint="@string/date_in_capital"
+                android:paddingStart="8dp"
+                android:paddingTop="16dp"
+                android:paddingEnd="24dp"
+                android:paddingBottom="4dp"
+                android:singleLine="true"
+                android:textColor="@color/black"
+                android:textColorHint="@color/black"
+                android:textSize="@dimen/rco_trucks_small_text_size"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="@+id/vehicleLicenseNumberLayout"
+                app:layout_constraintTop_toTopOf="parent" />
+
+
+            <ImageView
+                android:id="@+id/dateIcon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="24dp"
+                android:src="@drawable/ic_baseline_date_range_24"
+                app:layout_constraintBottom_toBottomOf="@+id/dateLayout"
+                app:layout_constraintStart_toStartOf="parent"
+                app:tint="@color/black" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/dateLayout"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginEnd="24dp"
+                android:textColorHint="@color/black"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/dateIcon"
+                app:layout_constraintTop_toBottomOf="@+id/dateTitle">
+
+                <TextView
+                    android:id="@+id/date"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"
+                    android:editable="false"
+                    android:fontFamily="@font/manrope_regular"
+                    android:paddingStart="8dp"
+                    android:paddingTop="8dp"
+                    android:paddingEnd="24dp"
+                    android:paddingBottom="4dp"
+                    android:privateImeOptions="nm"
+                    android:singleLine="true"
+                    android:textColor="@color/black"
+                    android:textColorHint="@color/black"
+                    android:textSize="@dimen/rco_trucks_small_text_size" />
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <View
+                android:id="@+id/dateUnderlineView"
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_marginStart="4dp"
+                android:background="@color/grayShadeOne"
+                app:layout_constraintEnd_toEndOf="@+id/dateLayout"
+                app:layout_constraintStart_toStartOf="@+id/dateLayout"
+                app:layout_constraintTop_toBottomOf="@+id/dateLayout" />
+
+            <TextView
+                android:id="@+id/amountTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:fontFamily="@font/manrope_bold"
+                android:hint="@string/amount"
+                android:paddingStart="8dp"
+                android:paddingTop="16dp"
+                android:paddingEnd="24dp"
+                android:paddingBottom="4dp"
+                android:singleLine="true"
+                android:textColor="@color/black"
+                android:textColorHint="@color/black"
+                android:textSize="@dimen/rco_trucks_small_text_size"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="@+id/amountLayout"
+                app:layout_constraintTop_toBottomOf="@+id/gallonsLayout" />
+
+
+            <ImageView
+                android:id="@+id/amountIcon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="24dp"
+                android:src="@drawable/ic_baseline_money_24"
+                app:layout_constraintBottom_toBottomOf="@+id/amountLayout"
+                app:layout_constraintStart_toStartOf="parent"
+                app:tint="@color/black" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/amountLayout"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginEnd="24dp"
+                android:textColorHint="@color/black"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/amountIcon"
+                app:layout_constraintTop_toBottomOf="@+id/amountTitle">
+
+                <androidx.appcompat.widget.AppCompatEditText
+                    android:id="@+id/amount"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"
+                    android:digits="0123456789."
+                    android:fontFamily="@font/manrope_regular"
+                    android:inputType="numberDecimal"
+                    android:paddingStart="8dp"
+                    android:paddingTop="8dp"
+                    android:paddingEnd="24dp"
+                    android:paddingBottom="4dp"
+                    android:privateImeOptions="nm"
+                    android:singleLine="true"
+                    android:textColor="@color/black"
+                    android:textColorHint="@color/black"
+                    android:textSize="@dimen/rco_trucks_small_text_size" />
+
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/manrope_bold"
+                android:text="*"
+                android:textColor="@color/red"
+                app:layout_constraintBottom_toTopOf="@+id/clearAmountIcon"
+                app:layout_constraintEnd_toEndOf="@+id/amountLayout"
+                app:layout_constraintStart_toStartOf="@+id/clearAmountIcon" />
+
+            <ImageView
+                android:id="@+id/clearAmountIcon"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="4dp"
+                android:src="@drawable/ic_baseline_close_24"
+                app:layout_constraintBottom_toBottomOf="@+id/amountLayout"
+                app:layout_constraintEnd_toEndOf="@+id/amountLayout"
+                app:layout_constraintTop_toTopOf="@+id/amountIcon"
+                app:tint="@color/black" />
+
+
+            <TextView
+                android:id="@+id/gallonsTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="32dp"
+                android:background="@null"
+                android:fontFamily="@font/manrope_bold"
+                android:hint="@string/gallons"
+                android:paddingStart="8dp"
+                android:paddingTop="16dp"
+                android:paddingEnd="24dp"
+                android:paddingBottom="4dp"
+                android:privateImeOptions="nm"
+                android:singleLine="true"
+                android:textColor="@color/black"
+                android:textColorHint="@color/black"
+                android:textSize="@dimen/rco_trucks_small_text_size"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="@+id/vehicleLicenseNumberLayout"
+                app:layout_constraintTop_toBottomOf="@+id/dateLayout" />
+
+
+            <ImageView
+                android:id="@+id/gallonsIcon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="24dp"
+                android:src="@drawable/ic_baseline_local_gas_station_24"
+                app:layout_constraintBottom_toBottomOf="@+id/gallonsLayout"
+                app:layout_constraintStart_toStartOf="parent"
+                app:tint="@color/black" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/gallonsLayout"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginEnd="24dp"
+                android:textColorHint="@color/black"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/amountIcon"
+                app:layout_constraintTop_toBottomOf="@+id/gallonsTitle">
+
+                <androidx.appcompat.widget.AppCompatEditText
+                    android:id="@+id/gallons"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"
+                    android:fontFamily="@font/manrope_regular"
+                    android:inputType="number"
+                    android:paddingStart="8dp"
+                    android:paddingTop="8dp"
+                    android:paddingEnd="24dp"
+                    android:paddingBottom="4dp"
+                    android:privateImeOptions="nm"
+                    android:singleLine="true"
+                    android:textColor="@color/black"
+                    android:textColorHint="@color/black"
+                    android:textSize="@dimen/rco_trucks_small_text_size" />
+
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/manrope_bold"
+                android:text="*"
+                android:textColor="@color/red"
+                app:layout_constraintBottom_toTopOf="@+id/clearGallonsIcon"
+                app:layout_constraintEnd_toEndOf="@+id/gallonsLayout"
+                app:layout_constraintStart_toStartOf="@+id/clearGallonsIcon" />
+
+            <ImageView
+                android:id="@+id/clearGallonsIcon"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="4dp"
+                android:src="@drawable/ic_baseline_close_24"
+                app:layout_constraintBottom_toBottomOf="@+id/gallonsLayout"
+                app:layout_constraintEnd_toEndOf="@+id/gallonsLayout"
+                app:layout_constraintTop_toTopOf="@+id/gallonsIcon"
+                app:tint="@color/black" />
+
+
+            <TextView
+                android:id="@+id/fuelTypeTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="32dp"
+                android:background="@null"
+                android:fontFamily="@font/manrope_bold"
+                android:hint="@string/sales_tax"
+                android:paddingStart="8dp"
+                android:paddingTop="16dp"
+                android:paddingEnd="24dp"
+                android:paddingBottom="4dp"
+                android:privateImeOptions="nm"
+                android:singleLine="true"
+                android:textColor="@color/black"
+                android:textColorHint="@color/black"
+                android:textSize="@dimen/rco_trucks_small_text_size"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="1.0"
+                app:layout_constraintStart_toStartOf="@+id/vehicleLicenseNumberLayout"
+                app:layout_constraintTop_toBottomOf="@+id/amountLayout" />
+
+            <ImageView
+                android:id="@+id/fuelTypeIcon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="24dp"
+                android:src="@drawable/ic_baseline_add_shopping_cart_24"
+                app:layout_constraintBottom_toBottomOf="@+id/fuelTypeLayout"
+                app:layout_constraintStart_toStartOf="parent"
+                app:tint="@color/black" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/fuelTypeLayout"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginEnd="24dp"
+                android:textColorHint="@color/black"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/fuelTypeIcon"
+                app:layout_constraintTop_toBottomOf="@+id/fuelTypeTitle">
+
+                <androidx.appcompat.widget.AppCompatEditText
+                    android:id="@+id/sales_tax"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"
+                    android:digits="0123456789."
+                    android:fontFamily="@font/manrope_regular"
+                    android:inputType="numberDecimal"
+                    android:paddingStart="8dp"
+                    android:paddingTop="8dp"
+                    android:paddingEnd="24dp"
+                    android:paddingBottom="4dp"
+                    android:privateImeOptions="nm"
+                    android:singleLine="true"
+                    android:textColor="@color/black"
+                    android:textColorHint="@color/black"
+                    android:textSize="@dimen/rco_trucks_small_text_size" />
+
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/manrope_bold"
+                android:text="*"
+                android:textColor="@color/red"
+                app:layout_constraintBottom_toTopOf="@+id/clearFuelTypeIcon"
+                app:layout_constraintEnd_toEndOf="@+id/fuelTypeLayout"
+                app:layout_constraintStart_toStartOf="@+id/clearFuelTypeIcon" />
+
+
+            <ImageView
+                android:id="@+id/clearFuelTypeIcon"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="4dp"
+                android:src="@drawable/ic_baseline_close_24"
+                app:layout_constraintBottom_toBottomOf="@+id/fuelTypeLayout"
+                app:layout_constraintEnd_toEndOf="@+id/fuelTypeLayout"
+                app:layout_constraintTop_toTopOf="@+id/fuelTypeIcon"
+                app:tint="@color/black" />
+
+            <TextView
+                android:id="@+id/fuelCodeTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="32dp"
+                android:background="@null"
+                android:fontFamily="@font/manrope_bold"
+                android:hint="@string/fuel_code"
+                android:paddingStart="8dp"
+                android:paddingTop="16dp"
+                android:paddingEnd="24dp"
+                android:paddingBottom="4dp"
+                android:privateImeOptions="nm"
+                android:singleLine="true"
+                android:textColor="@color/black"
+                android:textColorHint="@color/black"
+                android:textSize="@dimen/rco_trucks_small_text_size"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="@+id/vehicleLicenseNumberLayout"
+                app:layout_constraintTop_toBottomOf="@+id/vehicleLicenseNumberLayout" />
+
+            <ImageView
+                android:id="@+id/fuelCodeInfoIcon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="24dp"
+                android:src="@drawable/ic_baseline_merge_type_24"
+                app:layout_constraintBottom_toBottomOf="@+id/fuelCodeInfoLayout"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/fuelCodeInfoLayout"
+                app:tint="@color/black" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/fuelCodeInfoLayout"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginEnd="24dp"
+                android:textColorHint="@color/black"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/fuelCodeInfoIcon"
+                app:layout_constraintTop_toBottomOf="@+id/fuelCodeTitle">
+
+                <!--            <androidx.appcompat.widget.AppCompatEditText-->
+                <!--                android:id="@+id/fuelCodeInfo"-->
+                <!--                android:layout_width="match_parent"-->
+                <!--                android:layout_height="wrap_content"-->
+                <!--                android:background="@null"-->
+                <!--                android:fontFamily="@font/manrope_regular"-->
+                <!--                android:hint="@string/fuel_code"-->
+                <!--                android:paddingStart="8dp"-->
+                <!--                android:paddingTop="8dp"-->
+                <!--                android:paddingEnd="24dp"-->
+                <!--                android:paddingBottom="4dp"-->
+                <!--                android:privateImeOptions="nm"-->
+                <!--                android:singleLine="true"-->
+                <!--                android:textColor="@color/black"-->
+                <!--                android:textColorHint="@color/black"-->
+                <!--                android:textSize="@dimen/rco_trucks_small_text_size" />-->
+
+                <com.toptoche.searchablespinnerlibrary.SearchableSpinner
+                    android:id="@+id/fuelCodeSpinner"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:backgroundTint="@color/black"
+                    android:drawSelectorOnTop="true"
+                    android:dropDownSelector="@color/black"
+                    android:entries="@array/fuel_types_update"
+                    android:singleLine="true"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/rco_trucks_small_text_size"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+
+            <ImageView
+                android:id="@+id/clearShippingInfoIcon"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="4dp"
+                android:src="@drawable/ic_baseline_close_24"
+                android:visibility="gone"
+                app:layout_constraintBottom_toBottomOf="@+id/fuelCodeInfoLayout"
+                app:layout_constraintEnd_toEndOf="@+id/fuelCodeInfoLayout"
+                app:layout_constraintTop_toTopOf="@+id/fuelCodeInfoIcon"
+                app:tint="@color/black" />
+
+
+            <View
+                android:id="@+id/fuelCodeInfoUnderlineView"
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_marginStart="8dp"
+                android:background="@color/grayShadeOne"
+                app:layout_constraintEnd_toEndOf="@+id/fuelCodeInfoLayout"
+                app:layout_constraintStart_toStartOf="@+id/fuelCodeInfoLayout"
+                app:layout_constraintTop_toBottomOf="@+id/fuelCodeInfoLayout" />
+
+
+            <TextView
+                android:id="@+id/stopTruckTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="32dp"
+                android:background="@null"
+                android:fontFamily="@font/manrope_bold"
+                android:hint="@string/truck_stop"
+                android:paddingStart="8dp"
+                android:paddingTop="16dp"
+                android:paddingEnd="24dp"
+                android:paddingBottom="4dp"
+                android:privateImeOptions="nm"
+                android:singleLine="true"
+                android:textColor="@color/black"
+                android:textColorHint="@color/black"
+                android:textSize="@dimen/rco_trucks_small_text_size"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="@+id/vehicleLicenseNumberLayout"
+                app:layout_constraintTop_toBottomOf="@+id/fuelTypeLayout" />
+
+
+            <ImageView
+                android:id="@+id/truckStopIcon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="24dp"
+                android:src="@drawable/ic_baseline_stop_24"
+                app:layout_constraintBottom_toBottomOf="@+id/truckStopLayout"
+                app:layout_constraintStart_toStartOf="parent"
+                app:tint="@color/black" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/truckStopLayout"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginEnd="24dp"
+                android:textColorHint="@color/black"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/truckStopIcon"
+                app:layout_constraintTop_toBottomOf="@+id/stopTruckTitle">
+
+                <com.toptoche.searchablespinnerlibrary.SearchableSpinner
+                    android:id="@+id/truckStopSpinner"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:backgroundTint="@color/black"
+                    android:drawSelectorOnTop="true"
+                    android:dropDownSelector="@color/black"
+                    android:entries="@array/truck_stops_list"
+                    android:singleLine="true"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/rco_trucks_small_text_size" />
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+
+            <ImageView
+                android:id="@+id/clearTruckNumberIcon"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="4dp"
+                android:src="@drawable/ic_baseline_close_24"
+                android:visibility="gone"
+                app:layout_constraintBottom_toBottomOf="@+id/truckStopLayout"
+                app:layout_constraintEnd_toEndOf="@+id/truckStopLayout"
+                app:layout_constraintTop_toTopOf="@+id/truckStopIcon"
+                app:tint="@color/black" />
+
+
+            <View
+                android:id="@+id/vendorNameUnderlineView"
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="8dp"
+                android:background="@color/grayShadeOne"
+                app:layout_constraintEnd_toEndOf="@+id/truckStopLayout"
+                app:layout_constraintStart_toStartOf="@+id/truckStopLayout"
+                app:layout_constraintTop_toBottomOf="@+id/truckStopLayout" />
+
+
+            <TextView
+                android:id="@+id/vendorStateTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="32dp"
+                android:background="@null"
+                android:fontFamily="@font/manrope_bold"
+                android:hint="@string/state_in_cap"
+                android:paddingStart="8dp"
+                android:paddingTop="16dp"
+                android:paddingEnd="24dp"
+                android:paddingBottom="4dp"
+                android:singleLine="true"
+                android:textColor="@color/black"
+                android:textColorHint="@color/black"
+                android:textSize="@dimen/rco_trucks_small_text_size"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="@+id/vehicleLicenseNumberLayout"
+                app:layout_constraintTop_toBottomOf="@+id/vendorNameUnderlineView" />
+
+
+            <ImageView
+                android:id="@+id/vehicleLicenseNumberIcon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="24dp"
+                android:src="@drawable/ic_baseline_place_24"
+                app:layout_constraintBottom_toBottomOf="@+id/vehicleLicenseNumberLayout"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/vehicleLicenseNumberLayout"
+                app:tint="@color/black" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/vehicleLicenseNumberLayout"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_marginEnd="24dp"
+                android:textColorHint="@color/black"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/truckStopIcon"
+                app:layout_constraintTop_toBottomOf="@+id/vendorStateTitle">
+
+                <com.toptoche.searchablespinnerlibrary.SearchableSpinner
+                    android:id="@+id/stateSpinner"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:backgroundTint="@color/black"
+                    android:drawSelectorOnTop="true"
+                    android:dropDownSelector="@color/black"
+                    android:entries="@array/states_provinces"
+                    android:singleLine="true"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/rco_trucks_small_text_size"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <View
+                android:id="@+id/vehicleLicenseNumberUnderlineView"
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_marginStart="8dp"
+                android:background="@color/grayShadeOne"
+                app:layout_constraintEnd_toEndOf="@+id/vehicleLicenseNumberLayout"
+                app:layout_constraintStart_toStartOf="@+id/vehicleLicenseNumberLayout"
+                app:layout_constraintTop_toBottomOf="@+id/vehicleLicenseNumberLayout" />
+
+            <TextView
+                android:id="@+id/odometerTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="32dp"
+                android:background="@null"
+                android:fontFamily="@font/manrope_bold"
+                android:paddingStart="8dp"
+                android:paddingTop="16dp"
+                android:paddingEnd="24dp"
+                android:paddingBottom="4dp"
+                android:privateImeOptions="nm"
+                android:singleLine="true"
+                android:text="@string/odometer"
+                android:textColor="@color/black"
+                android:textColorHint="@color/black"
+                android:textSize="@dimen/rco_trucks_small_text_size"
+                app:layout_constraintBottom_toTopOf="@+id/odometerLayout"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="@+id/fuelCodeInfoLayout" />
+
+            <ImageView
+                android:id="@+id/odometerIcon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="24dp"
+                android:src="@drawable/ic_baseline_add_road_24"
+                app:layout_constraintBottom_toBottomOf="@+id/odometerLayout"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/odometerLayout"
+                app:tint="@color/black" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/odometerLayout"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="32dp"
+                android:layout_marginEnd="24dp"
+                android:layout_marginBottom="100dp"
+                android:textColorHint="@color/black"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/odometerIcon"
+                app:layout_constraintTop_toBottomOf="@+id/fuelCodeInfoUnderlineView">
+
+                <androidx.appcompat.widget.AppCompatEditText
+                    android:id="@+id/odometer"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/_8sdp"
+                    android:background="@color/white"
+                    android:fontFamily="@font/manrope_regular"
+                    android:inputType="number"
+                    android:paddingStart="8dp"
+                    android:paddingTop="8dp"
+                    android:paddingEnd="24dp"
+                    android:paddingBottom="4dp"
+                    android:privateImeOptions="nm"
+                    android:singleLine="true"
+                    android:textColor="@color/black"
+                    android:textColorHint="@color/black"
+                    android:textSize="@dimen/rco_trucks_small_text_size">
+
+                </androidx.appcompat.widget.AppCompatEditText>
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+
+            <Button
+                android:id="@+id/save"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="64dp"
+                android:layout_marginEnd="64dp"
+                android:layout_marginBottom="32dp"
+                android:background="@drawable/black_curved_background"
+                android:fontFamily="@font/manrope_bold"
+                android:text="@string/save"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:textSize="@dimen/rco_trucks_medium_text_size"
+                android:visibility="gone"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/calendarLayout"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="#1b1b1b"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <CalendarView
+            android:id="@+id/calendarView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:dateTextAppearance="@style/CalenderViewDateCustomText"
+            android:theme="@style/CalenderViewCustom"
+            android:weekDayTextAppearance="@style/CalenderViewWeekCustomText"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/textViewLbl"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="@color/light_grey_and_dark_grey"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:paddingLeft="16dp"
+        android:text="header"
+        android:textColor="@color/black_and_white"
+        android:textSize="@dimen/rco_trucks_normal_text_size"
+        android:fontFamily="@font/manrope_bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textViewFldOne"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="16dp"
+        android:fontFamily="@font/manrope_regular"
+        android:text="Field Value"
+        android:textColor="@color/black_and_white"
+        android:textSize="@dimen/rco_trucks_medium_text_size"
+        app:layout_constraintEnd_toStartOf="@+id/textViewFldTwo"
+        app:layout_constraintStart_toStartOf="@+id/textViewLbl"
+        app:layout_constraintTop_toBottomOf="@+id/textViewLbl" />
+
+    <TextView
+        android:id="@+id/textViewFldTwo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="8dp"
+        android:fontFamily="@font/manrope_regular"
+        android:text="Name"
+        android:textColor="@color/black_and_white"
+        android:textSize="@dimen/rco_trucks_medium_text_size"
+        app:layout_constraintEnd_toStartOf="@+id/textViewIcon"
+        app:layout_constraintTop_toBottomOf="@+id/textViewLbl" />
+
+    <TextView
+        android:visibility="gone"
+        android:id="@+id/textViewFldThree"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginBottom="8dp"
+        android:fontFamily="@font/manrope_regular"
+        android:text=""
+        android:textColor="@color/black"
+        android:textSize="@dimen/rco_trucks_medium_text_size"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/textViewLbl"
+        app:layout_constraintTop_toBottomOf="@+id/textViewFldOne" />
+
+    <TextView
+        android:id="@+id/textViewIcon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
+        android:text=">"
+        android:textColor="@color/black_and_white"
+        android:textStyle="bold"
+        android:visibility="visible"
+        android:textSize="@dimen/rco_trucks_large_text_size"
+        android:fontFamily="@font/manrope_regular"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/textViewLbl" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

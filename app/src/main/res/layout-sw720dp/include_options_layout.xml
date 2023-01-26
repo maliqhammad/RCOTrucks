@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/optionsLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/transparent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:visibility="gone">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/innerOptionsLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginBottom="8dp"
+        android:background="@drawable/white_curved_background_dark_mode"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:visibility="visible"
+        app:layout_constraintBottom_toTopOf="@+id/cancel"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <TextView
+            android:id="@+id/optionsTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:fontFamily="@font/manrope_bold"
+            android:gravity="center"
+            android:padding="@dimen/_3sdp"
+            android:text="@string/options"
+            android:textColor="@color/dark_mode_default_color_title"
+            android:textSize="@dimen/rco_trucks_small_text_size"
+            app:layout_constraintBottom_toTopOf="@+id/unidentifiedProfile"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <View
+            android:id="@+id/view9"
+            android:layout_width="0dp"
+            android:layout_height="1dp"
+            android:background="@color/grayShadeSix"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/optionsTitle" />
+
+        <TextView
+            android:id="@+id/unidentifiedProfile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="200dp"
+            android:layout_marginEnd="200dp"
+            android:fontFamily="@font/sf_ui_display_medium"
+            android:gravity="center"
+            android:padding="@dimen/_3sdp"
+            android:text="@string/unidentified_profile"
+            android:textColor="@color/blue_one_and_white"
+            android:textSize="@dimen/rco_trucks_small_text_size"
+            app:layout_constraintBottom_toTopOf="@+id/transferRODS"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1dp"
+            android:background="@color/grayShadeSix"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/unidentifiedProfile" />
+
+        <TextView
+            android:id="@+id/transferRODS"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/sf_ui_display_medium"
+            android:gravity="center"
+            android:padding="@dimen/_3sdp"
+            android:text="@string/transfer_RODS"
+            android:textColor="@color/blue_one_and_white"
+            android:textSize="@dimen/rco_trucks_small_text_size"
+            app:layout_constraintBottom_toTopOf="@+id/email"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1dp"
+            android:background="@color/grayShadeSix"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/transferRODS" />
+
+
+        <TextView
+            android:id="@+id/email"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/sf_ui_display_medium"
+            android:gravity="center"
+            android:padding="@dimen/_3sdp"
+            android:text="@string/email"
+            android:textColor="@color/blue_one_and_white"
+            android:textSize="@dimen/rco_trucks_small_text_size"
+            app:layout_constraintBottom_toTopOf="@+id/print"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1dp"
+            android:background="@color/grayShadeSix"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/email" />
+
+
+        <TextView
+            android:id="@+id/print"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/sf_ui_display_medium"
+            android:gravity="center"
+            android:padding="@dimen/_3sdp"
+            android:text="@string/print"
+            android:textColor="@color/blue_one_and_white"
+            android:textSize="@dimen/rco_trucks_small_text_size"
+            app:layout_constraintBottom_toTopOf="@+id/dutyAndELDEvents"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1dp"
+            android:background="@color/grayShadeSix"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/print" />
+
+        <TextView
+            android:id="@+id/dutyAndELDEvents"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/sf_ui_display_medium"
+            android:gravity="center"
+            android:padding="@dimen/_3sdp"
+            android:text="@string/duty_and_eld_events"
+            android:textColor="@color/blue_one_and_white"
+            android:textSize="@dimen/rco_trucks_small_text_size"
+            app:layout_constraintBottom_toTopOf="@+id/certifiedELDs"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1dp"
+            android:background="@color/grayShadeSix"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/dutyAndELDEvents" />
+
+        <TextView
+            android:id="@+id/certifiedELDs"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/sf_ui_display_medium"
+            android:gravity="center"
+            android:padding="@dimen/_3sdp"
+            android:text="@string/certified_elds"
+            android:textColor="@color/blue_one_and_white"
+            android:textSize="@dimen/rco_trucks_small_text_size"
+            app:layout_constraintBottom_toTopOf="@+id/eldEdit"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1dp"
+            android:background="@color/grayShadeSix"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/certifiedELDs" />
+
+        <TextView
+            android:id="@+id/eldEdit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/sf_ui_display_medium"
+            android:gravity="center"
+            android:padding="@dimen/_3sdp"
+            android:text="@string/eld_edit"
+            android:textColor="@color/blue_one_and_white"
+            android:textSize="@dimen/rco_trucks_small_text_size"
+            app:layout_constraintBottom_toTopOf="@+id/eLDMonitorService"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1dp"
+            android:background="@color/grayShadeSix"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/eldEdit" />
+
+        <TextView
+            android:id="@+id/eLDMonitorService"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/sf_ui_display_medium"
+            android:gravity="center"
+            android:padding="@dimen/_3sdp"
+            android:text="@string/eld_monitor_service"
+            android:textColor="@color/blue_one_and_white"
+            android:textSize="@dimen/rco_trucks_small_text_size"
+            app:layout_constraintBottom_toTopOf="@+id/hideViolations"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1dp"
+            android:background="@color/grayShadeSix"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/eLDMonitorService" />
+
+        <TextView
+            android:id="@+id/hideViolations"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/sf_ui_display_medium"
+            android:gravity="center"
+            android:padding="@dimen/_3sdp"
+            android:text="@string/hide_violations"
+            android:textColor="@color/blue_one_and_white"
+            android:textSize="@dimen/rco_trucks_small_text_size"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    <TextView
+        android:id="@+id/cancel"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/white_curved_background"
+        android:fontFamily="@font/manrope_bold"
+        android:gravity="center"
+        android:padding="@dimen/_3sdp"
+        android:text="@string/cancel"
+        android:textColor="@color/red"
+        android:textSize="@dimen/rco_trucks_small_text_size"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/innerOptionsLayout"
+        app:layout_constraintStart_toStartOf="@+id/innerOptionsLayout" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

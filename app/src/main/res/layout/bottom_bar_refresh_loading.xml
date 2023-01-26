@@ -1,0 +1,86 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/bottom_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/black"
+        android:weightSum="3">
+
+        <TextView
+            android:id="@+id/filter_btn_bottom_bar"
+            android:layout_width="@dimen/_45sdp"
+            android:layout_height="@dimen/_28sdp"
+            android:layout_weight="1"
+            android:fontFamily="@font/manrope_bold"
+            android:paddingLeft="@dimen/_16sdp"
+            android:paddingTop="@dimen/_4sdp"
+            android:paddingRight="@dimen/_16sdp"
+            android:scaleType="fitXY"
+            android:text="Filter"
+            android:textColor="@color/white"
+            android:textSize="@dimen/rco_trucks_medium_text_size"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:tint="@color/white" />
+
+        <TextView
+            android:id="@+id/email_pretrip"
+            android:layout_width="@dimen/_45sdp"
+            android:layout_height="@dimen/_28sdp"
+            android:layout_weight="1"
+            android:fontFamily="@font/manrope_bold"
+            android:paddingLeft="@dimen/_16sdp"
+            android:paddingTop="@dimen/_4sdp"
+            android:paddingRight="@dimen/_16sdp"
+            android:scaleType="fitXY"
+            android:text="Email"
+            android:textColor="@color/white"
+            android:textSize="@dimen/rco_trucks_medium_text_size"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:tint="@color/white" />
+
+
+        <TextView
+            android:id="@+id/delete_btn_bottom_bar"
+            android:layout_width="@dimen/_45sdp"
+            android:layout_height="@dimen/_28sdp"
+            android:layout_weight="1"
+            android:fontFamily="@font/manrope_bold"
+            android:gravity="right"
+            android:paddingLeft="@dimen/_16sdp"
+            android:paddingTop="@dimen/_4sdp"
+            android:paddingRight="@dimen/_16sdp"
+            android:text="Delete"
+            android:textColor="@color/white"
+            android:textSize="@dimen/rco_trucks_medium_text_size"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:tint="@color/white" />
+
+        <ImageView
+            android:id="@+id/refresh_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_2sdp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="@dimen/_2sdp"
+            android:layout_weight="1"
+            android:src="@drawable/ic_baseline_refresh_24"
+            android:visibility="gone"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:tint="@color/white" />
+
+    </LinearLayout>
+
+</RelativeLayout>

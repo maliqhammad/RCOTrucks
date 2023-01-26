@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/bottom_bar"
+    android:background="@color/side_panel_background_color"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="5"
+        android:background="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/btn_share"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            app:tint="@color/side_panel_text_color_grey"
+            app:srcCompat="@drawable/ic_baseline_format_list_bulleted_24" />
+
+        <View
+            android:layout_width="1.5dp"
+            android:layout_height="match_parent"
+            android:layout_marginStart="1dp"
+            android:background="@color/side_panel_remaining_progress_color" />
+
+
+<!--        <View-->
+<!--            android:layout_width="1.5dp"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:layout_marginStart="1dp"-->
+<!--            android:background="@color/side_panel_heading_background_color" />-->
+
+
+        <TextView
+            android:id="@+id/btn_work"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/selected_button"
+            android:fontFamily="@font/conduit_itc_medium"
+            android:gravity="center"
+            android:paddingTop="@dimen/_6sdp"
+            android:paddingBottom="@dimen/_6sdp"
+            android:text="@string/work"
+            android:textColor="@color/side_panel_text_color_grey"
+            android:textSize="@dimen/rco_trucks_normal_text_size" />
+
+
+        <View
+            android:layout_width="1.5dp"
+            android:layout_height="match_parent"
+            android:layout_marginStart="1dp"
+            android:background="@color/side_panel_remaining_progress_color" />
+
+
+<!--        <View-->
+<!--            android:layout_width="1.5dp"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:layout_marginStart="1dp"-->
+<!--            android:background="@color/side_panel_heading_background_color" />-->
+
+
+        <TextView
+            android:id="@+id/btn_status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/selected_button"
+            android:button="@null"
+            android:fontFamily="@font/conduit_itc_medium"
+            android:gravity="center"
+            android:paddingTop="@dimen/_6sdp"
+            android:paddingBottom="@dimen/_6sdp"
+            android:text="@string/status"
+            android:textColor="@color/side_panel_text_color_grey"
+            android:textSize="@dimen/rco_trucks_normal_text_size" />
+
+        <View
+            android:layout_width="1.5dp"
+            android:layout_height="match_parent"
+            android:layout_marginStart="1dp"
+            android:background="@color/side_panel_remaining_progress_color" />
+
+
+<!--        <View-->
+<!--            android:layout_width="1.5dp"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:layout_marginStart="1dp"-->
+<!--            android:background="@color/side_panel_heading_background_color" />-->
+
+        <TextView
+            android:id="@+id/drop"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/selected_button"
+            android:button="@null"
+            android:fontFamily="@font/conduit_itc_medium"
+            android:gravity="center"
+            android:paddingTop="@dimen/_6sdp"
+            android:paddingBottom="@dimen/_6sdp"
+            android:text="@string/drop"
+            android:textColor="@color/side_panel_text_color_grey"
+            android:textSize="@dimen/rco_trucks_normal_text_size" />
+
+        <View
+            android:layout_width="1.5dp"
+            android:layout_height="match_parent"
+            android:layout_marginStart="1dp"
+            android:background="@color/side_panel_remaining_progress_color" />
+
+
+<!--        <View-->
+<!--            android:layout_width="1.5dp"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:layout_marginStart="1dp"-->
+<!--            android:background="@color/side_panel_heading_background_color" />-->
+
+        <TextView
+            android:id="@+id/pickup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/selected_button"
+            android:button="@null"
+            android:fontFamily="@font/conduit_itc_medium"
+            android:gravity="center"
+            android:paddingTop="@dimen/_6sdp"
+            android:paddingBottom="@dimen/_6sdp"
+            android:text="@string/pickup"
+            android:textColor="@color/side_panel_text_color_grey"
+            android:textSize="@dimen/rco_trucks_normal_text_size" />
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

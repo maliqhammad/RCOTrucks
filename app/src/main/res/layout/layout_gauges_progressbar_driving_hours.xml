@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/black">
+
+    <TextView
+        android:id="@+id/gauges_barname_driving_hours"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="3dp"
+        android:fontFamily="@font/manrope_bold"
+        android:gravity="center"
+        android:text="Driving: "
+        android:textColor="@color/white"
+        android:textSize="@dimen/rco_trucks_small_text_size"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/gauges_barvalue_driving_hours"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_toRightOf="@id/gauges_barname_driving_hours"
+        android:fontFamily="@font/manrope_bold"
+        android:gravity="center"
+        android:paddingLeft="5dp"
+        android:text="0.0 hrs"
+        android:textColor="@color/white"
+        android:textSize="@dimen/rco_trucks_small_text_size"
+        app:layout_constraintStart_toEndOf="@+id/gauges_barname_driving_hours"
+        app:layout_constraintTop_toTopOf="@+id/gauges_barname_driving_hours" />
+
+    <TextView
+        android:id="@+id/gauges_barhours_driving_hours"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/gauges_barname_driving_hours"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="2dp"
+        android:fontFamily="@font/manrope_bold"
+        android:gravity="center"
+        android:text="0 hrs"
+        android:textColor="@color/blue2"
+        android:textSize="@dimen/rco_trucks_small_text_size"
+        app:layout_constraintBottom_toBottomOf="@+id/frameLayout_driving_hours"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/frameLayout_driving_hours" />
+
+    <FrameLayout
+        android:id="@+id/frameLayout_driving_hours"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/gauges_barname_driving_hours"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="16dp"
+        android:layout_toLeftOf="@id/gauges_barhours_driving_hours"
+        android:padding="1dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/gauges_barhours_driving_hours"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/gauges_barname_driving_hours">
+
+        <ProgressBar
+            android:id="@+id/gauges_barprogress_driving_hours"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="match_parent"
+            android:layout_height="7dp"
+            android:progress="0"
+            android:progressDrawable="@drawable/bg_event_progress"
+            android:progressTint="@color/blue2" />
+
+    </FrameLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

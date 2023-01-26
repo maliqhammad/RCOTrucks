@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#E1000000</color>
+    <color name="colorAccent">#E1000000</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="dark_grey">#747474</color>
+    <color name="dark_grey2">#555555</color>
+    <color name="text_secondary_light">#bbbbbb</color>
+    <color name="grey_border">#bbbbbb</color>
+    <color name="item_border">#dddddd</color>
+    <color name="white2">#f5f5f5</color>
+    <color name="blue">#8fd8f8</color>
+    <color name="blue1">#1E68D8</color>
+    <color name="blue2">#1C80CF</color>
+    <color name="blue3">#1C80CF</color>
+    <color name="blue4">#005980</color>
+    <color name="dark_blue">#003951</color>
+    <color name="gray">#BBBBBB</color>
+    <color name="grey">#CCCCCC</color>
+    <color name="light_grey">#D8D8D8</color>
+    <color name="pale_yellow">#FDF6AF</color>
+    <color name="desert_sand">#FBF0CB</color>
+    <color name="red">#B31B1B</color>
+    <color name="green">#39C352</color>
+    <color name="bg_eld_color">#AAAAAA</color>
+    <color name="bg_header_event_color">#FFFd46</color>
+    <color name="bg_green">#1f7e3c</color>
+    <color name="route_color">#00a1d9</color>
+    <color name="route_visited_color">#808080</color>
+
+    <color name="lightGrayShadeOne">#F4F4F4</color>
+    <color name="grayBorderColor">#F0F0F0</color>
+    <color name="grayShadeOne">#8E8E8E</color>
+    <color name="grayShadeTwo">#CBCBCB</color>
+    <color name="grayShadeThree">#707070</color>
+    <color name="grayShadeFour">#959595</color>
+    <color name="grayShadeFive">#D1D1D1</color>
+    <color name="grayShadeSix">#B7B7B7</color>
+    <color name="grayShadeSeven">#E9EAEB</color>
+    <color name="grayShadeEight">#E4E4E4</color>
+    <color name="grayShadeNine">#CBCBCB</color>
+    <color name="grayShadeTen">#BABABA</color>
+    <color name="grayShadeEleven">#242424</color>
+
+    <color name="receiptSelectionColor">#676767</color>
+
+    <color name="ucrop_color_toolbar">#FFFFFF</color>
+    <color name="ucrop_color_statusbar">#FFFFFF</color>
+    <color name="yellow_shade_one">#F7B600</color>
+    <color name="yellow_shade_two">#F1EC00</color>
+
+    <color name="black_and_white">#FFFFFF</color>
+    <color name="white_and_black">#000000</color>
+    <color name="grey_and_white">#FFFFFF</color>
+    <color name="grey_and_black">#000000</color>
+    <color name="grey_two_and_black">#676767</color>
+    <color name="light_grey_and_white">#FFFFFF</color>
+    <color name="light_grey_and_dark_grey">#222121</color>
+    <color name="dark_grey_and_white">#FFFFFF</color>
+<!--    <color name="light_gray_and_dark_gray">#000000</color>-->
+    <color name="blue_and_white">#FFFFFF</color>
+    <color name="blue_one_and_white">#FFFFFF</color>
+    <color name="red_and_white">#FFFFFF</color>
+    <color name="light_white_and_black">#000000</color>
+
+    <color name="transparent">#CC000000</color>
+
+    <color name="dark_mode_default_color_toggle">#0481FF</color>
+    <color name="dark_mode_default_color_background_white">#272727</color>
+    <color name="dark_mode_default_color_background_black">#272727</color>
+    <color name="dark_mode_default_color_search">#FAFAFA</color>
+    <color name="dark_mode_default_color_search_title">#FAFAFA</color>
+    <color name="dark_mode_default_color_hint">#A9A9A9</color>
+    <color name="dark_mode_default_color_title">#FAFAFA</color>
+    <color name="dark_mode_default_color_description">#999999</color>
+    <color name="dark_mode_default_color_description_dark_grey">#999999</color>
+
+    <color name="side_panel_title_color">#15F1FB</color>
+    <color name="side_panel_background_color">#2F3336</color>
+    <color name="side_panel_heading_background_color">#202328</color>
+    <color name="side_panel_active_progress_color">#16EEF8</color>
+    <color name="side_panel_remaining_progress_color">#474C50</color>
+    <color name="side_panel_heading_color">#474C50</color>
+    <color name="side_panel_text_color_whitish">#E1E2E2</color>
+    <color name="side_panel_text_color_bluish">#1C6D74</color>
+    <color name="side_panel_text_color_grey">#959697</color>
+
+    <color name="eta_time">#35EC6C</color>
+    <color name="eta_miles">#E1E2E2</color>
+
+</resources>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/map_asset_app_bar"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/background_curved_top_grey"
+    android:weightSum="4">
+
+    <TextView
+        android:id="@+id/close_map_asset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:fontFamily="@font/manrope_regular"
+        android:gravity="center"
+        android:padding="@dimen/_4sdp"
+        android:text="Close"
+        android:textColor="@color/white"
+        android:textSize="@dimen/rco_trucks_medium_text_size" />
+
+    <TextView
+        android:id="@+id/select_all_map_asset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:fontFamily="@font/manrope_regular"
+        android:gravity="center"
+        android:padding="@dimen/_4sdp"
+        android:text="Select All"
+        android:textColor="@color/white"
+        android:textSize="@dimen/rco_trucks_medium_text_size" />
+
+    <TextView
+        android:id="@+id/deselect_all_map_asset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:fontFamily="@font/manrope_regular"
+        android:gravity="center"
+        android:padding="@dimen/_4sdp"
+        android:text="Deselect All"
+        android:textColor="@color/white"
+        android:textSize="@dimen/rco_trucks_medium_text_size" />
+
+    <TextView
+        android:id="@+id/save_map_asset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:fontFamily="@font/manrope_regular"
+        android:gravity="center"
+        android:padding="@dimen/_4sdp"
+        android:text="Save"
+        android:textColor="@color/white"
+        android:textSize="@dimen/rco_trucks_medium_text_size" />
+
+
+</LinearLayout>

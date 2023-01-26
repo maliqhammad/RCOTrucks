@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/black"
+    android:paddingLeft="6dp">
+
+    <ImageView
+        android:id="@+id/iv_pilot"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:src="@drawable/ic_pilot"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/gauges_pilot"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:fontFamily="@font/manrope_bold"
+        android:text="0 mi"
+        android:textColor="@color/white"
+        android:textSize="@dimen/rco_trucks_medium_text_size"
+        app:layout_constraintBottom_toBottomOf="@+id/iv_pilot"
+        app:layout_constraintStart_toEndOf="@+id/iv_pilot"
+        app:layout_constraintTop_toTopOf="@+id/iv_pilot" />
+
+    <ImageView
+        android:id="@+id/iv_love"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:src="@drawable/ic_love_pol"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/iv_pilot" />
+
+    <TextView
+        android:id="@+id/gauges_love"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:fontFamily="@font/manrope_bold"
+        android:text="0 mi"
+        android:textColor="@color/white"
+        android:textSize="@dimen/rco_trucks_medium_text_size"
+        app:layout_constraintBottom_toBottomOf="@+id/iv_love"
+        app:layout_constraintStart_toEndOf="@+id/iv_love"
+        app:layout_constraintTop_toTopOf="@+id/iv_love" />
+
+    <ImageView
+        android:id="@+id/iv_rest"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:src="@drawable/ic_restarea"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/iv_love" />
+
+    <TextView
+        android:id="@+id/gauges_rest"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:fontFamily="@font/manrope_bold"
+        android:text="0 mi"
+        android:textColor="@color/white"
+        android:textSize="@dimen/rco_trucks_medium_text_size"
+        app:layout_constraintBottom_toBottomOf="@+id/iv_rest"
+        app:layout_constraintStart_toEndOf="@+id/iv_rest"
+        app:layout_constraintTop_toTopOf="@+id/iv_rest" />
+
+    <ImageView
+        android:id="@+id/iv_ta"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:src="@drawable/ic_ta"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/iv_rest" />
+
+    <TextView
+        android:id="@+id/gauges_ta"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:fontFamily="@font/manrope_bold"
+        android:text="0 mi"
+        android:textColor="@color/white"
+        android:textSize="@dimen/rco_trucks_medium_text_size"
+        app:layout_constraintBottom_toTopOf="@+id/iv_ta"
+        app:layout_constraintStart_toEndOf="@+id/iv_ta"
+        app:layout_constraintTop_toBottomOf="@+id/iv_ta" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

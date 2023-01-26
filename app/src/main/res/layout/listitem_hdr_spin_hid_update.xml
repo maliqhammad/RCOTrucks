@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <!--    android:background="@color/light_grey"-->
+    <!--    android:fontFamily="@font/manrope_bold"-->
+    <!--    android:paddingStart="10dp"-->
+    <!--    android:paddingTop="@dimen/_4sdp"-->
+    <!--    android:paddingBottom="@dimen/_4sdp"-->
+    <!--    android:textColor="@color/black"-->
+    <!--    android:textSize="@dimen/rco_trucks_normal_text_size"-->
+<!--    android:singleLine="true"-->
+    <TextView
+        android:id="@+id/textViewLbl"
+        android:layout_width="@dimen/_80sdp"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:fontFamily="@font/manrope_bold"
+        android:hint="@string/amount"
+        android:paddingLeft="8dp"
+        android:text="Header"
+        android:gravity="center_vertical"
+        android:textColor="@color/black"
+        android:textColorHint="@color/black"
+        android:textSize="@dimen/rco_trucks_medium_text_size"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!--    android:paddingStart="16dp"-->
+    <!--    android:paddingLeft="16dp"-->
+    <!--    android:paddingTop="8dp"-->
+    <!--    android:paddingEnd="8dp"-->
+    <!--    android:paddingRight="8dp"-->
+    <!--    android:paddingBottom="8dp"-->
+
+    <!--        android:textSize="16sp"-->
+    <EditText
+        android:id="@+id/textViewFldOne"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:fontFamily="@font/manrope_regular"
+        android:inputType="textPersonName"
+        android:paddingStart="10dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:text="Field Value"
+        android:textSize="@dimen/rco_trucks_medium_text_size"
+        android:visibility="gone"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/textViewLbl" />
+
+<!--    android:paddingStart="10dp"-->
+<!--    android:paddingLeft="16dp"-->
+    <Spinner
+        android:id="@+id/spinner1"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:fontFamily="@font/manrope_bold"
+        android:minWidth="160dp"
+
+        android:paddingTop="10dp"
+        android:paddingRight="16dp"
+        android:paddingBottom="10dp"
+        android:text="Choose"
+        android:textColor="@color/black"
+        android:textSize="@dimen/rco_trucks_medium_text_size"
+        android:gravity="left"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/imageView"
+        app:layout_constraintStart_toEndOf="@+id/textViewLbl"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textViewIcon"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="8dp"
+        android:paddingStart="10dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:text="*"
+        android:textColor="@color/red"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="8dp"
+        android:src="@drawable/ic_baseline_arrow_forward_ios_24"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
