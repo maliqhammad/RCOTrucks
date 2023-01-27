@@ -15,6 +15,7 @@ import com.rco.rcotrucks.utils.TextUtils;
 public abstract class AppBaseFragment extends Fragment {
     private ProgressDialog mProgressDialog;
 
+
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
